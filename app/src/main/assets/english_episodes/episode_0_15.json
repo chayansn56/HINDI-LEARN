@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Hotel: Checking Out",
+    "description": "Hoàn tất thủ tục trả phòng cho khách và gửi lời chúc lên đường bình an.",
+    "keyPoints": [
+      "Here is your receipt (Đây là hóa đơn của bạn)",
+      "Have a safe trip home (Chúc quý khách lên đường bình an / có một chuyến đi về nhà an toàn)"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Checking Out",
+    "title_vi": "Trả phòng",
+    "paragraphs": [
+      {
+        "hindi": "Here is your receipt.",
+        "translation": "Đây là hóa đơn của bạn."
+      },
+      {
+        "hindi": "Thank you for staying with us. Have a safe trip home!",
+        "translation": "Cảm ơn quý khách đã ở lại với chúng tôi. Chúc quý khách lên đường bình an!"
+      }
+    ],
+    "question_en": "What does the receptionist wish the guest?",
+    "question_vi": "Lễ tân chúc khách điều gì?",
+    "options": [
+      {
+        "text": "Have a safe trip home",
+        "isCorrect": true
+      },
+      {
+        "text": "Enjoy your dinner",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Friendly Checkout Phrases",
+    "explanation": "Khi tiễn khách ra về, hãy đưa hóa đơn ('receipt') và gửi lời chúc tốt đẹp: 'Have a safe trip home'.",
+    "simpleRule": "Receipt = Hóa đơn, Safe trip = Chuyến đi an toàn"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "receipt",
+    "translation": "hóa đơn",
+    "contextSentenceHindi": "Here is your receipt.",
+    "contextSentenceTranslation": "Đây là hóa đơn của bạn.",
+    "memoryTrick": "Receipt (phát âm re-seet, âm p câm) có nghĩa là biên nhận/hóa đơn thanh toán."
+  },
+  {
+    "type": "Listening",
+    "audio": "Have a safe trip home.",
+    "translation_en": "Have a safe trip home.",
+    "options_en": [
+      "Have a safe trip home.",
+      "Here is your receipt.",
+      "Check in is at two.",
+      "Welcome to our hotel."
+    ],
+    "translation_vi": "Chúc quý khách lên đường bình an.",
+    "options_vi": [
+      "Chúc quý khách lên đường bình an.",
+      "Đây là hóa đơn của bạn.",
+      "Giờ nhận phòng là hai giờ.",
+      "Chào mừng đến với khách sạn của chúng tôi."
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "Have a safe trip home",
+    "translation": "Chúc quý khách lên đường bình an"
+  }
+]

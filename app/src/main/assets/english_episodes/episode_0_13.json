@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Hotel: Checking In Guests",
+    "description": "Học cách chào đón khách và yêu cầu giấy tờ tùy thân khi làm thủ tục nhận phòng.",
+    "keyPoints": [
+      "Welcome to our hotel (Chào mừng đến với khách sạn của chúng tôi)",
+      "Can I see your passport? (Tôi có thể xem hộ chiếu của bạn không?)"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Reception Desk",
+    "title_vi": "Quầy lễ tân",
+    "paragraphs": [
+      {
+        "hindi": "Welcome to our hotel.",
+        "translation": "Chào mừng đến với khách sạn của chúng tôi."
+      },
+      {
+        "hindi": "Can I see your passport, please?",
+        "translation": "Tôi có thể xem hộ chiếu của bạn được không?"
+      }
+    ],
+    "question_en": "What document does the receptionist ask for?",
+    "question_vi": "Lễ tân yêu cầu loại giấy tờ nào?",
+    "options": [
+      {
+        "text": "Passport",
+        "isCorrect": true
+      },
+      {
+        "text": "Credit card",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Checking In Guests",
+    "explanation": "Khi khách đến, hãy dùng lời chào lịch sự 'Welcome to our hotel' và yêu cầu giấy tờ tùy thân bằng câu 'Can I see your passport?'.",
+    "simpleRule": "Welcome = Chào mừng, Passport = Hộ chiếu"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "passport",
+    "translation": "hộ chiếu",
+    "contextSentenceHindi": "Can I see your passport?",
+    "contextSentenceTranslation": "Tôi có thể xem hộ chiếu của bạn không?",
+    "memoryTrick": "Passport là thẻ thông hành qua cổng (port) của một quốc gia."
+  },
+  {
+    "type": "Listening",
+    "audio": "Welcome to our hotel.",
+    "translation_en": "Welcome to our hotel.",
+    "options_en": [
+      "Welcome to our hotel.",
+      "Can I see your passport?",
+      "Here is your key.",
+      "Have a nice stay."
+    ],
+    "translation_vi": "Chào mừng đến với khách sạn của chúng tôi.",
+    "options_vi": [
+      "Chào mừng đến với khách sạn của chúng tôi.",
+      "Tôi có thể xem hộ chiếu của bạn không?",
+      "Đây là chìa khóa của bạn.",
+      "Chúc quý khách ở lại vui vẻ."
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "Can I see your passport?",
+    "translation": "Tôi có thể xem hộ chiếu của bạn không?"
+  }
+]

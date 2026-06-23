@@ -1,0 +1,76 @@
+[
+  {
+    "type": "Introduction",
+    "title": "IT Standup Meetings",
+    "description": "Học các cụm từ phổ biến trong buổi họp giao ban hàng ngày (Daily standup) của dự án phần mềm.",
+    "keyPoints": [
+      "Daily standup (Họp giao ban hàng ngày)",
+      "In progress (Đang tiến hành)",
+      "Blockers (Điểm nghẽn/vấn đề cản trở)"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "The Daily Standup",
+    "title_vi": "Họp giao ban hàng ngày",
+    "paragraphs": [
+      {
+        "hindi": "Welcome to our daily standup.",
+        "translation": "Chào mừng đến với buổi họp giao ban hàng ngày của chúng ta."
+      },
+      {
+        "hindi": "My task is in progress and I have no blockers.",
+        "translation": "Nhiệm vụ của tôi đang được tiến hành và tôi không gặp khó khăn cản trở nào."
+      }
+    ],
+    "question_en": "What does 'in progress' mean?",
+    "question_vi": "Cụm từ 'in progress' có nghĩa là gì?",
+    "options": [
+      {
+        "text": "Đang tiến hành",
+        "isCorrect": true
+      },
+      {
+        "text": "Đã hoàn thành",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Standup Terminology",
+    "explanation": "Trong các dự án Agile/Scrum, 'daily standup' là cuộc họp ngắn hàng ngày. Bạn sẽ báo cáo công việc 'in progress' (đang làm) và nêu các 'blockers' (vướng mắc) nếu có.",
+    "simpleRule": "Daily standup = Họp giao ban, In progress = Đang làm, Blockers = Điểm nghẽn"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "blockers",
+    "translation": "điểm nghẽn/vấn đề cản trở",
+    "contextSentenceHindi": "Do you have any blockers?",
+    "contextSentenceTranslation": "Bạn có gặp khó khăn cản trở nào không?",
+    "memoryTrick": "Blocker là thứ chặn đường (block) công việc của bạn."
+  },
+  {
+    "type": "Listening",
+    "audio": "My task is in progress.",
+    "translation_en": "My task is in progress.",
+    "options_en": [
+      "My task is in progress.",
+      "I have some blockers.",
+      "The meeting is starting.",
+      "I finished my work."
+    ],
+    "translation_vi": "Nhiệm vụ của tôi đang được tiến hành.",
+    "options_vi": [
+      "Nhiệm vụ của tôi đang được tiến hành.",
+      "Tôi gặp một số cản trở.",
+      "Cuộc họp đang bắt đầu.",
+      "Tôi đã hoàn thành công việc."
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "I have no blockers",
+    "translation": "Tôi không có điểm nghẽn/khó khăn nào"
+  }
+]

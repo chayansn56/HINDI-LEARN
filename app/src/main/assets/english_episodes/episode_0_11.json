@@ -1,0 +1,77 @@
+[
+  {
+    "type": "Introduction",
+    "title": "IT Basics: Repository and Code Reviews",
+    "description": "Tìm hiểu các thuật ngữ cơ bản về quản lý mã nguồn trong công nghệ thông tin.",
+    "keyPoints": [
+      "Repository (Kho chứa mã)",
+      "Pull request (Yêu cầu kéo/sát nhập code)",
+      "Code review (Đánh giá mã nguồn)",
+      "Merge (Hợp nhất)"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Managing Code",
+    "title_vi": "Quản lý mã nguồn",
+    "paragraphs": [
+      {
+        "hindi": "Please create a pull request for the repository.",
+        "translation": "Vui lòng tạo một yêu cầu kéo code cho kho chứa mã."
+      },
+      {
+        "hindi": "Let's do a code review before we merge.",
+        "translation": "Hãy tiến hành đánh giá mã nguồn trước khi chúng ta hợp nhất."
+      }
+    ],
+    "question_en": "What should you do before merging the code?",
+    "question_vi": "Bạn nên làm gì trước khi hợp nhất mã nguồn?",
+    "options": [
+      {
+        "text": "Code review",
+        "isCorrect": true
+      },
+      {
+        "text": "Delete repository",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Git Workflow Terms",
+    "explanation": "Trong lập trình, 'repository' là kho lưu trữ. Khi hoàn thành code, bạn tạo một 'pull request' để đồng nghiệp 'code review' trước khi 'merge' vào nhánh chính.",
+    "simpleRule": "Repository = Kho chứa, Pull request = Yêu cầu kéo code, Code review = Đánh giá mã, Merge = Hợp nhất"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "pull request",
+    "translation": "yêu cầu kéo code",
+    "contextSentenceHindi": "Please submit a pull request.",
+    "contextSentenceTranslation": "Vui lòng gửi một yêu cầu kéo code.",
+    "memoryTrick": "Pull request = Yêu cầu kéo/sát nhập code vào kho chung."
+  },
+  {
+    "type": "Listening",
+    "audio": "Please do a code review.",
+    "translation_en": "Please do a code review.",
+    "options_en": [
+      "Please do a code review.",
+      "Create a repository.",
+      "Merge the branch.",
+      "Delete the code."
+    ],
+    "translation_vi": "Vui lòng đánh giá mã nguồn.",
+    "options_vi": [
+      "Vui lòng đánh giá mã nguồn.",
+      "Tạo một kho chứa mã.",
+      "Hợp nhất nhánh.",
+      "Xóa mã nguồn."
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "Merge the code",
+    "translation": "Hợp nhất mã nguồn"
+  }
+]

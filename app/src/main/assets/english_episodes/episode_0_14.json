@@ -1,0 +1,77 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Hotel: Wi-Fi and Facilities",
+    "description": "Cung cấp thông tin về mạng Wi-Fi và các tiện ích như thang máy hoặc các tầng trong khách sạn.",
+    "keyPoints": [
+      "Wi-Fi password (Mật khẩu Wi-Fi)",
+      "Top floor (Tầng thượng / Tầng trên cùng)",
+      "Elevator (Thang máy)"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Finding the Room",
+    "title_vi": "Tìm phòng",
+    "paragraphs": [
+      {
+        "hindi": "Here is the Wi-Fi password.",
+        "translation": "Đây là mật khẩu Wi-Fi."
+      },
+      {
+        "hindi": "Your room is on the top floor. Please use the elevator.",
+        "translation": "Phòng của bạn ở tầng trên cùng. Vui lòng sử dụng thang máy."
+      }
+    ],
+    "question_en": "Where is the room located?",
+    "question_vi": "Phòng nằm ở đâu?",
+    "options": [
+      {
+        "text": "Top floor",
+        "isCorrect": true
+      },
+      {
+        "text": "Ground floor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Giving Directions",
+    "explanation": "Khách thường hỏi về kết nối Internet ('Wi-Fi password') và vị trí phòng. Hãy chỉ dẫn họ dùng thang máy ('elevator') để lên tầng cao nhất ('top floor').",
+    "simpleRule": "Elevator = Thang máy, Top floor = Tầng thượng / Tầng trên cùng"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "elevator",
+    "translation": "thang máy",
+    "contextSentenceHindi": "Please use the elevator.",
+    "contextSentenceTranslation": "Vui lòng sử dụng thang máy.",
+    "memoryTrick": "Elevator nâng bạn lên (elevate)."
+  },
+  {
+    "type": "Listening",
+    "audio": "Here is the Wi-Fi password.",
+    "translation_en": "Here is the Wi-Fi password.",
+    "options_en": [
+      "Here is the Wi-Fi password.",
+      "Use the elevator.",
+      "The room is on the top floor.",
+      "Where is the lobby?"
+    ],
+    "translation_vi": "Đây là mật khẩu Wi-Fi."
+    ,
+    "options_vi": [
+      "Đây là mật khẩu Wi-Fi.",
+      "Sử dụng thang máy.",
+      "Phòng ở tầng trên cùng.",
+      "Sảnh đợi ở đâu?"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "The room is on the top floor",
+    "translation": "Phòng nằm ở tầng trên cùng"
+  }
+]
