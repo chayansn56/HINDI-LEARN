@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Thirsty in Delhi",
+    "description": "It gets hot in India. You need to learn how to ask for water.",
+    "keyPoints": [
+      "पानी (Paani) = Water",
+      "चाय (Chai) = Tea"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "The Chai Stall",
+    "title_vi": "Quán trà",
+    "paragraphs": [
+      {
+        "hindi": "You are walking through the streets of Old Delhi. It is very hot.",
+        "translation": "You are walking through the streets of Old Delhi. It is very hot."
+      },
+      {
+        "hindi": "You see a small stall. The man asks you what you want.",
+        "translation": "You see a small stall. The man asks you what you want."
+      },
+      {
+        "hindi": "मुझे पानी चाहिए। (Mujhe paani chahiye.)",
+        "translation": "I want water."
+      }
+    ],
+    "question_en": "What did you ask for?",
+    "question_vi": "Bạn đã xin gì?",
+    "options": [
+      {
+        "text": "Water",
+        "isCorrect": true
+      },
+      {
+        "text": "Food",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "I Want...",
+    "explanation": "To say 'I want [something]', you say 'Mujhe [something] chahiye'.",
+    "simpleRule": "मुझे _____ चाहिए।"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want water.",
+    "hindiWords": ["मुझे", "पानी", "चाहिए।"],
+    "correctOrder": ["मुझे", "पानी", "चाहिए।"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "चाय",
+    "translation": "Tea",
+    "contextSentenceHindi": "मुझे चाय चाहिए।",
+    "contextSentenceTranslation": "I want tea.",
+    "memoryTrick": "Chai tea is just 'tea tea'!"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want tea.",
+    "hindiWords": ["मुझे", "चाय", "चाहिए।"],
+    "correctOrder": ["मुझे", "चाय", "चाहिए।"]
+  }
+]

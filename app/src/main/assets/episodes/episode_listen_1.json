@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Listen - Lesson 1",
+    "description": "Learn key vocabulary and concepts for Listen - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "पेट (pet) = Stomach / Bụng",
+      "देखना​​​​​​​​​​​​​ (dekhnā) = To see / watch / Nhìn / Xem",
+      "देखना​​​​​​​​​​​​ (dekhnā) = To see / watch / Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 1",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: पेट means 'Stomach' (Bụng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेट",
+    "transliteration": "pet",
+    "english": "Stomach",
+    "vietnamese": "Bụng",
+    "audio": "पेट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​​​​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पेट'",
+    "prompt_en": "Choose the correct translation for 'पेट'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पेट'",
+    "text": "पेट",
+    "subtext": "pet",
+    "answer": "Stomach",
+    "answer_vi": "Bụng",
+    "options": [
+      "To see / watch",
+      "Stomach",
+      "To see / watch",
+      "Hand"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Bụng",
+      "Nhìn / Xem",
+      "Bàn tay"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​​​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हाथ",
+    "transliteration": "haath",
+    "english": "Hand",
+    "vietnamese": "Bàn tay",
+    "audio": "हाथ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पेट",
+        "english": "Stomach (Bụng)"
+      },
+      {
+        "hindi": "देखना​​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "देखना​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "हाथ",
+        "english": "Hand (Bàn tay)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "देखना​​​​​​​​​​​​​",
+    "translation_en": "To see / watch",
+    "translation_vi": "Nhìn / Xem",
+    "options_en": [
+      "To do",
+      "To see / watch",
+      "Stomach",
+      "Hand"
+    ],
+    "options_vi": [
+      "Làm",
+      "Nhìn / Xem",
+      "Bụng",
+      "Bàn tay"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This water is clean / Nước này sạch",
+    "hindiWords": [
+      "यह",
+      "पानी",
+      "साफ़",
+      "है",
+      "दूध",
+      "गंदा"
+    ],
+    "correctHindiSentence": "यह पानी साफ़ है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "करना​​​​​​​​​",
+    "transliteration": "karnā",
+    "english": "To do",
+    "vietnamese": "Làm",
+    "audio": "करना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "देखना​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "हाथ",
+        "english": "Hand (Bàn tay)"
+      },
+      {
+        "hindi": "करना​​​​​​​​​",
+        "english": "To do (Làm)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This water is clean / Nước này sạch",
+    "hindiWords": [
+      "यह",
+      "पानी",
+      "साफ़",
+      "है",
+      "दूध",
+      "गंदा"
+    ],
+    "correctHindiSentence": "यह पानी साफ़ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: पेट, देखना​​​​​​​​​​​​, करना​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'This water is clean'."
+    ]
+  }
+]

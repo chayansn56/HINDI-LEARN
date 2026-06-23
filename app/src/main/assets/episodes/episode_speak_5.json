@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Lesson 5",
+    "description": "Learn key vocabulary and concepts for Speak - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "क्या आपको यकीन है? (kya aapko yakeen hai?) = Are you sure? / Bạn có chắc không?",
+      "साफ करना​​​​ (sāf karnā) = To clean / Dọn dẹp / Lau chùi",
+      "पूछना​​​​​​ (pūchnā) = To ask / Hỏi"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 5",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: क्या आपको यकीन है? means 'Are you sure?' (Bạn có chắc không?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या आपको यकीन है?",
+    "transliteration": "kya aapko yakeen hai?",
+    "english": "Are you sure?",
+    "vietnamese": "Bạn có chắc không?",
+    "audio": "क्या आपको यकीन है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साफ करना​​​​",
+    "transliteration": "sāf karnā",
+    "english": "To clean",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "साफ करना​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'क्या आपको यकीन है?'",
+    "prompt_en": "Choose the correct translation for 'क्या आपको यकीन है?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'क्या आपको यकीन है?'",
+    "text": "क्या आपको यकीन है?",
+    "subtext": "kya aapko yakeen hai?",
+    "answer": "Are you sure?",
+    "answer_vi": "Bạn có chắc không?",
+    "options": [
+      "Are you sure?",
+      "To clean",
+      "To ask",
+      "How are you? (Formal)"
+    ],
+    "options_vi": [
+      "Bạn có chắc không?",
+      "Dọn dẹp / Lau chùi",
+      "Hỏi",
+      "Bạn khỏe không? (Lịch sự)"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आप कैसे हैं?",
+    "transliteration": "āp kaise haĩ?",
+    "english": "How are you? (Formal)",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "आप कैसे हैं?"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "क्या आपको यकीन है?",
+        "english": "Are you sure? (Bạn có chắc không?)"
+      },
+      {
+        "hindi": "साफ करना​​​​",
+        "english": "To clean (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "पूछना​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "आप कैसे हैं?",
+        "english": "How are you? (Formal) (Bạn khỏe không? (Lịch sự))"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "साफ करना​​​​",
+    "translation_en": "To clean",
+    "translation_vi": "Dọn dẹp / Lau chùi",
+    "options_en": [
+      "Are you sure?",
+      "How are you? (Formal)",
+      "To clean",
+      "To ask"
+    ],
+    "options_vi": [
+      "Bạn có chắc không?",
+      "Bạn khỏe không? (Lịch sự)",
+      "Dọn dẹp / Lau chùi",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Hello, how are you? / Xin chào, bạn khỏe không?",
+    "hindiWords": [
+      "नमस्ते",
+      "आप",
+      "कैसे",
+      "हैं",
+      "तुम",
+      "हो"
+    ],
+    "correctHindiSentence": "नमस्ते आप कैसे हैं"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खड़े हो जाओ।",
+    "transliteration": "khade ho jaao",
+    "english": "Stand up.",
+    "vietnamese": "Đứng lên đi.",
+    "audio": "खड़े हो जाओ।"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "पूछना​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "आप कैसे हैं?",
+        "english": "How are you? (Formal) (Bạn khỏe không? (Lịch sự))"
+      },
+      {
+        "hindi": "बोलना​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "खड़े हो जाओ।",
+        "english": "Stand up. (Đứng lên đi.)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "What is your name? / Tên của bạn là gì?",
+    "hindiWords": [
+      "आपका",
+      "नाम",
+      "क्या",
+      "है",
+      "मेरा",
+      "लड़का"
+    ],
+    "correctHindiSentence": "आपका नाम क्या है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: क्या आपको यकीन है?, पूछना​​​​​​, बोलना​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'What is your name?'."
+    ]
+  }
+]

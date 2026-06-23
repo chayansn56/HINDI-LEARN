@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Lesson 2",
+    "description": "Learn key vocabulary and concepts for Pron - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "बनाना​​​​ (banānā) = To make / build / Chế tạo / Tạo ra",
+      "तभी (tabhi) = Just then / That is why / Ngay lúc đó / Chính vì vậy",
+      "गाना​​​​ (gānā) = To sing / Hát"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 2",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: बनाना​​​​ means 'To make / build' (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तभी",
+    "transliteration": "tabhi",
+    "english": "Just then / That is why",
+    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "audio": "तभी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बनाना​​​​'",
+    "prompt_en": "Choose the correct translation for 'बनाना​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​'",
+    "text": "बनाना​​​​",
+    "subtext": "banānā",
+    "answer": "To make / build",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "Just then / That is why",
+      "To make / build",
+      "To sing",
+      "To close"
+    ],
+    "options_vi": [
+      "Ngay lúc đó / Chính vì vậy",
+      "Chế tạo / Tạo ra",
+      "Hát",
+      "Đóng"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाना​​​​",
+    "transliteration": "gānā",
+    "english": "To sing",
+    "vietnamese": "Hát",
+    "audio": "गाना​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बंद करना​​",
+    "transliteration": "band karnā",
+    "english": "To close",
+    "vietnamese": "Đóng",
+    "audio": "बंद करना​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बनाना​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "तभी",
+        "english": "Just then / That is why (Ngay lúc đó / Chính vì vậy)"
+      },
+      {
+        "hindi": "गाना​​​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "बंद करना​​",
+        "english": "To close (Đóng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "तभी",
+    "translation_en": "Just then / That is why",
+    "translation_vi": "Ngay lúc đó / Chính vì vậy",
+    "options_en": [
+      "Just then / That is why",
+      "To make / build",
+      "To close",
+      "To sing"
+    ],
+    "options_vi": [
+      "Ngay lúc đó / Chính vì vậy",
+      "Chế tạo / Tạo ra",
+      "Đóng",
+      "Hát"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is my mother / Đây là mẹ của tôi",
+    "hindiWords": [
+      "यह",
+      "मेरी",
+      "माँ",
+      "है",
+      "पिता",
+      "भाई"
+    ],
+    "correctHindiSentence": "यह मेरी माँ है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बताना​",
+    "transliteration": "batānā",
+    "english": "To tell / explain",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "बताना​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "गाना​​​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "बंद करना​​",
+        "english": "To close (Đóng)"
+      },
+      {
+        "hindi": "बताना​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      },
+      {
+        "hindi": "रोना​​​",
+        "english": "To cry (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please sign here / Vui lòng ký vào đây",
+    "hindiWords": [
+      "कृपया",
+      "यहाँ",
+      "हस्ताक्षर",
+      "करें",
+      "कागज़",
+      "लिखना"
+    ],
+    "correctHindiSentence": "कृपया यहाँ हस्ताक्षर करें"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: बनाना​​​​, गाना​​​​, बताना​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Please sign here'."
+    ]
+  }
+]

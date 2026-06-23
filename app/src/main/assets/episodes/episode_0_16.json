@@ -1,0 +1,127 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Consonants: Semivowels & Sibilants",
+    "description": "In this episode, we cover the remaining consonants — the semivowels (य, र, ल, व) and the sibilants/fricatives (श, ष, स, ह). These eight letters complete the Hindi consonant set! Semivowels flow smoothly like vowels, while sibilants create hissing or breathy sounds.",
+    "keyPoints": [
+      "Semivowels: य (ya), र (ra), ल (la), व (va) — smooth, vowel-like consonants",
+      "Sibilants: श (sha), ष (ṣha), स (sa) — three distinct 's/sh' sounds",
+      "ह (ha) — the aspirate, a soft breathy sound",
+      "श is palatal 'sh', ष is retroflex 'sh', and स is dental 's'"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "य",
+    "transliteration": "ya",
+    "english": "ya (as in 'yes')",
+    "vietnamese": "ya (như 'y' trong tiếng Việt)",
+    "audio": "य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "र",
+    "transliteration": "ra",
+    "english": "ra (flapped 'r', tongue taps the palate)",
+    "vietnamese": "ra (như 'r' trong tiếng Việt)",
+    "audio": "र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ल",
+    "transliteration": "la",
+    "english": "la (as in 'love')",
+    "vietnamese": "la (như 'l' trong tiếng Việt)",
+    "audio": "ल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व",
+    "transliteration": "va",
+    "english": "va (between English 'v' and 'w')",
+    "vietnamese": "va (như 'v' trong tiếng Việt)",
+    "audio": "व"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "श",
+    "hint": "Draw three vertical lines of descending height from left to right, connected at the top by the headline. The leftmost line is the tallest."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "श",
+    "transliteration": "sha",
+    "english": "sha (palatal, as in 'ship')",
+    "vietnamese": "sha (như 'x' trong tiếng Việt)",
+    "audio": "श"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ष",
+    "transliteration": "ṣha",
+    "english": "ṣha (retroflex 'sh', tongue curled back)",
+    "vietnamese": "ṣha (sh cuốn lưỡi)",
+    "audio": "ष"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स",
+    "transliteration": "sa",
+    "english": "sa (dental, as in 'sun')",
+    "vietnamese": "sa (như 'x' hoặc 's' trong tiếng Việt)",
+    "audio": "स"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ह",
+    "transliteration": "ha",
+    "english": "ha (as in 'hat')",
+    "vietnamese": "ha (như 'h' trong tiếng Việt)",
+    "audio": "ह"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Sound distinction",
+    "text": "Which letter represents the DENTAL 's' sound (as in 'sun')?",
+    "subtext": "Three sibilants: श, ष, स",
+    "answer": "स",
+    "options": ["श", "ष", "स", "ह"]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match each word to its English meaning",
+    "pairs": [
+      {"hindi": "यात्रा", "english": "Journey"},
+      {"hindi": "राजा", "english": "King"},
+      {"hindi": "लड़का", "english": "Boy"},
+      {"hindi": "वन", "english": "Forest"},
+      {"hindi": "शेर", "english": "Lion"},
+      {"hindi": "हाथी", "english": "Elephant"}
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Word recognition",
+    "text": "What does लड़का mean?",
+    "subtext": "लड़का (laḍkā)",
+    "answer": "Boy",
+    "options": ["King", "Boy", "Forest", "Journey"]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ह",
+    "hint": "Draw a shape that looks like a person sitting — a rounded body with a small curve at the top. Add the headline."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Semivowels & Sibilants — Recap",
+    "takeaways": [
+      "You learned 4 semivowels: य (ya), र (ra), ल (la), व (va)",
+      "You learned 3 sibilants: श (sha/palatal), ष (ṣha/retroflex), स (sa/dental)",
+      "You learned the aspirate: ह (ha)",
+      "Hindi has THREE 'sh/s' sounds — श, ष, स — each made at a different mouth position",
+      "New words: यात्रा (journey), राजा (king), लड़का (boy), वन (forest), शेर (lion), हाथी (elephant)",
+      "Congratulations — you now know ALL the Hindi consonants!"
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Lesson 5",
+    "description": "Learn key vocabulary and concepts for Culture - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (likhnā) = To write / Viết",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (ronā) = To cry / Khóc",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (dauṛnā) = To run / Chạy"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 5",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To write' (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "likhnā",
+    "answer": "To write",
+    "answer_vi": "Viết",
+    "options": [
+      "To cry",
+      "To run",
+      "To buy",
+      "To write"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Chạy",
+      "Mua",
+      "Viết"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dauṛnā",
+    "english": "To run",
+    "vietnamese": "Chạy",
+    "audio": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kharīdnā",
+    "english": "To buy",
+    "vietnamese": "Mua",
+    "audio": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To cry (Khóc)"
+      },
+      {
+        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To run (Chạy)"
+      },
+      {
+        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To buy (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To cry",
+    "translation_vi": "Khóc",
+    "options_en": [
+      "To write",
+      "To cry",
+      "To run",
+      "To buy"
+    ],
+    "options_vi": [
+      "Viết",
+      "Khóc",
+      "Chạy",
+      "Mua"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "hindiWords": [
+      "आज",
+      "दिवाली",
+      "है",
+      "होली",
+      "ईद"
+    ],
+    "correctHindiSentence": "आज दिवाली है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धोना​​​​​​​​​​​​​​",
+    "transliteration": "dhonā",
+    "english": "To wash",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "धोना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "denā",
+    "english": "To give",
+    "vietnamese": "Cho / Tặng",
+    "audio": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To run (Chạy)"
+      },
+      {
+        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To buy (Mua)"
+      },
+      {
+        "hindi": "धोना​​​​​​​​​​​​​​",
+        "english": "To wash (Rửa / Giặt)"
+      },
+      {
+        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To give (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I go to the temple / Tôi đi đến đền thờ",
+    "hindiWords": [
+      "मैं",
+      "मंदिर",
+      "जाता",
+      "हूँ",
+      "घर",
+      "बाज़ार"
+    ],
+    "correctHindiSentence": "मैं मंदिर जाता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, धोना​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I go to the temple'."
+    ]
+  }
+]

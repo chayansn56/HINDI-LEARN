@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 11",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 11. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "चम्मच​​​​ (cammac) = Spoon / Thìa",
+      "दफ़्तर​​​​ (daftar) = Office / Văn phòng",
+      "चाँदी​ (cā̃dī) = Silver / Bạc"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 11",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: चम्मच​​​​ means 'Spoon' (Thìa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चम्मच​​​​",
+    "transliteration": "cammac",
+    "english": "Spoon",
+    "vietnamese": "Thìa",
+    "audio": "चम्मच​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'चम्मच​​​​'",
+    "prompt_en": "Choose the correct translation for 'चम्मच​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'चम्मच​​​​'",
+    "text": "चम्मच​​​​",
+    "subtext": "cammac",
+    "answer": "Spoon",
+    "answer_vi": "Thìa",
+    "options": [
+      "with / along with",
+      "Office",
+      "Spoon",
+      "Silver"
+    ],
+    "options_vi": [
+      "Với / Cùng với",
+      "Văn phòng",
+      "Thìa",
+      "Bạc"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाँदी​",
+    "transliteration": "cā̃dī",
+    "english": "Silver",
+    "vietnamese": "Bạc",
+    "audio": "चाँदी​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के साथ",
+    "transliteration": "ke saath",
+    "english": "with / along with",
+    "vietnamese": "Với / Cùng với",
+    "audio": "के साथ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "चम्मच​​​​",
+        "english": "Spoon (Thìa)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "चाँदी​",
+        "english": "Silver (Bạc)"
+      },
+      {
+        "hindi": "के साथ",
+        "english": "with / along with (Với / Cùng với)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दफ़्तर​​​​",
+    "translation_en": "Office",
+    "translation_vi": "Văn phòng",
+    "options_en": [
+      "Silver",
+      "Spoon",
+      "with / along with",
+      "Office"
+    ],
+    "options_vi": [
+      "Bạc",
+      "Thìa",
+      "Với / Cùng với",
+      "Văn phòng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "She eats bread / Cô ấy ăn bánh mì",
+    "hindiWords": [
+      "वह",
+      "रोटी",
+      "खाती",
+      "है",
+      "पीती",
+      "हूँ"
+    ],
+    "correctHindiSentence": "वह रोटी खाती है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समुद्र​​​​",
+    "transliteration": "samudra",
+    "english": "Sea / Ocean",
+    "vietnamese": "Biển",
+    "audio": "समुद्र​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पहाड़​​​​​​",
+    "transliteration": "pahāṛ",
+    "english": "Mountain",
+    "vietnamese": "Ngọn núi",
+    "audio": "पहाड़​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "चाँदी​",
+        "english": "Silver (Bạc)"
+      },
+      {
+        "hindi": "के साथ",
+        "english": "with / along with (Với / Cùng với)"
+      },
+      {
+        "hindi": "समुद्र​​​​",
+        "english": "Sea / Ocean (Biển)"
+      },
+      {
+        "hindi": "पहाड़​​​​​​",
+        "english": "Mountain (Ngọn núi)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
+    "hindiWords": [
+      "मैं",
+      "सेब",
+      "खाता",
+      "हूँ",
+      "रोटी",
+      "है"
+    ],
+    "correctHindiSentence": "मैं सेब खाता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: चम्मच​​​​, चाँदी​, समुद्र​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I eat an apple'."
+    ]
+  }
+]

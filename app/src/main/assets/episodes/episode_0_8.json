@@ -1,0 +1,127 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Vowels Part 1: Short Sounds",
+    "description": "Hindi vowels (स्वर) are the foundation of every word. Unlike English, Hindi makes a clear distinction between SHORT and LONG vowels — and the length changes the meaning of words! In this episode, we'll learn the four short vowels: अ (a), इ (i), उ (u), and ऋ (ri). These are quick, clipped sounds — don't hold them too long!",
+    "keyPoints": [
+      "Hindi has 13 vowels (स्वर), divided into short (ह्रस्व) and long (दीर्घ)",
+      "Short vowels are quick and clipped — don't stretch them",
+      "The 4 short vowels: अ (a), इ (i), उ (u), ऋ (ri)",
+      "Vowel length changes word meanings in Hindi"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अ",
+    "transliteration": "a",
+    "english": "a — short 'a' as in 'abrupt' or 'America'",
+    "vietnamese": "a — nguyên âm ngắn 'a' như trong 'abrupt'",
+    "audio": "अ"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "अ",
+    "hint": "Start with the vertical line on the left, then add the curved shape, and finish with the headline (शिरोरेखा) on top."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इ",
+    "transliteration": "i",
+    "english": "i — short 'i' as in 'bit' or 'sit'",
+    "vietnamese": "i — nguyên âm ngắn 'i' như trong 'bit'",
+    "audio": "इ"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "इ",
+    "hint": "Draw the curved body first, then add the headline (शिरोरेखा) on top and the dot above."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Which vowel makes the sound like 'i' in 'bit'?",
+    "text": "'bit' के 'i' जैसी ध्वनि कौन सा स्वर बनाता है?",
+    "subtext": "Think of a short, clipped 'i' sound",
+    "answer": "इ",
+    "options": ["अ", "इ", "उ", "ऋ"]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "उ",
+    "transliteration": "u",
+    "english": "u — short 'u' as in 'put' or 'book'",
+    "vietnamese": "u — nguyên âm ngắn 'u' như trong 'put'",
+    "audio": "उ"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "उ",
+    "hint": "Start with the vertical stroke, then add the curved tail at the bottom. Don't forget the headline (शिरोरेखा)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ऋ",
+    "transliteration": "ri",
+    "english": "ri — as in 'trick' (a special vowel, rare but important)",
+    "vietnamese": "ri — như trong 'trick' (nguyên âm đặc biệt, hiếm nhưng quan trọng)",
+    "audio": "ऋ"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ऋ",
+    "hint": "This is a complex letter. Start with the vertical stroke, add the curved hook, and finish with the headline."
+  },
+  {
+    "type": "ExamplesList",
+    "title": "Words with Short Vowels",
+    "examples": [
+      {
+        "hindi": "अमर",
+        "transliteration": "amar",
+        "translation": "immortal (अ = short 'a')"
+      },
+      {
+        "hindi": "इमली",
+        "transliteration": "imlī",
+        "translation": "tamarind (इ = short 'i')"
+      },
+      {
+        "hindi": "उल्लू",
+        "transliteration": "ullū",
+        "translation": "owl (उ = short 'u')"
+      },
+      {
+        "hindi": "ऋषि",
+        "transliteration": "rishi",
+        "translation": "sage/saint (ऋ = 'ri')"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Which word starts with the short vowel उ?",
+    "text": "कौन सा शब्द ह्रस्व स्वर उ से शुरू होता है?",
+    "subtext": "Look for the 'u' as in 'put' sound",
+    "answer": "उल्लू",
+    "options": ["अमर", "इमली", "उल्लू", "ऋषि"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Which letter represents the short 'a' sound?",
+    "text": "ह्रस्व 'अ' ध्वनि का अक्षर कौन सा है?",
+    "subtext": "The most common vowel in Hindi!",
+    "answer": "अ",
+    "options": ["अ", "आ", "इ", "ए"]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Short Vowels — Key Takeaways",
+    "takeaways": [
+      "अ (a) — short 'a' as in 'abrupt', the most common sound in Hindi",
+      "इ (i) — short 'i' as in 'bit', quick and clipped",
+      "उ (u) — short 'u' as in 'put', rounded lips",
+      "ऋ (ri) — special vowel, sounds like 'ri' in 'trick'",
+      "Short vowels are quick — don't stretch them into long vowels!",
+      "Example words: अमर (immortal), इमली (tamarind), उल्लू (owl), ऋषि (sage)"
+    ]
+  }
+]

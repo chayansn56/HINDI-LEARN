@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Lesson 7",
+    "description": "Learn key vocabulary and concepts for Speak - Lesson 7. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "लिखना​​​​​​​​​ (likhnā) = To write / Viết",
+      "बैठना​​​​​​​ (baiṭhnā) = To sit / Ngồi",
+      "क्या आप तैयार हैं? (kya aap taiyaar hain?) = Are you ready? / Bạn đã sẵn sàng chưa?"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 7",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: लिखना​​​​​​​​​ means 'To write' (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बैठना​​​​​​​",
+    "transliteration": "baiṭhnā",
+    "english": "To sit",
+    "vietnamese": "Ngồi",
+    "audio": "बैठना​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लिखना​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'लिखना​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​'",
+    "text": "लिखना​​​​​​​​​",
+    "subtext": "likhnā",
+    "answer": "To write",
+    "answer_vi": "Viết",
+    "options": [
+      "To see / watch",
+      "Are you ready?",
+      "To sit",
+      "To write"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Bạn đã sẵn sàng chưa?",
+      "Ngồi",
+      "Viết"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या आप तैयार हैं?",
+    "transliteration": "kya aap taiyaar hain?",
+    "english": "Are you ready?",
+    "vietnamese": "Bạn đã sẵn sàng chưa?",
+    "audio": "क्या आप तैयार हैं?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लिखना​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "बैठना​​​​​​​",
+        "english": "To sit (Ngồi)"
+      },
+      {
+        "hindi": "क्या आप तैयार हैं?",
+        "english": "Are you ready? (Bạn đã sẵn sàng chưa?)"
+      },
+      {
+        "hindi": "देखना​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "बैठना​​​​​​​",
+    "translation_en": "To sit",
+    "translation_vi": "Ngồi",
+    "options_en": [
+      "To sit",
+      "To see / watch",
+      "Are you ready?",
+      "To write"
+    ],
+    "options_vi": [
+      "Ngồi",
+      "Nhìn / Xem",
+      "Bạn đã sẵn sàng chưa?",
+      "Viết"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Thank you very much / Cảm ơn bạn rất nhiều",
+    "hindiWords": [
+      "बहुत",
+      "बहुत",
+      "धन्यवाद",
+      "कृपया",
+      "नमस्ते"
+    ],
+    "correctHindiSentence": "बहुत बहुत धन्यवाद"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जी नहीं",
+    "transliteration": "jī nahī̃",
+    "english": "No (respectful)",
+    "vietnamese": "Không (Lịch sự)",
+    "audio": "जी नहीं"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे यह चाहिए।",
+    "transliteration": "mujhe yeh chaahie",
+    "english": "I want this.",
+    "vietnamese": "Tôi muốn cái này.",
+    "audio": "मुझे यह चाहिए।"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "क्या आप तैयार हैं?",
+        "english": "Are you ready? (Bạn đã sẵn sàng chưa?)"
+      },
+      {
+        "hindi": "देखना​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "जी नहीं",
+        "english": "No (respectful) (Không (Lịch sự))"
+      },
+      {
+        "hindi": "मुझे यह चाहिए।",
+        "english": "I want this. (Tôi muốn cái này.)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "What is your name? / Tên của bạn là gì?",
+    "hindiWords": [
+      "आपका",
+      "नाम",
+      "क्या",
+      "है",
+      "मेरा",
+      "लड़का"
+    ],
+    "correctHindiSentence": "आपका नाम क्या है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: लिखना​​​​​​​​​, क्या आप तैयार हैं?, जी नहीं.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'What is your name?'."
+    ]
+  }
+]

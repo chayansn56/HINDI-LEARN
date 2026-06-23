@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Lesson 1",
+    "description": "Learn key vocabulary and concepts for Business - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​ (banānā) = To make / build / Chế tạo / Tạo ra",
+      "सफलता (safalta) = Success / Sự thành công",
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​ (dhonā) = To wash / Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 1",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To make / build' (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफलता",
+    "transliteration": "safalta",
+    "english": "Success",
+    "vietnamese": "Sự thành công",
+    "audio": "सफलता"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "banānā",
+    "answer": "To make / build",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "Success",
+      "Manager",
+      "To make / build",
+      "To wash"
+    ],
+    "options_vi": [
+      "Sự thành công",
+      "Quản lý",
+      "Chế tạo / Tạo ra",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dhonā",
+    "english": "To wash",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "धोना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्रबंधक",
+    "transliteration": "prabandhak",
+    "english": "Manager",
+    "vietnamese": "Quản lý",
+    "audio": "प्रबंधक"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "सफलता",
+        "english": "Success (Sự thành công)"
+      },
+      {
+        "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wash (Rửa / Giặt)"
+      },
+      {
+        "hindi": "प्रबंधक",
+        "english": "Manager (Quản lý)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सफलता",
+    "translation_en": "Success",
+    "translation_vi": "Sự thành công",
+    "options_en": [
+      "Success",
+      "To make / build",
+      "To wash",
+      "Manager"
+    ],
+    "options_vi": [
+      "Sự thành công",
+      "Chế tạo / Tạo ra",
+      "Rửa / Giặt",
+      "Quản lý"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please sign here / Vui lòng ký vào đây",
+    "hindiWords": [
+      "कृपया",
+      "यहाँ",
+      "हस्ताक्षर",
+      "करें",
+      "कागज़",
+      "लिखना"
+    ],
+    "correctHindiSentence": "कृपया यहाँ हस्ताक्षर करें"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "denā",
+    "english": "To give",
+    "vietnamese": "Cho / Tặng",
+    "audio": "देना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wash (Rửa / Giặt)"
+      },
+      {
+        "hindi": "प्रबंधक",
+        "english": "Manager (Quản lý)"
+      },
+      {
+        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To give (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Sign this paper / Ký vào tờ giấy này",
+    "hindiWords": [
+      "कागज़",
+      "पर",
+      "हस्ताक्षर",
+      "करें",
+      "कमरा",
+      "लिखना"
+    ],
+    "correctHindiSentence": "कागज़ पर हस्ताक्षर करें"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​, धोना​​​​​​​​​​​​​​​​​​​​​​​, काम करना​​​​​​​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Sign this paper'."
+    ]
+  }
+]

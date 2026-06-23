@@ -1,0 +1,115 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Consonants: Lip Sounds (पवर्ग)",
+    "description": "Time for the labial consonants — sounds made using both lips! These are among the easiest Hindi sounds for English speakers since similar sounds exist in English. The five letters are प, फ, ब, भ, and म.",
+    "keyPoints": [
+      "प (pa), फ (pha), ब (ba), भ (bha), म (ma) — the labial group",
+      "Both lips come together to produce these sounds",
+      "फ (pha) is NOT the English 'f' — it's an aspirated 'p' (lips together, puff of air)",
+      "म (ma) is the nasal sound of this group, made through the nose with lips closed"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प",
+    "transliteration": "pa",
+    "english": "pa (as in 'pin', unaspirated)",
+    "vietnamese": "pa (như 'p' trong tiếng Việt)",
+    "audio": "प"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फ",
+    "transliteration": "pha",
+    "english": "pha (aspirated 'p', NOT English 'f')",
+    "vietnamese": "pha (p có bật hơi, KHÔNG phải 'f')",
+    "audio": "फ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ब",
+    "transliteration": "ba",
+    "english": "ba (as in 'bat')",
+    "vietnamese": "ba (như 'b' trong tiếng Việt)",
+    "audio": "ब"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "प",
+    "hint": "Draw a vertical line on the right, then a horizontal line extending left at the top, with a small curve descending from it. It looks somewhat like a reversed 'P'."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भ",
+    "transliteration": "bha",
+    "english": "bha (aspirated 'b')",
+    "vietnamese": "bha (b có bật hơi)",
+    "audio": "भ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "म",
+    "transliteration": "ma",
+    "english": "ma (as in 'mother')",
+    "vietnamese": "ma (như 'm' trong tiếng Việt)",
+    "audio": "म"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "पंखा",
+    "translation": "Fan",
+    "contextSentenceHindi": "पंखा चालू करो।",
+    "contextSentenceTranslation": "Turn on the fan.",
+    "memoryTrick": "'Pankha' — a fan has 'pan'-shaped blades!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Word recognition",
+    "text": "What does फूल mean?",
+    "subtext": "फूल (phūl)",
+    "answer": "Flower",
+    "options": ["Fan", "Flower", "Child", "Bear"]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "बच्चा खेल रहा है।",
+    "translation": "The child is playing."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Identify the word",
+    "text": "Which word means 'bear'?",
+    "subtext": "पवर्ग vocabulary",
+    "answer": "भालू",
+    "options": ["मछली", "भालू", "बच्चा", "फूल"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "मछली",
+    "translation": "Fish",
+    "contextSentenceHindi": "मछली पानी में तैरती है।",
+    "contextSentenceTranslation": "The fish swims in water.",
+    "memoryTrick": "'Machhli' — think 'much-lee' (the fish swims much and far!)"
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "फूल सुंदर है।",
+    "translation": "The flower is beautiful."
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "भ",
+    "hint": "Similar to ब but with an extra vertical stroke. Draw the main body of ब first, then add the additional stroke to make it भ."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lip Sounds — Recap",
+    "takeaways": [
+      "You learned 5 labial consonants: प (pa), फ (pha), ब (ba), भ (bha), म (ma)",
+      "These sounds are made with both lips — the most natural group for English speakers",
+      "Remember: फ (pha) is an aspirated 'p', NOT the English 'f' sound",
+      "New words: पंखा (fan), फूल (flower), बच्चा (child), भालू (bear), मछली (fish)"
+    ]
+  }
+]

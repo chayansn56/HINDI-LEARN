@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Lesson 2",
+    "description": "Learn key vocabulary and concepts for Write - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "११ (gyaarah) = 11 / Mười một",
+      "लोहा​​​​​​ (lohā) = Iron / Sắt",
+      "५० (pachaas) = 50 / Năm mươi"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 2",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: ११ means '11' (Mười một)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "११",
+    "transliteration": "gyaarah",
+    "english": "11",
+    "vietnamese": "Mười một",
+    "audio": "११"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लोहा​​​​​​",
+    "transliteration": "lohā",
+    "english": "Iron",
+    "vietnamese": "Sắt",
+    "audio": "लोहा​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate '११'",
+    "prompt_en": "Choose the correct translation for '११'",
+    "prompt_vi": "Chọn bản dịch đúng cho '११'",
+    "text": "११",
+    "subtext": "gyaarah",
+    "answer": "11",
+    "answer_vi": "Mười một",
+    "options": [
+      "11",
+      "50",
+      "Cloud",
+      "Iron"
+    ],
+    "options_vi": [
+      "Mười một",
+      "Năm mươi",
+      "Đám mây",
+      "Sắt"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "५०",
+    "transliteration": "pachaas",
+    "english": "50",
+    "vietnamese": "Năm mươi",
+    "audio": "५०"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "११",
+        "english": "11 (Mười một)"
+      },
+      {
+        "hindi": "लोहा​​​​​​",
+        "english": "Iron (Sắt)"
+      },
+      {
+        "hindi": "५०",
+        "english": "50 (Năm mươi)"
+      },
+      {
+        "hindi": "बादल​​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लोहा​​​​​​",
+    "translation_en": "Iron",
+    "translation_vi": "Sắt",
+    "options_en": [
+      "Cloud",
+      "11",
+      "50",
+      "Iron"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Mười một",
+      "Năm mươi",
+      "Sắt"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "hindiWords": [
+      "कृपया",
+      "दाम",
+      "कम",
+      "करो",
+      "ज्यादा",
+      "पैसे"
+    ],
+    "correctHindiSentence": "कृपया दाम कम करो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कापी​​​​​​​​​​",
+    "transliteration": "kaapī",
+    "english": "Notebook",
+    "vietnamese": "Sổ tay",
+    "audio": "कापी​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पहाड़​​​​​​​​​​​",
+    "transliteration": "pahāṛ",
+    "english": "Mountain",
+    "vietnamese": "Ngọn núi",
+    "audio": "पहाड़​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "५०",
+        "english": "50 (Năm mươi)"
+      },
+      {
+        "hindi": "बादल​​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "कापी​​​​​​​​​​",
+        "english": "Notebook (Sổ tay)"
+      },
+      {
+        "hindi": "पहाड़​​​​​​​​​​​",
+        "english": "Mountain (Ngọn núi)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please sign here / Vui lòng ký vào đây",
+    "hindiWords": [
+      "कृपया",
+      "यहाँ",
+      "हस्ताक्षर",
+      "करें",
+      "कागज़",
+      "लिखना"
+    ],
+    "correctHindiSentence": "कृपया यहाँ हस्ताक्षर करें"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: ११, ५०, कापी​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Please sign here'."
+    ]
+  }
+]

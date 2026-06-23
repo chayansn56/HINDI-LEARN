@@ -1,0 +1,132 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Tongue Position Matters",
+    "description": "Hindi has two sets of similar-sounding consonants that differ only in where your tongue touches inside your mouth. 'Dental' sounds are made with your tongue touching the back of your upper TEETH (like the Spanish 't'). 'Retroflex' sounds are made by curling your tongue BACK to touch the roof of your mouth. English doesn't have true retroflex sounds, so this will feel unusual at first — but it's one of the most distinctive features of Hindi pronunciation!",
+    "keyPoints": [
+      "Dental (दन्त्य): tongue touches the back of the upper front teeth",
+      "Retroflex (मूर्धन्य): tongue curls back to touch the hard palate (roof of mouth)",
+      "Hindi has 5 dental-retroflex pairs: ट/त, ठ/थ, ड/द, ढ/ध, ण/न",
+      "Mixing them up can change word meanings: दाल (lentils) vs डाल (branch)"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Dental vs Retroflex: The Tongue Rule",
+    "explanation": "Feel the ridge behind your upper front teeth with your tongue. For DENTAL sounds (त, थ, द, ध, न), your tongue tip touches your TEETH or just behind them — very forward. For RETROFLEX sounds (ट, ठ, ड, ढ, ण), curl your tongue tip BACKWARD so the underside of your tongue touches the hard palate (the bumpy roof of your mouth). It feels like your tongue is doing a little flip!",
+    "simpleRule": "Dental = tongue touches TEETH (त, थ, द, ध, न). Retroflex = tongue curls BACK to the roof (ट, ठ, ड, ढ, ण)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ट",
+    "transliteration": "ṭa",
+    "english": "ṭa (retroflex, tongue curled back)",
+    "vietnamese": "ṭa (uốn lưỡi, lưỡi cong ra sau)",
+    "audio": "ट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "त",
+    "transliteration": "ta",
+    "english": "ta (dental, tongue touches teeth)",
+    "vietnamese": "ta (đầu lưỡi chạm răng)",
+    "audio": "त"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ड",
+    "transliteration": "ḍa",
+    "english": "ḍa (retroflex, tongue curled back)",
+    "vietnamese": "ḍa (uốn lưỡi, lưỡi cong ra sau)",
+    "audio": "ड"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "द",
+    "transliteration": "da",
+    "english": "da (dental, tongue touches teeth)",
+    "vietnamese": "da (đầu lưỡi chạm răng)",
+    "audio": "द"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ठ",
+    "transliteration": "ṭha",
+    "english": "ṭha (retroflex + aspirated)",
+    "vietnamese": "ṭha (uốn lưỡi + bật hơi)",
+    "audio": "ठ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थ",
+    "transliteration": "tha",
+    "english": "tha (dental + aspirated — NOT like English 'th'!)",
+    "vietnamese": "tha (đầu lưỡi chạm răng + bật hơi — KHÔNG phải 'th' tiếng Anh!)",
+    "audio": "थ"
+  },
+  {
+    "type": "Listening",
+    "audio": "दाल",
+    "translation_en": "What does this word mean? (Hint: tongue position changes meaning!)",
+    "options_en": ["Lentils (दाल - dental)", "Branch (डाल - retroflex)", "Rice", "Water"],
+    "translation_vi": "Từ này có nghĩa là gì? (Gợi ý: vị trí lưỡi thay đổi nghĩa!)",
+    "options_vi": ["Đậu lăng (दाल - đầu lưỡi chạm răng)", "Cành cây (डाल - uốn lưỡi)", "Gạo", "Nước"]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ढ",
+    "transliteration": "ḍha",
+    "english": "ḍha (retroflex + aspirated)",
+    "vietnamese": "ḍha (uốn lưỡi + bật hơi)",
+    "audio": "ढ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ध",
+    "transliteration": "dha",
+    "english": "dha (dental + aspirated)",
+    "vietnamese": "dha (đầu lưỡi chạm răng + bật hơi)",
+    "audio": "ध"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ण",
+    "transliteration": "ṇa",
+    "english": "ṇa (retroflex nasal)",
+    "vietnamese": "ṇa (âm mũi uốn lưỡi)",
+    "audio": "ण"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "न",
+    "transliteration": "na",
+    "english": "na (dental nasal, like English 'n')",
+    "vietnamese": "na (âm mũi đầu lưỡi, như 'n' tiếng Anh)",
+    "audio": "न"
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "ट... त... ड... द... ठ... थ... ढ... ध...",
+    "translation": "Practice alternating: retroflex ट, dental त, retroflex ड, dental द, retroflex ठ, dental थ, retroflex ढ, dental ध"
+  },
+  {
+    "type": "Listening",
+    "audio": "डाल",
+    "translation_en": "What does this word mean?",
+    "options_en": ["Branch (डाल - retroflex)", "Lentils (दाल - dental)", "Door", "Milk"],
+    "translation_vi": "Từ này có nghĩa là gì?",
+    "options_vi": ["Cành cây (डाल - uốn lưỡi)", "Đậu lăng (दाल - đầu lưỡi chạm răng)", "Cửa", "Sữa"]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Retroflex vs Dental — Key Takeaways",
+    "takeaways": [
+      "Dental sounds (त, थ, द, ध, न): tongue touches the TEETH",
+      "Retroflex sounds (ट, ठ, ड, ढ, ण): tongue curls BACK to the roof of the mouth",
+      "Hindi has 5 pairs of dental-retroflex consonants",
+      "Mixing them up changes meaning: दाल (lentils) vs डाल (branch)",
+      "English 'th' is NOT the same as Hindi थ — don't confuse them!",
+      "Practice by alternating between pairs: ट/त, ड/द, etc."
+    ]
+  }
+]

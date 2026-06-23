@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 10",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 10. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "दुनया​​​​ (duniyā) = World / Thế giới",
+      "चाँदी​​ (cā̃dī) = Silver / Bạc",
+      "के नीचे (ke neeche) = under / below / Dưới / Phía dưới"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 10",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: दुनया​​​​ means 'World' (Thế giới)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दुनया​​​​",
+    "transliteration": "duniyā",
+    "english": "World",
+    "vietnamese": "Thế giới",
+    "audio": "दुनया​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाँदी​​",
+    "transliteration": "cā̃dī",
+    "english": "Silver",
+    "vietnamese": "Bạc",
+    "audio": "चाँदी​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दुनया​​​​'",
+    "prompt_en": "Choose the correct translation for 'दुनया​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दुनया​​​​'",
+    "text": "दुनया​​​​",
+    "subtext": "duniyā",
+    "answer": "World",
+    "answer_vi": "Thế giới",
+    "options": [
+      "Silver",
+      "under / below",
+      "World",
+      "Mountain"
+    ],
+    "options_vi": [
+      "Bạc",
+      "Dưới / Phía dưới",
+      "Thế giới",
+      "Ngọn núi"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के नीचे",
+    "transliteration": "ke neeche",
+    "english": "under / below",
+    "vietnamese": "Dưới / Phía dưới",
+    "audio": "के नीचे"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पहाड़​​",
+    "transliteration": "pahāṛ",
+    "english": "Mountain",
+    "vietnamese": "Ngọn núi",
+    "audio": "पहाड़​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दुनया​​​​",
+        "english": "World (Thế giới)"
+      },
+      {
+        "hindi": "चाँदी​​",
+        "english": "Silver (Bạc)"
+      },
+      {
+        "hindi": "के नीचे",
+        "english": "under / below (Dưới / Phía dưới)"
+      },
+      {
+        "hindi": "पहाड़​​",
+        "english": "Mountain (Ngọn núi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "चाँदी​​",
+    "translation_en": "Silver",
+    "translation_vi": "Bạc",
+    "options_en": [
+      "under / below",
+      "Mountain",
+      "Silver",
+      "World"
+    ],
+    "options_vi": [
+      "Dưới / Phía dưới",
+      "Ngọn núi",
+      "Bạc",
+      "Thế giới"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
+    "hindiWords": [
+      "मैं",
+      "सेब",
+      "खाता",
+      "हूँ",
+      "रोटी",
+      "है"
+    ],
+    "correctHindiSentence": "मैं सेब खाता हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रास्ता​",
+    "transliteration": "rāstā",
+    "english": "Path / Way",
+    "vietnamese": "Đường đi",
+    "audio": "रास्ता​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्याला​​​​​",
+    "transliteration": "pyālā",
+    "english": "Cup",
+    "vietnamese": "Tách",
+    "audio": "प्याला​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "के नीचे",
+        "english": "under / below (Dưới / Phía dưới)"
+      },
+      {
+        "hindi": "पहाड़​​",
+        "english": "Mountain (Ngọn núi)"
+      },
+      {
+        "hindi": "रास्ता​",
+        "english": "Path / Way (Đường đi)"
+      },
+      {
+        "hindi": "प्याला​​​​​",
+        "english": "Cup (Tách)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a big house / Đây là một ngôi nhà lớn",
+    "hindiWords": [
+      "यह",
+      "बड़ा",
+      "घर",
+      "है",
+      "छोटा",
+      "सड़क"
+    ],
+    "correctHindiSentence": "यह बड़ा घर है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: दुनया​​​​, के नीचे, रास्ता​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'This is a big house'."
+    ]
+  }
+]

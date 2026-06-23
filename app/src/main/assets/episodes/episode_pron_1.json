@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Lesson 1",
+    "description": "Learn key vocabulary and concepts for Pron - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "करना​​ (karnā) = To do / Làm",
+      "तुम्हारा (tumhaara) = Your (masculine familiar) / Của bạn (giống đực)",
+      "गाना​​ (gānā) = To sing / Hát"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 1",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: करना​​ means 'To do' (Làm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "करना​​",
+    "transliteration": "karnā",
+    "english": "To do",
+    "vietnamese": "Làm",
+    "audio": "करना​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तुम्हारा",
+    "transliteration": "tumhaara",
+    "english": "Your (masculine familiar)",
+    "vietnamese": "Của bạn (giống đực)",
+    "audio": "तुम्हारा"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'करना​​'",
+    "prompt_en": "Choose the correct translation for 'करना​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'करना​​'",
+    "text": "करना​​",
+    "subtext": "karnā",
+    "answer": "To do",
+    "answer_vi": "Làm",
+    "options": [
+      "To cry",
+      "Your (masculine familiar)",
+      "To sing",
+      "To do"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Của bạn (giống đực)",
+      "Hát",
+      "Làm"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाना​​",
+    "transliteration": "gānā",
+    "english": "To sing",
+    "vietnamese": "Hát",
+    "audio": "गाना​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "करना​​",
+        "english": "To do (Làm)"
+      },
+      {
+        "hindi": "तुम्हारा",
+        "english": "Your (masculine familiar) (Của bạn (giống đực))"
+      },
+      {
+        "hindi": "गाना​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "रोना​​",
+        "english": "To cry (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "तुम्हारा",
+    "translation_en": "Your (masculine familiar)",
+    "translation_vi": "Của bạn (giống đực)",
+    "options_en": [
+      "To cry",
+      "To sing",
+      "Your (masculine familiar)",
+      "To do"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Hát",
+      "Của bạn (giống đực)",
+      "Làm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "hindiWords": [
+      "कृपया",
+      "दाम",
+      "कम",
+      "करो",
+      "ज्यादा",
+      "पैसे"
+    ],
+    "correctHindiSentence": "कृपया दाम कम करो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बताना​​​",
+    "transliteration": "batānā",
+    "english": "To tell / explain",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "बताना​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाना",
+    "transliteration": "khānā",
+    "english": "To eat / Food",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "खाना"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "गाना​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "रोना​​",
+        "english": "To cry (Khóc)"
+      },
+      {
+        "hindi": "बताना​​​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      },
+      {
+        "hindi": "खाना",
+        "english": "To eat / Food (Ăn / Đồ ăn)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "How are you? / Bạn khỏe không?",
+    "hindiWords": [
+      "तुम",
+      "कैसे",
+      "हो",
+      "नमस्ते",
+      "हम",
+      "हैं"
+    ],
+    "correctHindiSentence": "तुम कैसे हो"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: करना​​, गाना​​, बताना​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'How are you?'."
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Your First Conversation",
+    "description": "It's Day 5. Let's put everything you learned together.",
+    "keyPoints": [
+      "You know how to say Hello.",
+      "You know how to ask for things.",
+      "You know how to ask where things are."
+    ]
+  },
+  {
+    "type": "DialogueMode",
+    "title": "A Friendly Encounter",
+    "lines": [
+      {
+        "speaker": "John",
+        "hindi": "नमस्ते। आप कैसे हैं?",
+        "translation": "Hello. How are you?"
+      },
+      {
+        "speaker": "Local",
+        "hindi": "नमस्ते! मैं ठीक हूँ।",
+        "translation": "Hello! I am fine."
+      },
+      {
+        "speaker": "John",
+        "hindi": "मुझे चाय चाहिए।",
+        "translation": "I want tea."
+      },
+      {
+        "speaker": "Local",
+        "hindi": "ज़रूर। (Sure)",
+        "translation": "Sure."
+      },
+      {
+        "speaker": "John",
+        "hindi": "धन्यवाद।",
+        "translation": "Thank you."
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want tea. Where is the hotel?",
+    "hindiWords": ["मुझे", "चाय", "चाहिए।", "होटल", "कहाँ", "है?"],
+    "correctOrder": ["मुझे", "चाय", "चाहिए।", "होटल", "कहाँ", "है?"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt_en": "What is the polite way to say Hello?",
+    "prompt_vi": "Cách lịch sự để nói Xin chào là gì?",
+    "text": "Hello",
+    "subtext": "",
+    "options": [
+      { "text": "नमस्ते (Namaste)", "isCorrect": true },
+      { "text": "चाय (Chai)", "isCorrect": false },
+      { "text": "कहाँ (Kahan)", "isCorrect": false }
+    ]
+  }
+]

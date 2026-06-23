@@ -1,0 +1,63 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Meeting New Friends",
+    "description": "It's your second day in Delhi. You met the taxi driver yesterday. Today, let's learn how to ask how someone is doing.",
+    "keyPoints": [
+      "आप कैसे हैं? (Aap kaise hain) = How are you?"
+    ]
+  },
+  {
+    "type": "DialogueMode",
+    "title": "Breakfast at the Hotel",
+    "lines": [
+      {
+        "speaker": "John",
+        "hindi": "नमस्ते।",
+        "translation": "Hello."
+      },
+      {
+        "speaker": "Rahul",
+        "hindi": "नमस्ते। आप कैसे हैं?",
+        "translation": "Hello. How are you?"
+      },
+      {
+        "speaker": "John",
+        "hindi": "मैं ठीक हूँ, धन्यवाद।",
+        "translation": "I am fine, thank you."
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Asking How Someone Is",
+    "explanation": "'आप कैसे हैं?' (Aap kaise hain?) is the standard, polite way to ask someone how they are.",
+    "simpleRule": "आप (You) कैसे (How) हैं (Are)?"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "How are you?",
+    "hindiWords": ["आप", "कैसे", "हैं?"],
+    "correctOrder": ["आप", "कैसे", "हैं?"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "धन्यवाद",
+    "translation": "Thank you",
+    "contextSentenceHindi": "मैं ठीक हूँ, धन्यवाद।",
+    "contextSentenceTranslation": "I am fine, thank you.",
+    "memoryTrick": "Dhanyavaad. A polite thank you."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt_en": "What does 'धन्यवाद' mean?",
+    "prompt_vi": "'धन्यवाद' có nghĩa là gì?",
+    "text": "धन्यवाद",
+    "subtext": "Dhanyavaad",
+    "options": [
+      { "text": "Thank you", "isCorrect": true },
+      { "text": "Hello", "isCorrect": false },
+      { "text": "How are you", "isCorrect": false }
+    ]
+  }
+]

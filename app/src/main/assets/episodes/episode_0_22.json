@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Foundation Academy - Level 22",
+    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 22. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "दफ़्तर​​​​ (daftar) = Office / Văn phòng",
+      "भूरा (bhoora) = Brown / Màu nâu",
+      "ताला​​​​​​​​​ (tālā) = Lock / Ổ khóa"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Alphabet & Building Blocks - Part 22",
+    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
+    "simpleRule": "Remember: दफ़्तर​​​​ means 'Office' (Văn phòng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भूरा",
+    "transliteration": "bhoora",
+    "english": "Brown",
+    "vietnamese": "Màu nâu",
+    "audio": "भूरा"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दफ़्तर​​​​'",
+    "prompt_en": "Choose the correct translation for 'दफ़्तर​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​'",
+    "text": "दफ़्तर​​​​",
+    "subtext": "daftar",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "Brown",
+      "Office",
+      "Lock",
+      "Help"
+    ],
+    "options_vi": [
+      "Màu nâu",
+      "Văn phòng",
+      "Ổ khóa",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ताला​​​​​​​​​",
+    "transliteration": "tālā",
+    "english": "Lock",
+    "vietnamese": "Ổ khóa",
+    "audio": "ताला​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दफ़्तर​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "भूरा",
+        "english": "Brown (Màu nâu)"
+      },
+      {
+        "hindi": "ताला​​​​​​​​​",
+        "english": "Lock (Ổ khóa)"
+      },
+      {
+        "hindi": "मदद​​​​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "भूरा",
+    "translation_en": "Brown",
+    "translation_vi": "Màu nâu",
+    "options_en": [
+      "Brown",
+      "Help",
+      "Lock",
+      "Office"
+    ],
+    "options_vi": [
+      "Màu nâu",
+      "Sự giúp đỡ",
+      "Ổ khóa",
+      "Văn phòng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जागना​​​​​​​",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "ताला​​​​​​​​​",
+        "english": "Lock (Ổ khóa)"
+      },
+      {
+        "hindi": "मदद​​​​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "जागना​​​​​​​",
+        "english": "To wake up (Thức dậy)"
+      },
+      {
+        "hindi": "सुनना​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "hindiWords": [
+      "मैं",
+      "लड़का",
+      "हूँ",
+      "लड़की",
+      "है"
+    ],
+    "correctHindiSentence": "मैं लड़का हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: दफ़्तर​​​​, ताला​​​​​​​​​, जागना​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I am a boy'."
+    ]
+  }
+]

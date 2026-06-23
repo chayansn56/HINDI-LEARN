@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Foundation Academy - Level 26",
+    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 26. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "सीखना​​​​​​​ (sīkhnā) = To learn / Học",
+      "बुखार (bukhaar) = Fever / Sốt",
+      "खिड़की (khiṛkī) = Window / Cửa sổ"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Alphabet & Building Blocks - Part 26",
+    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
+    "simpleRule": "Remember: सीखना​​​​​​​ means 'To learn' (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बुखार",
+    "transliteration": "bukhaar",
+    "english": "Fever",
+    "vietnamese": "Sốt",
+    "audio": "बुखार"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सीखना​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'सीखना​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सीखना​​​​​​​'",
+    "text": "सीखना​​​​​​​",
+    "subtext": "sīkhnā",
+    "answer": "To learn",
+    "answer_vi": "Học",
+    "options": [
+      "Window",
+      "Fever",
+      "To learn",
+      "To speak"
+    ],
+    "options_vi": [
+      "Cửa sổ",
+      "Sốt",
+      "Học",
+      "Nói"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खिड़की",
+    "transliteration": "khiṛkī",
+    "english": "Window",
+    "vietnamese": "Cửa sổ",
+    "audio": "खिड़की"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सीखना​​​​​​​",
+        "english": "To learn (Học)"
+      },
+      {
+        "hindi": "बुखार",
+        "english": "Fever (Sốt)"
+      },
+      {
+        "hindi": "खिड़की",
+        "english": "Window (Cửa sổ)"
+      },
+      {
+        "hindi": "बोलना​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "बुखार",
+    "translation_en": "Fever",
+    "translation_vi": "Sốt",
+    "options_en": [
+      "Fever",
+      "Window",
+      "To speak",
+      "To learn"
+    ],
+    "options_vi": [
+      "Sốt",
+      "Cửa sổ",
+      "Nói",
+      "Học"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फ़ोन",
+    "transliteration": "phone",
+    "english": "Phone",
+    "vietnamese": "Điện thoại",
+    "audio": "फ़ोन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "खिड़की",
+        "english": "Window (Cửa sổ)"
+      },
+      {
+        "hindi": "बोलना​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "फ़ोन",
+        "english": "Phone (Điện thoại)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "hindiWords": [
+      "मैं",
+      "लड़का",
+      "हूँ",
+      "लड़की",
+      "है"
+    ],
+    "correctHindiSentence": "मैं लड़का हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: सीखना​​​​​​​, खिड़की, फ़ोन.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I am a boy'."
+    ]
+  }
+]

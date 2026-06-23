@@ -1,0 +1,121 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Consonants: Palate Sounds (चवर्ग)",
+    "description": "In this episode, we learn the palatal consonants — sounds made by pressing the tongue against the palate (roof of the mouth). These five letters are च, छ, ज, झ, and ञ. You'll also learn common words that use these sounds.",
+    "keyPoints": [
+      "च (cha), छ (chha), ज (ja), झ (jha), ञ (nya) — the palatal group",
+      "These sounds are produced with the middle of the tongue touching the hard palate",
+      "छ is the aspirated version of च, and झ is the aspirated version of ज",
+      "ञ is rare on its own but appears in conjuncts like ज्ञ"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "च",
+    "transliteration": "cha",
+    "english": "cha (as in 'church')",
+    "vietnamese": "cha (như chữ 'ch' trong tiếng Việt)",
+    "audio": "च"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "छ",
+    "transliteration": "chha",
+    "english": "chha (aspirated 'ch')",
+    "vietnamese": "chha (ch có bật hơi)",
+    "audio": "छ"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "च",
+    "hint": "Start with a vertical line on the right, then add the curved part on the left, and finish with the headline (shirorekha) on top."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ज",
+    "transliteration": "ja",
+    "english": "ja (as in 'jump')",
+    "vietnamese": "ja (như 'gi' trong tiếng Việt)",
+    "audio": "ज"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "झ",
+    "transliteration": "jha",
+    "english": "jha (aspirated 'j')",
+    "vietnamese": "jha (j có bật hơi)",
+    "audio": "झ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ञ",
+    "transliteration": "nya",
+    "english": "nya (nasal palatal, as in 'canyon')",
+    "vietnamese": "nya (như 'nh' trong tiếng Việt)",
+    "audio": "ञ"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Identify the letter",
+    "text": "Which letter makes the 'jha' sound?",
+    "subtext": "चवर्ग — palatal consonants",
+    "answer": "झ",
+    "options": ["ज", "झ", "छ", "ञ"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "चम्मच",
+    "translation": "Spoon",
+    "contextSentenceHindi": "चम्मच से खाओ।",
+    "contextSentenceTranslation": "Eat with a spoon.",
+    "memoryTrick": "Chammach — 'ch' for 'ch'op with a spoon!"
+  },
+  {
+    "type": "Listening",
+    "audio": "छाता",
+    "translation_en": "Umbrella",
+    "options_en": ["Umbrella", "Spoon", "Water", "Flag"],
+    "translation_vi": "Ô (dù)",
+    "options_vi": ["Ô (dù)", "Thìa", "Nước", "Cờ"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "जल",
+    "translation": "Water",
+    "contextSentenceHindi": "जल ही जीवन है।",
+    "contextSentenceTranslation": "Water is life.",
+    "memoryTrick": "'Jal' sounds like 'gel' — both are liquidy!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Word recognition",
+    "text": "What does झंडा mean?",
+    "subtext": "झंडा (jhaṇḍā)",
+    "answer": "Flag",
+    "options": ["Water", "Umbrella", "Flag", "Spoon"]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ज",
+    "hint": "Draw the curved body first, then the vertical stroke on the right, and add the headline on top."
+  },
+  {
+    "type": "Listening",
+    "audio": "चम्मच",
+    "translation_en": "Spoon",
+    "options_en": ["Flag", "Spoon", "Umbrella", "Water"],
+    "translation_vi": "Thìa",
+    "options_vi": ["Cờ", "Thìa", "Ô (dù)", "Nước"]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Palate Sounds — Recap",
+    "takeaways": [
+      "You learned 5 palatal consonants: च (cha), छ (chha), ज (ja), झ (jha), ञ (nya)",
+      "छ and झ are the aspirated (breathy) versions of च and ज",
+      "ञ is a nasal sound rarely used alone but important in conjuncts",
+      "New words: चम्मच (spoon), छाता (umbrella), जल (water), झंडा (flag)"
+    ]
+  }
+]

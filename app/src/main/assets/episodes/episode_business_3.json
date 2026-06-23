@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Lesson 3",
+    "description": "Learn key vocabulary and concepts for Business - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (hãsnā) = To laugh / Cười lớn",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (khaṛe honā) = To stand / Đứng",
+      "धोना​​​​​​​​​​​​​​​​​​​​​​ (dhonā) = To wash / Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 3",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To laugh' (Cười lớn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "hãsnā",
+    "english": "To laugh",
+    "vietnamese": "Cười lớn",
+    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khaṛe honā",
+    "english": "To stand",
+    "vietnamese": "Đứng",
+    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "hãsnā",
+    "answer": "To laugh",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "To stand",
+      "To clean",
+      "To wash",
+      "To laugh"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Dọn dẹp / Lau chùi",
+      "Rửa / Giặt",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dhonā",
+    "english": "To wash",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "धोना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sāf karnā",
+    "english": "To clean",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      },
+      {
+        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      },
+      {
+        "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wash (Rửa / Giặt)"
+      },
+      {
+        "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To clean (Dọn dẹp / Lau chùi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To stand",
+    "translation_vi": "Đứng",
+    "options_en": [
+      "To stand",
+      "To laugh",
+      "To clean",
+      "To wash"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Cười lớn",
+      "Dọn dẹp / Lau chùi",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please sign here / Vui lòng ký vào đây",
+    "hindiWords": [
+      "कृपया",
+      "यहाँ",
+      "हस्ताक्षर",
+      "करें",
+      "कागज़",
+      "लिखना"
+    ],
+    "correctHindiSentence": "कृपया यहाँ हस्ताक्षर करें"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "batānā",
+    "english": "To tell / explain",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफलता",
+    "transliteration": "safalta",
+    "english": "Success",
+    "vietnamese": "Sự thành công",
+    "audio": "सफलता"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wash (Rửa / Giặt)"
+      },
+      {
+        "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To clean (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      },
+      {
+        "hindi": "सफलता",
+        "english": "Success (Sự thành công)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is the office? / Văn phòng ở đâu?",
+    "hindiWords": [
+      "दफ़्तर",
+      "कहाँ",
+      "है",
+      "कमरा",
+      "में"
+    ],
+    "correctHindiSentence": "दफ़्तर कहाँ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, धोना​​​​​​​​​​​​​​​​​​​​​​, बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Where is the office?'."
+    ]
+  }
+]

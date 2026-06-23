@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Listen - Lesson 5",
+    "description": "Learn key vocabulary and concepts for Listen - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "बनाना​​​​​​​​​ (banānā) = To make / build / Chế tạo / Tạo ra",
+      "दौड़ना​​​​​​​​​​​​ (dauṛnā) = To run / Chạy",
+      "करना​​​​​​​​​ (karnā) = To do / Làm"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 5",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: बनाना​​​​​​​​​ means 'To make / build' (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दौड़ना​​​​​​​​​​​​",
+    "transliteration": "dauṛnā",
+    "english": "To run",
+    "vietnamese": "Chạy",
+    "audio": "दौड़ना​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बनाना​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'बनाना​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​'",
+    "text": "बनाना​​​​​​​​​",
+    "subtext": "banānā",
+    "answer": "To make / build",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "To make / build",
+      "To run",
+      "To do",
+      "To do"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Chạy",
+      "Làm",
+      "Làm"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "करना​​​​​​​​​",
+    "transliteration": "karnā",
+    "english": "To do",
+    "vietnamese": "Làm",
+    "audio": "करना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "करना​​​​​​​​​​​",
+    "transliteration": "karnā",
+    "english": "To do",
+    "vietnamese": "Làm",
+    "audio": "करना​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बनाना​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "दौड़ना​​​​​​​​​​​​",
+        "english": "To run (Chạy)"
+      },
+      {
+        "hindi": "करना​​​​​​​​​",
+        "english": "To do (Làm)"
+      },
+      {
+        "hindi": "करना​​​​​​​​​​​",
+        "english": "To do (Làm)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दौड़ना​​​​​​​​​​​​",
+    "translation_en": "To run",
+    "translation_vi": "Chạy",
+    "options_en": [
+      "To do",
+      "To do",
+      "To make / build",
+      "To run"
+    ],
+    "options_vi": [
+      "Làm",
+      "Làm",
+      "Chế tạo / Tạo ra",
+      "Chạy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This water is clean / Nước này sạch",
+    "hindiWords": [
+      "यह",
+      "पानी",
+      "साफ़",
+      "है",
+      "दूध",
+      "गंदा"
+    ],
+    "correctHindiSentence": "यह पानी साफ़ है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाना​​​​​​​​​​",
+    "transliteration": "gānā",
+    "english": "To sing",
+    "vietnamese": "Hát",
+    "audio": "गाना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "करना​​​​​​​​​",
+        "english": "To do (Làm)"
+      },
+      {
+        "hindi": "करना​​​​​​​​​​​",
+        "english": "To do (Làm)"
+      },
+      {
+        "hindi": "गाना​​​​​​​​​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This water is clean / Nước này sạch",
+    "hindiWords": [
+      "यह",
+      "पानी",
+      "साफ़",
+      "है",
+      "दूध",
+      "गंदा"
+    ],
+    "correctHindiSentence": "यह पानी साफ़ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: बनाना​​​​​​​​​, करना​​​​​​​​​, गाना​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'This water is clean'."
+    ]
+  }
+]

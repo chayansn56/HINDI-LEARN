@@ -1,0 +1,7602 @@
+[
+  {
+    "sectionTitle": "Level 1: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_1",
+        "type": "AI_TUTOR",
+        "label": "Lesson 1",
+        "isLocked": false,
+        "xOffset": -3
+      },
+      {
+        "id": "node_2",
+        "type": "GRAMMAR",
+        "label": "Lesson 2",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_3",
+        "type": "NATURE",
+        "label": "Lesson 3",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_4",
+        "type": "CULTURE",
+        "label": "Lesson 4",
+        "isLocked": true,
+        "xOffset": 14
+      },
+      {
+        "id": "node_5",
+        "type": "VOCABULARY",
+        "label": "Lesson 5",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_6",
+        "type": "VERBS",
+        "label": "Lesson 6",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_7",
+        "type": "NATURE",
+        "label": "Lesson 7",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_8",
+        "type": "GRAMMAR",
+        "label": "Lesson 8",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_9",
+        "type": "FAMILY",
+        "label": "Lesson 9",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_10",
+        "type": "AI_TUTOR",
+        "label": "Lesson 10",
+        "isLocked": true,
+        "xOffset": -6
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 2: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_11",
+        "type": "AI_TUTOR",
+        "label": "Lesson 11",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_12",
+        "type": "PRONOUNS",
+        "label": "Lesson 12",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_13",
+        "type": "FAMILY",
+        "label": "Lesson 13",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_14",
+        "type": "CULTURE",
+        "label": "Lesson 14",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_15",
+        "type": "FOOD",
+        "label": "Lesson 15",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_16",
+        "type": "GRAMMAR",
+        "label": "Lesson 16",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_17",
+        "type": "FAMILY",
+        "label": "Lesson 17",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_18",
+        "type": "VERBS",
+        "label": "Lesson 18",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_19",
+        "type": "VOCABULARY",
+        "label": "Lesson 19",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_20",
+        "type": "AI_TUTOR",
+        "label": "Lesson 20",
+        "isLocked": true,
+        "xOffset": -31
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 3: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_21",
+        "type": "AI_TUTOR",
+        "label": "Lesson 21",
+        "isLocked": true,
+        "xOffset": 10
+      },
+      {
+        "id": "node_22",
+        "type": "GRAMMAR",
+        "label": "Lesson 22",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_23",
+        "type": "FOOD",
+        "label": "Lesson 23",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_24",
+        "type": "CULTURE",
+        "label": "Lesson 24",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_25",
+        "type": "VOCABULARY",
+        "label": "Lesson 25",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_26",
+        "type": "VERBS",
+        "label": "Lesson 26",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_27",
+        "type": "VOCABULARY",
+        "label": "Lesson 27",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_28",
+        "type": "GRAMMAR",
+        "label": "Lesson 28",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_29",
+        "type": "NATURE",
+        "label": "Lesson 29",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_30",
+        "type": "AI_TUTOR",
+        "label": "Lesson 30",
+        "isLocked": true,
+        "xOffset": -31
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 4: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_31",
+        "type": "AI_TUTOR",
+        "label": "Lesson 31",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_32",
+        "type": "VERBS",
+        "label": "Lesson 32",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_33",
+        "type": "FOOD",
+        "label": "Lesson 33",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_34",
+        "type": "CULTURE",
+        "label": "Lesson 34",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_35",
+        "type": "FAMILY",
+        "label": "Lesson 35",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_36",
+        "type": "PRONOUNS",
+        "label": "Lesson 36",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_37",
+        "type": "VOCABULARY",
+        "label": "Lesson 37",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_38",
+        "type": "GRAMMAR",
+        "label": "Lesson 38",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_39",
+        "type": "FAMILY",
+        "label": "Lesson 39",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_40",
+        "type": "AI_TUTOR",
+        "label": "Lesson 40",
+        "isLocked": true,
+        "xOffset": -8
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 5: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_41",
+        "type": "AI_TUTOR",
+        "label": "Lesson 41",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_42",
+        "type": "GRAMMAR",
+        "label": "Lesson 42",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_43",
+        "type": "FOOD",
+        "label": "Lesson 43",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_44",
+        "type": "CULTURE",
+        "label": "Lesson 44",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_45",
+        "type": "NATURE",
+        "label": "Lesson 45",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_46",
+        "type": "GRAMMAR",
+        "label": "Lesson 46",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_47",
+        "type": "FOOD",
+        "label": "Lesson 47",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_48",
+        "type": "GRAMMAR",
+        "label": "Lesson 48",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_49",
+        "type": "FOOD",
+        "label": "Lesson 49",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_50",
+        "type": "AI_TUTOR",
+        "label": "Lesson 50",
+        "isLocked": true,
+        "xOffset": -5
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 6: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_51",
+        "type": "AI_TUTOR",
+        "label": "Lesson 51",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_52",
+        "type": "GRAMMAR",
+        "label": "Lesson 52",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_53",
+        "type": "FAMILY",
+        "label": "Lesson 53",
+        "isLocked": true,
+        "xOffset": -17
+      },
+      {
+        "id": "node_54",
+        "type": "CULTURE",
+        "label": "Lesson 54",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_55",
+        "type": "VOCABULARY",
+        "label": "Lesson 55",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_56",
+        "type": "VERBS",
+        "label": "Lesson 56",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_57",
+        "type": "FOOD",
+        "label": "Lesson 57",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_58",
+        "type": "PRONOUNS",
+        "label": "Lesson 58",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_59",
+        "type": "FOOD",
+        "label": "Lesson 59",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_60",
+        "type": "AI_TUTOR",
+        "label": "Lesson 60",
+        "isLocked": true,
+        "xOffset": 20
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 7: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_61",
+        "type": "AI_TUTOR",
+        "label": "Lesson 61",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_62",
+        "type": "GRAMMAR",
+        "label": "Lesson 62",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_63",
+        "type": "FOOD",
+        "label": "Lesson 63",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_64",
+        "type": "CULTURE",
+        "label": "Lesson 64",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_65",
+        "type": "FOOD",
+        "label": "Lesson 65",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_66",
+        "type": "PRONOUNS",
+        "label": "Lesson 66",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_67",
+        "type": "FAMILY",
+        "label": "Lesson 67",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_68",
+        "type": "VERBS",
+        "label": "Lesson 68",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_69",
+        "type": "VOCABULARY",
+        "label": "Lesson 69",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_70",
+        "type": "AI_TUTOR",
+        "label": "Lesson 70",
+        "isLocked": true,
+        "xOffset": 39
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 8: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_71",
+        "type": "AI_TUTOR",
+        "label": "Lesson 71",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_72",
+        "type": "GRAMMAR",
+        "label": "Lesson 72",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_73",
+        "type": "NATURE",
+        "label": "Lesson 73",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_74",
+        "type": "CULTURE",
+        "label": "Lesson 74",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_75",
+        "type": "VOCABULARY",
+        "label": "Lesson 75",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_76",
+        "type": "VERBS",
+        "label": "Lesson 76",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_77",
+        "type": "VOCABULARY",
+        "label": "Lesson 77",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_78",
+        "type": "PRONOUNS",
+        "label": "Lesson 78",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_79",
+        "type": "FOOD",
+        "label": "Lesson 79",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_80",
+        "type": "AI_TUTOR",
+        "label": "Lesson 80",
+        "isLocked": true,
+        "xOffset": -1
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 9: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_81",
+        "type": "AI_TUTOR",
+        "label": "Lesson 81",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_82",
+        "type": "VERBS",
+        "label": "Lesson 82",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_83",
+        "type": "NATURE",
+        "label": "Lesson 83",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_84",
+        "type": "CULTURE",
+        "label": "Lesson 84",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_85",
+        "type": "FAMILY",
+        "label": "Lesson 85",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_86",
+        "type": "PRONOUNS",
+        "label": "Lesson 86",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_87",
+        "type": "FOOD",
+        "label": "Lesson 87",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_88",
+        "type": "GRAMMAR",
+        "label": "Lesson 88",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_89",
+        "type": "VOCABULARY",
+        "label": "Lesson 89",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_90",
+        "type": "AI_TUTOR",
+        "label": "Lesson 90",
+        "isLocked": true,
+        "xOffset": 10
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 10: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_91",
+        "type": "AI_TUTOR",
+        "label": "Lesson 91",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_92",
+        "type": "PRONOUNS",
+        "label": "Lesson 92",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_93",
+        "type": "NATURE",
+        "label": "Lesson 93",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_94",
+        "type": "CULTURE",
+        "label": "Lesson 94",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_95",
+        "type": "FOOD",
+        "label": "Lesson 95",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_96",
+        "type": "VERBS",
+        "label": "Lesson 96",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_97",
+        "type": "FOOD",
+        "label": "Lesson 97",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_98",
+        "type": "VERBS",
+        "label": "Lesson 98",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_99",
+        "type": "VOCABULARY",
+        "label": "Lesson 99",
+        "isLocked": true,
+        "xOffset": 8
+      },
+      {
+        "id": "node_100",
+        "type": "AI_TUTOR",
+        "label": "Lesson 100",
+        "isLocked": true,
+        "xOffset": -3
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 11: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_101",
+        "type": "AI_TUTOR",
+        "label": "Lesson 101",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_102",
+        "type": "PRONOUNS",
+        "label": "Lesson 102",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_103",
+        "type": "FOOD",
+        "label": "Lesson 103",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_104",
+        "type": "CULTURE",
+        "label": "Lesson 104",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_105",
+        "type": "VOCABULARY",
+        "label": "Lesson 105",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_106",
+        "type": "VERBS",
+        "label": "Lesson 106",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_107",
+        "type": "FOOD",
+        "label": "Lesson 107",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_108",
+        "type": "GRAMMAR",
+        "label": "Lesson 108",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_109",
+        "type": "VOCABULARY",
+        "label": "Lesson 109",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_110",
+        "type": "AI_TUTOR",
+        "label": "Lesson 110",
+        "isLocked": true,
+        "xOffset": -38
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 12: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_111",
+        "type": "AI_TUTOR",
+        "label": "Lesson 111",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_112",
+        "type": "PRONOUNS",
+        "label": "Lesson 112",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_113",
+        "type": "FAMILY",
+        "label": "Lesson 113",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_114",
+        "type": "CULTURE",
+        "label": "Lesson 114",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_115",
+        "type": "FAMILY",
+        "label": "Lesson 115",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_116",
+        "type": "GRAMMAR",
+        "label": "Lesson 116",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_117",
+        "type": "FAMILY",
+        "label": "Lesson 117",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_118",
+        "type": "VERBS",
+        "label": "Lesson 118",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_119",
+        "type": "FOOD",
+        "label": "Lesson 119",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_120",
+        "type": "AI_TUTOR",
+        "label": "Lesson 120",
+        "isLocked": true,
+        "xOffset": -40
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 13: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_121",
+        "type": "AI_TUTOR",
+        "label": "Lesson 121",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_122",
+        "type": "GRAMMAR",
+        "label": "Lesson 122",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_123",
+        "type": "NATURE",
+        "label": "Lesson 123",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_124",
+        "type": "CULTURE",
+        "label": "Lesson 124",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_125",
+        "type": "FAMILY",
+        "label": "Lesson 125",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_126",
+        "type": "PRONOUNS",
+        "label": "Lesson 126",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_127",
+        "type": "VOCABULARY",
+        "label": "Lesson 127",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_128",
+        "type": "GRAMMAR",
+        "label": "Lesson 128",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_129",
+        "type": "NATURE",
+        "label": "Lesson 129",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_130",
+        "type": "AI_TUTOR",
+        "label": "Lesson 130",
+        "isLocked": true,
+        "xOffset": -37
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 14: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_131",
+        "type": "AI_TUTOR",
+        "label": "Lesson 131",
+        "isLocked": true,
+        "xOffset": 8
+      },
+      {
+        "id": "node_132",
+        "type": "PRONOUNS",
+        "label": "Lesson 132",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_133",
+        "type": "VOCABULARY",
+        "label": "Lesson 133",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_134",
+        "type": "CULTURE",
+        "label": "Lesson 134",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_135",
+        "type": "NATURE",
+        "label": "Lesson 135",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_136",
+        "type": "PRONOUNS",
+        "label": "Lesson 136",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_137",
+        "type": "FOOD",
+        "label": "Lesson 137",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_138",
+        "type": "PRONOUNS",
+        "label": "Lesson 138",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_139",
+        "type": "NATURE",
+        "label": "Lesson 139",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_140",
+        "type": "AI_TUTOR",
+        "label": "Lesson 140",
+        "isLocked": true,
+        "xOffset": -36
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 15: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_141",
+        "type": "AI_TUTOR",
+        "label": "Lesson 141",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_142",
+        "type": "PRONOUNS",
+        "label": "Lesson 142",
+        "isLocked": true,
+        "xOffset": 36
+      },
+      {
+        "id": "node_143",
+        "type": "FAMILY",
+        "label": "Lesson 143",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_144",
+        "type": "CULTURE",
+        "label": "Lesson 144",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_145",
+        "type": "FOOD",
+        "label": "Lesson 145",
+        "isLocked": true,
+        "xOffset": -16
+      },
+      {
+        "id": "node_146",
+        "type": "VERBS",
+        "label": "Lesson 146",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_147",
+        "type": "VOCABULARY",
+        "label": "Lesson 147",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_148",
+        "type": "GRAMMAR",
+        "label": "Lesson 148",
+        "isLocked": true,
+        "xOffset": 8
+      },
+      {
+        "id": "node_149",
+        "type": "NATURE",
+        "label": "Lesson 149",
+        "isLocked": true,
+        "xOffset": 36
+      },
+      {
+        "id": "node_150",
+        "type": "AI_TUTOR",
+        "label": "Lesson 150",
+        "isLocked": true,
+        "xOffset": -19
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 16: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_151",
+        "type": "AI_TUTOR",
+        "label": "Lesson 151",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_152",
+        "type": "GRAMMAR",
+        "label": "Lesson 152",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_153",
+        "type": "FOOD",
+        "label": "Lesson 153",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_154",
+        "type": "CULTURE",
+        "label": "Lesson 154",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_155",
+        "type": "FOOD",
+        "label": "Lesson 155",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_156",
+        "type": "PRONOUNS",
+        "label": "Lesson 156",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_157",
+        "type": "FOOD",
+        "label": "Lesson 157",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_158",
+        "type": "GRAMMAR",
+        "label": "Lesson 158",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_159",
+        "type": "VOCABULARY",
+        "label": "Lesson 159",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_160",
+        "type": "AI_TUTOR",
+        "label": "Lesson 160",
+        "isLocked": true,
+        "xOffset": 28
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 17: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_161",
+        "type": "AI_TUTOR",
+        "label": "Lesson 161",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_162",
+        "type": "VERBS",
+        "label": "Lesson 162",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_163",
+        "type": "NATURE",
+        "label": "Lesson 163",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_164",
+        "type": "CULTURE",
+        "label": "Lesson 164",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_165",
+        "type": "NATURE",
+        "label": "Lesson 165",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_166",
+        "type": "GRAMMAR",
+        "label": "Lesson 166",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_167",
+        "type": "NATURE",
+        "label": "Lesson 167",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_168",
+        "type": "VERBS",
+        "label": "Lesson 168",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_169",
+        "type": "NATURE",
+        "label": "Lesson 169",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_170",
+        "type": "AI_TUTOR",
+        "label": "Lesson 170",
+        "isLocked": true,
+        "xOffset": 8
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 18: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_171",
+        "type": "AI_TUTOR",
+        "label": "Lesson 171",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_172",
+        "type": "GRAMMAR",
+        "label": "Lesson 172",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_173",
+        "type": "VOCABULARY",
+        "label": "Lesson 173",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_174",
+        "type": "CULTURE",
+        "label": "Lesson 174",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_175",
+        "type": "FOOD",
+        "label": "Lesson 175",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_176",
+        "type": "VERBS",
+        "label": "Lesson 176",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_177",
+        "type": "FOOD",
+        "label": "Lesson 177",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_178",
+        "type": "GRAMMAR",
+        "label": "Lesson 178",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_179",
+        "type": "NATURE",
+        "label": "Lesson 179",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_180",
+        "type": "AI_TUTOR",
+        "label": "Lesson 180",
+        "isLocked": true,
+        "xOffset": 14
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 19: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_181",
+        "type": "AI_TUTOR",
+        "label": "Lesson 181",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_182",
+        "type": "GRAMMAR",
+        "label": "Lesson 182",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_183",
+        "type": "FAMILY",
+        "label": "Lesson 183",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_184",
+        "type": "CULTURE",
+        "label": "Lesson 184",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_185",
+        "type": "NATURE",
+        "label": "Lesson 185",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_186",
+        "type": "VERBS",
+        "label": "Lesson 186",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_187",
+        "type": "FOOD",
+        "label": "Lesson 187",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_188",
+        "type": "GRAMMAR",
+        "label": "Lesson 188",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_189",
+        "type": "VOCABULARY",
+        "label": "Lesson 189",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_190",
+        "type": "AI_TUTOR",
+        "label": "Lesson 190",
+        "isLocked": true,
+        "xOffset": 6
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 20: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_191",
+        "type": "AI_TUTOR",
+        "label": "Lesson 191",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_192",
+        "type": "GRAMMAR",
+        "label": "Lesson 192",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_193",
+        "type": "NATURE",
+        "label": "Lesson 193",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_194",
+        "type": "CULTURE",
+        "label": "Lesson 194",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_195",
+        "type": "VOCABULARY",
+        "label": "Lesson 195",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_196",
+        "type": "GRAMMAR",
+        "label": "Lesson 196",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_197",
+        "type": "VOCABULARY",
+        "label": "Lesson 197",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_198",
+        "type": "GRAMMAR",
+        "label": "Lesson 198",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_199",
+        "type": "FOOD",
+        "label": "Lesson 199",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_200",
+        "type": "AI_TUTOR",
+        "label": "Lesson 200",
+        "isLocked": true,
+        "xOffset": -10
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 21: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_201",
+        "type": "AI_TUTOR",
+        "label": "Lesson 201",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_202",
+        "type": "GRAMMAR",
+        "label": "Lesson 202",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_203",
+        "type": "VOCABULARY",
+        "label": "Lesson 203",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_204",
+        "type": "CULTURE",
+        "label": "Lesson 204",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_205",
+        "type": "VOCABULARY",
+        "label": "Lesson 205",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_206",
+        "type": "PRONOUNS",
+        "label": "Lesson 206",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_207",
+        "type": "VOCABULARY",
+        "label": "Lesson 207",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_208",
+        "type": "GRAMMAR",
+        "label": "Lesson 208",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_209",
+        "type": "FOOD",
+        "label": "Lesson 209",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_210",
+        "type": "AI_TUTOR",
+        "label": "Lesson 210",
+        "isLocked": true,
+        "xOffset": 6
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 22: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_211",
+        "type": "AI_TUTOR",
+        "label": "Lesson 211",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_212",
+        "type": "VERBS",
+        "label": "Lesson 212",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_213",
+        "type": "FAMILY",
+        "label": "Lesson 213",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_214",
+        "type": "CULTURE",
+        "label": "Lesson 214",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_215",
+        "type": "NATURE",
+        "label": "Lesson 215",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_216",
+        "type": "PRONOUNS",
+        "label": "Lesson 216",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_217",
+        "type": "FAMILY",
+        "label": "Lesson 217",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_218",
+        "type": "PRONOUNS",
+        "label": "Lesson 218",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_219",
+        "type": "FOOD",
+        "label": "Lesson 219",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_220",
+        "type": "AI_TUTOR",
+        "label": "Lesson 220",
+        "isLocked": true,
+        "xOffset": -27
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 23: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_221",
+        "type": "AI_TUTOR",
+        "label": "Lesson 221",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_222",
+        "type": "VERBS",
+        "label": "Lesson 222",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_223",
+        "type": "FAMILY",
+        "label": "Lesson 223",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_224",
+        "type": "CULTURE",
+        "label": "Lesson 224",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_225",
+        "type": "VOCABULARY",
+        "label": "Lesson 225",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_226",
+        "type": "VERBS",
+        "label": "Lesson 226",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_227",
+        "type": "FAMILY",
+        "label": "Lesson 227",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_228",
+        "type": "PRONOUNS",
+        "label": "Lesson 228",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_229",
+        "type": "FOOD",
+        "label": "Lesson 229",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_230",
+        "type": "AI_TUTOR",
+        "label": "Lesson 230",
+        "isLocked": true,
+        "xOffset": 34
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 24: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_231",
+        "type": "AI_TUTOR",
+        "label": "Lesson 231",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_232",
+        "type": "GRAMMAR",
+        "label": "Lesson 232",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_233",
+        "type": "VOCABULARY",
+        "label": "Lesson 233",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_234",
+        "type": "CULTURE",
+        "label": "Lesson 234",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_235",
+        "type": "VOCABULARY",
+        "label": "Lesson 235",
+        "isLocked": true,
+        "xOffset": -16
+      },
+      {
+        "id": "node_236",
+        "type": "GRAMMAR",
+        "label": "Lesson 236",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_237",
+        "type": "VOCABULARY",
+        "label": "Lesson 237",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_238",
+        "type": "VERBS",
+        "label": "Lesson 238",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_239",
+        "type": "VOCABULARY",
+        "label": "Lesson 239",
+        "isLocked": true,
+        "xOffset": 14
+      },
+      {
+        "id": "node_240",
+        "type": "AI_TUTOR",
+        "label": "Lesson 240",
+        "isLocked": true,
+        "xOffset": 34
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 25: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_241",
+        "type": "AI_TUTOR",
+        "label": "Lesson 241",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_242",
+        "type": "GRAMMAR",
+        "label": "Lesson 242",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_243",
+        "type": "VOCABULARY",
+        "label": "Lesson 243",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_244",
+        "type": "CULTURE",
+        "label": "Lesson 244",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_245",
+        "type": "NATURE",
+        "label": "Lesson 245",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_246",
+        "type": "GRAMMAR",
+        "label": "Lesson 246",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_247",
+        "type": "FAMILY",
+        "label": "Lesson 247",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_248",
+        "type": "PRONOUNS",
+        "label": "Lesson 248",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_249",
+        "type": "FOOD",
+        "label": "Lesson 249",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_250",
+        "type": "AI_TUTOR",
+        "label": "Lesson 250",
+        "isLocked": true,
+        "xOffset": 0
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 26: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_251",
+        "type": "AI_TUTOR",
+        "label": "Lesson 251",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_252",
+        "type": "GRAMMAR",
+        "label": "Lesson 252",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_253",
+        "type": "VOCABULARY",
+        "label": "Lesson 253",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_254",
+        "type": "CULTURE",
+        "label": "Lesson 254",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_255",
+        "type": "NATURE",
+        "label": "Lesson 255",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_256",
+        "type": "GRAMMAR",
+        "label": "Lesson 256",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_257",
+        "type": "VOCABULARY",
+        "label": "Lesson 257",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_258",
+        "type": "PRONOUNS",
+        "label": "Lesson 258",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_259",
+        "type": "FAMILY",
+        "label": "Lesson 259",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_260",
+        "type": "AI_TUTOR",
+        "label": "Lesson 260",
+        "isLocked": true,
+        "xOffset": 16
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 27: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_261",
+        "type": "AI_TUTOR",
+        "label": "Lesson 261",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_262",
+        "type": "GRAMMAR",
+        "label": "Lesson 262",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_263",
+        "type": "FAMILY",
+        "label": "Lesson 263",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_264",
+        "type": "CULTURE",
+        "label": "Lesson 264",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_265",
+        "type": "VOCABULARY",
+        "label": "Lesson 265",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_266",
+        "type": "GRAMMAR",
+        "label": "Lesson 266",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_267",
+        "type": "FAMILY",
+        "label": "Lesson 267",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_268",
+        "type": "GRAMMAR",
+        "label": "Lesson 268",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_269",
+        "type": "FOOD",
+        "label": "Lesson 269",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_270",
+        "type": "AI_TUTOR",
+        "label": "Lesson 270",
+        "isLocked": true,
+        "xOffset": 22
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 28: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_271",
+        "type": "AI_TUTOR",
+        "label": "Lesson 271",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_272",
+        "type": "PRONOUNS",
+        "label": "Lesson 272",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_273",
+        "type": "NATURE",
+        "label": "Lesson 273",
+        "isLocked": true,
+        "xOffset": 36
+      },
+      {
+        "id": "node_274",
+        "type": "CULTURE",
+        "label": "Lesson 274",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_275",
+        "type": "VOCABULARY",
+        "label": "Lesson 275",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_276",
+        "type": "VERBS",
+        "label": "Lesson 276",
+        "isLocked": true,
+        "xOffset": 14
+      },
+      {
+        "id": "node_277",
+        "type": "FAMILY",
+        "label": "Lesson 277",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_278",
+        "type": "VERBS",
+        "label": "Lesson 278",
+        "isLocked": true,
+        "xOffset": -17
+      },
+      {
+        "id": "node_279",
+        "type": "FAMILY",
+        "label": "Lesson 279",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_280",
+        "type": "AI_TUTOR",
+        "label": "Lesson 280",
+        "isLocked": true,
+        "xOffset": -33
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 29: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_281",
+        "type": "AI_TUTOR",
+        "label": "Lesson 281",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_282",
+        "type": "VERBS",
+        "label": "Lesson 282",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_283",
+        "type": "VOCABULARY",
+        "label": "Lesson 283",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_284",
+        "type": "CULTURE",
+        "label": "Lesson 284",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_285",
+        "type": "FAMILY",
+        "label": "Lesson 285",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_286",
+        "type": "GRAMMAR",
+        "label": "Lesson 286",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_287",
+        "type": "FOOD",
+        "label": "Lesson 287",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_288",
+        "type": "GRAMMAR",
+        "label": "Lesson 288",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_289",
+        "type": "VOCABULARY",
+        "label": "Lesson 289",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_290",
+        "type": "AI_TUTOR",
+        "label": "Lesson 290",
+        "isLocked": true,
+        "xOffset": -25
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 30: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_291",
+        "type": "AI_TUTOR",
+        "label": "Lesson 291",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_292",
+        "type": "PRONOUNS",
+        "label": "Lesson 292",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_293",
+        "type": "VOCABULARY",
+        "label": "Lesson 293",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_294",
+        "type": "CULTURE",
+        "label": "Lesson 294",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_295",
+        "type": "NATURE",
+        "label": "Lesson 295",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_296",
+        "type": "PRONOUNS",
+        "label": "Lesson 296",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_297",
+        "type": "FAMILY",
+        "label": "Lesson 297",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_298",
+        "type": "GRAMMAR",
+        "label": "Lesson 298",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_299",
+        "type": "FOOD",
+        "label": "Lesson 299",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_300",
+        "type": "AI_TUTOR",
+        "label": "Lesson 300",
+        "isLocked": true,
+        "xOffset": 26
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 31: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_301",
+        "type": "AI_TUTOR",
+        "label": "Lesson 301",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_302",
+        "type": "GRAMMAR",
+        "label": "Lesson 302",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_303",
+        "type": "FAMILY",
+        "label": "Lesson 303",
+        "isLocked": true,
+        "xOffset": -17
+      },
+      {
+        "id": "node_304",
+        "type": "CULTURE",
+        "label": "Lesson 304",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_305",
+        "type": "VOCABULARY",
+        "label": "Lesson 305",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_306",
+        "type": "VERBS",
+        "label": "Lesson 306",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_307",
+        "type": "FAMILY",
+        "label": "Lesson 307",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_308",
+        "type": "VERBS",
+        "label": "Lesson 308",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_309",
+        "type": "FOOD",
+        "label": "Lesson 309",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_310",
+        "type": "AI_TUTOR",
+        "label": "Lesson 310",
+        "isLocked": true,
+        "xOffset": 23
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 32: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_311",
+        "type": "AI_TUTOR",
+        "label": "Lesson 311",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_312",
+        "type": "PRONOUNS",
+        "label": "Lesson 312",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_313",
+        "type": "FOOD",
+        "label": "Lesson 313",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_314",
+        "type": "CULTURE",
+        "label": "Lesson 314",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_315",
+        "type": "VOCABULARY",
+        "label": "Lesson 315",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_316",
+        "type": "GRAMMAR",
+        "label": "Lesson 316",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_317",
+        "type": "NATURE",
+        "label": "Lesson 317",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_318",
+        "type": "GRAMMAR",
+        "label": "Lesson 318",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_319",
+        "type": "VOCABULARY",
+        "label": "Lesson 319",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_320",
+        "type": "AI_TUTOR",
+        "label": "Lesson 320",
+        "isLocked": true,
+        "xOffset": 11
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 33: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_321",
+        "type": "AI_TUTOR",
+        "label": "Lesson 321",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_322",
+        "type": "VERBS",
+        "label": "Lesson 322",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_323",
+        "type": "NATURE",
+        "label": "Lesson 323",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_324",
+        "type": "CULTURE",
+        "label": "Lesson 324",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_325",
+        "type": "FOOD",
+        "label": "Lesson 325",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_326",
+        "type": "PRONOUNS",
+        "label": "Lesson 326",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_327",
+        "type": "VOCABULARY",
+        "label": "Lesson 327",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_328",
+        "type": "GRAMMAR",
+        "label": "Lesson 328",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_329",
+        "type": "NATURE",
+        "label": "Lesson 329",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_330",
+        "type": "AI_TUTOR",
+        "label": "Lesson 330",
+        "isLocked": true,
+        "xOffset": -18
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 34: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_331",
+        "type": "AI_TUTOR",
+        "label": "Lesson 331",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_332",
+        "type": "GRAMMAR",
+        "label": "Lesson 332",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_333",
+        "type": "FAMILY",
+        "label": "Lesson 333",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_334",
+        "type": "CULTURE",
+        "label": "Lesson 334",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_335",
+        "type": "VOCABULARY",
+        "label": "Lesson 335",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_336",
+        "type": "VERBS",
+        "label": "Lesson 336",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_337",
+        "type": "NATURE",
+        "label": "Lesson 337",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_338",
+        "type": "PRONOUNS",
+        "label": "Lesson 338",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_339",
+        "type": "VOCABULARY",
+        "label": "Lesson 339",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_340",
+        "type": "AI_TUTOR",
+        "label": "Lesson 340",
+        "isLocked": true,
+        "xOffset": -6
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 35: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_341",
+        "type": "AI_TUTOR",
+        "label": "Lesson 341",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_342",
+        "type": "GRAMMAR",
+        "label": "Lesson 342",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_343",
+        "type": "VOCABULARY",
+        "label": "Lesson 343",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_344",
+        "type": "CULTURE",
+        "label": "Lesson 344",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_345",
+        "type": "NATURE",
+        "label": "Lesson 345",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_346",
+        "type": "VERBS",
+        "label": "Lesson 346",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_347",
+        "type": "VOCABULARY",
+        "label": "Lesson 347",
+        "isLocked": true,
+        "xOffset": -31
+      },
+      {
+        "id": "node_348",
+        "type": "VERBS",
+        "label": "Lesson 348",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_349",
+        "type": "FAMILY",
+        "label": "Lesson 349",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_350",
+        "type": "AI_TUTOR",
+        "label": "Lesson 350",
+        "isLocked": true,
+        "xOffset": -34
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 36: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_351",
+        "type": "AI_TUTOR",
+        "label": "Lesson 351",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_352",
+        "type": "GRAMMAR",
+        "label": "Lesson 352",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_353",
+        "type": "NATURE",
+        "label": "Lesson 353",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_354",
+        "type": "CULTURE",
+        "label": "Lesson 354",
+        "isLocked": true,
+        "xOffset": -21
+      },
+      {
+        "id": "node_355",
+        "type": "NATURE",
+        "label": "Lesson 355",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_356",
+        "type": "VERBS",
+        "label": "Lesson 356",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_357",
+        "type": "FOOD",
+        "label": "Lesson 357",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_358",
+        "type": "GRAMMAR",
+        "label": "Lesson 358",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_359",
+        "type": "FOOD",
+        "label": "Lesson 359",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_360",
+        "type": "AI_TUTOR",
+        "label": "Lesson 360",
+        "isLocked": true,
+        "xOffset": -2
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 37: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_361",
+        "type": "AI_TUTOR",
+        "label": "Lesson 361",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_362",
+        "type": "GRAMMAR",
+        "label": "Lesson 362",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_363",
+        "type": "FAMILY",
+        "label": "Lesson 363",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_364",
+        "type": "CULTURE",
+        "label": "Lesson 364",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_365",
+        "type": "NATURE",
+        "label": "Lesson 365",
+        "isLocked": true,
+        "xOffset": 10
+      },
+      {
+        "id": "node_366",
+        "type": "VERBS",
+        "label": "Lesson 366",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_367",
+        "type": "NATURE",
+        "label": "Lesson 367",
+        "isLocked": true,
+        "xOffset": -31
+      },
+      {
+        "id": "node_368",
+        "type": "VERBS",
+        "label": "Lesson 368",
+        "isLocked": true,
+        "xOffset": 14
+      },
+      {
+        "id": "node_369",
+        "type": "NATURE",
+        "label": "Lesson 369",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_370",
+        "type": "AI_TUTOR",
+        "label": "Lesson 370",
+        "isLocked": true,
+        "xOffset": 8
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 38: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_371",
+        "type": "AI_TUTOR",
+        "label": "Lesson 371",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_372",
+        "type": "VERBS",
+        "label": "Lesson 372",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_373",
+        "type": "FOOD",
+        "label": "Lesson 373",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_374",
+        "type": "CULTURE",
+        "label": "Lesson 374",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_375",
+        "type": "NATURE",
+        "label": "Lesson 375",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_376",
+        "type": "PRONOUNS",
+        "label": "Lesson 376",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_377",
+        "type": "NATURE",
+        "label": "Lesson 377",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_378",
+        "type": "GRAMMAR",
+        "label": "Lesson 378",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_379",
+        "type": "NATURE",
+        "label": "Lesson 379",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_380",
+        "type": "AI_TUTOR",
+        "label": "Lesson 380",
+        "isLocked": true,
+        "xOffset": -20
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 39: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_381",
+        "type": "AI_TUTOR",
+        "label": "Lesson 381",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_382",
+        "type": "VERBS",
+        "label": "Lesson 382",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_383",
+        "type": "FOOD",
+        "label": "Lesson 383",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_384",
+        "type": "CULTURE",
+        "label": "Lesson 384",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_385",
+        "type": "FOOD",
+        "label": "Lesson 385",
+        "isLocked": true,
+        "xOffset": 10
+      },
+      {
+        "id": "node_386",
+        "type": "VERBS",
+        "label": "Lesson 386",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_387",
+        "type": "NATURE",
+        "label": "Lesson 387",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_388",
+        "type": "PRONOUNS",
+        "label": "Lesson 388",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_389",
+        "type": "FAMILY",
+        "label": "Lesson 389",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_390",
+        "type": "AI_TUTOR",
+        "label": "Lesson 390",
+        "isLocked": true,
+        "xOffset": 30
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 40: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_391",
+        "type": "AI_TUTOR",
+        "label": "Lesson 391",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_392",
+        "type": "VERBS",
+        "label": "Lesson 392",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_393",
+        "type": "FOOD",
+        "label": "Lesson 393",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_394",
+        "type": "CULTURE",
+        "label": "Lesson 394",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_395",
+        "type": "FOOD",
+        "label": "Lesson 395",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_396",
+        "type": "GRAMMAR",
+        "label": "Lesson 396",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_397",
+        "type": "FAMILY",
+        "label": "Lesson 397",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_398",
+        "type": "VERBS",
+        "label": "Lesson 398",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_399",
+        "type": "NATURE",
+        "label": "Lesson 399",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_400",
+        "type": "AI_TUTOR",
+        "label": "Lesson 400",
+        "isLocked": true,
+        "xOffset": 20
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 41: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_401",
+        "type": "AI_TUTOR",
+        "label": "Lesson 401",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_402",
+        "type": "GRAMMAR",
+        "label": "Lesson 402",
+        "isLocked": true,
+        "xOffset": -21
+      },
+      {
+        "id": "node_403",
+        "type": "VOCABULARY",
+        "label": "Lesson 403",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_404",
+        "type": "CULTURE",
+        "label": "Lesson 404",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_405",
+        "type": "FAMILY",
+        "label": "Lesson 405",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_406",
+        "type": "VERBS",
+        "label": "Lesson 406",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_407",
+        "type": "NATURE",
+        "label": "Lesson 407",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_408",
+        "type": "VERBS",
+        "label": "Lesson 408",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_409",
+        "type": "FOOD",
+        "label": "Lesson 409",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_410",
+        "type": "AI_TUTOR",
+        "label": "Lesson 410",
+        "isLocked": true,
+        "xOffset": -3
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 42: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_411",
+        "type": "AI_TUTOR",
+        "label": "Lesson 411",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_412",
+        "type": "GRAMMAR",
+        "label": "Lesson 412",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_413",
+        "type": "FOOD",
+        "label": "Lesson 413",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_414",
+        "type": "CULTURE",
+        "label": "Lesson 414",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_415",
+        "type": "NATURE",
+        "label": "Lesson 415",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_416",
+        "type": "PRONOUNS",
+        "label": "Lesson 416",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_417",
+        "type": "FOOD",
+        "label": "Lesson 417",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_418",
+        "type": "PRONOUNS",
+        "label": "Lesson 418",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_419",
+        "type": "VOCABULARY",
+        "label": "Lesson 419",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_420",
+        "type": "AI_TUTOR",
+        "label": "Lesson 420",
+        "isLocked": true,
+        "xOffset": 9
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 43: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_421",
+        "type": "AI_TUTOR",
+        "label": "Lesson 421",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_422",
+        "type": "VERBS",
+        "label": "Lesson 422",
+        "isLocked": true,
+        "xOffset": 36
+      },
+      {
+        "id": "node_423",
+        "type": "NATURE",
+        "label": "Lesson 423",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_424",
+        "type": "CULTURE",
+        "label": "Lesson 424",
+        "isLocked": true,
+        "xOffset": -6
+      },
+      {
+        "id": "node_425",
+        "type": "FAMILY",
+        "label": "Lesson 425",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_426",
+        "type": "GRAMMAR",
+        "label": "Lesson 426",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_427",
+        "type": "FAMILY",
+        "label": "Lesson 427",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_428",
+        "type": "PRONOUNS",
+        "label": "Lesson 428",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_429",
+        "type": "VOCABULARY",
+        "label": "Lesson 429",
+        "isLocked": true,
+        "xOffset": -31
+      },
+      {
+        "id": "node_430",
+        "type": "AI_TUTOR",
+        "label": "Lesson 430",
+        "isLocked": true,
+        "xOffset": 20
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 44: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_431",
+        "type": "AI_TUTOR",
+        "label": "Lesson 431",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_432",
+        "type": "VERBS",
+        "label": "Lesson 432",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_433",
+        "type": "NATURE",
+        "label": "Lesson 433",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_434",
+        "type": "CULTURE",
+        "label": "Lesson 434",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_435",
+        "type": "FAMILY",
+        "label": "Lesson 435",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_436",
+        "type": "PRONOUNS",
+        "label": "Lesson 436",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_437",
+        "type": "FAMILY",
+        "label": "Lesson 437",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_438",
+        "type": "PRONOUNS",
+        "label": "Lesson 438",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_439",
+        "type": "NATURE",
+        "label": "Lesson 439",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_440",
+        "type": "AI_TUTOR",
+        "label": "Lesson 440",
+        "isLocked": true,
+        "xOffset": -3
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 45: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_441",
+        "type": "AI_TUTOR",
+        "label": "Lesson 441",
+        "isLocked": true,
+        "xOffset": -17
+      },
+      {
+        "id": "node_442",
+        "type": "PRONOUNS",
+        "label": "Lesson 442",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_443",
+        "type": "FAMILY",
+        "label": "Lesson 443",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_444",
+        "type": "CULTURE",
+        "label": "Lesson 444",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_445",
+        "type": "VOCABULARY",
+        "label": "Lesson 445",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_446",
+        "type": "PRONOUNS",
+        "label": "Lesson 446",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_447",
+        "type": "NATURE",
+        "label": "Lesson 447",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_448",
+        "type": "GRAMMAR",
+        "label": "Lesson 448",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_449",
+        "type": "FAMILY",
+        "label": "Lesson 449",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_450",
+        "type": "AI_TUTOR",
+        "label": "Lesson 450",
+        "isLocked": true,
+        "xOffset": -21
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 46: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_451",
+        "type": "AI_TUTOR",
+        "label": "Lesson 451",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_452",
+        "type": "VERBS",
+        "label": "Lesson 452",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_453",
+        "type": "FAMILY",
+        "label": "Lesson 453",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_454",
+        "type": "CULTURE",
+        "label": "Lesson 454",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_455",
+        "type": "FOOD",
+        "label": "Lesson 455",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_456",
+        "type": "PRONOUNS",
+        "label": "Lesson 456",
+        "isLocked": true,
+        "xOffset": -16
+      },
+      {
+        "id": "node_457",
+        "type": "NATURE",
+        "label": "Lesson 457",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_458",
+        "type": "GRAMMAR",
+        "label": "Lesson 458",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_459",
+        "type": "FOOD",
+        "label": "Lesson 459",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_460",
+        "type": "AI_TUTOR",
+        "label": "Lesson 460",
+        "isLocked": true,
+        "xOffset": -29
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 47: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_461",
+        "type": "AI_TUTOR",
+        "label": "Lesson 461",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_462",
+        "type": "VERBS",
+        "label": "Lesson 462",
+        "isLocked": true,
+        "xOffset": 36
+      },
+      {
+        "id": "node_463",
+        "type": "FAMILY",
+        "label": "Lesson 463",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_464",
+        "type": "CULTURE",
+        "label": "Lesson 464",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_465",
+        "type": "FOOD",
+        "label": "Lesson 465",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_466",
+        "type": "PRONOUNS",
+        "label": "Lesson 466",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_467",
+        "type": "NATURE",
+        "label": "Lesson 467",
+        "isLocked": true,
+        "xOffset": -6
+      },
+      {
+        "id": "node_468",
+        "type": "GRAMMAR",
+        "label": "Lesson 468",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_469",
+        "type": "NATURE",
+        "label": "Lesson 469",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_470",
+        "type": "AI_TUTOR",
+        "label": "Lesson 470",
+        "isLocked": true,
+        "xOffset": 37
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 48: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_471",
+        "type": "AI_TUTOR",
+        "label": "Lesson 471",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_472",
+        "type": "VERBS",
+        "label": "Lesson 472",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_473",
+        "type": "VOCABULARY",
+        "label": "Lesson 473",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_474",
+        "type": "CULTURE",
+        "label": "Lesson 474",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_475",
+        "type": "NATURE",
+        "label": "Lesson 475",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_476",
+        "type": "VERBS",
+        "label": "Lesson 476",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_477",
+        "type": "FAMILY",
+        "label": "Lesson 477",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_478",
+        "type": "PRONOUNS",
+        "label": "Lesson 478",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_479",
+        "type": "NATURE",
+        "label": "Lesson 479",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_480",
+        "type": "AI_TUTOR",
+        "label": "Lesson 480",
+        "isLocked": true,
+        "xOffset": 2
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 49: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_481",
+        "type": "AI_TUTOR",
+        "label": "Lesson 481",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_482",
+        "type": "GRAMMAR",
+        "label": "Lesson 482",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_483",
+        "type": "NATURE",
+        "label": "Lesson 483",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_484",
+        "type": "CULTURE",
+        "label": "Lesson 484",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_485",
+        "type": "FOOD",
+        "label": "Lesson 485",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_486",
+        "type": "PRONOUNS",
+        "label": "Lesson 486",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_487",
+        "type": "FOOD",
+        "label": "Lesson 487",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_488",
+        "type": "GRAMMAR",
+        "label": "Lesson 488",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_489",
+        "type": "FAMILY",
+        "label": "Lesson 489",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_490",
+        "type": "AI_TUTOR",
+        "label": "Lesson 490",
+        "isLocked": true,
+        "xOffset": 12
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 50: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_491",
+        "type": "AI_TUTOR",
+        "label": "Lesson 491",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_492",
+        "type": "VERBS",
+        "label": "Lesson 492",
+        "isLocked": true,
+        "xOffset": -31
+      },
+      {
+        "id": "node_493",
+        "type": "VOCABULARY",
+        "label": "Lesson 493",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_494",
+        "type": "CULTURE",
+        "label": "Lesson 494",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_495",
+        "type": "FOOD",
+        "label": "Lesson 495",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_496",
+        "type": "VERBS",
+        "label": "Lesson 496",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_497",
+        "type": "FOOD",
+        "label": "Lesson 497",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_498",
+        "type": "PRONOUNS",
+        "label": "Lesson 498",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_499",
+        "type": "FOOD",
+        "label": "Lesson 499",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_500",
+        "type": "AI_TUTOR",
+        "label": "Lesson 500",
+        "isLocked": true,
+        "xOffset": 35
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 51: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_501",
+        "type": "AI_TUTOR",
+        "label": "Lesson 501",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_502",
+        "type": "PRONOUNS",
+        "label": "Lesson 502",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_503",
+        "type": "FAMILY",
+        "label": "Lesson 503",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_504",
+        "type": "CULTURE",
+        "label": "Lesson 504",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_505",
+        "type": "NATURE",
+        "label": "Lesson 505",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_506",
+        "type": "GRAMMAR",
+        "label": "Lesson 506",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_507",
+        "type": "FAMILY",
+        "label": "Lesson 507",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_508",
+        "type": "GRAMMAR",
+        "label": "Lesson 508",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_509",
+        "type": "VOCABULARY",
+        "label": "Lesson 509",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_510",
+        "type": "AI_TUTOR",
+        "label": "Lesson 510",
+        "isLocked": true,
+        "xOffset": -19
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 52: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_511",
+        "type": "AI_TUTOR",
+        "label": "Lesson 511",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_512",
+        "type": "PRONOUNS",
+        "label": "Lesson 512",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_513",
+        "type": "FAMILY",
+        "label": "Lesson 513",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_514",
+        "type": "CULTURE",
+        "label": "Lesson 514",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_515",
+        "type": "VOCABULARY",
+        "label": "Lesson 515",
+        "isLocked": true,
+        "xOffset": -17
+      },
+      {
+        "id": "node_516",
+        "type": "VERBS",
+        "label": "Lesson 516",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_517",
+        "type": "NATURE",
+        "label": "Lesson 517",
+        "isLocked": true,
+        "xOffset": 36
+      },
+      {
+        "id": "node_518",
+        "type": "PRONOUNS",
+        "label": "Lesson 518",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_519",
+        "type": "FAMILY",
+        "label": "Lesson 519",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_520",
+        "type": "AI_TUTOR",
+        "label": "Lesson 520",
+        "isLocked": true,
+        "xOffset": 21
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 53: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_521",
+        "type": "AI_TUTOR",
+        "label": "Lesson 521",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_522",
+        "type": "PRONOUNS",
+        "label": "Lesson 522",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_523",
+        "type": "FAMILY",
+        "label": "Lesson 523",
+        "isLocked": true,
+        "xOffset": 8
+      },
+      {
+        "id": "node_524",
+        "type": "CULTURE",
+        "label": "Lesson 524",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_525",
+        "type": "NATURE",
+        "label": "Lesson 525",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_526",
+        "type": "PRONOUNS",
+        "label": "Lesson 526",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_527",
+        "type": "NATURE",
+        "label": "Lesson 527",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_528",
+        "type": "VERBS",
+        "label": "Lesson 528",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_529",
+        "type": "VOCABULARY",
+        "label": "Lesson 529",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_530",
+        "type": "AI_TUTOR",
+        "label": "Lesson 530",
+        "isLocked": true,
+        "xOffset": -39
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 54: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_531",
+        "type": "AI_TUTOR",
+        "label": "Lesson 531",
+        "isLocked": true,
+        "xOffset": 8
+      },
+      {
+        "id": "node_532",
+        "type": "PRONOUNS",
+        "label": "Lesson 532",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_533",
+        "type": "NATURE",
+        "label": "Lesson 533",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_534",
+        "type": "CULTURE",
+        "label": "Lesson 534",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_535",
+        "type": "FOOD",
+        "label": "Lesson 535",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_536",
+        "type": "PRONOUNS",
+        "label": "Lesson 536",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_537",
+        "type": "VOCABULARY",
+        "label": "Lesson 537",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_538",
+        "type": "VERBS",
+        "label": "Lesson 538",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_539",
+        "type": "FOOD",
+        "label": "Lesson 539",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_540",
+        "type": "AI_TUTOR",
+        "label": "Lesson 540",
+        "isLocked": true,
+        "xOffset": -5
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 55: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_541",
+        "type": "AI_TUTOR",
+        "label": "Lesson 541",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_542",
+        "type": "VERBS",
+        "label": "Lesson 542",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_543",
+        "type": "FAMILY",
+        "label": "Lesson 543",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_544",
+        "type": "CULTURE",
+        "label": "Lesson 544",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_545",
+        "type": "NATURE",
+        "label": "Lesson 545",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_546",
+        "type": "GRAMMAR",
+        "label": "Lesson 546",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_547",
+        "type": "FAMILY",
+        "label": "Lesson 547",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_548",
+        "type": "VERBS",
+        "label": "Lesson 548",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_549",
+        "type": "FAMILY",
+        "label": "Lesson 549",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_550",
+        "type": "AI_TUTOR",
+        "label": "Lesson 550",
+        "isLocked": true,
+        "xOffset": 34
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 56: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_551",
+        "type": "AI_TUTOR",
+        "label": "Lesson 551",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_552",
+        "type": "GRAMMAR",
+        "label": "Lesson 552",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_553",
+        "type": "FAMILY",
+        "label": "Lesson 553",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_554",
+        "type": "CULTURE",
+        "label": "Lesson 554",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_555",
+        "type": "NATURE",
+        "label": "Lesson 555",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_556",
+        "type": "GRAMMAR",
+        "label": "Lesson 556",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_557",
+        "type": "VOCABULARY",
+        "label": "Lesson 557",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_558",
+        "type": "VERBS",
+        "label": "Lesson 558",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_559",
+        "type": "NATURE",
+        "label": "Lesson 559",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_560",
+        "type": "AI_TUTOR",
+        "label": "Lesson 560",
+        "isLocked": true,
+        "xOffset": 5
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 57: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_561",
+        "type": "AI_TUTOR",
+        "label": "Lesson 561",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_562",
+        "type": "GRAMMAR",
+        "label": "Lesson 562",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_563",
+        "type": "FAMILY",
+        "label": "Lesson 563",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_564",
+        "type": "CULTURE",
+        "label": "Lesson 564",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_565",
+        "type": "VOCABULARY",
+        "label": "Lesson 565",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_566",
+        "type": "GRAMMAR",
+        "label": "Lesson 566",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_567",
+        "type": "VOCABULARY",
+        "label": "Lesson 567",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_568",
+        "type": "PRONOUNS",
+        "label": "Lesson 568",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_569",
+        "type": "FAMILY",
+        "label": "Lesson 569",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_570",
+        "type": "AI_TUTOR",
+        "label": "Lesson 570",
+        "isLocked": true,
+        "xOffset": -3
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 58: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_571",
+        "type": "AI_TUTOR",
+        "label": "Lesson 571",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_572",
+        "type": "PRONOUNS",
+        "label": "Lesson 572",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_573",
+        "type": "NATURE",
+        "label": "Lesson 573",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_574",
+        "type": "CULTURE",
+        "label": "Lesson 574",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_575",
+        "type": "NATURE",
+        "label": "Lesson 575",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_576",
+        "type": "PRONOUNS",
+        "label": "Lesson 576",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_577",
+        "type": "FOOD",
+        "label": "Lesson 577",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_578",
+        "type": "VERBS",
+        "label": "Lesson 578",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_579",
+        "type": "FOOD",
+        "label": "Lesson 579",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_580",
+        "type": "AI_TUTOR",
+        "label": "Lesson 580",
+        "isLocked": true,
+        "xOffset": -13
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 59: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_581",
+        "type": "AI_TUTOR",
+        "label": "Lesson 581",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_582",
+        "type": "GRAMMAR",
+        "label": "Lesson 582",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_583",
+        "type": "VOCABULARY",
+        "label": "Lesson 583",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_584",
+        "type": "CULTURE",
+        "label": "Lesson 584",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_585",
+        "type": "NATURE",
+        "label": "Lesson 585",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_586",
+        "type": "PRONOUNS",
+        "label": "Lesson 586",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_587",
+        "type": "NATURE",
+        "label": "Lesson 587",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_588",
+        "type": "VERBS",
+        "label": "Lesson 588",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_589",
+        "type": "FOOD",
+        "label": "Lesson 589",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_590",
+        "type": "AI_TUTOR",
+        "label": "Lesson 590",
+        "isLocked": true,
+        "xOffset": -18
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 60: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_591",
+        "type": "AI_TUTOR",
+        "label": "Lesson 591",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_592",
+        "type": "PRONOUNS",
+        "label": "Lesson 592",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_593",
+        "type": "NATURE",
+        "label": "Lesson 593",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_594",
+        "type": "CULTURE",
+        "label": "Lesson 594",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_595",
+        "type": "NATURE",
+        "label": "Lesson 595",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_596",
+        "type": "VERBS",
+        "label": "Lesson 596",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_597",
+        "type": "NATURE",
+        "label": "Lesson 597",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_598",
+        "type": "VERBS",
+        "label": "Lesson 598",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_599",
+        "type": "FAMILY",
+        "label": "Lesson 599",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_600",
+        "type": "AI_TUTOR",
+        "label": "Lesson 600",
+        "isLocked": true,
+        "xOffset": 14
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 61: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_601",
+        "type": "AI_TUTOR",
+        "label": "Lesson 601",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_602",
+        "type": "GRAMMAR",
+        "label": "Lesson 602",
+        "isLocked": true,
+        "xOffset": 14
+      },
+      {
+        "id": "node_603",
+        "type": "FOOD",
+        "label": "Lesson 603",
+        "isLocked": true,
+        "xOffset": -17
+      },
+      {
+        "id": "node_604",
+        "type": "CULTURE",
+        "label": "Lesson 604",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_605",
+        "type": "VOCABULARY",
+        "label": "Lesson 605",
+        "isLocked": true,
+        "xOffset": -21
+      },
+      {
+        "id": "node_606",
+        "type": "VERBS",
+        "label": "Lesson 606",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_607",
+        "type": "FAMILY",
+        "label": "Lesson 607",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_608",
+        "type": "PRONOUNS",
+        "label": "Lesson 608",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_609",
+        "type": "VOCABULARY",
+        "label": "Lesson 609",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_610",
+        "type": "AI_TUTOR",
+        "label": "Lesson 610",
+        "isLocked": true,
+        "xOffset": 39
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 62: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_611",
+        "type": "AI_TUTOR",
+        "label": "Lesson 611",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_612",
+        "type": "PRONOUNS",
+        "label": "Lesson 612",
+        "isLocked": true,
+        "xOffset": -6
+      },
+      {
+        "id": "node_613",
+        "type": "VOCABULARY",
+        "label": "Lesson 613",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_614",
+        "type": "CULTURE",
+        "label": "Lesson 614",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_615",
+        "type": "NATURE",
+        "label": "Lesson 615",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_616",
+        "type": "PRONOUNS",
+        "label": "Lesson 616",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_617",
+        "type": "NATURE",
+        "label": "Lesson 617",
+        "isLocked": true,
+        "xOffset": -16
+      },
+      {
+        "id": "node_618",
+        "type": "VERBS",
+        "label": "Lesson 618",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_619",
+        "type": "VOCABULARY",
+        "label": "Lesson 619",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_620",
+        "type": "AI_TUTOR",
+        "label": "Lesson 620",
+        "isLocked": true,
+        "xOffset": 32
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 63: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_621",
+        "type": "AI_TUTOR",
+        "label": "Lesson 621",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_622",
+        "type": "PRONOUNS",
+        "label": "Lesson 622",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_623",
+        "type": "NATURE",
+        "label": "Lesson 623",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_624",
+        "type": "CULTURE",
+        "label": "Lesson 624",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_625",
+        "type": "NATURE",
+        "label": "Lesson 625",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_626",
+        "type": "PRONOUNS",
+        "label": "Lesson 626",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_627",
+        "type": "VOCABULARY",
+        "label": "Lesson 627",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_628",
+        "type": "GRAMMAR",
+        "label": "Lesson 628",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_629",
+        "type": "FOOD",
+        "label": "Lesson 629",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_630",
+        "type": "AI_TUTOR",
+        "label": "Lesson 630",
+        "isLocked": true,
+        "xOffset": 13
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 64: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_631",
+        "type": "AI_TUTOR",
+        "label": "Lesson 631",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_632",
+        "type": "GRAMMAR",
+        "label": "Lesson 632",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_633",
+        "type": "FAMILY",
+        "label": "Lesson 633",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_634",
+        "type": "CULTURE",
+        "label": "Lesson 634",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_635",
+        "type": "NATURE",
+        "label": "Lesson 635",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_636",
+        "type": "VERBS",
+        "label": "Lesson 636",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_637",
+        "type": "FAMILY",
+        "label": "Lesson 637",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_638",
+        "type": "GRAMMAR",
+        "label": "Lesson 638",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_639",
+        "type": "FOOD",
+        "label": "Lesson 639",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_640",
+        "type": "AI_TUTOR",
+        "label": "Lesson 640",
+        "isLocked": true,
+        "xOffset": -19
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 65: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_641",
+        "type": "AI_TUTOR",
+        "label": "Lesson 641",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_642",
+        "type": "GRAMMAR",
+        "label": "Lesson 642",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_643",
+        "type": "FAMILY",
+        "label": "Lesson 643",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_644",
+        "type": "CULTURE",
+        "label": "Lesson 644",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_645",
+        "type": "NATURE",
+        "label": "Lesson 645",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_646",
+        "type": "GRAMMAR",
+        "label": "Lesson 646",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_647",
+        "type": "VOCABULARY",
+        "label": "Lesson 647",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_648",
+        "type": "VERBS",
+        "label": "Lesson 648",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_649",
+        "type": "FOOD",
+        "label": "Lesson 649",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_650",
+        "type": "AI_TUTOR",
+        "label": "Lesson 650",
+        "isLocked": true,
+        "xOffset": -35
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 66: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_651",
+        "type": "AI_TUTOR",
+        "label": "Lesson 651",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_652",
+        "type": "PRONOUNS",
+        "label": "Lesson 652",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_653",
+        "type": "FOOD",
+        "label": "Lesson 653",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_654",
+        "type": "CULTURE",
+        "label": "Lesson 654",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_655",
+        "type": "FOOD",
+        "label": "Lesson 655",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_656",
+        "type": "GRAMMAR",
+        "label": "Lesson 656",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_657",
+        "type": "NATURE",
+        "label": "Lesson 657",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_658",
+        "type": "VERBS",
+        "label": "Lesson 658",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_659",
+        "type": "FOOD",
+        "label": "Lesson 659",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_660",
+        "type": "AI_TUTOR",
+        "label": "Lesson 660",
+        "isLocked": true,
+        "xOffset": -6
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 67: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_661",
+        "type": "AI_TUTOR",
+        "label": "Lesson 661",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_662",
+        "type": "PRONOUNS",
+        "label": "Lesson 662",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_663",
+        "type": "VOCABULARY",
+        "label": "Lesson 663",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_664",
+        "type": "CULTURE",
+        "label": "Lesson 664",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_665",
+        "type": "VOCABULARY",
+        "label": "Lesson 665",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_666",
+        "type": "PRONOUNS",
+        "label": "Lesson 666",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_667",
+        "type": "VOCABULARY",
+        "label": "Lesson 667",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_668",
+        "type": "PRONOUNS",
+        "label": "Lesson 668",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_669",
+        "type": "FAMILY",
+        "label": "Lesson 669",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_670",
+        "type": "AI_TUTOR",
+        "label": "Lesson 670",
+        "isLocked": true,
+        "xOffset": 22
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 68: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_671",
+        "type": "AI_TUTOR",
+        "label": "Lesson 671",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_672",
+        "type": "PRONOUNS",
+        "label": "Lesson 672",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_673",
+        "type": "NATURE",
+        "label": "Lesson 673",
+        "isLocked": true,
+        "xOffset": 8
+      },
+      {
+        "id": "node_674",
+        "type": "CULTURE",
+        "label": "Lesson 674",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_675",
+        "type": "NATURE",
+        "label": "Lesson 675",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_676",
+        "type": "VERBS",
+        "label": "Lesson 676",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_677",
+        "type": "FAMILY",
+        "label": "Lesson 677",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_678",
+        "type": "VERBS",
+        "label": "Lesson 678",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_679",
+        "type": "FOOD",
+        "label": "Lesson 679",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_680",
+        "type": "AI_TUTOR",
+        "label": "Lesson 680",
+        "isLocked": true,
+        "xOffset": -2
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 69: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_681",
+        "type": "AI_TUTOR",
+        "label": "Lesson 681",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_682",
+        "type": "VERBS",
+        "label": "Lesson 682",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_683",
+        "type": "FAMILY",
+        "label": "Lesson 683",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_684",
+        "type": "CULTURE",
+        "label": "Lesson 684",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_685",
+        "type": "FAMILY",
+        "label": "Lesson 685",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_686",
+        "type": "GRAMMAR",
+        "label": "Lesson 686",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_687",
+        "type": "VOCABULARY",
+        "label": "Lesson 687",
+        "isLocked": true,
+        "xOffset": -34
+      },
+      {
+        "id": "node_688",
+        "type": "GRAMMAR",
+        "label": "Lesson 688",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_689",
+        "type": "VOCABULARY",
+        "label": "Lesson 689",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_690",
+        "type": "AI_TUTOR",
+        "label": "Lesson 690",
+        "isLocked": true,
+        "xOffset": 22
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 70: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_691",
+        "type": "AI_TUTOR",
+        "label": "Lesson 691",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_692",
+        "type": "GRAMMAR",
+        "label": "Lesson 692",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_693",
+        "type": "FAMILY",
+        "label": "Lesson 693",
+        "isLocked": true,
+        "xOffset": 14
+      },
+      {
+        "id": "node_694",
+        "type": "CULTURE",
+        "label": "Lesson 694",
+        "isLocked": true,
+        "xOffset": 10
+      },
+      {
+        "id": "node_695",
+        "type": "FAMILY",
+        "label": "Lesson 695",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_696",
+        "type": "VERBS",
+        "label": "Lesson 696",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_697",
+        "type": "NATURE",
+        "label": "Lesson 697",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_698",
+        "type": "VERBS",
+        "label": "Lesson 698",
+        "isLocked": true,
+        "xOffset": -31
+      },
+      {
+        "id": "node_699",
+        "type": "FAMILY",
+        "label": "Lesson 699",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_700",
+        "type": "AI_TUTOR",
+        "label": "Lesson 700",
+        "isLocked": true,
+        "xOffset": -37
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 71: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_701",
+        "type": "AI_TUTOR",
+        "label": "Lesson 701",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_702",
+        "type": "GRAMMAR",
+        "label": "Lesson 702",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_703",
+        "type": "NATURE",
+        "label": "Lesson 703",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_704",
+        "type": "CULTURE",
+        "label": "Lesson 704",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_705",
+        "type": "VOCABULARY",
+        "label": "Lesson 705",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_706",
+        "type": "GRAMMAR",
+        "label": "Lesson 706",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_707",
+        "type": "FAMILY",
+        "label": "Lesson 707",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_708",
+        "type": "PRONOUNS",
+        "label": "Lesson 708",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_709",
+        "type": "FOOD",
+        "label": "Lesson 709",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_710",
+        "type": "AI_TUTOR",
+        "label": "Lesson 710",
+        "isLocked": true,
+        "xOffset": -3
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 72: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_711",
+        "type": "AI_TUTOR",
+        "label": "Lesson 711",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_712",
+        "type": "VERBS",
+        "label": "Lesson 712",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_713",
+        "type": "VOCABULARY",
+        "label": "Lesson 713",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_714",
+        "type": "CULTURE",
+        "label": "Lesson 714",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_715",
+        "type": "FOOD",
+        "label": "Lesson 715",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_716",
+        "type": "PRONOUNS",
+        "label": "Lesson 716",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_717",
+        "type": "NATURE",
+        "label": "Lesson 717",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_718",
+        "type": "VERBS",
+        "label": "Lesson 718",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_719",
+        "type": "FAMILY",
+        "label": "Lesson 719",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_720",
+        "type": "AI_TUTOR",
+        "label": "Lesson 720",
+        "isLocked": true,
+        "xOffset": -19
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 73: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_721",
+        "type": "AI_TUTOR",
+        "label": "Lesson 721",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_722",
+        "type": "PRONOUNS",
+        "label": "Lesson 722",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_723",
+        "type": "NATURE",
+        "label": "Lesson 723",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_724",
+        "type": "CULTURE",
+        "label": "Lesson 724",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_725",
+        "type": "NATURE",
+        "label": "Lesson 725",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_726",
+        "type": "GRAMMAR",
+        "label": "Lesson 726",
+        "isLocked": true,
+        "xOffset": 10
+      },
+      {
+        "id": "node_727",
+        "type": "VOCABULARY",
+        "label": "Lesson 727",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_728",
+        "type": "GRAMMAR",
+        "label": "Lesson 728",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_729",
+        "type": "NATURE",
+        "label": "Lesson 729",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_730",
+        "type": "AI_TUTOR",
+        "label": "Lesson 730",
+        "isLocked": true,
+        "xOffset": -38
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 74: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_731",
+        "type": "AI_TUTOR",
+        "label": "Lesson 731",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_732",
+        "type": "VERBS",
+        "label": "Lesson 732",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_733",
+        "type": "VOCABULARY",
+        "label": "Lesson 733",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_734",
+        "type": "CULTURE",
+        "label": "Lesson 734",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_735",
+        "type": "NATURE",
+        "label": "Lesson 735",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_736",
+        "type": "PRONOUNS",
+        "label": "Lesson 736",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_737",
+        "type": "FOOD",
+        "label": "Lesson 737",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_738",
+        "type": "GRAMMAR",
+        "label": "Lesson 738",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_739",
+        "type": "FAMILY",
+        "label": "Lesson 739",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_740",
+        "type": "AI_TUTOR",
+        "label": "Lesson 740",
+        "isLocked": true,
+        "xOffset": 10
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 75: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_741",
+        "type": "AI_TUTOR",
+        "label": "Lesson 741",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_742",
+        "type": "VERBS",
+        "label": "Lesson 742",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_743",
+        "type": "FOOD",
+        "label": "Lesson 743",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_744",
+        "type": "CULTURE",
+        "label": "Lesson 744",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_745",
+        "type": "FOOD",
+        "label": "Lesson 745",
+        "isLocked": true,
+        "xOffset": -13
+      },
+      {
+        "id": "node_746",
+        "type": "VERBS",
+        "label": "Lesson 746",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_747",
+        "type": "NATURE",
+        "label": "Lesson 747",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_748",
+        "type": "GRAMMAR",
+        "label": "Lesson 748",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_749",
+        "type": "FAMILY",
+        "label": "Lesson 749",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_750",
+        "type": "AI_TUTOR",
+        "label": "Lesson 750",
+        "isLocked": true,
+        "xOffset": -38
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 76: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_751",
+        "type": "AI_TUTOR",
+        "label": "Lesson 751",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_752",
+        "type": "PRONOUNS",
+        "label": "Lesson 752",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_753",
+        "type": "FAMILY",
+        "label": "Lesson 753",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_754",
+        "type": "CULTURE",
+        "label": "Lesson 754",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_755",
+        "type": "NATURE",
+        "label": "Lesson 755",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_756",
+        "type": "PRONOUNS",
+        "label": "Lesson 756",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_757",
+        "type": "FAMILY",
+        "label": "Lesson 757",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_758",
+        "type": "VERBS",
+        "label": "Lesson 758",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_759",
+        "type": "NATURE",
+        "label": "Lesson 759",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_760",
+        "type": "AI_TUTOR",
+        "label": "Lesson 760",
+        "isLocked": true,
+        "xOffset": 2
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 77: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_761",
+        "type": "AI_TUTOR",
+        "label": "Lesson 761",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_762",
+        "type": "GRAMMAR",
+        "label": "Lesson 762",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_763",
+        "type": "FAMILY",
+        "label": "Lesson 763",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_764",
+        "type": "CULTURE",
+        "label": "Lesson 764",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_765",
+        "type": "FAMILY",
+        "label": "Lesson 765",
+        "isLocked": true,
+        "xOffset": -21
+      },
+      {
+        "id": "node_766",
+        "type": "PRONOUNS",
+        "label": "Lesson 766",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_767",
+        "type": "FAMILY",
+        "label": "Lesson 767",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_768",
+        "type": "VERBS",
+        "label": "Lesson 768",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_769",
+        "type": "FAMILY",
+        "label": "Lesson 769",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_770",
+        "type": "AI_TUTOR",
+        "label": "Lesson 770",
+        "isLocked": true,
+        "xOffset": -26
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 78: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_771",
+        "type": "AI_TUTOR",
+        "label": "Lesson 771",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_772",
+        "type": "PRONOUNS",
+        "label": "Lesson 772",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_773",
+        "type": "FOOD",
+        "label": "Lesson 773",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_774",
+        "type": "CULTURE",
+        "label": "Lesson 774",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_775",
+        "type": "VOCABULARY",
+        "label": "Lesson 775",
+        "isLocked": true,
+        "xOffset": -18
+      },
+      {
+        "id": "node_776",
+        "type": "GRAMMAR",
+        "label": "Lesson 776",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_777",
+        "type": "FOOD",
+        "label": "Lesson 777",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_778",
+        "type": "GRAMMAR",
+        "label": "Lesson 778",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_779",
+        "type": "VOCABULARY",
+        "label": "Lesson 779",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_780",
+        "type": "AI_TUTOR",
+        "label": "Lesson 780",
+        "isLocked": true,
+        "xOffset": -5
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 79: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_781",
+        "type": "AI_TUTOR",
+        "label": "Lesson 781",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_782",
+        "type": "PRONOUNS",
+        "label": "Lesson 782",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_783",
+        "type": "FAMILY",
+        "label": "Lesson 783",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_784",
+        "type": "CULTURE",
+        "label": "Lesson 784",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_785",
+        "type": "FAMILY",
+        "label": "Lesson 785",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_786",
+        "type": "VERBS",
+        "label": "Lesson 786",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_787",
+        "type": "FAMILY",
+        "label": "Lesson 787",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_788",
+        "type": "GRAMMAR",
+        "label": "Lesson 788",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_789",
+        "type": "VOCABULARY",
+        "label": "Lesson 789",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_790",
+        "type": "AI_TUTOR",
+        "label": "Lesson 790",
+        "isLocked": true,
+        "xOffset": -32
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 80: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_791",
+        "type": "AI_TUTOR",
+        "label": "Lesson 791",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_792",
+        "type": "GRAMMAR",
+        "label": "Lesson 792",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_793",
+        "type": "FAMILY",
+        "label": "Lesson 793",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_794",
+        "type": "CULTURE",
+        "label": "Lesson 794",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_795",
+        "type": "NATURE",
+        "label": "Lesson 795",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_796",
+        "type": "PRONOUNS",
+        "label": "Lesson 796",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_797",
+        "type": "VOCABULARY",
+        "label": "Lesson 797",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_798",
+        "type": "VERBS",
+        "label": "Lesson 798",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_799",
+        "type": "FAMILY",
+        "label": "Lesson 799",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_800",
+        "type": "AI_TUTOR",
+        "label": "Lesson 800",
+        "isLocked": true,
+        "xOffset": -29
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 81: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_801",
+        "type": "AI_TUTOR",
+        "label": "Lesson 801",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_802",
+        "type": "VERBS",
+        "label": "Lesson 802",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_803",
+        "type": "NATURE",
+        "label": "Lesson 803",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_804",
+        "type": "CULTURE",
+        "label": "Lesson 804",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_805",
+        "type": "VOCABULARY",
+        "label": "Lesson 805",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_806",
+        "type": "VERBS",
+        "label": "Lesson 806",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_807",
+        "type": "NATURE",
+        "label": "Lesson 807",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_808",
+        "type": "PRONOUNS",
+        "label": "Lesson 808",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_809",
+        "type": "FOOD",
+        "label": "Lesson 809",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_810",
+        "type": "AI_TUTOR",
+        "label": "Lesson 810",
+        "isLocked": true,
+        "xOffset": -19
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 82: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_811",
+        "type": "AI_TUTOR",
+        "label": "Lesson 811",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_812",
+        "type": "PRONOUNS",
+        "label": "Lesson 812",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_813",
+        "type": "FAMILY",
+        "label": "Lesson 813",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_814",
+        "type": "CULTURE",
+        "label": "Lesson 814",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_815",
+        "type": "FOOD",
+        "label": "Lesson 815",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_816",
+        "type": "VERBS",
+        "label": "Lesson 816",
+        "isLocked": true,
+        "xOffset": 8
+      },
+      {
+        "id": "node_817",
+        "type": "FOOD",
+        "label": "Lesson 817",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_818",
+        "type": "PRONOUNS",
+        "label": "Lesson 818",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_819",
+        "type": "FOOD",
+        "label": "Lesson 819",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_820",
+        "type": "AI_TUTOR",
+        "label": "Lesson 820",
+        "isLocked": true,
+        "xOffset": -14
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 83: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_821",
+        "type": "AI_TUTOR",
+        "label": "Lesson 821",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_822",
+        "type": "GRAMMAR",
+        "label": "Lesson 822",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_823",
+        "type": "FOOD",
+        "label": "Lesson 823",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_824",
+        "type": "CULTURE",
+        "label": "Lesson 824",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_825",
+        "type": "NATURE",
+        "label": "Lesson 825",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_826",
+        "type": "VERBS",
+        "label": "Lesson 826",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_827",
+        "type": "FOOD",
+        "label": "Lesson 827",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_828",
+        "type": "GRAMMAR",
+        "label": "Lesson 828",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_829",
+        "type": "FAMILY",
+        "label": "Lesson 829",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_830",
+        "type": "AI_TUTOR",
+        "label": "Lesson 830",
+        "isLocked": true,
+        "xOffset": 39
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 84: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_831",
+        "type": "AI_TUTOR",
+        "label": "Lesson 831",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_832",
+        "type": "VERBS",
+        "label": "Lesson 832",
+        "isLocked": true,
+        "xOffset": -1
+      },
+      {
+        "id": "node_833",
+        "type": "FOOD",
+        "label": "Lesson 833",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_834",
+        "type": "CULTURE",
+        "label": "Lesson 834",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_835",
+        "type": "FAMILY",
+        "label": "Lesson 835",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_836",
+        "type": "GRAMMAR",
+        "label": "Lesson 836",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_837",
+        "type": "FAMILY",
+        "label": "Lesson 837",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_838",
+        "type": "PRONOUNS",
+        "label": "Lesson 838",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_839",
+        "type": "VOCABULARY",
+        "label": "Lesson 839",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_840",
+        "type": "AI_TUTOR",
+        "label": "Lesson 840",
+        "isLocked": true,
+        "xOffset": -15
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 85: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_841",
+        "type": "AI_TUTOR",
+        "label": "Lesson 841",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_842",
+        "type": "VERBS",
+        "label": "Lesson 842",
+        "isLocked": true,
+        "xOffset": -16
+      },
+      {
+        "id": "node_843",
+        "type": "NATURE",
+        "label": "Lesson 843",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_844",
+        "type": "CULTURE",
+        "label": "Lesson 844",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_845",
+        "type": "FOOD",
+        "label": "Lesson 845",
+        "isLocked": true,
+        "xOffset": 23
+      },
+      {
+        "id": "node_846",
+        "type": "PRONOUNS",
+        "label": "Lesson 846",
+        "isLocked": true,
+        "xOffset": 28
+      },
+      {
+        "id": "node_847",
+        "type": "FOOD",
+        "label": "Lesson 847",
+        "isLocked": true,
+        "xOffset": -22
+      },
+      {
+        "id": "node_848",
+        "type": "PRONOUNS",
+        "label": "Lesson 848",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_849",
+        "type": "NATURE",
+        "label": "Lesson 849",
+        "isLocked": true,
+        "xOffset": 33
+      },
+      {
+        "id": "node_850",
+        "type": "AI_TUTOR",
+        "label": "Lesson 850",
+        "isLocked": true,
+        "xOffset": 30
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 86: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_851",
+        "type": "AI_TUTOR",
+        "label": "Lesson 851",
+        "isLocked": true,
+        "xOffset": 11
+      },
+      {
+        "id": "node_852",
+        "type": "VERBS",
+        "label": "Lesson 852",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_853",
+        "type": "FAMILY",
+        "label": "Lesson 853",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_854",
+        "type": "CULTURE",
+        "label": "Lesson 854",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_855",
+        "type": "NATURE",
+        "label": "Lesson 855",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_856",
+        "type": "GRAMMAR",
+        "label": "Lesson 856",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_857",
+        "type": "FOOD",
+        "label": "Lesson 857",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_858",
+        "type": "PRONOUNS",
+        "label": "Lesson 858",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_859",
+        "type": "NATURE",
+        "label": "Lesson 859",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_860",
+        "type": "AI_TUTOR",
+        "label": "Lesson 860",
+        "isLocked": true,
+        "xOffset": 7
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 87: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_861",
+        "type": "AI_TUTOR",
+        "label": "Lesson 861",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_862",
+        "type": "GRAMMAR",
+        "label": "Lesson 862",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_863",
+        "type": "FOOD",
+        "label": "Lesson 863",
+        "isLocked": true,
+        "xOffset": -25
+      },
+      {
+        "id": "node_864",
+        "type": "CULTURE",
+        "label": "Lesson 864",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_865",
+        "type": "NATURE",
+        "label": "Lesson 865",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_866",
+        "type": "GRAMMAR",
+        "label": "Lesson 866",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_867",
+        "type": "NATURE",
+        "label": "Lesson 867",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_868",
+        "type": "PRONOUNS",
+        "label": "Lesson 868",
+        "isLocked": true,
+        "xOffset": -26
+      },
+      {
+        "id": "node_869",
+        "type": "FAMILY",
+        "label": "Lesson 869",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_870",
+        "type": "AI_TUTOR",
+        "label": "Lesson 870",
+        "isLocked": true,
+        "xOffset": -6
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 88: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_871",
+        "type": "AI_TUTOR",
+        "label": "Lesson 871",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_872",
+        "type": "PRONOUNS",
+        "label": "Lesson 872",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_873",
+        "type": "NATURE",
+        "label": "Lesson 873",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_874",
+        "type": "CULTURE",
+        "label": "Lesson 874",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_875",
+        "type": "FAMILY",
+        "label": "Lesson 875",
+        "isLocked": true,
+        "xOffset": 19
+      },
+      {
+        "id": "node_876",
+        "type": "VERBS",
+        "label": "Lesson 876",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_877",
+        "type": "NATURE",
+        "label": "Lesson 877",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_878",
+        "type": "PRONOUNS",
+        "label": "Lesson 878",
+        "isLocked": true,
+        "xOffset": 9
+      },
+      {
+        "id": "node_879",
+        "type": "FAMILY",
+        "label": "Lesson 879",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_880",
+        "type": "AI_TUTOR",
+        "label": "Lesson 880",
+        "isLocked": true,
+        "xOffset": 37
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 89: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_881",
+        "type": "AI_TUTOR",
+        "label": "Lesson 881",
+        "isLocked": true,
+        "xOffset": 4
+      },
+      {
+        "id": "node_882",
+        "type": "GRAMMAR",
+        "label": "Lesson 882",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_883",
+        "type": "FOOD",
+        "label": "Lesson 883",
+        "isLocked": true,
+        "xOffset": 18
+      },
+      {
+        "id": "node_884",
+        "type": "CULTURE",
+        "label": "Lesson 884",
+        "isLocked": true,
+        "xOffset": -27
+      },
+      {
+        "id": "node_885",
+        "type": "FOOD",
+        "label": "Lesson 885",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_886",
+        "type": "PRONOUNS",
+        "label": "Lesson 886",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_887",
+        "type": "FAMILY",
+        "label": "Lesson 887",
+        "isLocked": true,
+        "xOffset": -12
+      },
+      {
+        "id": "node_888",
+        "type": "GRAMMAR",
+        "label": "Lesson 888",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_889",
+        "type": "FOOD",
+        "label": "Lesson 889",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_890",
+        "type": "AI_TUTOR",
+        "label": "Lesson 890",
+        "isLocked": true,
+        "xOffset": 28
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 90: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_891",
+        "type": "AI_TUTOR",
+        "label": "Lesson 891",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_892",
+        "type": "PRONOUNS",
+        "label": "Lesson 892",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_893",
+        "type": "NATURE",
+        "label": "Lesson 893",
+        "isLocked": true,
+        "xOffset": -39
+      },
+      {
+        "id": "node_894",
+        "type": "CULTURE",
+        "label": "Lesson 894",
+        "isLocked": true,
+        "xOffset": -20
+      },
+      {
+        "id": "node_895",
+        "type": "VOCABULARY",
+        "label": "Lesson 895",
+        "isLocked": true,
+        "xOffset": -33
+      },
+      {
+        "id": "node_896",
+        "type": "VERBS",
+        "label": "Lesson 896",
+        "isLocked": true,
+        "xOffset": -36
+      },
+      {
+        "id": "node_897",
+        "type": "NATURE",
+        "label": "Lesson 897",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_898",
+        "type": "GRAMMAR",
+        "label": "Lesson 898",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_899",
+        "type": "FOOD",
+        "label": "Lesson 899",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_900",
+        "type": "AI_TUTOR",
+        "label": "Lesson 900",
+        "isLocked": true,
+        "xOffset": 37
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 91: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_901",
+        "type": "AI_TUTOR",
+        "label": "Lesson 901",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_902",
+        "type": "GRAMMAR",
+        "label": "Lesson 902",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_903",
+        "type": "FOOD",
+        "label": "Lesson 903",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_904",
+        "type": "CULTURE",
+        "label": "Lesson 904",
+        "isLocked": true,
+        "xOffset": -35
+      },
+      {
+        "id": "node_905",
+        "type": "VOCABULARY",
+        "label": "Lesson 905",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_906",
+        "type": "VERBS",
+        "label": "Lesson 906",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_907",
+        "type": "NATURE",
+        "label": "Lesson 907",
+        "isLocked": true,
+        "xOffset": 34
+      },
+      {
+        "id": "node_908",
+        "type": "VERBS",
+        "label": "Lesson 908",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_909",
+        "type": "VOCABULARY",
+        "label": "Lesson 909",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_910",
+        "type": "AI_TUTOR",
+        "label": "Lesson 910",
+        "isLocked": true,
+        "xOffset": -3
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 92: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_911",
+        "type": "AI_TUTOR",
+        "label": "Lesson 911",
+        "isLocked": true,
+        "xOffset": 26
+      },
+      {
+        "id": "node_912",
+        "type": "VERBS",
+        "label": "Lesson 912",
+        "isLocked": true,
+        "xOffset": 3
+      },
+      {
+        "id": "node_913",
+        "type": "FOOD",
+        "label": "Lesson 913",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_914",
+        "type": "CULTURE",
+        "label": "Lesson 914",
+        "isLocked": true,
+        "xOffset": -11
+      },
+      {
+        "id": "node_915",
+        "type": "NATURE",
+        "label": "Lesson 915",
+        "isLocked": true,
+        "xOffset": -3
+      },
+      {
+        "id": "node_916",
+        "type": "PRONOUNS",
+        "label": "Lesson 916",
+        "isLocked": true,
+        "xOffset": -7
+      },
+      {
+        "id": "node_917",
+        "type": "FAMILY",
+        "label": "Lesson 917",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_918",
+        "type": "PRONOUNS",
+        "label": "Lesson 918",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_919",
+        "type": "NATURE",
+        "label": "Lesson 919",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_920",
+        "type": "AI_TUTOR",
+        "label": "Lesson 920",
+        "isLocked": true,
+        "xOffset": 23
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 93: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_921",
+        "type": "AI_TUTOR",
+        "label": "Lesson 921",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_922",
+        "type": "VERBS",
+        "label": "Lesson 922",
+        "isLocked": true,
+        "xOffset": 6
+      },
+      {
+        "id": "node_923",
+        "type": "VOCABULARY",
+        "label": "Lesson 923",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_924",
+        "type": "CULTURE",
+        "label": "Lesson 924",
+        "isLocked": true,
+        "xOffset": -10
+      },
+      {
+        "id": "node_925",
+        "type": "FOOD",
+        "label": "Lesson 925",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_926",
+        "type": "GRAMMAR",
+        "label": "Lesson 926",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_927",
+        "type": "FOOD",
+        "label": "Lesson 927",
+        "isLocked": true,
+        "xOffset": -19
+      },
+      {
+        "id": "node_928",
+        "type": "PRONOUNS",
+        "label": "Lesson 928",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_929",
+        "type": "FOOD",
+        "label": "Lesson 929",
+        "isLocked": true,
+        "xOffset": -32
+      },
+      {
+        "id": "node_930",
+        "type": "AI_TUTOR",
+        "label": "Lesson 930",
+        "isLocked": true,
+        "xOffset": 35
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 94: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_931",
+        "type": "AI_TUTOR",
+        "label": "Lesson 931",
+        "isLocked": true,
+        "xOffset": -5
+      },
+      {
+        "id": "node_932",
+        "type": "GRAMMAR",
+        "label": "Lesson 932",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_933",
+        "type": "FAMILY",
+        "label": "Lesson 933",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_934",
+        "type": "CULTURE",
+        "label": "Lesson 934",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_935",
+        "type": "VOCABULARY",
+        "label": "Lesson 935",
+        "isLocked": true,
+        "xOffset": -28
+      },
+      {
+        "id": "node_936",
+        "type": "PRONOUNS",
+        "label": "Lesson 936",
+        "isLocked": true,
+        "xOffset": 32
+      },
+      {
+        "id": "node_937",
+        "type": "FOOD",
+        "label": "Lesson 937",
+        "isLocked": true,
+        "xOffset": 29
+      },
+      {
+        "id": "node_938",
+        "type": "VERBS",
+        "label": "Lesson 938",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_939",
+        "type": "FOOD",
+        "label": "Lesson 939",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_940",
+        "type": "AI_TUTOR",
+        "label": "Lesson 940",
+        "isLocked": true,
+        "xOffset": 26
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 95: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_941",
+        "type": "AI_TUTOR",
+        "label": "Lesson 941",
+        "isLocked": true,
+        "xOffset": -23
+      },
+      {
+        "id": "node_942",
+        "type": "PRONOUNS",
+        "label": "Lesson 942",
+        "isLocked": true,
+        "xOffset": 0
+      },
+      {
+        "id": "node_943",
+        "type": "FOOD",
+        "label": "Lesson 943",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_944",
+        "type": "CULTURE",
+        "label": "Lesson 944",
+        "isLocked": true,
+        "xOffset": 12
+      },
+      {
+        "id": "node_945",
+        "type": "FOOD",
+        "label": "Lesson 945",
+        "isLocked": true,
+        "xOffset": -9
+      },
+      {
+        "id": "node_946",
+        "type": "VERBS",
+        "label": "Lesson 946",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_947",
+        "type": "FAMILY",
+        "label": "Lesson 947",
+        "isLocked": true,
+        "xOffset": 20
+      },
+      {
+        "id": "node_948",
+        "type": "GRAMMAR",
+        "label": "Lesson 948",
+        "isLocked": true,
+        "xOffset": 31
+      },
+      {
+        "id": "node_949",
+        "type": "VOCABULARY",
+        "label": "Lesson 949",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_950",
+        "type": "AI_TUTOR",
+        "label": "Lesson 950",
+        "isLocked": true,
+        "xOffset": -8
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 96: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_951",
+        "type": "AI_TUTOR",
+        "label": "Lesson 951",
+        "isLocked": true,
+        "xOffset": 7
+      },
+      {
+        "id": "node_952",
+        "type": "GRAMMAR",
+        "label": "Lesson 952",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_953",
+        "type": "NATURE",
+        "label": "Lesson 953",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_954",
+        "type": "CULTURE",
+        "label": "Lesson 954",
+        "isLocked": true,
+        "xOffset": -4
+      },
+      {
+        "id": "node_955",
+        "type": "NATURE",
+        "label": "Lesson 955",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_956",
+        "type": "VERBS",
+        "label": "Lesson 956",
+        "isLocked": true,
+        "xOffset": 35
+      },
+      {
+        "id": "node_957",
+        "type": "NATURE",
+        "label": "Lesson 957",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_958",
+        "type": "PRONOUNS",
+        "label": "Lesson 958",
+        "isLocked": true,
+        "xOffset": 39
+      },
+      {
+        "id": "node_959",
+        "type": "NATURE",
+        "label": "Lesson 959",
+        "isLocked": true,
+        "xOffset": 2
+      },
+      {
+        "id": "node_960",
+        "type": "AI_TUTOR",
+        "label": "Lesson 960",
+        "isLocked": true,
+        "xOffset": -38
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 97: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_961",
+        "type": "AI_TUTOR",
+        "label": "Lesson 961",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_962",
+        "type": "PRONOUNS",
+        "label": "Lesson 962",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_963",
+        "type": "FOOD",
+        "label": "Lesson 963",
+        "isLocked": true,
+        "xOffset": 15
+      },
+      {
+        "id": "node_964",
+        "type": "CULTURE",
+        "label": "Lesson 964",
+        "isLocked": true,
+        "xOffset": 30
+      },
+      {
+        "id": "node_965",
+        "type": "FOOD",
+        "label": "Lesson 965",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_966",
+        "type": "PRONOUNS",
+        "label": "Lesson 966",
+        "isLocked": true,
+        "xOffset": 13
+      },
+      {
+        "id": "node_967",
+        "type": "FAMILY",
+        "label": "Lesson 967",
+        "isLocked": true,
+        "xOffset": 27
+      },
+      {
+        "id": "node_968",
+        "type": "PRONOUNS",
+        "label": "Lesson 968",
+        "isLocked": true,
+        "xOffset": 14
+      },
+      {
+        "id": "node_969",
+        "type": "NATURE",
+        "label": "Lesson 969",
+        "isLocked": true,
+        "xOffset": -30
+      },
+      {
+        "id": "node_970",
+        "type": "AI_TUTOR",
+        "label": "Lesson 970",
+        "isLocked": true,
+        "xOffset": 6
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 98: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_971",
+        "type": "AI_TUTOR",
+        "label": "Lesson 971",
+        "isLocked": true,
+        "xOffset": -15
+      },
+      {
+        "id": "node_972",
+        "type": "VERBS",
+        "label": "Lesson 972",
+        "isLocked": true,
+        "xOffset": 24
+      },
+      {
+        "id": "node_973",
+        "type": "NATURE",
+        "label": "Lesson 973",
+        "isLocked": true,
+        "xOffset": -6
+      },
+      {
+        "id": "node_974",
+        "type": "CULTURE",
+        "label": "Lesson 974",
+        "isLocked": true,
+        "xOffset": -17
+      },
+      {
+        "id": "node_975",
+        "type": "VOCABULARY",
+        "label": "Lesson 975",
+        "isLocked": true,
+        "xOffset": 38
+      },
+      {
+        "id": "node_976",
+        "type": "PRONOUNS",
+        "label": "Lesson 976",
+        "isLocked": true,
+        "xOffset": -29
+      },
+      {
+        "id": "node_977",
+        "type": "FAMILY",
+        "label": "Lesson 977",
+        "isLocked": true,
+        "xOffset": -14
+      },
+      {
+        "id": "node_978",
+        "type": "GRAMMAR",
+        "label": "Lesson 978",
+        "isLocked": true,
+        "xOffset": -37
+      },
+      {
+        "id": "node_979",
+        "type": "FAMILY",
+        "label": "Lesson 979",
+        "isLocked": true,
+        "xOffset": -31
+      },
+      {
+        "id": "node_980",
+        "type": "AI_TUTOR",
+        "label": "Lesson 980",
+        "isLocked": true,
+        "xOffset": -39
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 99: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_981",
+        "type": "AI_TUTOR",
+        "label": "Lesson 981",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_982",
+        "type": "PRONOUNS",
+        "label": "Lesson 982",
+        "isLocked": true,
+        "xOffset": 37
+      },
+      {
+        "id": "node_983",
+        "type": "FAMILY",
+        "label": "Lesson 983",
+        "isLocked": true,
+        "xOffset": -40
+      },
+      {
+        "id": "node_984",
+        "type": "CULTURE",
+        "label": "Lesson 984",
+        "isLocked": true,
+        "xOffset": 5
+      },
+      {
+        "id": "node_985",
+        "type": "VOCABULARY",
+        "label": "Lesson 985",
+        "isLocked": true,
+        "xOffset": 36
+      },
+      {
+        "id": "node_986",
+        "type": "GRAMMAR",
+        "label": "Lesson 986",
+        "isLocked": true,
+        "xOffset": 1
+      },
+      {
+        "id": "node_987",
+        "type": "NATURE",
+        "label": "Lesson 987",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_988",
+        "type": "VERBS",
+        "label": "Lesson 988",
+        "isLocked": true,
+        "xOffset": -2
+      },
+      {
+        "id": "node_989",
+        "type": "FAMILY",
+        "label": "Lesson 989",
+        "isLocked": true,
+        "xOffset": -38
+      },
+      {
+        "id": "node_990",
+        "type": "AI_TUTOR",
+        "label": "Lesson 990",
+        "isLocked": true,
+        "xOffset": 2
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Level 100: Path to Fluency",
+    "sectionDesc": "Master advanced Hindi concepts and vocabulary.",
+    "nodes": [
+      {
+        "id": "node_991",
+        "type": "AI_TUTOR",
+        "label": "Lesson 991",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_992",
+        "type": "PRONOUNS",
+        "label": "Lesson 992",
+        "isLocked": true,
+        "xOffset": -24
+      },
+      {
+        "id": "node_993",
+        "type": "NATURE",
+        "label": "Lesson 993",
+        "isLocked": true,
+        "xOffset": 16
+      },
+      {
+        "id": "node_994",
+        "type": "CULTURE",
+        "label": "Lesson 994",
+        "isLocked": true,
+        "xOffset": 40
+      },
+      {
+        "id": "node_995",
+        "type": "FAMILY",
+        "label": "Lesson 995",
+        "isLocked": true,
+        "xOffset": 25
+      },
+      {
+        "id": "node_996",
+        "type": "GRAMMAR",
+        "label": "Lesson 996",
+        "isLocked": true,
+        "xOffset": 17
+      },
+      {
+        "id": "node_997",
+        "type": "VOCABULARY",
+        "label": "Lesson 997",
+        "isLocked": true,
+        "xOffset": 22
+      },
+      {
+        "id": "node_998",
+        "type": "GRAMMAR",
+        "label": "Lesson 998",
+        "isLocked": true,
+        "xOffset": -8
+      },
+      {
+        "id": "node_999",
+        "type": "FAMILY",
+        "label": "Lesson 999",
+        "isLocked": true,
+        "xOffset": 21
+      },
+      {
+        "id": "node_1000",
+        "type": "AI_TUTOR",
+        "label": "Lesson 1000",
+        "isLocked": true,
+        "xOffset": 32
+      }
+    ]
+  }
+]

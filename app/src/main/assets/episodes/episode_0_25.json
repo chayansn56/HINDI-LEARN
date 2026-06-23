@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Foundation Academy - Level 25",
+    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 25. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "तारा​​​​​​​​​​​​ (tārā) = Star / Ngôi sao",
+      "लेना​​​​​​ (lenā) = To take / Lấy / Nhận",
+      "तारा​​​​​​​​ (tārā) = Star / Ngôi sao"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Alphabet & Building Blocks - Part 25",
+    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
+    "simpleRule": "Remember: तारा​​​​​​​​​​​​ means 'Star' (Ngôi sao)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तारा​​​​​​​​​​​​",
+    "transliteration": "tārā",
+    "english": "Star",
+    "vietnamese": "Ngôi sao",
+    "audio": "तारा​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'तारा​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'तारा​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'तारा​​​​​​​​​​​​'",
+    "text": "तारा​​​​​​​​​​​​",
+    "subtext": "tārā",
+    "answer": "Star",
+    "answer_vi": "Ngôi sao",
+    "options": [
+      "Star",
+      "Pen",
+      "Rain",
+      "To take"
+    ],
+    "options_vi": [
+      "Ngôi sao",
+      "Bút",
+      "Cơn mưa",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तारा​​​​​​​​",
+    "transliteration": "tārā",
+    "english": "Star",
+    "vietnamese": "Ngôi sao",
+    "audio": "तारा​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बारिश​",
+    "transliteration": "bārish",
+    "english": "Rain",
+    "vietnamese": "Cơn mưa",
+    "audio": "बारिश​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "तारा​​​​​​​​​​​​",
+        "english": "Star (Ngôi sao)"
+      },
+      {
+        "hindi": "लेना​​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      },
+      {
+        "hindi": "तारा​​​​​​​​",
+        "english": "Star (Ngôi sao)"
+      },
+      {
+        "hindi": "बारिश​",
+        "english": "Rain (Cơn mưa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लेना​​​​​​",
+    "translation_en": "To take",
+    "translation_vi": "Lấy / Nhận",
+    "options_en": [
+      "Rain",
+      "Star",
+      "To take",
+      "Star"
+    ],
+    "options_vi": [
+      "Cơn mưa",
+      "Ngôi sao",
+      "Lấy / Nhận",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I drink water / Tôi uống nước",
+    "hindiWords": [
+      "मैं",
+      "पानी",
+      "पीता",
+      "हूँ",
+      "दूध",
+      "है"
+    ],
+    "correctHindiSentence": "मैं पानी पीता हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कापी​​​​​​​​",
+    "transliteration": "kaapī",
+    "english": "Notebook",
+    "vietnamese": "Sổ tay",
+    "audio": "कापी​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "तारा​​​​​​​​",
+        "english": "Star (Ngôi sao)"
+      },
+      {
+        "hindi": "बारिश​",
+        "english": "Rain (Cơn mưa)"
+      },
+      {
+        "hindi": "पेन​​",
+        "english": "Pen (Bút)"
+      },
+      {
+        "hindi": "कापी​​​​​​​​",
+        "english": "Notebook (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: तारा​​​​​​​​​​​​, तारा​​​​​​​​, पेन​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'The boy runs fast'."
+    ]
+  }
+]

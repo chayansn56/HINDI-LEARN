@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 9",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 9. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "समुद्र​​​​ (samudra) = Sea / Ocean / Biển",
+      "चाँदी​​​ (cā̃dī) = Silver / Bạc",
+      "दफ़्तर​​​​​ (daftar) = Office / Văn phòng"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 9",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: समुद्र​​​​ means 'Sea / Ocean' (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समुद्र​​​​",
+    "transliteration": "samudra",
+    "english": "Sea / Ocean",
+    "vietnamese": "Biển",
+    "audio": "समुद्र​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाँदी​​​",
+    "transliteration": "cā̃dī",
+    "english": "Silver",
+    "vietnamese": "Bạc",
+    "audio": "चाँदी​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'समुद्र​​​​'",
+    "prompt_en": "Choose the correct translation for 'समुद्र​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'समुद्र​​​​'",
+    "text": "समुद्र​​​​",
+    "subtext": "samudra",
+    "answer": "Sea / Ocean",
+    "answer_vi": "Biển",
+    "options": [
+      "Soil / Earth",
+      "Office",
+      "Silver",
+      "Sea / Ocean"
+    ],
+    "options_vi": [
+      "Đất",
+      "Văn phòng",
+      "Bạc",
+      "Biển"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "समुद्र​​​​",
+        "english": "Sea / Ocean (Biển)"
+      },
+      {
+        "hindi": "चाँदी​​​",
+        "english": "Silver (Bạc)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "चाँदी​​​",
+    "translation_en": "Silver",
+    "translation_vi": "Bạc",
+    "options_en": [
+      "Sea / Ocean",
+      "Silver",
+      "Office",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Biển",
+      "Bạc",
+      "Văn phòng",
+      "Đất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
+    "hindiWords": [
+      "मैं",
+      "सेब",
+      "खाता",
+      "हूँ",
+      "रोटी",
+      "है"
+    ],
+    "correctHindiSentence": "मैं सेब खाता हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के बारे में",
+    "transliteration": "ke baare mein",
+    "english": "about / regarding",
+    "vietnamese": "Về / Liên quan đến",
+    "audio": "के बारे में"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आना",
+    "transliteration": "aana",
+    "english": "to come",
+    "vietnamese": "Đến",
+    "audio": "आना"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "दफ़्तर​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "के बारे में",
+        "english": "about / regarding (Về / Liên quan đến)"
+      },
+      {
+        "hindi": "आना",
+        "english": "to come (Đến)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a big house / Đây là một ngôi nhà lớn",
+    "hindiWords": [
+      "यह",
+      "बड़ा",
+      "घर",
+      "है",
+      "छोटा",
+      "सड़क"
+    ],
+    "correctHindiSentence": "यह बड़ा घर है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: समुद्र​​​​, दफ़्तर​​​​​, के बारे में.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'This is a big house'."
+    ]
+  }
+]

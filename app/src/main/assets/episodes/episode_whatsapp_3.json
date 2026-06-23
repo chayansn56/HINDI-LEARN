@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Whatsapp - Lesson 3",
+    "description": "Learn key vocabulary and concepts for Whatsapp - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (kām karnā) = To work / Làm việc",
+      "हवा आने दे (hawa aane de) = Get lost / Let me breathe / Đi chỗ khác chơi / Cho tôi thở",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (lenā) = To take / Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 3",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To work' (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हवा आने दे",
+    "transliteration": "hawa aane de",
+    "english": "Get lost / Let me breathe",
+    "vietnamese": "Đi chỗ khác chơi / Cho tôi thở",
+    "audio": "हवा आने दे"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "kām karnā",
+    "answer": "To work",
+    "answer_vi": "Làm việc",
+    "options": [
+      "Get lost / Let me breathe",
+      "To work",
+      "To listen / hear",
+      "To take"
+    ],
+    "options_vi": [
+      "Đi chỗ khác chơi / Cho tôi thở",
+      "Làm việc",
+      "Nghe",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "हवा आने दे",
+        "english": "Get lost / Let me breathe (Đi chỗ khác chơi / Cho tôi thở)"
+      },
+      {
+        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "हवा आने दे",
+    "translation_en": "Get lost / Let me breathe",
+    "translation_vi": "Đi chỗ khác chơi / Cho tôi thở",
+    "options_en": [
+      "To listen / hear",
+      "To take",
+      "To work",
+      "Get lost / Let me breathe"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Lấy / Nhận",
+      "Làm việc",
+      "Đi chỗ khác chơi / Cho tôi thở"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "What is the plan, bro? / Kế hoạch là gì vậy bro?",
+    "hindiWords": [
+      "सीन",
+      "क्या",
+      "है",
+      "भाई",
+      "यार",
+      "मस्त"
+    ],
+    "correctHindiSentence": "सीन क्या है भाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kharīdnā",
+    "english": "To buy",
+    "vietnamese": "Mua",
+    "audio": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sikhānā",
+    "english": "To teach",
+    "vietnamese": "Dạy",
+    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To buy (Mua)"
+      },
+      {
+        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To teach (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Don't annoy me / Đừng làm phiền tôi nữa",
+    "hindiWords": [
+      "दिमाग",
+      "मत",
+      "खा",
+      "यार",
+      "बकवास",
+      "ब्रो"
+    ],
+    "correctHindiSentence": "दिमाग मत खा"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​, लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Don't annoy me'."
+    ]
+  }
+]

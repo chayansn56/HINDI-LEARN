@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Lesson 5",
+    "description": "Learn key vocabulary and concepts for Travel - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "खरीदना​​​​​​​​​​​​​​​​​​ (kharīdnā) = To buy / Mua",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​ (paṛhnā) = To read / Đọc",
+      "टिकट (ṭikaṭ) = Ticket / Vé"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 5",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: खरीदना​​​​​​​​​​​​​​​​​​ means 'To buy' (Mua)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खरीदना​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kharīdnā",
+    "english": "To buy",
+    "vietnamese": "Mua",
+    "audio": "खरीदना​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'खरीदना​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'खरीदना​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खरीदना​​​​​​​​​​​​​​​​​​'",
+    "text": "खरीदना​​​​​​​​​​​​​​​​​​",
+    "subtext": "kharīdnā",
+    "answer": "To buy",
+    "answer_vi": "Mua",
+    "options": [
+      "To read",
+      "To buy",
+      "Ticket",
+      "To sleep"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Mua",
+      "Vé",
+      "Ngủ"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट",
+    "transliteration": "ṭikaṭ",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​",
+        "english": "To buy (Mua)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To read",
+    "translation_vi": "Đọc",
+    "options_en": [
+      "Ticket",
+      "To buy",
+      "To sleep",
+      "To read"
+    ],
+    "options_vi": [
+      "Vé",
+      "Mua",
+      "Ngủ",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
+    "hindiWords": [
+      "होटल",
+      "कहाँ",
+      "है",
+      "स्टेशन",
+      "में"
+    ],
+    "correctHindiSentence": "होटल कहाँ है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पता",
+    "transliteration": "pata",
+    "english": "Address / Info",
+    "vietnamese": "Địa chỉ",
+    "audio": "पता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "denā",
+    "english": "To give",
+    "vietnamese": "Cho / Tặng",
+    "audio": "देना​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "पता",
+        "english": "Address / Info (Địa chỉ)"
+      },
+      {
+        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To give (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "hindiWords": [
+      "कृपया",
+      "दाम",
+      "कम",
+      "करो",
+      "ज्यादा",
+      "पैसे"
+    ],
+    "correctHindiSentence": "कृपया दाम कम करो"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: खरीदना​​​​​​​​​​​​​​​​​​, टिकट, पता.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Please reduce the price'."
+    ]
+  }
+]

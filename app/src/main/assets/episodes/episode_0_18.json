@@ -1,0 +1,134 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Matras Part 1: After & Below",
+    "description": "In Hindi, vowels don't always stand alone — they attach to consonants as special marks called 'matras'. In this lesson, you'll learn the first five matras that appear after or below a consonant: ा (aa), ि (i), ी (ee), ु (u), and ू (oo).",
+    "keyPoints": [
+      "Every consonant has a built-in 'a' sound (e.g., क = ka)",
+      "Matras replace that built-in 'a' with a different vowel sound",
+      "ा and ी attach after (to the right of) the consonant",
+      "ि is special — it is written BEFORE the consonant but pronounced after",
+      "ु and ू attach below the consonant"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "The Built-in 'a' Rule",
+    "explanation": "Every Hindi consonant comes with a free 'a' sound. The letter क is not just 'k' — it's 'ka'. When you want a different vowel sound, you add a matra (vowel sign) to the consonant. The matra replaces the built-in 'a'. For example, क (ka) + ा = का (kaa). Think of matras as vowel stickers you attach to consonants!",
+    "simpleRule": "Consonant alone = 'a' sound. Add a matra = new vowel sound."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ा — क → का",
+    "transliteration": "aa — ka → kaa",
+    "english": "aa matra: attaches to the right of the consonant",
+    "vietnamese": "Dấu nguyên âm aa: gắn bên phải phụ âm",
+    "audio": "का"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ि — क → कि",
+    "transliteration": "i — ka → ki",
+    "english": "i matra: written BEFORE the consonant but pronounced after it",
+    "vietnamese": "Dấu nguyên âm i: viết TRƯỚC phụ âm nhưng đọc sau",
+    "audio": "कि"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ी — क → की",
+    "transliteration": "ee — ka → kee",
+    "english": "ee matra: attaches to the right, long 'ee' sound",
+    "vietnamese": "Dấu nguyên âm ee: gắn bên phải, âm 'ee' dài",
+    "audio": "की"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ु — क → कु",
+    "transliteration": "u — ka → ku",
+    "english": "u matra: attaches below the consonant",
+    "vietnamese": "Dấu nguyên âm u: gắn bên dưới phụ âm",
+    "audio": "कु"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ू — क → कू",
+    "transliteration": "oo — ka → koo",
+    "english": "oo matra: attaches below the consonant, long 'oo' sound",
+    "vietnamese": "Dấu nguyên âm oo: gắn bên dưới phụ âm, âm 'oo' dài",
+    "audio": "कू"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "काम",
+    "translation": "work",
+    "contextSentenceHindi": "मुझे काम पर जाना है।",
+    "contextSentenceTranslation": "I have to go to work.",
+    "memoryTrick": "Sounds like 'calm' — you need to stay calm at work!"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "किला",
+    "translation": "fort",
+    "contextSentenceHindi": "यह किला बहुत पुराना है।",
+    "contextSentenceTranslation": "This fort is very old.",
+    "memoryTrick": "Notice the ि matra is written before क but you say 'ki'. किला = ki-la (fort)."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "कीमत",
+    "translation": "price",
+    "contextSentenceHindi": "इसकी कीमत क्या है?",
+    "contextSentenceTranslation": "What is the price of this?",
+    "memoryTrick": "की uses the long 'ee' matra. कीमत = kee-mat (price)."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "कुत्ता",
+    "translation": "dog",
+    "contextSentenceHindi": "यह कुत्ता बहुत प्यारा है।",
+    "contextSentenceTranslation": "This dog is very cute.",
+    "memoryTrick": "The ु matra sits below क. कुत्ता = kut-ta. Think: a cute 'kutta'!"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "कूड़ा",
+    "translation": "trash / garbage",
+    "contextSentenceHindi": "कूड़ा यहाँ मत फेंको।",
+    "contextSentenceTranslation": "Don't throw trash here.",
+    "memoryTrick": "The ू matra sits below क (longer hook than ु). कूड़ा = koo-da (trash)."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Which matra is written BEFORE the consonant but pronounced after it?",
+    "text": "Identify the special matra",
+    "subtext": "Think about which matra has an unusual placement",
+    "answer": "ि (i matra)",
+    "options": ["ा (aa matra)", "ि (i matra)", "ु (u matra)", "ू (oo matra)"]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "का",
+    "hint": "Write क and add the ा matra as a vertical line to its right. The matra looks like a standing stick: ा"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "What does the word 'कुत्ता' mean?",
+    "text": "कुत्ता",
+    "subtext": "Notice the ु matra below the क",
+    "answer": "Dog",
+    "options": ["Cat", "Dog", "Fort", "Work"]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Matras Part 1: After & Below — Recap",
+    "takeaways": [
+      "Every consonant has a built-in 'a' sound; matras change it",
+      "ा (aa) — attaches to the right: क → का",
+      "ि (i) — written BEFORE the consonant: क → कि",
+      "ी (ee) — attaches to the right (long ee): क → की",
+      "ु (u) — attaches below: क → कु",
+      "ू (oo) — attaches below (long oo): क → कू",
+      "Words learned: काम, किला, कीमत, कुत्ता, कूड़ा"
+    ]
+  }
+]

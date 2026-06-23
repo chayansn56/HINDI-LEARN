@@ -1,0 +1,183 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Lesson 1",
+    "description": "Learn key vocabulary and concepts for Culture - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "नमस्ते जी (namaste ji) = Hello (highly respectful) / Kính chào quý vị",
+      "खरीदना​​​​​​​​​​​​ (kharīdnā) = To buy / Mua",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (sunnā) = To listen / hear / Nghe"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 1",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: नमस्ते जी means 'Hello (highly respectful)' (Kính chào quý vị)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नमस्ते जी",
+    "transliteration": "namaste ji",
+    "english": "Hello (highly respectful)",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "नमस्ते जी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खरीदना​​​​​​​​​​​​",
+    "transliteration": "kharīdnā",
+    "english": "To buy",
+    "vietnamese": "Mua",
+    "audio": "खरीदना​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'नमस्ते जी'",
+    "prompt_en": "Choose the correct translation for 'नमस्ते जी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'नमस्ते जी'",
+    "text": "नमस्ते जी",
+    "subtext": "namaste ji",
+    "answer": "Hello (highly respectful)",
+    "answer_vi": "Kính chào quý vị",
+    "options": [
+      "Hello (highly respectful)",
+      "To buy",
+      "To listen / hear",
+      "To stand"
+    ],
+    "options_vi": [
+      "Kính chào quý vị",
+      "Mua",
+      "Nghe",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khaṛe honā",
+    "english": "To stand",
+    "vietnamese": "Đứng",
+    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "नमस्ते जी",
+        "english": "Hello (highly respectful) (Kính chào quý vị)"
+      },
+      {
+        "hindi": "खरीदना​​​​​​​​​​​​",
+        "english": "To buy (Mua)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "खरीदना​​​​​​​​​​​​",
+    "translation_en": "To buy",
+    "translation_vi": "Mua",
+    "options_en": [
+      "To buy",
+      "To listen / hear",
+      "To stand",
+      "Hello (highly respectful)"
+    ],
+    "options_vi": [
+      "Mua",
+      "Nghe",
+      "Đứng",
+      "Kính chào quý vị"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Diwali is a festival / Diwali là một lễ hội",
+    "hindiWords": [
+      "दिवाली",
+      "त्योहार",
+      "है",
+      "मंदिर",
+      "पूजा"
+    ],
+    "correctHindiSentence": "दिवाली त्योहार है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​​​​​​​​​​​​​​​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      },
+      {
+        "hindi": "काम करना​​​​​​​​​​​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To learn (Học)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "hindiWords": [
+      "आज",
+      "दिवाली",
+      "है",
+      "होली",
+      "ईद"
+    ],
+    "correctHindiSentence": "आज दिवाली है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: नमस्ते जी, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, काम करना​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Today is Diwali'."
+    ]
+  }
+]

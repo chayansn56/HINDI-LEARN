@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 5",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "चाँदी​​​ (cā̃dī) = Silver / Bạc",
+      "होंगे (honge) = will be (masculine plural) / Sẽ là (nam số nhiều)",
+      "प्याला​​​​ (pyālā) = Cup / Tách"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 5",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: चाँदी​​​ means 'Silver' (Bạc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाँदी​​​",
+    "transliteration": "cā̃dī",
+    "english": "Silver",
+    "vietnamese": "Bạc",
+    "audio": "चाँदी​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होंगे",
+    "transliteration": "honge",
+    "english": "will be (masculine plural)",
+    "vietnamese": "Sẽ là (nam số nhiều)",
+    "audio": "होंगे"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'चाँदी​​​'",
+    "prompt_en": "Choose the correct translation for 'चाँदी​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'चाँदी​​​'",
+    "text": "चाँदी​​​",
+    "subtext": "cā̃dī",
+    "answer": "Silver",
+    "answer_vi": "Bạc",
+    "options": [
+      "Cup",
+      "Silver",
+      "Soil / Earth",
+      "will be (masculine plural)"
+    ],
+    "options_vi": [
+      "Tách",
+      "Bạc",
+      "Đất",
+      "Sẽ là (nam số nhiều)"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्याला​​​​",
+    "transliteration": "pyālā",
+    "english": "Cup",
+    "vietnamese": "Tách",
+    "audio": "प्याला​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "चाँदी​​​",
+        "english": "Silver (Bạc)"
+      },
+      {
+        "hindi": "होंगे",
+        "english": "will be (masculine plural) (Sẽ là (nam số nhiều))"
+      },
+      {
+        "hindi": "प्याला​​​​",
+        "english": "Cup (Tách)"
+      },
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "होंगे",
+    "translation_en": "will be (masculine plural)",
+    "translation_vi": "Sẽ là (nam số nhiều)",
+    "options_en": [
+      "Soil / Earth",
+      "Cup",
+      "will be (masculine plural)",
+      "Silver"
+    ],
+    "options_vi": [
+      "Đất",
+      "Tách",
+      "Sẽ là (nam số nhiều)",
+      "Bạc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "She eats bread / Cô ấy ăn bánh mì",
+    "hindiWords": [
+      "वह",
+      "रोटी",
+      "खाती",
+      "है",
+      "पीती",
+      "हूँ"
+    ],
+    "correctHindiSentence": "वह रोटी खाती है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तारा​​​​​",
+    "transliteration": "tārā",
+    "english": "Star",
+    "vietnamese": "Ngôi sao",
+    "audio": "तारा​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कपड़ा​​",
+    "transliteration": "kapṛā",
+    "english": "Cloth / Dress",
+    "vietnamese": "Quần áo",
+    "audio": "कपड़ा​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "प्याला​​​​",
+        "english": "Cup (Tách)"
+      },
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "तारा​​​​​",
+        "english": "Star (Ngôi sao)"
+      },
+      {
+        "hindi": "कपड़ा​​",
+        "english": "Cloth / Dress (Quần áo)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: चाँदी​​​, प्याला​​​​, तारा​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'The boy runs fast'."
+    ]
+  }
+]

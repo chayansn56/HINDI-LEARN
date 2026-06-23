@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Lesson 8",
+    "description": "Learn key vocabulary and concepts for Speak - Lesson 8. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "बैठना​​​​​​​​ (baiṭhnā) = To sit / Ngồi",
+      "फिर से कहिए। (phir se kahiye) = Please say it again. / Làm ơn nói lại lần nữa.",
+      "हँसना​​​​​​​​ (hãsnā) = To laugh / Cười lớn"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 8",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: बैठना​​​​​​​​ means 'To sit' (Ngồi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बैठना​​​​​​​​",
+    "transliteration": "baiṭhnā",
+    "english": "To sit",
+    "vietnamese": "Ngồi",
+    "audio": "बैठना​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फिर से कहिए।",
+    "transliteration": "phir se kahiye",
+    "english": "Please say it again.",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "फिर से कहिए।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बैठना​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'बैठना​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बैठना​​​​​​​​'",
+    "text": "बैठना​​​​​​​​",
+    "subtext": "baiṭhnā",
+    "answer": "To sit",
+    "answer_vi": "Ngồi",
+    "options": [
+      "Please say it again.",
+      "To sit",
+      "How's it going? / How are you?",
+      "To laugh"
+    ],
+    "options_vi": [
+      "Làm ơn nói lại lần nữa.",
+      "Ngồi",
+      "Thế nào rồi?",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हँसना​​​​​​​​",
+    "transliteration": "hãsnā",
+    "english": "To laugh",
+    "vietnamese": "Cười lớn",
+    "audio": "हँसना​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या हाल है?",
+    "transliteration": "kya haal hai?",
+    "english": "How's it going? / How are you?",
+    "vietnamese": "Thế nào rồi?",
+    "audio": "क्या हाल है?"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बैठना​​​​​​​​",
+        "english": "To sit (Ngồi)"
+      },
+      {
+        "hindi": "फिर से कहिए।",
+        "english": "Please say it again. (Làm ơn nói lại lần nữa.)"
+      },
+      {
+        "hindi": "हँसना​​​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      },
+      {
+        "hindi": "क्या हाल है?",
+        "english": "How's it going? / How are you? (Thế nào rồi?)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "फिर से कहिए।",
+    "translation_en": "Please say it again.",
+    "translation_vi": "Làm ơn nói lại lần nữa.",
+    "options_en": [
+      "To sit",
+      "To laugh",
+      "Please say it again.",
+      "How's it going? / How are you?"
+    ],
+    "options_vi": [
+      "Ngồi",
+      "Cười lớn",
+      "Làm ơn nói lại lần nữa.",
+      "Thế nào rồi?"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please speak slowly / Làm ơn nói chậm lại",
+    "hindiWords": [
+      "कृपया",
+      "धीरे",
+      "बोलिए",
+      "सुनिए",
+      "नमस्ते"
+    ],
+    "correctHindiSentence": "कृपया धीरे बोलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाना​​​​​​​",
+    "transliteration": "gānā",
+    "english": "To sing",
+    "vietnamese": "Hát",
+    "audio": "गाना​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "हँसना​​​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      },
+      {
+        "hindi": "क्या हाल है?",
+        "english": "How's it going? / How are you? (Thế nào rồi?)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "गाना​​​​​​​",
+        "english": "To sing (Hát)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "What is your name? / Tên của bạn là gì?",
+    "hindiWords": [
+      "आपका",
+      "नाम",
+      "क्या",
+      "है",
+      "मेरा",
+      "लड़का"
+    ],
+    "correctHindiSentence": "आपका नाम क्या है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: बैठना​​​​​​​​, हँसना​​​​​​​​, सोना​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'What is your name?'."
+    ]
+  }
+]

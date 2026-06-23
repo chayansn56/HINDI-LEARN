@@ -1,0 +1,183 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 6",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "पड़ता है (paṛtā hai) = Has to / Phải",
+      "के बाहर (ke baahar) = outside of / Bên ngoài của",
+      "पैसा​​​​​​​ (paisā) = Money / Tiền"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 6",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: पड़ता है means 'Has to' (Phải)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पड़ता है",
+    "transliteration": "paṛtā hai",
+    "english": "Has to",
+    "vietnamese": "Phải",
+    "audio": "पड़ता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के बाहर",
+    "transliteration": "ke baahar",
+    "english": "outside of",
+    "vietnamese": "Bên ngoài của",
+    "audio": "के बाहर"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पड़ता है'",
+    "prompt_en": "Choose the correct translation for 'पड़ता है'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पड़ता है'",
+    "text": "पड़ता है",
+    "subtext": "paṛtā hai",
+    "answer": "Has to",
+    "answer_vi": "Phải",
+    "options": [
+      "Has to",
+      "outside of",
+      "Money",
+      "Office"
+    ],
+    "options_vi": [
+      "Phải",
+      "Bên ngoài của",
+      "Tiền",
+      "Văn phòng"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पड़ता है",
+        "english": "Has to (Phải)"
+      },
+      {
+        "hindi": "के बाहर",
+        "english": "outside of (Bên ngoài của)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​",
+        "english": "Office (Văn phòng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "के बाहर",
+    "translation_en": "outside of",
+    "translation_vi": "Bên ngoài của",
+    "options_en": [
+      "Has to",
+      "outside of",
+      "Money",
+      "Office"
+    ],
+    "options_vi": [
+      "Phải",
+      "Bên ngoài của",
+      "Tiền",
+      "Văn phòng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "He is a boy / Cậu ấy là một cậu bé",
+    "hindiWords": [
+      "वह",
+      "लड़का",
+      "है",
+      "हूँ",
+      "वे"
+    ],
+    "correctHindiSentence": "वह लड़का है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "पैसा​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "सफ़र​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "पेन​​​​​",
+        "english": "Pen (Bút)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "We are friends / Chúng tôi là bạn bè",
+    "hindiWords": [
+      "हम",
+      "दोस्त",
+      "हैं",
+      "हो",
+      "तुम"
+    ],
+    "correctHindiSentence": "हम दोस्त हैं"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: पड़ता है, पैसा​​​​​​​, सफ़र​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'We are friends'."
+    ]
+  }
+]

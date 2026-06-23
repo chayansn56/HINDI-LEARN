@@ -1,0 +1,183 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Lesson 4",
+    "description": "Learn key vocabulary and concepts for Culture - Lesson 4. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (sīkhnā) = To learn / Học",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​ (khelnā) = To play / Chơi",
+      "सपना (sapna) = Dream / Giấc mơ"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 4",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To learn' (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khelnā",
+    "english": "To play",
+    "vietnamese": "Chơi",
+    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sīkhnā",
+    "answer": "To learn",
+    "answer_vi": "Học",
+    "options": [
+      "Dream",
+      "To walk / move",
+      "To play",
+      "To learn"
+    ],
+    "options_vi": [
+      "Giấc mơ",
+      "Đi bộ / Di chuyển",
+      "Chơi",
+      "Học"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सपना",
+    "transliteration": "sapna",
+    "english": "Dream",
+    "vietnamese": "Giấc mơ",
+    "audio": "सपना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To learn (Học)"
+      },
+      {
+        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To play (Chơi)"
+      },
+      {
+        "hindi": "सपना",
+        "english": "Dream (Giấc mơ)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To play",
+    "translation_vi": "Chơi",
+    "options_en": [
+      "To play",
+      "To learn",
+      "To walk / move",
+      "Dream"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Học",
+      "Đi bộ / Di chuyển",
+      "Giấc mơ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "hindiWords": [
+      "आज",
+      "दिवाली",
+      "है",
+      "होली",
+      "ईद"
+    ],
+    "correctHindiSentence": "आज दिवाली है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "सपना",
+        "english": "Dream (Giấc mơ)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Diwali is a festival / Diwali là một lễ hội",
+    "hindiWords": [
+      "दिवाली",
+      "त्योहार",
+      "है",
+      "मंदिर",
+      "पूजा"
+    ],
+    "correctHindiSentence": "दिवाली त्योहार है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​, सपना, पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Diwali is a festival'."
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 8",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 8. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "भूलना (bhoolna) = to forget / Quên",
+      "नदी​​ (nadī) = River / Con sông",
+      "कपड़ा​​​​ (kapṛā) = Cloth / Dress / Quần áo"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 8",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: भूलना means 'to forget' (Quên)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भूलना",
+    "transliteration": "bhoolna",
+    "english": "to forget",
+    "vietnamese": "Quên",
+    "audio": "भूलना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नदी​​",
+    "transliteration": "nadī",
+    "english": "River",
+    "vietnamese": "Con sông",
+    "audio": "नदी​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'भूलना'",
+    "prompt_en": "Choose the correct translation for 'भूलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'भूलना'",
+    "text": "भूलना",
+    "subtext": "bhoolna",
+    "answer": "to forget",
+    "answer_vi": "Quên",
+    "options": [
+      "River",
+      "Cloth / Dress",
+      "without",
+      "to forget"
+    ],
+    "options_vi": [
+      "Con sông",
+      "Quần áo",
+      "Không có / Thiếu",
+      "Quên"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कपड़ा​​​​",
+    "transliteration": "kapṛā",
+    "english": "Cloth / Dress",
+    "vietnamese": "Quần áo",
+    "audio": "कपड़ा​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के बिना",
+    "transliteration": "ke bina",
+    "english": "without",
+    "vietnamese": "Không có / Thiếu",
+    "audio": "के बिना"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "भूलना",
+        "english": "to forget (Quên)"
+      },
+      {
+        "hindi": "नदी​​",
+        "english": "River (Con sông)"
+      },
+      {
+        "hindi": "कपड़ा​​​​",
+        "english": "Cloth / Dress (Quần áo)"
+      },
+      {
+        "hindi": "के बिना",
+        "english": "without (Không có / Thiếu)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "नदी​​",
+    "translation_en": "River",
+    "translation_vi": "Con sông",
+    "options_en": [
+      "River",
+      "without",
+      "Cloth / Dress",
+      "to forget"
+    ],
+    "options_vi": [
+      "Con sông",
+      "Không có / Thiếu",
+      "Quần áo",
+      "Quên"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "hindiWords": [
+      "मैं",
+      "लड़का",
+      "हूँ",
+      "लड़की",
+      "है"
+    ],
+    "correctHindiSentence": "मैं लड़का हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "से",
+    "transliteration": "se",
+    "english": "From / By / With",
+    "vietnamese": "Từ / Bằng / Với",
+    "audio": "से"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पहाड़​​​​​",
+    "transliteration": "pahāṛ",
+    "english": "Mountain",
+    "vietnamese": "Ngọn núi",
+    "audio": "पहाड़​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "कपड़ा​​​​",
+        "english": "Cloth / Dress (Quần áo)"
+      },
+      {
+        "hindi": "के बिना",
+        "english": "without (Không có / Thiếu)"
+      },
+      {
+        "hindi": "से",
+        "english": "From / By / With (Từ / Bằng / Với)"
+      },
+      {
+        "hindi": "पहाड़​​​​​",
+        "english": "Mountain (Ngọn núi)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: भूलना, कपड़ा​​​​, से.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'The boy runs fast'."
+    ]
+  }
+]

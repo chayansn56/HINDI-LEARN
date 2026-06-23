@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Lesson 3",
+    "description": "Learn key vocabulary and concepts for Pron - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "इसका (iska) = His / Her / Its (near) / Của anh/chị/nó (gần)",
+      "पढ़ना (paṛhnā) = To read / Đọc",
+      "बनाना​​​ (banānā) = To make / build / Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 3",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: इसका means 'His / Her / Its (near)' (Của anh/chị/nó (gần))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इसका",
+    "transliteration": "iska",
+    "english": "His / Her / Its (near)",
+    "vietnamese": "Của anh/chị/nó (gần)",
+    "audio": "इसका"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'इसका'",
+    "prompt_en": "Choose the correct translation for 'इसका'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इसका'",
+    "text": "इसका",
+    "subtext": "iska",
+    "answer": "His / Her / Its (near)",
+    "answer_vi": "Của anh/chị/nó (gần)",
+    "options": [
+      "To make / build",
+      "To learn",
+      "To read",
+      "His / Her / Its (near)"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Học",
+      "Đọc",
+      "Của anh/chị/nó (gần)"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इसका",
+        "english": "His / Her / Its (near) (Của anh/chị/nó (gần))"
+      },
+      {
+        "hindi": "पढ़ना",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "बनाना​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "सीखना​",
+        "english": "To learn (Học)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "पढ़ना",
+    "translation_en": "To read",
+    "translation_vi": "Đọc",
+    "options_en": [
+      "To read",
+      "To learn",
+      "To make / build",
+      "His / Her / Its (near)"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Học",
+      "Chế tạo / Tạo ra",
+      "Của anh/chị/nó (gần)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is the train station? / Ga tàu ở đâu?",
+    "hindiWords": [
+      "रेलवे",
+      "स्टेशन",
+      "कहाँ",
+      "है",
+      "हवाई",
+      "अड्डा"
+    ],
+    "correctHindiSentence": "रेलवे स्टेशन कहाँ है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थाली",
+    "transliteration": "thaali",
+    "english": "Plate",
+    "vietnamese": "Đĩa đựng thức ăn",
+    "audio": "थाली"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बेचना",
+    "transliteration": "becnā",
+    "english": "To sell",
+    "vietnamese": "Bán",
+    "audio": "बेचना"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "बनाना​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "सीखना​",
+        "english": "To learn (Học)"
+      },
+      {
+        "hindi": "थाली",
+        "english": "Plate (Đĩa đựng thức ăn)"
+      },
+      {
+        "hindi": "बेचना",
+        "english": "To sell (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "hindiWords": [
+      "आज",
+      "दिवाली",
+      "है",
+      "होली",
+      "ईद"
+    ],
+    "correctHindiSentence": "आज दिवाली है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: इसका, बनाना​​​, थाली.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Today is Diwali'."
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Lesson 2",
+    "description": "Learn key vocabulary and concepts for Business - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​ (batānā) = To tell / explain / Kể / Giải thích",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (dekhnā) = To see / watch / Nhìn / Xem",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (dekhnā) = To see / watch / Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 2",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: बताना​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To tell / explain' (Kể / Giải thích)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "batānā",
+    "english": "To tell / explain",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बताना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'बताना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बताना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "batānā",
+    "answer": "To tell / explain",
+    "answer_vi": "Kể / Giải thích",
+    "options": [
+      "To see / watch",
+      "To tell / explain",
+      "To sing",
+      "To see / watch"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Kể / Giải thích",
+      "Hát",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "batānā",
+    "english": "To tell / explain",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      },
+      {
+        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To see / watch",
+    "translation_vi": "Nhìn / Xem",
+    "options_en": [
+      "To tell / explain",
+      "To tell / explain",
+      "To sing",
+      "To see / watch"
+    ],
+    "options_vi": [
+      "Kể / Giải thích",
+      "Kể / Giải thích",
+      "Hát",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a meeting today / Hôm nay tôi có cuộc họp",
+    "hindiWords": [
+      "आज",
+      "मेरी",
+      "बैठक",
+      "है",
+      "काम",
+      "दफ़्तर"
+    ],
+    "correctHindiSentence": "आज मेरी बैठक है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "gānā",
+    "english": "To sing",
+    "vietnamese": "Hát",
+    "audio": "गाना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "denā",
+    "english": "To give",
+    "vietnamese": "Cho / Tặng",
+    "audio": "देना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      },
+      {
+        "hindi": "गाना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To give (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is the office? / Văn phòng ở đâu?",
+    "hindiWords": [
+      "दफ़्तर",
+      "कहाँ",
+      "है",
+      "कमरा",
+      "में"
+    ],
+    "correctHindiSentence": "दफ़्तर कहाँ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: बताना​​​​​​​​​​​​​​​​​​​​​​​​​​, देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, गाना​​​​​​​​​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Where is the office?'."
+    ]
+  }
+]

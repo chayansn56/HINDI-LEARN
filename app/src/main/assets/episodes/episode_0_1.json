@@ -1,0 +1,65 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Welcome to Delhi",
+    "description": "You have just landed in Delhi, India. The air is warm, the airport is bustling. It's time to speak your first Hindi word.",
+    "keyPoints": [
+      "We will start with just ONE word.",
+      "Listen carefully to the sounds."
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "The Taxi Driver",
+    "title_vi": "Người lái xe taxi",
+    "paragraphs": [
+      {
+        "hindi": "You step outside the airport. A taxi driver waves at you.",
+        "translation": "You step outside the airport. A taxi driver waves at you."
+      },
+      {
+        "hindi": "नमस्ते। (Namaste)",
+        "translation": "Hello."
+      }
+    ],
+    "question_en": "What did the taxi driver say?",
+    "question_vi": "Người lái xe taxi đã nói gì?",
+    "options": [
+      {
+        "text": "Hello",
+        "isCorrect": true
+      },
+      {
+        "text": "Goodbye",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "The Golden Rule of Hindi",
+    "explanation": "In Hindi, you can use one word for both 'Hello' and 'Goodbye'. It is polite, respectful, and universally understood across India.",
+    "simpleRule": "नमस्ते (Namaste) = Hello"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "नमस्ते",
+    "translation": "Hello",
+    "contextSentenceHindi": "नमस्ते।",
+    "contextSentenceTranslation": "Hello.",
+    "memoryTrick": "Na-mas-te. Put your hands together when you say it!"
+  },
+  {
+    "type": "Listening",
+    "audio": "नमस्ते",
+    "translation_en": "Hello",
+    "options_en": ["Hello", "Yes", "No", "Thanks"],
+    "translation_vi": "Xin chào",
+    "options_vi": ["Xin chào", "Có", "Không", "Cảm ơn"]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "नमस्ते",
+    "translation": "Hello"
+  }
+]

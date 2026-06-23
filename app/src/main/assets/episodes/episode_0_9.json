@@ -1,0 +1,156 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Vowels Part 2: Long Sounds",
+    "description": "Now let's learn the LONG vowels (दीर्घ स्वर) of Hindi! These are stretched-out versions of sounds you already know, plus some new ones. Long vowels are held for roughly twice the duration of short vowels. Getting the length right is crucial — 'din' (दिन = day) has a short इ, but 'deen' (दीन = poor) has a long ई. Different vowel, different meaning!",
+    "keyPoints": [
+      "Long vowels are held for about twice the duration of short vowels",
+      "7 long vowels: आ (aa), ई (ee), ऊ (oo), ए (e), ऐ (ai), ओ (o), औ (au)",
+      "Each short vowel has a long counterpart: अ→आ, इ→ई, उ→ऊ",
+      "Vowel length changes meaning: दिन (day) vs दीन (poor)"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आ",
+    "transliteration": "aa",
+    "english": "aa — long 'a' as in 'father'",
+    "vietnamese": "aa — nguyên âm dài 'a' như trong 'father'",
+    "audio": "आ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ई",
+    "transliteration": "ee",
+    "english": "ee — long 'ee' as in 'see'",
+    "vietnamese": "ee — nguyên âm dài 'ee' như trong 'see'",
+    "audio": "ई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ऊ",
+    "transliteration": "oo",
+    "english": "oo — long 'oo' as in 'boot'",
+    "vietnamese": "oo — nguyên âm dài 'oo' như trong 'boot'",
+    "audio": "ऊ"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "आ",
+    "hint": "This is अ with an extra vertical stroke on the right. Draw अ first, then add the line."
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ई",
+    "hint": "Similar to इ but with longer curves. Draw the body and add the headline on top."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ए",
+    "transliteration": "e",
+    "english": "e — as in 'they' or 'play' (no short equivalent!)",
+    "vietnamese": "e — như trong 'they' hoặc 'play'",
+    "audio": "ए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ऐ",
+    "transliteration": "ai",
+    "english": "ai — as in 'aisle' or like 'a' in 'apple'",
+    "vietnamese": "ai — như trong 'aisle' hoặc 'a' trong 'apple'",
+    "audio": "ऐ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ओ",
+    "transliteration": "o",
+    "english": "o — as in 'go' or 'so'",
+    "vietnamese": "o — như trong 'go' hoặc 'so'",
+    "audio": "ओ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "औ",
+    "transliteration": "au",
+    "english": "au — as in 'cow' or 'now'",
+    "vietnamese": "au — như trong 'cow' hoặc 'now'",
+    "audio": "औ"
+  },
+  {
+    "type": "ExamplesList",
+    "title": "Words with Long Vowels",
+    "examples": [
+      {
+        "hindi": "आम",
+        "transliteration": "aam",
+        "translation": "mango (आ = long 'aa')"
+      },
+      {
+        "hindi": "ईख",
+        "transliteration": "eekh",
+        "translation": "sugarcane (ई = long 'ee')"
+      },
+      {
+        "hindi": "ऊन",
+        "transliteration": "oon",
+        "translation": "wool (ऊ = long 'oo')"
+      },
+      {
+        "hindi": "एक",
+        "transliteration": "ek",
+        "translation": "one (ए = 'e')"
+      },
+      {
+        "hindi": "ऐनक",
+        "transliteration": "ainak",
+        "translation": "glasses/spectacles (ऐ = 'ai')"
+      },
+      {
+        "hindi": "ओस",
+        "transliteration": "os",
+        "translation": "dew (ओ = 'o')"
+      },
+      {
+        "hindi": "औरत",
+        "transliteration": "aurat",
+        "translation": "woman (औ = 'au')"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Which vowel sounds like 'oo' in 'boot'?",
+    "text": "'boot' के 'oo' जैसी ध्वनि कौन सा स्वर है?",
+    "subtext": "Think of a long, rounded 'oo' sound",
+    "answer": "ऊ",
+    "options": ["उ", "ऊ", "ओ", "औ"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "What does ऐनक mean?",
+    "text": "ऐनक का अर्थ क्या है?",
+    "subtext": "Starts with the vowel ऐ (ai)",
+    "answer": "Glasses / Spectacles",
+    "options": ["Mango", "Glasses / Spectacles", "Wool", "One"]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ऊ",
+    "hint": "Similar to उ but with an additional curve. Make the tail longer and more pronounced."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Long Vowels — Key Takeaways",
+    "takeaways": [
+      "आ (aa) — 'father', long version of अ",
+      "ई (ee) — 'see', long version of इ",
+      "ऊ (oo) — 'boot', long version of उ",
+      "ए (e) — 'they', no short counterpart",
+      "ऐ (ai) — 'aisle', a wider version of ए",
+      "ओ (o) — 'go', no short counterpart",
+      "औ (au) — 'cow', a wider version of ओ",
+      "Long vowels are held about twice as long as short vowels",
+      "Key words: आम (mango), ईख (sugarcane), ऊन (wool), एक (one), ऐनक (glasses), ओस (dew), औरत (woman)"
+    ]
+  }
+]

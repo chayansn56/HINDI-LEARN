@@ -1,0 +1,61 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Where is the Hotel?",
+    "description": "Delhi is huge. Sometimes you need to know where something is.",
+    "keyPoints": [
+      "कहाँ (Kahan) = Where"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Where is...",
+    "explanation": "To ask 'Where is [something]?', you say '[something] kahan hai?'",
+    "simpleRule": "_____ कहाँ है?"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "होटल",
+    "translation": "Hotel",
+    "contextSentenceHindi": "होटल कहाँ है?",
+    "contextSentenceTranslation": "Where is the hotel?",
+    "memoryTrick": "It sounds just like Hotel!"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is the hotel?",
+    "hindiWords": ["होटल", "कहाँ", "है?"],
+    "correctOrder": ["होटल", "कहाँ", "है?"]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Getting Lost",
+    "title_vi": "Bị lạc",
+    "paragraphs": [
+      {
+        "hindi": "You are wandering the streets of Connaught Place.",
+        "translation": "You are wandering the streets of Connaught Place."
+      },
+      {
+        "hindi": "You see a police officer.",
+        "translation": "You see a police officer."
+      },
+      {
+        "hindi": "नमस्ते। होटल कहाँ है?",
+        "translation": "Hello. Where is the hotel?"
+      }
+    ],
+    "question_en": "What did you ask the officer?",
+    "question_vi": "Bạn đã hỏi viên cảnh sát điều gì?",
+    "options": [
+      {
+        "text": "Where is the hotel?",
+        "isCorrect": true
+      },
+      {
+        "text": "I want water.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

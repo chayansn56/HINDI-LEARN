@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 3",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "देश​​​ (desh) = Country / Đất nước",
+      "मिट्टी​​ (miṭṭī) = Soil / Earth / Đất",
+      "के बाद (ke baad) = after (time) / Sau khi (thời gian)"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 3",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: देश​​​ means 'Country' (Đất nước)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देश​​​",
+    "transliteration": "desh",
+    "english": "Country",
+    "vietnamese": "Đất nước",
+    "audio": "देश​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'देश​​​'",
+    "prompt_en": "Choose the correct translation for 'देश​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देश​​​'",
+    "text": "देश​​​",
+    "subtext": "desh",
+    "answer": "Country",
+    "answer_vi": "Đất nước",
+    "options": [
+      "after (time)",
+      "Country",
+      "Soil / Earth",
+      "Snow / Ice"
+    ],
+    "options_vi": [
+      "Sau khi (thời gian)",
+      "Đất nước",
+      "Đất",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के बाद",
+    "transliteration": "ke baad",
+    "english": "after (time)",
+    "vietnamese": "Sau khi (thời gian)",
+    "audio": "के बाद"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बर्फ़​​​",
+    "transliteration": "barf",
+    "english": "Snow / Ice",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "बर्फ़​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "देश​​​",
+        "english": "Country (Đất nước)"
+      },
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "के बाद",
+        "english": "after (time) (Sau khi (thời gian))"
+      },
+      {
+        "hindi": "बर्फ़​​​",
+        "english": "Snow / Ice (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मिट्टी​​",
+    "translation_en": "Soil / Earth",
+    "translation_vi": "Đất",
+    "options_en": [
+      "Soil / Earth",
+      "after (time)",
+      "Country",
+      "Snow / Ice"
+    ],
+    "options_vi": [
+      "Đất",
+      "Sau khi (thời gian)",
+      "Đất nước",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समुद्र​​​​​​",
+    "transliteration": "samudra",
+    "english": "Sea / Ocean",
+    "vietnamese": "Biển",
+    "audio": "समुद्र​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नदी​​​",
+    "transliteration": "nadī",
+    "english": "River",
+    "vietnamese": "Con sông",
+    "audio": "नदी​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "के बाद",
+        "english": "after (time) (Sau khi (thời gian))"
+      },
+      {
+        "hindi": "बर्फ़​​​",
+        "english": "Snow / Ice (Tuyết / Đá)"
+      },
+      {
+        "hindi": "समुद्र​​​​​​",
+        "english": "Sea / Ocean (Biển)"
+      },
+      {
+        "hindi": "नदी​​​",
+        "english": "River (Con sông)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "She eats bread / Cô ấy ăn bánh mì",
+    "hindiWords": [
+      "वह",
+      "रोटी",
+      "खाती",
+      "है",
+      "पीती",
+      "हूँ"
+    ],
+    "correctHindiSentence": "वह रोटी खाती है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: देश​​​, के बाद, समुद्र​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'She eats bread'."
+    ]
+  }
+]

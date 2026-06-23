@@ -1,0 +1,120 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Vowels Part 3: Special Sounds",
+    "description": "You've learned 11 vowels so far (4 short + 7 long). Now meet the final two special vowel modifiers: अं (Anusvara) and अः (Visarga). These aren't pure vowels — they modify the vowel sound by adding nasalization or a breathy 'h' at the end. The Anusvara (अं) nasalizes the vowel (like saying it through your nose), and the Visarga (अः) adds a soft 'h' breath after the vowel.",
+    "keyPoints": [
+      "Anusvara (अं) — adds a nasal 'm/n' sound after the vowel",
+      "Visarga (अः) — adds a soft 'h' breath after the vowel",
+      "These complete the 13 vowels of the Hindi alphabet",
+      "Anusvara is very common in everyday Hindi words"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Anusvara and Visarga",
+    "explanation": "The Anusvara (shown as a dot above: ं) nasalizes the preceding vowel. Think of the 'n' in 'hint' or 'm' in 'jump' — the sound goes through your nose. The Visarga (shown as two dots after: ः) adds a breathy 'h' after the vowel, like a gentle exhale. Anusvara is extremely common (हिंदी, मंदिर, अंगूर), while Visarga appears mostly in Sanskrit-origin words (दुःख, प्रातःकाल).",
+    "simpleRule": "ं (Anusvara) = nasal 'm/n' sound (dot above). ः (Visarga) = soft breath 'h' (two dots after). Together with the 11 vowels, these make 13 total."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अं",
+    "transliteration": "an",
+    "english": "an — nasalized sound (Anusvara), like 'n' in 'hunt'",
+    "vietnamese": "an — âm mũi hóa (Anusvara), như 'n' trong 'hunt'",
+    "audio": "अं"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अः",
+    "transliteration": "ah",
+    "english": "ah — aspirated breath (Visarga), a soft 'h' after the vowel",
+    "vietnamese": "ah — hơi thở nhẹ (Visarga), âm 'h' nhẹ sau nguyên âm",
+    "audio": "अः"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "अंगूर",
+    "translation": "grape",
+    "contextSentenceHindi": "अंगूर खट्टे हैं।",
+    "contextSentenceTranslation": "The grapes are sour.",
+    "memoryTrick": "The famous Hindi fable: 'अंगूर खट्टे हैं' (The grapes are sour) — like Aesop's fox!"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "हिंदी",
+    "translation": "Hindi (the language)",
+    "contextSentenceHindi": "मैं हिंदी सीख रहा हूँ।",
+    "contextSentenceTranslation": "I am learning Hindi.",
+    "memoryTrick": "You're learning हिंदी right now! Notice the Anusvara dot (ं) on the ह — it nasalizes to 'hin'."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "मंदिर",
+    "translation": "temple",
+    "contextSentenceHindi": "वह मंदिर बहुत पुराना है।",
+    "contextSentenceTranslation": "That temple is very old.",
+    "memoryTrick": "MAN-dir — think 'a MAN goes to the DIR(ection of the) temple'. The ं nasalizes 'ma' to 'man'."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "दुःख",
+    "translation": "sadness / sorrow",
+    "contextSentenceHindi": "उसे बहुत दुःख हुआ।",
+    "contextSentenceTranslation": "He/she felt great sadness.",
+    "memoryTrick": "DUKH — the Visarga (ः) adds a breathy pause between 'du' and 'kh'. Feel the sigh of sadness!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Which symbol represents the Anusvara (nasal sound)?",
+    "text": "अनुस्वार (नासिक ध्वनि) का चिह्न कौन सा है?",
+    "subtext": "Look for the dot!",
+    "answer": "ं (dot above the letter)",
+    "options": ["ं (dot above the letter)", "ः (two dots after the letter)", "ँ (moon dot)", "़ (nukta dot below)"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Which word contains a Visarga (अः)?",
+    "text": "किस शब्द में विसर्ग (अः) है?",
+    "subtext": "Look for the two vertical dots ः",
+    "answer": "दुःख",
+    "options": ["अंगूर", "हिंदी", "मंदिर", "दुःख"]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all 13 Hindi vowels with their romanized sounds!",
+    "pairs": [
+      {"hindi": "अ", "english": "a (short)"},
+      {"hindi": "आ", "english": "aa (long)"},
+      {"hindi": "इ", "english": "i (short)"},
+      {"hindi": "ई", "english": "ee (long)"},
+      {"hindi": "उ", "english": "u (short)"},
+      {"hindi": "ऊ", "english": "oo (long)"}
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the remaining vowels and special sounds!",
+    "pairs": [
+      {"hindi": "ऋ", "english": "ri"},
+      {"hindi": "ए", "english": "e (they)"},
+      {"hindi": "ऐ", "english": "ai (aisle)"},
+      {"hindi": "ओ", "english": "o (go)"},
+      {"hindi": "औ", "english": "au (cow)"},
+      {"hindi": "अं", "english": "an (nasal)"}
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "All 13 Vowels — Complete Summary",
+    "takeaways": [
+      "Short vowels: अ (a), इ (i), उ (u), ऋ (ri)",
+      "Long vowels: आ (aa), ई (ee), ऊ (oo), ए (e), ऐ (ai), ओ (o), औ (au)",
+      "Special modifiers: अं (Anusvara — nasal), अः (Visarga — breathy 'h')",
+      "Total: 13 vowels (स्वर) in Hindi",
+      "Anusvara (ं) is very common: हिंदी, मंदिर, अंगूर",
+      "Visarga (ः) appears in Sanskrit-origin words: दुःख, प्रातःकाल",
+      "You've now learned ALL Hindi vowels! 🎉 Next: consonants!"
+    ]
+  }
+]

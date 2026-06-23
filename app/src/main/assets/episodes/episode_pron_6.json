@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Lesson 6",
+    "description": "Learn key vocabulary and concepts for Pron - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "रोना​​ (ronā) = To cry / Khóc",
+      "लेना​​​​ (lenā) = To take / Lấy / Nhận",
+      "किसे (kise) = Whom / To whom / Ai / Cho ai"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 6",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: रोना​​ means 'To cry' (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'रोना​​'",
+    "prompt_en": "Choose the correct translation for 'रोना​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'रोना​​'",
+    "text": "रोना​​",
+    "subtext": "ronā",
+    "answer": "To cry",
+    "answer_vi": "Khóc",
+    "options": [
+      "To see / watch",
+      "Whom / To whom",
+      "To cry",
+      "To take"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Ai / Cho ai",
+      "Khóc",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "किसे",
+    "transliteration": "kise",
+    "english": "Whom / To whom",
+    "vietnamese": "Ai / Cho ai",
+    "audio": "किसे"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "रोना​​",
+        "english": "To cry (Khóc)"
+      },
+      {
+        "hindi": "लेना​​​​",
+        "english": "To take (Lấy / Nhận)"
+      },
+      {
+        "hindi": "किसे",
+        "english": "Whom / To whom (Ai / Cho ai)"
+      },
+      {
+        "hindi": "देखना​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लेना​​​​",
+    "translation_en": "To take",
+    "translation_vi": "Lấy / Nhận",
+    "options_en": [
+      "To see / watch",
+      "Whom / To whom",
+      "To take",
+      "To cry"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Ai / Cho ai",
+      "Lấy / Nhận",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "How much is the ticket? / Vé bao nhiêu tiền?",
+    "hindiWords": [
+      "टिकट",
+      "कितने",
+      "का",
+      "है",
+      "पैसे",
+      "को"
+    ],
+    "correctHindiSentence": "टिकट कितने का है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "किसे",
+        "english": "Whom / To whom (Ai / Cho ai)"
+      },
+      {
+        "hindi": "देखना​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "सीखना​​",
+        "english": "To learn (Học)"
+      },
+      {
+        "hindi": "सीखना",
+        "english": "To learn (Học)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I go to the temple / Tôi đi đến đền thờ",
+    "hindiWords": [
+      "मैं",
+      "मंदिर",
+      "जाता",
+      "हूँ",
+      "घर",
+      "बाज़ार"
+    ],
+    "correctHindiSentence": "मैं मंदिर जाता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: रोना​​, किसे, सीखना​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I go to the temple'."
+    ]
+  }
+]

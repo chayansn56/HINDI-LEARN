@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Lesson 7",
+    "description": "Learn key vocabulary and concepts for Write - Lesson 7. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "५ (paanch) = 5 / Năm",
+      "छुट्टी (chuṭṭī) = Holiday / Leave / Kỳ nghỉ / Ngày nghỉ",
+      "लोहा​​​​​​​​ (lohā) = Iron / Sắt"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 7",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: ५ means '5' (Năm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "५",
+    "transliteration": "paanch",
+    "english": "5",
+    "vietnamese": "Năm",
+    "audio": "५"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "छुट्टी",
+    "transliteration": "chuṭṭī",
+    "english": "Holiday / Leave",
+    "vietnamese": "Kỳ nghỉ / Ngày nghỉ",
+    "audio": "छुट्टी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate '५'",
+    "prompt_en": "Choose the correct translation for '५'",
+    "prompt_vi": "Chọn bản dịch đúng cho '५'",
+    "text": "५",
+    "subtext": "paanch",
+    "answer": "5",
+    "answer_vi": "Năm",
+    "options": [
+      "5",
+      "Holiday / Leave",
+      "Iron",
+      "70"
+    ],
+    "options_vi": [
+      "Năm",
+      "Kỳ nghỉ / Ngày nghỉ",
+      "Sắt",
+      "Bảy mươi"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लोहा​​​​​​​​",
+    "transliteration": "lohā",
+    "english": "Iron",
+    "vietnamese": "Sắt",
+    "audio": "लोहा​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "७०",
+    "transliteration": "sattar",
+    "english": "70",
+    "vietnamese": "Bảy mươi",
+    "audio": "७०"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "५",
+        "english": "5 (Năm)"
+      },
+      {
+        "hindi": "छुट्टी",
+        "english": "Holiday / Leave (Kỳ nghỉ / Ngày nghỉ)"
+      },
+      {
+        "hindi": "लोहा​​​​​​​​",
+        "english": "Iron (Sắt)"
+      },
+      {
+        "hindi": "७०",
+        "english": "70 (Bảy mươi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "छुट्टी",
+    "translation_en": "Holiday / Leave",
+    "translation_vi": "Kỳ nghỉ / Ngày nghỉ",
+    "options_en": [
+      "70",
+      "Iron",
+      "Holiday / Leave",
+      "5"
+    ],
+    "options_vi": [
+      "Bảy mươi",
+      "Sắt",
+      "Kỳ nghỉ / Ngày nghỉ",
+      "Năm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This food is spicy / Thức ăn này rất cay",
+    "hindiWords": [
+      "यह",
+      "खाना",
+      "तीखा",
+      "है",
+      "स्वादिष्ट",
+      "मीठा"
+    ],
+    "correctHindiSentence": "यह खाना तीखा है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ज्ञानी",
+    "transliteration": "jñānī",
+    "english": "Wise / Scholar",
+    "vietnamese": "Người thông thái",
+    "audio": "ज्ञानी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नदी​​​​​​​​​​",
+    "transliteration": "nadī",
+    "english": "River",
+    "vietnamese": "Con sông",
+    "audio": "नदी​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "लोहा​​​​​​​​",
+        "english": "Iron (Sắt)"
+      },
+      {
+        "hindi": "७०",
+        "english": "70 (Bảy mươi)"
+      },
+      {
+        "hindi": "ज्ञानी",
+        "english": "Wise / Scholar (Người thông thái)"
+      },
+      {
+        "hindi": "नदी​​​​​​​​​​",
+        "english": "River (Con sông)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "hindiWords": [
+      "आज",
+      "दिवाली",
+      "है",
+      "होली",
+      "ईद"
+    ],
+    "correctHindiSentence": "आज दिवाली है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: ५, लोहा​​​​​​​​, ज्ञानी.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Today is Diwali'."
+    ]
+  }
+]

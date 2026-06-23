@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Bollywood - Lesson 6",
+    "description": "Learn key vocabulary and concepts for Bollywood - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "प्यार (pyār) = Love / Tình yêu",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (calnā) = To walk / move / Đi bộ / Di chuyển",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (jāgnā) = To wake up / Thức dậy"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 6",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: प्यार means 'Love' (Tình yêu)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्यार",
+    "transliteration": "pyār",
+    "english": "Love",
+    "vietnamese": "Tình yêu",
+    "audio": "प्यार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'प्यार'",
+    "prompt_en": "Choose the correct translation for 'प्यार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'प्यार'",
+    "text": "प्यार",
+    "subtext": "pyār",
+    "answer": "Love",
+    "answer_vi": "Tình yêu",
+    "options": [
+      "To walk / move",
+      "To wake up",
+      "Trust / Belief",
+      "Love"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Thức dậy",
+      "Niềm tin",
+      "Tình yêu"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "विश्वास",
+    "transliteration": "vishvaas",
+    "english": "Trust / Belief",
+    "vietnamese": "Niềm tin",
+    "audio": "विश्वास"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "प्यार",
+        "english": "Love (Tình yêu)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wake up (Thức dậy)"
+      },
+      {
+        "hindi": "विश्वास",
+        "english": "Trust / Belief (Niềm tin)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To walk / move",
+    "translation_vi": "Đi bộ / Di chuyển",
+    "options_en": [
+      "Trust / Belief",
+      "Love",
+      "To walk / move",
+      "To wake up"
+    ],
+    "options_vi": [
+      "Niềm tin",
+      "Tình yêu",
+      "Đi bộ / Di chuyển",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is my dream / Đây là giấc mơ của tôi",
+    "hindiWords": [
+      "यह",
+      "मेरा",
+      "सपना",
+      "है",
+      "दिल",
+      "ज़िंदगी"
+    ],
+    "correctHindiSentence": "यह मेरा सपना है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wake up (Thức dậy)"
+      },
+      {
+        "hindi": "विश्वास",
+        "english": "Trust / Belief (Niềm tin)"
+      },
+      {
+        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I love you / Tôi yêu bạn",
+    "hindiWords": [
+      "मैं",
+      "तुमसे",
+      "प्यार",
+      "करता",
+      "हूँ",
+      "दोस्त"
+    ],
+    "correctHindiSentence": "मैं तुमसे प्यार करता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: प्यार, जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I love you'."
+    ]
+  }
+]

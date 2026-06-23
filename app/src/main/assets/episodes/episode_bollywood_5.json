@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Bollywood - Lesson 5",
+    "description": "Learn key vocabulary and concepts for Bollywood - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (sonā) = To sleep / Ngủ",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (calnā) = To walk / move / Đi bộ / Di chuyển",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (kām karnā) = To work / Làm việc"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 5",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To sleep' (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sonā",
+    "answer": "To sleep",
+    "answer_vi": "Ngủ",
+    "options": [
+      "To make / build",
+      "To work",
+      "To walk / move",
+      "To sleep"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Làm việc",
+      "Đi bộ / Di chuyển",
+      "Ngủ"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To walk / move",
+    "translation_vi": "Đi bộ / Di chuyển",
+    "options_en": [
+      "To sleep",
+      "To walk / move",
+      "To work",
+      "To make / build"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Đi bộ / Di chuyển",
+      "Làm việc",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I love you / Tôi yêu bạn",
+    "hindiWords": [
+      "मैं",
+      "तुमसे",
+      "प्यार",
+      "करता",
+      "हूँ",
+      "दोस्त"
+    ],
+    "correctHindiSentence": "मैं तुमसे प्यार करता हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शहंशाह",
+    "transliteration": "śahanśāh",
+    "english": "Emperor",
+    "vietnamese": "Hoàng đế",
+    "audio": "शहंशाह"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "karnā",
+    "english": "To do",
+    "vietnamese": "Làm",
+    "audio": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "शहंशाह",
+        "english": "Emperor (Hoàng đế)"
+      },
+      {
+        "hindi": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To do (Làm)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is my dream / Đây là giấc mơ của tôi",
+    "hindiWords": [
+      "यह",
+      "मेरा",
+      "सपना",
+      "है",
+      "दिल",
+      "ज़िंदगी"
+    ],
+    "correctHindiSentence": "यह मेरा सपना है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​, शहंशाह.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'This is my dream'."
+    ]
+  }
+]

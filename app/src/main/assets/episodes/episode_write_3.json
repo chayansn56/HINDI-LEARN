@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Lesson 3",
+    "description": "Learn key vocabulary and concepts for Write - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "शहर​​​​​​​ (shahar) = City / Thành phố",
+      "सफ़र​​​​​​​​ (safar) = Journey / Chuyến đi",
+      "८० (assee) = 80 / Tám mươi"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 3",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: शहर​​​​​​​ means 'City' (Thành phố)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शहर​​​​​​​",
+    "transliteration": "shahar",
+    "english": "City",
+    "vietnamese": "Thành phố",
+    "audio": "शहर​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'शहर​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'शहर​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'शहर​​​​​​​'",
+    "text": "शहर​​​​​​​",
+    "subtext": "shahar",
+    "answer": "City",
+    "answer_vi": "Thành phố",
+    "options": [
+      "Journey",
+      "80",
+      "City",
+      "Snow / Ice"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Tám mươi",
+      "Thành phố",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "८०",
+    "transliteration": "assee",
+    "english": "80",
+    "vietnamese": "Tám mươi",
+    "audio": "८०"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बर्फ़​​​​​​​",
+    "transliteration": "barf",
+    "english": "Snow / Ice",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "बर्फ़​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "शहर​​​​​​​",
+        "english": "City (Thành phố)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "८०",
+        "english": "80 (Tám mươi)"
+      },
+      {
+        "hindi": "बर्फ़​​​​​​​",
+        "english": "Snow / Ice (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सफ़र​​​​​​​​",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
+    "options_en": [
+      "City",
+      "80",
+      "Snow / Ice",
+      "Journey"
+    ],
+    "options_vi": [
+      "Thành phố",
+      "Tám mươi",
+      "Tuyết / Đá",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This water is clean / Nước này sạch",
+    "hindiWords": [
+      "यह",
+      "पानी",
+      "साफ़",
+      "है",
+      "दूध",
+      "गंदा"
+    ],
+    "correctHindiSentence": "यह पानी साफ़ है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बग़ीचा​​​​​​​",
+    "transliteration": "bagīcā",
+    "english": "Garden",
+    "vietnamese": "Khu vườn",
+    "audio": "बग़ीचा​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बर्फ़​​​​​​​​​",
+    "transliteration": "barf",
+    "english": "Snow / Ice",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "बर्फ़​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "८०",
+        "english": "80 (Tám mươi)"
+      },
+      {
+        "hindi": "बर्फ़​​​​​​​",
+        "english": "Snow / Ice (Tuyết / Đá)"
+      },
+      {
+        "hindi": "बग़ीचा​​​​​​​",
+        "english": "Garden (Khu vườn)"
+      },
+      {
+        "hindi": "बर्फ़​​​​​​​​​",
+        "english": "Snow / Ice (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I drink water / Tôi uống nước",
+    "hindiWords": [
+      "मैं",
+      "पानी",
+      "पीता",
+      "हूँ",
+      "दूध",
+      "है"
+    ],
+    "correctHindiSentence": "मैं पानी पीता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: शहर​​​​​​​, ८०, बग़ीचा​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I drink water'."
+    ]
+  }
+]

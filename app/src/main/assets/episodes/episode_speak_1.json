@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Lesson 1",
+    "description": "Learn key vocabulary and concepts for Speak - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "और क्या चल रहा है? (aur kya chal raha hai?) = What else is going on? / What's up? / Có chuyện gì mới không?",
+      "याद रखना। (yaad rakhna) = Remember. / Hãy nhớ lấy.",
+      "कोई बात नहीं, चलता है। (koi baat nahin, chalta hai) = No problem, it happens. / Không sao đâu, chuyện thường thôi."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 1",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: और क्या चल रहा है? means 'What else is going on? / What's up?' (Có chuyện gì mới không?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "और क्या चल रहा है?",
+    "transliteration": "aur kya chal raha hai?",
+    "english": "What else is going on? / What's up?",
+    "vietnamese": "Có chuyện gì mới không?",
+    "audio": "और क्या चल रहा है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "याद रखना।",
+    "transliteration": "yaad rakhna",
+    "english": "Remember.",
+    "vietnamese": "Hãy nhớ lấy.",
+    "audio": "याद रखना।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'और क्या चल रहा है?'",
+    "prompt_en": "Choose the correct translation for 'और क्या चल रहा है?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'और क्या चल रहा है?'",
+    "text": "और क्या चल रहा है?",
+    "subtext": "aur kya chal raha hai?",
+    "answer": "What else is going on? / What's up?",
+    "answer_vi": "Có chuyện gì mới không?",
+    "options": [
+      "To learn",
+      "What else is going on? / What's up?",
+      "No problem, it happens.",
+      "Remember."
+    ],
+    "options_vi": [
+      "Học",
+      "Có chuyện gì mới không?",
+      "Không sao đâu, chuyện thường thôi.",
+      "Hãy nhớ lấy."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कोई बात नहीं, चलता है।",
+    "transliteration": "koi baat nahin, chalta hai",
+    "english": "No problem, it happens.",
+    "vietnamese": "Không sao đâu, chuyện thường thôi.",
+    "audio": "कोई बात नहीं, चलता है।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "और क्या चल रहा है?",
+        "english": "What else is going on? / What's up? (Có chuyện gì mới không?)"
+      },
+      {
+        "hindi": "याद रखना।",
+        "english": "Remember. (Hãy nhớ lấy.)"
+      },
+      {
+        "hindi": "कोई बात नहीं, चलता है।",
+        "english": "No problem, it happens. (Không sao đâu, chuyện thường thôi.)"
+      },
+      {
+        "hindi": "सीखना​​​​​",
+        "english": "To learn (Học)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "याद रखना।",
+    "translation_en": "Remember.",
+    "translation_vi": "Hãy nhớ lấy.",
+    "options_en": [
+      "No problem, it happens.",
+      "Remember.",
+      "What else is going on? / What's up?",
+      "To learn"
+    ],
+    "options_vi": [
+      "Không sao đâu, chuyện thường thôi.",
+      "Hãy nhớ lấy.",
+      "Có chuyện gì mới không?",
+      "Học"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "My name is John / Tên tôi là John",
+    "hindiWords": [
+      "मेरा",
+      "नाम",
+      "जॉन",
+      "है",
+      "लड़की",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मेरा नाम जॉन है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बंद करना​​​​",
+    "transliteration": "band karnā",
+    "english": "To close",
+    "vietnamese": "Đóng",
+    "audio": "बंद करना​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "कोई बात नहीं, चलता है।",
+        "english": "No problem, it happens. (Không sao đâu, chuyện thường thôi.)"
+      },
+      {
+        "hindi": "सीखना​​​​​",
+        "english": "To learn (Học)"
+      },
+      {
+        "hindi": "बंद करना​​​​",
+        "english": "To close (Đóng)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please speak slowly / Làm ơn nói chậm lại",
+    "hindiWords": [
+      "कृपया",
+      "धीरे",
+      "बोलिए",
+      "सुनिए",
+      "नमस्ते"
+    ],
+    "correctHindiSentence": "कृपया धीरे बोलिए"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: और क्या चल रहा है?, कोई बात नहीं, चलता है।, बंद करना​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Please speak slowly'."
+    ]
+  }
+]

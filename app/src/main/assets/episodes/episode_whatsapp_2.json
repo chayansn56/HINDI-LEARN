@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Whatsapp - Lesson 2",
+    "description": "Learn key vocabulary and concepts for Whatsapp - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (dhonā) = To wash / Rửa / Giặt",
+      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (denā) = To give / Cho / Tặng",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (khaṛe honā) = To stand / Đứng"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 2",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To wash' (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dhonā",
+    "english": "To wash",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "denā",
+    "english": "To give",
+    "vietnamese": "Cho / Tặng",
+    "audio": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "dhonā",
+    "answer": "To wash",
+    "answer_vi": "Rửa / Giặt",
+    "options": [
+      "To wash",
+      "To walk / move",
+      "To give",
+      "To stand"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Đi bộ / Di chuyển",
+      "Cho / Tặng",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khaṛe honā",
+    "english": "To stand",
+    "vietnamese": "Đứng",
+    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wash (Rửa / Giặt)"
+      },
+      {
+        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To give (Cho / Tặng)"
+      },
+      {
+        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To give",
+    "translation_vi": "Cho / Tặng",
+    "options_en": [
+      "To walk / move",
+      "To stand",
+      "To wash",
+      "To give"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Đứng",
+      "Rửa / Giặt",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "What is the plan, bro? / Kế hoạch là gì vậy bro?",
+    "hindiWords": [
+      "सीन",
+      "क्या",
+      "है",
+      "भाई",
+      "यार",
+      "मस्त"
+    ],
+    "correctHindiSentence": "सीन क्या है भाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To learn (Học)"
+      },
+      {
+        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To cry (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Don't annoy me / Đừng làm phiền tôi nữa",
+    "hindiWords": [
+      "दिमाग",
+      "मत",
+      "खा",
+      "यार",
+      "बकवास",
+      "ब्रो"
+    ],
+    "correctHindiSentence": "दिमाग मत खा"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​, खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'Don't annoy me'."
+    ]
+  }
+]

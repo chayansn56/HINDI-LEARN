@@ -1,0 +1,119 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Consonants: Dental Sounds (तवर्ग)",
+    "description": "Now we learn the dental consonants — sounds produced with the tongue touching the back of the upper teeth. English speakers often confuse these with the retroflexes, so pay close attention! The five letters are त, थ, द, ध, and न.",
+    "keyPoints": [
+      "त (ta), थ (tha), द (da), ध (dha), न (na) — the dental group",
+      "Touch your tongue to the BACK of your upper front teeth for these sounds",
+      "These are softer than retroflex sounds (ट, ठ, ड, ढ, ण)",
+      "थ and ध are the aspirated versions of त and द"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "त",
+    "transliteration": "ta",
+    "english": "ta (dental 't', tongue touches upper teeth)",
+    "vietnamese": "ta (đặt lưỡi chạm răng trên)",
+    "audio": "त"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थ",
+    "transliteration": "tha",
+    "english": "tha (aspirated dental 't')",
+    "vietnamese": "tha (t có bật hơi)",
+    "audio": "थ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "द",
+    "transliteration": "da",
+    "english": "da (dental 'd', tongue touches upper teeth)",
+    "vietnamese": "da (tương tự 'đ' nhẹ)",
+    "audio": "द"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "त",
+    "hint": "Draw a small loop on the left, then a vertical line going down on the right. Finish with the headline (shirorekha) connecting on top."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ध",
+    "transliteration": "dha",
+    "english": "dha (aspirated dental 'd')",
+    "vietnamese": "dha (d có bật hơi)",
+    "audio": "ध"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "न",
+    "transliteration": "na",
+    "english": "na (dental nasal 'n')",
+    "vietnamese": "na (như 'n' trong tiếng Việt)",
+    "audio": "न"
+  },
+  {
+    "type": "TeachRule",
+    "title": "Dental vs. Retroflex",
+    "explanation": "Hindi distinguishes between dental sounds (त, थ, द, ध, न) and retroflex sounds (ट, ठ, ड, ढ, ण). Dentals are softer — your tongue touches the teeth. Retroflexes are harder — your tongue curls back. Mixing them up changes the meaning of words!",
+    "simpleRule": "Teeth = Dental (त-group) | Roof = Retroflex (ट-group)"
+  },
+  {
+    "type": "Listening",
+    "audio": "तारा",
+    "translation_en": "Star",
+    "options_en": ["Star", "Plate", "Door", "Wealth"],
+    "translation_vi": "Ngôi sao",
+    "options_vi": ["Ngôi sao", "Đĩa", "Cửa", "Tài sản"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Word recognition",
+    "text": "What does दरवाज़ा mean?",
+    "subtext": "दरवाज़ा (darwāzā)",
+    "answer": "Door",
+    "options": ["River", "Star", "Door", "Wealth"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "थाली",
+    "translation": "Plate / Thali (round serving plate)",
+    "contextSentenceHindi": "थाली में खाना रखो।",
+    "contextSentenceTranslation": "Put the food on the plate.",
+    "memoryTrick": "'Thali' — you already know this word from Indian restaurants!"
+  },
+  {
+    "type": "Listening",
+    "audio": "नदी",
+    "translation_en": "River",
+    "options_en": ["Wealth", "River", "Star", "Plate"],
+    "translation_vi": "Sông",
+    "options_vi": ["Tài sản", "Sông", "Ngôi sao", "Đĩa"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Identify the letter",
+    "text": "Which letter is the aspirated dental 'd' sound (dha)?",
+    "subtext": "तवर्ग — dental consonants",
+    "answer": "ध",
+    "options": ["द", "ढ", "ध", "ड"]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "द",
+    "hint": "Draw a curved shape that looks like a reverse 'C' with a vertical stroke. Add the headline on top."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Dental Sounds — Recap",
+    "takeaways": [
+      "You learned 5 dental consonants: त (ta), थ (tha), द (da), ध (dha), न (na)",
+      "Dental sounds are made with the tongue touching the back of the upper teeth",
+      "Don't confuse dentals (त-group) with retroflexes (ट-group) — they sound and look different!",
+      "New words: तारा (star), थाली (plate), दरवाज़ा (door), धन (wealth), नदी (river)"
+    ]
+  }
+]

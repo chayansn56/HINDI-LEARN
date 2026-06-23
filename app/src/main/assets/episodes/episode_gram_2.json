@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 2",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "सफ़र​​ (safar) = Journey / Chuyến đi",
+      "समुद्र​​​​​​ (samudra) = Sea / Ocean / Biển",
+      "गाँव​​ (gā̃v) = Village / Ngôi làng"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 2",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: सफ़र​​ means 'Journey' (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समुद्र​​​​​​",
+    "transliteration": "samudra",
+    "english": "Sea / Ocean",
+    "vietnamese": "Biển",
+    "audio": "समुद्र​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​'",
+    "prompt_en": "Choose the correct translation for 'सफ़र​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​'",
+    "text": "सफ़र​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Sea / Ocean",
+      "Village",
+      "to know"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Biển",
+      "Ngôi làng",
+      "Biết"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाँव​​",
+    "transliteration": "gā̃v",
+    "english": "Village",
+    "vietnamese": "Ngôi làng",
+    "audio": "गाँव​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जानना",
+    "transliteration": "jaanna",
+    "english": "to know",
+    "vietnamese": "Biết",
+    "audio": "जानना"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "समुद्र​​​​​​",
+        "english": "Sea / Ocean (Biển)"
+      },
+      {
+        "hindi": "गाँव​​",
+        "english": "Village (Ngôi làng)"
+      },
+      {
+        "hindi": "जानना",
+        "english": "to know (Biết)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "समुद्र​​​​​​",
+    "translation_en": "Sea / Ocean",
+    "translation_vi": "Biển",
+    "options_en": [
+      "Village",
+      "to know",
+      "Sea / Ocean",
+      "Journey"
+    ],
+    "options_vi": [
+      "Ngôi làng",
+      "Biết",
+      "Biển",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जूता​​​​",
+    "transliteration": "jūtā",
+    "english": "Shoe",
+    "vietnamese": "Giày",
+    "audio": "जूता​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बर्फ़​​​​​",
+    "transliteration": "barf",
+    "english": "Snow / Ice",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "बर्फ़​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "गाँव​​",
+        "english": "Village (Ngôi làng)"
+      },
+      {
+        "hindi": "जानना",
+        "english": "to know (Biết)"
+      },
+      {
+        "hindi": "जूता​​​​",
+        "english": "Shoe (Giày)"
+      },
+      {
+        "hindi": "बर्फ़​​​​​",
+        "english": "Snow / Ice (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "hindiWords": [
+      "मैं",
+      "लड़का",
+      "हूँ",
+      "लड़की",
+      "है"
+    ],
+    "correctHindiSentence": "मैं लड़का हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: सफ़र​​, गाँव​​, जूता​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I am a boy'."
+    ]
+  }
+]

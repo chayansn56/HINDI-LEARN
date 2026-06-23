@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Lesson 1",
+    "description": "Learn key vocabulary and concepts for Gram - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "बग़ीचा​​​​​ (bagīcā) = Garden / Khu vườn",
+      "जानना (jaanna) = to know / Biết",
+      "चम्मच​​ (cammac) = Spoon / Thìa"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 1",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: बग़ीचा​​​​​ means 'Garden' (Khu vườn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बग़ीचा​​​​​",
+    "transliteration": "bagīcā",
+    "english": "Garden",
+    "vietnamese": "Khu vườn",
+    "audio": "बग़ीचा​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जानना",
+    "transliteration": "jaanna",
+    "english": "to know",
+    "vietnamese": "Biết",
+    "audio": "जानना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बग़ीचा​​​​​'",
+    "prompt_en": "Choose the correct translation for 'बग़ीचा​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बग़ीचा​​​​​'",
+    "text": "बग़ीचा​​​​​",
+    "subtext": "bagīcā",
+    "answer": "Garden",
+    "answer_vi": "Khu vườn",
+    "options": [
+      "Spoon",
+      "to know",
+      "Road",
+      "Garden"
+    ],
+    "options_vi": [
+      "Thìa",
+      "Biết",
+      "Đường",
+      "Khu vườn"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चम्मच​​",
+    "transliteration": "cammac",
+    "english": "Spoon",
+    "vietnamese": "Thìa",
+    "audio": "चम्मच​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सड़क​​​",
+    "transliteration": "saṛak",
+    "english": "Road",
+    "vietnamese": "Đường",
+    "audio": "सड़क​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बग़ीचा​​​​​",
+        "english": "Garden (Khu vườn)"
+      },
+      {
+        "hindi": "जानना",
+        "english": "to know (Biết)"
+      },
+      {
+        "hindi": "चम्मच​​",
+        "english": "Spoon (Thìa)"
+      },
+      {
+        "hindi": "सड़क​​​",
+        "english": "Road (Đường)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "जानना",
+    "translation_en": "to know",
+    "translation_vi": "Biết",
+    "options_en": [
+      "Road",
+      "Spoon",
+      "to know",
+      "Garden"
+    ],
+    "options_vi": [
+      "Đường",
+      "Thìa",
+      "Biết",
+      "Khu vườn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I drink water / Tôi uống nước",
+    "hindiWords": [
+      "मैं",
+      "पानी",
+      "पीता",
+      "हूँ",
+      "दूध",
+      "है"
+    ],
+    "correctHindiSentence": "मैं पानी पीता हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पहाड़​​​​",
+    "transliteration": "pahāṛ",
+    "english": "Mountain",
+    "vietnamese": "Ngọn núi",
+    "audio": "पहाड़​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "चम्मच​​",
+        "english": "Spoon (Thìa)"
+      },
+      {
+        "hindi": "सड़क​​​",
+        "english": "Road (Đường)"
+      },
+      {
+        "hindi": "पहाड़​​​​",
+        "english": "Mountain (Ngọn núi)"
+      },
+      {
+        "hindi": "पेन​​",
+        "english": "Pen (Bút)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I am a girl / Tôi là một cô gái",
+    "hindiWords": [
+      "मैं",
+      "लड़की",
+      "हूँ",
+      "लड़का",
+      "है"
+    ],
+    "correctHindiSentence": "मैं लड़की हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: बग़ीचा​​​​​, चम्मच​​, पहाड़​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I am a girl'."
+    ]
+  }
+]

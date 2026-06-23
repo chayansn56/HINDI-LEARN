@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Lesson 6",
+    "description": "Learn key vocabulary and concepts for Write - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "३ (teen) = 3 / Ba",
+      "मिट्टी​​​​​​ (miṭṭī) = Soil / Earth / Đất",
+      "बादल​​​​​​​​ (bādal) = Cloud / Đám mây"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 6",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: ३ means '3' (Ba)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "३",
+    "transliteration": "teen",
+    "english": "3",
+    "vietnamese": "Ba",
+    "audio": "३"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate '३'",
+    "prompt_en": "Choose the correct translation for '३'",
+    "prompt_vi": "Chọn bản dịch đúng cho '३'",
+    "text": "३",
+    "subtext": "teen",
+    "answer": "3",
+    "answer_vi": "Ba",
+    "options": [
+      "3",
+      "Soil / Earth",
+      "30",
+      "Cloud"
+    ],
+    "options_vi": [
+      "Ba",
+      "Đất",
+      "Ba mươi",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "३०",
+    "transliteration": "tees",
+    "english": "30",
+    "vietnamese": "Ba mươi",
+    "audio": "३०"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "३",
+        "english": "3 (Ba)"
+      },
+      {
+        "hindi": "मिट्टी​​​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "बादल​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "३०",
+        "english": "30 (Ba mươi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मिट्टी​​​​​​",
+    "translation_en": "Soil / Earth",
+    "translation_vi": "Đất",
+    "options_en": [
+      "Soil / Earth",
+      "30",
+      "Cloud",
+      "3"
+    ],
+    "options_vi": [
+      "Đất",
+      "Ba mươi",
+      "Đám mây",
+      "Ba"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "hindiWords": [
+      "कृपया",
+      "दाम",
+      "कम",
+      "करो",
+      "ज्यादा",
+      "पैसे"
+    ],
+    "correctHindiSentence": "कृपया दाम कम करो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सड़क​​​​​​​",
+    "transliteration": "saṛak",
+    "english": "Road",
+    "vietnamese": "Đường",
+    "audio": "सड़क​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "बादल​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "३०",
+        "english": "30 (Ba mươi)"
+      },
+      {
+        "hindi": "आग​​​​​​​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "सड़क​​​​​​​",
+        "english": "Road (Đường)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "What is your name? / Tên của bạn là gì?",
+    "hindiWords": [
+      "आपका",
+      "नाम",
+      "क्या",
+      "है",
+      "मेरा",
+      "लड़का"
+    ],
+    "correctHindiSentence": "आपका नाम क्या है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: ३, बादल​​​​​​​​, आग​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'What is your name?'."
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Consonants: Retroflex Sounds (टवर्ग)",
+    "description": "Welcome to the retroflex consonants! These unique sounds are made by curling the tongue backward and touching the roof of the mouth. They don't exist in English, so listen carefully and practice! The five letters are ट, ठ, ड, ढ, and ण.",
+    "keyPoints": [
+      "ट (ṭa), ठ (ṭha), ड (ḍa), ढ (ḍha), ण (ṇa) — the retroflex group",
+      "Curl your tongue backward to touch the hard palate to produce these sounds",
+      "These are distinct from the dental sounds (त, थ, द, ध, न) — don't confuse them!",
+      "ठ and ढ are the aspirated versions of ट and ड"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ट",
+    "transliteration": "ṭa",
+    "english": "ṭa (retroflex 't', tongue curled back)",
+    "vietnamese": "ṭa (âm cuốn lưỡi, tương tự 't')",
+    "audio": "ट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ठ",
+    "transliteration": "ṭha",
+    "english": "ṭha (aspirated retroflex 't')",
+    "vietnamese": "ṭha (ṭ có bật hơi)",
+    "audio": "ठ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ड",
+    "transliteration": "ḍa",
+    "english": "ḍa (retroflex 'd', tongue curled back)",
+    "vietnamese": "ḍa (âm cuốn lưỡi, tương tự 'đ')",
+    "audio": "ड"
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ट",
+    "hint": "Draw a shape like a hook opening to the left, with a vertical line descending. Add the headline (shirorekha) on top."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ढ",
+    "transliteration": "ḍha",
+    "english": "ḍha (aspirated retroflex 'd')",
+    "vietnamese": "ḍha (ḍ có bật hơi)",
+    "audio": "ढ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ण",
+    "transliteration": "ṇa",
+    "english": "ṇa (retroflex nasal 'n')",
+    "vietnamese": "ṇa (âm mũi cuốn lưỡi)",
+    "audio": "ण"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Identify the letter",
+    "text": "Which letter is the aspirated retroflex 'd' sound (ḍha)?",
+    "subtext": "टवर्ग — retroflex consonants",
+    "answer": "ढ",
+    "options": ["ड", "ढ", "ठ", "ण"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "टमाटर",
+    "translation": "Tomato",
+    "contextSentenceHindi": "टमाटर लाल है।",
+    "contextSentenceTranslation": "The tomato is red.",
+    "memoryTrick": "'Tamaatar' sounds like 'tomato' — they share the same origin!"
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "ठंड बहुत है।",
+    "translation": "It is very cold."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Word recognition",
+    "text": "What does डमरू mean?",
+    "subtext": "डमरू (ḍamrū)",
+    "answer": "Drum (hourglass-shaped)",
+    "options": ["Lid", "Drum (hourglass-shaped)", "Tomato", "Cold"]
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "ढक्कन",
+    "translation": "Lid / Cover",
+    "contextSentenceHindi": "बर्तन का ढक्कन लगाओ।",
+    "contextSentenceTranslation": "Put the lid on the pot.",
+    "memoryTrick": "'Dhakkan' — think 'duck-in' as if ducking under a lid!"
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "टमाटर दो।",
+    "translation": "Give me a tomato."
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ड",
+    "hint": "Start with a curved shape similar to ट but with the curve opening differently. Add the vertical stroke and the headline on top."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Retroflex Sounds — Recap",
+    "takeaways": [
+      "You learned 5 retroflex consonants: ट (ṭa), ठ (ṭha), ड (ḍa), ढ (ḍha), ण (ṇa)",
+      "Retroflex sounds require curling the tongue backward — unique to Indian languages",
+      "ठ and ढ are the aspirated (breathy) versions of ट and ड",
+      "New words: टमाटर (tomato), ठंड (cold), डमरू (drum), ढक्कन (lid)"
+    ]
+  }
+]

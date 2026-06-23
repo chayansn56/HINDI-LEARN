@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Foundation Academy - Level 21",
+    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 21. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "मेज़ (mez) = Table / Cái bàn",
+      "जागना​​​ (jāgnā) = To wake up / Thức dậy",
+      "बादल​​​​​​​​​ (bādal) = Cloud / Đám mây"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Alphabet & Building Blocks - Part 21",
+    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
+    "simpleRule": "Remember: मेज़ means 'Table' (Cái bàn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मेज़",
+    "transliteration": "mez",
+    "english": "Table",
+    "vietnamese": "Cái bàn",
+    "audio": "मेज़"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जागना​​​",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मेज़'",
+    "prompt_en": "Choose the correct translation for 'मेज़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मेज़'",
+    "text": "मेज़",
+    "subtext": "mez",
+    "answer": "Table",
+    "answer_vi": "Cái bàn",
+    "options": [
+      "Cloud",
+      "Table",
+      "Good / Kind",
+      "To wake up"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Cái bàn",
+      "Tốt bụng",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भला",
+    "transliteration": "bhalā",
+    "english": "Good / Kind",
+    "vietnamese": "Tốt bụng",
+    "audio": "भला"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मेज़",
+        "english": "Table (Cái bàn)"
+      },
+      {
+        "hindi": "जागना​​​",
+        "english": "To wake up (Thức dậy)"
+      },
+      {
+        "hindi": "बादल​​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "भला",
+        "english": "Good / Kind (Tốt bụng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "जागना​​​",
+    "translation_en": "To wake up",
+    "translation_vi": "Thức dậy",
+    "options_en": [
+      "Table",
+      "To wake up",
+      "Cloud",
+      "Good / Kind"
+    ],
+    "options_vi": [
+      "Cái bàn",
+      "Thức dậy",
+      "Đám mây",
+      "Tốt bụng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
+    "hindiWords": [
+      "मैं",
+      "सेब",
+      "खाता",
+      "हूँ",
+      "रोटी",
+      "है"
+    ],
+    "correctHindiSentence": "मैं सेब खाता हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तारा​​​​​​​​​​​​",
+    "transliteration": "tārā",
+    "english": "Star",
+    "vietnamese": "Ngôi sao",
+    "audio": "तारा​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बंदर",
+    "transliteration": "bandar",
+    "english": "Monkey",
+    "vietnamese": "Con khỉ",
+    "audio": "बंदर"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "बादल​​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "भला",
+        "english": "Good / Kind (Tốt bụng)"
+      },
+      {
+        "hindi": "तारा​​​​​​​​​​​​",
+        "english": "Star (Ngôi sao)"
+      },
+      {
+        "hindi": "बंदर",
+        "english": "Monkey (Con khỉ)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "She eats bread / Cô ấy ăn bánh mì",
+    "hindiWords": [
+      "वह",
+      "रोटी",
+      "खाती",
+      "है",
+      "पीती",
+      "हूँ"
+    ],
+    "correctHindiSentence": "वह रोटी खाती है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: मेज़, बादल​​​​​​​​​, तारा​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'She eats bread'."
+    ]
+  }
+]

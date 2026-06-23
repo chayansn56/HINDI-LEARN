@@ -1,0 +1,141 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Consonants: Throat Sounds (कवर्ग)",
+    "description": "Welcome to Hindi consonants (व्यंजन)! Hindi organizes its consonants into logical groups based on WHERE in your mouth they are produced. The first group is 'कवर्ग' — the VELAR consonants, made at the back of your throat (the soft palate). These are: क (ka), ख (kha), ग (ga), घ (gha), and ङ (nga). You already learned about aspirated pairs — now see them in their natural family!",
+    "keyPoints": [
+      "Hindi consonants are organized into 5 groups (वर्ग) by mouth position",
+      "कवर्ग = velar group: sounds made at the back of the throat",
+      "5 letters: क (ka), ख (kha), ग (ga), घ (gha), ङ (nga)",
+      "Pattern: unaspirated → aspirated → unaspirated voiced → aspirated voiced → nasal",
+      "ङ (nga) is rare as a standalone letter but common in combinations"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "The 5-Letter Pattern of Every Consonant Group",
+    "explanation": "Each consonant group in Hindi follows the same pattern of 5 letters: (1) unaspirated unvoiced, (2) aspirated unvoiced, (3) unaspirated voiced, (4) aspirated voiced, (5) nasal. For the throat group: क (ka, no voice, no air) → ख (kha, no voice, with air) → ग (ga, voiced, no air) → घ (gha, voiced, with air) → ङ (nga, nasal). This pattern repeats for ALL 5 consonant groups!",
+    "simpleRule": "Every group has 5 letters in order: plain → aspirated → voiced → voiced+aspirated → nasal. कवर्ग: क ख ग घ ङ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क",
+    "transliteration": "ka",
+    "english": "ka — unaspirated, unvoiced (like 'k' in 'skip')",
+    "vietnamese": "ka — không bật hơi, vô thanh (như 'k' trong 'skip')",
+    "audio": "क"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ख",
+    "transliteration": "kha",
+    "english": "kha — aspirated, unvoiced (like 'k' in 'kite' + air burst)",
+    "vietnamese": "kha — bật hơi, vô thanh (như 'k' trong 'kite' + luồng hơi)",
+    "audio": "ख"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ग",
+    "transliteration": "ga",
+    "english": "ga — unaspirated, voiced (like 'g' in 'go')",
+    "vietnamese": "ga — không bật hơi, hữu thanh (như 'g' trong 'go')",
+    "audio": "ग"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "घ",
+    "transliteration": "gha",
+    "english": "gha — aspirated, voiced ('g' in 'go' + air burst)",
+    "vietnamese": "gha — bật hơi, hữu thanh ('g' trong 'go' + luồng hơi)",
+    "audio": "घ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ङ",
+    "transliteration": "nga",
+    "english": "nga — nasal velar (like 'ng' in 'sing')",
+    "vietnamese": "nga — âm mũi ngạc mềm (như 'ng' trong 'sing')",
+    "audio": "ङ"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "कमल",
+    "translation": "lotus",
+    "contextSentenceHindi": "कमल तालाब में खिलता है।",
+    "contextSentenceTranslation": "The lotus blooms in the pond.",
+    "memoryTrick": "KAMAL — the lotus is India's national flower! Think 'calm-al' sitting peacefully on water."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "खरगोश",
+    "translation": "rabbit",
+    "contextSentenceHindi": "खरगोश बहुत तेज़ दौड़ता है।",
+    "contextSentenceTranslation": "The rabbit runs very fast.",
+    "memoryTrick": "KHAR-gosh — feel the air burst on 'KH'! Think 'a rabbit that goes KHARGE(d) forward'."
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "क",
+    "hint": "Start with the vertical line, add the curved hook on the right, and draw the headline (शिरोरेखा) on top."
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ख",
+    "hint": "Like a vertical line with two small curves. Draw the headline on top, then the body with its characteristic shape."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "गाय",
+    "translation": "cow",
+    "contextSentenceHindi": "गाय दूध देती है।",
+    "contextSentenceTranslation": "The cow gives milk.",
+    "memoryTrick": "GAAY — the cow is sacred in India! Think 'GAY' (happy) cow giving milk."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "घर",
+    "translation": "house / home",
+    "contextSentenceHindi": "मेरा घर बड़ा है।",
+    "contextSentenceTranslation": "My house is big.",
+    "memoryTrick": "GHAR — feel the aspirated 'GH' with the air burst! Think 'a GAR(age) is part of a house'."
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ग",
+    "hint": "A simple shape: vertical line with a horizontal stroke going left. Add the headline on top."
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "घ",
+    "hint": "Like the number ४ with an extra loop. Draw the main body and add the headline on top."
+  },
+  {
+    "type": "Listening",
+    "audio": "घर",
+    "translation_en": "What word did you hear?",
+    "options_en": ["घर (ghar — house)", "गर (gar)", "कर (kar — do)", "खर (khar)"],
+    "translation_vi": "Bạn nghe được từ gì?",
+    "options_vi": ["घर (ghar — nhà)", "गर (gar)", "कर (kar — làm)", "खर (khar)"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "What is the correct order of the कवर्ग consonants?",
+    "text": "कवर्ग व्यंजनों का सही क्रम क्या है?",
+    "subtext": "Remember the pattern: plain → aspirated → voiced → voiced+aspirated → nasal",
+    "answer": "क ख ग घ ङ",
+    "options": ["क ख ग घ ङ", "ख क घ ग ङ", "ग घ क ख ङ", "क ग ख घ ङ"]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Throat Sounds (कवर्ग) — Key Takeaways",
+    "takeaways": [
+      "कवर्ग is the first consonant group — velar (throat) sounds",
+      "5 letters in order: क (ka), ख (kha), ग (ga), घ (gha), ङ (nga)",
+      "Pattern: unaspirated → aspirated → voiced → voiced+aspirated → nasal",
+      "This same 5-letter pattern repeats in ALL consonant groups",
+      "Key words: कमल (lotus), खरगोश (rabbit), गाय (cow), घर (house)",
+      "ङ (nga) is rare alone but sounds like 'ng' in 'sing'",
+      "All these sounds are made at the back of the throat (soft palate)"
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Lesson 4",
+    "description": "Learn key vocabulary and concepts for Speak - Lesson 4. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "देना​​​​​ (denā) = To give / Cho / Tặng",
+      "लिखना​​​​​​​​ (likhnā) = To write / Viết",
+      "सोना​​​​​​​ (sonā) = To sleep / Ngủ"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Vocabulary & Grammar - Part 4",
+    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
+    "simpleRule": "Remember: देना​​​​​ means 'To give' (Cho / Tặng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देना​​​​​",
+    "transliteration": "denā",
+    "english": "To give",
+    "vietnamese": "Cho / Tặng",
+    "audio": "देना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'देना​​​​​'",
+    "prompt_en": "Choose the correct translation for 'देना​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देना​​​​​'",
+    "text": "देना​​​​​",
+    "subtext": "denā",
+    "answer": "To give",
+    "answer_vi": "Cho / Tặng",
+    "options": [
+      "To laugh",
+      "To write",
+      "To give",
+      "To sleep"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Viết",
+      "Cho / Tặng",
+      "Ngủ"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हँसना​​​​​​",
+    "transliteration": "hãsnā",
+    "english": "To laugh",
+    "vietnamese": "Cười lớn",
+    "audio": "हँसना​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "देना​​​​​",
+        "english": "To give (Cho / Tặng)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "सोना​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "हँसना​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लिखना​​​​​​​​",
+    "translation_en": "To write",
+    "translation_vi": "Viết",
+    "options_en": [
+      "To laugh",
+      "To write",
+      "To sleep",
+      "To give"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Viết",
+      "Ngủ",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Hello, how are you? / Xin chào, bạn khỏe không?",
+    "hindiWords": [
+      "नमस्ते",
+      "आप",
+      "कैसे",
+      "हैं",
+      "तुम",
+      "हो"
+    ],
+    "correctHindiSentence": "नमस्ते आप कैसे हैं"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या आप तैयार हैं?",
+    "transliteration": "kya aap taiyaar hain?",
+    "english": "Are you ready?",
+    "vietnamese": "Bạn đã sẵn sàng chưa?",
+    "audio": "क्या आप तैयार हैं?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे मदद चाहिए।",
+    "transliteration": "mujhe madad chaahie",
+    "english": "I need help.",
+    "vietnamese": "Tôi cần giúp đỡ.",
+    "audio": "मुझे मदद चाहिए।"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "सोना​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "हँसना​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      },
+      {
+        "hindi": "क्या आप तैयार हैं?",
+        "english": "Are you ready? (Bạn đã sẵn sàng chưa?)"
+      },
+      {
+        "hindi": "मुझे मदद चाहिए।",
+        "english": "I need help. (Tôi cần giúp đỡ.)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "How are you? / Bạn khỏe không?",
+    "hindiWords": [
+      "तुम",
+      "कैसे",
+      "हो",
+      "नमस्ते",
+      "हम",
+      "हैं"
+    ],
+    "correctHindiSentence": "तुम कैसे हो"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: देना​​​​​, सोना​​​​​​​, क्या आप तैयार हैं?.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'How are you?'."
+    ]
+  }
+]
