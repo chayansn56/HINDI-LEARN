@@ -20,6 +20,7 @@ import androidx.compose.ui.unit.dp
 import com.example.hindilearn.data.Episode
 import com.example.hindilearn.data.GamifiedCurriculum
 import com.example.hindilearn.data.UserManager
+import androidx.compose.ui.graphics.Color
 import com.example.hindilearn.theme.*
 
 @Composable
@@ -122,8 +123,8 @@ fun AcademyDashboard(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Foundations", "Learn Hindi from zero.", "\uD83C\uDF31", onClick = { onModuleSelected("phase_0") })
-                    CategoryCard("Pronunciation Lab", "Sounds, Accents.", "\uD83E\uDDE0", onClick = { onModuleSelected("pron") })
+                    CategoryCard("Foundations", "Learn Hindi from zero.", "\uD83C\uDF31", onClick = { onModuleSelected("phase_0") }, tintColor = Color(0xFFE2F4E3))
+                    CategoryCard("Pronunciation Lab", "Sounds, Accents.", "\uD83E\uDDE0", onClick = { onModuleSelected("pron") }, tintColor = Color(0xFFE2F4E3))
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
@@ -135,10 +136,10 @@ fun AcademyDashboard(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Speaking", "Greetings, Introductions.", "\uD83D\uDDE3\uFE0F", onClick = { onModuleSelected("speak") })
-                    CategoryCard("Grammar", "Tenses, Questions.", "\uD83D\uDCDA", onClick = { onModuleSelected("gram") })
-                    CategoryCard("Listening", "Stories, Native speed.", "\uD83D\uDC42", onClick = { onModuleSelected("listen") })
-                    CategoryCard("Writing", "Tracing, Typing.", "\u270D\uFE0F", onClick = { onModuleSelected("write") })
+                    CategoryCard("Speaking", "Greetings, Introductions.", "\uD83D\uDDE3\uFE0F", onClick = { onModuleSelected("speak") }, tintColor = Color(0xFFE2EDF8))
+                    CategoryCard("Grammar", "Tenses, Questions.", "\uD83D\uDCDA", onClick = { onModuleSelected("gram") }, tintColor = Color(0xFFE2EDF8))
+                    CategoryCard("Listening", "Stories, Native speed.", "\uD83D\uDC42", onClick = { onModuleSelected("listen") }, tintColor = Color(0xFFE2EDF8))
+                    CategoryCard("Writing", "Tracing, Typing.", "\u270D\uFE0F", onClick = { onModuleSelected("write") }, tintColor = Color(0xFFE2EDF8))
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
@@ -150,11 +151,11 @@ fun AcademyDashboard(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Culture", "Festivals, Food.", "\uD83C\uDDEE\uD83C\uDDF3", onClick = { onModuleSelected("culture") })
-                    CategoryCard("Travel Hindi", "Airport, Taxi.", "\u2708\uFE0F", onClick = { onModuleSelected("travel") })
-                    CategoryCard("Business Hindi", "Meetings, Emails.", "\uD83D\uDCBC", onClick = { onModuleSelected("business") })
-                    CategoryCard("Bollywood Hindi", "Songs, Expressions.", "\uD83C\uDFB5", onClick = { onModuleSelected("bollywood") })
-                    CategoryCard("WhatsApp Hindi", "Modern conversations.", "\uD83D\uDCAC", onClick = { onModuleSelected("whatsapp") })
+                    CategoryCard("Culture", "Festivals, Food.", "\uD83C\uDDEE\uD83C\uDDF3", onClick = { onModuleSelected("culture") }, tintColor = Color(0xFFF9F0DF))
+                    CategoryCard("Travel Hindi", "Airport, Taxi.", "\u2708\uFE0F", onClick = { onModuleSelected("travel") }, tintColor = Color(0xFFF9F0DF))
+                    CategoryCard("Business Hindi", "Meetings, Emails.", "\uD83D\uDCBC", onClick = { onModuleSelected("business") }, tintColor = Color(0xFFF9F0DF))
+                    CategoryCard("Bollywood Hindi", "Songs, Expressions.", "\uD83C\uDFB5", onClick = { onModuleSelected("bollywood") }, tintColor = Color(0xFFF9F0DF))
+                    CategoryCard("WhatsApp Hindi", "Modern conversations.", "\uD83D\uDCAC", onClick = { onModuleSelected("whatsapp") }, tintColor = Color(0xFFF9F0DF))
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
@@ -166,10 +167,10 @@ fun AcademyDashboard(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Stories", "ELDER SISTER Di, mom, the greatman JIJU.", "\uD83C\uDFAD", onClick = onStoriesSelected)
-                    CategoryCard("Revision Center", "Mistakes, Weak words.", "\u2B50", onClick = onRevisionSelected)
-                    CategoryCard("Daily Challenge", "Test your skills.", "\uD83D\uDD25", onClick = onDailyChallengeSelected)
-                    CategoryCard("Achievements", "Badges & Rewards.", "🏆", onClick = onAchievementsSelected)
+                    CategoryCard("Stories", "ELDER SISTER Di, mom, the greatman JIJU.", "\uD83C\uDFAD", onClick = onStoriesSelected, tintColor = Color(0xFFEDE4F8))
+                    CategoryCard("Revision Center", "Mistakes, Weak words.", "\u2B50", onClick = onRevisionSelected, tintColor = Color(0xFFEDE4F8))
+                    CategoryCard("Daily Challenge", "Test your skills.", "\uD83D\uDD25", onClick = onDailyChallengeSelected, tintColor = Color(0xFFEDE4F8))
+                    CategoryCard("Achievements", "Badges & Rewards.", "🏆", onClick = onAchievementsSelected, tintColor = Color(0xFFEDE4F8))
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }

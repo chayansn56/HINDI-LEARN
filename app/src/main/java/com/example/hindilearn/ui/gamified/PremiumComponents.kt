@@ -71,6 +71,7 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
 fun GlassCard(
     modifier: Modifier = Modifier,
     shape: Shape = RoundedCornerShape(32.dp),
+    containerColor: Color = PureWhite.copy(alpha = 0.9f),
     content: @Composable () -> Unit
 ) {
     Surface(
@@ -82,7 +83,7 @@ fun GlassCard(
                 ambientColor = RoyalBlue.copy(alpha = 0.05f)
             )
             .clip(shape),
-        color = PureWhite.copy(alpha = 0.9f),
+        color = containerColor,
         shape = shape,
         shadowElevation = 0.dp
     ) {

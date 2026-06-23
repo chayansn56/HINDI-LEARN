@@ -19,14 +19,16 @@ fun CategoryCard(
     emoji: String,
     onClick: () -> Unit,
     modifier: Modifier = Modifier,
-    isLocked: Boolean = false
+    isLocked: Boolean = false,
+    tintColor: Color = Color.White.copy(alpha = 0.5f)
 ) {
     GlassCard(
         modifier = modifier
             .width(160.dp)
             .height(180.dp)
             .clickable { onClick() },
-        shape = RoundedCornerShape(24.dp)
+        shape = RoundedCornerShape(24.dp),
+        containerColor = tintColor
     ) {
         Column(
             modifier = Modifier
