@@ -43,8 +43,12 @@ fun SettingsScreen(
                     .padding(16.dp),
                 verticalArrangement = Arrangement.spacedBy(16.dp)
             ) {
+// Native instructions are locked to Vietnamese for translation simplicity.
+
+                Spacer(modifier = Modifier.height(8.dp))
+
                 Text(
-                    "Language Preferences",
+                    "Course Preferences",
                     style = MaterialTheme.typography.titleLarge,
                     color = androidx.compose.ui.graphics.Color.White,
                     modifier = Modifier.padding(bottom = 8.dp)
@@ -53,20 +57,22 @@ fun SettingsScreen(
                 GlassCard(modifier = Modifier.fillMaxWidth()) {
                     Column(modifier = Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
                         PremiumButton(
-                            text = "English",
+                            text = "Học tiếng Hindi (Hindi)",
                             onClick = { 
-                                UserManager.updateLanguage("EN")
+                                UserManager.progress.selectedCourse = "HINDI"
+                                UserManager.save()
                                 onBack()
-                            },
-                            color = if (UserManager.progress.selectedLanguage == "EN") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color.White.copy(alpha = 0.2f)
+                             },
+                            color = if (UserManager.progress.selectedCourse == "HINDI") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color.White.copy(alpha = 0.2f)
                         )
                         PremiumButton(
-                            text = "Vietnamese (Tiếng Việt)",
+                            text = "Học tiếng Anh (English)",
                             onClick = { 
-                                UserManager.updateLanguage("VI")
+                                UserManager.progress.selectedCourse = "ENGLISH"
+                                UserManager.save()
                                 onBack()
-                            },
-                            color = if (UserManager.progress.selectedLanguage == "VI") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color.White.copy(alpha = 0.2f)
+                             },
+                            color = if (UserManager.progress.selectedCourse == "ENGLISH") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color.White.copy(alpha = 0.2f)
                         )
                     }
                 }

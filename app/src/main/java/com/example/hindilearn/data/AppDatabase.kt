@@ -18,6 +18,7 @@ data class UserProgressEntity(
     val coins: Int = 0,
     val unlockedNodeId: String = "episode_0_1",
     val selectedLanguage: String = "EN",
+    val selectedCourse: String = "HINDI",
     val protagonistState: String = "Scared",
     val unlockedMemories: String = "", // comma separated
     val unlockedAchievements: String = "" // comma separated
@@ -48,7 +49,7 @@ interface SrsItemDao {
     fun saveItem(item: SrsItemEntity): Long
 }
 
-@Database(entities = [UserProgressEntity::class, SrsItemEntity::class], version = 3, exportSchema = false)
+@Database(entities = [UserProgressEntity::class, SrsItemEntity::class], version = 4, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {
     abstract fun userProgressDao(): UserProgressDao
     abstract fun srsItemDao(): SrsItemDao

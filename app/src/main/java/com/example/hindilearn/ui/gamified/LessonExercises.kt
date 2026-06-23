@@ -161,9 +161,7 @@ fun SentenceBuilderUI(ex: Exercise.SentenceBuilder, isCorrect: Boolean?, onAnswe
         Box(modifier = Modifier.fillMaxWidth().height(72.dp).padding(bottom = 16.dp), contentAlignment = Alignment.BottomCenter) {
             if (isCorrect == null && selectedWords.isNotEmpty()) {
                 Button(onClick = { 
-                    if (isCorrect == null) {
-                        onAnswer(selectedWords.joinToString(" "))
-                    }
+                    onAnswer(selectedWords.joinToString(" "))
                 }, modifier = Modifier.fillMaxWidth().height(56.dp)) {
                     Text("Check")
                 }

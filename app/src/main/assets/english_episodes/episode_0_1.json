@@ -1,0 +1,65 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Welcome to New York",
+    "description": "Chào mừng bạn đến với New York, Mỹ! Không khí mát mẻ, nhộn nhịp. Hãy nói từ tiếng Anh đầu tiên của bạn.",
+    "keyPoints": [
+      "Chúng ta sẽ bắt đầu chỉ với MỘT từ.",
+      "Lắng nghe cẩn thận các âm thanh."
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "The Welcome",
+    "title_vi": "Lời chào đón",
+    "paragraphs": [
+      {
+        "hindi": "You meet a friendly local at the coffee shop.",
+        "translation": "Bạn gặp một người dân địa phương thân thiện tại quán cà phê."
+      },
+      {
+        "hindi": "Hello!",
+        "translation": "Xin chào!"
+      }
+    ],
+    "question_en": "What did they say to welcome you?",
+    "question_vi": "Họ đã nói gì để chào đón bạn?",
+    "options": [
+      {
+        "text": "Hello",
+        "isCorrect": true
+      },
+      {
+        "text": "Goodbye",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "The Golden Rule of English Greetings",
+    "explanation": "'Hello' là lời chào phổ biến nhất trong tiếng Anh. Nó lịch sự, thân thiện và được hiểu trên toàn thế giới.",
+    "simpleRule": "Hello = Xin chào"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "Hello",
+    "translation": "Xin chào",
+    "contextSentenceHindi": "Hello!",
+    "contextSentenceTranslation": "Xin chào!",
+    "memoryTrick": "Hel-lo. Nói một cách vui vẻ khi vẫy tay nhé!"
+  },
+  {
+    "type": "Listening",
+    "audio": "Hello",
+    "translation_en": "Hello",
+    "options_en": ["Hello", "Yes", "No", "Thanks"],
+    "translation_vi": "Xin chào",
+    "options_vi": ["Xin chào", "Có", "Không", "Cảm ơn"]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "Hello",
+    "translation": "Xin chào"
+  }
+]

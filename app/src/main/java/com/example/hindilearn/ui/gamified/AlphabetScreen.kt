@@ -176,13 +176,7 @@ fun AlphabetScreen(
                 TabRow(
                     selectedTabIndex = selectedTab,
                     containerColor = Color.White.copy(alpha = 0.5f),
-                    modifier = Modifier.clip(RoundedCornerShape(12.dp)),
-                    indicator = { tabPositions ->
-                        TabRowDefaults.SecondaryIndicator(
-                            Modifier.tabIndicatorOffset(tabPositions[selectedTab]),
-                            color = DeepSaffron
-                        )
-                    }
+                    modifier = Modifier.clip(RoundedCornerShape(12.dp))
                 ) {
                     Tab(
                         selected = selectedTab == 0,

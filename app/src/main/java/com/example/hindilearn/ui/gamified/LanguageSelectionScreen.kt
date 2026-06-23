@@ -30,32 +30,36 @@ fun LanguageSelectionScreen(
                 painter = androidx.compose.ui.res.painterResource(id = com.example.hindilearn.R.drawable.vietana_logo),
                 contentDescription = "Vietana Logo",
                 modifier = Modifier
-                    .fillMaxWidth(0.8f)
-                    .padding(bottom = 16.dp),
+                    .fillMaxWidth(0.6f)
+                    .padding(bottom = 12.dp),
                 contentScale = androidx.compose.ui.layout.ContentScale.Fit
             )
             Text(
-                "Welcome to Vietana Hindi Learning App!",
+                "Welcome to Vietana Academy!",
                 style = MaterialTheme.typography.headlineMedium,
                 fontWeight = FontWeight.Bold
             )
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(12.dp))
             Text(
-                "Choose your native language / Chọn ngôn ngữ mẹ đẻ của bạn:",
+                "Select your learning course / Chọn khóa học của bạn:",
                 style = MaterialTheme.typography.bodyLarge,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
             )
-            Spacer(modifier = Modifier.height(48.dp))
+            Spacer(modifier = Modifier.height(32.dp))
             
-            LanguageCard(title = "English \uD83C\uDDEC\uD83C\uDDE7", subtitle = "Learn Hindi from English") {
-                UserManager.updateLanguage("EN")
+            LanguageCard(title = "Học tiếng Hindi \uD83C\uDDEE\uD83C\uDDF3", subtitle = "Dành cho người Việt học tiếng Hindi") {
+                UserManager.updateLanguage("VI")
+                UserManager.progress.selectedCourse = "HINDI"
+                UserManager.save()
                 onLanguageSelected()
             }
             
-            Spacer(modifier = Modifier.height(24.dp))
+            Spacer(modifier = Modifier.height(20.dp))
             
-            LanguageCard(title = "Tiếng Việt \uD83C\uDDFB\uD83C\uDDF3", subtitle = "Học tiếng Hindi từ tiếng Việt") {
+            LanguageCard(title = "Học tiếng Anh \uD83C\uDDEC\uD83C\uDDE7", subtitle = "Dành cho người Việt học tiếng Anh") {
                 UserManager.updateLanguage("VI")
+                UserManager.progress.selectedCourse = "ENGLISH"
+                UserManager.save()
                 onLanguageSelected()
             }
             

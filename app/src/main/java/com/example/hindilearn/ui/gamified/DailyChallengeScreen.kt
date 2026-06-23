@@ -686,7 +686,7 @@ fun DailyChallengeScreen(
                                     Text("+20 XP", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold, color = PremiumGold)
                                     Text("Experience", style = MaterialTheme.typography.bodyMedium, color = TextDark.copy(alpha = 0.6f))
                                 }
-                                Divider(modifier = Modifier.width(1.dp).height(40.dp).background(TextDark.copy(alpha = 0.1f)))
+                                VerticalDivider(modifier = Modifier.width(1.dp).height(40.dp), color = TextDark.copy(alpha = 0.1f))
                                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                                     Text("+10 Coins", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold, color = DeepSaffron)
                                     Text("Academy Coins", style = MaterialTheme.typography.bodyMedium, color = TextDark.copy(alpha = 0.6f))

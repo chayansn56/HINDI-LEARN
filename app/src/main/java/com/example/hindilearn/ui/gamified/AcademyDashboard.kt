@@ -58,7 +58,8 @@ fun AcademyDashboard(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Column {
-                        Text("LEARN HINDI", style = MaterialTheme.typography.headlineSmall, color = DeepSaffron, fontWeight = FontWeight.Black)
+                        val courseLabel = if (UserManager.progress.selectedCourse == "ENGLISH") "LEARN ENGLISH" else "LEARN HINDI"
+                        Text(courseLabel, style = MaterialTheme.typography.headlineSmall, color = DeepSaffron, fontWeight = FontWeight.Black)
                         Text("app by", style = MaterialTheme.typography.labelSmall, color = TextDark.copy(alpha=0.5f))
                         Text("VIETANA GROUP", style = MaterialTheme.typography.titleLarge, color = TextDark, fontWeight = FontWeight.Black)
                         Spacer(modifier = Modifier.height(4.dp))

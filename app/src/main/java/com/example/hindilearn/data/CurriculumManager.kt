@@ -20,9 +20,11 @@ object CurriculumManager {
         val exercises = mutableListOf<Exercise>()
         val lang = UserManager.progress.selectedLanguage ?: "EN"
         val isVi = lang == "VI"
+        val isEnglishCourse = UserManager.progress.selectedCourse == "ENGLISH"
+        val folder = if (isEnglishCourse) "english_episodes" else "episodes"
 
         try {
-            val fileName = "episodes/${nodeId}.json"
+            val fileName = "${folder}/${nodeId}.json"
             val inputStream: InputStream = context.assets.open(fileName)
             val size = inputStream.available()
             val buffer = ByteArray(size)

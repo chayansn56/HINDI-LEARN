@@ -13,6 +13,7 @@ data class UserProgress(
     var coins: Int = 0,
     var unlockedNodeId: String = "episode_0_1",
     var selectedLanguage: String? = null, // "EN" or "VI"
+    var selectedCourse: String = "HINDI", // "HINDI" or "ENGLISH"
     var protagonistState: String = "Scared",
     var unlockedMemories: List<String> = emptyList(),
     var unlockedAchievements: List<String> = emptyList()
@@ -39,6 +40,7 @@ object UserManager {
                 coins = entity.coins,
                 unlockedNodeId = entity.unlockedNodeId,
                 selectedLanguage = entity.selectedLanguage,
+                selectedCourse = entity.selectedCourse,
                 protagonistState = entity.protagonistState,
                 unlockedMemories = entity.unlockedMemories.split(",").filter { it.isNotEmpty() },
                 unlockedAchievements = entity.unlockedAchievements.split(",").filter { it.isNotEmpty() }
@@ -48,7 +50,7 @@ object UserManager {
         }
     }
 
-    private fun save() {
+    fun save() {
         db?.userProgressDao()?.saveProgress(UserProgressEntity(
             id = 1,
             xp = progress.xp,
@@ -57,6 +59,7 @@ object UserManager {
             coins = progress.coins,
             unlockedNodeId = progress.unlockedNodeId,
             selectedLanguage = progress.selectedLanguage ?: "EN",
+            selectedCourse = progress.selectedCourse,
             protagonistState = progress.protagonistState,
             unlockedMemories = progress.unlockedMemories.joinToString(","),
             unlockedAchievements = progress.unlockedAchievements.joinToString(",")
