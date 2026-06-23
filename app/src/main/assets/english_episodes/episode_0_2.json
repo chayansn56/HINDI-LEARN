@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Asking How Someone Is",
+    "description": "Học cách hỏi thăm sức khỏe của ai đó và trả lời một cách lịch sự bằng tiếng Anh.",
+    "keyPoints": [
+      "Cách hỏi thăm thông dụng: 'How are you?'",
+      "Cách trả lời lịch sự: 'I am fine, thank you.'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Asking How Someone Is",
+    "title_vi": "Hỏi thăm sức khỏe",
+    "paragraphs": [
+      {
+        "hindi": "Hello. How are you?",
+        "translation": "Chào bạn. Bạn khỏe không?"
+      },
+      {
+        "hindi": "I am fine, thank you.",
+        "translation": "Tôi khỏe, cảm ơn."
+      }
+    ],
+    "question_en": "How do you say you are fine and thank the other person?",
+    "question_vi": "Bạn nói tôi khỏe và cảm ơn người kia như thế nào?",
+    "options": [
+      {
+        "text": "I am fine, thank you.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hello. How are you?",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Asking and Responding",
+    "explanation": "Khi ai đó hỏi 'How are you?', câu trả lời tiêu chuẩn và lịch sự là 'I am fine, thank you.'",
+    "simpleRule": "How are you? = Bạn khỏe không? / I am fine = Tôi khỏe"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "How are you?",
+    "translation": "Bạn khỏe không?",
+    "contextSentenceHindi": "Hello. How are you?",
+    "contextSentenceTranslation": "Chào bạn. Bạn khỏe không?",
+    "memoryTrick": "How are you? Hãy nói một cách tự nhiên khi gặp bạn bè nhé!"
+  },
+  {
+    "type": "Listening",
+    "audio": "How are you?",
+    "translation_en": "How are you?",
+    "options_en": [
+      "How are you?",
+      "I am fine",
+      "Thank you",
+      "Hello"
+    ],
+    "translation_vi": "Bạn khỏe không?",
+    "options_vi": [
+      "Bạn khỏe không?",
+      "Tôi khỏe",
+      "Cảm ơn",
+      "Xin chào"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "I am fine, thank you.",
+    "translation": "Tôi khỏe, cảm ơn."
+  }
+]

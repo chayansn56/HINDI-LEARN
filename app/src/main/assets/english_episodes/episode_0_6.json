@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Making Friends",
+    "description": "Học cách hỏi tên người khác và giới thiệu bản thân một cách tự tin khi kết bạn mới.",
+    "keyPoints": [
+      "Hỏi tên: 'What is your name?'",
+      "Trả lời tên: 'My name is Lan.'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Making Friends",
+    "title_vi": "Làm quen bạn mới",
+    "paragraphs": [
+      {
+        "hindi": "What is your name?",
+        "translation": "Tên bạn là gì?"
+      },
+      {
+        "hindi": "My name is Lan.",
+        "translation": "Tên tôi là Lan."
+      }
+    ],
+    "question_en": "How do you ask someone for their name?",
+    "question_vi": "Làm thế nào để hỏi tên của ai đó?",
+    "options": [
+      {
+        "text": "What is your name?",
+        "isCorrect": true
+      },
+      {
+        "text": "My name is Lan.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Asking and Telling Names",
+    "explanation": "Sử dụng 'What is your name?' để hỏi và 'My name is [Tên]' để giới thiệu bản thân.",
+    "simpleRule": "What is your name? = Tên bạn là gì? / My name is... = Tên tôi là..."
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "name",
+    "translation": "tên",
+    "contextSentenceHindi": "What is your name?",
+    "contextSentenceTranslation": "Tên bạn là gì?",
+    "memoryTrick": "Name phát âm gần giống 'nêm' nhưng kéo dài âm 'm'."
+  },
+  {
+    "type": "Listening",
+    "audio": "My name is Lan.",
+    "translation_en": "My name is Lan.",
+    "options_en": [
+      "My name is Lan.",
+      "What is your name?",
+      "Hello",
+      "How are you?"
+    ],
+    "translation_vi": "Tên tôi là Lan.",
+    "options_vi": [
+      "Tên tôi là Lan.",
+      "Tên bạn là gì?",
+      "Xin chào",
+      "Bạn khỏe không?"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "What is your name?",
+    "translation": "Tên bạn là gì?"
+  }
+]

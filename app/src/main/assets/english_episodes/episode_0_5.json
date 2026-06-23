@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Essential Numbers 1-10",
+    "description": "Làm quen với các số từ một đến mười bằng tiếng Anh, rất cần thiết cho việc mua sắm và đếm số lượng.",
+    "keyPoints": [
+      "Đếm từ một đến năm: One, Two, Three, Four, Five",
+      "Đếm từ sáu đến mười: Six, Seven, Eight, Nine, Ten"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Counting Items",
+    "title_vi": "Đếm số lượng",
+    "paragraphs": [
+      {
+        "hindi": "One, Two, Three, Four, Five.",
+        "translation": "Một, Hai, Ba, Bốn, Năm."
+      },
+      {
+        "hindi": "Six, Seven, Eight, Nine, Ten.",
+        "translation": "Sáu, Bảy, Tám, Chín, Mười."
+      }
+    ],
+    "question_en": "What is the English word for 'Ba'?",
+    "question_vi": "Từ tiếng Anh cho số 'Ba' là gì?",
+    "options": [
+      {
+        "text": "Three",
+        "isCorrect": true
+      },
+      {
+        "text": "Two",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Numbers Pronunciation",
+    "explanation": "Hãy chú ý phát âm âm đuôi của 'Five' (/v/) và 'Eight' (/t/) để người nghe dễ hiểu hơn.",
+    "simpleRule": "One=1, Two=2, Three=3, Four=4, Five=5"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "Three",
+    "translation": "Ba",
+    "contextSentenceHindi": "Three coffees, please.",
+    "contextSentenceTranslation": "Cho ba ly cà phê, làm ơn.",
+    "memoryTrick": "Three: đặt lưỡi giữa hai răng để phát âm âm 'th'."
+  },
+  {
+    "type": "Listening",
+    "audio": "One, Two, Three",
+    "translation_en": "One, Two, Three",
+    "options_en": [
+      "One, Two, Three",
+      "Four, Five",
+      "Six, Seven",
+      "Eight, Nine, Ten"
+    ],
+    "translation_vi": "Một, Hai, Ba",
+    "options_vi": [
+      "Một, Hai, Ba",
+      "Bốn, Năm",
+      "Sáu, Bảy",
+      "Tám, Chín, Mười"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "One, Two, Three, Four, Five.",
+    "translation": "Một, Hai, Ba, Bốn, Năm."
+  }
+]

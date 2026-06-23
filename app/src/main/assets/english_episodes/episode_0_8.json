@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Checking Into a Hotel",
+    "description": "Học các câu nói cần thiết khi check-in khách sạn, thông báo việc đặt phòng và nhận chìa khóa phòng.",
+    "keyPoints": [
+      "Thông báo đặt phòng: 'I have a reservation.'",
+      "Nhận chìa khóa phòng: 'Your room key.'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Checking In",
+    "title_vi": "Nhận phòng khách sạn",
+    "paragraphs": [
+      {
+        "hindi": "I have a reservation.",
+        "translation": "Tôi đã đặt phòng."
+      },
+      {
+        "hindi": "Your room key.",
+        "translation": "Khóa phòng của bạn."
+      }
+    ],
+    "question_en": "What does a receptionist say when handing over the room key?",
+    "question_vi": "Nhân viên tiếp tân nói gì khi giao chìa khóa phòng?",
+    "options": [
+      {
+        "text": "Your room key.",
+        "isCorrect": true
+      },
+      {
+        "text": "I have a reservation.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "At the Hotel Reception",
+    "explanation": "Khi đến khách sạn, hãy nói 'I have a reservation' để báo bạn đã đặt phòng trước. 'Room key' là chìa khóa phòng của bạn.",
+    "simpleRule": "Reservation = Đặt phòng trước / Room key = Khóa phòng"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "reservation",
+    "translation": "sự đặt phòng trước",
+    "contextSentenceHindi": "I have a reservation.",
+    "contextSentenceTranslation": "Tôi đã đặt phòng.",
+    "memoryTrick": "Re-ser-va-tion. Phát âm từ từ từng âm tiết nhé!"
+  },
+  {
+    "type": "Listening",
+    "audio": "Your room key.",
+    "translation_en": "Your room key.",
+    "options_en": [
+      "Your room key.",
+      "I have a reservation.",
+      "Where is the bathroom?",
+      "Hello"
+    ],
+    "translation_vi": "Khóa phòng của bạn.",
+    "options_vi": [
+      "Khóa phòng của bạn.",
+      "Tôi đã đặt phòng.",
+      "Nhà vệ sinh ở đâu?",
+      "Xin chào"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "I have a reservation.",
+    "translation": "Tôi đã đặt phòng."
+  }
+]

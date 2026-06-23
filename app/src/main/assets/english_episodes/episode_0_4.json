@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "At the Coffee Shop",
+    "description": "Học cách gọi cà phê lịch sự và cách nhận đồ ăn thức uống khi được phục vụ.",
+    "keyPoints": [
+      "Gọi món lịch sự: 'I would like a coffee, please.'",
+      "Khi nhận/giao đồ: 'Here you go.'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "At the Coffee Shop",
+    "title_vi": "Tại quán cà phê",
+    "paragraphs": [
+      {
+        "hindi": "I would like a coffee, please.",
+        "translation": "Tôi muốn một ly cà phê, làm ơn."
+      },
+      {
+        "hindi": "Here you go.",
+        "translation": "Của bạn đây."
+      }
+    ],
+    "question_en": "How do you request a coffee politely?",
+    "question_vi": "Làm thế nào để yêu cầu một ly cà phê lịch sự?",
+    "options": [
+      {
+        "text": "I would like a coffee, please.",
+        "isCorrect": true
+      },
+      {
+        "text": "Here you go.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Polite Requests",
+    "explanation": "Sử dụng 'I would like...' kèm theo 'please' ở cuối câu để đưa ra yêu cầu lịch sự tại nhà hàng hoặc quán cà phê.",
+    "simpleRule": "I would like... please = Tôi muốn... làm ơn"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "coffee",
+    "translation": "cà phê",
+    "contextSentenceHindi": "I would like a coffee, please.",
+    "contextSentenceTranslation": "Tôi muốn một ly cà phê, làm ơn.",
+    "memoryTrick": "Cof-fee. Nhớ phát âm rõ hai âm tiết nhé!"
+  },
+  {
+    "type": "Listening",
+    "audio": "Here you go.",
+    "translation_en": "Here you go.",
+    "options_en": [
+      "Here you go.",
+      "I would like a coffee",
+      "Please",
+      "Thank you"
+    ],
+    "translation_vi": "Của bạn đây.",
+    "options_vi": [
+      "Của bạn đây.",
+      "Tôi muốn một ly cà phê",
+      "Làm ơn",
+      "Cảm ơn"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "I would like a coffee, please.",
+    "translation": "Tôi muốn một ly cà phê, làm ơn."
+  }
+]

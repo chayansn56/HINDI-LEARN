@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Shopping and Prices",
+    "description": "Học cách hỏi giá cả khi mua sắm và cách hiểu câu trả lời về giá trị tiền tệ bằng đô la.",
+    "keyPoints": [
+      "Hỏi giá tiền: 'How much is this?'",
+      "Trả lời giá tiền: 'Ten dollars.'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Shopping and Prices",
+    "title_vi": "Mua sắm và giá cả",
+    "paragraphs": [
+      {
+        "hindi": "How much is this?",
+        "translation": "Cái này bao nhiêu tiền?"
+      },
+      {
+        "hindi": "Ten dollars.",
+        "translation": "Mười đô la."
+      }
+    ],
+    "question_en": "Which question asks for the price of something?",
+    "question_vi": "Câu hỏi nào dùng để hỏi giá tiền của một món đồ?",
+    "options": [
+      {
+        "text": "How much is this?",
+        "isCorrect": true
+      },
+      {
+        "text": "Ten dollars.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Asking for Prices",
+    "explanation": "Dùng 'How much is this?' để hỏi giá của một sản phẩm bất kỳ. Thêm tên đồng tiền ở sau số để trả lời, ví dụ: 'dollars'.",
+    "simpleRule": "How much is this? = Cái này bao nhiêu? / Dollars = Đô la"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "dollars",
+    "translation": "đô la",
+    "contextSentenceHindi": "Ten dollars.",
+    "contextSentenceTranslation": "Mười đô la.",
+    "memoryTrick": "Dol-lars. Nhớ âm 's' ở cuối khi số lượng từ hai trở lên."
+  },
+  {
+    "type": "Listening",
+    "audio": "How much is this?",
+    "translation_en": "How much is this?",
+    "options_en": [
+      "How much is this?",
+      "Ten dollars.",
+      "Where is the bathroom?",
+      "Here you go."
+    ],
+    "translation_vi": "Cái này bao nhiêu tiền?",
+    "options_vi": [
+      "Cái này bao nhiêu tiền?",
+      "Mười đô la.",
+      "Nhà vệ sinh ở đâu?",
+      "Của bạn đây."
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "How much is this?",
+    "translation": "Cái này bao nhiêu tiền?"
+  }
+]

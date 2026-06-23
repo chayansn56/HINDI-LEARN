@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Asking For Directions",
+    "description": "Học cách hỏi đường đến nhà vệ sinh và hiểu hướng dẫn đi thẳng đơn giản.",
+    "keyPoints": [
+      "Hỏi vị trí: 'Where is the bathroom?'",
+      "Chỉ hướng đi: 'Straight ahead.'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Asking For Directions",
+    "title_vi": "Hỏi đường đi",
+    "paragraphs": [
+      {
+        "hindi": "Where is the bathroom?",
+        "translation": "Nhà vệ sinh ở đâu?"
+      },
+      {
+        "hindi": "Straight ahead.",
+        "translation": "Đi thẳng."
+      }
+    ],
+    "question_en": "What does 'Straight ahead' mean?",
+    "question_vi": "'Straight ahead' nghĩa là gì?",
+    "options": [
+      {
+        "text": "Đi thẳng",
+        "isCorrect": true
+      },
+      {
+        "text": "Rẽ trái",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Asking Where Something Is",
+    "explanation": "Sử dụng 'Where is...' để hỏi vị trí của một nơi hoặc một vật dụng nào đó.",
+    "simpleRule": "Where is... = ...ở đâu?"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "bathroom",
+    "translation": "nhà vệ sinh",
+    "contextSentenceHindi": "Where is the bathroom?",
+    "contextSentenceTranslation": "Nhà vệ sinh ở đâu?",
+    "memoryTrick": "Bath-room: phòng tắm hoặc nhà vệ sinh."
+  },
+  {
+    "type": "Listening",
+    "audio": "Where is the bathroom?",
+    "translation_en": "Where is the bathroom?",
+    "options_en": [
+      "Where is the bathroom?",
+      "Straight ahead",
+      "Hello",
+      "Thank you"
+    ],
+    "translation_vi": "Nhà vệ sinh ở đâu?",
+    "options_vi": [
+      "Nhà vệ sinh ở đâu?",
+      "Đi thẳng",
+      "Xin chào",
+      "Cảm ơn"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "Straight ahead.",
+    "translation": "Đi thẳng."
+  }
+]

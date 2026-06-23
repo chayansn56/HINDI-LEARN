@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Expressing Likes",
+    "description": "Tìm hiểu cách nói rằng bạn thích một thứ gì đó và hỏi xem người khác có thích trà hay không.",
+    "keyPoints": [
+      "Bày tỏ sở thích: 'I like this.'",
+      "Hỏi sở thích: 'Do you like tea?'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Expressing Likes",
+    "title_vi": "Bày tỏ sở thích",
+    "paragraphs": [
+      {
+        "hindi": "I like this.",
+        "translation": "Tôi thích cái này."
+      },
+      {
+        "hindi": "Do you like tea?",
+        "translation": "Bạn có thích trà không?"
+      }
+    ],
+    "question_en": "What is the translation for 'Do you like tea?'",
+    "question_vi": "Dịch nghĩa của câu 'Do you like tea?' là gì?",
+    "options": [
+      {
+        "text": "Bạn có thích trà không?",
+        "isCorrect": true
+      },
+      {
+        "text": "Tôi thích cái này.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Expressing and Asking Likes",
+    "explanation": "Dùng 'I like [vật]' để nói mình thích và 'Do you like [vật]?' để hỏi đối phương có thích hay không.",
+    "simpleRule": "I like... = Tôi thích... / Do you like...? = Bạn có thích... không?"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "like",
+    "translation": "thích",
+    "contextSentenceHindi": "I like this.",
+    "contextSentenceTranslation": "Tôi thích cái này.",
+    "memoryTrick": "Like: phát âm âm 'k' nhẹ ở cuối từ."
+  },
+  {
+    "type": "Listening",
+    "audio": "Do you like tea?",
+    "translation_en": "Do you like tea?",
+    "options_en": [
+      "Do you like tea?",
+      "I like this.",
+      "Coffee, please",
+      "Thank you"
+    ],
+    "translation_vi": "Bạn có thích trà không?",
+    "options_vi": [
+      "Bạn có thích trà không?",
+      "Tôi thích cái này.",
+      "Cho cà phê, làm ơn",
+      "Cảm ơn"
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "I like this.",
+    "translation": "Tôi thích cái này."
+  }
+]

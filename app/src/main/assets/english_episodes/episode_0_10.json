@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emergency Phrases",
+    "description": "Các cụm từ khẩn cấp cực kỳ quan trọng để kêu cứu hoặc yêu cầu gọi bác sĩ khi gặp sự cố.",
+    "keyPoints": [
+      "Kêu cứu khẩn cấp: 'Help!'",
+      "Yêu cầu y tế: 'Call a doctor.'"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Emergency Situations",
+    "title_vi": "Tình huống khẩn cấp",
+    "paragraphs": [
+      {
+        "hindi": "Help!",
+        "translation": "Cứu với!"
+      },
+      {
+        "hindi": "Call a doctor.",
+        "translation": "Gọi bác sĩ."
+      }
+    ],
+    "question_en": "What is the phrase used to ask for medical assistance?",
+    "question_vi": "Cụm từ nào dùng để yêu cầu trợ giúp y tế?",
+    "options": [
+      {
+        "text": "Call a doctor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Help!",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Emergency Calls",
+    "explanation": "Trong tình huống khẩn cấp, hét to 'Help!' để thu hút sự chú ý và 'Call a doctor' nếu cần sự trợ giúp y tế khẩn cấp.",
+    "simpleRule": "Help! = Cứu tôi với! / Call a doctor = Gọi bác sĩ"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "doctor",
+    "translation": "bác sĩ",
+    "contextSentenceHindi": "Call a doctor.",
+    "contextSentenceTranslation": "Gọi bác sĩ.",
+    "memoryTrick": "Doc-tor. Dễ nhớ đúng không nào?"
+  },
+  {
+    "type": "Listening",
+    "audio": "Call a doctor.",
+    "translation_en": "Call a doctor.",
+    "options_en": [
+      "Call a doctor.",
+      "Help!",
+      "How are you?",
+      "Straight ahead."
+    ],
+    "translation_vi": "Gọi bác sĩ.",
+    "options_vi": [
+      "Gọi bác sĩ.",
+      "Cứu với!",
+      "Bạn khỏe không?",
+      "Đi thẳng."
+    ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "Call a doctor.",
+    "translation": "Gọi bác sĩ."
+  }
+]
