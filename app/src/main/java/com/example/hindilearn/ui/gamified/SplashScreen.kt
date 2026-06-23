@@ -57,10 +57,11 @@ fun SplashScreen(onSplashFinished: () -> Unit) {
             )
             Spacer(modifier = Modifier.height(24.dp))
             Text(
-                text = "Learn Hindi Beautifully",
-                style = MaterialTheme.typography.titleLarge,
-                fontWeight = FontWeight.Light,
-                color = MaterialTheme.colorScheme.primary
+                text = "LEARN WITH US\n\nVIETANA GROUP",
+                style = MaterialTheme.typography.titleMedium,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.primary,
+                textAlign = androidx.compose.ui.text.style.TextAlign.Center
             )
         }
     }
