@@ -1,0 +1,139 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 12: Pronouns - Advanced",
+    "description": "Học cách sử dụng các đại từ sở hữu nâng cao: Của tôi, Của bạn, Của chúng tôi trong tiếng Hindi.",
+    "keyPoints": [
+      "मेरा / मेरी / मेरे (mera/meri/mere): Của tôi",
+      "आपका / आपकी / आपके (aapka/aapki/aapke): Của bạn",
+      "हमारा / हमारी / हमारे (hamara/hamari/hamare): Của chúng tôi"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Sự hòa hợp giống của đại từ sở hữu",
+    "explanation": "Đại từ sở hữu trong tiếng Hindi thay đổi đuôi dựa trên giống và số của danh từ đi sau nó. Kết thúc bằng '-aa' cho giống đực số ít, '-ee' cho giống cái, và '-e' cho giống đực số nhiều hoặc thể hiện sự kính trọng.",
+    "simpleRule": "मेरा (đực) / मेरी (cái) / मेरे (kính trọng/nhiều)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मेरा",
+    "transliteration": "mera",
+    "english": "Mine (masculine)",
+    "vietnamese": "Của tôi (giống đực)",
+    "audio": "मेरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मेरी",
+    "transliteration": "meri",
+    "english": "Mine (feminine)",
+    "vietnamese": "Của tôi (giống cái)",
+    "audio": "मेरी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आपका",
+    "transliteration": "aapka",
+    "english": "Yours (formal)",
+    "vietnamese": "Của bạn (lịch sự)",
+    "audio": "आपका"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हमारा",
+    "transliteration": "hamara",
+    "english": "Ours",
+    "vietnamese": "Của chúng tôi",
+    "audio": "हमारा"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "हमारा",
+    "translation": "Ours / Của chúng tôi",
+    "contextSentenceHindi": "यह हमारा घर है।",
+    "contextSentenceTranslation": "This is our house. / Đây là nhà của chúng tôi.",
+    "memoryTrick": "Hamara bắt đầu bằng 'Ham' giống như 'Chúng tôi/Chúng ta' (हम - hum)!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "आपका",
+    "subtext": "aapka",
+    "answer": "Yours (formal)",
+    "answer_vi": "Của bạn (lịch sự)",
+    "options": [
+      "Yours (formal)",
+      "Mine",
+      "Ours",
+      "His"
+    ],
+    "options_vi": [
+      "Của bạn (lịch sự)",
+      "Của tôi",
+      "Của chúng tôi",
+      "Của anh ấy"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मेरी",
+    "translation_en": "Mine (feminine)",
+    "options_en": [
+      "Mine (feminine)",
+      "Ours",
+      "Yours",
+      "Theirs"
+    ],
+    "translation_vi": "Của tôi (giống cái)",
+    "options_vi": [
+      "Của tôi (giống cái)",
+      "Của chúng tôi",
+      "Của bạn",
+      "Của họ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'This is my house.' / Dịch: 'Đây là nhà của tôi.'",
+    "hindiWords": [
+      "है",
+      "यह",
+      "मेरा",
+      "घर"
+    ],
+    "correctHindiSentence": "यह मेरा घर है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "मेरा",
+        "english": "Mine / Của tôi"
+      },
+      {
+        "hindi": "आपका",
+        "english": "Yours / Của bạn"
+      },
+      {
+        "hindi": "हमारा",
+        "english": "Ours / Của chúng tôi"
+      },
+      {
+        "hindi": "घर",
+        "english": "House / Nhà"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Hiểu cách biến đổi đại từ sở hữu theo giống của danh từ.",
+      "Sử dụng thành thạo: मेरा/मेरी, आपका/आपकी, हमारा/हमारी.",
+      "Biết cách ghép câu sở hữu đơn giản."
+    ]
+  }
+]

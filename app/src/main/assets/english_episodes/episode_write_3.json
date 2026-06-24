@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Level 3",
+    "description": "Master the vocabulary and grammar for: Write - Level 3. Read the key points carefully.",
+    "keyPoints": [
+      "Learn write concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To read.",
+    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To read'",
+    "prompt_en": "Choose correct translation for 'To read'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
+    "text": "To read",
+    "subtext": "",
+    "answer": "पढ़ना​​​​​​​​​",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़ना​​​​​​​​​",
+      "पढ़ना​​​​​​",
+      "लिखना​​​​​​​​​​​​",
+      "लिखना​​"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Đọc",
+      "Viết",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​ (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To write.",
+    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pen",
+    "transliteration": "",
+    "english": "पेन​​",
+    "vietnamese": "Bút",
+    "audio": "Pen"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Signature",
+    "transliteration": "",
+    "english": "हस्ताक्षर",
+    "vietnamese": "Chữ ký",
+    "audio": "Signature"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To write'",
+    "prompt_en": "Choose correct translation for 'To write'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
+    "text": "To write",
+    "subtext": "",
+    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Viết",
+    "options": [
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पेन​​",
+      "हस्ताक्षर"
+    ],
+    "options_vi": [
+      "Viết",
+      "Đọc",
+      "Bút",
+      "Chữ ký"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "Pen",
+        "english": "पेन​​ (Bút)"
+      },
+      {
+        "hindi": "Signature",
+        "english": "हस्ताक्षर (Chữ ký)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To write.",
+    "simpleRule": "Remember: To write means लिखना (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To write'",
+    "prompt_en": "Choose correct translation for 'To write'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
+    "text": "To write",
+    "subtext": "",
+    "answer": "लिखना",
+    "answer_vi": "Viết",
+    "options": [
+      "लिखना",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खोलना​​​"
+    ],
+    "options_vi": [
+      "Viết",
+      "Mở",
+      "Viết",
+      "Mở"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To write",
+        "english": "लिखना (Viết)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​ (Mở)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Pen.",
+    "simpleRule": "Remember: Pen means पेन​​​​​​ (Bút)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pen",
+    "transliteration": "",
+    "english": "पेन​​​​​​",
+    "vietnamese": "Bút",
+    "audio": "Pen"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do a U-turn / go back on word",
+    "transliteration": "",
+    "english": "पलटी मारना",
+    "vietnamese": "Lật lọng / Nuốt lời",
+    "audio": "To do a U-turn / go back on word"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Pen'",
+    "prompt_en": "Choose correct translation for 'Pen'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Pen'",
+    "text": "Pen",
+    "subtext": "",
+    "answer": "पेन​​​​​​",
+    "answer_vi": "Bút",
+    "options": [
+      "पेन​​​​​​",
+      "लिखना​​​​​​​​​",
+      "पलटी मारना",
+      "पढ़ना​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bút",
+      "Viết",
+      "Lật lọng / Nuốt lời",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Pen",
+        "english": "पेन​​​​​​ (Bút)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To do a U-turn / go back on word",
+        "english": "पलटी मारना (Lật lọng / Nuốt lời)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​ (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To read",
+    "translation_en": "पढ़ना​​​​​​​​​",
+    "translation_vi": "Đọc",
+    "options_en": [
+      "पढ़ना​​​​​​​​​",
+      "पढ़ना​​​​​​",
+      "लिखना​​​​​​​​​​​​",
+      "लिखना​​"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Đọc",
+      "Viết",
+      "Viết"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a पढ़ना​​​​​​​​​ / Nó là một Đọc",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "To read"
+    ],
+    "correctHindiSentence": "It is a To read"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like पढ़ना​​​​​​ / Tôi thích Đọc",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To read"
+    ],
+    "correctHindiSentence": "I really like To read"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To read and To read",
+      "Practiced constructing sentences."
+    ]
+  }
+]

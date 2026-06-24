@@ -31,6 +31,9 @@ import com.example.hindilearn.data.AudioHelper
 import com.example.hindilearn.data.UserManager
 import com.example.hindilearn.theme.*
 import java.util.Locale
+import androidx.compose.foundation.Image
+import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.layout.ContentScale
 
 data class StoryParagraph(
     val hindi: String,
@@ -46,6 +49,7 @@ data class Story(
     val descriptionEn: String,
     val descriptionVi: String,
     val characterIcon: String,
+    val imageDrawableName: String,
     val paragraphs: List<StoryParagraph>,
     val questionEn: String,
     val questionVi: String,
@@ -88,6 +92,7 @@ fun StoriesScreen(
             descriptionEn = "Learn kitchen vocabulary with ELDER SISTER Di and Jiju.",
             descriptionVi = "Học từ vựng nhà bếp cùng chị Di và anh rể Jiju.",
             characterIcon = "☕",
+            imageDrawableName = "story_tea_time",
             paragraphs = listOf(
                 StoryParagraph(
                     "दीदी रसोई में विशेष मसाला चाय बना रही हैं।",
@@ -100,7 +105,7 @@ fun StoriesScreen(
                     "Chị ấy thêm gừng, bạch đậu khấu và một ít đường."
                 ),
                 StoryParagraph(
-                    "जीजू आते हैं और कहते हैं: मुझे भी एक कप गर्म चाय चाहिए!",
+                    "जीजू आते हैं और कहते हैं: मुझे भी एक cup गर्म चाय चाहिए!",
                     "Jiju comes and says: I want a cup of hot tea too!",
                     "Jiju đến và nói: Tôi cũng muốn một tách trà nóng!"
                 ),
@@ -123,6 +128,7 @@ fun StoriesScreen(
             descriptionEn = "Join Mom in cooking delicious Indian dishes.",
             descriptionVi = "Cùng mẹ nấu những món ăn Ấn Độ thơm ngon.",
             characterIcon = "🥘",
+            imageDrawableName = "story_mom_cooking",
             paragraphs = listOf(
                 StoryParagraph(
                     "माँ परिवार के लिए स्वादिष्ट खाना बना रही हैं।",
@@ -158,6 +164,7 @@ fun StoriesScreen(
             descriptionEn = "Jiju travels to Agra to visit the Taj Mahal.",
             descriptionVi = "Jiju đi du lịch đến Agra để ngắm đền Taj Mahal.",
             characterIcon = "🚄",
+            imageDrawableName = "story_jiju_taj",
             paragraphs = listOf(
                 StoryParagraph(
                     "महान जीजू आज ताजमहल देखने के लिए आगरा जा रहे हैं।",
@@ -189,10 +196,11 @@ fun StoriesScreen(
             id = "story_4",
             titleHi = "पारिवारिक मिलन",
             titleEn = "Family Gathering",
-            titleVi = "Quây quần gia đình",
+            titleVi = "Quây quanh gia đình",
             descriptionEn = "A happy Sunday in the family living room.",
             descriptionVi = "Một ngày Chủ nhật hạnh phúc trong phòng khách gia đình.",
             characterIcon = "🏡",
+            imageDrawableName = "story_family_sunday",
             paragraphs = listOf(
                 StoryParagraph(
                     "आज एक सुंदर रविवार है और परिवार बैठक में इकट्ठा हुआ है।",
@@ -218,6 +226,78 @@ fun StoriesScreen(
             questionEn = "What day is it today?",
             questionVi = "Hôm nay là ngày thứ mấy?",
             options = listOf("रविवार (Sunday / Chủ nhật)", "सोमवार (Monday / Thứ hai)", "शनिवार (Saturday / Thứ bảy)"),
+            correctOptionIdx = 0
+        ),
+        Story(
+            id = "story_5",
+            titleHi = "दीदी का जन्मदिन",
+            titleEn = "Didi's Surprise Birthday",
+            titleVi = "Sinh nhật bất ngờ của chị Di",
+            descriptionEn = "Help Jiju and Mom plan a surprise birthday party for Didi.",
+            descriptionVi = "Giúp Jiju và Mẹ lên kế hoạch cho bữa tiệc sinh nhật bất ngờ của chị Di.",
+            characterIcon = "🎂",
+            imageDrawableName = "story_didi_birthday",
+            paragraphs = listOf(
+                StoryParagraph(
+                    "दीदी का जन्मदिन है और जीजू कुछ विशेष करना चाहते हैं।",
+                    "It is Didi's birthday and Jiju wants to do something special.",
+                    "Hôm nay là sinh nhật của chị Di và Jiju muốn làm điều gì đó đặc biệt."
+                ),
+                StoryParagraph(
+                    "वह माँ के साथ मिलकर एक सुंदर केक बनाते हैं।",
+                    "He together with Mom bakes a beautiful cake.",
+                    "Anh ấy cùng với Mẹ nướng một chiếc bánh kem thật đẹp."
+                ),
+                StoryParagraph(
+                    "कमरे को गुब्बारों और रंग-बिरंगे बैनरों से सजाया जाता है।",
+                    "The room is decorated with balloons and colorful banners.",
+                    "Căn phòng được trang trí bằng bóng bay và các biểu ngữ đầy màu sắc."
+                ),
+                StoryParagraph(
+                    "जब दीदी घर आती हैं, तो सब चिल्लाते हैं: जन्मदिन मुबारक हो!",
+                    "When Didi comes home, everyone shouts: Happy Birthday!",
+                    "Khi chị Di về đến nhà, mọi người reo hò: Chúc mừng sinh nhật!"
+                )
+            ),
+            questionEn = "What do Jiju and Mom bake for Didi?",
+            questionVi = "Jiju và Mẹ nướng cái gì cho chị Di?",
+            options = listOf("केक (Cake / Bánh kem)", "समोसा (Samosa / Bánh gối Samosa)", "चाय (Tea / Trà)"),
+            correctOptionIdx = 0
+        ),
+        Story(
+            id = "story_6",
+            titleHi = "बाज़ार की सैर",
+            titleEn = "A Trip to the Indian Market",
+            titleVi = "Chuyến tham quan chợ Ấn Độ",
+            descriptionEn = "Jiju and Didi go shopping for spices and mangoes.",
+            descriptionVi = "Jiju và chị Di đi mua sắm gia vị và xoài ở chợ.",
+            characterIcon = "🛍️",
+            imageDrawableName = "story_indian_market",
+            paragraphs = listOf(
+                StoryParagraph(
+                    "जीजू और दीदी ताज़े फल खरीदने के लिए भारतीय बाज़ार जाते हैं।",
+                    "Jiju and Didi go to the Indian market to buy fresh fruits.",
+                    "Jiju và chị Di đến chợ Ấn Độ để mua trái cây tươi."
+                ),
+                StoryParagraph(
+                    "दुकानदार बहुत सारे मीठे और ताज़े आम दिखाता है।",
+                    "The shopkeeper shows many sweet and fresh mangoes.",
+                    "Người bán hàng giới thiệu rất nhiều xoài ngọt và tươi."
+                ),
+                StoryParagraph(
+                    "जीजू पूछते हैं: भाई साहब, ये आम कैसे दिए?",
+                    "Jiju asks: Brother, how much are these mangoes?",
+                    "Jiju hỏi: Anh ơi, những quả xoài này giá bao nhiêu?"
+                ),
+                StoryParagraph(
+                    "दीदी कुछ ताजे मसाले भी खरीदती हैं जैसे हल्दी और लाल मिर्च।",
+                    "Didi also buys some fresh spices like turmeric and red chili.",
+                    "Chị Di cũng mua một số gia vị tươi như nghệ và ớt đỏ."
+                )
+            ),
+            questionEn = "What fruit does the shopkeeper show to Jiju and Didi?",
+            questionVi = "Người bán hàng giới thiệu loại trái cây nào cho Jiju và chị Di?",
+            options = listOf("आम (Mango / Xoài)", "सेब (Apple / Táo)", "केला (Banana / Chuối)"),
             correctOptionIdx = 0
         )
     )
@@ -246,7 +326,10 @@ fun StoriesScreen(
                         contentPadding = PaddingValues(horizontal = 24.dp, vertical = 8.dp),
                         verticalArrangement = Arrangement.spacedBy(16.dp)
                     ) {
-                        itemsIndexed(stories) { _, item ->
+                        itemsIndexed(
+                            items = stories,
+                            key = { _, item -> item.id }
+                        ) { _, item ->
                             StoryListCard(
                                 story = item,
                                 isVi = isVi,
@@ -288,14 +371,29 @@ fun StoryListCard(
             modifier = Modifier.padding(20.dp),
             verticalAlignment = Alignment.CenterVertically
         ) {
-            Box(
-                modifier = Modifier
-                    .size(56.dp)
-                    .clip(RoundedCornerShape(16.dp))
-                    .background(DeepSaffron.copy(alpha = 0.15f)),
-                contentAlignment = Alignment.Center
-            ) {
-                Text(story.characterIcon, fontSize = 28.sp)
+            val context = LocalContext.current
+            val imageRes = remember(story.imageDrawableName) {
+                context.resources.getIdentifier(story.imageDrawableName, "drawable", context.packageName)
+            }
+            if (imageRes != 0) {
+                Image(
+                    painter = painterResource(id = imageRes),
+                    contentDescription = null,
+                    modifier = Modifier
+                        .size(72.dp)
+                        .clip(RoundedCornerShape(16.dp)),
+                    contentScale = ContentScale.Crop
+                )
+            } else {
+                Box(
+                    modifier = Modifier
+                        .size(72.dp)
+                        .clip(RoundedCornerShape(16.dp))
+                        .background(DeepSaffron.copy(alpha = 0.15f)),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Text(story.characterIcon, fontSize = 28.sp)
+                }
             }
             Spacer(modifier = Modifier.width(16.dp))
             Column(modifier = Modifier.weight(1f)) {
@@ -385,11 +483,31 @@ fun ReaderView(
                         color = TextDark,
                         textAlign = TextAlign.Center
                     )
+
+                    val context = LocalContext.current
+                    val imageRes = remember(story.imageDrawableName) {
+                        context.resources.getIdentifier(story.imageDrawableName, "drawable", context.packageName)
+                    }
+                    if (imageRes != 0) {
+                        Spacer(modifier = Modifier.height(16.dp))
+                        Image(
+                            painter = painterResource(id = imageRes),
+                            contentDescription = null,
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .height(220.dp)
+                                .clip(RoundedCornerShape(20.dp)),
+                            contentScale = ContentScale.Crop
+                        )
+                    }
                 }
             }
 
             // Paragraph List
-            itemsIndexed(story.paragraphs) { _, p ->
+            itemsIndexed(
+                items = story.paragraphs,
+                key = { idx, _ -> "${story.id}_p_${idx}" }
+            ) { _, p ->
                 ParagraphCard(
                     para = p,
                     isVi = isVi,

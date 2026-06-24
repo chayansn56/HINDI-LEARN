@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 22",
+    "description": "Master the vocabulary and grammar for: Episode 22. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 22",
+    "title_vi": "Tập 22",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To cry (रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Khóc."
+      },
+      {
+        "hindi": "Later, you encounter a Boy (लड़का).",
+        "translation": "Sau đó, bạn gặp một Cậu bé."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To cry",
+        "isCorrect": true
+      },
+      {
+        "text": "Boy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Boy",
+    "transliteration": "",
+    "english": "लड़का",
+    "vietnamese": "Cậu bé",
+    "audio": "Boy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लड़का",
+      "खरीदना​​​​​​​",
+      "sिखाना"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Cậu bé",
+      "Mua",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Boy",
+        "english": "लड़का (Cậu bé)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Money.",
+    "simpleRule": "Remember: Money means पैसा​​ (Tiền)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Right (direction)",
+    "transliteration": "",
+    "english": "दाएँ",
+    "vietnamese": "Bên phải",
+    "audio": "Right (direction)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Money'",
+    "prompt_en": "Choose correct translation for 'Money'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Money'",
+    "text": "Money",
+    "subtext": "",
+    "answer": "पैसा​​",
+    "answer_vi": "Tiền",
+    "options": [
+      "पैसा​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "दाएँ",
+      "sिखाना​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tiền",
+      "Ngủ",
+      "Bên phải",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Money",
+        "english": "पैसा​​ (Tiền)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "Right (direction)",
+        "english": "दाएँ (Bên phải)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​ (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To read.",
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Five",
+    "transliteration": "",
+    "english": "पाँच",
+    "vietnamese": "Số năm",
+    "audio": "Five"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To read'",
+    "prompt_en": "Choose correct translation for 'To read'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
+    "text": "To read",
+    "subtext": "",
+    "answer": "पढ़ना",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़ना",
+      "पाँच",
+      "गाना​​​​​​​​",
+      "बंद करना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Số năm",
+      "Hát",
+      "Đóng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To read",
+        "english": "पढ़ना (Đọc)"
+      },
+      {
+        "hindi": "Five",
+        "english": "पाँच (Số năm)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To cry",
+    "translation_en": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Khóc",
+    "options_en": [
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लड़का",
+      "खरीदना​​​​​​​",
+      "sिखाना"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Cậu bé",
+      "Mua",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Khóc",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To cry"
+    ],
+    "correctHindiSentence": "I see the To cry"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a लड़का / Tôi muốn Cậu bé",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Boy"
+    ],
+    "correctHindiSentence": "I want a Boy"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To cry and To close",
+      "Practiced constructing sentences."
+    ]
+  }
+]

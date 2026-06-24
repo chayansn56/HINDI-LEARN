@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 93",
+    "description": "Master the vocabulary and grammar for: Episode 93. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 93",
+    "title_vi": "Tập 93",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Can / Able to (सकता है).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Có thể."
+      },
+      {
+        "hindi": "Later, you encounter a To walk / move (चलना​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Đi bộ / Di chuyển."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Can / Able to",
+        "isCorrect": true
+      },
+      {
+        "text": "To walk / move",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Can / Able to.",
+    "simpleRule": "Remember: Can / Able to means सकता है (Có thể)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Can / Able to",
+    "transliteration": "",
+    "english": "सकता है",
+    "vietnamese": "Có thể",
+    "audio": "Can / Able to"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Can / Able to'",
+    "prompt_en": "Choose correct translation for 'Can / Able to'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Can / Able to'",
+    "text": "Can / Able to",
+    "subtext": "",
+    "answer": "सकता है",
+    "answer_vi": "Có thể",
+    "options": [
+      "सकता है",
+      "चलना​​​​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​​​​​​",
+      "मदद​​"
+    ],
+    "options_vi": [
+      "Có thể",
+      "Đi bộ / Di chuyển",
+      "Dạy",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Can / Able to",
+        "english": "सकता है (Có thể)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​ (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: From this / it (near).",
+    "simpleRule": "Remember: From this / it (near) means इससे (Từ cái này)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "From this / it (near)",
+    "transliteration": "",
+    "english": "इससे",
+    "vietnamese": "Từ cái này",
+    "audio": "From this / it (near)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Speak louder.",
+    "transliteration": "",
+    "english": "ज़ोर से बोलिए।",
+    "vietnamese": "Nói to lên.",
+    "audio": "Speak louder."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'From this / it (near)'",
+    "prompt_en": "Choose correct translation for 'From this / it (near)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'From this / it (near)'",
+    "text": "From this / it (near)",
+    "subtext": "",
+    "answer": "इससे",
+    "answer_vi": "Từ cái này",
+    "options": [
+      "इससे",
+      "ज़ोर से बोलिए।",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देना​​​"
+    ],
+    "options_vi": [
+      "Từ cái này",
+      "Nói to lên.",
+      "Viết",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "From this / it (near)",
+        "english": "इससे (Từ cái này)"
+      },
+      {
+        "hindi": "Speak louder.",
+        "english": "ज़ोर से बोलिए। (Nói to lên.)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​ (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Cloud.",
+    "simpleRule": "Remember: Cloud means बादल​​​​​​ (Đám mây)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cloud'",
+    "prompt_en": "Choose correct translation for 'Cloud'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
+    "text": "Cloud",
+    "subtext": "",
+    "answer": "बादल​​​​​​",
+    "answer_vi": "Đám mây",
+    "options": [
+      "बादल​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​​",
+      "दफ़्तर​​​​​",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Kể / Giải thích",
+      "Văn phòng",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Can / Able to",
+    "translation_en": "सकता है",
+    "translation_vi": "Có thể",
+    "options_en": [
+      "सकता है",
+      "चलना​​​​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​​​​​​",
+      "मदद​​"
+    ],
+    "options_vi": [
+      "Có thể",
+      "Đi bộ / Di chuyển",
+      "Dạy",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सकता है / Tôi thấy Có thể",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Can / Able to"
+    ],
+    "correctHindiSentence": "I see the Can / Able to"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a चलना​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Đi bộ / Di chuyển",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To walk / move"
+    ],
+    "correctHindiSentence": "I want a To walk / move"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Can / Able to and To teach",
+      "Practiced constructing sentences."
+    ]
+  }
+]

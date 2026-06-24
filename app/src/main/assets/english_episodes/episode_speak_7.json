@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 7",
+    "description": "Master the vocabulary and grammar for: Speak - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When",
+    "transliteration": "",
+    "english": "कब",
+    "vietnamese": "Khi nào",
+    "audio": "When"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​",
+      "कापी​​​​​​​​",
+      "बर्फ़​​​​​​​​​",
+      "कब"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Sổ tay",
+      "Tuyết / Đá",
+      "Khi nào"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "When",
+        "english": "कब (Khi nào)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Nose.",
+    "simpleRule": "Remember: Nose means नाक (Mũi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nose",
+    "transliteration": "",
+    "english": "नाक",
+    "vietnamese": "Mũi",
+    "audio": "Nose"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No problem / It's okay.",
+    "transliteration": "",
+    "english": "कोई बात नहीं।",
+    "vietnamese": "Không sao đâu.",
+    "audio": "No problem / It's okay."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where",
+    "transliteration": "",
+    "english": "कहाँ",
+    "vietnamese": "Ở đâu",
+    "audio": "Where"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative plural)",
+    "transliteration": "",
+    "english": "जिन्हें",
+    "vietnamese": "Người mà (số nhiều)",
+    "audio": "Whom (relative plural)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Nose'",
+    "prompt_en": "Choose correct translation for 'Nose'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Nose'",
+    "text": "Nose",
+    "subtext": "",
+    "answer": "नाक",
+    "answer_vi": "Mũi",
+    "options": [
+      "नाक",
+      "कोई बात नहीं।",
+      "कहाँ",
+      "जिन्हें"
+    ],
+    "options_vi": [
+      "Mũi",
+      "Không sao đâu.",
+      "Ở đâu",
+      "Người mà (số nhiều)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Nose",
+        "english": "नाक (Mũi)"
+      },
+      {
+        "hindi": "No problem / It's okay.",
+        "english": "कोई बात नहीं। (Không sao đâu.)"
+      },
+      {
+        "hindi": "Where",
+        "english": "कहाँ (Ở đâu)"
+      },
+      {
+        "hindi": "Whom (relative plural)",
+        "english": "जिन्हें (Người mà (số nhiều))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: I don't know.",
+    "simpleRule": "Remember: I don't know means मुझे नहीं मालूम (Tôi không biết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know",
+    "transliteration": "",
+    "english": "मुझे नहीं मालूम",
+    "vietnamese": "Tôi không biết",
+    "audio": "I don't know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Knowledge",
+    "transliteration": "",
+    "english": "विद्या",
+    "vietnamese": "Kiến thức",
+    "audio": "Knowledge"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whose (singular)",
+    "transliteration": "",
+    "english": "किसका",
+    "vietnamese": "Của ai",
+    "audio": "Whose (singular)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative singular)",
+    "transliteration": "",
+    "english": "जिसे",
+    "vietnamese": "Người mà (số ít)",
+    "audio": "Whom (relative singular)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I don't know'",
+    "prompt_en": "Choose correct translation for 'I don't know'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I don't know'",
+    "text": "I don't know",
+    "subtext": "",
+    "answer": "मुझे नहीं मालूम",
+    "answer_vi": "Tôi không biết",
+    "options": [
+      "मुझे नहीं मालूम",
+      "विद्या",
+      "किसका",
+      "जिसे"
+    ],
+    "options_vi": [
+      "Tôi không biết",
+      "Kiến thức",
+      "Của ai",
+      "Người mà (số ít)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I don't know",
+        "english": "मुझे नहीं मालूम (Tôi không biết)"
+      },
+      {
+        "hindi": "Knowledge",
+        "english": "विद्या (Kiến thức)"
+      },
+      {
+        "hindi": "Whose (singular)",
+        "english": "किसका (Của ai)"
+      },
+      {
+        "hindi": "Whom (relative singular)",
+        "english": "जिसे (Người mà (số ít))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Oh friend! / Oh man!.",
+    "simpleRule": "Remember: Oh friend! / Oh man! means अरे यार! (Trời ơi bạn ơi!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Oh friend! / Oh man!",
+    "transliteration": "",
+    "english": "अरे यार!",
+    "vietnamese": "Trời ơi bạn ơi!",
+    "audio": "Oh friend! / Oh man!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom / To whom",
+    "transliteration": "",
+    "english": "किसे",
+    "vietnamese": "Ai / Cho ai",
+    "audio": "Whom / To whom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Oh friend! / Oh man!'",
+    "prompt_en": "Choose correct translation for 'Oh friend! / Oh man!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Oh friend! / Oh man!'",
+    "text": "Oh friend! / Oh man!",
+    "subtext": "",
+    "answer": "अरे यार!",
+    "answer_vi": "Trời ơi bạn ơi!",
+    "options": [
+      "अरे यार!",
+      "बर्फ़​​​​",
+      "किसे",
+      "बर्फ़​​​​​​​"
+    ],
+    "options_vi": [
+      "Trời ơi bạn ơi!",
+      "Tuyết / Đá",
+      "Ai / Cho ai",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Oh friend! / Oh man!",
+        "english": "अरे यार! (Trời ơi bạn ơi!)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Whom / To whom",
+        "english": "किसे (Ai / Cho ai)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Snow / Ice",
+    "translation_en": "बर्फ़​​​​​​",
+    "translation_vi": "Tuyết / Đá",
+    "options_en": [
+      "बर्फ़​​​​​​",
+      "कापी​​​​​​​​",
+      "बर्फ़​​​​​​​​​",
+      "कब"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Sổ tay",
+      "Tuyết / Đá",
+      "Khi nào"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a बर्फ़​​​​​​ / Nó là một Tuyết / Đá",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "It is a Snow / Ice"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like कापी​​​​​​​​ / Tôi thích Sổ tay",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Notebook"
+    ],
+    "correctHindiSentence": "I really like Notebook"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Snow / Ice and Snow / Ice",
+      "Practiced constructing sentences."
+    ]
+  }
+]

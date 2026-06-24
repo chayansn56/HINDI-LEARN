@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 26",
+    "description": "Master the vocabulary and grammar for: Episode 26. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 26",
+    "title_vi": "Tập 26",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Police station (थाना).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đồn cảnh sát."
+      },
+      {
+        "hindi": "Later, you encounter a To sit (बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Ngồi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Police station",
+        "isCorrect": true
+      },
+      {
+        "text": "To sit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Police station.",
+    "simpleRule": "Remember: Police station means थाना (Đồn cảnh sát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police station",
+    "transliteration": "",
+    "english": "थाना",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "Police station"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "am",
+    "transliteration": "",
+    "english": "हूँ",
+    "vietnamese": "Là (tôi)",
+    "audio": "am"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Police station'",
+    "prompt_en": "Choose correct translation for 'Police station'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Police station'",
+    "text": "Police station",
+    "subtext": "",
+    "answer": "थाना",
+    "answer_vi": "Đồn cảnh sát",
+    "options": [
+      "थाना",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हूँ"
+    ],
+    "options_vi": [
+      "Đồn cảnh sát",
+      "Ngồi",
+      "Kể / Giải thích",
+      "Là (tôi)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Police station",
+        "english": "थाना (Đồn cảnh sát)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "am",
+        "english": "हूँ (Là (tôi))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: are.",
+    "simpleRule": "Remember: are means हो (Là (bạn))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "are",
+    "transliteration": "",
+    "english": "हो",
+    "vietnamese": "Là (bạn)",
+    "audio": "are"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rupee / Money",
+    "transliteration": "",
+    "english": "रुपया",
+    "vietnamese": "Đồng rupee / Tiền",
+    "audio": "Rupee / Money"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'are'",
+    "prompt_en": "Choose correct translation for 'are'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'are'",
+    "text": "are",
+    "subtext": "",
+    "answer": "हो",
+    "answer_vi": "Là (bạn)",
+    "options": [
+      "हो",
+      "पूछना​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "रुपया"
+    ],
+    "options_vi": [
+      "Là (bạn)",
+      "Hỏi",
+      "Chạy",
+      "Đồng rupee / Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "are",
+        "english": "हो (Là (bạn))"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "Rupee / Money",
+        "english": "रुपया (Đồng rupee / Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: will be (masculine plural).",
+    "simpleRule": "Remember: will be (masculine plural) means होंगे (Sẽ là (nam số nhiều))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "will be (masculine plural)",
+    "transliteration": "",
+    "english": "होंगे",
+    "vietnamese": "Sẽ là (nam số nhiều)",
+    "audio": "will be (masculine plural)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'will be (masculine plural)'",
+    "prompt_en": "Choose correct translation for 'will be (masculine plural)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'will be (masculine plural)'",
+    "text": "will be (masculine plural)",
+    "subtext": "",
+    "answer": "होंगे",
+    "answer_vi": "Sẽ là (nam số nhiều)",
+    "options": [
+      "होंगे",
+      "चलना​​​​​​​​​​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sẽ là (nam số nhiều)",
+      "Đi bộ / Di chuyển",
+      "Ngủ",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "will be (masculine plural)",
+        "english": "होंगे (Sẽ là (nam số nhiều))"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​ (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Police station",
+    "translation_en": "थाना",
+    "translation_vi": "Đồn cảnh sát",
+    "options_en": [
+      "थाना",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हूँ"
+    ],
+    "options_vi": [
+      "Đồn cảnh sát",
+      "Ngồi",
+      "Kể / Giải thích",
+      "Là (tôi)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the थाना / Tôi thấy Đồn cảnh sát",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Police station"
+    ],
+    "correctHindiSentence": "I see the Police station"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Ngồi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To sit"
+    ],
+    "correctHindiSentence": "I want a To sit"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Police station and To read",
+      "Practiced constructing sentences."
+    ]
+  }
+]

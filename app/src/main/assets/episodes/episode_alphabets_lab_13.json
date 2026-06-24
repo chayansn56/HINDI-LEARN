@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 13",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 13. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: लेना​​​​​.",
+    "simpleRule": "Remember: लेना​​​​​ means To take (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बिल्ली",
+    "transliteration": "billī",
+    "english": "Cat",
+    "vietnamese": "Con mèo",
+    "audio": "बिल्ली"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "राखी",
+    "transliteration": "rakhi",
+    "english": "Rakhi / Raksha Bandhan",
+    "vietnamese": "Lễ hội anh chị em Rakhi",
+    "audio": "राखी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाँव​​​​​​​",
+    "transliteration": "gā̃v",
+    "english": "Village",
+    "vietnamese": "Ngôi làng",
+    "audio": "गाँव​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लेना​​​​​'",
+    "prompt_en": "Choose correct translation for 'लेना​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लेना​​​​​'",
+    "text": "लेना​​​​​",
+    "subtext": "lenā",
+    "answer": "To take",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "To take",
+      "Cat",
+      "Rakhi / Raksha Bandhan",
+      "Village"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Con mèo",
+      "Lễ hội anh chị em Rakhi",
+      "Ngôi làng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लेना​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      },
+      {
+        "hindi": "बिल्ली",
+        "english": "Cat (Con mèo)"
+      },
+      {
+        "hindi": "राखी",
+        "english": "Rakhi / Raksha Bandhan (Lễ hội anh chị em Rakhi)"
+      },
+      {
+        "hindi": "गाँव​​​​​​​",
+        "english": "Village (Ngôi làng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पर.",
+    "simpleRule": "Remember: पर means On / At (Trên / Tại)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पर",
+    "transliteration": "par",
+    "english": "On / At",
+    "vietnamese": "Trên / Tại",
+    "audio": "पर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बर्फ़​​​",
+    "transliteration": "barf",
+    "english": "Snow / Ice",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "बर्फ़​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बग़ीचा​​",
+    "transliteration": "bagīcā",
+    "english": "Garden",
+    "vietnamese": "Khu vườn",
+    "audio": "बग़ीचा​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पर'",
+    "prompt_en": "Choose correct translation for 'पर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पर'",
+    "text": "पर",
+    "subtext": "par",
+    "answer": "On / At",
+    "answer_vi": "Trên / Tại",
+    "options": [
+      "On / At",
+      "To write",
+      "Snow / Ice",
+      "Garden"
+    ],
+    "options_vi": [
+      "Trên / Tại",
+      "Viết",
+      "Tuyết / Đá",
+      "Khu vườn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पर",
+        "english": "On / At (Trên / Tại)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "बर्फ़​​​",
+        "english": "Snow / Ice (Tuyết / Đá)"
+      },
+      {
+        "hindi": "बग़ीचा​​",
+        "english": "Garden (Khu vườn)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लेना​​​​​",
+    "translation_en": "To take",
+    "translation_vi": "Lấy / Nhận",
+    "options_en": [
+      "To take",
+      "Cat",
+      "Rakhi / Raksha Bandhan",
+      "Village"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Con mèo",
+      "Lễ hội anh chị em Rakhi",
+      "Ngôi làng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To take / Đây là Lấy / Nhận",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "लेना​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक लेना​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Cat / Tôi thấy Con mèo",
+    "hindiWords": [
+      "मैं",
+      "बिल्ली",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं बिल्ली देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: लेना​​​​​, बग़ीचा​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Speak - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Speak - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Speak - Level 3",
+    "description": "Master the vocabulary and grammar for: Speak - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "बनाना​​​​​​ (banānā) = To make / build / Chế tạo / Tạo ra",
-      "मुझे यह पसंद है। (mujhe yeh pasand hai) = I like this. / Tôi thích cái này.",
-      "खड़े होना​​​​​​​​​ (khaṛe honā) = To stand / Đứng"
+      "Learn speak concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बनाना​​​​​​ means 'To make / build' (Chế tạo / Tạo ra)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​",
-    "transliteration": "banānā",
-    "english": "To make / build",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "मुझे यह पसंद है।",
-    "transliteration": "mujhe yeh pasand hai",
-    "english": "I like this.",
-    "vietnamese": "Tôi thích cái này.",
-    "audio": "मुझे यह पसंद है।"
+    "hindi": "बोलना​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तभी",
+    "transliteration": "tabhi",
+    "english": "Just then / That is why",
+    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "audio": "तभी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीन क्या है?",
+    "transliteration": "scene kya hai?",
+    "english": "What is the plan?",
+    "vietnamese": "Kế hoạch là gì thế?",
+    "audio": "सीन क्या है?"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बनाना​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'बनाना​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​'",
-    "text": "बनाना​​​​​​",
-    "subtext": "banānā",
-    "answer": "To make / build",
-    "answer_vi": "Chế tạo / Tạo ra",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
     "options": [
-      "I like this.",
-      "To stand",
-      "To sell",
-      "To make / build"
+      "To speak",
+      "To speak",
+      "Just then / That is why",
+      "What is the plan?"
     ],
     "options_vi": [
-      "Tôi thích cái này.",
-      "Đứng",
-      "Bán",
-      "Chế tạo / Tạo ra"
+      "Nói",
+      "Nói",
+      "Ngay lúc đó / Chính vì vậy",
+      "Kế hoạch là gì thế?"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "तभी",
+        "english": "Just then / That is why (Ngay lúc đó / Chính vì vậy)"
+      },
+      {
+        "hindi": "सीन क्या है?",
+        "english": "What is the plan? (Kế hoạch là gì thế?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: प्रणाम.",
+    "simpleRule": "Remember: प्रणाम means Reverent Hello (Kính chào)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बेचना​​​​​​",
-    "transliteration": "becnā",
-    "english": "To sell",
-    "vietnamese": "Bán",
-    "audio": "बेचना​​​​​​"
+    "hindi": "प्रणाम",
+    "transliteration": "praṇām",
+    "english": "Reverent Hello",
+    "vietnamese": "Kính chào",
+    "audio": "प्रणाम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इसका क्या मतलब है?",
+    "transliteration": "iska kya matlab hai?",
+    "english": "What does this mean?",
+    "vietnamese": "Cái này có nghĩa là gì?",
+    "audio": "इसका क्या मतलब है?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'प्रणाम'",
+    "prompt_en": "Choose correct translation for 'प्रणाम'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'प्रणाम'",
+    "text": "प्रणाम",
+    "subtext": "praṇām",
+    "answer": "Reverent Hello",
+    "answer_vi": "Kính chào",
+    "options": [
+      "Reverent Hello",
+      "To speak",
+      "To speak",
+      "What does this mean?"
+    ],
+    "options_vi": [
+      "Kính chào",
+      "Nói",
+      "Nói",
+      "Cái này có nghĩa là gì?"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बनाना​​​​​​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
+        "hindi": "प्रणाम",
+        "english": "Reverent Hello (Kính chào)"
       },
       {
-        "hindi": "मुझे यह पसंद है।",
-        "english": "I like this. (Tôi thích cái này.)"
+        "hindi": "बोलना​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "खड़े होना​​​​​​​​​",
-        "english": "To stand (Đứng)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "बेचना​​​​​​",
-        "english": "To sell (Bán)"
+        "hindi": "इसका क्या मतलब है?",
+        "english": "What does this mean? (Cái này có nghĩa là gì?)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "मुझे यह पसंद है।",
-    "translation_en": "I like this.",
-    "translation_vi": "Tôi thích cái này.",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To speak",
+    "translation_vi": "Nói",
     "options_en": [
-      "To stand",
-      "To make / build",
-      "To sell",
-      "I like this."
+      "To speak",
+      "To speak",
+      "Just then / That is why",
+      "What is the plan?"
     ],
     "options_vi": [
-      "Đứng",
-      "Chế tạo / Tạo ra",
-      "Bán",
-      "Tôi thích cái này."
+      "Nói",
+      "Nói",
+      "Ngay lúc đó / Chính vì vậy",
+      "Kế hoạch là gì thế?"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Hello, how are you? / Xin chào, bạn khỏe không?",
+    "englishSentence": "This is a To speak / Đây là Nói",
     "hindiWords": [
-      "नमस्ते",
-      "आप",
-      "कैसे",
-      "हैं",
-      "तुम",
-      "हो"
+      "यह",
+      "एक",
+      "बोलना​​​​​​​​​​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "नमस्ते आप कैसे हैं"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "काम करना​​​​​",
-    "transliteration": "kām karnā",
-    "english": "To work",
-    "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "देखना​​​​​",
-    "transliteration": "dekhnā",
-    "english": "To see / watch",
-    "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "खड़े होना​​​​​​​​​",
-        "english": "To stand (Đứng)"
-      },
-      {
-        "hindi": "बेचना​​​​​​",
-        "english": "To sell (Bán)"
-      },
-      {
-        "hindi": "काम करना​​​​​",
-        "english": "To work (Làm việc)"
-      },
-      {
-        "hindi": "देखना​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
-      }
-    ]
+    "correctHindiSentence": "यह एक बोलना​​​​​​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "My name is John / Tên tôi là John",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
-      "मेरा",
-      "नाम",
-      "जॉन",
-      "है",
-      "लड़की",
+      "मैं",
+      "बोलना​​​​​​​​​",
+      "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मेरा नाम जॉन है"
+    "correctHindiSentence": "मैं बोलना​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बनाना​​​​​​, खड़े होना​​​​​​​​​, काम करना​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'My name is John'."
+      "You learned: बोलना​​​​​​​​​​​​​​​​​​​​, इसका क्या मतलब है?",
+      "Practiced constructing sentences."
     ]
   }
 ]

@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Gram - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Gram - Level 3",
+    "description": "Master the vocabulary and grammar for: Gram - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "देश​​​ (desh) = Country / Đất nước",
-      "मिट्टी​​ (miṭṭī) = Soil / Earth / Đất",
-      "के बाद (ke baad) = after (time) / Sau khi (thời gian)"
+      "Learn gram concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: देश​​​ means 'Country' (Đất nước)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "देश​​​",
-    "transliteration": "desh",
-    "english": "Country",
-    "vietnamese": "Đất nước",
-    "audio": "देश​​​"
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​",
-    "transliteration": "miṭṭī",
-    "english": "Soil / Earth",
-    "vietnamese": "Đất",
-    "audio": "मिट्टी​​"
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भाषा",
+    "transliteration": "bhasha",
+    "english": "Language",
+    "vietnamese": "Ngôn ngữ",
+    "audio": "भाषा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सड़क​",
+    "transliteration": "saṛak",
+    "english": "Road",
+    "vietnamese": "Đường",
+    "audio": "सड़क​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'देश​​​'",
-    "prompt_en": "Choose the correct translation for 'देश​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'देश​​​'",
-    "text": "देश​​​",
-    "subtext": "desh",
-    "answer": "Country",
-    "answer_vi": "Đất nước",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
     "options": [
-      "after (time)",
-      "Country",
-      "Soil / Earth",
-      "Snow / Ice"
+      "Love (intense)",
+      "To ask",
+      "Language",
+      "Road"
     ],
     "options_vi": [
-      "Sau khi (thời gian)",
-      "Đất nước",
-      "Đất",
-      "Tuyết / Đá"
+      "Tình yêu sâu đậm",
+      "Hỏi",
+      "Ngôn ngữ",
+      "Đường"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "के बाद",
-    "transliteration": "ke baad",
-    "english": "after (time)",
-    "vietnamese": "Sau khi (thời gian)",
-    "audio": "के बाद"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "भाषा",
+        "english": "Language (Ngôn ngữ)"
+      },
+      {
+        "hindi": "सड़क​",
+        "english": "Road (Đường)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: तारीख.",
+    "simpleRule": "Remember: तारीख means Date (Ngày tháng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बर्फ़​​​",
-    "transliteration": "barf",
-    "english": "Snow / Ice",
-    "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​"
+    "hindi": "तारीख",
+    "transliteration": "taareekh",
+    "english": "Date",
+    "vietnamese": "Ngày tháng",
+    "audio": "तारीख"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बग़ीचा​",
+    "transliteration": "bagīcā",
+    "english": "Garden",
+    "vietnamese": "Khu vườn",
+    "audio": "बग़ीचा​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बारिश​​​​​​​",
+    "transliteration": "bārish",
+    "english": "Rain",
+    "vietnamese": "Cơn mưa",
+    "audio": "बारिश​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तुमसे",
+    "transliteration": "tumse",
+    "english": "From you / With you",
+    "vietnamese": "Từ bạn / Với bạn",
+    "audio": "तुमसे"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'तारीख'",
+    "prompt_en": "Choose correct translation for 'तारीख'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'तारीख'",
+    "text": "तारीख",
+    "subtext": "taareekh",
+    "answer": "Date",
+    "answer_vi": "Ngày tháng",
+    "options": [
+      "Date",
+      "Garden",
+      "Rain",
+      "From you / With you"
+    ],
+    "options_vi": [
+      "Ngày tháng",
+      "Khu vườn",
+      "Cơn mưa",
+      "Từ bạn / Với bạn"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "देश​​​",
-        "english": "Country (Đất nước)"
+        "hindi": "तारीख",
+        "english": "Date (Ngày tháng)"
       },
       {
-        "hindi": "मिट्टी​​",
-        "english": "Soil / Earth (Đất)"
+        "hindi": "बग़ीचा​",
+        "english": "Garden (Khu vườn)"
       },
       {
-        "hindi": "के बाद",
-        "english": "after (time) (Sau khi (thời gian))"
+        "hindi": "बारिश​​​​​​​",
+        "english": "Rain (Cơn mưa)"
       },
       {
-        "hindi": "बर्फ़​​​",
-        "english": "Snow / Ice (Tuyết / Đá)"
+        "hindi": "तुमसे",
+        "english": "From you / With you (Từ bạn / Với bạn)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "मिट्टी​​",
-    "translation_en": "Soil / Earth",
-    "translation_vi": "Đất",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
     "options_en": [
-      "Soil / Earth",
-      "after (time)",
-      "Country",
-      "Snow / Ice"
+      "Love (intense)",
+      "To ask",
+      "Language",
+      "Road"
     ],
     "options_vi": [
-      "Đất",
-      "Sau khi (thời gian)",
-      "Đất nước",
-      "Tuyết / Đá"
+      "Tình yêu sâu đậm",
+      "Hỏi",
+      "Ngôn ngữ",
+      "Đường"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
     "hindiWords": [
-      "लड़का",
-      "तेज़",
-      "दौड़ता",
-      "है",
-      "लड़की",
-      "धीमे"
+      "यह",
+      "एक",
+      "इश्क़",
+      "है"
     ],
-    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "समुद्र​​​​​​",
-    "transliteration": "samudra",
-    "english": "Sea / Ocean",
-    "vietnamese": "Biển",
-    "audio": "समुद्र​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "नदी​​​",
-    "transliteration": "nadī",
-    "english": "River",
-    "vietnamese": "Con sông",
-    "audio": "नदी​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "के बाद",
-        "english": "after (time) (Sau khi (thời gian))"
-      },
-      {
-        "hindi": "बर्फ़​​​",
-        "english": "Snow / Ice (Tuyết / Đá)"
-      },
-      {
-        "hindi": "समुद्र​​​​​​",
-        "english": "Sea / Ocean (Biển)"
-      },
-      {
-        "hindi": "नदी​​​",
-        "english": "River (Con sông)"
-      }
-    ]
+    "correctHindiSentence": "यह एक इश्क़ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "She eats bread / Cô ấy ăn bánh mì",
+    "englishSentence": "I see To ask / Tôi thấy Hỏi",
     "hindiWords": [
-      "वह",
-      "रोटी",
-      "खाती",
-      "है",
-      "पीती",
+      "मैं",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "वह रोटी खाती है"
+    "correctHindiSentence": "मैं पूछना​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: देश​​​, के बाद, समुद्र​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'She eats bread'."
+      "You learned: इश्क़, तुमसे",
+      "Practiced constructing sentences."
     ]
   }
 ]

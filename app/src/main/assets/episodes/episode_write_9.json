@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Level 9",
+    "description": "Master the vocabulary and grammar for: Write - Level 9. Read the key points carefully.",
+    "keyPoints": [
+      "Learn write concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​ means To open (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "kholnā",
+    "answer": "To open",
+    "answer_vi": "Mở",
+    "options": [
+      "To open",
+      "To open",
+      "To write",
+      "To write"
+    ],
+    "options_vi": [
+      "Mở",
+      "Mở",
+      "Viết",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "खोलना​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पेन​​​​​.",
+    "simpleRule": "Remember: पेन​​​​​ means Pen (Bút)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बहुत महँगा है।",
+    "transliteration": "bahut mahaṅgā hai.",
+    "english": "It is very expensive.",
+    "vietnamese": "Rất đắt.",
+    "audio": "बहुत महँगा है।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "महँगा",
+    "transliteration": "mehanga",
+    "english": "Expensive",
+    "vietnamese": "Đắt đỏ",
+    "audio": "महँगा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पेन​​​​​'",
+    "prompt_en": "Choose correct translation for 'पेन​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पेन​​​​​'",
+    "text": "पेन​​​​​",
+    "subtext": "pen",
+    "answer": "Pen",
+    "answer_vi": "Bút",
+    "options": [
+      "Pen",
+      "It is very expensive.",
+      "Expensive",
+      "To write"
+    ],
+    "options_vi": [
+      "Bút",
+      "Rất đắt.",
+      "Đắt đỏ",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पेन​​​​​",
+        "english": "Pen (Bút)"
+      },
+      {
+        "hindi": "बहुत महँगा है।",
+        "english": "It is very expensive. (Rất đắt.)"
+      },
+      {
+        "hindi": "महँगा",
+        "english": "Expensive (Đắt đỏ)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To open",
+    "translation_vi": "Mở",
+    "options_en": [
+      "To open",
+      "To open",
+      "To write",
+      "To write"
+    ],
+    "options_vi": [
+      "Mở",
+      "Mở",
+      "Viết",
+      "Viết"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To open / Đây là Mở",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To open / Tôi thấy Mở",
+    "hindiWords": [
+      "मैं",
+      "खोलना​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं खोलना​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​, लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Speak - Lesson 7",
-    "description": "Learn key vocabulary and concepts for Speak - Lesson 7. Listen carefully and read along in English and Vietnamese.",
+    "title": "Speak - Level 7",
+    "description": "Master the vocabulary and grammar for: Speak - Level 7. Read the key points carefully.",
     "keyPoints": [
-      "लिखना​​​​​​​​​ (likhnā) = To write / Viết",
-      "बैठना​​​​​​​ (baiṭhnā) = To sit / Ngồi",
-      "क्या आप तैयार हैं? (kya aap taiyaar hain?) = Are you ready? / Bạn đã sẵn sàng chưa?"
+      "Learn speak concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 7",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: लिखना​​​​​​​​​ means 'To write' (Viết)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बोलना​​​​.",
+    "simpleRule": "Remember: बोलना​​​​ means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​",
-    "transliteration": "likhnā",
-    "english": "To write",
-    "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​"
+    "hindi": "बोलना​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "बैठना​​​​​​​",
-    "transliteration": "baiṭhnā",
-    "english": "To sit",
-    "vietnamese": "Ngồi",
-    "audio": "बैठना​​​​​​​"
+    "hindi": "बोलना​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कब",
+    "transliteration": "kab",
+    "english": "When",
+    "vietnamese": "Khi nào",
+    "audio": "कब"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'लिखना​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'लिखना​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​'",
-    "text": "लिखना​​​​​​​​​",
-    "subtext": "likhnā",
-    "answer": "To write",
-    "answer_vi": "Viết",
+    "prompt": "Translate 'बोलना​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​'",
+    "text": "बोलना​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
     "options": [
-      "To see / watch",
-      "Are you ready?",
-      "To sit",
-      "To write"
+      "To speak",
+      "To speak",
+      "When",
+      "To speak"
     ],
     "options_vi": [
-      "Nhìn / Xem",
-      "Bạn đã sẵn sàng chưa?",
-      "Ngồi",
-      "Viết"
+      "Nói",
+      "Nói",
+      "Khi nào",
+      "Nói"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "क्या आप तैयार हैं?",
-    "transliteration": "kya aap taiyaar hain?",
-    "english": "Are you ready?",
-    "vietnamese": "Bạn đã sẵn sàng chưa?",
-    "audio": "क्या आप तैयार हैं?"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "कब",
+        "english": "When (Khi nào)"
+      },
+      {
+        "hindi": "बोलना",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "देखना​​​​​​",
-    "transliteration": "dekhnā",
-    "english": "To see / watch",
-    "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नमस्ते, आप कैसे हैं?",
+    "transliteration": "namaste, aap kaise hain?",
+    "english": "Hello, how are you?",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "नमस्ते, आप कैसे हैं?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या बकवास है!",
+    "transliteration": "kya bakwaas hai!",
+    "english": "What nonsense!",
+    "vietnamese": "Thật vớ vẩn!",
+    "audio": "क्या बकवास है!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
+    "options": [
+      "To speak",
+      "Hello, how are you?",
+      "What nonsense!",
+      "To speak"
+    ],
+    "options_vi": [
+      "Nói",
+      "Xin chào, bạn khỏe không?",
+      "Thật vớ vẩn!",
+      "Nói"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "लिखना​​​​​​​​​",
-        "english": "To write (Viết)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "बैठना​​​​​​​",
-        "english": "To sit (Ngồi)"
+        "hindi": "नमस्ते, आप कैसे हैं?",
+        "english": "Hello, how are you? (Xin chào, bạn khỏe không?)"
       },
       {
-        "hindi": "क्या आप तैयार हैं?",
-        "english": "Are you ready? (Bạn đã sẵn sàng chưa?)"
+        "hindi": "क्या बकवास है!",
+        "english": "What nonsense! (Thật vớ vẩn!)"
       },
       {
-        "hindi": "देखना​​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बैठना​​​​​​​",
-    "translation_en": "To sit",
-    "translation_vi": "Ngồi",
+    "audio": "बोलना​​​​",
+    "translation_en": "To speak",
+    "translation_vi": "Nói",
     "options_en": [
-      "To sit",
-      "To see / watch",
-      "Are you ready?",
-      "To write"
+      "To speak",
+      "To speak",
+      "When",
+      "To speak"
     ],
     "options_vi": [
-      "Ngồi",
-      "Nhìn / Xem",
-      "Bạn đã sẵn sàng chưa?",
-      "Viết"
+      "Nói",
+      "Nói",
+      "Khi nào",
+      "Nói"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Thank you very much / Cảm ơn bạn rất nhiều",
+    "englishSentence": "This is a To speak / Đây là Nói",
     "hindiWords": [
-      "बहुत",
-      "बहुत",
-      "धन्यवाद",
-      "कृपया",
-      "नमस्ते"
+      "यह",
+      "एक",
+      "बोलना​​​​",
+      "है"
     ],
-    "correctHindiSentence": "बहुत बहुत धन्यवाद"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "जी नहीं",
-    "transliteration": "jī nahī̃",
-    "english": "No (respectful)",
-    "vietnamese": "Không (Lịch sự)",
-    "audio": "जी नहीं"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "मुझे यह चाहिए।",
-    "transliteration": "mujhe yeh chaahie",
-    "english": "I want this.",
-    "vietnamese": "Tôi muốn cái này.",
-    "audio": "मुझे यह चाहिए।"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "क्या आप तैयार हैं?",
-        "english": "Are you ready? (Bạn đã sẵn sàng chưa?)"
-      },
-      {
-        "hindi": "देखना​​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
-      },
-      {
-        "hindi": "जी नहीं",
-        "english": "No (respectful) (Không (Lịch sự))"
-      },
-      {
-        "hindi": "मुझे यह चाहिए।",
-        "english": "I want this. (Tôi muốn cái này.)"
-      }
-    ]
+    "correctHindiSentence": "यह एक बोलना​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "What is your name? / Tên của bạn là gì?",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
-      "आपका",
-      "नाम",
-      "क्या",
-      "है",
-      "मेरा",
-      "लड़का"
+      "मैं",
+      "बोलना​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "आपका नाम क्या है"
+    "correctHindiSentence": "मैं बोलना​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: लिखना​​​​​​​​​, क्या आप तैयार हैं?, जी नहीं.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'What is your name?'."
+      "You learned: बोलना​​​​, बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

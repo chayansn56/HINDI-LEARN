@@ -1,0 +1,70 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Numbers 0-100",
+    "description": "Master the vocabulary and grammar for: Numbers 0-100. Read the key points carefully.",
+    "keyPoints": [
+      "Master Numbers 0-100"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: एक.",
+    "simpleRule": "Remember: एक means One (Số một)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "एक",
+    "transliteration": "ek",
+    "english": "One",
+    "vietnamese": "Số một",
+    "audio": "एक"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दो",
+    "transliteration": "do",
+    "english": "Two",
+    "vietnamese": "Số hai",
+    "audio": "दो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दस",
+    "transliteration": "das",
+    "english": "Ten",
+    "vietnamese": "Số mười",
+    "audio": "दस"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have One / Tôi có Số một",
+    "hindiWords": [
+      "मेरे",
+      "पास",
+      "एक",
+      "है"
+    ],
+    "correctHindiSentence": "मेरे पास एक है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Price is Two / Giá là Số hai",
+    "hindiWords": [
+      "दाम",
+      "दो",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "दाम दो है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: एक, दस",
+      "Practiced constructing sentences."
+    ]
+  }
+]

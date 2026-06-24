@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 9",
+    "description": "Master the vocabulary and grammar for: Speak - Level 9. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: I don't know.",
+    "simpleRule": "Remember: I don't know means मुझे नहीं मालूम (Tôi không biết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know",
+    "transliteration": "",
+    "english": "मुझे नहीं मालूम",
+    "vietnamese": "Tôi không biết",
+    "audio": "I don't know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much is it?",
+    "transliteration": "",
+    "english": "कितना हुआ?",
+    "vietnamese": "Bao nhiêu tiền?",
+    "audio": "How much is it?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To act pricey / show attitude",
+    "transliteration": "",
+    "english": "भाव खाना",
+    "vietnamese": "Làm kiêu / Tỏ vẻ",
+    "audio": "To act pricey / show attitude"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative plural)",
+    "transliteration": "",
+    "english": "जिन्हें",
+    "vietnamese": "Người mà (số nhiều)",
+    "audio": "Whom (relative plural)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I don't know'",
+    "prompt_en": "Choose correct translation for 'I don't know'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I don't know'",
+    "text": "I don't know",
+    "subtext": "",
+    "answer": "मुझे नहीं मालूम",
+    "answer_vi": "Tôi không biết",
+    "options": [
+      "मुझे नहीं मालूम",
+      "कितना हुआ?",
+      "भाव खाना",
+      "जिन्हें"
+    ],
+    "options_vi": [
+      "Tôi không biết",
+      "Bao nhiêu tiền?",
+      "Làm kiêu / Tỏ vẻ",
+      "Người mà (số nhiều)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I don't know",
+        "english": "मुझे नहीं मालूम (Tôi không biết)"
+      },
+      {
+        "hindi": "How much is it?",
+        "english": "कितना हुआ? (Bao nhiêu tiền?)"
+      },
+      {
+        "hindi": "To act pricey / show attitude",
+        "english": "भाव खाना (Làm kiêu / Tỏ vẻ)"
+      },
+      {
+        "hindi": "Whom (relative plural)",
+        "english": "जिन्हें (Người mà (số nhiều))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Who",
+    "transliteration": "",
+    "english": "कौन",
+    "vietnamese": "Ai",
+    "audio": "Who"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, I am ready.",
+    "transliteration": "",
+    "english": "हाँ, मैं तैयार हूँ।",
+    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "audio": "Yes, I am ready."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Afternoon",
+    "transliteration": "",
+    "english": "दोपहर",
+    "vietnamese": "Buổi trưa",
+    "audio": "Afternoon"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​",
+      "कौन",
+      "हाँ, मैं तैयार हूँ।",
+      "दोपहर"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Ai",
+      "Vâng, tôi sẵn sàng rồi.",
+      "Buổi trưa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Who",
+        "english": "कौन (Ai)"
+      },
+      {
+        "hindi": "Yes, I am ready.",
+        "english": "हाँ, मैं तैयार हूँ। (Vâng, tôi sẵn sàng rồi.)"
+      },
+      {
+        "hindi": "Afternoon",
+        "english": "दोपहर (Buổi trưa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Where.",
+    "simpleRule": "Remember: Where means कहाँ (Ở đâu)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where",
+    "transliteration": "",
+    "english": "कहाँ",
+    "vietnamese": "Ở đâu",
+    "audio": "Where"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When (relative)",
+    "transliteration": "",
+    "english": "जब",
+    "vietnamese": "Khi mà",
+    "audio": "When (relative)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What is the plan?",
+    "transliteration": "",
+    "english": "सीन क्या है?",
+    "vietnamese": "Kế hoạch là gì thế?",
+    "audio": "What is the plan?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much",
+    "transliteration": "",
+    "english": "कितना",
+    "vietnamese": "Bao nhiêu",
+    "audio": "How much"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Where'",
+    "prompt_en": "Choose correct translation for 'Where'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Where'",
+    "text": "Where",
+    "subtext": "",
+    "answer": "कहाँ",
+    "answer_vi": "Ở đâu",
+    "options": [
+      "कहाँ",
+      "जब",
+      "सीन क्या है?",
+      "कितना"
+    ],
+    "options_vi": [
+      "Ở đâu",
+      "Khi mà",
+      "Kế hoạch là gì thế?",
+      "Bao nhiêu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Where",
+        "english": "कहाँ (Ở đâu)"
+      },
+      {
+        "hindi": "When (relative)",
+        "english": "जब (Khi mà)"
+      },
+      {
+        "hindi": "What is the plan?",
+        "english": "सीन क्या है? (Kế hoạch là gì thế?)"
+      },
+      {
+        "hindi": "How much",
+        "english": "कितना (Bao nhiêu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Please say it again..",
+    "simpleRule": "Remember: Please say it again. means फिर से कहिए। (Làm ơn nói lại lần nữa.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please say it again.",
+    "transliteration": "",
+    "english": "फिर से कहिए।",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "Please say it again."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to know",
+    "transliteration": "",
+    "english": "जानना",
+    "vietnamese": "Biết",
+    "audio": "to know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Reverent hello to Grandma",
+    "transliteration": "",
+    "english": "प्रणाम दादी जी",
+    "vietnamese": "Kính chào bà nội kính yêu",
+    "audio": "Reverent hello to Grandma"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No way!",
+    "transliteration": "",
+    "english": "घंटा",
+    "vietnamese": "Không đời nào / Thôi đi",
+    "audio": "No way!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Please say it again.'",
+    "prompt_en": "Choose correct translation for 'Please say it again.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Please say it again.'",
+    "text": "Please say it again.",
+    "subtext": "",
+    "answer": "फिर से कहिए।",
+    "answer_vi": "Làm ơn nói lại lần nữa.",
+    "options": [
+      "फिर से कहिए।",
+      "जानना",
+      "प्रणाम दादी जी",
+      "घंटा"
+    ],
+    "options_vi": [
+      "Làm ơn nói lại lần nữa.",
+      "Biết",
+      "Kính chào bà nội kính yêu",
+      "Không đời nào / Thôi đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Please say it again.",
+        "english": "फिर से कहिए। (Làm ơn nói lại lần nữa.)"
+      },
+      {
+        "hindi": "to know",
+        "english": "जानना (Biết)"
+      },
+      {
+        "hindi": "Reverent hello to Grandma",
+        "english": "प्रणाम दादी जी (Kính chào bà nội kính yêu)"
+      },
+      {
+        "hindi": "No way!",
+        "english": "घंटा (Không đời nào / Thôi đi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "I don't know",
+    "translation_en": "मुझे नहीं मालूम",
+    "translation_vi": "Tôi không biết",
+    "options_en": [
+      "मुझे नहीं मालूम",
+      "कितना हुआ?",
+      "भाव खाना",
+      "जिन्हें"
+    ],
+    "options_vi": [
+      "Tôi không biết",
+      "Bao nhiêu tiền?",
+      "Làm kiêu / Tỏ vẻ",
+      "Người mà (số nhiều)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a मुझे नहीं मालूम / Nó là một Tôi không biết",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "I don't know"
+    ],
+    "correctHindiSentence": "It is a I don't know"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like कितना हुआ? / Tôi thích Bao nhiêu tiền?",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "How much is it?"
+    ],
+    "correctHindiSentence": "I really like How much is it?"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: I don't know and No way!",
+      "Practiced constructing sentences."
+    ]
+  }
+]

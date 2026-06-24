@@ -1,0 +1,140 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 13: Family Relationships",
+    "description": "Học cách gọi tên các thành viên trong gia đình: Anh trai, Em gái và Họ hàng bằng tiếng Hindi.",
+    "keyPoints": [
+      "बड़ा भाई (bada bhai): Anh trai",
+      "छोटी बहन (chhoti behen): Em gái",
+      "रिश्तेदार (rishtedaar): Họ hàng"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Tính từ bổ nghĩa cho thành viên gia đình",
+    "explanation": "Sử dụng बड़ा (bada - lớn) hoặc छोटा (chhota - nhỏ) trước từ chỉ anh chị em để biểu thị lớn hơn hoặc nhỏ hơn. Chúng biến đổi thành बड़ी (badi) và छोटी (chhoti) khi đi với danh từ giống cái.",
+    "simpleRule": "बड़ा (lôn) / छोटा (nhỏ) + भाई (anh em) / बहन (chị em)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बड़ा भाई",
+    "transliteration": "bada bhai",
+    "english": "Elder brother",
+    "vietnamese": "Anh trai",
+    "audio": "बड़ा भाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "छोटी बहन",
+    "transliteration": "chhoti behen",
+    "english": "Younger sister",
+    "vietnamese": "Em gái",
+    "audio": "छोटी बहन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रिश्तेदार",
+    "transliteration": "rishtedaar",
+    "english": "Relatives",
+    "vietnamese": "Họ hàng",
+    "audio": "रिश्तेदार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "परिवार",
+    "transliteration": "parivaar",
+    "english": "Family",
+    "vietnamese": "Gia đình",
+    "audio": "परिवार"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "रिश्तेदार",
+    "translation": "Relatives / Họ hàng",
+    "contextSentenceHindi": "वे मेरे रिश्तेदार हैं।",
+    "contextSentenceTranslation": "They are my relatives. / Họ là họ hàng của tôi.",
+    "memoryTrick": "Rishtedaar có từ 'Rishta' nghĩa là mối quan hệ, thêm 'daar' để chỉ người!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "छोटी बहन",
+    "subtext": "chhoti behen",
+    "answer": "Younger sister",
+    "answer_vi": "Em gái",
+    "options": [
+      "Younger sister",
+      "Elder brother",
+      "Mother",
+      "Father"
+    ],
+    "options_vi": [
+      "Em gái",
+      "Anh trai",
+      "Mẹ",
+      "Bố"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "बड़ा भाई",
+    "translation_en": "Elder brother",
+    "options_en": [
+      "Elder brother",
+      "Younger brother",
+      "Elder sister",
+      "Younger sister"
+    ],
+    "translation_vi": "Anh trai",
+    "options_vi": [
+      "Anh trai",
+      "Em trai",
+      "Chị gái",
+      "Em gái"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'He is my elder brother.' / Dịch: 'Anh ấy là anh trai tôi.'",
+    "hindiWords": [
+      "बड़ा",
+      "वह",
+      "मेरा",
+      "है",
+      "भाई"
+    ],
+    "correctHindiSentence": "वह मेरा बड़ा भाई है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "बड़ा भाई",
+        "english": "Elder brother (Anh trai)"
+      },
+      {
+        "hindi": "छोटी बहन",
+        "english": "Younger sister (Em gái)"
+      },
+      {
+        "hindi": "रिश्तेदार",
+        "english": "Relatives (Họ hàng)"
+      },
+      {
+        "hindi": "परिवार",
+        "english": "Family (Gia đình)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Biết phân biệt anh/em, chị/em bằng cách dùng bada/chhota.",
+      "Học từ vựng về họ hàng (रिश्तेदार) và gia đình (परिवार).",
+      "Đặt được câu giới thiệu các thành viên trong gia đình."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 18",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Pain.",
+    "simpleRule": "Remember: Pain means दर्द (Đau)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pain",
+    "transliteration": "",
+    "english": "दर्द",
+    "vietnamese": "Đau",
+    "audio": "Pain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Don't bore me",
+    "transliteration": "",
+    "english": "पका मत",
+    "vietnamese": "Đừng làm tôi chán nữa",
+    "audio": "Don't bore me"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Pain'",
+    "prompt_en": "Choose correct translation for 'Pain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Pain'",
+    "text": "Pain",
+    "subtext": "",
+    "answer": "दर्द",
+    "answer_vi": "Đau",
+    "options": [
+      "दर्द",
+      "पका मत",
+      "जागना​​​​​​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đau",
+      "Đừng làm tôi chán nữa",
+      "Thức dậy",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Pain",
+        "english": "दर्द (Đau)"
+      },
+      {
+        "hindi": "Don't bore me",
+        "english": "पका मत (Đừng làm tôi chán nữa)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Also / Too.",
+    "simpleRule": "Remember: Also / Too means भी (Cũng vậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Also / Too",
+    "transliteration": "",
+    "english": "भी",
+    "vietnamese": "Cũng vậy",
+    "audio": "Also / Too"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Path / Way",
+    "transliteration": "",
+    "english": "रास्ता​​",
+    "vietnamese": "Đường đi",
+    "audio": "Path / Way"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cup",
+    "transliteration": "",
+    "english": "प्याला​​​​​​​",
+    "vietnamese": "Tách",
+    "audio": "Cup"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Also / Too'",
+    "prompt_en": "Choose correct translation for 'Also / Too'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Also / Too'",
+    "text": "Also / Too",
+    "subtext": "",
+    "answer": "भी",
+    "answer_vi": "Cũng vậy",
+    "options": [
+      "भी",
+      "सुनना​​​​​",
+      "रास्ता​​",
+      "प्याला​​​​​​​"
+    ],
+    "options_vi": [
+      "Cũng vậy",
+      "Nghe",
+      "Đường đi",
+      "Tách"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Also / Too",
+        "english": "भी (Cũng vậy)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Path / Way",
+        "english": "रास्ता​​ (Đường đi)"
+      },
+      {
+        "hindi": "Cup",
+        "english": "प्याला​​​​​​​ (Tách)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To wash.",
+    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wash'",
+    "prompt_en": "Choose correct translation for 'To wash'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
+    "text": "To wash",
+    "subtext": "",
+    "answer": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Rửa / Giặt",
+    "options": [
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हँसना​​​​​​​​​​​​​​​​​",
+      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Viết",
+      "Cười lớn",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Plate.",
+    "simpleRule": "Remember: Plate means थाली (Đĩa đựng thức ăn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Plate",
+    "transliteration": "",
+    "english": "थाली",
+    "vietnamese": "Đĩa đựng thức ăn",
+    "audio": "Plate"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Gurudwara",
+    "transliteration": "",
+    "english": "गुरुद्वारा",
+    "vietnamese": "Đền thờ đạo Sikh Gurudwara",
+    "audio": "Gurudwara"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Plate'",
+    "prompt_en": "Choose correct translation for 'Plate'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Plate'",
+    "text": "Plate",
+    "subtext": "",
+    "answer": "थाली",
+    "answer_vi": "Đĩa đựng thức ăn",
+    "options": [
+      "थाली",
+      "sिखाना​​​​​​",
+      "गुरुद्वारा",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đĩa đựng thức ăn",
+      "Dạy",
+      "Đền thờ đạo Sikh Gurudwara",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Plate",
+        "english": "थाली (Đĩa đựng thức ăn)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Gurudwara",
+        "english": "गुरुद्वारा (Đền thờ đạo Sikh Gurudwara)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Pain",
+    "translation_en": "दर्द",
+    "translation_vi": "Đau",
+    "options_en": [
+      "दर्द",
+      "पका मत",
+      "जागना​​​​​​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đau",
+      "Đừng làm tôi chán nữa",
+      "Thức dậy",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a दर्द / Nó là một Đau",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Pain"
+    ],
+    "correctHindiSentence": "It is a Pain"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like पका मत / Tôi thích Đừng làm tôi chán nữa",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Don't bore me"
+    ],
+    "correctHindiSentence": "I really like Don't bore me"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Pain and To write",
+      "Practiced constructing sentences."
+    ]
+  }
+]

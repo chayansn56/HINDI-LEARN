@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 84",
+    "description": "Master the vocabulary and grammar for: Episode 84. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 84",
+    "title_vi": "Tập 84",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To see / watch (देखना).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Nhìn / Xem."
+      },
+      {
+        "hindi": "Later, you encounter a To laugh (हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Cười lớn."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To see / watch",
+        "isCorrect": true
+      },
+      {
+        "text": "To laugh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To see / watch.",
+    "simpleRule": "Remember: To see / watch means देखना (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "सितारा",
+    "vietnamese": "Ngôi sao điện ảnh",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To see / watch'",
+    "prompt_en": "Choose correct translation for 'To see / watch'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
+    "text": "To see / watch",
+    "subtext": "",
+    "answer": "देखना",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "देखना",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​",
+      "सितारा"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Cười lớn",
+      "Biển",
+      "Ngôi sao điện ảnh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To see / watch",
+        "english": "देखना (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​ (Biển)"
+      },
+      {
+        "hindi": "Star",
+        "english": "सितारा (Ngôi sao điện ảnh)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To sing.",
+    "simpleRule": "Remember: To sing means गाना​​​​​​​​​​​​​​​​​​​​​​​ (Hát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Direction",
+    "transliteration": "",
+    "english": "ओर",
+    "vietnamese": "Hướng / Phía",
+    "audio": "Direction"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Path / Way",
+    "transliteration": "",
+    "english": "रास्ता​​​​",
+    "vietnamese": "Đường đi",
+    "audio": "Path / Way"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sing'",
+    "prompt_en": "Choose correct translation for 'To sing'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
+    "text": "To sing",
+    "subtext": "",
+    "answer": "गाना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hát",
+    "options": [
+      "गाना​​​​​​​​​​​​​​​​​​​​​​​",
+      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "ओर",
+      "रास्ता​​​​"
+    ],
+    "options_vi": [
+      "Hát",
+      "Cho / Tặng",
+      "Hướng / Phía",
+      "Đường đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "Direction",
+        "english": "ओर (Hướng / Phía)"
+      },
+      {
+        "hindi": "Path / Way",
+        "english": "रास्ता​​​​ (Đường đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Cloud.",
+    "simpleRule": "Remember: Cloud means बादल​​​​​​​​​ (Đám mây)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​​​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Gold",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Vàng",
+    "audio": "Gold"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cloud'",
+    "prompt_en": "Choose correct translation for 'Cloud'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
+    "text": "Cloud",
+    "subtext": "",
+    "answer": "बादल​​​​​​​​​",
+    "answer_vi": "Đám mây",
+    "options": [
+      "बादल​​​​​​​​​",
+      "खेलना​​​​​​​​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Chơi",
+      "Vàng",
+      "Hát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​​​​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Gold",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​ (Vàng)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To see / watch",
+    "translation_en": "देखना",
+    "translation_vi": "Nhìn / Xem",
+    "options_en": [
+      "देखना",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​",
+      "सितारा"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Cười lớn",
+      "Biển",
+      "Ngôi sao điện ảnh"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the देखना / Tôi thấy Nhìn / Xem",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To see / watch"
+    ],
+    "correctHindiSentence": "I see the To see / watch"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Cười lớn",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To laugh"
+    ],
+    "correctHindiSentence": "I want a To laugh"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To see / watch and To sing",
+      "Practiced constructing sentences."
+    ]
+  }
+]

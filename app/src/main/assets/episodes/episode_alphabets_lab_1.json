@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 1",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 1. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सकता है.",
+    "simpleRule": "Remember: सकता है means Can / Able to (Có thể)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सकता है",
+    "transliteration": "saktā hai",
+    "english": "Can / Able to",
+    "vietnamese": "Có thể",
+    "audio": "सकता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जागना​​​​",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साफ करना​​​",
+    "transliteration": "sāf karnā",
+    "english": "To clean",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "साफ करना​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सकता है'",
+    "prompt_en": "Choose correct translation for 'सकता है'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सकता है'",
+    "text": "सकता है",
+    "subtext": "saktā hai",
+    "answer": "Can / Able to",
+    "answer_vi": "Có thể",
+    "options": [
+      "Can / Able to",
+      "To wake up",
+      "To read",
+      "To clean"
+    ],
+    "options_vi": [
+      "Có thể",
+      "Thức dậy",
+      "Đọc",
+      "Dọn dẹp / Lau chùi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सकता है",
+        "english": "Can / Able to (Có thể)"
+      },
+      {
+        "hindi": "जागना​​​​",
+        "english": "To wake up (Thức dậy)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "साफ करना​​​",
+        "english": "To clean (Dọn dẹp / Lau chùi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: लेना​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: लेना​​​​​​​​​​​​​​​​​​​​​​​​​ means To take (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के विरुद्ध",
+    "transliteration": "ke viruddh",
+    "english": "against",
+    "vietnamese": "Chống lại / Phản đối",
+    "audio": "के विरुद्ध"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शहर​​​​​​​​​",
+    "transliteration": "shahar",
+    "english": "City",
+    "vietnamese": "Thành phố",
+    "audio": "शहर​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लेना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'लेना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लेना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "lenā",
+    "answer": "To take",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "To take",
+      "against",
+      "City",
+      "Cloud"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Chống lại / Phản đối",
+      "Thành phố",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      },
+      {
+        "hindi": "के विरुद्ध",
+        "english": "against (Chống lại / Phản đối)"
+      },
+      {
+        "hindi": "शहर​​​​​​​​​",
+        "english": "City (Thành phố)"
+      },
+      {
+        "hindi": "बादल​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सकता है",
+    "translation_en": "Can / Able to",
+    "translation_vi": "Có thể",
+    "options_en": [
+      "Can / Able to",
+      "To wake up",
+      "To read",
+      "To clean"
+    ],
+    "options_vi": [
+      "Có thể",
+      "Thức dậy",
+      "Đọc",
+      "Dọn dẹp / Lau chùi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Can / Able to / Đây là Có thể",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "सकता है",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक सकता है है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To wake up / Tôi thấy Thức dậy",
+    "hindiWords": [
+      "मैं",
+      "जागना​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं जागना​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: सकता है, बादल​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

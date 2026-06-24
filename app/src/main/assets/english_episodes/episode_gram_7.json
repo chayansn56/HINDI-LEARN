@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Level 7",
+    "description": "Master the vocabulary and grammar for: Gram - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn gram concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Knowledge.",
+    "simpleRule": "Remember: Knowledge means विद्या (Kiến thức)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Knowledge",
+    "transliteration": "",
+    "english": "विद्या",
+    "vietnamese": "Kiến thức",
+    "audio": "Knowledge"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I know",
+    "transliteration": "",
+    "english": "मुझे पता है",
+    "vietnamese": "Tôi biết",
+    "audio": "I know"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Knowledge'",
+    "prompt_en": "Choose correct translation for 'Knowledge'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Knowledge'",
+    "text": "Knowledge",
+    "subtext": "",
+    "answer": "विद्या",
+    "answer_vi": "Kiến thức",
+    "options": [
+      "विद्या",
+      "बर्फ़​​​​​​​",
+      "बर्फ़​​​​",
+      "मुझे पता है"
+    ],
+    "options_vi": [
+      "Kiến thức",
+      "Tuyết / Đá",
+      "Tuyết / Đá",
+      "Tôi biết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Knowledge",
+        "english": "विद्या (Kiến thức)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "I know",
+        "english": "मुझे पता है (Tôi biết)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: As for / Then.",
+    "simpleRule": "Remember: As for / Then means तो (Thì / Vậy thì)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "As for / Then",
+    "transliteration": "",
+    "english": "तो",
+    "vietnamese": "Thì / Vậy thì",
+    "audio": "As for / Then"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "before (time)",
+    "transliteration": "",
+    "english": "के पहले",
+    "vietnamese": "Trước khi (thời gian)",
+    "audio": "before (time)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to know",
+    "transliteration": "",
+    "english": "जानना",
+    "vietnamese": "Biết",
+    "audio": "to know"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'As for / Then'",
+    "prompt_en": "Choose correct translation for 'As for / Then'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'As for / Then'",
+    "text": "As for / Then",
+    "subtext": "",
+    "answer": "तो",
+    "answer_vi": "Thì / Vậy thì",
+    "options": [
+      "तो",
+      "बर्फ़​​​​​​",
+      "के पहले",
+      "जानना"
+    ],
+    "options_vi": [
+      "Thì / Vậy thì",
+      "Tuyết / Đá",
+      "Trước khi (thời gian)",
+      "Biết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "As for / Then",
+        "english": "तो (Thì / Vậy thì)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "before (time)",
+        "english": "के पहले (Trước khi (thời gian))"
+      },
+      {
+        "hindi": "to know",
+        "english": "जानना (Biết)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: I don't know.",
+    "simpleRule": "Remember: I don't know means मुझे नहीं मालूम (Tôi không biết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know",
+    "transliteration": "",
+    "english": "मुझे नहीं मालूम",
+    "vietnamese": "Tôi không biết",
+    "audio": "I don't know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do a U-turn / go back on word",
+    "transliteration": "",
+    "english": "पलटी मारना",
+    "vietnamese": "Lật lọng / Nuốt lời",
+    "audio": "To do a U-turn / go back on word"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Just then / That is why",
+    "transliteration": "",
+    "english": "तभी",
+    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "audio": "Just then / That is why"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Time",
+    "transliteration": "",
+    "english": "समय",
+    "vietnamese": "Thời gian",
+    "audio": "Time"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I don't know'",
+    "prompt_en": "Choose correct translation for 'I don't know'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I don't know'",
+    "text": "I don't know",
+    "subtext": "",
+    "answer": "मुझे नहीं मालूम",
+    "answer_vi": "Tôi không biết",
+    "options": [
+      "मुझे नहीं मालूम",
+      "पलटी मारना",
+      "तभी",
+      "समय"
+    ],
+    "options_vi": [
+      "Tôi không biết",
+      "Lật lọng / Nuốt lời",
+      "Ngay lúc đó / Chính vì vậy",
+      "Thời gian"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I don't know",
+        "english": "मुझे नहीं मालूम (Tôi không biết)"
+      },
+      {
+        "hindi": "To do a U-turn / go back on word",
+        "english": "पलटी मारना (Lật lọng / Nuốt lời)"
+      },
+      {
+        "hindi": "Just then / That is why",
+        "english": "तभी (Ngay lúc đó / Chính vì vậy)"
+      },
+      {
+        "hindi": "Time",
+        "english": "समय (Thời gian)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Sentence.",
+    "simpleRule": "Remember: Sentence means वाक्य (Câu)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sentence",
+    "transliteration": "",
+    "english": "वाक्य",
+    "vietnamese": "Câu",
+    "audio": "Sentence"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know.",
+    "transliteration": "",
+    "english": "पता नहीं।",
+    "vietnamese": "Tôi không biết.",
+    "audio": "I don't know."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What time is it?",
+    "transliteration": "",
+    "english": "क्या समय हुआ है?",
+    "vietnamese": "Mấy giờ rồi?",
+    "audio": "What time is it?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sentence'",
+    "prompt_en": "Choose correct translation for 'Sentence'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sentence'",
+    "text": "Sentence",
+    "subtext": "",
+    "answer": "वाक्य",
+    "answer_vi": "Câu",
+    "options": [
+      "वाक्य",
+      "पता नहीं।",
+      "बर्फ़​​​​​​​​​​",
+      "क्या समय हुआ है?"
+    ],
+    "options_vi": [
+      "Câu",
+      "Tôi không biết.",
+      "Tuyết / Đá",
+      "Mấy giờ rồi?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sentence",
+        "english": "वाक्य (Câu)"
+      },
+      {
+        "hindi": "I don't know.",
+        "english": "पता नहीं। (Tôi không biết.)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "What time is it?",
+        "english": "क्या समय हुआ है? (Mấy giờ rồi?)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Knowledge",
+    "translation_en": "विद्या",
+    "translation_vi": "Kiến thức",
+    "options_en": [
+      "विद्या",
+      "बर्फ़​​​​​​​",
+      "बर्फ़​​​​",
+      "मुझे पता है"
+    ],
+    "options_vi": [
+      "Kiến thức",
+      "Tuyết / Đá",
+      "Tuyết / Đá",
+      "Tôi biết"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a विद्या / Nó là một Kiến thức",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Knowledge"
+    ],
+    "correctHindiSentence": "It is a Knowledge"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बर्फ़​​​​​​​ / Tôi thích Tuyết / Đá",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "I really like Snow / Ice"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Knowledge and What time is it?",
+      "Practiced constructing sentences."
+    ]
+  }
+]

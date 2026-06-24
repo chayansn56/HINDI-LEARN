@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Lesson 2",
-    "description": "Learn key vocabulary and concepts for Gram - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "title": "Gram - Level 2",
+    "description": "Master the vocabulary and grammar for: Gram - Level 2. Read the key points carefully.",
     "keyPoints": [
-      "सफ़र​​ (safar) = Journey / Chuyến đi",
-      "समुद्र​​​​​​ (samudra) = Sea / Ocean / Biển",
-      "गाँव​​ (gā̃v) = Village / Ngôi làng"
+      "Learn gram concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 2",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: सफ़र​​ means 'Journey' (Chuyến đi)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​",
-    "transliteration": "safar",
-    "english": "Journey",
-    "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​"
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
   },
   {
     "type": "Flashcard",
-    "hindi": "समुद्र​​​​​​",
-    "transliteration": "samudra",
-    "english": "Sea / Ocean",
-    "vietnamese": "Biển",
-    "audio": "समुद्र​​​​​​"
+    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sikhānā",
+    "english": "To teach",
+    "vietnamese": "Dạy",
+    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के कारण",
+    "transliteration": "ke kaaran",
+    "english": "due to / because of",
+    "vietnamese": "Bởi vì / Do",
+    "audio": "के कारण"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आपसे मिलकर बहुत खुशी हुई।",
+    "transliteration": "aapse milkar bahut khushi hui",
+    "english": "It was a great pleasure meeting you.",
+    "vietnamese": "Rất vui được gặp ngài.",
+    "audio": "आपसे मिलकर बहुत खुशी हुई।"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सफ़र​​'",
-    "prompt_en": "Choose the correct translation for 'सफ़र​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​'",
-    "text": "सफ़र​​",
-    "subtext": "safar",
-    "answer": "Journey",
-    "answer_vi": "Chuyến đi",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
     "options": [
-      "Journey",
-      "Sea / Ocean",
-      "Village",
-      "to know"
+      "Love (intense)",
+      "To teach",
+      "due to / because of",
+      "It was a great pleasure meeting you."
     ],
     "options_vi": [
-      "Chuyến đi",
-      "Biển",
-      "Ngôi làng",
-      "Biết"
+      "Tình yêu sâu đậm",
+      "Dạy",
+      "Bởi vì / Do",
+      "Rất vui được gặp ngài."
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "गाँव​​",
-    "transliteration": "gā̃v",
-    "english": "Village",
-    "vietnamese": "Ngôi làng",
-    "audio": "गाँव​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To teach (Dạy)"
+      },
+      {
+        "hindi": "के कारण",
+        "english": "due to / because of (Bởi vì / Do)"
+      },
+      {
+        "hindi": "आपसे मिलकर बहुत खुशी हुई।",
+        "english": "It was a great pleasure meeting you. (Rất vui được gặp ngài.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बग़ीचा.",
+    "simpleRule": "Remember: बग़ीचा means Garden (Khu vườn)."
   },
   {
     "type": "Flashcard",
-    "hindi": "जानना",
-    "transliteration": "jaanna",
-    "english": "to know",
-    "vietnamese": "Biết",
-    "audio": "जानना"
+    "hindi": "बग़ीचा",
+    "transliteration": "bagīcā",
+    "english": "Garden",
+    "vietnamese": "Khu vườn",
+    "audio": "बग़ीचा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्रेम",
+    "transliteration": "prem",
+    "english": "Love (pure)",
+    "vietnamese": "Tình yêu thuần khiết",
+    "audio": "प्रेम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होटल",
+    "transliteration": "hotel",
+    "english": "Hotel",
+    "vietnamese": "Khách sạn",
+    "audio": "होटल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दौड़ना​​​​​​​​​​",
+    "transliteration": "dauṛnā",
+    "english": "To run",
+    "vietnamese": "Chạy",
+    "audio": "दौड़ना​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बग़ीचा'",
+    "prompt_en": "Choose correct translation for 'बग़ीचा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बग़ीचा'",
+    "text": "बग़ीचा",
+    "subtext": "bagīcā",
+    "answer": "Garden",
+    "answer_vi": "Khu vườn",
+    "options": [
+      "Garden",
+      "Love (pure)",
+      "Hotel",
+      "To run"
+    ],
+    "options_vi": [
+      "Khu vườn",
+      "Tình yêu thuần khiết",
+      "Khách sạn",
+      "Chạy"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सफ़र​​",
-        "english": "Journey (Chuyến đi)"
+        "hindi": "बग़ीचा",
+        "english": "Garden (Khu vườn)"
       },
       {
-        "hindi": "समुद्र​​​​​​",
-        "english": "Sea / Ocean (Biển)"
+        "hindi": "प्रेम",
+        "english": "Love (pure) (Tình yêu thuần khiết)"
       },
       {
-        "hindi": "गाँव​​",
-        "english": "Village (Ngôi làng)"
+        "hindi": "होटल",
+        "english": "Hotel (Khách sạn)"
       },
       {
-        "hindi": "जानना",
-        "english": "to know (Biết)"
+        "hindi": "दौड़ना​​​​​​​​​​",
+        "english": "To run (Chạy)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "समुद्र​​​​​​",
-    "translation_en": "Sea / Ocean",
-    "translation_vi": "Biển",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
     "options_en": [
-      "Village",
-      "to know",
-      "Sea / Ocean",
-      "Journey"
+      "Love (intense)",
+      "To teach",
+      "due to / because of",
+      "It was a great pleasure meeting you."
     ],
     "options_vi": [
-      "Ngôi làng",
-      "Biết",
-      "Biển",
-      "Chuyến đi"
+      "Tình yêu sâu đậm",
+      "Dạy",
+      "Bởi vì / Do",
+      "Rất vui được gặp ngài."
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
     "hindiWords": [
-      "लड़का",
-      "तेज़",
-      "दौड़ता",
-      "है",
-      "लड़की",
-      "धीमे"
-    ],
-    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "जूता​​​​",
-    "transliteration": "jūtā",
-    "english": "Shoe",
-    "vietnamese": "Giày",
-    "audio": "जूता​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बर्फ़​​​​​",
-    "transliteration": "barf",
-    "english": "Snow / Ice",
-    "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "गाँव​​",
-        "english": "Village (Ngôi làng)"
-      },
-      {
-        "hindi": "जानना",
-        "english": "to know (Biết)"
-      },
-      {
-        "hindi": "जूता​​​​",
-        "english": "Shoe (Giày)"
-      },
-      {
-        "hindi": "बर्फ़​​​​​",
-        "english": "Snow / Ice (Tuyết / Đá)"
-      }
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I am a boy / Tôi là một cậu bé",
-    "hindiWords": [
-      "मैं",
-      "लड़का",
-      "हूँ",
-      "लड़की",
+      "यह",
+      "एक",
+      "इश्क़",
       "है"
     ],
-    "correctHindiSentence": "मैं लड़का हूँ"
+    "correctHindiSentence": "यह एक इश्क़ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To teach / Tôi thấy Dạy",
+    "hindiWords": [
+      "मैं",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं sिखाना​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: सफ़र​​, गाँव​​, जूता​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I am a boy'."
+      "You learned: इश्क़, दौड़ना​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Write - Lesson 6",
-    "description": "Learn key vocabulary and concepts for Write - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "title": "Write - Level 6",
+    "description": "Master the vocabulary and grammar for: Write - Level 6. Read the key points carefully.",
     "keyPoints": [
-      "३ (teen) = 3 / Ba",
-      "मिट्टी​​​​​​ (miṭṭī) = Soil / Earth / Đất",
-      "बादल​​​​​​​​ (bādal) = Cloud / Đám mây"
+      "Learn write concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 6",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: ३ means '3' (Ba)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To write (Viết)."
   },
   {
     "type": "Flashcard",
-    "hindi": "३",
-    "transliteration": "teen",
-    "english": "3",
-    "vietnamese": "Ba",
-    "audio": "३"
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​",
-    "transliteration": "miṭṭī",
-    "english": "Soil / Earth",
-    "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​"
+    "hindi": "लिखना​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate '३'",
-    "prompt_en": "Choose the correct translation for '३'",
-    "prompt_vi": "Chọn bản dịch đúng cho '३'",
-    "text": "३",
-    "subtext": "teen",
-    "answer": "3",
-    "answer_vi": "Ba",
+    "prompt": "Translate 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "likhnā",
+    "answer": "To write",
+    "answer_vi": "Viết",
     "options": [
-      "3",
-      "Soil / Earth",
-      "30",
-      "Cloud"
+      "To write",
+      "To write",
+      "To open",
+      "To read"
     ],
     "options_vi": [
-      "Ba",
-      "Đất",
-      "Ba mươi",
-      "Đám mây"
+      "Viết",
+      "Viết",
+      "Mở",
+      "Đọc"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "बादल​​​​​​​​",
-    "transliteration": "bādal",
-    "english": "Cloud",
-    "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: खोलना​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: खोलना​​​​​​​​​​​​​​​​​​​​ means To open (Mở)."
   },
   {
     "type": "Flashcard",
-    "hindi": "३०",
-    "transliteration": "tees",
-    "english": "30",
-    "vietnamese": "Ba mươi",
-    "audio": "३०"
+    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पत्र",
+    "transliteration": "patra",
+    "english": "Letter (mail)",
+    "vietnamese": "Thư tay",
+    "audio": "पत्र"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'खोलना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'खोलना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खोलना​​​​​​​​​​​​​​​​​​​​'",
+    "text": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "kholnā",
+    "answer": "To open",
+    "answer_vi": "Mở",
+    "options": [
+      "To open",
+      "To write",
+      "To read",
+      "Letter (mail)"
+    ],
+    "options_vi": [
+      "Mở",
+      "Viết",
+      "Đọc",
+      "Thư tay"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "३",
-        "english": "3 (Ba)"
+        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
       },
       {
-        "hindi": "मिट्टी​​​​​​",
-        "english": "Soil / Earth (Đất)"
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "बादल​​​​​​​​",
-        "english": "Cloud (Đám mây)"
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
       },
       {
-        "hindi": "३०",
-        "english": "30 (Ba mươi)"
+        "hindi": "पत्र",
+        "english": "Letter (mail) (Thư tay)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "मिट्टी​​​​​​",
-    "translation_en": "Soil / Earth",
-    "translation_vi": "Đất",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To write",
+    "translation_vi": "Viết",
     "options_en": [
-      "Soil / Earth",
-      "30",
-      "Cloud",
-      "3"
+      "To write",
+      "To write",
+      "To open",
+      "To read"
     ],
     "options_vi": [
-      "Đất",
-      "Ba mươi",
-      "Đám mây",
-      "Ba"
+      "Viết",
+      "Viết",
+      "Mở",
+      "Đọc"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "englishSentence": "This is a To write / Đây là Viết",
     "hindiWords": [
-      "कृपया",
-      "दाम",
-      "कम",
-      "करो",
-      "ज्यादा",
-      "पैसे"
+      "यह",
+      "एक",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "कृपया दाम कम करो"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "आग​​​​​​​​​​",
-    "transliteration": "āg",
-    "english": "Fire",
-    "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सड़क​​​​​​​",
-    "transliteration": "saṛak",
-    "english": "Road",
-    "vietnamese": "Đường",
-    "audio": "सड़क​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "बादल​​​​​​​​",
-        "english": "Cloud (Đám mây)"
-      },
-      {
-        "hindi": "३०",
-        "english": "30 (Ba mươi)"
-      },
-      {
-        "hindi": "आग​​​​​​​​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "सड़क​​​​​​​",
-        "english": "Road (Đường)"
-      }
-    ]
+    "correctHindiSentence": "यह एक लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "What is your name? / Tên của bạn là gì?",
+    "englishSentence": "I see To write / Tôi thấy Viết",
     "hindiWords": [
-      "आपका",
-      "नाम",
-      "क्या",
-      "है",
-      "मेरा",
-      "लड़का"
+      "मैं",
+      "लिखना​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "आपका नाम क्या है"
+    "correctHindiSentence": "मैं लिखना​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: ३, बादल​​​​​​​​, आग​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'What is your name?'."
+      "You learned: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​, पत्र",
+      "Practiced constructing sentences."
     ]
   }
 ]

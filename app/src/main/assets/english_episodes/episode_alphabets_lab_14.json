@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 14",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 14. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Can / Able to.",
+    "simpleRule": "Remember: Can / Able to means सकता है (Có thể)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Can / Able to",
+    "transliteration": "",
+    "english": "सकता है",
+    "vietnamese": "Có thể",
+    "audio": "Can / Able to"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When (relative)",
+    "transliteration": "",
+    "english": "जब",
+    "vietnamese": "Khi mà",
+    "audio": "When (relative)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please speak slowly.",
+    "transliteration": "",
+    "english": "कृपया धीरे बोलिए।",
+    "vietnamese": "Làm ơn nói chậm lại.",
+    "audio": "Please speak slowly."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Can / Able to'",
+    "prompt_en": "Choose correct translation for 'Can / Able to'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Can / Able to'",
+    "text": "Can / Able to",
+    "subtext": "",
+    "answer": "सकता है",
+    "answer_vi": "Có thể",
+    "options": [
+      "सकता है",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "जब",
+      "कृपया धीरे बोलिए।"
+    ],
+    "options_vi": [
+      "Có thể",
+      "Mua",
+      "Khi mà",
+      "Làm ơn nói chậm lại."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Can / Able to",
+        "english": "सकता है (Có thể)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "When (relative)",
+        "english": "जब (Khi mà)"
+      },
+      {
+        "hindi": "Please speak slowly.",
+        "english": "कृपया धीरे बोलिए। (Làm ơn nói chậm lại.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Whom (relative singular).",
+    "simpleRule": "Remember: Whom (relative singular) means जिसे (Người mà (số ít))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative singular)",
+    "transliteration": "",
+    "english": "जिसे",
+    "vietnamese": "Người mà (số ít)",
+    "audio": "Whom (relative singular)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Whom (relative singular)'",
+    "prompt_en": "Choose correct translation for 'Whom (relative singular)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Whom (relative singular)'",
+    "text": "Whom (relative singular)",
+    "subtext": "",
+    "answer": "जिसे",
+    "answer_vi": "Người mà (số ít)",
+    "options": [
+      "जिसे",
+      "हँसना​​​​​​​​​​",
+      "खेलना​​​​​​​​​​​​​",
+      "कापी​​​​"
+    ],
+    "options_vi": [
+      "Người mà (số ít)",
+      "Cười lớn",
+      "Chơi",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Whom (relative singular)",
+        "english": "जिसे (Người mà (số ít))"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Sea / Ocean.",
+    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​ (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sea / Ocean'",
+    "prompt_en": "Choose correct translation for 'Sea / Ocean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
+    "text": "Sea / Ocean",
+    "subtext": "",
+    "answer": "समुद्र​​​",
+    "answer_vi": "Biển",
+    "options": [
+      "समुद्र​​​",
+      "साफ करना",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Biển",
+      "Dọn dẹp / Lau chùi",
+      "Đứng",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​ (Biển)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​​​​​​​​​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Your (feminine formal)",
+    "transliteration": "",
+    "english": "आपकी",
+    "vietnamese": "Của ngài / của anh/chị (giống cái)",
+    "audio": "Your (feminine formal)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​",
+      "बंद करना​​​​​​​​​​​",
+      "आपकी"
+    ],
+    "options_vi": [
+      "Nói",
+      "Nói",
+      "Đóng",
+      "Của ngài / của anh/chị (giống cái)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​ (Nói)"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​​​​​​​​​​ (Đóng)"
+      },
+      {
+        "hindi": "Your (feminine formal)",
+        "english": "आपकी (Của ngài / của anh/chị (giống cái))"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Can / Able to",
+    "translation_en": "सकता है",
+    "translation_vi": "Có thể",
+    "options_en": [
+      "सकता है",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "जब",
+      "कृपया धीरे बोलिए।"
+    ],
+    "options_vi": [
+      "Có thể",
+      "Mua",
+      "Khi mà",
+      "Làm ơn nói chậm lại."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सकता है / Nó là một Có thể",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Can / Able to"
+    ],
+    "correctHindiSentence": "It is a Can / Able to"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Mua",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To buy"
+    ],
+    "correctHindiSentence": "I really like To buy"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Can / Able to and Your (feminine formal)",
+      "Practiced constructing sentences."
+    ]
+  }
+]

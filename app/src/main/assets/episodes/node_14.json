@@ -1,0 +1,139 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 14: Culture - Indian Spices",
+    "description": "Khám phá thế giới gia vị Ấn Độ! Học tên gọi các loại gia vị phổ biến: Nghệ, Thì là, Bạch đậu khấu.",
+    "keyPoints": [
+      "मसाले (masale): Gia vị",
+      "हल्दी (haldi): Nghệ",
+      "जीरा (jeera): Thì là",
+      "इलायची (elaichi): Bạch đậu khấu"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Danh từ số nhiều của gia vị",
+    "explanation": "Từ 'masala' (gia vị - số ít) chuyển thành 'masale' (các gia vị - số nhiều). Nhiều loại gia vị Ấn Độ mang giống cái như Haldi và Elaichi.",
+    "simpleRule": "मसाला (số ít) → मसाले (số nhiều)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मसाले",
+    "transliteration": "masale",
+    "english": "Spices",
+    "vietnamese": "Gia vị",
+    "audio": "मसाले"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हल्दी",
+    "transliteration": "haldi",
+    "english": "Turmeric",
+    "vietnamese": "Nghệ",
+    "audio": "हल्दी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जीरा",
+    "transliteration": "jeera",
+    "english": "Cumin",
+    "vietnamese": "Thì là",
+    "audio": "जीरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इलायची",
+    "transliteration": "elaichi",
+    "english": "Cardamom",
+    "vietnamese": "Bạch đậu khấu",
+    "audio": "इलायची"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "हल्दी",
+    "translation": "Turmeric / Nghệ",
+    "contextSentenceHindi": "हल्दी पीली होती है।",
+    "contextSentenceTranslation": "Turmeric is yellow. / Nghệ có màu vàng.",
+    "memoryTrick": "Haldi - hãy nhớ đến lễ hội cưới Haldi nổi tiếng của Ấn Độ, nơi mọi người bôi bột nghệ vàng lên mặt!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "जीरा",
+    "subtext": "jeera",
+    "answer": "Cumin",
+    "answer_vi": "Thì là",
+    "options": [
+      "Cumin",
+      "Turmeric",
+      "Cardamom",
+      "Salt"
+    ],
+    "options_vi": [
+      "Thì là",
+      "Nghệ",
+      "Bạch đậu khấu",
+      "Muối"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "इलायची",
+    "translation_en": "Cardamom",
+    "options_en": [
+      "Cardamom",
+      "Cumin",
+      "Turmeric",
+      "Pepper"
+    ],
+    "translation_vi": "Bạch đậu khấu",
+    "options_vi": [
+      "Bạch đậu khấu",
+      "Thì là",
+      "Nghệ",
+      "Tiêu"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'Spices are good.' / Dịch: 'Gia vị rất tốt.'",
+    "hindiWords": [
+      "अच्छे",
+      "मसाले",
+      "हैं"
+    ],
+    "correctHindiSentence": "मसाले अच्छे हैं"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "हल्दी",
+        "english": "Turmeric (Nghệ)"
+      },
+      {
+        "hindi": "जीरा",
+        "english": "Cumin (Thì là)"
+      },
+      {
+        "hindi": "इलायची",
+        "english": "Cardamom (Bạch đậu khấu)"
+      },
+      {
+        "hindi": "मसाले",
+        "english": "Spices (Gia vị)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Nhận biết các loại gia vị cơ bản trong ẩm thực Ấn Độ.",
+      "Học cách phát âm chính xác các từ: हल्दी, जीरा, इलायची.",
+      "Hiểu thêm về tầm quan trọng của gia vị trong văn hóa Ấn."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 4",
+    "description": "Master the vocabulary and grammar for: Travel - Level 4. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Journey.",
+    "simpleRule": "Remember: Journey means सफ़र​​ (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bus stop",
+    "transliteration": "",
+    "english": "बस स्टैंड",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "Bus stop"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Journey'",
+    "prompt_en": "Choose correct translation for 'Journey'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
+    "text": "Journey",
+    "subtext": "",
+    "answer": "सफ़र​​",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "सफ़र​​",
+      "बस स्टैंड",
+      "सफ़र​​​​​​",
+      "सफ़र​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Trạm xe buýt",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Bus stop",
+        "english": "बस स्टैंड (Trạm xe buýt)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Journey.",
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hotel",
+    "transliteration": "",
+    "english": "होटल",
+    "vietnamese": "Khách sạn",
+    "audio": "Hotel"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bathroom",
+    "transliteration": "",
+    "english": "बाथरूम",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "Bathroom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Journey'",
+    "prompt_en": "Choose correct translation for 'Journey'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
+    "text": "Journey",
+    "subtext": "",
+    "answer": "सफ़र",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "सफ़र",
+      "होटल",
+      "बाथरूम",
+      "सफ़र​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Khách sạn",
+      "Nhà tắm / Toilet",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Journey",
+        "english": "सफ़र (Chuyến đi)"
+      },
+      {
+        "hindi": "Hotel",
+        "english": "होटल (Khách sạn)"
+      },
+      {
+        "hindi": "Bathroom",
+        "english": "बाथरूम (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Strong / Robust / Awesome.",
+    "simpleRule": "Remember: Strong / Robust / Awesome means तगड़ा (Mạnh mẽ / Tuyệt vời)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Strong / Robust / Awesome",
+    "transliteration": "",
+    "english": "तगड़ा",
+    "vietnamese": "Mạnh mẽ / Tuyệt vời",
+    "audio": "Strong / Robust / Awesome"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Restroom / Toilet",
+    "transliteration": "",
+    "english": "शौचालय",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "Restroom / Toilet"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Strong / Robust / Awesome'",
+    "prompt_en": "Choose correct translation for 'Strong / Robust / Awesome'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Strong / Robust / Awesome'",
+    "text": "Strong / Robust / Awesome",
+    "subtext": "",
+    "answer": "तगड़ा",
+    "answer_vi": "Mạnh mẽ / Tuyệt vời",
+    "options": [
+      "तगड़ा",
+      "सफ़र​​​​​​​",
+      "सफ़र​​​",
+      "शौचालय"
+    ],
+    "options_vi": [
+      "Mạnh mẽ / Tuyệt vời",
+      "Chuyến đi",
+      "Chuyến đi",
+      "Nhà vệ sinh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Strong / Robust / Awesome",
+        "english": "तगड़ा (Mạnh mẽ / Tuyệt vời)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Restroom / Toilet",
+        "english": "शौचालय (Nhà vệ sinh)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Ticket.",
+    "simpleRule": "Remember: Ticket means टिकट (Vé)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ticket",
+    "transliteration": "",
+    "english": "टिकट",
+    "vietnamese": "Vé",
+    "audio": "Ticket"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the station?",
+    "transliteration": "",
+    "english": "स्टेशन कहाँ है?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "Where is the station?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vacant room",
+    "transliteration": "",
+    "english": "खाली कमरा",
+    "vietnamese": "Phòng trống",
+    "audio": "Vacant room"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Ticket'",
+    "prompt_en": "Choose correct translation for 'Ticket'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Ticket'",
+    "text": "Ticket",
+    "subtext": "",
+    "answer": "टिकट",
+    "answer_vi": "Vé",
+    "options": [
+      "टिकट",
+      "स्टेशन कहाँ है?",
+      "खाली कमरा",
+      "सफ़र​​​​"
+    ],
+    "options_vi": [
+      "Vé",
+      "Nhà ga ở đâu?",
+      "Phòng trống",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Ticket",
+        "english": "टिकट (Vé)"
+      },
+      {
+        "hindi": "Where is the station?",
+        "english": "स्टेशन कहाँ है? (Nhà ga ở đâu?)"
+      },
+      {
+        "hindi": "Vacant room",
+        "english": "खाली कमरा (Phòng trống)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Journey",
+    "translation_en": "सफ़र​​",
+    "translation_vi": "Chuyến đi",
+    "options_en": [
+      "सफ़र​​",
+      "बस स्टैंड",
+      "सफ़र​​​​​​",
+      "सफ़र​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Trạm xe buýt",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सफ़र​​ / Nó là một Chuyến đi",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Journey"
+    ],
+    "correctHindiSentence": "It is a Journey"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बस स्टैंड / Tôi thích Trạm xe buýt",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Bus stop"
+    ],
+    "correctHindiSentence": "I really like Bus stop"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Journey and Journey",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,75 +1,304 @@
 [
   {
     "type": "Introduction",
-    "title": "Making Friends",
-    "description": "Học cách hỏi tên người khác và giới thiệu bản thân một cách tự tin khi kết bạn mới.",
+    "title": "Episode 6",
+    "description": "Master the vocabulary and grammar for: Episode 6. Read the key points carefully.",
     "keyPoints": [
-      "Hỏi tên: 'What is your name?'",
-      "Trả lời tên: 'My name is Lan.'"
+      "Foundation Practice"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "Making Friends",
-    "title_vi": "Làm quen bạn mới",
-    "paragraphs": [
-      {
-        "hindi": "What is your name?",
-        "translation": "Tên bạn là gì?"
-      },
-      {
-        "hindi": "My name is Lan.",
-        "translation": "Tên tôi là Lan."
-      }
-    ],
-    "question_en": "How do you ask someone for their name?",
-    "question_vi": "Làm thế nào để hỏi tên của ai đó?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To wash.",
+    "simpleRule": "Remember: To wash means धोना​​​​​​​​ (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Consumer",
+    "transliteration": "",
+    "english": "उपभोक्ता",
+    "vietnamese": "Người tiêu dùng",
+    "audio": "Consumer"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wash'",
+    "prompt_en": "Choose correct translation for 'To wash'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
+    "text": "To wash",
+    "subtext": "",
+    "answer": "धोना​​​​​​​​",
+    "answer_vi": "Rửa / Giặt",
     "options": [
+      "धोना​​​​​​​​",
+      "रोना​​​​​​​​​​​",
+      "उपभोक्ता",
+      "बनाना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Khóc",
+      "Người tiêu dùng",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "What is your name?",
-        "isCorrect": true
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​ (Rửa / Giặt)"
       },
       {
-        "text": "My name is Lan.",
-        "isCorrect": false
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Consumer",
+        "english": "उपभोक्ता (Người tiêu dùng)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​ (Chế tạo / Tạo ra)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Asking and Telling Names",
-    "explanation": "Sử dụng 'What is your name?' để hỏi và 'My name is [Tên]' để giới thiệu bản thân.",
-    "simpleRule": "What is your name? = Tên bạn là gì? / My name is... = Tên tôi là..."
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Ram Ram (greeting).",
+    "simpleRule": "Remember: Ram Ram (greeting) means राम राम (Chào hỏi bằng danh xưng thần Ram)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "name",
-    "translation": "tên",
-    "contextSentenceHindi": "What is your name?",
-    "contextSentenceTranslation": "Tên bạn là gì?",
-    "memoryTrick": "Name phát âm gần giống 'nêm' nhưng kéo dài âm 'm'."
+    "type": "Flashcard",
+    "hindi": "Ram Ram (greeting)",
+    "transliteration": "",
+    "english": "राम राम",
+    "vietnamese": "Chào hỏi bằng danh xưng thần Ram",
+    "audio": "Ram Ram (greeting)"
   },
   {
-    "type": "Listening",
-    "audio": "My name is Lan.",
-    "translation_en": "My name is Lan.",
-    "options_en": [
-      "My name is Lan.",
-      "What is your name?",
-      "Hello",
-      "How are you?"
+    "type": "Flashcard",
+    "hindi": "Eight",
+    "transliteration": "",
+    "english": "आठ",
+    "vietnamese": "Số tám",
+    "audio": "Eight"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "City",
+    "transliteration": "",
+    "english": "शहर​​​​",
+    "vietnamese": "Thành phố",
+    "audio": "City"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Ram Ram (greeting)'",
+    "prompt_en": "Choose correct translation for 'Ram Ram (greeting)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Ram Ram (greeting)'",
+    "text": "Ram Ram (greeting)",
+    "subtext": "",
+    "answer": "राम राम",
+    "answer_vi": "Chào hỏi bằng danh xưng thần Ram",
+    "options": [
+      "राम राम",
+      "आठ",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "शहर​​​​"
     ],
-    "translation_vi": "Tên tôi là Lan.",
     "options_vi": [
-      "Tên tôi là Lan.",
-      "Tên bạn là gì?",
-      "Xin chào",
-      "Bạn khỏe không?"
+      "Chào hỏi bằng danh xưng thần Ram",
+      "Số tám",
+      "Ngồi",
+      "Thành phố"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "What is your name?",
-    "translation": "Tên bạn là gì?"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Ram Ram (greeting)",
+        "english": "राम राम (Chào hỏi bằng danh xưng thần Ram)"
+      },
+      {
+        "hindi": "Eight",
+        "english": "आठ (Số tám)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "City",
+        "english": "शहर​​​​ (Thành phố)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To make / build.",
+    "simpleRule": "Remember: To make / build means बनाना​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Remember.",
+    "transliteration": "",
+    "english": "याद रखना।",
+    "vietnamese": "Hãy nhớ lấy.",
+    "audio": "Remember."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To make / build'",
+    "prompt_en": "Choose correct translation for 'To make / build'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
+    "text": "To make / build",
+    "subtext": "",
+    "answer": "बनाना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "बनाना​​​​​​​​​​​​​​​​​​​​​​",
+      "देना​​​​​​​​​​​​​​",
+      "बैठना​​​​​​",
+      "याद रखना।"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Cho / Tặng",
+      "Ngồi",
+      "Hãy nhớ lấy."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "Remember.",
+        "english": "याद रखना। (Hãy nhớ lấy.)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To wash",
+    "translation_en": "धोना​​​​​​​​",
+    "translation_vi": "Rửa / Giặt",
+    "options_en": [
+      "धोना​​​​​​​​",
+      "रोना​​​​​​​​​​​",
+      "उपभोक्ता",
+      "बनाना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Khóc",
+      "Người tiêu dùng",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a धोना​​​​​​​​ / Tôi có một Rửa / Giặt",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "To wash"
+    ],
+    "correctHindiSentence": "I have a To wash"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a रोना​​​​​​​​​​​ / Đây là một Khóc",
+    "hindiWords": [
+      "This",
+      "is",
+      "a",
+      "To cry"
+    ],
+    "correctHindiSentence": "This is a To cry"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To wash and Remember.",
+      "Practiced constructing sentences."
+    ]
   }
 ]

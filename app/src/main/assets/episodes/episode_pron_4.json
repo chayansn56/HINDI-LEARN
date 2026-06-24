@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Pron - Lesson 4",
-    "description": "Learn key vocabulary and concepts for Pron - Lesson 4. Listen carefully and read along in English and Vietnamese.",
+    "title": "Pron - Level 4",
+    "description": "Master the vocabulary and grammar for: Pron - Level 4. Read the key points carefully.",
     "keyPoints": [
-      "धोना​​ (dhonā) = To wash / Rửa / Giặt",
-      "रोना​​​​ (ronā) = To cry / Khóc",
-      "करवट (karvaṭ) = Sideways position / Nằm nghiêng"
+      "Learn pron concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 4",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: धोना​​ means 'To wash' (Rửa / Giặt)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "धोना​​",
-    "transliteration": "dhonā",
-    "english": "To wash",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "धोना​​"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'धोना​​'",
-    "prompt_en": "Choose the correct translation for 'धोना​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'धोना​​'",
-    "text": "धोना​​",
-    "subtext": "dhonā",
-    "answer": "To wash",
-    "answer_vi": "Rửa / Giặt",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
     "options": [
-      "To laugh",
-      "To wash",
-      "To cry",
-      "Sideways position"
+      "To speak",
+      "To speak",
+      "To listen / hear",
+      "To speak"
     ],
     "options_vi": [
-      "Cười lớn",
-      "Rửa / Giặt",
-      "Khóc",
-      "Nằm nghiêng"
+      "Nói",
+      "Nói",
+      "Nghe",
+      "Nói"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "करवट",
-    "transliteration": "karvaṭ",
-    "english": "Sideways position",
-    "vietnamese": "Nằm nghiêng",
-    "audio": "करवट"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पलटी मारना",
+    "transliteration": "palti maarna",
+    "english": "To do a U-turn / go back on word",
+    "vietnamese": "Lật lọng / Nuốt lời",
+    "audio": "पलटी मारना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To speak",
+      "To do a U-turn / go back on word",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nói",
+      "Lật lọng / Nuốt lời",
+      "Nghe"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "धोना​​",
-        "english": "To wash (Rửa / Giặt)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "रोना​​​​",
-        "english": "To cry (Khóc)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "करवट",
-        "english": "Sideways position (Nằm nghiêng)"
+        "hindi": "पलटी मारना",
+        "english": "To do a U-turn / go back on word (Lật lọng / Nuốt lời)"
       },
       {
-        "hindi": "हँसना​​​​​",
-        "english": "To laugh (Cười lớn)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "रोना​​​​",
-    "translation_en": "To cry",
-    "translation_vi": "Khóc",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To speak",
+    "translation_vi": "Nói",
     "options_en": [
-      "To laugh",
-      "Sideways position",
-      "To cry",
-      "To wash"
+      "To speak",
+      "To speak",
+      "To listen / hear",
+      "To speak"
     ],
     "options_vi": [
-      "Cười lớn",
-      "Nằm nghiêng",
-      "Khóc",
-      "Rửa / Giặt"
+      "Nói",
+      "Nói",
+      "Nghe",
+      "Nói"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "We are friends / Chúng tôi là bạn bè",
+    "englishSentence": "This is a To speak / Đây là Nói",
     "hindiWords": [
-      "हम",
-      "दोस्त",
-      "हैं",
-      "हो",
-      "तुम"
+      "यह",
+      "एक",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "हम दोस्त हैं"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "अपना",
-    "transliteration": "apna",
-    "english": "One's own (reflexive)",
-    "vietnamese": "Của bản thân mình",
-    "audio": "अपना"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "इनन्हें",
-    "transliteration": "inhein",
-    "english": "To them / him / her (formal near)",
-    "vietnamese": "Cho họ / Cho ngài ấy (gần)",
-    "audio": "इनन्हें"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "करवट",
-        "english": "Sideways position (Nằm nghiêng)"
-      },
-      {
-        "hindi": "हँसना​​​​​",
-        "english": "To laugh (Cười lớn)"
-      },
-      {
-        "hindi": "अपना",
-        "english": "One's own (reflexive) (Của bản thân mình)"
-      },
-      {
-        "hindi": "इनन्हें",
-        "english": "To them / him / her (formal near) (Cho họ / Cho ngài ấy (gần))"
-      }
-    ]
+    "correctHindiSentence": "यह एक बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "How are you? / Bạn khỏe không?",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
-      "तुम",
-      "कैसे",
-      "हो",
-      "नमस्ते",
-      "हम",
-      "हैं"
+      "मैं",
+      "बोलना​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "तुम कैसे हो"
+    "correctHindiSentence": "मैं बोलना​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: धोना​​, करवट, अपना.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'How are you?'."
+      "You learned: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

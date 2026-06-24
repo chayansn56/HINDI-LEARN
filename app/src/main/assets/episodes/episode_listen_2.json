@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Listen - Lesson 2",
-    "description": "Learn key vocabulary and concepts for Listen - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "title": "Listen - Level 2",
+    "description": "Master the vocabulary and grammar for: Listen - Level 2. Read the key points carefully.",
     "keyPoints": [
-      "ज़रा (zarā) = Just / A little / Một chút / Hãy",
-      "खरीदना​​​​​​​​​ (kharīdnā) = To buy / Mua",
-      "देना​​​​​​​​​​​​ (denā) = To give / Cho / Tặng"
+      "Learn listen concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 2",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: ज़रा means 'Just / A little' (Một chút / Hãy)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "ज़रा",
-    "transliteration": "zarā",
-    "english": "Just / A little",
-    "vietnamese": "Một chút / Hãy",
-    "audio": "ज़रा"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खरीदना​​​​​​​​​",
-    "transliteration": "kharīdnā",
-    "english": "To buy",
-    "vietnamese": "Mua",
-    "audio": "खरीदना​​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'ज़रा'",
-    "prompt_en": "Choose the correct translation for 'ज़रा'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'ज़रा'",
-    "text": "ज़रा",
-    "subtext": "zarā",
-    "answer": "Just / A little",
-    "answer_vi": "Một chút / Hãy",
-    "options": [
-      "To listen / hear",
-      "To give",
-      "To buy",
-      "Just / A little"
-    ],
-    "options_vi": [
-      "Nghe",
-      "Cho / Tặng",
-      "Mua",
-      "Một chút / Hãy"
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "देना​​​​​​​​​​​​",
-    "transliteration": "denā",
-    "english": "To give",
-    "vietnamese": "Cho / Tặng",
-    "audio": "देना​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​",
+    "hindi": "सुनना​​​​​​​​​​",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​"
+    "audio": "सुनना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nghe",
+      "Nghe"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "ज़रा",
-        "english": "Just / A little (Một chút / Hãy)"
+        "hindi": "सुनना​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "खरीदना​​​​​​​​​",
-        "english": "To buy (Mua)"
+        "hindi": "सुनना​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "देना​​​​​​​​​​​​",
-        "english": "To give (Cho / Tặng)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​",
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: ध्यान से सुनो।.",
+    "simpleRule": "Remember: ध्यान से सुनो। means Listen carefully. (Nghe cho kỹ nhé.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ध्यान से सुनो।",
+    "transliteration": "dhyaan se suno",
+    "english": "Listen carefully.",
+    "vietnamese": "Nghe cho kỹ nhé.",
+    "audio": "ध्यान से सुनो।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'ध्यान से सुनो।'",
+    "prompt_en": "Choose correct translation for 'ध्यान से सुनो।'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ध्यान से सुनो।'",
+    "text": "ध्यान से सुनो।",
+    "subtext": "dhyaan se suno",
+    "answer": "Listen carefully.",
+    "answer_vi": "Nghe cho kỹ nhé.",
+    "options": [
+      "Listen carefully.",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe cho kỹ nhé.",
+      "Nghe",
+      "Nghe",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "ध्यान से सुनो।",
+        "english": "Listen carefully. (Nghe cho kỹ nhé.)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
         "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "खरीदना​​​​​​​​​",
-    "translation_en": "To buy",
-    "translation_vi": "Mua",
+    "audio": "सुनना​​​​​​​​​​",
+    "translation_en": "To listen / hear",
+    "translation_vi": "Nghe",
     "options_en": [
-      "Just / A little",
-      "To give",
-      "To buy",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear",
       "To listen / hear"
     ],
     "options_vi": [
-      "Một chút / Hãy",
-      "Cho / Tặng",
-      "Mua",
+      "Nghe",
+      "Nghe",
+      "Nghe",
       "Nghe"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "This is a To listen / hear / Đây là Nghe",
     "hindiWords": [
       "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "एक",
+      "सुनना​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "देना​​​​​​​​​​​​",
-        "english": "To give (Cho / Tặng)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "पूछना​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
-      },
-      {
-        "hindi": "पूछना​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सुनना​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
-      "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "मैं",
+      "सुनना​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
+    "correctHindiSentence": "मैं सुनना​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: ज़रा, देना​​​​​​​​​​​​, पूछना​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'This water is clean'."
+      "You learned: सुनना​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

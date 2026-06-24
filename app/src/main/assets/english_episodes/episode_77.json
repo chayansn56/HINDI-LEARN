@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 77",
+    "description": "Master the vocabulary and grammar for: Episode 77. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 77",
+    "title_vi": "Tập 77",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Snow / Ice (बर्फ़​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Tuyết / Đá."
+      },
+      {
+        "hindi": "Later, you encounter a Saturday (शनिवार).",
+        "translation": "Sau đó, bạn gặp một Thứ bảy."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Snow / Ice",
+        "isCorrect": true
+      },
+      {
+        "text": "Saturday",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Saturday",
+    "transliteration": "",
+    "english": "शनिवार",
+    "vietnamese": "Thứ bảy",
+    "audio": "Saturday"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Husband",
+    "transliteration": "",
+    "english": "पति",
+    "vietnamese": "Chồng",
+    "audio": "Husband"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​",
+      "शनिवार",
+      "दौड़ना​​​​​​",
+      "पति"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Thứ bảy",
+      "Chạy",
+      "Chồng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Saturday",
+        "english": "शनिवार (Thứ bảy)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "Husband",
+        "english": "पति (Chồng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Seven.",
+    "simpleRule": "Remember: Seven means सात (Số bảy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Seven",
+    "transliteration": "",
+    "english": "सात",
+    "vietnamese": "Số bảy",
+    "audio": "Seven"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Work / Job",
+    "transliteration": "",
+    "english": "काम",
+    "vietnamese": "Công việc",
+    "audio": "Work / Job"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I",
+    "transliteration": "",
+    "english": "मैं",
+    "vietnamese": "Tôi",
+    "audio": "I"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Seven'",
+    "prompt_en": "Choose correct translation for 'Seven'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Seven'",
+    "text": "Seven",
+    "subtext": "",
+    "answer": "सात",
+    "answer_vi": "Số bảy",
+    "options": [
+      "सात",
+      "काम",
+      "मैं",
+      "देखना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Số bảy",
+      "Công việc",
+      "Tôi",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Seven",
+        "english": "सात (Số bảy)"
+      },
+      {
+        "hindi": "Work / Job",
+        "english": "काम (Công việc)"
+      },
+      {
+        "hindi": "I",
+        "english": "मैं (Tôi)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: are.",
+    "simpleRule": "Remember: are means हैं (Là (số nhiều))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "are",
+    "transliteration": "",
+    "english": "हैं",
+    "vietnamese": "Là (số nhiều)",
+    "audio": "are"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Champion / Champ",
+    "transliteration": "",
+    "english": "चैंप",
+    "vietnamese": "Nhà vô địch",
+    "audio": "Champion / Champ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'are'",
+    "prompt_en": "Choose correct translation for 'are'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'are'",
+    "text": "are",
+    "subtext": "",
+    "answer": "हैं",
+    "answer_vi": "Là (số nhiều)",
+    "options": [
+      "हैं",
+      "चैंप",
+      "लिखना​​",
+      "हँसना​​​​"
+    ],
+    "options_vi": [
+      "Là (số nhiều)",
+      "Nhà vô địch",
+      "Viết",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "are",
+        "english": "हैं (Là (số nhiều))"
+      },
+      {
+        "hindi": "Champion / Champ",
+        "english": "चैंप (Nhà vô địch)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​ (Viết)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​ (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Snow / Ice",
+    "translation_en": "बर्फ़​​",
+    "translation_vi": "Tuyết / Đá",
+    "options_en": [
+      "बर्फ़​​",
+      "शनिवार",
+      "दौड़ना​​​​​​",
+      "पति"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Thứ bảy",
+      "Chạy",
+      "Chồng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बर्फ़​​ / Tôi thấy Tuyết / Đá",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "I see the Snow / Ice"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a शनिवार / Tôi muốn Thứ bảy",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Saturday"
+    ],
+    "correctHindiSentence": "I want a Saturday"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Snow / Ice and To laugh",
+      "Practiced constructing sentences."
+    ]
+  }
+]

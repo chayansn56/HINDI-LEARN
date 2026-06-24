@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 31",
+    "description": "Master the vocabulary and grammar for: Episode 31. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 31",
+    "title_vi": "Tập 31",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Word (शब्द).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Từ ngữ."
+      },
+      {
+        "hindi": "Later, you encounter a Journey (सफ़र​​).",
+        "translation": "Sau đó, bạn gặp một Chuyến đi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Word",
+        "isCorrect": true
+      },
+      {
+        "text": "Journey",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Word.",
+    "simpleRule": "Remember: Word means शब्द (Từ ngữ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Word",
+    "transliteration": "",
+    "english": "शब्द",
+    "vietnamese": "Từ ngữ",
+    "audio": "Word"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Failure",
+    "transliteration": "",
+    "english": "असफलता",
+    "vietnamese": "Sự thất bại",
+    "audio": "Failure"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Word'",
+    "prompt_en": "Choose correct translation for 'Word'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Word'",
+    "text": "Word",
+    "subtext": "",
+    "answer": "शब्द",
+    "answer_vi": "Từ ngữ",
+    "options": [
+      "शब्द",
+      "सफ़र​​",
+      "बेचना​​​​​​​​​​​​​​​​​",
+      "असफलता"
+    ],
+    "options_vi": [
+      "Từ ngữ",
+      "Chuyến đi",
+      "Bán",
+      "Sự thất bại"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Word",
+        "english": "शब्द (Từ ngữ)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​ (Bán)"
+      },
+      {
+        "hindi": "Failure",
+        "english": "असफलता (Sự thất bại)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To stand.",
+    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "60",
+    "transliteration": "",
+    "english": "६०",
+    "vietnamese": "Sáu mươi",
+    "audio": "60"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​​​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To stand'",
+    "prompt_en": "Choose correct translation for 'To stand'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
+    "text": "To stand",
+    "subtext": "",
+    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đứng",
+    "options": [
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​​​​​​​​​​",
+      "६०",
+      "पैसा​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Đứng",
+      "Sáu mươi",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "60",
+        "english": "६० (Sáu mươi)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​​​​​​​ (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Chạy",
+      "Nghe",
+      "Chơi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​ (Nghe)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Word",
+    "translation_en": "शब्द",
+    "translation_vi": "Từ ngữ",
+    "options_en": [
+      "शब्द",
+      "सफ़र​​",
+      "बेचना​​​​​​​​​​​​​​​​​",
+      "असफलता"
+    ],
+    "options_vi": [
+      "Từ ngữ",
+      "Chuyến đi",
+      "Bán",
+      "Sự thất bại"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the शब्द / Tôi thấy Từ ngữ",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Word"
+    ],
+    "correctHindiSentence": "I see the Word"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सफ़र​​ / Tôi muốn Chuyến đi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Journey"
+    ],
+    "correctHindiSentence": "I want a Journey"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Word and To play",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 63",
+    "description": "Master the vocabulary and grammar for: Episode 63. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 63",
+    "title_vi": "Tập 63",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a to drink (पीना).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Uống."
+      },
+      {
+        "hindi": "Later, you encounter a Village (गाँव​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Ngôi làng."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "to drink",
+        "isCorrect": true
+      },
+      {
+        "text": "Village",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: to drink.",
+    "simpleRule": "Remember: to drink means पीना (Uống)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to drink",
+    "transliteration": "",
+    "english": "पीना",
+    "vietnamese": "Uống",
+    "audio": "to drink"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​​​​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'to drink'",
+    "prompt_en": "Choose correct translation for 'to drink'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
+    "text": "to drink",
+    "subtext": "",
+    "answer": "पीना",
+    "answer_vi": "Uống",
+    "options": [
+      "पीना",
+      "गाँव​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Uống",
+      "Ngôi làng",
+      "Đọc",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "to drink",
+        "english": "पीना (Uống)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​​​​​ (Ngôi làng)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To close.",
+    "simpleRule": "Remember: To close means बंद करना (Đóng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No / Not",
+    "transliteration": "",
+    "english": "नहीं",
+    "vietnamese": "Không",
+    "audio": "No / Not"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To close'",
+    "prompt_en": "Choose correct translation for 'To close'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To close'",
+    "text": "To close",
+    "subtext": "",
+    "answer": "बंद करना",
+    "answer_vi": "Đóng",
+    "options": [
+      "बंद करना",
+      "दौड़ना​​​​​​",
+      "नहीं",
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đóng",
+      "Chạy",
+      "Không",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To close",
+        "english": "बंद करना (Đóng)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "No / Not",
+        "english": "नहीं (Không)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To do.",
+    "simpleRule": "Remember: To do means करना​​​​​​​​​​​​​​​​​​​​​​ (Làm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To do'",
+    "prompt_en": "Choose correct translation for 'To do'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
+    "text": "To do",
+    "subtext": "",
+    "answer": "करना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Làm",
+    "options": [
+      "करना​​​​​​​​​​​​​​​​​​​​​​",
+      "दफ़्तर​​​",
+      "बैठना​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm",
+      "Văn phòng",
+      "Ngồi",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "to drink",
+    "translation_en": "पीना",
+    "translation_vi": "Uống",
+    "options_en": [
+      "पीना",
+      "गाँव​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Uống",
+      "Ngôi làng",
+      "Đọc",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पीना / Tôi thấy Uống",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "to drink"
+    ],
+    "correctHindiSentence": "I see the to drink"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a गाँव​​​​​​ / Tôi muốn Ngôi làng",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Village"
+    ],
+    "correctHindiSentence": "I want a Village"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: to drink and To listen / hear",
+      "Practiced constructing sentences."
+    ]
+  }
+]

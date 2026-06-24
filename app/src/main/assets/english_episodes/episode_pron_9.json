@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Level 9",
+    "description": "Master the vocabulary and grammar for: Pron - Level 9. Read the key points carefully.",
+    "keyPoints": [
+      "Learn pron concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Cloud.",
+    "simpleRule": "Remember: Cloud means बादल​ (Đám mây)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cloud'",
+    "prompt_en": "Choose correct translation for 'Cloud'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
+    "text": "Cloud",
+    "subtext": "",
+    "answer": "बादल​",
+    "answer_vi": "Đám mây",
+    "options": [
+      "बादल​",
+      "सुनना​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Nghe",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cloud",
+        "english": "बादल​ (Đám mây)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बादल​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Đám mây",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Speak louder..",
+    "simpleRule": "Remember: Speak louder. means ज़ोर से बोलिए। (Nói to lên.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Speak louder.",
+    "transliteration": "",
+    "english": "ज़ोर से बोलिए।",
+    "vietnamese": "Nói to lên.",
+    "audio": "Speak louder."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Speak louder.'",
+    "prompt_en": "Choose correct translation for 'Speak louder.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Speak louder.'",
+    "text": "Speak louder.",
+    "subtext": "",
+    "answer": "ज़ोर से बोलिए।",
+    "answer_vi": "Nói to lên.",
+    "options": [
+      "ज़ोर से बोलिए।",
+      "बोलना​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói to lên.",
+      "Nói",
+      "Nghe",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Speak louder.",
+        "english": "ज़ोर से बोलिए। (Nói to lên.)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​ (Nói)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​",
+      "सुनना​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Nghe",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​ (Nói)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Cloud",
+    "translation_en": "बादल​",
+    "translation_vi": "Đám mây",
+    "options_en": [
+      "बादल​",
+      "सुनना​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Nghe",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a बादल​ / Nó là một Đám mây",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Cloud"
+    ],
+    "correctHindiSentence": "It is a Cloud"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like सुनना​​ / Tôi thích Nghe",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "I really like To listen / hear"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Cloud and To speak",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 16",
+    "description": "Master the vocabulary and grammar for: Episode 16. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 16",
+    "title_vi": "Tập 16",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Journey (सफ़र​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chuyến đi."
+      },
+      {
+        "hindi": "Later, you encounter a Until / Up to (तक).",
+        "translation": "Sau đó, bạn gặp một Cho đến khi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Journey",
+        "isCorrect": true
+      },
+      {
+        "text": "Until / Up to",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Journey.",
+    "simpleRule": "Remember: Journey means सफ़र​​​ (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Until / Up to",
+    "transliteration": "",
+    "english": "तक",
+    "vietnamese": "Cho đến khi",
+    "audio": "Until / Up to"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Journey'",
+    "prompt_en": "Choose correct translation for 'Journey'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
+    "text": "Journey",
+    "subtext": "",
+    "answer": "सफ़र​​​",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "सफ़र​​​",
+      "तक",
+      "सफ़र​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Cho đến khi",
+      "Chuyến đi",
+      "Kể / Giải thích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Until / Up to",
+        "english": "तक (Cho đến khi)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To play.",
+    "simpleRule": "Remember: To play means खेलना​​​​​​​​​​​​​​​​ (Chơi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative singular)",
+    "transliteration": "",
+    "english": "जिसे",
+    "vietnamese": "Người mà (số ít)",
+    "audio": "Whom (relative singular)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Woman",
+    "transliteration": "",
+    "english": "औरत",
+    "vietnamese": "Người phụ nữ",
+    "audio": "Woman"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To play'",
+    "prompt_en": "Choose correct translation for 'To play'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
+    "text": "To play",
+    "subtext": "",
+    "answer": "खेलना​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chơi",
+    "options": [
+      "खेलना​​​​​​​​​​​​​​​​",
+      "जिसे",
+      "औरत",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Người mà (số ít)",
+      "Người phụ nữ",
+      "Ngủ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Whom (relative singular)",
+        "english": "जिसे (Người mà (số ít))"
+      },
+      {
+        "hindi": "Woman",
+        "english": "औरत (Người phụ nữ)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Date.",
+    "simpleRule": "Remember: Date means तारीख (Ngày tháng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Date",
+    "transliteration": "",
+    "english": "तारीख",
+    "vietnamese": "Ngày tháng",
+    "audio": "Date"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Date'",
+    "prompt_en": "Choose correct translation for 'Date'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Date'",
+    "text": "Date",
+    "subtext": "",
+    "answer": "तारीख",
+    "answer_vi": "Ngày tháng",
+    "options": [
+      "तारीख",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना​​​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngày tháng",
+      "Cười lớn",
+      "Nhìn / Xem",
+      "Kể / Giải thích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Date",
+        "english": "तारीख (Ngày tháng)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Journey",
+    "translation_en": "सफ़र​​​",
+    "translation_vi": "Chuyến đi",
+    "options_en": [
+      "सफ़र​​​",
+      "तक",
+      "सफ़र​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Cho đến khi",
+      "Chuyến đi",
+      "Kể / Giải thích"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सफ़र​​​ / Tôi thấy Chuyến đi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Journey"
+    ],
+    "correctHindiSentence": "I see the Journey"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a तक / Tôi muốn Cho đến khi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Until / Up to"
+    ],
+    "correctHindiSentence": "I want a Until / Up to"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Journey and To tell / explain",
+      "Practiced constructing sentences."
+    ]
+  }
+]

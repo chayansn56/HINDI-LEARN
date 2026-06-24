@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Level 11",
+    "description": "Master the vocabulary and grammar for: Pron - Level 11. Read the key points carefully.",
+    "keyPoints": [
+      "Learn pron concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना",
+      "बादल​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nghe",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना (Nghe)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​ (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​",
+      "सुनना​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Cloud.",
+    "simpleRule": "Remember: Cloud means बादल​​​​​​​ (Đám mây)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cloud'",
+    "prompt_en": "Choose correct translation for 'Cloud'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
+    "text": "Cloud",
+    "subtext": "",
+    "answer": "बादल​​​​​​​",
+    "answer_vi": "Đám mây",
+    "options": [
+      "बादल​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​",
+      "बोलना​​​​​"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Nói",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Do you speak English?",
+    "transliteration": "",
+    "english": "क्या आप अंग्रेज़ी बोलते हैं?",
+    "vietnamese": "Bạn có nói tiếng Anh không?",
+    "audio": "Do you speak English?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "क्या आप अंग्रेज़ी बोलते हैं?",
+      "बोलना​​",
+      "बोलना​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Bạn có nói tiếng Anh không?",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Do you speak English?",
+        "english": "क्या आप अंग्रेज़ी बोलते हैं? (Bạn có nói tiếng Anh không?)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​ (Nói)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To listen / hear",
+    "translation_en": "सुनना​​​​​​​​​",
+    "translation_vi": "Nghe",
+    "options_en": [
+      "सुनना​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना",
+      "बादल​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nghe",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सुनना​​​​​​​​​ / Nó là một Nghe",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "It is a To listen / hear"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Nghe",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "I really like To listen / hear"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To listen / hear and To speak",
+      "Practiced constructing sentences."
+    ]
+  }
+]

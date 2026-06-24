@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 47",
+    "description": "Master the vocabulary and grammar for: Episode 47. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 47",
+    "title_vi": "Tập 47",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To teach (sिखाना​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Dạy."
+      },
+      {
+        "hindi": "Later, you encounter a Until / Up to (तक).",
+        "translation": "Sau đó, bạn gặp một Cho đến khi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To teach",
+        "isCorrect": true
+      },
+      {
+        "text": "Until / Up to",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​​​​​​​​ (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Until / Up to",
+    "transliteration": "",
+    "english": "तक",
+    "vietnamese": "Cho đến khi",
+    "audio": "Until / Up to"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pen",
+    "transliteration": "",
+    "english": "पेन​​​​​​​​​​",
+    "vietnamese": "Bút",
+    "audio": "Pen"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​​​​​​​​",
+    "answer_vi": "Dạy",
+    "options": [
+      "sिखाना​​​​​​​​​",
+      "तक",
+      "पैसा​​​​​​​​",
+      "पेन​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Cho đến khi",
+      "Tiền",
+      "Bút"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Until / Up to",
+        "english": "तक (Cho đến khi)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​​​​ (Tiền)"
+      },
+      {
+        "hindi": "Pen",
+        "english": "पेन​​​​​​​​​​ (Bút)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To read.",
+    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Read (root)",
+    "transliteration": "",
+    "english": "पढ़",
+    "vietnamese": "Đọc",
+    "audio": "Read (root)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To read'",
+    "prompt_en": "Choose correct translation for 'To read'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
+    "text": "To read",
+    "subtext": "",
+    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Cho / Tặng",
+      "Chạy",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "Read (root)",
+        "english": "पढ़ (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Spoon",
+    "transliteration": "",
+    "english": "चम्मच​​​​​​​​​",
+    "vietnamese": "Thìa",
+    "audio": "Spoon"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​​​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चम्मच​​​​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "गाँव​​​​​"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Thìa",
+      "Khóc",
+      "Ngôi làng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Spoon",
+        "english": "चम्मच​​​​​​​​​ (Thìa)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​​​​ (Ngôi làng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To teach",
+    "translation_en": "sिखाना​​​​​​​​​",
+    "translation_vi": "Dạy",
+    "options_en": [
+      "sिखाना​​​​​​​​​",
+      "तक",
+      "पैसा​​​​​​​​",
+      "पेन​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Cho đến khi",
+      "Tiền",
+      "Bút"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the sिखाना​​​​​​​​​ / Tôi thấy Dạy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To teach"
+    ],
+    "correctHindiSentence": "I see the To teach"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a तक / Tôi muốn Cho đến khi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Until / Up to"
+    ],
+    "correctHindiSentence": "I want a Until / Up to"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To teach and Village",
+      "Practiced constructing sentences."
+    ]
+  }
+]

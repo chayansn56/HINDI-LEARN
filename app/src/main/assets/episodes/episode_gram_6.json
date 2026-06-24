@@ -1,183 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Lesson 6",
-    "description": "Learn key vocabulary and concepts for Gram - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "title": "Gram - Level 6",
+    "description": "Master the vocabulary and grammar for: Gram - Level 6. Read the key points carefully.",
     "keyPoints": [
-      "पड़ता है (paṛtā hai) = Has to / Phải",
-      "के बाहर (ke baahar) = outside of / Bên ngoài của",
-      "पैसा​​​​​​​ (paisā) = Money / Tiền"
+      "Learn gram concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 6",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: पड़ता है means 'Has to' (Phải)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पड़ता है",
-    "transliteration": "paṛtā hai",
-    "english": "Has to",
-    "vietnamese": "Phải",
-    "audio": "पड़ता है"
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
   },
   {
     "type": "Flashcard",
-    "hindi": "के बाहर",
-    "transliteration": "ke baahar",
-    "english": "outside of",
-    "vietnamese": "Bên ngoài của",
-    "audio": "के बाहर"
+    "hindi": "बनाना​​​​​​​​​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "becnā",
+    "english": "To sell",
+    "vietnamese": "Bán",
+    "audio": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "केला",
+    "transliteration": "kela",
+    "english": "Banana",
+    "vietnamese": "Quả chuối",
+    "audio": "केला"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पड़ता है'",
-    "prompt_en": "Choose the correct translation for 'पड़ता है'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पड़ता है'",
-    "text": "पड़ता है",
-    "subtext": "paṛtā hai",
-    "answer": "Has to",
-    "answer_vi": "Phải",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
     "options": [
-      "Has to",
-      "outside of",
-      "Money",
-      "Office"
+      "Love (intense)",
+      "To make / build",
+      "To sell",
+      "Banana"
     ],
     "options_vi": [
-      "Phải",
-      "Bên ngoài của",
-      "Tiền",
-      "Văn phòng"
+      "Tình yêu sâu đậm",
+      "Chế tạo / Tạo ra",
+      "Bán",
+      "Quả chuối"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​",
-    "transliteration": "paisā",
-    "english": "Money",
-    "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "बनाना​​​​​​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sell (Bán)"
+      },
+      {
+        "hindi": "केला",
+        "english": "Banana (Quả chuối)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To ask (Hỏi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​",
-    "transliteration": "daftar",
-    "english": "Office",
-    "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​"
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​​​​​​​​​​​​​​​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "pūchnā",
+    "answer": "To ask",
+    "answer_vi": "Hỏi",
+    "options": [
+      "To ask",
+      "Cloud",
+      "To make / build",
+      "To work"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Đám mây",
+      "Chế tạo / Tạo ra",
+      "Làm việc"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "पड़ता है",
-        "english": "Has to (Phải)"
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
       },
       {
-        "hindi": "के बाहर",
-        "english": "outside of (Bên ngoài của)"
+        "hindi": "बादल​​​​​​",
+        "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "पैसा​​​​​​​",
-        "english": "Money (Tiền)"
+        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
-        "hindi": "दफ़्तर​​​​",
-        "english": "Office (Văn phòng)"
+        "hindi": "काम करना​​​​​​​​​​​​​​​",
+        "english": "To work (Làm việc)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "के बाहर",
-    "translation_en": "outside of",
-    "translation_vi": "Bên ngoài của",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
     "options_en": [
-      "Has to",
-      "outside of",
-      "Money",
-      "Office"
+      "Love (intense)",
+      "To make / build",
+      "To sell",
+      "Banana"
     ],
     "options_vi": [
-      "Phải",
-      "Bên ngoài của",
-      "Tiền",
-      "Văn phòng"
+      "Tình yêu sâu đậm",
+      "Chế tạo / Tạo ra",
+      "Bán",
+      "Quả chuối"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "He is a boy / Cậu ấy là một cậu bé",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
     "hindiWords": [
-      "वह",
-      "लड़का",
-      "है",
-      "हूँ",
-      "वे"
+      "यह",
+      "एक",
+      "इश्क़",
+      "है"
     ],
-    "correctHindiSentence": "वह लड़का है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सफ़र​​​​",
-    "transliteration": "safar",
-    "english": "Journey",
-    "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पेन​​​​​",
-    "transliteration": "pen",
-    "english": "Pen",
-    "vietnamese": "Bút",
-    "audio": "पेन​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "पैसा​​​​​​​",
-        "english": "Money (Tiền)"
-      },
-      {
-        "hindi": "दफ़्तर​​​​",
-        "english": "Office (Văn phòng)"
-      },
-      {
-        "hindi": "सफ़र​​​​",
-        "english": "Journey (Chuyến đi)"
-      },
-      {
-        "hindi": "पेन​​​​​",
-        "english": "Pen (Bút)"
-      }
-    ]
+    "correctHindiSentence": "यह एक इश्क़ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "We are friends / Chúng tôi là bạn bè",
+    "englishSentence": "I see To make / build / Tôi thấy Chế tạo / Tạo ra",
     "hindiWords": [
-      "हम",
-      "दोस्त",
-      "हैं",
-      "हो",
-      "तुम"
+      "मैं",
+      "बनाना​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "हम दोस्त हैं"
+    "correctHindiSentence": "मैं बनाना​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: पड़ता है, पैसा​​​​​​​, सफ़र​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'We are friends'."
+      "You learned: इश्क़, काम करना​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

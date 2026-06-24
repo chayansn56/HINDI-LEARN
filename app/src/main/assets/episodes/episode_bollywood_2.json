@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Bollywood - Lesson 2",
-    "description": "Learn key vocabulary and concepts for Bollywood - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "title": "Bollywood - Level 2",
+    "description": "Master the vocabulary and grammar for: Bollywood - Level 2. Read the key points carefully.",
     "keyPoints": [
-      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (denā) = To give / Cho / Tặng",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (baiṭhnā) = To sit / Ngồi",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​ (kām karnā) = To work / Làm việc"
+      "Learn bollywood concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 2",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To give' (Cho / Tặng)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: गाना.",
+    "simpleRule": "Remember: गाना means To sing / Song (Hát / Bài hát)."
   },
   {
     "type": "Flashcard",
-    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "denā",
-    "english": "To give",
-    "vietnamese": "Cho / Tặng",
-    "audio": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "गाना",
+    "transliteration": "gānā",
+    "english": "To sing / Song",
+    "vietnamese": "Hát / Bài hát",
+    "audio": "गाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "baiṭhnā",
-    "english": "To sit",
-    "vietnamese": "Ngồi",
-    "audio": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "हीरो",
+    "transliteration": "hīro",
+    "english": "Hero",
+    "vietnamese": "Nam chính / Anh hùng",
+    "audio": "हीरो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "denā",
-    "answer": "To give",
-    "answer_vi": "Cho / Tặng",
+    "prompt": "Translate 'गाना'",
+    "prompt_en": "Choose correct translation for 'गाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गाना'",
+    "text": "गाना",
+    "subtext": "gānā",
+    "answer": "To sing / Song",
+    "answer_vi": "Hát / Bài hát",
     "options": [
-      "To work",
-      "To give",
-      "To sit",
-      "To cry"
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
     ],
     "options_vi": [
-      "Làm việc",
-      "Cho / Tặng",
-      "Ngồi",
-      "Khóc"
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kām karnā",
-    "english": "To work",
-    "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "गाना",
+        "english": "To sing / Song (Hát / Bài hát)"
+      },
+      {
+        "hindi": "हीरो",
+        "english": "Hero (Nam chính / Anh hùng)"
+      },
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: फ़िल्म.",
+    "simpleRule": "Remember: फ़िल्म means Movie (Bộ phim)."
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "फ़िल्म",
+    "transliteration": "film",
+    "english": "Movie",
+    "vietnamese": "Bộ phim",
+    "audio": "फ़िल्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोमांस",
+    "transliteration": "romance",
+    "english": "Romance",
+    "vietnamese": "Sự lãng mạn",
+    "audio": "रोमांस"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़िल्म'",
+    "prompt_en": "Choose correct translation for 'फ़िल्म'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़िल्म'",
+    "text": "फ़िल्म",
+    "subtext": "film",
+    "answer": "Movie",
+    "answer_vi": "Bộ phim",
+    "options": [
+      "Movie",
+      "Romance",
+      "To make / build",
+      "To learn"
+    ],
+    "options_vi": [
+      "Bộ phim",
+      "Sự lãng mạn",
+      "Chế tạo / Tạo ra",
+      "Học"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To give (Cho / Tặng)"
+        "hindi": "फ़िल्म",
+        "english": "Movie (Bộ phim)"
       },
       {
-        "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sit (Ngồi)"
+        "hindi": "रोमांस",
+        "english": "Romance (Sự lãng mạn)"
       },
       {
-        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To work (Làm việc)"
+        "hindi": "बनाना​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
-        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To cry (Khóc)"
+        "hindi": "सीखना​​​​​​",
+        "english": "To learn (Học)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To sit",
-    "translation_vi": "Ngồi",
+    "audio": "गाना",
+    "translation_en": "To sing / Song",
+    "translation_vi": "Hát / Bài hát",
     "options_en": [
-      "To sit",
-      "To cry",
-      "To work",
-      "To give"
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
     ],
     "options_vi": [
-      "Ngồi",
-      "Khóc",
-      "Làm việc",
-      "Cho / Tặng"
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I love you / Tôi yêu bạn",
-    "hindiWords": [
-      "मैं",
-      "तुमसे",
-      "प्यार",
-      "करता",
-      "हूँ",
-      "दोस्त"
-    ],
-    "correctHindiSentence": "मैं तुमसे प्यार करता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "मुस्कान",
-    "transliteration": "muskaan",
-    "english": "Smile",
-    "vietnamese": "Nụ cười",
-    "audio": "मुस्कान"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To work (Làm việc)"
-      },
-      {
-        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To cry (Khóc)"
-      },
-      {
-        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To tell / explain (Kể / Giải thích)"
-      },
-      {
-        "hindi": "मुस्कान",
-        "english": "Smile (Nụ cười)"
-      }
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is my dream / Đây là giấc mơ của tôi",
+    "englishSentence": "This is a To sing / Song / Đây là Hát / Bài hát",
     "hindiWords": [
       "यह",
-      "मेरा",
-      "सपना",
-      "है",
-      "दिल",
-      "ज़िंदगी"
+      "एक",
+      "गाना",
+      "है"
     ],
-    "correctHindiSentence": "यह मेरा सपना है"
+    "correctHindiSentence": "यह एक गाना है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Hero / Tôi thấy Nam chính / Anh hùng",
+    "hindiWords": [
+      "मैं",
+      "हीरो",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं हीरो देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, काम करना​​​​​​​​​​​​​​​​​​​​​​​​, बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'This is my dream'."
+      "You learned: गाना, सीखना​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 7",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 7. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 7",
+    "description": "Master the vocabulary and grammar for: Travel - Level 7. Read the key points carefully.",
     "keyPoints": [
-      "साफ करना​​​​​​​​​​​​​​​​ (sāf karnā) = To clean / Dọn dẹp / Lau chùi",
-      "हवाई अड्डा (havāī aḍḍā) = Airport / Sân bay",
-      "रेलवे स्टेशन (railway station) = Train station / Ga tàu hỏa"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 7",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: साफ करना​​​​​​​​​​​​​​​​ means 'To clean' (Dọn dẹp / Lau chùi)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दुल्हा.",
+    "simpleRule": "Remember: दुल्हा means Groom (Chú rể)."
   },
   {
     "type": "Flashcard",
-    "hindi": "साफ करना​​​​​​​​​​​​​​​​",
-    "transliteration": "sāf karnā",
-    "english": "To clean",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​​​​​​​​​​​​​​"
+    "hindi": "दुल्हा",
+    "transliteration": "dulha",
+    "english": "Groom",
+    "vietnamese": "Chú rể",
+    "audio": "दुल्हा"
   },
   {
     "type": "Flashcard",
-    "hindi": "हवाई अड्डा",
-    "transliteration": "havāī aḍḍā",
-    "english": "Airport",
-    "vietnamese": "Sân bay",
-    "audio": "हवाई अड्डा"
+    "hindi": "बिंदास",
+    "transliteration": "bindaas",
+    "english": "Carefree / Cool",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "बिंदास"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व्यवसाय",
+    "transliteration": "vyavsaay",
+    "english": "Profession / Business",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "व्यवसाय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बारात",
+    "transliteration": "baaraat",
+    "english": "Groom's wedding procession",
+    "vietnamese": "Đoàn rước dâu nhà trai",
+    "audio": "बारात"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'साफ करना​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'साफ करना​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'साफ करना​​​​​​​​​​​​​​​​'",
-    "text": "साफ करना​​​​​​​​​​​​​​​​",
-    "subtext": "sāf karnā",
-    "answer": "To clean",
-    "answer_vi": "Dọn dẹp / Lau chùi",
+    "prompt": "Translate 'दुल्हा'",
+    "prompt_en": "Choose correct translation for 'दुल्हा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दुल्हा'",
+    "text": "दुल्हा",
+    "subtext": "dulha",
+    "answer": "Groom",
+    "answer_vi": "Chú rể",
     "options": [
-      "To clean",
-      "Airport",
-      "To walk / move",
-      "Train station"
+      "Groom",
+      "Carefree / Cool",
+      "Profession / Business",
+      "Groom's wedding procession"
     ],
     "options_vi": [
-      "Dọn dẹp / Lau chùi",
-      "Sân bay",
-      "Đi bộ / Di chuyển",
-      "Ga tàu hỏa"
+      "Chú rể",
+      "Sống thoải mái / Vô tư",
+      "Nghề nghiệp / Doanh nghiệp",
+      "Đoàn rước dâu nhà trai"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "रेलवे स्टेशन",
-    "transliteration": "railway station",
-    "english": "Train station",
-    "vietnamese": "Ga tàu hỏa",
-    "audio": "रेलवे स्टेशन"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दुल्हा",
+        "english": "Groom (Chú rể)"
+      },
+      {
+        "hindi": "बिंदास",
+        "english": "Carefree / Cool (Sống thoải mái / Vô tư)"
+      },
+      {
+        "hindi": "व्यवसाय",
+        "english": "Profession / Business (Nghề nghiệp / Doanh nghiệp)"
+      },
+      {
+        "hindi": "बारात",
+        "english": "Groom's wedding procession (Đoàn rước dâu nhà trai)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: स्टेशन कहाँ है?.",
+    "simpleRule": "Remember: स्टेशन कहाँ है? means Where is the station? (Nhà ga ở đâu?)."
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "स्टेशन कहाँ है?",
+    "transliteration": "sṭeśan kahā̃ hai?",
+    "english": "Where is the station?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "स्टेशन कहाँ है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बस स्टैंड",
+    "transliteration": "bus stand",
+    "english": "Bus stop",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "बस स्टैंड"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'स्टेशन कहाँ है?'",
+    "prompt_en": "Choose correct translation for 'स्टेशन कहाँ है?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'स्टेशन कहाँ है?'",
+    "text": "स्टेशन कहाँ है?",
+    "subtext": "sṭeśan kahā̃ hai?",
+    "answer": "Where is the station?",
+    "answer_vi": "Nhà ga ở đâu?",
+    "options": [
+      "Where is the station?",
+      "Journey",
+      "Bus stop",
+      "Car / Train / Cart"
+    ],
+    "options_vi": [
+      "Nhà ga ở đâu?",
+      "Chuyến đi",
+      "Trạm xe buýt",
+      "Xe hơi / Xe lửa"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "साफ करना​​​​​​​​​​​​​​​​",
-        "english": "To clean (Dọn dẹp / Lau chùi)"
+        "hindi": "स्टेशन कहाँ है?",
+        "english": "Where is the station? (Nhà ga ở đâu?)"
       },
       {
-        "hindi": "हवाई अड्डा",
-        "english": "Airport (Sân bay)"
+        "hindi": "सफ़र​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "रेलवे स्टेशन",
-        "english": "Train station (Ga tàu hỏa)"
+        "hindi": "बस स्टैंड",
+        "english": "Bus stop (Trạm xe buýt)"
       },
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "हवाई अड्डा",
-    "translation_en": "Airport",
-    "translation_vi": "Sân bay",
+    "audio": "दुल्हा",
+    "translation_en": "Groom",
+    "translation_vi": "Chú rể",
     "options_en": [
-      "To clean",
-      "Train station",
-      "To walk / move",
-      "Airport"
+      "Groom",
+      "Carefree / Cool",
+      "Profession / Business",
+      "Groom's wedding procession"
     ],
     "options_vi": [
-      "Dọn dẹp / Lau chùi",
-      "Ga tàu hỏa",
-      "Đi bộ / Di chuyển",
-      "Sân bay"
+      "Chú rể",
+      "Sống thoải mái / Vô tư",
+      "Nghề nghiệp / Doanh nghiệp",
+      "Đoàn rước dâu nhà trai"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
+    "englishSentence": "This is a Groom / Đây là Chú rể",
     "hindiWords": [
-      "होटल",
-      "कहाँ",
-      "है",
-      "स्टेशन",
-      "में"
+      "यह",
+      "एक",
+      "दुल्हा",
+      "है"
     ],
-    "correctHindiSentence": "होटल कहाँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "वीज़ा",
-    "transliteration": "visa",
-    "english": "Visa",
-    "vietnamese": "Thị thực / Visa",
-    "audio": "वीज़ा"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "रेलवे स्टेशन",
-        "english": "Train station (Ga tàu hỏa)"
-      },
-      {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "वीज़ा",
-        "english": "Visa (Thị thực / Visa)"
-      },
-      {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
-      }
-    ]
+    "correctHindiSentence": "यह एक दुल्हा है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the train station? / Ga tàu ở đâu?",
+    "englishSentence": "I see Carefree / Cool / Tôi thấy Sống thoải mái / Vô tư",
     "hindiWords": [
-      "रेलवे",
-      "स्टेशन",
-      "कहाँ",
-      "है",
-      "हवाई",
-      "अड्डा"
+      "मैं",
+      "बिंदास",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "रेलवे स्टेशन कहाँ है"
+    "correctHindiSentence": "मैं बिंदास देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: साफ करना​​​​​​​​​​​​​​​​, रेलवे स्टेशन, वीज़ा.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Where is the train station?'."
+      "You learned: दुल्हा, गाड़ी",
+      "Practiced constructing sentences."
     ]
   }
 ]

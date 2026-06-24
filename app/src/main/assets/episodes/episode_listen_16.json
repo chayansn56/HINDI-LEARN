@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Listen - Level 16",
+    "description": "Master the vocabulary and grammar for: Listen - Level 16. Read the key points carefully.",
+    "keyPoints": [
+      "Learn listen concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दिल.",
+    "simpleRule": "Remember: दिल means Heart (Trái tim)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दिल",
+    "transliteration": "dil",
+    "english": "Heart",
+    "vietnamese": "Trái tim",
+    "audio": "दिल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दिल'",
+    "prompt_en": "Choose correct translation for 'दिल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दिल'",
+    "text": "दिल",
+    "subtext": "dil",
+    "answer": "Heart",
+    "answer_vi": "Trái tim",
+    "options": [
+      "Heart",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Trái tim",
+      "Nghe",
+      "Nghe",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दिल",
+        "english": "Heart (Trái tim)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मेरी बात सुनो।.",
+    "simpleRule": "Remember: मेरी बात सुनो। means Listen to me. (Hãy nghe tôi nói.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मेरी बात सुनो।",
+    "transliteration": "meri baat suno",
+    "english": "Listen to me.",
+    "vietnamese": "Hãy nghe tôi nói.",
+    "audio": "मेरी बात सुनो।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनिए",
+    "transliteration": "suniye",
+    "english": "Listen (polite)",
+    "vietnamese": "Nghe này / Xin lỗi",
+    "audio": "सुनिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मेरी बात सुनो।'",
+    "prompt_en": "Choose correct translation for 'मेरी बात सुनो।'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मेरी बात सुनो।'",
+    "text": "मेरी बात सुनो।",
+    "subtext": "meri baat suno",
+    "answer": "Listen to me.",
+    "answer_vi": "Hãy nghe tôi nói.",
+    "options": [
+      "Listen to me.",
+      "To listen / hear",
+      "Listen (polite)",
+      "Cloud"
+    ],
+    "options_vi": [
+      "Hãy nghe tôi nói.",
+      "Nghe",
+      "Nghe này / Xin lỗi",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मेरी बात सुनो।",
+        "english": "Listen to me. (Hãy nghe tôi nói.)"
+      },
+      {
+        "hindi": "सुनना​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनिए",
+        "english": "Listen (polite) (Nghe này / Xin lỗi)"
+      },
+      {
+        "hindi": "बादल​",
+        "english": "Cloud (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दिल",
+    "translation_en": "Heart",
+    "translation_vi": "Trái tim",
+    "options_en": [
+      "Heart",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Trái tim",
+      "Nghe",
+      "Nghe",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Heart / Đây là Trái tim",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "दिल",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक दिल है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
+    "hindiWords": [
+      "मैं",
+      "सुनना​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं सुनना​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: दिल, बादल​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

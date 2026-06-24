@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Write - Lesson 5",
-    "description": "Learn key vocabulary and concepts for Write - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "title": "Write - Level 5",
+    "description": "Master the vocabulary and grammar for: Write - Level 5. Read the key points carefully.",
     "keyPoints": [
-      "बग़ीचा​​​​​​​ (bagīcā) = Garden / Khu vườn",
-      "सफ़र​​​​​​​​​​ (safar) = Journey / Chuyến đi",
-      "समुद्र​​​​​​​​​​ (samudra) = Sea / Ocean / Biển"
+      "Learn write concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 5",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बग़ीचा​​​​​​​ means 'Garden' (Khu vườn)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: कापी​​​​​​​​​​​.",
+    "simpleRule": "Remember: कापी​​​​​​​​​​​ means Notebook (Sổ tay)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बग़ीचा​​​​​​​",
-    "transliteration": "bagīcā",
-    "english": "Garden",
-    "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​​​​​​​"
+    "hindi": "कापी​​​​​​​​​​​",
+    "transliteration": "kaapī",
+    "english": "Notebook",
+    "vietnamese": "Sổ tay",
+    "audio": "कापी​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​​​​​​​",
-    "transliteration": "safar",
-    "english": "Journey",
-    "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​​​​​​​"
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बग़ीचा​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'बग़ीचा​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बग़ीचा​​​​​​​'",
-    "text": "बग़ीचा​​​​​​​",
-    "subtext": "bagīcā",
-    "answer": "Garden",
-    "answer_vi": "Khu vườn",
+    "prompt": "Translate 'कापी​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'कापी​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'कापी​​​​​​​​​​​'",
+    "text": "कापी​​​​​​​​​​​",
+    "subtext": "kaapī",
+    "answer": "Notebook",
+    "answer_vi": "Sổ tay",
     "options": [
-      "Sea / Ocean",
-      "Journey",
-      "Garden",
-      "Cup"
+      "Notebook",
+      "To write",
+      "To open",
+      "To read"
     ],
     "options_vi": [
-      "Biển",
-      "Chuyến đi",
-      "Khu vườn",
-      "Tách"
+      "Sổ tay",
+      "Viết",
+      "Mở",
+      "Đọc"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "समुद्र​​​​​​​​​​",
-    "transliteration": "samudra",
-    "english": "Sea / Ocean",
-    "vietnamese": "Biển",
-    "audio": "समुद्र​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "कापी​​​​​​​​​​​",
+        "english": "Notebook (Sổ tay)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "खोलना​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: हाँ, मैं तैयार हूँ।.",
+    "simpleRule": "Remember: हाँ, मैं तैयार हूँ। means Yes, I am ready. (Vâng, tôi sẵn sàng rồi.)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बग़ीचा​​​​​​​​​​",
-    "transliteration": "bagīcā",
-    "english": "Garden",
-    "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​​​​​​​​​​"
+    "hindi": "हाँ, मैं तैयार हूँ।",
+    "transliteration": "haan, main taiyaar hoon",
+    "english": "Yes, I am ready.",
+    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "audio": "हाँ, मैं तैयार हूँ।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पत्र",
+    "transliteration": "patra",
+    "english": "Letter (mail)",
+    "vietnamese": "Thư tay",
+    "audio": "पत्र"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'हाँ, मैं तैयार हूँ।'",
+    "prompt_en": "Choose correct translation for 'हाँ, मैं तैयार हूँ।'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'हाँ, मैं तैयार हूँ।'",
+    "text": "हाँ, मैं तैयार हूँ।",
+    "subtext": "haan, main taiyaar hoon",
+    "answer": "Yes, I am ready.",
+    "answer_vi": "Vâng, tôi sẵn sàng rồi.",
+    "options": [
+      "Yes, I am ready.",
+      "To open",
+      "To write",
+      "Letter (mail)"
+    ],
+    "options_vi": [
+      "Vâng, tôi sẵn sàng rồi.",
+      "Mở",
+      "Viết",
+      "Thư tay"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बग़ीचा​​​​​​​",
-        "english": "Garden (Khu vườn)"
+        "hindi": "हाँ, मैं तैयार हूँ।",
+        "english": "Yes, I am ready. (Vâng, tôi sẵn sàng rồi.)"
       },
       {
-        "hindi": "सफ़र​​​​​​​​​​",
-        "english": "Journey (Chuyến đi)"
+        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
       },
       {
-        "hindi": "समुद्र​​​​​​​​​​",
-        "english": "Sea / Ocean (Biển)"
+        "hindi": "लिखना​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "बग़ीचा​​​​​​​​​​",
-        "english": "Garden (Khu vườn)"
+        "hindi": "पत्र",
+        "english": "Letter (mail) (Thư tay)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "सफ़र​​​​​​​​​​",
-    "translation_en": "Journey",
-    "translation_vi": "Chuyến đi",
+    "audio": "कापी​​​​​​​​​​​",
+    "translation_en": "Notebook",
+    "translation_vi": "Sổ tay",
     "options_en": [
-      "Sea / Ocean",
-      "Garden",
-      "Journey",
-      "Garden"
+      "Notebook",
+      "To write",
+      "To open",
+      "To read"
     ],
     "options_vi": [
-      "Biển",
-      "Khu vườn",
-      "Chuyến đi",
-      "Khu vườn"
+      "Sổ tay",
+      "Viết",
+      "Mở",
+      "Đọc"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
-    "hindiWords": [
-      "लड़का",
-      "तेज़",
-      "दौड़ता",
-      "है",
-      "लड़की",
-      "धीमे"
-    ],
-    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "प्याला​​​​​​​​​​",
-    "transliteration": "pyālā",
-    "english": "Cup",
-    "vietnamese": "Tách",
-    "audio": "प्याला​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sonā",
-    "english": "Gold",
-    "vietnamese": "Vàng",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "समुद्र​​​​​​​​​​",
-        "english": "Sea / Ocean (Biển)"
-      },
-      {
-        "hindi": "बग़ीचा​​​​​​​​​​",
-        "english": "Garden (Khu vườn)"
-      },
-      {
-        "hindi": "प्याला​​​​​​​​​​",
-        "english": "Cup (Tách)"
-      },
-      {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "Gold (Vàng)"
-      }
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "This food is spicy / Thức ăn này rất cay",
+    "englishSentence": "This is a Notebook / Đây là Sổ tay",
     "hindiWords": [
       "यह",
-      "खाना",
-      "तीखा",
-      "है",
-      "स्वादिष्ट",
-      "मीठा"
+      "एक",
+      "कापी​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "यह खाना तीखा है"
+    "correctHindiSentence": "यह एक कापी​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To write / Tôi thấy Viết",
+    "hindiWords": [
+      "मैं",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बग़ीचा​​​​​​​, समुद्र​​​​​​​​​​, प्याला​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'This food is spicy'."
+      "You learned: कापी​​​​​​​​​​​, पत्र",
+      "Practiced constructing sentences."
     ]
   }
 ]

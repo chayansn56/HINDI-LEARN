@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Level 15",
+    "description": "Master the vocabulary and grammar for: Pron - Level 15. Read the key points carefully.",
+    "keyPoints": [
+      "Learn pron concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: लोल.",
+    "simpleRule": "Remember: लोल means LOL / Laughing Out Loud (Cười lớn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लोल",
+    "transliteration": "lol",
+    "english": "LOL / Laughing Out Loud",
+    "vietnamese": "Cười lớn",
+    "audio": "लोल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लोल'",
+    "prompt_en": "Choose correct translation for 'लोल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लोल'",
+    "text": "लोल",
+    "subtext": "lol",
+    "answer": "LOL / Laughing Out Loud",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "LOL / Laughing Out Loud",
+      "To listen / hear",
+      "To listen / hear",
+      "To speak"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Nghe",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लोल",
+        "english": "LOL / Laughing Out Loud (Cười lớn)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बोलना​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
+    "options": [
+      "To speak",
+      "To speak",
+      "Cloud",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nói",
+      "Nói",
+      "Đám mây",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बादल​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लोल",
+    "translation_en": "LOL / Laughing Out Loud",
+    "translation_vi": "Cười lớn",
+    "options_en": [
+      "LOL / Laughing Out Loud",
+      "To listen / hear",
+      "To listen / hear",
+      "To speak"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Nghe",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a LOL / Laughing Out Loud / Đây là Cười lớn",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "लोल",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक लोल है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
+    "hindiWords": [
+      "मैं",
+      "सुनना​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं सुनना​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: लोल, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Pron - Level 7",
+    "description": "Master the vocabulary and grammar for: Pron - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn pron concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: What do you say? / What's up?.",
+    "simpleRule": "Remember: What do you say? / What's up? means क्या बोलता है? (Bạn nói gì thế? / Thế nào?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What do you say? / What's up?",
+    "transliteration": "",
+    "english": "क्या बोलता है?",
+    "vietnamese": "Bạn nói gì thế? / Thế nào?",
+    "audio": "What do you say? / What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What do you say? / What's up?'",
+    "prompt_en": "Choose correct translation for 'What do you say? / What's up?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What do you say? / What's up?'",
+    "text": "What do you say? / What's up?",
+    "subtext": "",
+    "answer": "क्या बोलता है?",
+    "answer_vi": "Bạn nói gì thế? / Thế nào?",
+    "options": [
+      "क्या बोलता है?",
+      "बोलना​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bạn nói gì thế? / Thế nào?",
+      "Nói",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What do you say? / What's up?",
+        "english": "क्या बोलता है? (Bạn nói gì thế? / Thế nào?)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​",
+      "बादल​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Đám mây",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​ (Nói)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​ (Đám mây)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​",
+      "बोलना​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nói",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​ (Nói)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बादल​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Nghe",
+      "Đám mây",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​​​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "What do you say? / What's up?",
+    "translation_en": "क्या बोलता है?",
+    "translation_vi": "Bạn nói gì thế? / Thế nào?",
+    "options_en": [
+      "क्या बोलता है?",
+      "बोलना​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bạn nói gì thế? / Thế nào?",
+      "Nói",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a क्या बोलता है? / Nó là một Bạn nói gì thế? / Thế nào?",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "What do you say? / What's up?"
+    ],
+    "correctHindiSentence": "It is a What do you say? / What's up?"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बोलना​​​​​​​​​​​​​ / Tôi thích Nói",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To speak"
+    ],
+    "correctHindiSentence": "I really like To speak"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: What do you say? / What's up? and To speak",
+      "Practiced constructing sentences."
+    ]
+  }
+]

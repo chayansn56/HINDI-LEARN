@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 2",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 2. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: देखना​​​​​.",
+    "simpleRule": "Remember: देखना​​​​​ means To see / watch (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बताना​​​​​​​​​​",
+    "transliteration": "batānā",
+    "english": "To tell / explain",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "बताना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शेयर",
+    "transliteration": "share",
+    "english": "Share / Stock",
+    "vietnamese": "Cổ phiếu",
+    "audio": "शेयर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'देखना​​​​​'",
+    "prompt_en": "Choose correct translation for 'देखना​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​​​​​'",
+    "text": "देखना​​​​​",
+    "subtext": "dekhnā",
+    "answer": "To see / watch",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "To see / watch",
+      "To tell / explain",
+      "Share / Stock",
+      "To cry"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Kể / Giải thích",
+      "Cổ phiếu",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "देखना​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "बताना​​​​​​​​​​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      },
+      {
+        "hindi": "शेयर",
+        "english": "Share / Stock (Cổ phiếu)"
+      },
+      {
+        "hindi": "रोना​​",
+        "english": "To cry (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: फ़र्क.",
+    "simpleRule": "Remember: फ़र्क means Difference (Sự khác biệt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फ़र्क",
+    "transliteration": "farq",
+    "english": "Difference",
+    "vietnamese": "Sự khác biệt",
+    "audio": "फ़र्क"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "hãsnā",
+    "english": "To laugh",
+    "vietnamese": "Cười lớn",
+    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़र्क'",
+    "prompt_en": "Choose correct translation for 'फ़र्क'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़र्क'",
+    "text": "फ़र्क",
+    "subtext": "farq",
+    "answer": "Difference",
+    "answer_vi": "Sự khác biệt",
+    "options": [
+      "Difference",
+      "Bathroom",
+      "To ask",
+      "To laugh"
+    ],
+    "options_vi": [
+      "Sự khác biệt",
+      "Nhà tắm / Toilet",
+      "Hỏi",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "फ़र्क",
+        "english": "Difference (Sự khác biệt)"
+      },
+      {
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "देखना​​​​​",
+    "translation_en": "To see / watch",
+    "translation_vi": "Nhìn / Xem",
+    "options_en": [
+      "To see / watch",
+      "To tell / explain",
+      "Share / Stock",
+      "To cry"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Kể / Giải thích",
+      "Cổ phiếu",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To see / watch / Đây là Nhìn / Xem",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "देखना​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक देखना​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To tell / explain / Tôi thấy Kể / Giải thích",
+    "hindiWords": [
+      "मैं",
+      "बताना​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं बताना​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: देखना​​​​​, हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

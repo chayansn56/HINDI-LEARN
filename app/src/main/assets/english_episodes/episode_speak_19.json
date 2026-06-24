@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 19",
+    "description": "Master the vocabulary and grammar for: Speak - Level 19. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes",
+    "transliteration": "",
+    "english": "हाँ",
+    "vietnamese": "Vâng / Có",
+    "audio": "Yes"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​​​​",
+      "बर्फ़​​​​​​",
+      "बर्फ़​",
+      "हाँ"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Tuyết / Đá",
+      "Tuyết / Đá",
+      "Vâng / Có"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Yes",
+        "english": "हाँ (Vâng / Có)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: What time is it?.",
+    "simpleRule": "Remember: What time is it? means क्या समय हुआ है? (Mấy giờ rồi?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What time is it?",
+    "transliteration": "",
+    "english": "क्या समय हुआ है?",
+    "vietnamese": "Mấy giờ rồi?",
+    "audio": "What time is it?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No / Not",
+    "transliteration": "",
+    "english": "नहीं",
+    "vietnamese": "Không",
+    "audio": "No / Not"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No doubt.",
+    "transliteration": "",
+    "english": "कोई शक नहीं।",
+    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "audio": "No doubt."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When (relative)",
+    "transliteration": "",
+    "english": "जब",
+    "vietnamese": "Khi mà",
+    "audio": "When (relative)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What time is it?'",
+    "prompt_en": "Choose correct translation for 'What time is it?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What time is it?'",
+    "text": "What time is it?",
+    "subtext": "",
+    "answer": "क्या समय हुआ है?",
+    "answer_vi": "Mấy giờ rồi?",
+    "options": [
+      "क्या समय हुआ है?",
+      "नहीं",
+      "कोई शक नहीं।",
+      "जब"
+    ],
+    "options_vi": [
+      "Mấy giờ rồi?",
+      "Không",
+      "Không còn nghi ngờ gì nữa.",
+      "Khi mà"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What time is it?",
+        "english": "क्या समय हुआ है? (Mấy giờ rồi?)"
+      },
+      {
+        "hindi": "No / Not",
+        "english": "नहीं (Không)"
+      },
+      {
+        "hindi": "No doubt.",
+        "english": "कोई शक नहीं। (Không còn nghi ngờ gì nữa.)"
+      },
+      {
+        "hindi": "When (relative)",
+        "english": "जब (Khi mà)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: What's up?.",
+    "simpleRule": "Remember: What's up? means क्या चल रहा है? (Có chuyện gì thế?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What's up?",
+    "transliteration": "",
+    "english": "क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes (respectful)",
+    "transliteration": "",
+    "english": "जी हाँ",
+    "vietnamese": "Vâng (Lịch sự)",
+    "audio": "Yes (respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friend",
+    "transliteration": "",
+    "english": "मित्र",
+    "vietnamese": "Bạn bè",
+    "audio": "Friend"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What's up?'",
+    "prompt_en": "Choose correct translation for 'What's up?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What's up?'",
+    "text": "What's up?",
+    "subtext": "",
+    "answer": "क्या चल रहा है?",
+    "answer_vi": "Có chuyện gì thế?",
+    "options": [
+      "क्या चल रहा है?",
+      "जी हाँ",
+      "कापी​​​​​​​​​",
+      "मित्र"
+    ],
+    "options_vi": [
+      "Có chuyện gì thế?",
+      "Vâng (Lịch sự)",
+      "Sổ tay",
+      "Bạn bè"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What's up?",
+        "english": "क्या चल रहा है? (Có chuyện gì thế?)"
+      },
+      {
+        "hindi": "Yes (respectful)",
+        "english": "जी हाँ (Vâng (Lịch sự))"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Friend",
+        "english": "मित्र (Bạn bè)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: No problem, it happens..",
+    "simpleRule": "Remember: No problem, it happens. means कोई बात नहीं, चलता है। (Không sao đâu, chuyện thường thôi.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No problem, it happens.",
+    "transliteration": "",
+    "english": "कोई बात नहीं, चलता है।",
+    "vietnamese": "Không sao đâu, chuyện thường thôi.",
+    "audio": "No problem, it happens."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friend",
+    "transliteration": "",
+    "english": "दोस्त",
+    "vietnamese": "Bạn bè",
+    "audio": "Friend"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom / To whom",
+    "transliteration": "",
+    "english": "किसे",
+    "vietnamese": "Ai / Cho ai",
+    "audio": "Whom / To whom"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'No problem, it happens.'",
+    "prompt_en": "Choose correct translation for 'No problem, it happens.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'No problem, it happens.'",
+    "text": "No problem, it happens.",
+    "subtext": "",
+    "answer": "कोई बात नहीं, चलता है।",
+    "answer_vi": "Không sao đâu, chuyện thường thôi.",
+    "options": [
+      "कोई बात नहीं, चलता है।",
+      "दोस्त",
+      "बर्फ़​​​​​​​​​​",
+      "किसे"
+    ],
+    "options_vi": [
+      "Không sao đâu, chuyện thường thôi.",
+      "Bạn bè",
+      "Tuyết / Đá",
+      "Ai / Cho ai"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "No problem, it happens.",
+        "english": "कोई बात नहीं, चलता है। (Không sao đâu, chuyện thường thôi.)"
+      },
+      {
+        "hindi": "Friend",
+        "english": "दोस्त (Bạn bè)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Whom / To whom",
+        "english": "किसे (Ai / Cho ai)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Notebook",
+    "translation_en": "कापी​​​​​​​​",
+    "translation_vi": "Sổ tay",
+    "options_en": [
+      "कापी​​​​​​​​",
+      "बर्फ़​​​​​​",
+      "बर्फ़​",
+      "हाँ"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Tuyết / Đá",
+      "Tuyết / Đá",
+      "Vâng / Có"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कापी​​​​​​​​ / Nó là một Sổ tay",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Notebook"
+    ],
+    "correctHindiSentence": "It is a Notebook"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बर्फ़​​​​​​ / Tôi thích Tuyết / Đá",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "I really like Snow / Ice"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Notebook and Whom / To whom",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Level 7",
+    "description": "Master the vocabulary and grammar for: Business - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn business concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Money / Paisa.",
+    "simpleRule": "Remember: Money / Paisa means पैसा (Tiền xu / Tiền)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money / Paisa",
+    "transliteration": "",
+    "english": "पैसा",
+    "vietnamese": "Tiền xu / Tiền",
+    "audio": "Money / Paisa"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Money / Paisa'",
+    "prompt_en": "Choose correct translation for 'Money / Paisa'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Money / Paisa'",
+    "text": "Money / Paisa",
+    "subtext": "",
+    "answer": "पैसा",
+    "answer_vi": "Tiền xu / Tiền",
+    "options": [
+      "पैसा",
+      "दफ़्तर​​​​​​​​",
+      "दफ़्तर​​​​",
+      "काम करना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tiền xu / Tiền",
+      "Văn phòng",
+      "Văn phòng",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Money / Paisa",
+        "english": "पैसा (Tiền xu / Tiền)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​ (Làm việc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To work.",
+    "simpleRule": "Remember: To work means काम करना​​​​ (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To work'",
+    "prompt_en": "Choose correct translation for 'To work'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
+    "text": "To work",
+    "subtext": "",
+    "answer": "काम करना​​​​",
+    "answer_vi": "Làm việc",
+    "options": [
+      "काम करना​​​​",
+      "दफ़्तर​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​",
+      "दफ़्तर​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Văn phòng",
+      "Làm việc",
+      "Văn phòng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​ (Văn phòng)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​​ (Văn phòng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Agreement / Contract.",
+    "simpleRule": "Remember: Agreement / Contract means समझौता (Thỏa thuận / Hợp đồng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Agreement / Contract",
+    "transliteration": "",
+    "english": "समझौता",
+    "vietnamese": "Thỏa thuận / Hợp đồng",
+    "audio": "Agreement / Contract"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Employee",
+    "transliteration": "",
+    "english": "कर्मचारी",
+    "vietnamese": "Nhân viên",
+    "audio": "Employee"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Agreement / Contract'",
+    "prompt_en": "Choose correct translation for 'Agreement / Contract'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Agreement / Contract'",
+    "text": "Agreement / Contract",
+    "subtext": "",
+    "answer": "समझौता",
+    "answer_vi": "Thỏa thuận / Hợp đồng",
+    "options": [
+      "समझौता",
+      "दफ़्तर​​​​​",
+      "काम करना​​​​​​​​​​​​​​​",
+      "कर्मचारी"
+    ],
+    "options_vi": [
+      "Thỏa thuận / Hợp đồng",
+      "Văn phòng",
+      "Làm việc",
+      "Nhân viên"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Agreement / Contract",
+        "english": "समझौता (Thỏa thuận / Hợp đồng)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "Employee",
+        "english": "कर्मचारी (Nhân viên)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To work.",
+    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​ (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To work'",
+    "prompt_en": "Choose correct translation for 'To work'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
+    "text": "To work",
+    "subtext": "",
+    "answer": "काम करना​​​​​​​​​​​​​",
+    "answer_vi": "Làm việc",
+    "options": [
+      "काम करना​​​​​​​​​​​​​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​",
+      "पैसा​​",
+      "दफ़्तर​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Làm việc",
+      "Tiền",
+      "Văn phòng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​ (Tiền)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​​​​​​ (Văn phòng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Money / Paisa",
+    "translation_en": "पैसा",
+    "translation_vi": "Tiền xu / Tiền",
+    "options_en": [
+      "पैसा",
+      "दफ़्तर​​​​​​​​",
+      "दफ़्तर​​​​",
+      "काम करना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tiền xu / Tiền",
+      "Văn phòng",
+      "Văn phòng",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a पैसा / Nó là một Tiền xu / Tiền",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Money / Paisa"
+    ],
+    "correctHindiSentence": "It is a Money / Paisa"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like दफ़्तर​​​​​​​​ / Tôi thích Văn phòng",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Office"
+    ],
+    "correctHindiSentence": "I really like Office"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Money / Paisa and Office",
+      "Practiced constructing sentences."
+    ]
+  }
+]

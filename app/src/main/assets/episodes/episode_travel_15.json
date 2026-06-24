@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 15",
+    "description": "Master the vocabulary and grammar for: Travel - Level 15. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​​​​​​ means Journey (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शौचालय",
+    "transliteration": "shauchaalay",
+    "english": "Restroom / Toilet",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "शौचालय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स्टेशन कहाँ है?",
+    "transliteration": "sṭeśan kahā̃ hai?",
+    "english": "Where is the station?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "स्टेशन कहाँ है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​​​​​​'",
+    "text": "सफ़र​​​​​​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Restroom / Toilet",
+      "Where is the station?",
+      "Journey"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Nhà vệ sinh",
+      "Nhà ga ở đâu?",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "शौचालय",
+        "english": "Restroom / Toilet (Nhà vệ sinh)"
+      },
+      {
+        "hindi": "स्टेशन कहाँ है?",
+        "english": "Where is the station? (Nhà ga ở đâu?)"
+      },
+      {
+        "hindi": "सफ़र​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: टिकट काउंटर.",
+    "simpleRule": "Remember: टिकट काउंटर means Ticket counter (Quầy bán vé)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट काउंटर",
+    "transliteration": "ticket counter",
+    "english": "Ticket counter",
+    "vietnamese": "Quầy bán vé",
+    "audio": "टिकट काउंटर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ध्यान से सुनो।",
+    "transliteration": "dhyaan se suno",
+    "english": "Listen carefully.",
+    "vietnamese": "Nghe cho kỹ nhé.",
+    "audio": "ध्यान से सुनो।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बिंदास",
+    "transliteration": "bindaas",
+    "english": "Carefree / Cool",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "बिंदास"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'टिकट काउंटर'",
+    "prompt_en": "Choose correct translation for 'टिकट काउंटर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'टिकट काउंटर'",
+    "text": "टिकट काउंटर",
+    "subtext": "ticket counter",
+    "answer": "Ticket counter",
+    "answer_vi": "Quầy bán vé",
+    "options": [
+      "Ticket counter",
+      "Journey",
+      "Listen carefully.",
+      "Carefree / Cool"
+    ],
+    "options_vi": [
+      "Quầy bán vé",
+      "Chuyến đi",
+      "Nghe cho kỹ nhé.",
+      "Sống thoải mái / Vô tư"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "टिकट काउंटर",
+        "english": "Ticket counter (Quầy bán vé)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "ध्यान से सुनो।",
+        "english": "Listen carefully. (Nghe cho kỹ nhé.)"
+      },
+      {
+        "hindi": "बिंदास",
+        "english": "Carefree / Cool (Sống thoải mái / Vô tư)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सफ़र​​​​​​​​​​",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
+    "options_en": [
+      "Journey",
+      "Restroom / Toilet",
+      "Where is the station?",
+      "Journey"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Nhà vệ sinh",
+      "Nhà ga ở đâu?",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Journey / Đây là Chuyến đi",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "सफ़र​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक सफ़र​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Restroom / Toilet / Tôi thấy Nhà vệ sinh",
+    "hindiWords": [
+      "मैं",
+      "शौचालय",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं शौचालय देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: सफ़र​​​​​​​​​​, बिंदास",
+      "Practiced constructing sentences."
+    ]
+  }
+]

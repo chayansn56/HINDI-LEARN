@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Culture - Lesson 2",
-    "description": "Learn key vocabulary and concepts for Culture - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "title": "Culture - Level 2",
+    "description": "Master the vocabulary and grammar for: Culture - Level 2. Read the key points carefully.",
     "keyPoints": [
-      "सीखना​​​​​​​​​​​​​ (sīkhnā) = To learn / Học",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (sonā) = To sleep / Ngủ",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (calnā) = To walk / move / Đi bộ / Di chuyển"
+      "Learn culture concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 2",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: सीखना​​​​​​​​​​​​​ means 'To learn' (Học)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मिट्टी​​​​​​​​​.",
+    "simpleRule": "Remember: मिट्टी​​​​​​​​​ means Soil / Earth (Đất)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​",
-    "transliteration": "sīkhnā",
-    "english": "To learn",
-    "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​"
+    "hindi": "मिट्टी​​​​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sonā",
-    "english": "To sleep",
-    "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "मिट्टी​​​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सीखना​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'सीखना​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सीखना​​​​​​​​​​​​​'",
-    "text": "सीखना​​​​​​​​​​​​​",
-    "subtext": "sīkhnā",
-    "answer": "To learn",
-    "answer_vi": "Học",
+    "prompt": "Translate 'मिट्टी​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'मिट्टी​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​​​​​​​​'",
+    "text": "मिट्टी​​​​​​​​​",
+    "subtext": "miṭṭī",
+    "answer": "Soil / Earth",
+    "answer_vi": "Đất",
     "options": [
-      "To wake up",
-      "To sleep",
-      "To learn",
-      "To walk / move"
+      "Soil / Earth",
+      "Soil / Earth",
+      "Dance, my love",
+      "Soil / Earth"
     ],
     "options_vi": [
-      "Thức dậy",
-      "Ngủ",
-      "Học",
-      "Đi bộ / Di chuyển"
+      "Đất",
+      "Đất",
+      "Nhảy đi tình yêu của tôi",
+      "Đất"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मिट्टी​​​​​​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "मिट्टी​​​​​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "मिट्टी​​​​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मिट्टी​​​​​​.",
+    "simpleRule": "Remember: मिट्टी​​​​​​ means Soil / Earth (Đất)."
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​​​​​​​​",
-    "transliteration": "jāgnā",
-    "english": "To wake up",
-    "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​​​​​​​​"
+    "hindi": "मिट्टी​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जूठा",
+    "transliteration": "jūṭhā",
+    "english": "Defiled food",
+    "vietnamese": "Thức ăn thừa / Ô uế",
+    "audio": "जूठा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साझेदारी",
+    "transliteration": "sājhedārī",
+    "english": "Partnership",
+    "vietnamese": "Quan hệ đối tác",
+    "audio": "साझेदारी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मिट्टी​​​​​​'",
+    "prompt_en": "Choose correct translation for 'मिट्टी​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​​​​​'",
+    "text": "मिट्टी​​​​​​",
+    "subtext": "miṭṭī",
+    "answer": "Soil / Earth",
+    "answer_vi": "Đất",
+    "options": [
+      "Soil / Earth",
+      "Soil / Earth",
+      "Defiled food",
+      "Partnership"
+    ],
+    "options_vi": [
+      "Đất",
+      "Đất",
+      "Thức ăn thừa / Ô uế",
+      "Quan hệ đối tác"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सीखना​​​​​​​​​​​​​",
-        "english": "To learn (Học)"
+        "hindi": "मिट्टी​​​​​​",
+        "english": "Soil / Earth (Đất)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sleep (Ngủ)"
+        "hindi": "मिट्टी​​​",
+        "english": "Soil / Earth (Đất)"
       },
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
+        "hindi": "जूठा",
+        "english": "Defiled food (Thức ăn thừa / Ô uế)"
       },
       {
-        "hindi": "जागना​​​​​​​​​​​​​​​​",
-        "english": "To wake up (Thức dậy)"
+        "hindi": "साझेदारी",
+        "english": "Partnership (Quan hệ đối tác)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To sleep",
-    "translation_vi": "Ngủ",
+    "audio": "मिट्टी​​​​​​​​​",
+    "translation_en": "Soil / Earth",
+    "translation_vi": "Đất",
     "options_en": [
-      "To wake up",
-      "To learn",
-      "To sleep",
-      "To walk / move"
+      "Soil / Earth",
+      "Soil / Earth",
+      "Dance, my love",
+      "Soil / Earth"
     ],
     "options_vi": [
-      "Thức dậy",
-      "Học",
-      "Ngủ",
-      "Đi bộ / Di chuyển"
+      "Đất",
+      "Đất",
+      "Nhảy đi tình yêu của tôi",
+      "Đất"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I go to the temple / Tôi đi đến đền thờ",
+    "englishSentence": "This is a Soil / Earth / Đây là Đất",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मिट्टी​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मिट्टी​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Soil / Earth / Tôi thấy Đất",
     "hindiWords": [
       "मैं",
-      "मंदिर",
-      "जाता",
-      "हूँ",
-      "घर",
-      "बाज़ार"
+      "मिट्टी​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं मंदिर जाता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "रोमांस",
-    "transliteration": "romance",
-    "english": "Romance",
-    "vietnamese": "Sự lãng mạn",
-    "audio": "रोमांस"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "जागना​​​​​​​​​​​​​​​​",
-        "english": "To wake up (Thức dậy)"
-      },
-      {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
-      },
-      {
-        "hindi": "रोमांस",
-        "english": "Romance (Sự lãng mạn)"
-      }
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
-    "hindiWords": [
-      "आज",
-      "दिवाली",
-      "है",
-      "होली",
-      "ईद"
-    ],
-    "correctHindiSentence": "आज दिवाली है"
+    "correctHindiSentence": "मैं मिट्टी​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: सीखना​​​​​​​​​​​​​, चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, खड़े होना​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Today is Diwali'."
+      "You learned: मिट्टी​​​​​​​​​, साझेदारी",
+      "Practiced constructing sentences."
     ]
   }
 ]

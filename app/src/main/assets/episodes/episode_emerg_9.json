@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 9",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 9. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मदद कीजिए!.",
+    "simpleRule": "Remember: मदद कीजिए! means Help me! (Giúp tôi với!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद कीजिए!",
+    "transliteration": "madad kījīe!",
+    "english": "Help me!",
+    "vietnamese": "Giúp tôi với!",
+    "audio": "मदद कीजिए!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मेरी मदद करने के लिए धन्यवाद।",
+    "transliteration": "meri madad karne ke liye dhanyavaad",
+    "english": "Thank you for helping me.",
+    "vietnamese": "Cảm ơn vì đã giúp tôi.",
+    "audio": "मेरी मदद करने के लिए धन्यवाद।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मदद कीजिए!'",
+    "prompt_en": "Choose correct translation for 'मदद कीजिए!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद कीजिए!'",
+    "text": "मदद कीजिए!",
+    "subtext": "madad kījīe!",
+    "answer": "Help me!",
+    "answer_vi": "Giúp tôi với!",
+    "options": [
+      "Help me!",
+      "Thank you for helping me.",
+      "Help",
+      "Fire"
+    ],
+    "options_vi": [
+      "Giúp tôi với!",
+      "Cảm ơn vì đã giúp tôi.",
+      "Sự giúp đỡ",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मदद कीजिए!",
+        "english": "Help me! (Giúp tôi với!)"
+      },
+      {
+        "hindi": "मेरी मदद करने के लिए धन्यवाद।",
+        "english": "Thank you for helping me. (Cảm ơn vì đã giúp tôi.)"
+      },
+      {
+        "hindi": "मदद​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "आग​​​​​​​",
+        "english": "Fire (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: आग​​​.",
+    "simpleRule": "Remember: आग​​​ means Fire (Lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दवाई",
+    "transliteration": "dawai",
+    "english": "Medicine",
+    "vietnamese": "Thuốc",
+    "audio": "दवाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'आग​​​'",
+    "prompt_en": "Choose correct translation for 'आग​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​​'",
+    "text": "आग​​​",
+    "subtext": "āg",
+    "answer": "Fire",
+    "answer_vi": "Lửa",
+    "options": [
+      "Fire",
+      "Help",
+      "Medicine",
+      "Help"
+    ],
+    "options_vi": [
+      "Lửa",
+      "Sự giúp đỡ",
+      "Thuốc",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "आग​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मदद​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "दवाई",
+        "english": "Medicine (Thuốc)"
+      },
+      {
+        "hindi": "मदद​​",
+        "english": "Help (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मदद कीजिए!",
+    "translation_en": "Help me!",
+    "translation_vi": "Giúp tôi với!",
+    "options_en": [
+      "Help me!",
+      "Thank you for helping me.",
+      "Help",
+      "Fire"
+    ],
+    "options_vi": [
+      "Giúp tôi với!",
+      "Cảm ơn vì đã giúp tôi.",
+      "Sự giúp đỡ",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Help me! / Đây là Giúp tôi với!",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मदद कीजिए!",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मदद कीजिए! है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Thank you for helping me. / Tôi thấy Cảm ơn vì đã giúp tôi.",
+    "hindiWords": [
+      "मैं",
+      "मेरी मदद करने के लिए धन्यवाद।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मेरी मदद करने के लिए धन्यवाद। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: मदद कीजिए!, मदद​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

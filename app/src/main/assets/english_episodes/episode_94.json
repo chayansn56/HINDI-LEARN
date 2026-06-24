@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 94",
+    "description": "Master the vocabulary and grammar for: Episode 94. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 94",
+    "title_vi": "Tập 94",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Milk (दूध).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Sữa."
+      },
+      {
+        "hindi": "Later, you encounter a World (दुनया​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Thế giới."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Milk",
+        "isCorrect": true
+      },
+      {
+        "text": "World",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Milk.",
+    "simpleRule": "Remember: Milk means दूध (Sữa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Milk",
+    "transliteration": "",
+    "english": "दूध",
+    "vietnamese": "Sữa",
+    "audio": "Milk"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "World",
+    "transliteration": "",
+    "english": "दुनया​​​​​​​",
+    "vietnamese": "Thế giới",
+    "audio": "World"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Villain",
+    "transliteration": "",
+    "english": "विलेन",
+    "vietnamese": "Nhân vật phản diện",
+    "audio": "Villain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Milk'",
+    "prompt_en": "Choose correct translation for 'Milk'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Milk'",
+    "text": "Milk",
+    "subtext": "",
+    "answer": "दूध",
+    "answer_vi": "Sữa",
+    "options": [
+      "दूध",
+      "दुनया​​​​​​​",
+      "बेचना​​",
+      "विलेन"
+    ],
+    "options_vi": [
+      "Sữa",
+      "Thế giới",
+      "Bán",
+      "Nhân vật phản diện"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Milk",
+        "english": "दूध (Sữa)"
+      },
+      {
+        "hindi": "World",
+        "english": "दुनया​​​​​​​ (Thế giới)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​ (Bán)"
+      },
+      {
+        "hindi": "Villain",
+        "english": "विलेन (Nhân vật phản diện)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To buy.",
+    "simpleRule": "Remember: To buy means खरीदना​​​​​​​​​​​​​​​​​​​​​​​ (Mua)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Name",
+    "transliteration": "",
+    "english": "नाम",
+    "vietnamese": "Tên",
+    "audio": "Name"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To buy'",
+    "prompt_en": "Choose correct translation for 'To buy'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To buy'",
+    "text": "To buy",
+    "subtext": "",
+    "answer": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Mua",
+    "options": [
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​",
+      "करना​​​​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​​",
+      "नाम"
+    ],
+    "options_vi": [
+      "Mua",
+      "Làm",
+      "Đứng",
+      "Tên"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​ (Làm)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "Name",
+        "english": "नाम (Tên)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To play.",
+    "simpleRule": "Remember: To play means खेलना​​​​​​​​​​ (Chơi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Wedding / Marriage",
+    "transliteration": "",
+    "english": "शादी",
+    "vietnamese": "Đám cưới / Hôn nhân",
+    "audio": "Wedding / Marriage"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Blue",
+    "transliteration": "",
+    "english": "नीला",
+    "vietnamese": "Màu xanh dương",
+    "audio": "Blue"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To play'",
+    "prompt_en": "Choose correct translation for 'To play'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
+    "text": "To play",
+    "subtext": "",
+    "answer": "खेलना​​​​​​​​​​",
+    "answer_vi": "Chơi",
+    "options": [
+      "खेलना​​​​​​​​​​",
+      "शादी",
+      "नीला",
+      "धोना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Đám cưới / Hôn nhân",
+      "Màu xanh dương",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Wedding / Marriage",
+        "english": "शादी (Đám cưới / Hôn nhân)"
+      },
+      {
+        "hindi": "Blue",
+        "english": "नीला (Màu xanh dương)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Milk",
+    "translation_en": "दूध",
+    "translation_vi": "Sữa",
+    "options_en": [
+      "दूध",
+      "दुनया​​​​​​​",
+      "बेचना​​",
+      "विलेन"
+    ],
+    "options_vi": [
+      "Sữa",
+      "Thế giới",
+      "Bán",
+      "Nhân vật phản diện"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the दूध / Tôi thấy Sữa",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Milk"
+    ],
+    "correctHindiSentence": "I see the Milk"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a दुनया​​​​​​​ / Tôi muốn Thế giới",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "World"
+    ],
+    "correctHindiSentence": "I want a World"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Milk and To wash",
+      "Practiced constructing sentences."
+    ]
+  }
+]

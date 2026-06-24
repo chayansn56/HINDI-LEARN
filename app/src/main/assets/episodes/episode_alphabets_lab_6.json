@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 6",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 6. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: हँसना​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: हँसना​​​​​​​​​​​​​​​​​​​​​​​ means To laugh (Cười lớn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "hãsnā",
+    "english": "To laugh",
+    "vietnamese": "Cười lớn",
+    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "उपभोक्ता",
+    "transliteration": "upabhokta",
+    "english": "Consumer",
+    "vietnamese": "Người tiêu dùng",
+    "audio": "उपभोक्ता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khaṛe honā",
+    "english": "To stand",
+    "vietnamese": "Đứng",
+    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'हँसना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'हँसना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "hãsnā",
+    "answer": "To laugh",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "To laugh",
+      "Consumer",
+      "To walk / move",
+      "To stand"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Người tiêu dùng",
+      "Đi bộ / Di chuyển",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      },
+      {
+        "hindi": "उपभोक्ता",
+        "english": "Consumer (Người tiêu dùng)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: नानी.",
+    "simpleRule": "Remember: नानी means Maternal Grandmother (Bà ngoại)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नानी",
+    "transliteration": "nānī",
+    "english": "Maternal Grandmother",
+    "vietnamese": "Bà ngoại",
+    "audio": "नानी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्षत्रिय",
+    "transliteration": "kṣatriya",
+    "english": "Warrior",
+    "vietnamese": "Chiến binh",
+    "audio": "क्षत्रिय"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'नानी'",
+    "prompt_en": "Choose correct translation for 'नानी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'नानी'",
+    "text": "नानी",
+    "subtext": "nānī",
+    "answer": "Maternal Grandmother",
+    "answer_vi": "Bà ngoại",
+    "options": [
+      "Maternal Grandmother",
+      "To ask",
+      "Cloud",
+      "Warrior"
+    ],
+    "options_vi": [
+      "Bà ngoại",
+      "Hỏi",
+      "Đám mây",
+      "Chiến binh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "नानी",
+        "english": "Maternal Grandmother (Bà ngoại)"
+      },
+      {
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "बादल​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "क्षत्रिय",
+        "english": "Warrior (Chiến binh)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To laugh",
+    "translation_vi": "Cười lớn",
+    "options_en": [
+      "To laugh",
+      "Consumer",
+      "To walk / move",
+      "To stand"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Người tiêu dùng",
+      "Đi bộ / Di chuyển",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To laugh / Đây là Cười lớn",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक हँसना​​​​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Consumer / Tôi thấy Người tiêu dùng",
+    "hindiWords": [
+      "मैं",
+      "उपभोक्ता",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं उपभोक्ता देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: हँसना​​​​​​​​​​​​​​​​​​​​​​​, क्षत्रिय",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 66",
+    "description": "Master the vocabulary and grammar for: Episode 66. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 66",
+    "title_vi": "Tập 66",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Road (सड़क​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đường."
+      },
+      {
+        "hindi": "Later, you encounter a To sing (गाना​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Hát."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Road",
+        "isCorrect": true
+      },
+      {
+        "text": "To sing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Road.",
+    "simpleRule": "Remember: Road means सड़क​​ (Đường)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Road",
+    "transliteration": "",
+    "english": "सड़क​​",
+    "vietnamese": "Đường",
+    "audio": "Road"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Road'",
+    "prompt_en": "Choose correct translation for 'Road'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Road'",
+    "text": "Road",
+    "subtext": "",
+    "answer": "सड़क​​",
+    "answer_vi": "Đường",
+    "options": [
+      "सड़क​​",
+      "गाना​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đường",
+      "Hát",
+      "Thức dậy",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Road",
+        "english": "सड़क​​ (Đường)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Star.",
+    "simpleRule": "Remember: Star means तारा​​​​​​ (Ngôi sao)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Night",
+    "transliteration": "",
+    "english": "रात",
+    "vietnamese": "Đêm",
+    "audio": "Night"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Defiled food",
+    "transliteration": "",
+    "english": "जूठा",
+    "vietnamese": "Thức ăn thừa / Ô uế",
+    "audio": "Defiled food"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Star'",
+    "prompt_en": "Choose correct translation for 'Star'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
+    "text": "Star",
+    "subtext": "",
+    "answer": "तारा​​​​​​",
+    "answer_vi": "Ngôi sao",
+    "options": [
+      "तारा​​​​​​",
+      "रात",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​",
+      "जूठा"
+    ],
+    "options_vi": [
+      "Ngôi sao",
+      "Đêm",
+      "Mua",
+      "Thức ăn thừa / Ô uế"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Night",
+        "english": "रात (Đêm)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "Defiled food",
+        "english": "जूठा (Thức ăn thừa / Ô uế)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बनाना​​​​​​​",
+      "खरीदना​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Chế tạo / Tạo ra",
+      "Mua",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​ (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Road",
+    "translation_en": "सड़क​​",
+    "translation_vi": "Đường",
+    "options_en": [
+      "सड़क​​",
+      "गाना​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đường",
+      "Hát",
+      "Thức dậy",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सड़क​​ / Tôi thấy Đường",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Road"
+    ],
+    "correctHindiSentence": "I see the Road"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To sing"
+    ],
+    "correctHindiSentence": "I want a To sing"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Road and To stand",
+      "Practiced constructing sentences."
+    ]
+  }
+]

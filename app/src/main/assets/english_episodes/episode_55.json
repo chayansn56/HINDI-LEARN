@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 55",
+    "description": "Master the vocabulary and grammar for: Episode 55. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 55",
+    "title_vi": "Tập 55",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Country (देश​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đất nước."
+      },
+      {
+        "hindi": "Later, you encounter a To tell / explain (बताना​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Kể / Giải thích."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Country",
+        "isCorrect": true
+      },
+      {
+        "text": "To tell / explain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Country.",
+    "simpleRule": "Remember: Country means देश​​​​​​​ (Đất nước)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Country",
+    "transliteration": "",
+    "english": "देश​​​​​​​",
+    "vietnamese": "Đất nước",
+    "audio": "Country"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Country'",
+    "prompt_en": "Choose correct translation for 'Country'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Country'",
+    "text": "Country",
+    "subtext": "",
+    "answer": "देश​​​​​​​",
+    "answer_vi": "Đất nước",
+    "options": [
+      "देश​​​​​​​",
+      "बताना​​​​​​​",
+      "बादल​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đất nước",
+      "Kể / Giải thích",
+      "Đám mây",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Country",
+        "english": "देश​​​​​​​ (Đất nước)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To play.",
+    "simpleRule": "Remember: To play means खेलना​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Passport",
+    "transliteration": "",
+    "english": "पासपोर्ट",
+    "vietnamese": "Hộ chiếu",
+    "audio": "Passport"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Garden",
+    "transliteration": "",
+    "english": "बग़ीचा​",
+    "vietnamese": "Khu vườn",
+    "audio": "Garden"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friday",
+    "transliteration": "",
+    "english": "शुक्रवार",
+    "vietnamese": "Thứ sáu",
+    "audio": "Friday"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To play'",
+    "prompt_en": "Choose correct translation for 'To play'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
+    "text": "To play",
+    "subtext": "",
+    "answer": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chơi",
+    "options": [
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पासपोर्ट",
+      "बग़ीचा​",
+      "शुक्रवार"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Hộ chiếu",
+      "Khu vườn",
+      "Thứ sáu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Passport",
+        "english": "पासपोर्ट (Hộ chiếu)"
+      },
+      {
+        "hindi": "Garden",
+        "english": "बग़ीचा​ (Khu vườn)"
+      },
+      {
+        "hindi": "Friday",
+        "english": "शुक्रवार (Thứ sáu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "The weather is very nice.",
+    "transliteration": "",
+    "english": "मौसम बहुत अच्छा है।",
+    "vietnamese": "Thời tiết rất đẹp.",
+    "audio": "The weather is very nice."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am hungry.",
+    "transliteration": "",
+    "english": "मुझे भूख लगी है।",
+    "vietnamese": "Tôi đói.",
+    "audio": "I am hungry."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मौसम बहुत अच्छा है।",
+      "मुझे भूख लगी है।",
+      "देखना​​"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Thời tiết rất đẹp.",
+      "Tôi đói.",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "The weather is very nice.",
+        "english": "मौसम बहुत अच्छा है। (Thời tiết rất đẹp.)"
+      },
+      {
+        "hindi": "I am hungry.",
+        "english": "मुझे भूख लगी है। (Tôi đói.)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Country",
+    "translation_en": "देश​​​​​​​",
+    "translation_vi": "Đất nước",
+    "options_en": [
+      "देश​​​​​​​",
+      "बताना​​​​​​​",
+      "बादल​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đất nước",
+      "Kể / Giải thích",
+      "Đám mây",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the देश​​​​​​​ / Tôi thấy Đất nước",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Country"
+    ],
+    "correctHindiSentence": "I see the Country"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बताना​​​​​​​ / Tôi muốn Kể / Giải thích",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To tell / explain"
+    ],
+    "correctHindiSentence": "I want a To tell / explain"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Country and To see / watch",
+      "Practiced constructing sentences."
+    ]
+  }
+]

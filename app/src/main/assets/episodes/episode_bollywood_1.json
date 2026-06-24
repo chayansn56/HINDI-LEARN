@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Bollywood - Lesson 1",
-    "description": "Learn key vocabulary and concepts for Bollywood - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "title": "Bollywood - Level 1",
+    "description": "Master the vocabulary and grammar for: Bollywood - Level 1. Read the key points carefully.",
     "keyPoints": [
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (sikhānā) = To teach / Dạy",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (pūchnā) = To ask / Hỏi",
-      "चेहरा (chehra) = Face / Khuôn mặt"
+      "Learn bollywood concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 1",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To teach' (Dạy)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: गाना.",
+    "simpleRule": "Remember: गाना means To sing / Song (Hát / Bài hát)."
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sikhānā",
-    "english": "To teach",
-    "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "गाना",
+    "transliteration": "gānā",
+    "english": "To sing / Song",
+    "vietnamese": "Hát / Bài hát",
+    "audio": "गाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "हीरो",
+    "transliteration": "hīro",
+    "english": "Hero",
+    "vietnamese": "Nam chính / Anh hùng",
+    "audio": "हीरो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "sikhānā",
-    "answer": "To teach",
-    "answer_vi": "Dạy",
+    "prompt": "Translate 'गाना'",
+    "prompt_en": "Choose correct translation for 'गाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गाना'",
+    "text": "गाना",
+    "subtext": "gānā",
+    "answer": "To sing / Song",
+    "answer_vi": "Hát / Bài hát",
     "options": [
-      "To teach",
-      "To ask",
-      "Face",
-      "Vermilion"
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
     ],
     "options_vi": [
-      "Dạy",
-      "Hỏi",
-      "Khuôn mặt",
-      "Bột đỏ son"
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "चेहरा",
-    "transliteration": "chehra",
-    "english": "Face",
-    "vietnamese": "Khuôn mặt",
-    "audio": "चेहरा"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "गाना",
+        "english": "To sing / Song (Hát / Bài hát)"
+      },
+      {
+        "hindi": "हीरो",
+        "english": "Hero (Nam chính / Anh hùng)"
+      },
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: फ़िल्म.",
+    "simpleRule": "Remember: फ़िल्म means Movie (Bộ phim)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सिंदूर",
-    "transliteration": "sindūr",
-    "english": "Vermilion",
-    "vietnamese": "Bột đỏ son",
-    "audio": "सिंदूर"
+    "hindi": "फ़िल्म",
+    "transliteration": "film",
+    "english": "Movie",
+    "vietnamese": "Bộ phim",
+    "audio": "फ़िल्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोमांस",
+    "transliteration": "romance",
+    "english": "Romance",
+    "vietnamese": "Sự lãng mạn",
+    "audio": "रोमांस"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़िल्म'",
+    "prompt_en": "Choose correct translation for 'फ़िल्म'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़िल्म'",
+    "text": "फ़िल्म",
+    "subtext": "film",
+    "answer": "Movie",
+    "answer_vi": "Bộ phim",
+    "options": [
+      "Movie",
+      "Romance",
+      "To speak",
+      "Pen"
+    ],
+    "options_vi": [
+      "Bộ phim",
+      "Sự lãng mạn",
+      "Nói",
+      "Bút"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
+        "hindi": "फ़िल्म",
+        "english": "Movie (Bộ phim)"
       },
       {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
+        "hindi": "रोमांस",
+        "english": "Romance (Sự lãng mạn)"
       },
       {
-        "hindi": "चेहरा",
-        "english": "Face (Khuôn mặt)"
+        "hindi": "बोलना​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "सिंदूर",
-        "english": "Vermilion (Bột đỏ son)"
+        "hindi": "पेन​​​​​",
+        "english": "Pen (Bút)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To ask",
-    "translation_vi": "Hỏi",
+    "audio": "गाना",
+    "translation_en": "To sing / Song",
+    "translation_vi": "Hát / Bài hát",
     "options_en": [
-      "Vermilion",
-      "To teach",
-      "Face",
-      "To ask"
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
     ],
     "options_vi": [
-      "Bột đỏ son",
-      "Dạy",
-      "Khuôn mặt",
-      "Hỏi"
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is my dream / Đây là giấc mơ của tôi",
+    "englishSentence": "This is a To sing / Song / Đây là Hát / Bài hát",
     "hindiWords": [
       "यह",
-      "मेरा",
-      "सपना",
-      "है",
-      "दिल",
-      "ज़िंदगी"
+      "एक",
+      "गाना",
+      "है"
     ],
-    "correctHindiSentence": "यह मेरा सपना है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "bolnā",
-    "english": "To speak",
-    "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "band karnā",
-    "english": "To close",
-    "vietnamese": "Đóng",
-    "audio": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "चेहरा",
-        "english": "Face (Khuôn mặt)"
-      },
-      {
-        "hindi": "सिंदूर",
-        "english": "Vermilion (Bột đỏ son)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To close (Đóng)"
-      }
-    ]
+    "correctHindiSentence": "यह एक गाना है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I love you / Tôi yêu bạn",
+    "englishSentence": "I see Hero / Tôi thấy Nam chính / Anh hùng",
     "hindiWords": [
       "मैं",
-      "तुमसे",
-      "प्यार",
-      "करता",
-      "हूँ",
-      "दोस्त"
+      "हीरो",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं तुमसे प्यार करता हूँ"
+    "correctHindiSentence": "मैं हीरो देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​, चेहरा, बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I love you'."
+      "You learned: गाना, पेन​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

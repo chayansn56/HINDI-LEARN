@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 79",
+    "description": "Master the vocabulary and grammar for: Episode 79. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 79",
+    "title_vi": "Tập 79",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Country (देश​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đất nước."
+      },
+      {
+        "hindi": "Later, you encounter a To sing (गाना​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Hát."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Country",
+        "isCorrect": true
+      },
+      {
+        "text": "To sing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Country.",
+    "simpleRule": "Remember: Country means देश​​​​​​ (Đất nước)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Country",
+    "transliteration": "",
+    "english": "देश​​​​​​",
+    "vietnamese": "Đất nước",
+    "audio": "Country"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​​​​​​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shopkeeper",
+    "transliteration": "",
+    "english": "दुकानदार",
+    "vietnamese": "Chủ cửa hàng",
+    "audio": "Shopkeeper"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Country'",
+    "prompt_en": "Choose correct translation for 'Country'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Country'",
+    "text": "Country",
+    "subtext": "",
+    "answer": "देश​​​​​​",
+    "answer_vi": "Đất nước",
+    "options": [
+      "देश​​​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​​​​​",
+      "ताला​​​​​​",
+      "दुकानदार"
+    ],
+    "options_vi": [
+      "Đất nước",
+      "Hát",
+      "Ổ khóa",
+      "Chủ cửa hàng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Country",
+        "english": "देश​​​​​​ (Đất nước)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "Lock",
+        "english": "ताला​​​​​​ (Ổ khóa)"
+      },
+      {
+        "hindi": "Shopkeeper",
+        "english": "दुकानदार (Chủ cửa hàng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: I am proud of you..",
+    "simpleRule": "Remember: I am proud of you. means मुझे तुम पर गर्व है। (Tôi tự hào về bạn.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am proud of you.",
+    "transliteration": "",
+    "english": "मुझे तुम पर गर्व है।",
+    "vietnamese": "Tôi tự hào về bạn.",
+    "audio": "I am proud of you."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Gold",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Vàng",
+    "audio": "Gold"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hospital",
+    "transliteration": "",
+    "english": "अस्पताल",
+    "vietnamese": "Bệnh viện",
+    "audio": "Hospital"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I am proud of you.'",
+    "prompt_en": "Choose correct translation for 'I am proud of you.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I am proud of you.'",
+    "text": "I am proud of you.",
+    "subtext": "",
+    "answer": "मुझे तुम पर गर्व है।",
+    "answer_vi": "Tôi tự hào về bạn.",
+    "options": [
+      "मुझे तुम पर गर्व है।",
+      "हँसना​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "अस्पताल"
+    ],
+    "options_vi": [
+      "Tôi tự hào về bạn.",
+      "Cười lớn",
+      "Vàng",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I am proud of you.",
+        "english": "मुझे तुम पर गर्व है। (Tôi tự hào về bạn.)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "Gold",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​ (Vàng)"
+      },
+      {
+        "hindi": "Hospital",
+        "english": "अस्पताल (Bệnh viện)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​​​​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Silver",
+    "transliteration": "",
+    "english": "चाँदी​​​​​​",
+    "vietnamese": "Bạc",
+    "audio": "Silver"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "ताला​​​​",
+      "चाँदी​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Ổ khóa",
+      "Bạc",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Lock",
+        "english": "ताला​​​​ (Ổ khóa)"
+      },
+      {
+        "hindi": "Silver",
+        "english": "चाँदी​​​​​​ (Bạc)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Country",
+    "translation_en": "देश​​​​​​",
+    "translation_vi": "Đất nước",
+    "options_en": [
+      "देश​​​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​​​​​",
+      "ताला​​​​​​",
+      "दुकानदार"
+    ],
+    "options_vi": [
+      "Đất nước",
+      "Hát",
+      "Ổ khóa",
+      "Chủ cửa hàng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the देश​​​​​​ / Tôi thấy Đất nước",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Country"
+    ],
+    "correctHindiSentence": "I see the Country"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To sing"
+    ],
+    "correctHindiSentence": "I want a To sing"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Country and To wake up",
+      "Practiced constructing sentences."
+    ]
+  }
+]

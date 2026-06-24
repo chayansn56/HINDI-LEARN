@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Business - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Business - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Business - Level 3",
+    "description": "Master the vocabulary and grammar for: Business - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (hãsnā) = To laugh / Cười lớn",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (khaṛe honā) = To stand / Đứng",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​ (dhonā) = To wash / Rửa / Giặt"
+      "Learn business concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To laugh' (Cười lớn)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दफ़्तर​​​​​​​​​​.",
+    "simpleRule": "Remember: दफ़्तर​​​​​​​​​​ means Office (Văn phòng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "दफ़्तर​​​​​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "नौकरी",
+    "transliteration": "naukri",
+    "english": "Job / Employment",
+    "vietnamese": "Công ăn việc làm",
+    "audio": "नौकरी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मूल्य",
+    "transliteration": "moolya",
+    "english": "Value / Price",
+    "vietnamese": "Giá trị",
+    "audio": "मूल्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "hãsnā",
-    "answer": "To laugh",
-    "answer_vi": "Cười lớn",
+    "prompt": "Translate 'दफ़्तर​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​​​​​​​'",
+    "text": "दफ़्तर​​​​​​​​​​",
+    "subtext": "daftar",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
     "options": [
-      "To stand",
-      "To clean",
-      "To wash",
-      "To laugh"
+      "Office",
+      "Job / Employment",
+      "Value / Price",
+      "Money"
     ],
     "options_vi": [
-      "Đứng",
-      "Dọn dẹp / Lau chùi",
-      "Rửa / Giặt",
-      "Cười lớn"
+      "Văn phòng",
+      "Công ăn việc làm",
+      "Giá trị",
+      "Tiền"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "dhonā",
-    "english": "To wash",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "धोना​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दफ़्तर​​​​​​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "नौकरी",
+        "english": "Job / Employment (Công ăn việc làm)"
+      },
+      {
+        "hindi": "मूल्य",
+        "english": "Value / Price (Giá trị)"
+      },
+      {
+        "hindi": "पैसा​​​​",
+        "english": "Money (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: दफ़्तर​​​​​​​​.",
+    "simpleRule": "Remember: दफ़्तर​​​​​​​​ means Office (Văn phòng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sāf karnā",
-    "english": "To clean",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "दफ़्तर​​​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भाव खाना",
+    "transliteration": "bhaav khaana",
+    "english": "To act pricey / show attitude",
+    "vietnamese": "Làm kiêu / Tỏ vẻ",
+    "audio": "भाव खाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दफ़्तर​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​​​​​'",
+    "text": "दफ़्तर​​​​​​​​",
+    "subtext": "daftar",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "Office",
+      "To act pricey / show attitude",
+      "Office",
+      "Money"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Làm kiêu / Tỏ vẻ",
+      "Văn phòng",
+      "Tiền"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
+        "hindi": "दफ़्तर​​​​​​​​",
+        "english": "Office (Văn phòng)"
       },
       {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
+        "hindi": "भाव खाना",
+        "english": "To act pricey / show attitude (Làm kiêu / Tỏ vẻ)"
       },
       {
-        "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To wash (Rửa / Giặt)"
+        "hindi": "दफ़्तर​​​​​​​​​",
+        "english": "Office (Văn phòng)"
       },
       {
-        "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To clean (Dọn dẹp / Lau chùi)"
+        "hindi": "पैसा​​​​​​​​​​​",
+        "english": "Money (Tiền)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To stand",
-    "translation_vi": "Đứng",
+    "audio": "दफ़्तर​​​​​​​​​​",
+    "translation_en": "Office",
+    "translation_vi": "Văn phòng",
     "options_en": [
-      "To stand",
-      "To laugh",
-      "To clean",
-      "To wash"
+      "Office",
+      "Job / Employment",
+      "Value / Price",
+      "Money"
     ],
     "options_vi": [
-      "Đứng",
-      "Cười lớn",
-      "Dọn dẹp / Lau chùi",
-      "Rửa / Giặt"
+      "Văn phòng",
+      "Công ăn việc làm",
+      "Giá trị",
+      "Tiền"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please sign here / Vui lòng ký vào đây",
+    "englishSentence": "This is a Office / Đây là Văn phòng",
     "hindiWords": [
-      "कृपया",
-      "यहाँ",
-      "हस्ताक्षर",
-      "करें",
-      "कागज़",
-      "लिखना"
+      "यह",
+      "एक",
+      "दफ़्तर​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "कृपया यहाँ हस्ताक्षर करें"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सफलता",
-    "transliteration": "safalta",
-    "english": "Success",
-    "vietnamese": "Sự thành công",
-    "audio": "सफलता"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "धोना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To wash (Rửa / Giặt)"
-      },
-      {
-        "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To clean (Dọn dẹp / Lau chùi)"
-      },
-      {
-        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To tell / explain (Kể / Giải thích)"
-      },
-      {
-        "hindi": "सफलता",
-        "english": "Success (Sự thành công)"
-      }
-    ]
+    "correctHindiSentence": "यह एक दफ़्तर​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the office? / Văn phòng ở đâu?",
+    "englishSentence": "I see Job / Employment / Tôi thấy Công ăn việc làm",
     "hindiWords": [
-      "दफ़्तर",
-      "कहाँ",
-      "है",
-      "कमरा",
-      "में"
+      "मैं",
+      "नौकरी",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "दफ़्तर कहाँ है"
+    "correctHindiSentence": "मैं नौकरी देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, धोना​​​​​​​​​​​​​​​​​​​​​​, बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Where is the office?'."
+      "You learned: दफ़्तर​​​​​​​​​​, पैसा​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

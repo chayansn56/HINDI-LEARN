@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Level 18",
+    "description": "Master the vocabulary and grammar for: Write - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn write concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​",
+      "पढ़ना​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Đọc",
+      "Viết",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​ (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Mở",
+      "Viết",
+      "Mở"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​ (Sổ tay)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: to drink.",
+    "simpleRule": "Remember: to drink means पीना (Uống)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to drink",
+    "transliteration": "",
+    "english": "पीना",
+    "vietnamese": "Uống",
+    "audio": "to drink"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'to drink'",
+    "prompt_en": "Choose correct translation for 'to drink'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
+    "text": "to drink",
+    "subtext": "",
+    "answer": "पीना",
+    "answer_vi": "Uống",
+    "options": [
+      "पीना",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Uống",
+      "Viết",
+      "Mở",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "to drink",
+        "english": "पीना (Uống)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To read.",
+    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Letter / Character",
+    "transliteration": "",
+    "english": "अक्षर",
+    "vietnamese": "Chữ cái / Ký tự",
+    "audio": "Letter / Character"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pen",
+    "transliteration": "",
+    "english": "पेन​​​​​",
+    "vietnamese": "Bút",
+    "audio": "Pen"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To read'",
+    "prompt_en": "Choose correct translation for 'To read'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
+    "text": "To read",
+    "subtext": "",
+    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "अक्षर",
+      "पेन​​​​​"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Đọc",
+      "Chữ cái / Ký tự",
+      "Bút"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "Letter / Character",
+        "english": "अक्षर (Chữ cái / Ký tự)"
+      },
+      {
+        "hindi": "Pen",
+        "english": "पेन​​​​​ (Bút)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Notebook",
+    "translation_en": "कापी​​​​​",
+    "translation_vi": "Sổ tay",
+    "options_en": [
+      "कापी​​​​​",
+      "पढ़ना​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Đọc",
+      "Viết",
+      "Viết"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कापी​​​​​ / Nó là một Sổ tay",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Notebook"
+    ],
+    "correctHindiSentence": "It is a Notebook"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like पढ़ना​​​​​​​​​​​ / Tôi thích Đọc",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To read"
+    ],
+    "correctHindiSentence": "I really like To read"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Notebook and Pen",
+      "Practiced constructing sentences."
+    ]
+  }
+]

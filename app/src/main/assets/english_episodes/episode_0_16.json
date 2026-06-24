@@ -1,0 +1,304 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Simple Present Tense",
+    "description": "Master the vocabulary and grammar for: Simple Present Tense. Read the key points carefully.",
+    "keyPoints": [
+      "Focus: Simple Present Tense"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To run.",
+    "simpleRule": "Remember: To run means दौड़ना​​​​ (Chạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To run'",
+    "prompt_en": "Choose correct translation for 'To run'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
+    "text": "To run",
+    "subtext": "",
+    "answer": "दौड़ना​​​​",
+    "answer_vi": "Chạy",
+    "options": [
+      "दौड़ना​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​",
+      "बोलना​​"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Chạy",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To walk / move.",
+    "simpleRule": "Remember: To walk / move means चलना​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To walk / move'",
+    "prompt_en": "Choose correct translation for 'To walk / move'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
+    "text": "To walk / move",
+    "subtext": "",
+    "answer": "चलना​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đi bộ / Di chuyển",
+    "options": [
+      "चलना​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Viết",
+      "Ngủ",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Đi bộ / Di chuyển",
+      "Nghe",
+      "Chạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To run",
+    "translation_en": "दौड़ना​​​​",
+    "translation_vi": "Chạy",
+    "options_en": [
+      "दौड़ना​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​",
+      "बोलना​​"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Chạy",
+      "Nghe",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the दौड़ना​​​​ / Tôi thấy Chạy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To run"
+    ],
+    "correctHindiSentence": "I see the To run"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​? / Chạy ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "the",
+      "To run"
+    ],
+    "correctHindiSentence": "Where is the To run"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To run and To run",
+      "Practiced constructing sentences."
+    ]
+  }
+]

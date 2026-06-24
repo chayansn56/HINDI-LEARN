@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Foundation Academy - Level 28",
-    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 28. Listen carefully and read along in English and Vietnamese.",
+    "title": "Common Verbs",
+    "description": "Master the vocabulary and grammar for: Common Verbs. Read the key points carefully.",
     "keyPoints": [
-      "चलना​​​​​​​​​​​​​​ (calnā) = To walk / move / Đi bộ / Di chuyển",
-      "हँसना​​​​​​​​​ (hãsnā) = To laugh / Cười lớn",
-      "चलना​​​​​​​ (calnā) = To walk / move / Đi bộ / Di chuyển"
+      "Focus: Common Verbs"
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Alphabet & Building Blocks - Part 28",
-    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: चलना​​​​​​​​​​​​​​ means 'To walk / move' (Đi bộ / Di chuyển)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: देखना​.",
+    "simpleRule": "Remember: देखना​ means To see / watch (Nhìn / Xem)."
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​"
+    "hindi": "देखना​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​"
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'चलना​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'चलना​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'चलना​​​​​​​​​​​​​​'",
-    "text": "चलना​​​​​​​​​​​​​​",
-    "subtext": "calnā",
-    "answer": "To walk / move",
-    "answer_vi": "Đi bộ / Di chuyển",
+    "prompt": "Translate 'देखना​'",
+    "prompt_en": "Choose correct translation for 'देखना​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​'",
+    "text": "देखना​",
+    "subtext": "dekhnā",
+    "answer": "To see / watch",
+    "answer_vi": "Nhìn / Xem",
     "options": [
-      "To walk / move",
-      "Garden",
-      "River",
-      "To laugh"
+      "To see / watch",
+      "To speak",
+      "To sleep",
+      "To sleep"
     ],
     "options_vi": [
-      "Đi bộ / Di chuyển",
-      "Khu vườn",
-      "Con sông",
-      "Cười lớn"
+      "Nhìn / Xem",
+      "Nói",
+      "Ngủ",
+      "Ngủ"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "चलना​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "देखना​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: देखना​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: देखना​​​​​​​​​​​​​​​​​​​​​​​ means To see / watch (Nhìn / Xem)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बग़ीचा​​​​​​​​​​​",
-    "transliteration": "bagīcā",
-    "english": "Garden",
-    "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​​​​​​​​​​​"
+    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'देखना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'देखना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "देखना​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "dekhnā",
+    "answer": "To see / watch",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "To see / watch",
+      "To sleep",
+      "To sleep",
+      "To speak"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Ngủ",
+      "Ngủ",
+      "Nói"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "चलना​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
+        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
       },
       {
-        "hindi": "हँसना​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
       },
       {
-        "hindi": "चलना​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
+        "hindi": "सोना​​​",
+        "english": "To sleep (Ngủ)"
       },
       {
-        "hindi": "बग़ीचा​​​​​​​​​​​",
-        "english": "Garden (Khu vườn)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "हँसना​​​​​​​​​",
-    "translation_en": "To laugh",
-    "translation_vi": "Cười lớn",
+    "audio": "देखना​",
+    "translation_en": "To see / watch",
+    "translation_vi": "Nhìn / Xem",
     "options_en": [
-      "To laugh",
-      "Garden",
-      "To walk / move",
-      "To walk / move"
+      "To see / watch",
+      "To speak",
+      "To sleep",
+      "To sleep"
     ],
     "options_vi": [
-      "Cười lớn",
-      "Khu vườn",
-      "Đi bộ / Di chuyển",
-      "Đi bộ / Di chuyển"
+      "Nhìn / Xem",
+      "Nói",
+      "Ngủ",
+      "Ngủ"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
+    "englishSentence": "I know To see / watch / Tôi biết Nhìn / Xem",
     "hindiWords": [
       "मैं",
-      "सेब",
-      "खाता",
-      "हूँ",
-      "रोटी",
-      "है"
+      "देखना​",
+      "जानता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं सेब खाता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "नदी​​​​​​​",
-    "transliteration": "nadī",
-    "english": "River",
-    "vietnamese": "Con sông",
-    "audio": "नदी​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बनाना​​​​",
-    "transliteration": "banānā",
-    "english": "To make / build",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "चलना​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "बग़ीचा​​​​​​​​​​​",
-        "english": "Garden (Khu vườn)"
-      },
-      {
-        "hindi": "नदी​​​​​​​",
-        "english": "River (Con sông)"
-      },
-      {
-        "hindi": "बनाना​​​​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
-      }
-    ]
+    "correctHindiSentence": "मैं देखना​ जानता हूँ"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "englishSentence": "Where is To speak? / Nói ở đâu?",
     "hindiWords": [
-      "मैं",
-      "लड़का",
-      "हूँ",
-      "लड़की",
-      "है"
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "कहाँ",
+      "है",
+      "था"
     ],
-    "correctHindiSentence": "मैं लड़का हूँ"
+    "correctHindiSentence": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ कहाँ है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: चलना​​​​​​​​​​​​​​, चलना​​​​​​​, नदी​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I am a boy'."
+      "You learned: देखना​, बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

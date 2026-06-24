@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Pron - Lesson 7",
-    "description": "Learn key vocabulary and concepts for Pron - Lesson 7. Listen carefully and read along in English and Vietnamese.",
+    "title": "Pron - Level 7",
+    "description": "Master the vocabulary and grammar for: Pron - Level 7. Read the key points carefully.",
     "keyPoints": [
-      "पढ़ना​ (paṛhnā) = To read / Đọc",
-      "रोना​​​ (ronā) = To cry / Khóc",
-      "बताना​ (batānā) = To tell / explain / Kể / Giải thích"
+      "Learn pron concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 7",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: पढ़ना​ means 'To read' (Đọc)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सुनना​​​.",
+    "simpleRule": "Remember: सुनना​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​"
+    "hindi": "सुनना​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पढ़ना​'",
-    "prompt_en": "Choose the correct translation for 'पढ़ना​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पढ़ना​'",
-    "text": "पढ़ना​",
-    "subtext": "paṛhnā",
-    "answer": "To read",
-    "answer_vi": "Đọc",
+    "prompt": "Translate 'सुनना​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​'",
+    "text": "सुनना​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
     "options": [
-      "To wash",
-      "To tell / explain",
-      "To read",
-      "To cry"
+      "To listen / hear",
+      "To speak",
+      "Cloud",
+      "To speak"
     ],
     "options_vi": [
-      "Rửa / Giặt",
-      "Kể / Giải thích",
-      "Đọc",
-      "Khóc"
+      "Nghe",
+      "Nói",
+      "Đám mây",
+      "Nói"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "बताना​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सुनना​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बादल",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "धोना​​",
-    "transliteration": "dhonā",
-    "english": "To wash",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "धोना​​"
+    "hindi": "सुनना​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ज़ोर से बोलिए।",
+    "transliteration": "zor se boliye",
+    "english": "Speak louder.",
+    "vietnamese": "Nói to lên.",
+    "audio": "ज़ोर से बोलिए।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To speak",
+      "Cloud",
+      "Speak louder."
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nói",
+      "Đám mây",
+      "Nói to lên."
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "पढ़ना​",
-        "english": "To read (Đọc)"
+        "hindi": "सुनना​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "रोना​​​",
-        "english": "To cry (Khóc)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "बताना​",
-        "english": "To tell / explain (Kể / Giải thích)"
+        "hindi": "बादल​​​",
+        "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "धोना​​",
-        "english": "To wash (Rửa / Giặt)"
+        "hindi": "ज़ोर से बोलिए।",
+        "english": "Speak louder. (Nói to lên.)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "रोना​​​",
-    "translation_en": "To cry",
-    "translation_vi": "Khóc",
+    "audio": "सुनना​​​",
+    "translation_en": "To listen / hear",
+    "translation_vi": "Nghe",
     "options_en": [
-      "To cry",
-      "To tell / explain",
-      "To wash",
-      "To read"
+      "To listen / hear",
+      "To speak",
+      "Cloud",
+      "To speak"
     ],
     "options_vi": [
-      "Khóc",
-      "Kể / Giải thích",
-      "Rửa / Giặt",
-      "Đọc"
+      "Nghe",
+      "Nói",
+      "Đám mây",
+      "Nói"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "What is your name? / Tên của bạn là gì?",
+    "englishSentence": "This is a To listen / hear / Đây là Nghe",
     "hindiWords": [
-      "आपका",
-      "नाम",
-      "क्या",
-      "है",
-      "मेरा",
-      "लड़का"
+      "यह",
+      "एक",
+      "सुनना​​​",
+      "है"
     ],
-    "correctHindiSentence": "आपका नाम क्या है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "धोना​",
-    "transliteration": "dhonā",
-    "english": "To wash",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "धोना​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "जागना​​​​",
-    "transliteration": "jāgnā",
-    "english": "To wake up",
-    "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "बताना​",
-        "english": "To tell / explain (Kể / Giải thích)"
-      },
-      {
-        "hindi": "धोना​​",
-        "english": "To wash (Rửa / Giặt)"
-      },
-      {
-        "hindi": "धोना​",
-        "english": "To wash (Rửa / Giặt)"
-      },
-      {
-        "hindi": "जागना​​​​",
-        "english": "To wake up (Thức dậy)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सुनना​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "He is a boy / Cậu ấy là một cậu bé",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
-      "वह",
-      "लड़का",
-      "है",
-      "हूँ",
-      "वे"
+      "मैं",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "वह लड़का है"
+    "correctHindiSentence": "मैं बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: पढ़ना​, बताना​, धोना​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'He is a boy'."
+      "You learned: सुनना​​​, ज़ोर से बोलिए।",
+      "Practiced constructing sentences."
     ]
   }
 ]

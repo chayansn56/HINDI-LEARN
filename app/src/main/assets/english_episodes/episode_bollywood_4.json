@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Bollywood - Level 4",
+    "description": "Master the vocabulary and grammar for: Bollywood - Level 4. Read the key points carefully.",
+    "keyPoints": [
+      "Learn bollywood concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Let's start..",
+    "simpleRule": "Remember: Let's start. means चलो शुरू करते हैं। (Hãy bắt đầu thôi.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Let's start.",
+    "transliteration": "",
+    "english": "चलो शुरू करते हैं।",
+    "vietnamese": "Hãy bắt đầu thôi.",
+    "audio": "Let's start."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing / Song",
+    "transliteration": "",
+    "english": "गाना",
+    "vietnamese": "Hát / Bài hát",
+    "audio": "To sing / Song"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Let's start.'",
+    "prompt_en": "Choose correct translation for 'Let's start.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Let's start.'",
+    "text": "Let's start.",
+    "subtext": "",
+    "answer": "चलो शुरू करते हैं।",
+    "answer_vi": "Hãy bắt đầu thôi.",
+    "options": [
+      "चलो शुरू करते हैं।",
+      "गाना",
+      "तारा​​​",
+      "तारा​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hãy bắt đầu thôi.",
+      "Hát / Bài hát",
+      "Ngôi sao",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Let's start.",
+        "english": "चलो शुरू करते हैं। (Hãy bắt đầu thôi.)"
+      },
+      {
+        "hindi": "To sing / Song",
+        "english": "गाना (Hát / Bài hát)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​​ (Ngôi sao)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Star.",
+    "simpleRule": "Remember: Star means तारा​​ (Ngôi sao)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dance",
+    "transliteration": "",
+    "english": "नृत्य",
+    "vietnamese": "Điệu nhảy",
+    "audio": "Dance"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Star'",
+    "prompt_en": "Choose correct translation for 'Star'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
+    "text": "Star",
+    "subtext": "",
+    "answer": "तारा​​",
+    "answer_vi": "Ngôi sao",
+    "options": [
+      "तारा​​",
+      "नृत्य",
+      "तारा​​​​​​​​",
+      "तारा​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngôi sao",
+      "Điệu nhảy",
+      "Ngôi sao",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Star",
+        "english": "तारा​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Dance",
+        "english": "नृत्य (Điệu nhảy)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Cinema / Theater.",
+    "simpleRule": "Remember: Cinema / Theater means सिनेमा (Điện ảnh)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cinema / Theater",
+    "transliteration": "",
+    "english": "सिनेमा",
+    "vietnamese": "Điện ảnh",
+    "audio": "Cinema / Theater"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Actress",
+    "transliteration": "",
+    "english": "अभिनेत्री",
+    "vietnamese": "Nữ diễn viên",
+    "audio": "Actress"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Movie",
+    "transliteration": "",
+    "english": "फ़िल्म",
+    "vietnamese": "Bộ phim",
+    "audio": "Movie"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hero",
+    "transliteration": "",
+    "english": "हीरो",
+    "vietnamese": "Nam chính / Anh hùng",
+    "audio": "Hero"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cinema / Theater'",
+    "prompt_en": "Choose correct translation for 'Cinema / Theater'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cinema / Theater'",
+    "text": "Cinema / Theater",
+    "subtext": "",
+    "answer": "सिनेमा",
+    "answer_vi": "Điện ảnh",
+    "options": [
+      "सिनेमा",
+      "अभिनेत्री",
+      "फ़िल्म",
+      "हीरो"
+    ],
+    "options_vi": [
+      "Điện ảnh",
+      "Nữ diễn viên",
+      "Bộ phim",
+      "Nam chính / Anh hùng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cinema / Theater",
+        "english": "सिनेमा (Điện ảnh)"
+      },
+      {
+        "hindi": "Actress",
+        "english": "अभिनेत्री (Nữ diễn viên)"
+      },
+      {
+        "hindi": "Movie",
+        "english": "फ़िल्म (Bộ phim)"
+      },
+      {
+        "hindi": "Hero",
+        "english": "हीरो (Nam chính / Anh hùng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Dance, my love.",
+    "simpleRule": "Remember: Dance, my love means नच बलिए (Nhảy đi tình yêu của tôi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dance, my love",
+    "transliteration": "",
+    "english": "नच बलिए",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "Dance, my love"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "सितारा",
+    "vietnamese": "Ngôi sao điện ảnh",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Dance, my love'",
+    "prompt_en": "Choose correct translation for 'Dance, my love'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Dance, my love'",
+    "text": "Dance, my love",
+    "subtext": "",
+    "answer": "नच बलिए",
+    "answer_vi": "Nhảy đi tình yêu của tôi",
+    "options": [
+      "नच बलिए",
+      "तारा​​​​​​​​​",
+      "तारा​",
+      "सितारा"
+    ],
+    "options_vi": [
+      "Nhảy đi tình yêu của tôi",
+      "Ngôi sao",
+      "Ngôi sao",
+      "Ngôi sao điện ảnh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Dance, my love",
+        "english": "नच बलिए (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "सितारा (Ngôi sao điện ảnh)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Let's start.",
+    "translation_en": "चलो शुरू करते हैं।",
+    "translation_vi": "Hãy bắt đầu thôi.",
+    "options_en": [
+      "चलो शुरू करते हैं।",
+      "गाना",
+      "तारा​​​",
+      "तारा​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hãy bắt đầu thôi.",
+      "Hát / Bài hát",
+      "Ngôi sao",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a चलो शुरू करते हैं। / Nó là một Hãy bắt đầu thôi.",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Let's start."
+    ],
+    "correctHindiSentence": "It is a Let's start."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like गाना / Tôi thích Hát / Bài hát",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To sing / Song"
+    ],
+    "correctHindiSentence": "I really like To sing / Song"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Let's start. and Star",
+      "Practiced constructing sentences."
+    ]
+  }
+]

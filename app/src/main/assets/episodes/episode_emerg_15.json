@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 15",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 15. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: पुलिस.",
+    "simpleRule": "Remember: पुलिस means Police (Cảnh sát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पुलिस",
+    "transliteration": "pulis",
+    "english": "Police",
+    "vietnamese": "Cảnh sát",
+    "audio": "पुलिस"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद करना",
+    "transliteration": "madad karna",
+    "english": "to help",
+    "vietnamese": "Giúp đỡ",
+    "audio": "मदद करना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पुलिस'",
+    "prompt_en": "Choose correct translation for 'पुलिस'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पुलिस'",
+    "text": "पुलिस",
+    "subtext": "pulis",
+    "answer": "Police",
+    "answer_vi": "Cảnh sát",
+    "options": [
+      "Police",
+      "Help",
+      "Help",
+      "to help"
+    ],
+    "options_vi": [
+      "Cảnh sát",
+      "Sự giúp đỡ",
+      "Sự giúp đỡ",
+      "Giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पुलिस",
+        "english": "Police (Cảnh sát)"
+      },
+      {
+        "hindi": "मदद​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "मदद",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "मदद करना",
+        "english": "to help (Giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मदद​​​.",
+    "simpleRule": "Remember: मदद​​​ means Help (Sự giúp đỡ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मदद​​​'",
+    "prompt_en": "Choose correct translation for 'मदद​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद​​​'",
+    "text": "मदद​​​",
+    "subtext": "madad",
+    "answer": "Help",
+    "answer_vi": "Sự giúp đỡ",
+    "options": [
+      "Help",
+      "Help",
+      "Help",
+      "Fire"
+    ],
+    "options_vi": [
+      "Sự giúp đỡ",
+      "Sự giúp đỡ",
+      "Sự giúp đỡ",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मदद​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "मदद​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "मदद​​​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "आग",
+        "english": "Fire (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "पुलिस",
+    "translation_en": "Police",
+    "translation_vi": "Cảnh sát",
+    "options_en": [
+      "Police",
+      "Help",
+      "Help",
+      "to help"
+    ],
+    "options_vi": [
+      "Cảnh sát",
+      "Sự giúp đỡ",
+      "Sự giúp đỡ",
+      "Giúp đỡ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Police / Đây là Cảnh sát",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "पुलिस",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक पुलिस है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Help / Tôi thấy Sự giúp đỡ",
+    "hindiWords": [
+      "मैं",
+      "मदद​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मदद​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: पुलिस, आग",
+      "Practiced constructing sentences."
+    ]
+  }
+]

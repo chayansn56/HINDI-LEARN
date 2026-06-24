@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 1",
+    "description": "Master the vocabulary and grammar for: Speak - Level 1. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where",
+    "transliteration": "",
+    "english": "कहाँ",
+    "vietnamese": "Ở đâu",
+    "audio": "Where"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative plural)",
+    "transliteration": "",
+    "english": "जिन्हें",
+    "vietnamese": "Người mà (số nhiều)",
+    "audio": "Whom (relative plural)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​",
+      "कापी​​​​​​​",
+      "कहाँ",
+      "जिन्हें"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Sổ tay",
+      "Ở đâu",
+      "Người mà (số nhiều)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​ (Sổ tay)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Where",
+        "english": "कहाँ (Ở đâu)"
+      },
+      {
+        "hindi": "Whom (relative plural)",
+        "english": "जिन्हें (Người mà (số nhiều))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friendship",
+    "transliteration": "",
+    "english": "दोस्ती",
+    "vietnamese": "Tình bạn",
+    "audio": "Friendship"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, I am ready.",
+    "transliteration": "",
+    "english": "हाँ, मैं तैयार हूँ।",
+    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "audio": "Yes, I am ready."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​",
+      "दोस्ती",
+      "हाँ, मैं तैयार हूँ।",
+      "बर्फ़​"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Tình bạn",
+      "Vâng, tôi sẵn sàng rồi.",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Friendship",
+        "english": "दोस्ती (Tình bạn)"
+      },
+      {
+        "hindi": "Yes, I am ready.",
+        "english": "हाँ, मैं तैयार हूँ। (Vâng, tôi sẵn sàng rồi.)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Right now.",
+    "simpleRule": "Remember: Right now means अभी (Ngay bây giờ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Right now",
+    "transliteration": "",
+    "english": "अभी",
+    "vietnamese": "Ngay bây giờ",
+    "audio": "Right now"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom / To whom",
+    "transliteration": "",
+    "english": "किसे",
+    "vietnamese": "Ai / Cho ai",
+    "audio": "Whom / To whom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the station?",
+    "transliteration": "",
+    "english": "स्टेशन कहाँ है?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "Where is the station?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Right now'",
+    "prompt_en": "Choose correct translation for 'Right now'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Right now'",
+    "text": "Right now",
+    "subtext": "",
+    "answer": "अभी",
+    "answer_vi": "Ngay bây giờ",
+    "options": [
+      "अभी",
+      "किसे",
+      "स्टेशन कहाँ है?",
+      "बर्फ़​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngay bây giờ",
+      "Ai / Cho ai",
+      "Nhà ga ở đâu?",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Right now",
+        "english": "अभी (Ngay bây giờ)"
+      },
+      {
+        "hindi": "Whom / To whom",
+        "english": "किसे (Ai / Cho ai)"
+      },
+      {
+        "hindi": "Where is the station?",
+        "english": "स्टेशन कहाँ है? (Nhà ga ở đâu?)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Show-off / Bragging.",
+    "simpleRule": "Remember: Show-off / Bragging means हवाबाज़ी (Sự khoe khoang)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Show-off / Bragging",
+    "transliteration": "",
+    "english": "हवाबाज़ी",
+    "vietnamese": "Sự khoe khoang",
+    "audio": "Show-off / Bragging"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello (highly respectful)",
+    "transliteration": "",
+    "english": "नमस्ते जी",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "Hello (highly respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No problem, it happens.",
+    "transliteration": "",
+    "english": "कोई बात नहीं, चलता है।",
+    "vietnamese": "Không sao đâu, chuyện thường thôi.",
+    "audio": "No problem, it happens."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Show-off / Bragging'",
+    "prompt_en": "Choose correct translation for 'Show-off / Bragging'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Show-off / Bragging'",
+    "text": "Show-off / Bragging",
+    "subtext": "",
+    "answer": "हवाबाज़ी",
+    "answer_vi": "Sự khoe khoang",
+    "options": [
+      "हवाबाज़ी",
+      "नमस्ते जी",
+      "कोई बात नहीं, चलता है।",
+      "बर्फ़​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự khoe khoang",
+      "Kính chào quý vị",
+      "Không sao đâu, chuyện thường thôi.",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Show-off / Bragging",
+        "english": "हवाबाज़ी (Sự khoe khoang)"
+      },
+      {
+        "hindi": "Hello (highly respectful)",
+        "english": "नमस्ते जी (Kính chào quý vị)"
+      },
+      {
+        "hindi": "No problem, it happens.",
+        "english": "कोई बात नहीं, चलता है। (Không sao đâu, chuyện thường thôi.)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Notebook",
+    "translation_en": "कापी​",
+    "translation_vi": "Sổ tay",
+    "options_en": [
+      "कापी​",
+      "कापी​​​​​​​",
+      "कहाँ",
+      "जिन्हें"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Sổ tay",
+      "Ở đâu",
+      "Người mà (số nhiều)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कापी​ / Nó là một Sổ tay",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Notebook"
+    ],
+    "correctHindiSentence": "It is a Notebook"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like कापी​​​​​​​ / Tôi thích Sổ tay",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Notebook"
+    ],
+    "correctHindiSentence": "I really like Notebook"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Notebook and Snow / Ice",
+      "Practiced constructing sentences."
+    ]
+  }
+]

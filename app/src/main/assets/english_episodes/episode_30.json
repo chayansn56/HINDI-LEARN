@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 30",
+    "description": "Master the vocabulary and grammar for: Episode 30. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 30",
+    "title_vi": "Tập 30",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To make / build (बनाना​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chế tạo / Tạo ra."
+      },
+      {
+        "hindi": "Later, you encounter a Business / Trade (व्यापार).",
+        "translation": "Sau đó, bạn gặp một Kinh doanh / Thương mại."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To make / build",
+        "isCorrect": true
+      },
+      {
+        "text": "Business / Trade",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To make / build.",
+    "simpleRule": "Remember: To make / build means बनाना​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Business / Trade",
+    "transliteration": "",
+    "english": "व्यापार",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "Business / Trade"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to understand",
+    "transliteration": "",
+    "english": "समझना",
+    "vietnamese": "Hiểu",
+    "audio": "to understand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To make / build'",
+    "prompt_en": "Choose correct translation for 'To make / build'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
+    "text": "To make / build",
+    "subtext": "",
+    "answer": "बनाना​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "बनाना​​​​​​​​​​​​​​​​​​​​",
+      "व्यापार",
+      "समझना",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Kinh doanh / Thương mại",
+      "Hiểu",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "Business / Trade",
+        "english": "व्यापार (Kinh doanh / Thương mại)"
+      },
+      {
+        "hindi": "to understand",
+        "english": "समझना (Hiểu)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​​​​​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​",
+      "ताला​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Ổ khóa",
+      "Nghe",
+      "Dọn dẹp / Lau chùi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​ (Nói)"
+      },
+      {
+        "hindi": "Lock",
+        "english": "ताला​​​​​ (Ổ khóa)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To learn.",
+    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​ (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Son",
+    "transliteration": "",
+    "english": "बेटा",
+    "vietnamese": "Con trai (đối với cha mẹ)",
+    "audio": "Son"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Blessing",
+    "transliteration": "",
+    "english": "आशीर्वाद",
+    "vietnamese": "Lời chúc phúc / Sự ban phước",
+    "audio": "Blessing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To learn'",
+    "prompt_en": "Choose correct translation for 'To learn'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
+    "text": "To learn",
+    "subtext": "",
+    "answer": "सीखना​​​​​​​​​​​​​​​",
+    "answer_vi": "Học",
+    "options": [
+      "सीखना​​​​​​​​​​​​​​​",
+      "बेटा",
+      "आशीर्वाद",
+      "लेना​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Học",
+      "Con trai (đối với cha mẹ)",
+      "Lời chúc phúc / Sự ban phước",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "Son",
+        "english": "बेटा (Con trai (đối với cha mẹ))"
+      },
+      {
+        "hindi": "Blessing",
+        "english": "आशीर्वाद (Lời chúc phúc / Sự ban phước)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To make / build",
+    "translation_en": "बनाना​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Chế tạo / Tạo ra",
+    "options_en": [
+      "बनाना​​​​​​​​​​​​​​​​​​​​",
+      "व्यापार",
+      "समझना",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Kinh doanh / Thương mại",
+      "Hiểu",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बनाना​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Chế tạo / Tạo ra",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To make / build"
+    ],
+    "correctHindiSentence": "I see the To make / build"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a व्यापार / Tôi muốn Kinh doanh / Thương mại",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Business / Trade"
+    ],
+    "correctHindiSentence": "I want a Business / Trade"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To make / build and To take",
+      "Practiced constructing sentences."
+    ]
+  }
+]

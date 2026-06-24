@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Pron - Lesson 5",
-    "description": "Learn key vocabulary and concepts for Pron - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "title": "Pron - Level 5",
+    "description": "Master the vocabulary and grammar for: Pron - Level 5. Read the key points carefully.",
     "keyPoints": [
-      "हमारी (hamaari) = Our (feminine) / Của chúng tôi (giống cái)",
-      "देना (denā) = To give / Cho / Tặng",
-      "आपको (aapko) = To you / You (formal) / Cho ngài / Bạn"
+      "Learn pron concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 5",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: हमारी means 'Our (feminine)' (Của chúng tôi (giống cái))."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हमारी",
-    "transliteration": "hamaari",
-    "english": "Our (feminine)",
-    "vietnamese": "Của chúng tôi (giống cái)",
-    "audio": "हमारी"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "देना",
-    "transliteration": "denā",
-    "english": "To give",
-    "vietnamese": "Cho / Tặng",
-    "audio": "देना"
+    "hindi": "बादल​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'हमारी'",
-    "prompt_en": "Choose the correct translation for 'हमारी'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'हमारी'",
-    "text": "हमारी",
-    "subtext": "hamaari",
-    "answer": "Our (feminine)",
-    "answer_vi": "Của chúng tôi (giống cái)",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
     "options": [
-      "Our (feminine)",
-      "To give",
-      "Conspiracy",
-      "To you / You (formal)"
+      "To speak",
+      "Cloud",
+      "To speak",
+      "Cloud"
     ],
     "options_vi": [
-      "Của chúng tôi (giống cái)",
-      "Cho / Tặng",
-      "Âm mưu",
-      "Cho ngài / Bạn"
+      "Nói",
+      "Đám mây",
+      "Nói",
+      "Đám mây"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "आपको",
-    "transliteration": "aapko",
-    "english": "To you / You (formal)",
-    "vietnamese": "Cho ngài / Bạn",
-    "audio": "आपको"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बादल​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बादल​​​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बादल​​.",
+    "simpleRule": "Remember: बादल​​ means Cloud (Đám mây)."
   },
   {
     "type": "Flashcard",
-    "hindi": "षड्यंत्र",
-    "transliteration": "shadyantra",
-    "english": "Conspiracy",
-    "vietnamese": "Âm mưu",
-    "audio": "षड्यंत्र"
+    "hindi": "बादल​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पलटी मारना",
+    "transliteration": "palti maarna",
+    "english": "To do a U-turn / go back on word",
+    "vietnamese": "Lật lọng / Nuốt lời",
+    "audio": "पलटी मारना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बादल​​'",
+    "prompt_en": "Choose correct translation for 'बादल​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बादल​​'",
+    "text": "बादल​​",
+    "subtext": "bādal",
+    "answer": "Cloud",
+    "answer_vi": "Đám mây",
+    "options": [
+      "Cloud",
+      "To listen / hear",
+      "To do a U-turn / go back on word",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Nghe",
+      "Lật lọng / Nuốt lời",
+      "Nghe"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "हमारी",
-        "english": "Our (feminine) (Của chúng tôi (giống cái))"
+        "hindi": "बादल​​",
+        "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "देना",
-        "english": "To give (Cho / Tặng)"
+        "hindi": "सुनना​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "आपको",
-        "english": "To you / You (formal) (Cho ngài / Bạn)"
+        "hindi": "पलटी मारना",
+        "english": "To do a U-turn / go back on word (Lật lọng / Nuốt lời)"
       },
       {
-        "hindi": "षड्यंत्र",
-        "english": "Conspiracy (Âm mưu)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "देना",
-    "translation_en": "To give",
-    "translation_vi": "Cho / Tặng",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To speak",
+    "translation_vi": "Nói",
     "options_en": [
-      "Our (feminine)",
-      "To you / You (formal)",
-      "Conspiracy",
-      "To give"
+      "To speak",
+      "Cloud",
+      "To speak",
+      "Cloud"
     ],
     "options_vi": [
-      "Của chúng tôi (giống cái)",
-      "Cho ngài / Bạn",
-      "Âm mưu",
-      "Cho / Tặng"
+      "Nói",
+      "Đám mây",
+      "Nói",
+      "Đám mây"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Don't annoy me / Đừng làm phiền tôi nữa",
+    "englishSentence": "This is a To speak / Đây là Nói",
     "hindiWords": [
-      "दिमाग",
-      "मत",
-      "खा",
-      "यार",
-      "बकवास",
-      "ब्रो"
+      "यह",
+      "एक",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "दिमाग मत खा"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "मेरे",
-    "transliteration": "mere",
-    "english": "My (plural/oblique)",
-    "vietnamese": "Của tôi (số nhiều)",
-    "audio": "मेरे"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खेलना",
-    "transliteration": "khelnā",
-    "english": "To play",
-    "vietnamese": "Chơi",
-    "audio": "खेलना"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "आपको",
-        "english": "To you / You (formal) (Cho ngài / Bạn)"
-      },
-      {
-        "hindi": "षड्यंत्र",
-        "english": "Conspiracy (Âm mưu)"
-      },
-      {
-        "hindi": "मेरे",
-        "english": "My (plural/oblique) (Của tôi (số nhiều))"
-      },
-      {
-        "hindi": "खेलना",
-        "english": "To play (Chơi)"
-      }
-    ]
+    "correctHindiSentence": "यह एक बोलना​​​​​​​​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "englishSentence": "I see Cloud / Tôi thấy Đám mây",
     "hindiWords": [
-      "लड़का",
-      "तेज़",
-      "दौड़ता",
-      "है",
-      "लड़की",
-      "धीमे"
+      "मैं",
+      "बादल​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+    "correctHindiSentence": "मैं बादल​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: हमारी, आपको, मेरे.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'The boy runs fast'."
+      "You learned: बोलना​​​​​​​​​​​​​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

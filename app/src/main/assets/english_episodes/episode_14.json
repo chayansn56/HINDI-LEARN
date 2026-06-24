@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 14",
+    "description": "Master the vocabulary and grammar for: Episode 14. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 14",
+    "title_vi": "Tập 14",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To see / watch (देखना​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Nhìn / Xem."
+      },
+      {
+        "hindi": "Later, you encounter a To tell / explain (बताना​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Kể / Giải thích."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To see / watch",
+        "isCorrect": true
+      },
+      {
+        "text": "To tell / explain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To see / watch.",
+    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​​​ (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To see / watch'",
+    "prompt_en": "Choose correct translation for 'To see / watch'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
+    "text": "To see / watch",
+    "subtext": "",
+    "answer": "देखना​​​​​​​​​​​​​​​",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "देखना​​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Kể / Giải thích",
+      "Mua",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​ (Mua)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Silver.",
+    "simpleRule": "Remember: Silver means चाँदी (Bạc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Silver",
+    "transliteration": "",
+    "english": "चाँदी",
+    "vietnamese": "Bạc",
+    "audio": "Silver"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "4",
+    "transliteration": "",
+    "english": "४",
+    "vietnamese": "Bốn",
+    "audio": "4"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Of (masc. sing.)",
+    "transliteration": "",
+    "english": "का",
+    "vietnamese": "Của (nam số ít)",
+    "audio": "Of (masc. sing.)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Silver'",
+    "prompt_en": "Choose correct translation for 'Silver'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Silver'",
+    "text": "Silver",
+    "subtext": "",
+    "answer": "चाँदी",
+    "answer_vi": "Bạc",
+    "options": [
+      "चाँदी",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "४",
+      "का"
+    ],
+    "options_vi": [
+      "Bạc",
+      "Làm việc",
+      "Bốn",
+      "Của (nam số ít)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Silver",
+        "english": "चाँदी (Bạc)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "4",
+        "english": "४ (Bốn)"
+      },
+      {
+        "hindi": "Of (masc. sing.)",
+        "english": "का (Của (nam số ít))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To make / build.",
+    "simpleRule": "Remember: To make / build means बनाना​​​ (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To make / build'",
+    "prompt_en": "Choose correct translation for 'To make / build'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
+    "text": "To make / build",
+    "subtext": "",
+    "answer": "बनाना​​​",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "बनाना​​​",
+      "पूछना​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पूछना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Hỏi",
+      "Ngủ",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​ (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To see / watch",
+    "translation_en": "देखना​​​​​​​​​​​​​​​",
+    "translation_vi": "Nhìn / Xem",
+    "options_en": [
+      "देखना​​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Kể / Giải thích",
+      "Mua",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the देखना​​​​​​​​​​​​​​​ / Tôi thấy Nhìn / Xem",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To see / watch"
+    ],
+    "correctHindiSentence": "I see the To see / watch"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बताना​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Kể / Giải thích",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To tell / explain"
+    ],
+    "correctHindiSentence": "I want a To tell / explain"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To see / watch and To ask",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 83",
+    "description": "Master the vocabulary and grammar for: Episode 83. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 83",
+    "title_vi": "Tập 83",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To sleep (सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Ngủ."
+      },
+      {
+        "hindi": "Later, you encounter a Bathroom (बाथरूम).",
+        "translation": "Sau đó, bạn gặp một Nhà tắm / Toilet."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To sleep",
+        "isCorrect": true
+      },
+      {
+        "text": "Bathroom",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To sleep.",
+    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bathroom",
+    "transliteration": "",
+    "english": "बाथरूम",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "Bathroom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I like this.",
+    "transliteration": "",
+    "english": "मुझे यह पसंद है।",
+    "vietnamese": "Tôi thích cái này.",
+    "audio": "I like this."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello (highly respectful)",
+    "transliteration": "",
+    "english": "नमस्ते जी",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "Hello (highly respectful)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sleep'",
+    "prompt_en": "Choose correct translation for 'To sleep'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
+    "text": "To sleep",
+    "subtext": "",
+    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngủ",
+    "options": [
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बाथरूम",
+      "मुझे यह पसंद है।",
+      "नमस्ते जी"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Nhà tắm / Toilet",
+      "Tôi thích cái này.",
+      "Kính chào quý vị"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "Bathroom",
+        "english": "बाथरूम (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "I like this.",
+        "english": "मुझे यह पसंद है। (Tôi thích cái này.)"
+      },
+      {
+        "hindi": "Hello (highly respectful)",
+        "english": "नमस्ते जी (Kính chào quý vị)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To work.",
+    "simpleRule": "Remember: To work means काम करना​​​​​​​​ (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To work'",
+    "prompt_en": "Choose correct translation for 'To work'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
+    "text": "To work",
+    "subtext": "",
+    "answer": "काम करना​​​​​​​​",
+    "answer_vi": "Làm việc",
+    "options": [
+      "काम करना​​​​​​​​",
+      "देखना​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Nhìn / Xem",
+      "Chạy",
+      "Mua"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​ (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To open.",
+    "simpleRule": "Remember: To open means खोलना​ (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "9",
+    "transliteration": "",
+    "english": "९",
+    "vietnamese": "Chín",
+    "audio": "9"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To open'",
+    "prompt_en": "Choose correct translation for 'To open'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
+    "text": "To open",
+    "subtext": "",
+    "answer": "खोलना​",
+    "answer_vi": "Mở",
+    "options": [
+      "खोलना​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "९",
+      "खरीदना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Đọc",
+      "Chín",
+      "Mua"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To open",
+        "english": "खोलना​ (Mở)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "9",
+        "english": "९ (Chín)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​ (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To sleep",
+    "translation_en": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Ngủ",
+    "options_en": [
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बाथरूम",
+      "मुझे यह पसंद है।",
+      "नमस्ते जी"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Nhà tắm / Toilet",
+      "Tôi thích cái này.",
+      "Kính chào quý vị"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Ngủ",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To sleep"
+    ],
+    "correctHindiSentence": "I see the To sleep"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बाथरूम / Tôi muốn Nhà tắm / Toilet",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Bathroom"
+    ],
+    "correctHindiSentence": "I want a Bathroom"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To sleep and To buy",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 6",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 6",
+    "description": "Master the vocabulary and grammar for: Travel - Level 6. Read the key points carefully.",
     "keyPoints": [
-      "मेट्रो (metro) = Metro / Tàu điện ngầm",
-      "धोना​​​​​​​​​​​​​​​​ (dhonā) = To wash / Rửa / Giặt",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (sonā) = To sleep / Ngủ"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 6",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: मेट्रो means 'Metro' (Tàu điện ngầm)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​​​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​​​​​​​ means Journey (Chuyến đi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मेट्रो",
-    "transliteration": "metro",
-    "english": "Metro",
-    "vietnamese": "Tàu điện ngầm",
-    "audio": "मेट्रो"
+    "hindi": "सफ़र​​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "धोना​​​​​​​​​​​​​​​​",
-    "transliteration": "dhonā",
-    "english": "To wash",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "धोना​​​​​​​​​​​​​​​​"
+    "hindi": "तगड़ा",
+    "transliteration": "tagda",
+    "english": "Strong / Robust / Awesome",
+    "vietnamese": "Mạnh mẽ / Tuyệt vời",
+    "audio": "तगड़ा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सावधान रहें।",
+    "transliteration": "saavdhaan rahein",
+    "english": "Be careful / Watch out.",
+    "vietnamese": "Hãy cẩn thận.",
+    "audio": "सावधान रहें।"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मेट्रो'",
-    "prompt_en": "Choose the correct translation for 'मेट्रो'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मेट्रो'",
-    "text": "मेट्रो",
-    "subtext": "metro",
-    "answer": "Metro",
-    "answer_vi": "Tàu điện ngầm",
+    "prompt": "Translate 'सफ़र​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​​​​​​​'",
+    "text": "सफ़र​​​​​​​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
     "options": [
-      "To do",
-      "Metro",
-      "To sleep",
-      "To wash"
+      "Journey",
+      "Strong / Robust / Awesome",
+      "Journey",
+      "Be careful / Watch out."
     ],
     "options_vi": [
-      "Làm",
-      "Tàu điện ngầm",
-      "Ngủ",
-      "Rửa / Giặt"
+      "Chuyến đi",
+      "Mạnh mẽ / Tuyệt vời",
+      "Chuyến đi",
+      "Hãy cẩn thận."
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sonā",
-    "english": "To sleep",
-    "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "तगड़ा",
+        "english": "Strong / Robust / Awesome (Mạnh mẽ / Tuyệt vời)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सावधान रहें।",
+        "english": "Be careful / Watch out. (Hãy cẩn thận.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: खाली कमरा.",
+    "simpleRule": "Remember: खाली कमरा means Vacant room (Phòng trống)."
   },
   {
     "type": "Flashcard",
-    "hindi": "करना​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "karnā",
-    "english": "To do",
-    "vietnamese": "Làm",
-    "audio": "करना​​​​​​​​​​​​​​​​​​​"
+    "hindi": "खाली कमरा",
+    "transliteration": "khālī kamrā",
+    "english": "Vacant room",
+    "vietnamese": "Phòng trống",
+    "audio": "खाली कमरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शौचालय",
+    "transliteration": "shauchaalay",
+    "english": "Restroom / Toilet",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "शौचालय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'खाली कमरा'",
+    "prompt_en": "Choose correct translation for 'खाली कमरा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खाली कमरा'",
+    "text": "खाली कमरा",
+    "subtext": "khālī kamrā",
+    "answer": "Vacant room",
+    "answer_vi": "Phòng trống",
+    "options": [
+      "Vacant room",
+      "Restroom / Toilet",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Phòng trống",
+      "Nhà vệ sinh",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मेट्रो",
-        "english": "Metro (Tàu điện ngầm)"
+        "hindi": "खाली कमरा",
+        "english": "Vacant room (Phòng trống)"
       },
       {
-        "hindi": "धोना​​​​​​​​​​​​​​​​",
-        "english": "To wash (Rửa / Giặt)"
+        "hindi": "शौचालय",
+        "english": "Restroom / Toilet (Nhà vệ sinh)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sleep (Ngủ)"
+        "hindi": "सफ़र",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "करना​​​​​​​​​​​​​​​​​​​",
-        "english": "To do (Làm)"
+        "hindi": "सफ़र​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "धोना​​​​​​​​​​​​​​​​",
-    "translation_en": "To wash",
-    "translation_vi": "Rửa / Giặt",
+    "audio": "सफ़र​​​​​​​​​​​",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
     "options_en": [
-      "To wash",
-      "Metro",
-      "To do",
-      "To sleep"
+      "Journey",
+      "Strong / Robust / Awesome",
+      "Journey",
+      "Be careful / Watch out."
     ],
     "options_vi": [
-      "Rửa / Giặt",
-      "Tàu điện ngầm",
-      "Làm",
-      "Ngủ"
+      "Chuyến đi",
+      "Mạnh mẽ / Tuyệt vời",
+      "Chuyến đi",
+      "Hãy cẩn thận."
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the train station? / Ga tàu ở đâu?",
+    "englishSentence": "This is a Journey / Đây là Chuyến đi",
     "hindiWords": [
-      "रेलवे",
-      "स्टेशन",
-      "कहाँ",
-      "है",
-      "हवाई",
-      "अड्डा"
+      "यह",
+      "एक",
+      "सफ़र​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "रेलवे स्टेशन कहाँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "dekhnā",
-    "english": "To see / watch",
-    "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sleep (Ngủ)"
-      },
-      {
-        "hindi": "करना​​​​​​​​​​​​​​​​​​​",
-        "english": "To do (Làm)"
-      },
-      {
-        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To tell / explain (Kể / Giải thích)"
-      },
-      {
-        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सफ़र​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "How much is the ticket? / Vé bao nhiêu tiền?",
+    "englishSentence": "I see Strong / Robust / Awesome / Tôi thấy Mạnh mẽ / Tuyệt vời",
     "hindiWords": [
-      "टिकट",
-      "कितने",
-      "का",
-      "है",
-      "पैसे",
-      "को"
+      "मैं",
+      "तगड़ा",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "टिकट कितने का है"
+    "correctHindiSentence": "मैं तगड़ा देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: मेट्रो, सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, बताना​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'How much is the ticket?'."
+      "You learned: सफ़र​​​​​​​​​​​, सफ़र​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

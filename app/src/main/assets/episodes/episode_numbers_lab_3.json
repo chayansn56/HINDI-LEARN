@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Hundreds 500-1000",
+    "description": "Master the vocabulary and grammar for: Hundreds 500-1000. Read the key points carefully.",
+    "keyPoints": [
+      "Master Hundreds 500-1000"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: काम करना​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: काम करना​​​​​​​​​​​​​​​​​​​​ means To work (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "और",
+    "transliteration": "aur",
+    "english": "And / More",
+    "vietnamese": "Và / Thêm nữa",
+    "audio": "और"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बग़ीचा​​",
+    "transliteration": "bagīcā",
+    "english": "Garden",
+    "vietnamese": "Khu vườn",
+    "audio": "बग़ीचा​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'काम करना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'काम करना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'काम करना​​​​​​​​​​​​​​​​​​​​'",
+    "text": "काम करना​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "kām karnā",
+    "answer": "To work",
+    "answer_vi": "Làm việc",
+    "options": [
+      "To work",
+      "And / More",
+      "To walk / move",
+      "Garden"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Và / Thêm nữa",
+      "Đi bộ / Di chuyển",
+      "Khu vườn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "और",
+        "english": "And / More (Và / Thêm nữa)"
+      },
+      {
+        "hindi": "चलना",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "बग़ीचा​​",
+        "english": "Garden (Khu vườn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: कापी​​​.",
+    "simpleRule": "Remember: कापी​​​ means Notebook (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कापी​​​",
+    "transliteration": "kaapī",
+    "english": "Notebook",
+    "vietnamese": "Sổ tay",
+    "audio": "कापी​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पहाड़​​",
+    "transliteration": "pahāṛ",
+    "english": "Mountain",
+    "vietnamese": "Ngọn núi",
+    "audio": "पहाड़​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बेचना​​​",
+    "transliteration": "becnā",
+    "english": "To sell",
+    "vietnamese": "Bán",
+    "audio": "बेचना​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'कापी​​​'",
+    "prompt_en": "Choose correct translation for 'कापी​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'कापी​​​'",
+    "text": "कापी​​​",
+    "subtext": "kaapī",
+    "answer": "Notebook",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "Notebook",
+      "Mountain",
+      "To make / build",
+      "To sell"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Ngọn núi",
+      "Chế tạo / Tạo ra",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "कापी​​​",
+        "english": "Notebook (Sổ tay)"
+      },
+      {
+        "hindi": "पहाड़​​",
+        "english": "Mountain (Ngọn núi)"
+      },
+      {
+        "hindi": "बनाना​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "बेचना​​​",
+        "english": "To sell (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To work",
+    "translation_vi": "Làm việc",
+    "options_en": [
+      "To work",
+      "And / More",
+      "To walk / move",
+      "Garden"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Và / Thêm nữa",
+      "Đi bộ / Di chuyển",
+      "Khu vườn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have To work / Tôi có Làm việc",
+    "hindiWords": [
+      "मेरे",
+      "पास",
+      "काम करना​​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "मेरे पास काम करना​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Price is And / More / Giá là Và / Thêm nữa",
+    "hindiWords": [
+      "दाम",
+      "और",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "दाम और है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: काम करना​​​​​​​​​​​​​​​​​​​​, बेचना​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

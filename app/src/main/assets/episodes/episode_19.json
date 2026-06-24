@@ -1,0 +1,140 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 19: Vocabulary - Weather & Seasons",
+    "description": "Học từ vựng về thời tiết và các mùa trong năm: Mưa, Nóng, Lạnh, Mùa.",
+    "keyPoints": [
+      "मौसम (mausam): Thời tiết / Mùa",
+      "बारिश (baarish): Mưa",
+      "गर्मी (garmi): Nóng / Mùa hè",
+      "सर्दी (sardi): Lạnh / Mùa đông"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Diễn tả thời tiết đang xảy ra",
+    "explanation": "Để diễn tả trạng thái thời tiết, chúng ta thường dùng cấu trúc danh từ thời tiết + है (hai). Riêng với mưa, chúng ta dùng cụm động từ: बारिश हो रही है (Mưa đang rơi).",
+    "simpleRule": "गर्मी है (Nóng) / सर्दी है (Lạnh) / बारिश हो रही है (Mưa)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मौसम",
+    "transliteration": "mausam",
+    "english": "Weather / Season",
+    "vietnamese": "Thời tiết / Mùa",
+    "audio": "मौसम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बारिश",
+    "transliteration": "baarish",
+    "english": "Rain",
+    "vietnamese": "Mưa",
+    "audio": "बारिश"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गर्मी",
+    "transliteration": "garmi",
+    "english": "Heat / Summer",
+    "vietnamese": "Nóng / Mùa hè",
+    "audio": "गर्मी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सर्दी",
+    "transliteration": "sardi",
+    "english": "Cold / Winter",
+    "vietnamese": "Lạnh / Mùa đông",
+    "audio": "सर्दी"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "मौसम",
+    "translation": "Weather / Thời tiết",
+    "contextSentenceHindi": "आज मौसम अच्छा है।",
+    "contextSentenceTranslation": "The weather is good today. / Hôm nay thời tiết đẹp.",
+    "memoryTrick": "Mausam nghe giống như 'Awesome' thời tiết hôm nay thật tuyệt!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "बारिश हो रही है",
+    "subtext": "baarish ho rahi hai",
+    "answer": "It is raining",
+    "answer_vi": "Trời đang mưa",
+    "options": [
+      "It is raining",
+      "It is hot",
+      "It is cold",
+      "It is windy"
+    ],
+    "options_vi": [
+      "Trời đang mưa",
+      "Trời nóng",
+      "Trời lạnh",
+      "Trời có gió"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "गर्मी",
+    "translation_en": "Heat / Summer",
+    "options_en": [
+      "Summer / Heat",
+      "Winter / Cold",
+      "Rain",
+      "Snow"
+    ],
+    "translation_vi": "Nóng / Mùa hè",
+    "options_vi": [
+      "Nóng / Mùa hè",
+      "Lạnh / Mùa đông",
+      "Mưa",
+      "Tuyết"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'Today is very hot.' / Dịch: 'Hôm nay trời rất nóng.'",
+    "hindiWords": [
+      "आज",
+      "गर्मी",
+      "बहुत",
+      "है"
+    ],
+    "correctHindiSentence": "आज बहुत गर्मी है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "मौसम",
+        "english": "Weather (Thời tiết)"
+      },
+      {
+        "hindi": "बारिश",
+        "english": "Rain (Mưa)"
+      },
+      {
+        "hindi": "गर्मी",
+        "english": "Summer (Mùa hè)"
+      },
+      {
+        "hindi": "सर्दी",
+        "english": "Winter (Mùa đông)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Học từ vựng cơ bản về các mùa và thời tiết.",
+      "Biết cách diễn đạt thời tiết hàng ngày nóng, lạnh hay mưa.",
+      "Đặt câu nhận xét đơn giản về thời tiết hiện tại."
+    ]
+  }
+]

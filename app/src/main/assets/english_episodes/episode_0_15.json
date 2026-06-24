@@ -1,75 +1,304 @@
 [
   {
     "type": "Introduction",
-    "title": "Hotel: Checking Out",
-    "description": "Hoàn tất thủ tục trả phòng cho khách và gửi lời chúc lên đường bình an.",
+    "title": "Episode 15",
+    "description": "Master the vocabulary and grammar for: Episode 15. Read the key points carefully.",
     "keyPoints": [
-      "Here is your receipt (Đây là hóa đơn của bạn)",
-      "Have a safe trip home (Chúc quý khách lên đường bình an / có một chuyến đi về nhà an toàn)"
+      "Foundation Practice"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "Checking Out",
-    "title_vi": "Trả phòng",
-    "paragraphs": [
-      {
-        "hindi": "Here is your receipt.",
-        "translation": "Đây là hóa đơn của bạn."
-      },
-      {
-        "hindi": "Thank you for staying with us. Have a safe trip home!",
-        "translation": "Cảm ơn quý khách đã ở lại với chúng tôi. Chúc quý khách lên đường bình an!"
-      }
-    ],
-    "question_en": "What does the receptionist wish the guest?",
-    "question_vi": "Lễ tân chúc khách điều gì?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To sell.",
+    "simpleRule": "Remember: To sell means बेचना​​​​​​​​ (Bán)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Road",
+    "transliteration": "",
+    "english": "सड़क​",
+    "vietnamese": "Đường",
+    "audio": "Road"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sell'",
+    "prompt_en": "Choose correct translation for 'To sell'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sell'",
+    "text": "To sell",
+    "subtext": "",
+    "answer": "बेचना​​​​​​​​",
+    "answer_vi": "Bán",
     "options": [
+      "बेचना​​​​​​​​",
+      "सड़क​",
+      "लेना​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bán",
+      "Đường",
+      "Lấy / Nhận",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "Have a safe trip home",
-        "isCorrect": true
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​ (Bán)"
       },
       {
-        "text": "Enjoy your dinner",
-        "isCorrect": false
+        "hindi": "Road",
+        "english": "सड़क​ (Đường)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​ (Khóc)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Friendly Checkout Phrases",
-    "explanation": "Khi tiễn khách ra về, hãy đưa hóa đơn ('receipt') và gửi lời chúc tốt đẹp: 'Have a safe trip home'.",
-    "simpleRule": "Receipt = Hóa đơn, Safe trip = Chuyến đi an toàn"
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To laugh.",
+    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "receipt",
-    "translation": "hóa đơn",
-    "contextSentenceHindi": "Here is your receipt.",
-    "contextSentenceTranslation": "Đây là hóa đơn của bạn.",
-    "memoryTrick": "Receipt (phát âm re-seet, âm p câm) có nghĩa là biên nhận/hóa đơn thanh toán."
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
   },
   {
-    "type": "Listening",
-    "audio": "Have a safe trip home.",
-    "translation_en": "Have a safe trip home.",
-    "options_en": [
-      "Have a safe trip home.",
-      "Here is your receipt.",
-      "Check in is at two.",
-      "Welcome to our hotel."
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To laugh'",
+    "prompt_en": "Choose correct translation for 'To laugh'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
+    "text": "To laugh",
+    "subtext": "",
+    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "हँसना​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​"
     ],
-    "translation_vi": "Chúc quý khách lên đường bình an.",
     "options_vi": [
-      "Chúc quý khách lên đường bình an.",
-      "Đây là hóa đơn của bạn.",
-      "Giờ nhận phòng là hai giờ.",
-      "Chào mừng đến với khách sạn của chúng tôi."
+      "Cười lớn",
+      "Khóc",
+      "Đi bộ / Di chuyển",
+      "Làm việc"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "Have a safe trip home",
-    "translation": "Chúc quý khách lên đường bình an"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sunday",
+    "transliteration": "",
+    "english": "रविवार",
+    "vietnamese": "Chủ nhật",
+    "audio": "Sunday"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​",
+      "रविवार",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+      "बेचना​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Chủ nhật",
+      "Đọc",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Sunday",
+        "english": "रविवार (Chủ nhật)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To sell",
+    "translation_en": "बेचना​​​​​​​​",
+    "translation_vi": "Bán",
+    "options_en": [
+      "बेचना​​​​​​​​",
+      "सड़क​",
+      "लेना​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bán",
+      "Đường",
+      "Lấy / Nhận",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a बेचना​​​​​​​​ / Tôi có một Bán",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "To sell"
+    ],
+    "correctHindiSentence": "I have a To sell"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a सड़क​ / Đây là một Đường",
+    "hindiWords": [
+      "This",
+      "is",
+      "a",
+      "Road"
+    ],
+    "correctHindiSentence": "This is a Road"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To sell and To sell",
+      "Practiced constructing sentences."
+    ]
   }
 ]

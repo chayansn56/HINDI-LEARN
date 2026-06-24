@@ -1,0 +1,139 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 16: Grammar - Present Continuous",
+    "description": "Học cách diễn đạt hành động đang xảy ra trong hiện tại: Tôi đang đọc, Bạn đang làm gì?",
+    "keyPoints": [
+      "रहा है / रही है (raha hai / rahi hai): Đang làm gì (số ít)",
+      "रहा हूँ / रही हूँ (raha hoon / rahi hoon): Tôi đang làm gì",
+      "रहे हैं (rahe hain): Đang làm gì (số nhiều/lịch sự)"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Thì hiện tại tiếp diễn (Present Continuous)",
+    "explanation": "Công thức: [Động từ căn bản] + रहा/रही/रहे + [Động từ Aux (huan/hai/ho/hain)]. Chọn रहा (raha) cho nam số ít, रही (rahi) cho nữ, và रहे (rahe) cho nam số nhiều hoặc thể hiện sự lịch sự.",
+    "simpleRule": "Verb root + रहा/रही/रहे + aux verb = Đang làm gì..."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना",
+    "transliteration": "padhna",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना",
+    "transliteration": "likhna",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "करना",
+    "transliteration": "karna",
+    "english": "To do",
+    "vietnamese": "Làm",
+    "audio": "करना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना",
+    "transliteration": "dekhna",
+    "english": "To see/watch",
+    "vietnamese": "Nhìn/Xem",
+    "audio": "देखना"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "पढ़ रहा",
+    "translation": "Reading (masculine) / Đang đọc (nam)",
+    "contextSentenceHindi": "मैं किताब पढ़ रहा हूँ।",
+    "contextSentenceTranslation": "I am reading a book. / Tôi đang đọc sách.",
+    "memoryTrick": "Từ gốc पढ़ना (đọc). Bỏ đuôi 'na' thành 'padh', thêm 'raha hoon' nếu bạn là nam!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "आप क्या कर रहे हैं?",
+    "subtext": "aap kya kar rahe hain?",
+    "answer": "What are you doing?",
+    "answer_vi": "Bạn đang làm gì?",
+    "options": [
+      "What are you doing?",
+      "Where are you going?",
+      "Who is reading?",
+      "What is this?"
+    ],
+    "options_vi": [
+      "Bạn đang làm gì?",
+      "Bạn đang đi đâu?",
+      "Ai đang đọc?",
+      "Đây là cái gì?"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लिख रहा",
+    "translation_en": "Writing (masculine)",
+    "options_en": [
+      "Writing (masculine)",
+      "Reading",
+      "Sleeping",
+      "Doing"
+    ],
+    "translation_vi": "Đang viết (nam)",
+    "options_vi": [
+      "Đang viết (nam)",
+      "Đang đọc",
+      "Đang ngủ",
+      "Đang làm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'I am reading.' (masc) / Dịch: 'Tôi đang đọc.' (nam)",
+    "hindiWords": [
+      "हूँ",
+      "रहा",
+      "मैं",
+      "पढ़"
+    ],
+    "correctHindiSentence": "मैं पढ़ रहा हूँ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "पढ़ना",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "लिखना",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "करना",
+        "english": "To do (Làm)"
+      },
+      {
+        "hindi": "देखना",
+        "english": "To see (Xem)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Hiểu cấu trúc thì hiện tại tiếp diễn trong tiếng Hindi.",
+      "Sử dụng đúng रहा/रही/रहे tùy thuộc vào giới tính chủ ngữ.",
+      "Hỏi và trả lời được câu hỏi 'Bạn đang làm gì?'."
+    ]
+  }
+]

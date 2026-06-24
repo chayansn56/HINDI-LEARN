@@ -1,0 +1,139 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 18: Verbs - Daily Routine",
+    "description": "Học các động từ diễn tả thói quen hàng ngày: Thức dậy, Ngủ, Dọn dẹp.",
+    "keyPoints": [
+      "उठना (uthna): Thức dậy",
+      "सोना (sona): Ngủ",
+      "साफ़ करना (saaf karna): Dọn dẹp/Làm sạch",
+      "नहाना (nahaana): Tắm"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Cách chia động từ thói quen (Thì hiện tại đơn)",
+    "explanation": "Để diễn tả thói quen hàng ngày, động từ nguyên mẫu (kết thúc bằng -na) được bỏ đuôi '-na' và thêm đuôi '-ta' (nam số ít), '-ti' (nữ số ít), hoặc '-te' (số nhiều). Ví dụ: मैं उठता हूँ (Tôi thức dậy - nam) / मैं उठती हूँ (Tôi thức dậy - nữ).",
+    "simpleRule": "Verb root + ता हूँ (nam) / ती हूँ (nữ) = Tôi thường làm..."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "उठना",
+    "transliteration": "uthna",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "उठना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना",
+    "transliteration": "sona",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साफ़ करना",
+    "transliteration": "saaf karna",
+    "english": "To clean",
+    "vietnamese": "Dọn dẹp",
+    "audio": "साफ़ करना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नहाना",
+    "transliteration": "nahaana",
+    "english": "To bathe",
+    "vietnamese": "Tắm",
+    "audio": "नहाना"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "साफ़ करना",
+    "translation": "To clean / Dọn dẹp",
+    "contextSentenceHindi": "मैं कमरा साफ़ करता हूँ।",
+    "contextSentenceTranslation": "I clean the room. / Tôi dọn dẹp phòng.",
+    "memoryTrick": "Saaf nghĩa là sạch sẽ, karna nghĩa là làm. Saaf karna có nghĩa là làm sạch!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "सोना",
+    "subtext": "sona",
+    "answer": "To sleep",
+    "answer_vi": "Ngủ",
+    "options": [
+      "To sleep",
+      "To wake up",
+      "To clean",
+      "To eat"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Thức dậy",
+      "Dọn dẹp",
+      "Ăn"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "उठना",
+    "translation_en": "To wake up",
+    "options_en": [
+      "To wake up",
+      "To sleep",
+      "To run",
+      "To walk"
+    ],
+    "translation_vi": "Thức dậy",
+    "options_vi": [
+      "Thức dậy",
+      "Ngủ",
+      "Chạy",
+      "Đi bộ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'Sleep now.' / Dịch: 'Ngủ đi.'",
+    "hindiWords": [
+      "सो",
+      "अब",
+      "जाओ"
+    ],
+    "correctHindiSentence": "अब सो जाओ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "उठना",
+        "english": "To wake up (Thức dậy)"
+      },
+      {
+        "hindi": "सोना",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "साफ़ करना",
+        "english": "To clean (Dọn dẹp)"
+      },
+      {
+        "hindi": "नहाना",
+        "english": "To bathe (Tắm)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Học các động từ mô tả các hoạt động sinh hoạt hàng ngày.",
+      "Hiểu cách sử dụng cấu trúc hiện tại đơn chia theo giới tính chủ ngữ.",
+      "Diễn tả được lịch trình hoạt động cơ bản của bản thân."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 43",
+    "description": "Master the vocabulary and grammar for: Episode 43. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 43",
+    "title_vi": "Tập 43",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Don't go there. (वहाँ मत जाओ।).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đừng đi đến đó.."
+      },
+      {
+        "hindi": "Later, you encounter a Rupee / Money (रुपया).",
+        "translation": "Sau đó, bạn gặp một Đồng rupee / Tiền."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Don't go there.",
+        "isCorrect": true
+      },
+      {
+        "text": "Rupee / Money",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Don't go there..",
+    "simpleRule": "Remember: Don't go there. means वहाँ मत जाओ। (Đừng đi đến đó.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Don't go there.",
+    "transliteration": "",
+    "english": "वहाँ मत जाओ।",
+    "vietnamese": "Đừng đi đến đó.",
+    "audio": "Don't go there."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rupee / Money",
+    "transliteration": "",
+    "english": "रुपया",
+    "vietnamese": "Đồng rupee / Tiền",
+    "audio": "Rupee / Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Don't go there.'",
+    "prompt_en": "Choose correct translation for 'Don't go there.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Don't go there.'",
+    "text": "Don't go there.",
+    "subtext": "",
+    "answer": "वहाँ मत जाओ।",
+    "answer_vi": "Đừng đi đến đó.",
+    "options": [
+      "वहाँ मत जाओ।",
+      "रुपया",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बर्फ़​"
+    ],
+    "options_vi": [
+      "Đừng đi đến đó.",
+      "Đồng rupee / Tiền",
+      "Ngồi",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Don't go there.",
+        "english": "वहाँ मत जाओ। (Đừng đi đến đó.)"
+      },
+      {
+        "hindi": "Rupee / Money",
+        "english": "रुपया (Đồng rupee / Tiền)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Thank you.",
+    "simpleRule": "Remember: Thank you means धन्यवाद (Cảm ơn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Thank you",
+    "transliteration": "",
+    "english": "धन्यवाद",
+    "vietnamese": "Cảm ơn",
+    "audio": "Thank you"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Thank you'",
+    "prompt_en": "Choose correct translation for 'Thank you'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Thank you'",
+    "text": "Thank you",
+    "subtext": "",
+    "answer": "धन्यवाद",
+    "answer_vi": "Cảm ơn",
+    "options": [
+      "धन्यवाद",
+      "आग​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​",
+      "सफ़र​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Cảm ơn",
+      "Lửa",
+      "Khóc",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Thank you",
+        "english": "धन्यवाद (Cảm ơn)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​​​​​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "My (masculine)",
+    "transliteration": "",
+    "english": "मेरा",
+    "vietnamese": "Của tôi (giống đực)",
+    "audio": "My (masculine)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​",
+      "जूता​​​​​​​",
+      "मेरा",
+      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Giày",
+      "Của tôi (giống đực)",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​​​​​​ (Giày)"
+      },
+      {
+        "hindi": "My (masculine)",
+        "english": "मेरा (Của tôi (giống đực))"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Don't go there.",
+    "translation_en": "वहाँ मत जाओ।",
+    "translation_vi": "Đừng đi đến đó.",
+    "options_en": [
+      "वहाँ मत जाओ।",
+      "रुपया",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बर्फ़​"
+    ],
+    "options_vi": [
+      "Đừng đi đến đó.",
+      "Đồng rupee / Tiền",
+      "Ngồi",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the वहाँ मत जाओ। / Tôi thấy Đừng đi đến đó.",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Don't go there."
+    ],
+    "correctHindiSentence": "I see the Don't go there."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a रुपया / Tôi muốn Đồng rupee / Tiền",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Rupee / Money"
+    ],
+    "correctHindiSentence": "I want a Rupee / Money"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Don't go there. and To give",
+      "Practiced constructing sentences."
+    ]
+  }
+]

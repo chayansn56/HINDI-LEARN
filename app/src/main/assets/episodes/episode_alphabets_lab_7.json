@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 7",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: थे.",
+    "simpleRule": "Remember: थे means were (masculine plural) (Đã là (nam số nhiều))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थे",
+    "transliteration": "the",
+    "english": "were (masculine plural)",
+    "vietnamese": "Đã là (nam số nhiều)",
+    "audio": "थे"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हूँ",
+    "transliteration": "hū̃",
+    "english": "am",
+    "vietnamese": "Là (tôi)",
+    "audio": "हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खड़े होना​​​​​​​​​​",
+    "transliteration": "khaṛe honā",
+    "english": "To stand",
+    "vietnamese": "Đứng",
+    "audio": "खड़े होना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'थे'",
+    "prompt_en": "Choose correct translation for 'थे'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'थे'",
+    "text": "थे",
+    "subtext": "the",
+    "answer": "were (masculine plural)",
+    "answer_vi": "Đã là (nam số nhiều)",
+    "options": [
+      "were (masculine plural)",
+      "am",
+      "To stand",
+      "To make / build"
+    ],
+    "options_vi": [
+      "Đã là (nam số nhiều)",
+      "Là (tôi)",
+      "Đứng",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "थे",
+        "english": "were (masculine plural) (Đã là (nam số nhiều))"
+      },
+      {
+        "hindi": "हूँ",
+        "english": "am (Là (tôi))"
+      },
+      {
+        "hindi": "खड़े होना​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      },
+      {
+        "hindi": "बनाना​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: साझेदारी.",
+    "simpleRule": "Remember: साझेदारी means Partnership (Quan hệ đối tác)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साझेदारी",
+    "transliteration": "sājhedārī",
+    "english": "Partnership",
+    "vietnamese": "Quan hệ đối tác",
+    "audio": "साझेदारी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे देर हो रही है।",
+    "transliteration": "mujhe der ho rahi hai",
+    "english": "I am getting late.",
+    "vietnamese": "Tôi đang bị trễ.",
+    "audio": "मुझे देर हो रही है।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चरण स्पर्श",
+    "transliteration": "charan sparsh",
+    "english": "Touching feet for blessings",
+    "vietnamese": "Chạm chân xin phước lành",
+    "audio": "चरण स्पर्श"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जागना",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'साझेदारी'",
+    "prompt_en": "Choose correct translation for 'साझेदारी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'साझेदारी'",
+    "text": "साझेदारी",
+    "subtext": "sājhedārī",
+    "answer": "Partnership",
+    "answer_vi": "Quan hệ đối tác",
+    "options": [
+      "Partnership",
+      "I am getting late.",
+      "Touching feet for blessings",
+      "To wake up"
+    ],
+    "options_vi": [
+      "Quan hệ đối tác",
+      "Tôi đang bị trễ.",
+      "Chạm chân xin phước lành",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "साझेदारी",
+        "english": "Partnership (Quan hệ đối tác)"
+      },
+      {
+        "hindi": "मुझे देर हो रही है।",
+        "english": "I am getting late. (Tôi đang bị trễ.)"
+      },
+      {
+        "hindi": "चरण स्पर्श",
+        "english": "Touching feet for blessings (Chạm chân xin phước lành)"
+      },
+      {
+        "hindi": "जागना",
+        "english": "To wake up (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "थे",
+    "translation_en": "were (masculine plural)",
+    "translation_vi": "Đã là (nam số nhiều)",
+    "options_en": [
+      "were (masculine plural)",
+      "am",
+      "To stand",
+      "To make / build"
+    ],
+    "options_vi": [
+      "Đã là (nam số nhiều)",
+      "Là (tôi)",
+      "Đứng",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a were (masculine plural) / Đây là Đã là (nam số nhiều)",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "थे",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक थे है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see am / Tôi thấy Là (tôi)",
+    "hindiWords": [
+      "मैं",
+      "हूँ",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं हूँ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: थे, जागना",
+      "Practiced constructing sentences."
+    ]
+  }
+]

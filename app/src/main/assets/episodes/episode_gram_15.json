@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Level 15",
+    "description": "Master the vocabulary and grammar for: Gram - Level 15. Read the key points carefully.",
+    "keyPoints": [
+      "Learn gram concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद करना",
+    "transliteration": "madad karna",
+    "english": "to help",
+    "vietnamese": "Giúp đỡ",
+    "audio": "मदद करना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
+    "options": [
+      "Love (intense)",
+      "To listen / hear",
+      "to help",
+      "To speak"
+    ],
+    "options_vi": [
+      "Tình yêu sâu đậm",
+      "Nghe",
+      "Giúp đỡ",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "सुनना​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "मदद करना",
+        "english": "to help (Giúp đỡ)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: दूरियाँ.",
+    "simpleRule": "Remember: दूरियाँ means Distances / Separation (Sự xa cách)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दूरियाँ",
+    "transliteration": "dooriyaan",
+    "english": "Distances / Separation",
+    "vietnamese": "Sự xa cách",
+    "audio": "दूरियाँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अभिनेता",
+    "transliteration": "abhineta",
+    "english": "Actor",
+    "vietnamese": "Nam diễn viên",
+    "audio": "अभिनेता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dauṛnā",
+    "english": "To run",
+    "vietnamese": "Chạy",
+    "audio": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दूरियाँ'",
+    "prompt_en": "Choose correct translation for 'दूरियाँ'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दूरियाँ'",
+    "text": "दूरियाँ",
+    "subtext": "dooriyaan",
+    "answer": "Distances / Separation",
+    "answer_vi": "Sự xa cách",
+    "options": [
+      "Distances / Separation",
+      "To walk / move",
+      "Actor",
+      "To run"
+    ],
+    "options_vi": [
+      "Sự xa cách",
+      "Đi bộ / Di chuyển",
+      "Nam diễn viên",
+      "Chạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दूरियाँ",
+        "english": "Distances / Separation (Sự xa cách)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "अभिनेता",
+        "english": "Actor (Nam diễn viên)"
+      },
+      {
+        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To run (Chạy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
+    "options_en": [
+      "Love (intense)",
+      "To listen / hear",
+      "to help",
+      "To speak"
+    ],
+    "options_vi": [
+      "Tình yêu sâu đậm",
+      "Nghe",
+      "Giúp đỡ",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "इश्क़",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक इश्क़ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
+    "hindiWords": [
+      "मैं",
+      "सुनना​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं सुनना​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: इश्क़, दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

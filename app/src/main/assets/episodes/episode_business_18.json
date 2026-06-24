@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Level 18",
+    "description": "Master the vocabulary and grammar for: Business - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn business concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दाम.",
+    "simpleRule": "Remember: दाम means Price / Rate (Giá cả)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दाम",
+    "transliteration": "daam",
+    "english": "Price / Rate",
+    "vietnamese": "Giá cả",
+    "audio": "दाम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दाम'",
+    "prompt_en": "Choose correct translation for 'दाम'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दाम'",
+    "text": "दाम",
+    "subtext": "daam",
+    "answer": "Price / Rate",
+    "answer_vi": "Giá cả",
+    "options": [
+      "Price / Rate",
+      "Money",
+      "Office",
+      "Money"
+    ],
+    "options_vi": [
+      "Giá cả",
+      "Tiền",
+      "Văn phòng",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दाम",
+        "english": "Price / Rate (Giá cả)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​​​​​​",
+        "english": "Money (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: दफ़्तर​​​​​​​​​​.",
+    "simpleRule": "Remember: दफ़्तर​​​​​​​​​​ means Office (Văn phòng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम",
+    "transliteration": "kaam",
+    "english": "Work / Job",
+    "vietnamese": "Công việc",
+    "audio": "काम"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दफ़्तर​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​​​​​​​'",
+    "text": "दफ़्तर​​​​​​​​​​",
+    "subtext": "daftar",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "Office",
+      "Money",
+      "Money",
+      "Work / Job"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Tiền",
+      "Tiền",
+      "Công việc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दफ़्तर​​​​​​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "पैसा​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "काम",
+        "english": "Work / Job (Công việc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दाम",
+    "translation_en": "Price / Rate",
+    "translation_vi": "Giá cả",
+    "options_en": [
+      "Price / Rate",
+      "Money",
+      "Office",
+      "Money"
+    ],
+    "options_vi": [
+      "Giá cả",
+      "Tiền",
+      "Văn phòng",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Price / Rate / Đây là Giá cả",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "दाम",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक दाम है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Money / Tôi thấy Tiền",
+    "hindiWords": [
+      "मैं",
+      "पैसा​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं पैसा​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: दाम, काम",
+      "Practiced constructing sentences."
+    ]
+  }
+]

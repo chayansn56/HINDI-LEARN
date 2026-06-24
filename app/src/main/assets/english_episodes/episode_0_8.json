@@ -1,75 +1,252 @@
 [
   {
     "type": "Introduction",
-    "title": "Checking Into a Hotel",
-    "description": "Học các câu nói cần thiết khi check-in khách sạn, thông báo việc đặt phòng và nhận chìa khóa phòng.",
+    "title": "Numbers 0-20",
+    "description": "Master the vocabulary and grammar for: Numbers 0-20. Read the key points carefully.",
     "keyPoints": [
-      "Thông báo đặt phòng: 'I have a reservation.'",
-      "Nhận chìa khóa phòng: 'Your room key.'"
+      "Focus: Numbers 0-20"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "Checking In",
-    "title_vi": "Nhận phòng khách sạn",
-    "paragraphs": [
-      {
-        "hindi": "I have a reservation.",
-        "translation": "Tôi đã đặt phòng."
-      },
-      {
-        "hindi": "Your room key.",
-        "translation": "Khóa phòng của bạn."
-      }
-    ],
-    "question_en": "What does a receptionist say when handing over the room key?",
-    "question_vi": "Nhân viên tiếp tân nói gì khi giao chìa khóa phòng?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Zero.",
+    "simpleRule": "Remember: Zero means शून्य (Số không)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Zero",
+    "transliteration": "",
+    "english": "शून्य",
+    "vietnamese": "Số không",
+    "audio": "Zero"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "One",
+    "transliteration": "",
+    "english": "एक",
+    "vietnamese": "Số một",
+    "audio": "One"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Two",
+    "transliteration": "",
+    "english": "दो",
+    "vietnamese": "Số hai",
+    "audio": "Two"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Three",
+    "transliteration": "",
+    "english": "तीन",
+    "vietnamese": "Số ba",
+    "audio": "Three"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Zero'",
+    "prompt_en": "Choose correct translation for 'Zero'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Zero'",
+    "text": "Zero",
+    "subtext": "",
+    "answer": "शून्य",
+    "answer_vi": "Số không",
     "options": [
+      "शून्य",
+      "एक",
+      "दो",
+      "तीन"
+    ],
+    "options_vi": [
+      "Số không",
+      "Số một",
+      "Số hai",
+      "Số ba"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "Your room key.",
-        "isCorrect": true
+        "hindi": "Zero",
+        "english": "शून्य (Số không)"
       },
       {
-        "text": "I have a reservation.",
-        "isCorrect": false
+        "hindi": "One",
+        "english": "एक (Số một)"
+      },
+      {
+        "hindi": "Two",
+        "english": "दो (Số hai)"
+      },
+      {
+        "hindi": "Three",
+        "english": "तीन (Số ba)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "At the Hotel Reception",
-    "explanation": "Khi đến khách sạn, hãy nói 'I have a reservation' để báo bạn đã đặt phòng trước. 'Room key' là chìa khóa phòng của bạn.",
-    "simpleRule": "Reservation = Đặt phòng trước / Room key = Khóa phòng"
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Four.",
+    "simpleRule": "Remember: Four means चार (Số bốn)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "reservation",
-    "translation": "sự đặt phòng trước",
-    "contextSentenceHindi": "I have a reservation.",
-    "contextSentenceTranslation": "Tôi đã đặt phòng.",
-    "memoryTrick": "Re-ser-va-tion. Phát âm từ từ từng âm tiết nhé!"
+    "type": "Flashcard",
+    "hindi": "Four",
+    "transliteration": "",
+    "english": "चार",
+    "vietnamese": "Số bốn",
+    "audio": "Four"
   },
   {
-    "type": "Listening",
-    "audio": "Your room key.",
-    "translation_en": "Your room key.",
-    "options_en": [
-      "Your room key.",
-      "I have a reservation.",
-      "Where is the bathroom?",
-      "Hello"
+    "type": "Flashcard",
+    "hindi": "Five",
+    "transliteration": "",
+    "english": "पाँच",
+    "vietnamese": "Số năm",
+    "audio": "Five"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Six",
+    "transliteration": "",
+    "english": "छह",
+    "vietnamese": "Số sáu",
+    "audio": "Six"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Seven",
+    "transliteration": "",
+    "english": "सात",
+    "vietnamese": "Số bảy",
+    "audio": "Seven"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Four'",
+    "prompt_en": "Choose correct translation for 'Four'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Four'",
+    "text": "Four",
+    "subtext": "",
+    "answer": "चार",
+    "answer_vi": "Số bốn",
+    "options": [
+      "चार",
+      "पाँच",
+      "छह",
+      "सात"
     ],
-    "translation_vi": "Khóa phòng của bạn.",
     "options_vi": [
-      "Khóa phòng của bạn.",
-      "Tôi đã đặt phòng.",
-      "Nhà vệ sinh ở đâu?",
-      "Xin chào"
+      "Số bốn",
+      "Số năm",
+      "Số sáu",
+      "Số bảy"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "I have a reservation.",
-    "translation": "Tôi đã đặt phòng."
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Four",
+        "english": "चार (Số bốn)"
+      },
+      {
+        "hindi": "Five",
+        "english": "पाँच (Số năm)"
+      },
+      {
+        "hindi": "Six",
+        "english": "छह (Số sáu)"
+      },
+      {
+        "hindi": "Seven",
+        "english": "सात (Số bảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Eight.",
+    "simpleRule": "Remember: Eight means आठ (Số tám)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Eight",
+    "transliteration": "",
+    "english": "आठ",
+    "vietnamese": "Số tám",
+    "audio": "Eight"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nine",
+    "transliteration": "",
+    "english": "नौ",
+    "vietnamese": "Số chín",
+    "audio": "Nine"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ten",
+    "transliteration": "",
+    "english": "दस",
+    "vietnamese": "Số mười",
+    "audio": "Ten"
+  },
+  {
+    "type": "Listening",
+    "audio": "Zero",
+    "translation_en": "शून्य",
+    "translation_vi": "Số không",
+    "options_en": [
+      "शून्य",
+      "एक",
+      "दो",
+      "तीन"
+    ],
+    "options_vi": [
+      "Số không",
+      "Số một",
+      "Số hai",
+      "Số ba"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the शून्य / Tôi thấy Số không",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Zero"
+    ],
+    "correctHindiSentence": "I see the Zero"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is एक? / Số một ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "the",
+      "One"
+    ],
+    "correctHindiSentence": "Where is the One"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Zero and Ten",
+      "Practiced constructing sentences."
+    ]
   }
 ]

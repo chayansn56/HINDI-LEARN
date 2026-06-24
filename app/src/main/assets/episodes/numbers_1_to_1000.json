@@ -1,0 +1,408 @@
+[
+  {
+    "number": 1,
+    "hindi": "एक",
+    "hinglish": "ek",
+    "english": "One",
+    "vietnamese": "Một"
+  },
+  {
+    "number": 2,
+    "hindi": "दो",
+    "hinglish": "do",
+    "english": "Two",
+    "vietnamese": "Hai"
+  },
+  {
+    "number": 3,
+    "hindi": "तीन",
+    "hinglish": "teen",
+    "english": "Three",
+    "vietnamese": "Ba"
+  },
+  {
+    "number": 4,
+    "hindi": "चार",
+    "hinglish": "chaar",
+    "english": "Four",
+    "vietnamese": "Bốn"
+  },
+  {
+    "number": 5,
+    "hindi": "पाँच",
+    "hinglish": "paanch",
+    "english": "Five",
+    "vietnamese": "Năm"
+  },
+  {
+    "number": 6,
+    "hindi": "छह",
+    "hinglish": "chheh",
+    "english": "Six",
+    "vietnamese": "Sáu"
+  },
+  {
+    "number": 7,
+    "hindi": "सात",
+    "hinglish": "saat",
+    "english": "Seven",
+    "vietnamese": "Bảy"
+  },
+  {
+    "number": 8,
+    "hindi": "आठ",
+    "hinglish": "aath",
+    "english": "Eight",
+    "vietnamese": "Tám"
+  },
+  {
+    "number": 9,
+    "hindi": "नौ",
+    "hinglish": "nau",
+    "english": "Nine",
+    "vietnamese": "Chín"
+  },
+  {
+    "number": 10,
+    "hindi": "दस",
+    "hinglish": "das",
+    "english": "Ten",
+    "vietnamese": "Mười"
+  },
+  {
+    "number": 11,
+    "hindi": "ग्यारह",
+    "hinglish": "gyaarah",
+    "english": "Eleven",
+    "vietnamese": "Mười một"
+  },
+  {
+    "number": 12,
+    "hindi": "बारह",
+    "hinglish": "baarah",
+    "english": "Twelve",
+    "vietnamese": "Mười hai"
+  },
+  {
+    "number": 13,
+    "hindi": "तेरह",
+    "hinglish": "tehrah",
+    "english": "Thirteen",
+    "vietnamese": "Mười ba"
+  },
+  {
+    "number": 14,
+    "hindi": "चौदह",
+    "hinglish": "chaudah",
+    "english": "Fourteen",
+    "vietnamese": "Mười bốn"
+  },
+  {
+    "number": 15,
+    "hindi": "पंद्रह",
+    "hinglish": "pandrah",
+    "english": "Fifteen",
+    "vietnamese": "Mười lăm"
+  },
+  {
+    "number": 16,
+    "hindi": "सोलह",
+    "hinglish": "solah",
+    "english": "Sixteen",
+    "vietnamese": "Mười sáu"
+  },
+  {
+    "number": 17,
+    "hindi": "सत्रह",
+    "hinglish": "satrah",
+    "english": "Seventeen",
+    "vietnamese": "Mười bảy"
+  },
+  {
+    "number": 18,
+    "hindi": "अठारह",
+    "hinglish": "atharah",
+    "english": "Eighteen",
+    "vietnamese": "Mười tám"
+  },
+  {
+    "number": 19,
+    "hindi": "उन्नीस",
+    "hinglish": "unnis",
+    "english": "Nineteen",
+    "vietnamese": "Mười chín"
+  },
+  {
+    "number": 20,
+    "hindi": "बीस",
+    "hinglish": "bees",
+    "english": "Twenty",
+    "vietnamese": "Hai mươi"
+  },
+  {
+    "number": 21,
+    "hindi": "इक्कीस",
+    "hinglish": "ikkees",
+    "english": "Twenty-One",
+    "vietnamese": "Hai mươi một"
+  },
+  {
+    "number": 22,
+    "hindi": "बाइस",
+    "hinglish": "baees",
+    "english": "Twenty-Two",
+    "vietnamese": "Hai mươi hai"
+  },
+  {
+    "number": 25,
+    "hindi": "पच्चीस",
+    "hinglish": "pachchees",
+    "english": "Twenty-Five",
+    "vietnamese": "Hai mươi lăm"
+  },
+  {
+    "number": 30,
+    "hindi": "तीस",
+    "hinglish": "tees",
+    "english": "Thirty",
+    "vietnamese": "Ba mươi"
+  },
+  {
+    "number": 35,
+    "hindi": "पैंतीस",
+    "hinglish": "paintees",
+    "english": "Thirty-Five",
+    "vietnamese": "Ba mươi lăm"
+  },
+  {
+    "number": 40,
+    "hindi": "चालीस",
+    "hinglish": "chaalees",
+    "english": "Forty",
+    "vietnamese": "Bốn mươi"
+  },
+  {
+    "number": 45,
+    "hindi": "पैंतालीस",
+    "hinglish": "paintaalees",
+    "english": "Forty-Five",
+    "vietnamese": "Bốn mươi lăm"
+  },
+  {
+    "number": 50,
+    "hindi": "पचास",
+    "hinglish": "pachaas",
+    "english": "Fifty",
+    "vietnamese": "Năm mươi"
+  },
+  {
+    "number": 55,
+    "hindi": "पचपन",
+    "hinglish": "pachpan",
+    "english": "Fifty-Five",
+    "vietnamese": "Năm mươi lăm"
+  },
+  {
+    "number": 60,
+    "hindi": "साठ",
+    "hinglish": "saath",
+    "english": "Sixty",
+    "vietnamese": "Sáu mươi"
+  },
+  {
+    "number": 65,
+    "hindi": "पैंसठ",
+    "hinglish": "painsath",
+    "english": "Sixty-Five",
+    "vietnamese": "Sáu mươi lăm"
+  },
+  {
+    "number": 70,
+    "hindi": "सत्तर",
+    "hinglish": "sattar",
+    "english": "Seventy",
+    "vietnamese": "Bảy mươi"
+  },
+  {
+    "number": 75,
+    "hindi": "पचहत्तर",
+    "hinglish": "pachhattar",
+    "english": "Seventy-Five",
+    "vietnamese": "Bảy mươi lăm"
+  },
+  {
+    "number": 80,
+    "hindi": "अस्सी",
+    "hinglish": "assee",
+    "english": "Eighty",
+    "vietnamese": "Tám mươi"
+  },
+  {
+    "number": 85,
+    "hindi": "पचासी",
+    "hinglish": "pachaasee",
+    "english": "Eighty-Five",
+    "vietnamese": "Tám mươi lăm"
+  },
+  {
+    "number": 90,
+    "hindi": "नब्बे",
+    "hinglish": "nabbe",
+    "english": "Ninety",
+    "vietnamese": "Chín mươi"
+  },
+  {
+    "number": 95,
+    "hindi": "पचानवे",
+    "hinglish": "pachaanve",
+    "english": "Ninety-Five",
+    "vietnamese": "Chín mươi lăm"
+  },
+  {
+    "number": 100,
+    "hindi": "सौ",
+    "hinglish": "sau",
+    "english": "One Hundred",
+    "vietnamese": "Một trăm"
+  },
+  {
+    "number": 200,
+    "hindi": "दो सौ",
+    "hinglish": "do sau",
+    "english": "Two Hundred (200)",
+    "vietnamese": "Hai trăm"
+  },
+  {
+    "number": 300,
+    "hindi": "तीन सौ",
+    "hinglish": "teen sau",
+    "english": "Three Hundred (300)",
+    "vietnamese": "Ba trăm"
+  },
+  {
+    "number": 400,
+    "hindi": "चार सौ",
+    "hinglish": "chaar sau",
+    "english": "Four Hundred (400)",
+    "vietnamese": "Bốn trăm"
+  },
+  {
+    "number": 500,
+    "hindi": "पाँच सौ",
+    "hinglish": "paanch sau",
+    "english": "Five Hundred (500)",
+    "vietnamese": "Năm trăm"
+  },
+  {
+    "number": 600,
+    "hindi": "छह सौ",
+    "hinglish": "chheh sau",
+    "english": "Six Hundred (600)",
+    "vietnamese": "Sáu trăm"
+  },
+  {
+    "number": 700,
+    "hindi": "सात सौ",
+    "hinglish": "saat sau",
+    "english": "Seven Hundred (700)",
+    "vietnamese": "Bảy trăm"
+  },
+  {
+    "number": 800,
+    "hindi": "आठ सौ",
+    "hinglish": "aath sau",
+    "english": "Eight Hundred (800)",
+    "vietnamese": "Tám trăm"
+  },
+  {
+    "number": 900,
+    "hindi": "नौ सौ",
+    "hinglish": "nau sau",
+    "english": "Nine Hundred (900)",
+    "vietnamese": "Chín trăm"
+  },
+  {
+    "number": 1000,
+    "hindi": "एक हज़ार",
+    "hinglish": "ek hazaar",
+    "english": "One Thousand (1000)",
+    "vietnamese": "Một nghìn"
+  },
+  {
+    "number": 105,
+    "hindi": "एक सौ पाँच",
+    "hinglish": "ek sau paanch",
+    "english": "One Hundred Five",
+    "vietnamese": "Một trăm lẻ năm"
+  },
+  {
+    "number": 150,
+    "hindi": "एक सौ पचास",
+    "hinglish": "ek sau pachaas",
+    "english": "One Hundred Fifty",
+    "vietnamese": "Một trăm năm mươi"
+  },
+  {
+    "number": 250,
+    "hindi": "दो सौ पचास",
+    "hinglish": "do sau pachaas",
+    "english": "Two Hundred Fifty",
+    "vietnamese": "Hai trăm năm mươi"
+  },
+  {
+    "number": 350,
+    "hindi": "तीन सौ पचास",
+    "hinglish": "teen sau pachaas",
+    "english": "Three Hundred Fifty",
+    "vietnamese": "Ba trăm năm mươi"
+  },
+  {
+    "number": 450,
+    "hindi": "चार सौ पचास",
+    "hinglish": "chaar sau pachaas",
+    "english": "Four Hundred Fifty",
+    "vietnamese": "Bốn trăm năm mươi"
+  },
+  {
+    "number": 550,
+    "hindi": "पाँच सौ पचास",
+    "hinglish": "paanch sau pachaas",
+    "english": "Five Hundred Fifty",
+    "vietnamese": "Năm trăm năm mươi"
+  },
+  {
+    "number": 650,
+    "hindi": "छह सौ पचास",
+    "hinglish": "chheh sau pachaas",
+    "english": "Six Hundred Fifty",
+    "vietnamese": "Sáu trăm năm mươi"
+  },
+  {
+    "number": 750,
+    "hindi": "सात सौ पचास",
+    "hinglish": "saat sau pachaas",
+    "english": "Seven Hundred Fifty",
+    "vietnamese": "Bảy trăm năm mươi"
+  },
+  {
+    "number": 850,
+    "hindi": "आठ सौ पचास",
+    "hinglish": "aath sau pachaas",
+    "english": "Eight Hundred Fifty",
+    "vietnamese": "Tám trăm năm mươi"
+  },
+  {
+    "number": 950,
+    "hindi": "नौ सौ पचास",
+    "hinglish": "nau sau pachaas",
+    "english": "Nine Hundred Fifty",
+    "vietnamese": "Chín trăm năm mươi"
+  },
+  {
+    "number": 999,
+    "hindi": "नौ सौ निन्यानवे",
+    "hinglish": "nau sau ninyaanve",
+    "english": "Nine Hundred Ninety-Nine",
+    "vietnamese": "Chín trăm chín mươi chín"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Bollywood - Level 12",
+    "description": "Master the vocabulary and grammar for: Bollywood - Level 12. Read the key points carefully.",
+    "keyPoints": [
+      "Learn bollywood concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: गाना.",
+    "simpleRule": "Remember: गाना means To sing / Song (Hát / Bài hát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाना",
+    "transliteration": "gānā",
+    "english": "To sing / Song",
+    "vietnamese": "Hát / Bài hát",
+    "audio": "गाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हीरो",
+    "transliteration": "hīro",
+    "english": "Hero",
+    "vietnamese": "Nam chính / Anh hùng",
+    "audio": "हीरो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'गाना'",
+    "prompt_en": "Choose correct translation for 'गाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गाना'",
+    "text": "गाना",
+    "subtext": "gānā",
+    "answer": "To sing / Song",
+    "answer_vi": "Hát / Bài hát",
+    "options": [
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
+    ],
+    "options_vi": [
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "गाना",
+        "english": "To sing / Song (Hát / Bài hát)"
+      },
+      {
+        "hindi": "हीरो",
+        "english": "Hero (Nam chính / Anh hùng)"
+      },
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: फ़िल्म.",
+    "simpleRule": "Remember: फ़िल्म means Movie (Bộ phim)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फ़िल्म",
+    "transliteration": "film",
+    "english": "Movie",
+    "vietnamese": "Bộ phim",
+    "audio": "फ़िल्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोमांस",
+    "transliteration": "romance",
+    "english": "Romance",
+    "vietnamese": "Sự lãng mạn",
+    "audio": "रोमांस"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दुनया​​​​​​​",
+    "transliteration": "duniyā",
+    "english": "World",
+    "vietnamese": "Thế giới",
+    "audio": "दुनया​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़िल्म'",
+    "prompt_en": "Choose correct translation for 'फ़िल्म'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़िल्म'",
+    "text": "फ़िल्म",
+    "subtext": "film",
+    "answer": "Movie",
+    "answer_vi": "Bộ phim",
+    "options": [
+      "Movie",
+      "Romance",
+      "World",
+      "To learn"
+    ],
+    "options_vi": [
+      "Bộ phim",
+      "Sự lãng mạn",
+      "Thế giới",
+      "Học"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "फ़िल्म",
+        "english": "Movie (Bộ phim)"
+      },
+      {
+        "hindi": "रोमांस",
+        "english": "Romance (Sự lãng mạn)"
+      },
+      {
+        "hindi": "दुनया​​​​​​​",
+        "english": "World (Thế giới)"
+      },
+      {
+        "hindi": "सीखना",
+        "english": "To learn (Học)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "गाना",
+    "translation_en": "To sing / Song",
+    "translation_vi": "Hát / Bài hát",
+    "options_en": [
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
+    ],
+    "options_vi": [
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To sing / Song / Đây là Hát / Bài hát",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "गाना",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक गाना है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Hero / Tôi thấy Nam chính / Anh hùng",
+    "hindiWords": [
+      "मैं",
+      "हीरो",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं हीरो देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: गाना, सीखना",
+      "Practiced constructing sentences."
+    ]
+  }
+]

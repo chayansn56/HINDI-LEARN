@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Lesson 9",
-    "description": "Learn key vocabulary and concepts for Gram - Lesson 9. Listen carefully and read along in English and Vietnamese.",
+    "title": "Gram - Level 9",
+    "description": "Master the vocabulary and grammar for: Gram - Level 9. Read the key points carefully.",
     "keyPoints": [
-      "समुद्र​​​​ (samudra) = Sea / Ocean / Biển",
-      "चाँदी​​​ (cā̃dī) = Silver / Bạc",
-      "दफ़्तर​​​​​ (daftar) = Office / Văn phòng"
+      "Learn gram concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 9",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: समुद्र​​​​ means 'Sea / Ocean' (Biển)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "समुद्र​​​​",
-    "transliteration": "samudra",
-    "english": "Sea / Ocean",
-    "vietnamese": "Biển",
-    "audio": "समुद्र​​​​"
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
   },
   {
     "type": "Flashcard",
-    "hindi": "चाँदी​​​",
-    "transliteration": "cā̃dī",
-    "english": "Silver",
-    "vietnamese": "Bạc",
-    "audio": "चाँदी​​​"
+    "hindi": "गाना​​​​​​​​",
+    "transliteration": "gānā",
+    "english": "To sing",
+    "vietnamese": "Hát",
+    "audio": "गाना​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अंदर आओ।",
+    "transliteration": "andar aao",
+    "english": "Come inside.",
+    "vietnamese": "Vào trong đi.",
+    "audio": "अंदर आओ।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मित्र",
+    "transliteration": "mitra",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "मित्र"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'समुद्र​​​​'",
-    "prompt_en": "Choose the correct translation for 'समुद्र​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'समुद्र​​​​'",
-    "text": "समुद्र​​​​",
-    "subtext": "samudra",
-    "answer": "Sea / Ocean",
-    "answer_vi": "Biển",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
     "options": [
-      "Soil / Earth",
-      "Office",
-      "Silver",
-      "Sea / Ocean"
+      "Love (intense)",
+      "To sing",
+      "Come inside.",
+      "Friend"
     ],
     "options_vi": [
-      "Đất",
-      "Văn phòng",
-      "Bạc",
-      "Biển"
+      "Tình yêu sâu đậm",
+      "Hát",
+      "Vào trong đi.",
+      "Bạn bè"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​",
-    "transliteration": "daftar",
-    "english": "Office",
-    "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "गाना​​​​​​​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "अंदर आओ।",
+        "english": "Come inside. (Vào trong đi.)"
+      },
+      {
+        "hindi": "मित्र",
+        "english": "Friend (Bạn bè)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: नाक.",
+    "simpleRule": "Remember: नाक means Nose (Mũi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​",
-    "transliteration": "miṭṭī",
-    "english": "Soil / Earth",
-    "vietnamese": "Đất",
-    "audio": "मिट्टी​​"
+    "hindi": "नाक",
+    "transliteration": "naak",
+    "english": "Nose",
+    "vietnamese": "Mũi",
+    "audio": "नाक"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ताला​​",
+    "transliteration": "tālā",
+    "english": "Lock",
+    "vietnamese": "Ổ khóa",
+    "audio": "ताला​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kharīdnā",
+    "english": "To buy",
+    "vietnamese": "Mua",
+    "audio": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नमस्ते, आप कैसे हैं?",
+    "transliteration": "namaste, aap kaise hain?",
+    "english": "Hello, how are you?",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "नमस्ते, आप कैसे हैं?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'नाक'",
+    "prompt_en": "Choose correct translation for 'नाक'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'नाक'",
+    "text": "नाक",
+    "subtext": "naak",
+    "answer": "Nose",
+    "answer_vi": "Mũi",
+    "options": [
+      "Nose",
+      "Lock",
+      "To buy",
+      "Hello, how are you?"
+    ],
+    "options_vi": [
+      "Mũi",
+      "Ổ khóa",
+      "Mua",
+      "Xin chào, bạn khỏe không?"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "समुद्र​​​​",
-        "english": "Sea / Ocean (Biển)"
+        "hindi": "नाक",
+        "english": "Nose (Mũi)"
       },
       {
-        "hindi": "चाँदी​​​",
-        "english": "Silver (Bạc)"
+        "hindi": "ताला​​",
+        "english": "Lock (Ổ khóa)"
       },
       {
-        "hindi": "दफ़्तर​​​​​",
-        "english": "Office (Văn phòng)"
+        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To buy (Mua)"
       },
       {
-        "hindi": "मिट्टी​​",
-        "english": "Soil / Earth (Đất)"
+        "hindi": "नमस्ते, आप कैसे हैं?",
+        "english": "Hello, how are you? (Xin chào, bạn khỏe không?)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "चाँदी​​​",
-    "translation_en": "Silver",
-    "translation_vi": "Bạc",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
     "options_en": [
-      "Sea / Ocean",
-      "Silver",
-      "Office",
-      "Soil / Earth"
+      "Love (intense)",
+      "To sing",
+      "Come inside.",
+      "Friend"
     ],
     "options_vi": [
-      "Biển",
-      "Bạc",
-      "Văn phòng",
-      "Đất"
+      "Tình yêu sâu đậm",
+      "Hát",
+      "Vào trong đi.",
+      "Bạn bè"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
-    "hindiWords": [
-      "मैं",
-      "सेब",
-      "खाता",
-      "हूँ",
-      "रोटी",
-      "है"
-    ],
-    "correctHindiSentence": "मैं सेब खाता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "के बारे में",
-    "transliteration": "ke baare mein",
-    "english": "about / regarding",
-    "vietnamese": "Về / Liên quan đến",
-    "audio": "के बारे में"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "आना",
-    "transliteration": "aana",
-    "english": "to come",
-    "vietnamese": "Đến",
-    "audio": "आना"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "दफ़्तर​​​​​",
-        "english": "Office (Văn phòng)"
-      },
-      {
-        "hindi": "मिट्टी​​",
-        "english": "Soil / Earth (Đất)"
-      },
-      {
-        "hindi": "के बारे में",
-        "english": "about / regarding (Về / Liên quan đến)"
-      },
-      {
-        "hindi": "आना",
-        "english": "to come (Đến)"
-      }
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a big house / Đây là một ngôi nhà lớn",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
     "hindiWords": [
       "यह",
-      "बड़ा",
-      "घर",
-      "है",
-      "छोटा",
-      "सड़क"
+      "एक",
+      "इश्क़",
+      "है"
     ],
-    "correctHindiSentence": "यह बड़ा घर है"
+    "correctHindiSentence": "यह एक इश्क़ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To sing / Tôi thấy Hát",
+    "hindiWords": [
+      "मैं",
+      "गाना​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं गाना​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: समुद्र​​​​, दफ़्तर​​​​​, के बारे में.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'This is a big house'."
+      "You learned: इश्क़, नमस्ते, आप कैसे हैं?",
+      "Practiced constructing sentences."
     ]
   }
 ]

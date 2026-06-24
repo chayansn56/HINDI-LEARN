@@ -1,75 +1,75 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Asking How Someone Is",
-    "description": "Học cách hỏi thăm sức khỏe của ai đó và trả lời một cách lịch sự bằng tiếng Anh.",
-    "keyPoints": [
-      "Cách hỏi thăm thông dụng: 'How are you?'",
-      "Cách trả lời lịch sự: 'I am fine, thank you.'"
-    ]
-  },
-  {
-    "type": "StoryMode",
-    "title_en": "Asking How Someone Is",
-    "title_vi": "Hỏi thăm sức khỏe",
-    "paragraphs": [
-      {
-        "hindi": "Hello. How are you?",
-        "translation": "Chào bạn. Bạn khỏe không?"
-      },
-      {
-        "hindi": "I am fine, thank you.",
-        "translation": "Tôi khỏe, cảm ơn."
-      }
-    ],
-    "question_en": "How do you say you are fine and thank the other person?",
-    "question_vi": "Bạn nói tôi khỏe và cảm ơn người kia như thế nào?",
-    "options": [
-      {
-        "text": "I am fine, thank you.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hello. How are you?",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Asking and Responding",
-    "explanation": "Khi ai đó hỏi 'How are you?', câu trả lời tiêu chuẩn và lịch sự là 'I am fine, thank you.'",
-    "simpleRule": "How are you? = Bạn khỏe không? / I am fine = Tôi khỏe"
-  },
-  {
-    "type": "VocabularyContext",
-    "word": "How are you?",
-    "translation": "Bạn khỏe không?",
-    "contextSentenceHindi": "Hello. How are you?",
-    "contextSentenceTranslation": "Chào bạn. Bạn khỏe không?",
-    "memoryTrick": "How are you? Hãy nói một cách tự nhiên khi gặp bạn bè nhé!"
-  },
-  {
-    "type": "Listening",
-    "audio": "How are you?",
-    "translation_en": "How are you?",
-    "options_en": [
-      "How are you?",
-      "I am fine",
-      "Thank you",
-      "Hello"
-    ],
-    "translation_vi": "Bạn khỏe không?",
-    "options_vi": [
-      "Bạn khỏe không?",
-      "Tôi khỏe",
-      "Cảm ơn",
-      "Xin chào"
-    ]
-  },
-  {
-    "type": "Speaking",
-    "hindiPhrase": "I am fine, thank you.",
-    "translation": "Tôi khỏe, cảm ơn."
-  }
-]
+{
+  "id": "episode_0_2",
+  "title": "Vowels & Consonants",
+  "description": "Learn about the 5 vowels and 21 consonants in English.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "title": "Nguyên âm và Phụ âm",
+      "content": "Tiếng Anh có 5 nguyên âm (Vowels): A, E, I, O, U. Các chữ cái còn lại là phụ âm (Consonants)."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "A",
+      "english": "A",
+      "vietnamese": "Nguyên âm A",
+      "audio": "A"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "E",
+      "english": "E",
+      "vietnamese": "Nguyên âm E",
+      "audio": "E"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Chữ cái nào là nguyên âm?",
+      "options": ["B", "C", "D", "E"],
+      "answer": "E"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Elephant",
+      "english": "Elephant",
+      "vietnamese": "Con voi",
+      "audio": "Elephant"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Ice cream",
+      "english": "Ice cream",
+      "vietnamese": "Kem",
+      "audio": "Ice cream"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Orange",
+      "english": "Orange",
+      "vietnamese": "Quả cam",
+      "audio": "Orange"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Umbrella",
+      "english": "Umbrella",
+      "vietnamese": "Cái ô",
+      "audio": "Umbrella"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Từ nào có nghĩa là 'Cái ô'?",
+      "options": ["Orange", "Elephant", "Umbrella", "Ice cream"],
+      "answer": "Umbrella"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"hindi": "E", "vietnamese": "Nguyên âm"},
+        {"hindi": "B", "vietnamese": "Phụ âm"},
+        {"hindi": "Orange", "vietnamese": "Quả cam"},
+        {"hindi": "Ice cream", "vietnamese": "Kem"}
+      ]
+    }
+  ]
+}

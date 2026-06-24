@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Gram - Level 17",
+    "description": "Master the vocabulary and grammar for: Gram - Level 17. Read the key points carefully.",
+    "keyPoints": [
+      "Learn gram concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होली",
+    "transliteration": "holi",
+    "english": "Holi",
+    "vietnamese": "Lễ hội sắc màu Holi",
+    "audio": "होली"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आदमी",
+    "transliteration": "ādmī",
+    "english": "Man",
+    "vietnamese": "Người đàn ông",
+    "audio": "आदमी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "उसकी",
+    "transliteration": "uski",
+    "english": "His / Her (distant feminine)",
+    "vietnamese": "Của anh/chị ấy (xa - giống cái)",
+    "audio": "उसकी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
+    "options": [
+      "Love (intense)",
+      "Holi",
+      "Man",
+      "His / Her (distant feminine)"
+    ],
+    "options_vi": [
+      "Tình yêu sâu đậm",
+      "Lễ hội sắc màu Holi",
+      "Người đàn ông",
+      "Của anh/chị ấy (xa - giống cái)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "होली",
+        "english": "Holi (Lễ hội sắc màu Holi)"
+      },
+      {
+        "hindi": "आदमी",
+        "english": "Man (Người đàn ông)"
+      },
+      {
+        "hindi": "उसकी",
+        "english": "His / Her (distant feminine) (Của anh/chị ấy (xa - giống cái))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: sिखाना​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: sिखाना​​​​​​​​​​​​​​​​​​​​ means To teach (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sikhānā",
+    "english": "To teach",
+    "vietnamese": "Dạy",
+    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अक्षर",
+    "transliteration": "akshar",
+    "english": "Letter / Character",
+    "vietnamese": "Chữ cái / Ký tự",
+    "audio": "अक्षर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sonā",
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाँदी​​​​​",
+    "transliteration": "cā̃dī",
+    "english": "Silver",
+    "vietnamese": "Bạc",
+    "audio": "चाँदी​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'sिखाना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'sिखाना​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​​​​​​​​​​​​​​​​​​​​'",
+    "text": "sिखाना​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sikhānā",
+    "answer": "To teach",
+    "answer_vi": "Dạy",
+    "options": [
+      "To teach",
+      "Letter / Character",
+      "To sleep",
+      "Silver"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Chữ cái / Ký tự",
+      "Ngủ",
+      "Bạc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To teach (Dạy)"
+      },
+      {
+        "hindi": "अक्षर",
+        "english": "Letter / Character (Chữ cái / Ký tự)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "चाँदी​​​​​",
+        "english": "Silver (Bạc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
+    "options_en": [
+      "Love (intense)",
+      "Holi",
+      "Man",
+      "His / Her (distant feminine)"
+    ],
+    "options_vi": [
+      "Tình yêu sâu đậm",
+      "Lễ hội sắc màu Holi",
+      "Người đàn ông",
+      "Của anh/chị ấy (xa - giống cái)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "इश्क़",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक इश्क़ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Holi / Tôi thấy Lễ hội sắc màu Holi",
+    "hindiWords": [
+      "मैं",
+      "होली",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं होली देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: इश्क़, चाँदी​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

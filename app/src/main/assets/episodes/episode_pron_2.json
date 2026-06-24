@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Pron - Lesson 2",
-    "description": "Learn key vocabulary and concepts for Pron - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "title": "Pron - Level 2",
+    "description": "Master the vocabulary and grammar for: Pron - Level 2. Read the key points carefully.",
     "keyPoints": [
-      "बनाना​​​​ (banānā) = To make / build / Chế tạo / Tạo ra",
-      "तभी (tabhi) = Just then / That is why / Ngay lúc đó / Chính vì vậy",
-      "गाना​​​​ (gānā) = To sing / Hát"
+      "Learn pron concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 2",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बनाना​​​​ means 'To make / build' (Chế tạo / Tạo ra)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​",
-    "transliteration": "banānā",
-    "english": "To make / build",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​"
+    "hindi": "सुनना​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "तभी",
-    "transliteration": "tabhi",
-    "english": "Just then / That is why",
-    "vietnamese": "Ngay lúc đó / Chính vì vậy",
-    "audio": "तभी"
+    "hindi": "बोलना​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बनाना​​​​'",
-    "prompt_en": "Choose the correct translation for 'बनाना​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​'",
-    "text": "बनाना​​​​",
-    "subtext": "banānā",
-    "answer": "To make / build",
-    "answer_vi": "Chế tạo / Tạo ra",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
     "options": [
-      "Just then / That is why",
-      "To make / build",
-      "To sing",
-      "To close"
+      "To listen / hear",
+      "To speak",
+      "To speak",
+      "To speak"
     ],
     "options_vi": [
-      "Ngay lúc đó / Chính vì vậy",
-      "Chế tạo / Tạo ra",
-      "Hát",
-      "Đóng"
+      "Nghe",
+      "Nói",
+      "Nói",
+      "Nói"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "गाना​​​​",
-    "transliteration": "gānā",
-    "english": "To sing",
-    "vietnamese": "Hát",
-    "audio": "गाना​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बादल​​​​​​​​​.",
+    "simpleRule": "Remember: बादल​​​​​​​​​ means Cloud (Đám mây)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बंद करना​​",
-    "transliteration": "band karnā",
-    "english": "To close",
-    "vietnamese": "Đóng",
-    "audio": "बंद करना​​"
+    "hindi": "बादल​​​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बादल​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बादल​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बादल​​​​​​​​​'",
+    "text": "बादल​​​​​​​​​",
+    "subtext": "bādal",
+    "answer": "Cloud",
+    "answer_vi": "Đám mây",
+    "options": [
+      "Cloud",
+      "To listen / hear",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Nghe",
+      "Nói",
+      "Nói"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बनाना​​​​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
+        "hindi": "बादल​​​​​​​​​",
+        "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "तभी",
-        "english": "Just then / That is why (Ngay lúc đó / Chính vì vậy)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "गाना​​​​",
-        "english": "To sing (Hát)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "बंद करना​​",
-        "english": "To close (Đóng)"
+        "hindi": "बोलना​​",
+        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "तभी",
-    "translation_en": "Just then / That is why",
-    "translation_vi": "Ngay lúc đó / Chính vì vậy",
+    "audio": "सुनना​​​​​​​​​​​​​​​",
+    "translation_en": "To listen / hear",
+    "translation_vi": "Nghe",
     "options_en": [
-      "Just then / That is why",
-      "To make / build",
-      "To close",
-      "To sing"
+      "To listen / hear",
+      "To speak",
+      "To speak",
+      "To speak"
     ],
     "options_vi": [
-      "Ngay lúc đó / Chính vì vậy",
-      "Chế tạo / Tạo ra",
-      "Đóng",
-      "Hát"
+      "Nghe",
+      "Nói",
+      "Nói",
+      "Nói"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is my mother / Đây là mẹ của tôi",
+    "englishSentence": "This is a To listen / hear / Đây là Nghe",
     "hindiWords": [
       "यह",
-      "मेरी",
-      "माँ",
-      "है",
-      "पिता",
-      "भाई"
+      "एक",
+      "सुनना​​​​​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "यह मेरी माँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बताना​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "रोना​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "गाना​​​​",
-        "english": "To sing (Hát)"
-      },
-      {
-        "hindi": "बंद करना​​",
-        "english": "To close (Đóng)"
-      },
-      {
-        "hindi": "बताना​",
-        "english": "To tell / explain (Kể / Giải thích)"
-      },
-      {
-        "hindi": "रोना​​​",
-        "english": "To cry (Khóc)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सुनना​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please sign here / Vui lòng ký vào đây",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
-      "कृपया",
-      "यहाँ",
-      "हस्ताक्षर",
-      "करें",
-      "कागज़",
-      "लिखना"
+      "मैं",
+      "बोलना​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "कृपया यहाँ हस्ताक्षर करें"
+    "correctHindiSentence": "मैं बोलना​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बनाना​​​​, गाना​​​​, बताना​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Please sign here'."
+      "You learned: सुनना​​​​​​​​​​​​​​​, बोलना​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

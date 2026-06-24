@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 33",
+    "description": "Master the vocabulary and grammar for: Episode 33. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 33",
+    "title_vi": "Tập 33",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To play (खेलना​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chơi."
+      },
+      {
+        "hindi": "Later, you encounter a Luggage / Stuff (सामान).",
+        "translation": "Sau đó, bạn gặp một Hành lý."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To play",
+        "isCorrect": true
+      },
+      {
+        "text": "Luggage / Stuff",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To play.",
+    "simpleRule": "Remember: To play means खेलना​​​​​​​​​​​​​​​​​​ (Chơi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Luggage / Stuff",
+    "transliteration": "",
+    "english": "सामान",
+    "vietnamese": "Hành lý",
+    "audio": "Luggage / Stuff"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To play'",
+    "prompt_en": "Choose correct translation for 'To play'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
+    "text": "To play",
+    "subtext": "",
+    "answer": "खेलना​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chơi",
+    "options": [
+      "खेलना​​​​​​​​​​​​​​​​​​",
+      "सामान",
+      "करना​​​​​​​​​​​​​​​​​​​​​​",
+      "बर्फ़​​​​"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Hành lý",
+      "Làm",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Luggage / Stuff",
+        "english": "सामान (Hành lý)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "River",
+    "transliteration": "",
+    "english": "नदी​",
+    "vietnamese": "Con sông",
+    "audio": "River"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना​​​​​​​​​​​​​​​​​​​​",
+      "नदी​",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Ngồi",
+      "Con sông",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "River",
+        "english": "नदी​ (Con sông)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To do.",
+    "simpleRule": "Remember: To do means करना​​​​ (Làm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "was (feminine)",
+    "transliteration": "",
+    "english": "थी",
+    "vietnamese": "Đã là (nữ)",
+    "audio": "was (feminine)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To do'",
+    "prompt_en": "Choose correct translation for 'To do'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
+    "text": "To do",
+    "subtext": "",
+    "answer": "करना​​​​",
+    "answer_vi": "Làm",
+    "options": [
+      "करना​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​​​",
+      "थी",
+      "हँसना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm",
+      "Hát",
+      "Đã là (nữ)",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To do",
+        "english": "करना​​​​ (Làm)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "was (feminine)",
+        "english": "थी (Đã là (nữ))"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​ (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To play",
+    "translation_en": "खेलना​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Chơi",
+    "options_en": [
+      "खेलना​​​​​​​​​​​​​​​​​​",
+      "सामान",
+      "करना​​​​​​​​​​​​​​​​​​​​​​",
+      "बर्फ़​​​​"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Hành lý",
+      "Làm",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the खेलना​​​​​​​​​​​​​​​​​​ / Tôi thấy Chơi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To play"
+    ],
+    "correctHindiSentence": "I see the To play"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सामान / Tôi muốn Hành lý",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Luggage / Stuff"
+    ],
+    "correctHindiSentence": "I want a Luggage / Stuff"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To play and To laugh",
+      "Practiced constructing sentences."
+    ]
+  }
+]

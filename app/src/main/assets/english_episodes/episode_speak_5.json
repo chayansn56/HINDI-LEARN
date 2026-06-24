@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 5",
+    "description": "Master the vocabulary and grammar for: Speak - Level 5. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: When.",
+    "simpleRule": "Remember: When means कब (Khi nào)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When",
+    "transliteration": "",
+    "english": "कब",
+    "vietnamese": "Khi nào",
+    "audio": "When"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How sad!",
+    "transliteration": "",
+    "english": "कितना दुखद है!",
+    "vietnamese": "Thật là buồn!",
+    "audio": "How sad!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What's up?",
+    "transliteration": "",
+    "english": "क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Name",
+    "transliteration": "",
+    "english": "नाम",
+    "vietnamese": "Tên",
+    "audio": "Name"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'When'",
+    "prompt_en": "Choose correct translation for 'When'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'When'",
+    "text": "When",
+    "subtext": "",
+    "answer": "कब",
+    "answer_vi": "Khi nào",
+    "options": [
+      "कब",
+      "कितना दुखद है!",
+      "क्या चल रहा है?",
+      "नाम"
+    ],
+    "options_vi": [
+      "Khi nào",
+      "Thật là buồn!",
+      "Có chuyện gì thế?",
+      "Tên"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "When",
+        "english": "कब (Khi nào)"
+      },
+      {
+        "hindi": "How sad!",
+        "english": "कितना दुखद है! (Thật là buồn!)"
+      },
+      {
+        "hindi": "What's up?",
+        "english": "क्या चल रहा है? (Có chuyện gì thế?)"
+      },
+      {
+        "hindi": "Name",
+        "english": "नाम (Tên)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Oh friend! / Oh man!.",
+    "simpleRule": "Remember: Oh friend! / Oh man! means अरे यार! (Trời ơi bạn ơi!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Oh friend! / Oh man!",
+    "transliteration": "",
+    "english": "अरे यार!",
+    "vietnamese": "Trời ơi bạn ơi!",
+    "audio": "Oh friend! / Oh man!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative singular)",
+    "transliteration": "",
+    "english": "जिसे",
+    "vietnamese": "Người mà (số ít)",
+    "audio": "Whom (relative singular)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello (highly respectful)",
+    "transliteration": "",
+    "english": "नमस्ते जी",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "Hello (highly respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How many",
+    "transliteration": "",
+    "english": "कितने",
+    "vietnamese": "Bao nhiêu (số lượng)",
+    "audio": "How many"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Oh friend! / Oh man!'",
+    "prompt_en": "Choose correct translation for 'Oh friend! / Oh man!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Oh friend! / Oh man!'",
+    "text": "Oh friend! / Oh man!",
+    "subtext": "",
+    "answer": "अरे यार!",
+    "answer_vi": "Trời ơi bạn ơi!",
+    "options": [
+      "अरे यार!",
+      "जिसे",
+      "नमस्ते जी",
+      "कितने"
+    ],
+    "options_vi": [
+      "Trời ơi bạn ơi!",
+      "Người mà (số ít)",
+      "Kính chào quý vị",
+      "Bao nhiêu (số lượng)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Oh friend! / Oh man!",
+        "english": "अरे यार! (Trời ơi bạn ơi!)"
+      },
+      {
+        "hindi": "Whom (relative singular)",
+        "english": "जिसे (Người mà (số ít))"
+      },
+      {
+        "hindi": "Hello (highly respectful)",
+        "english": "नमस्ते जी (Kính chào quý vị)"
+      },
+      {
+        "hindi": "How many",
+        "english": "कितने (Bao nhiêu (số lượng))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Now",
+    "transliteration": "",
+    "english": "अब",
+    "vietnamese": "Bây giờ",
+    "audio": "Now"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friend",
+    "transliteration": "",
+    "english": "मित्र",
+    "vietnamese": "Bạn bè",
+    "audio": "Friend"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No problem",
+    "transliteration": "",
+    "english": "कोई बात नहीं",
+    "vietnamese": "Không sao đâu",
+    "audio": "No problem"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​",
+      "अब",
+      "मित्र",
+      "कोई बात नहीं"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Bây giờ",
+      "Bạn bè",
+      "Không sao đâu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Now",
+        "english": "अब (Bây giờ)"
+      },
+      {
+        "hindi": "Friend",
+        "english": "मित्र (Bạn bè)"
+      },
+      {
+        "hindi": "No problem",
+        "english": "कोई बात नहीं (Không sao đâu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: How much is this?.",
+    "simpleRule": "Remember: How much is this? means यह कितने का है? (Cái này bao nhiêu tiền?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much is this?",
+    "transliteration": "",
+    "english": "यह कितने का है?",
+    "vietnamese": "Cái này bao nhiêu tiền?",
+    "audio": "How much is this?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Don't annoy me",
+    "transliteration": "",
+    "english": "दिमाग मत खा",
+    "vietnamese": "Đừng làm phiền tôi nữa",
+    "audio": "Don't annoy me"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When (relative)",
+    "transliteration": "",
+    "english": "जब",
+    "vietnamese": "Khi mà",
+    "audio": "When (relative)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'How much is this?'",
+    "prompt_en": "Choose correct translation for 'How much is this?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'How much is this?'",
+    "text": "How much is this?",
+    "subtext": "",
+    "answer": "यह कितने का है?",
+    "answer_vi": "Cái này bao nhiêu tiền?",
+    "options": [
+      "यह कितने का है?",
+      "दिमाग मत खा",
+      "जब",
+      "कापी​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Cái này bao nhiêu tiền?",
+      "Đừng làm phiền tôi nữa",
+      "Khi mà",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "How much is this?",
+        "english": "यह कितने का है? (Cái này bao nhiêu tiền?)"
+      },
+      {
+        "hindi": "Don't annoy me",
+        "english": "दिमाग मत खा (Đừng làm phiền tôi nữa)"
+      },
+      {
+        "hindi": "When (relative)",
+        "english": "जब (Khi mà)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​​​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "When",
+    "translation_en": "कब",
+    "translation_vi": "Khi nào",
+    "options_en": [
+      "कब",
+      "कितना दुखद है!",
+      "क्या चल रहा है?",
+      "नाम"
+    ],
+    "options_vi": [
+      "Khi nào",
+      "Thật là buồn!",
+      "Có chuyện gì thế?",
+      "Tên"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कब / Nó là một Khi nào",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "When"
+    ],
+    "correctHindiSentence": "It is a When"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like कितना दुखद है! / Tôi thích Thật là buồn!",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "How sad!"
+    ],
+    "correctHindiSentence": "I really like How sad!"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: When and Notebook",
+      "Practiced constructing sentences."
+    ]
+  }
+]

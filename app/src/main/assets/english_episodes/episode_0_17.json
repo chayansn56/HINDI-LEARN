@@ -1,0 +1,304 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 17",
+    "description": "Master the vocabulary and grammar for: Episode 17. Read the key points carefully.",
+    "keyPoints": [
+      "Foundation Practice"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Investor.",
+    "simpleRule": "Remember: Investor means निवेशक (Nhà đầu tư)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Investor",
+    "transliteration": "",
+    "english": "निवेशक",
+    "vietnamese": "Nhà đầu tư",
+    "audio": "Investor"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "The weather is very nice.",
+    "transliteration": "",
+    "english": "मौसम बहुत अच्छा है।",
+    "vietnamese": "Thời tiết rất đẹp.",
+    "audio": "The weather is very nice."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Investor'",
+    "prompt_en": "Choose correct translation for 'Investor'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Investor'",
+    "text": "Investor",
+    "subtext": "",
+    "answer": "निवेशक",
+    "answer_vi": "Nhà đầu tư",
+    "options": [
+      "निवेशक",
+      "मौसम बहुत अच्छा है।",
+      "करना​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nhà đầu tư",
+      "Thời tiết rất đẹp.",
+      "Làm",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Investor",
+        "english": "निवेशक (Nhà đầu tư)"
+      },
+      {
+        "hindi": "The weather is very nice.",
+        "english": "मौसम बहुत अच्छा है। (Thời tiết rất đẹp.)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​ (Làm)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Money.",
+    "simpleRule": "Remember: Money means पैसा​​​​​​​ (Tiền)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Money'",
+    "prompt_en": "Choose correct translation for 'Money'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Money'",
+    "text": "Money",
+    "subtext": "",
+    "answer": "पैसा​​​​​​​",
+    "answer_vi": "Tiền",
+    "options": [
+      "पैसा​​​​​​​",
+      "सोना​​​​​​",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tiền",
+      "Ngủ",
+      "Hỏi",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​​​ (Tiền)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​ (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Mother.",
+    "simpleRule": "Remember: Mother means माँ (Mẹ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mother",
+    "transliteration": "",
+    "english": "माँ",
+    "vietnamese": "Mẹ",
+    "audio": "Mother"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "One's own (reflexive)",
+    "transliteration": "",
+    "english": "अपना",
+    "vietnamese": "Của bản thân mình",
+    "audio": "One's own (reflexive)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sixty",
+    "transliteration": "",
+    "english": "साठ",
+    "vietnamese": "Sáu mươi",
+    "audio": "Sixty"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Mother'",
+    "prompt_en": "Choose correct translation for 'Mother'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Mother'",
+    "text": "Mother",
+    "subtext": "",
+    "answer": "माँ",
+    "answer_vi": "Mẹ",
+    "options": [
+      "माँ",
+      "अपना",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "साठ"
+    ],
+    "options_vi": [
+      "Mẹ",
+      "Của bản thân mình",
+      "Ngủ",
+      "Sáu mươi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Mother",
+        "english": "माँ (Mẹ)"
+      },
+      {
+        "hindi": "One's own (reflexive)",
+        "english": "अपना (Của bản thân mình)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "Sixty",
+        "english": "साठ (Sáu mươi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Investor",
+    "translation_en": "निवेशक",
+    "translation_vi": "Nhà đầu tư",
+    "options_en": [
+      "निवेशक",
+      "मौसम बहुत अच्छा है।",
+      "करना​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nhà đầu tư",
+      "Thời tiết rất đẹp.",
+      "Làm",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a निवेशक / Tôi có một Nhà đầu tư",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "Investor"
+    ],
+    "correctHindiSentence": "I have a Investor"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a मौसम बहुत अच्छा है। / Đây là một Thời tiết rất đẹp.",
+    "hindiWords": [
+      "This",
+      "is",
+      "a",
+      "The weather is very nice."
+    ],
+    "correctHindiSentence": "This is a The weather is very nice."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Investor and Sixty",
+      "Practiced constructing sentences."
+    ]
+  }
+]

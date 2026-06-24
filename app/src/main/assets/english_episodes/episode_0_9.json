@@ -1,75 +1,54 @@
 [
   {
     "type": "Introduction",
-    "title": "Shopping and Prices",
-    "description": "Học cách hỏi giá cả khi mua sắm và cách hiểu câu trả lời về giá trị tiền tệ bằng đô la.",
+    "title": "Numbers 20-100",
+    "description": "Master the vocabulary and grammar for: Numbers 20-100. Read the key points carefully.",
     "keyPoints": [
-      "Hỏi giá tiền: 'How much is this?'",
-      "Trả lời giá tiền: 'Ten dollars.'"
-    ]
-  },
-  {
-    "type": "StoryMode",
-    "title_en": "Shopping and Prices",
-    "title_vi": "Mua sắm và giá cả",
-    "paragraphs": [
-      {
-        "hindi": "How much is this?",
-        "translation": "Cái này bao nhiêu tiền?"
-      },
-      {
-        "hindi": "Ten dollars.",
-        "translation": "Mười đô la."
-      }
-    ],
-    "question_en": "Which question asks for the price of something?",
-    "question_vi": "Câu hỏi nào dùng để hỏi giá tiền của một món đồ?",
-    "options": [
-      {
-        "text": "How much is this?",
-        "isCorrect": true
-      },
-      {
-        "text": "Ten dollars.",
-        "isCorrect": false
-      }
+      "Focus: Numbers 20-100"
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Asking for Prices",
-    "explanation": "Dùng 'How much is this?' để hỏi giá của một sản phẩm bất kỳ. Thêm tên đồng tiền ở sau số để trả lời, ví dụ: 'dollars'.",
-    "simpleRule": "How much is this? = Cái này bao nhiêu? / Dollars = Đô la"
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Sixty.",
+    "simpleRule": "Remember: Sixty means साठ (Sáu mươi)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "dollars",
-    "translation": "đô la",
-    "contextSentenceHindi": "Ten dollars.",
-    "contextSentenceTranslation": "Mười đô la.",
-    "memoryTrick": "Dol-lars. Nhớ âm 's' ở cuối khi số lượng từ hai trở lên."
+    "type": "Flashcard",
+    "hindi": "Sixty",
+    "transliteration": "",
+    "english": "साठ",
+    "vietnamese": "Sáu mươi",
+    "audio": "Sixty"
   },
   {
-    "type": "Listening",
-    "audio": "How much is this?",
-    "translation_en": "How much is this?",
-    "options_en": [
-      "How much is this?",
-      "Ten dollars.",
-      "Where is the bathroom?",
-      "Here you go."
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the साठ / Tôi thấy Sáu mươi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Sixty"
     ],
-    "translation_vi": "Cái này bao nhiêu tiền?",
-    "options_vi": [
-      "Cái này bao nhiêu tiền?",
-      "Mười đô la.",
-      "Nhà vệ sinh ở đâu?",
-      "Của bạn đây."
-    ]
+    "correctHindiSentence": "I see the Sixty"
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "How much is this?",
-    "translation": "Cái này bao nhiêu tiền?"
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is साठ? / Sáu mươi ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "the",
+      "Sixty"
+    ],
+    "correctHindiSentence": "Where is the Sixty"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Sixty and Sixty",
+      "Practiced constructing sentences."
+    ]
   }
 ]

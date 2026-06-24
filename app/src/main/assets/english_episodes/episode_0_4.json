@@ -1,75 +1,75 @@
-[
-  {
-    "type": "Introduction",
-    "title": "At the Coffee Shop",
-    "description": "Học cách gọi cà phê lịch sự và cách nhận đồ ăn thức uống khi được phục vụ.",
-    "keyPoints": [
-      "Gọi món lịch sự: 'I would like a coffee, please.'",
-      "Khi nhận/giao đồ: 'Here you go.'"
-    ]
-  },
-  {
-    "type": "StoryMode",
-    "title_en": "At the Coffee Shop",
-    "title_vi": "Tại quán cà phê",
-    "paragraphs": [
-      {
-        "hindi": "I would like a coffee, please.",
-        "translation": "Tôi muốn một ly cà phê, làm ơn."
-      },
-      {
-        "hindi": "Here you go.",
-        "translation": "Của bạn đây."
-      }
-    ],
-    "question_en": "How do you request a coffee politely?",
-    "question_vi": "Làm thế nào để yêu cầu một ly cà phê lịch sự?",
-    "options": [
-      {
-        "text": "I would like a coffee, please.",
-        "isCorrect": true
-      },
-      {
-        "text": "Here you go.",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Polite Requests",
-    "explanation": "Sử dụng 'I would like...' kèm theo 'please' ở cuối câu để đưa ra yêu cầu lịch sự tại nhà hàng hoặc quán cà phê.",
-    "simpleRule": "I would like... please = Tôi muốn... làm ơn"
-  },
-  {
-    "type": "VocabularyContext",
-    "word": "coffee",
-    "translation": "cà phê",
-    "contextSentenceHindi": "I would like a coffee, please.",
-    "contextSentenceTranslation": "Tôi muốn một ly cà phê, làm ơn.",
-    "memoryTrick": "Cof-fee. Nhớ phát âm rõ hai âm tiết nhé!"
-  },
-  {
-    "type": "Listening",
-    "audio": "Here you go.",
-    "translation_en": "Here you go.",
-    "options_en": [
-      "Here you go.",
-      "I would like a coffee",
-      "Please",
-      "Thank you"
-    ],
-    "translation_vi": "Của bạn đây.",
-    "options_vi": [
-      "Của bạn đây.",
-      "Tôi muốn một ly cà phê",
-      "Làm ơn",
-      "Cảm ơn"
-    ]
-  },
-  {
-    "type": "Speaking",
-    "hindiPhrase": "I would like a coffee, please.",
-    "translation": "Tôi muốn một ly cà phê, làm ơn."
-  }
-]
+{
+  "id": "episode_0_4",
+  "title": "Final Sounds (s, t, d)",
+  "description": "Mastering the ending sounds in English which are often omitted by Vietnamese speakers.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "title": "Âm cuối (Final Sounds)",
+      "content": "Trong tiếng Anh, việc phát âm rõ chữ cái cuối cùng của từ là rất quan trọng để phân biệt nghĩa. Người Việt thường hay bỏ qua âm cuối."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Cat",
+      "english": "Cat",
+      "vietnamese": "Con mèo (bật âm 't' ở cuối)",
+      "audio": "Cat"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Hat",
+      "english": "Hat",
+      "vietnamese": "Cái mũ (âm cuối 't')",
+      "audio": "Hat"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Âm cuối của từ 'Hat' là gì?",
+      "options": ["s", "t", "d", "k"],
+      "answer": "t"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Bed",
+      "english": "Bed",
+      "vietnamese": "Cái giường (âm cuối 'd')",
+      "audio": "Bed"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Red",
+      "english": "Red",
+      "vietnamese": "Màu đỏ (âm cuối 'd')",
+      "audio": "Red"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Bus",
+      "english": "Bus",
+      "vietnamese": "Xe buýt (âm cuối 's')",
+      "audio": "Bus"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Yes",
+      "english": "Yes",
+      "vietnamese": "Vâng / Có (âm cuối 's')",
+      "audio": "Yes"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Từ nào sau đây kết thúc bằng âm 's'?",
+      "options": ["Red", "Cat", "Bus", "Bed"],
+      "answer": "Bus"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"hindi": "Cat", "vietnamese": "Con mèo"},
+        {"hindi": "Bed", "vietnamese": "Cái giường"},
+        {"hindi": "Bus", "vietnamese": "Xe buýt"},
+        {"hindi": "Yes", "vietnamese": "Vâng"}
+      ]
+    }
+  ]
+}

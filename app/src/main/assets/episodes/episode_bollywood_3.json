@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Bollywood - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Bollywood - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Bollywood - Level 3",
+    "description": "Master the vocabulary and grammar for: Bollywood - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (hãsnā) = To laugh / Cười lớn",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (kām karnā) = To work / Làm việc",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (hãsnā) = To laugh / Cười lớn"
+      "Learn bollywood concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To laugh' (Cười lớn)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: गाना.",
+    "simpleRule": "Remember: गाना means To sing / Song (Hát / Bài hát)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "गाना",
+    "transliteration": "gānā",
+    "english": "To sing / Song",
+    "vietnamese": "Hát / Bài hát",
+    "audio": "गाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kām karnā",
-    "english": "To work",
-    "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "हीरो",
+    "transliteration": "hīro",
+    "english": "Hero",
+    "vietnamese": "Nam chính / Anh hùng",
+    "audio": "हीरो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "hãsnā",
-    "answer": "To laugh",
-    "answer_vi": "Cười lớn",
+    "prompt": "Translate 'गाना'",
+    "prompt_en": "Choose correct translation for 'गाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गाना'",
+    "text": "गाना",
+    "subtext": "gānā",
+    "answer": "To sing / Song",
+    "answer_vi": "Hát / Bài hát",
     "options": [
-      "To play",
-      "To learn",
-      "To work",
-      "To laugh"
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
     ],
     "options_vi": [
-      "Chơi",
-      "Học",
-      "Làm việc",
-      "Cười lớn"
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
     ]
   },
   {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "गाना",
+        "english": "To sing / Song (Hát / Bài hát)"
+      },
+      {
+        "hindi": "हीरो",
+        "english": "Hero (Nam chính / Anh hùng)"
+      },
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: फ़िल्म.",
+    "simpleRule": "Remember: फ़िल्म means Movie (Bộ phim)."
+  },
+  {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "फ़िल्म",
+    "transliteration": "film",
+    "english": "Movie",
+    "vietnamese": "Bộ phim",
+    "audio": "फ़िल्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोमांस",
+    "transliteration": "romance",
+    "english": "Romance",
+    "vietnamese": "Sự lãng mạn",
+    "audio": "रोमांस"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​",
     "transliteration": "hãsnā",
     "english": "To laugh",
     "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sīkhnā",
-    "english": "To learn",
-    "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "७०",
+    "transliteration": "sattar",
+    "english": "70",
+    "vietnamese": "Bảy mươi",
+    "audio": "७०"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़िल्म'",
+    "prompt_en": "Choose correct translation for 'फ़िल्म'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़िल्म'",
+    "text": "फ़िल्म",
+    "subtext": "film",
+    "answer": "Movie",
+    "answer_vi": "Bộ phim",
+    "options": [
+      "Movie",
+      "Romance",
+      "To laugh",
+      "70"
+    ],
+    "options_vi": [
+      "Bộ phim",
+      "Sự lãng mạn",
+      "Cười lớn",
+      "Bảy mươi"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "फ़िल्म",
+        "english": "Movie (Bộ phim)"
+      },
+      {
+        "hindi": "रोमांस",
+        "english": "Romance (Sự lãng mạn)"
+      },
+      {
+        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​",
         "english": "To laugh (Cười lớn)"
       },
       {
-        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To work (Làm việc)"
-      },
-      {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
-      },
-      {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To learn (Học)"
+        "hindi": "७०",
+        "english": "70 (Bảy mươi)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To work",
-    "translation_vi": "Làm việc",
+    "audio": "गाना",
+    "translation_en": "To sing / Song",
+    "translation_vi": "Hát / Bài hát",
     "options_en": [
-      "To learn",
-      "To laugh",
-      "To work",
-      "To laugh"
+      "To sing / Song",
+      "Hero",
+      "Dance, my love",
+      "Dance"
     ],
     "options_vi": [
-      "Học",
-      "Cười lớn",
-      "Làm việc",
-      "Cười lớn"
+      "Hát / Bài hát",
+      "Nam chính / Anh hùng",
+      "Nhảy đi tình yêu của tôi",
+      "Điệu nhảy"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is my dream / Đây là giấc mơ của tôi",
+    "englishSentence": "This is a To sing / Song / Đây là Hát / Bài hát",
     "hindiWords": [
       "यह",
-      "मेरा",
-      "सपना",
-      "है",
-      "दिल",
-      "ज़िंदगी"
+      "एक",
+      "गाना",
+      "है"
     ],
-    "correctHindiSentence": "यह मेरा सपना है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "khelnā",
-    "english": "To play",
-    "vietnamese": "Chơi",
-    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सनम",
-    "transliteration": "sanam",
-    "english": "Beloved / Darling",
-    "vietnamese": "Người thương",
-    "audio": "सनम"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
-      },
-      {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To learn (Học)"
-      },
-      {
-        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To play (Chơi)"
-      },
-      {
-        "hindi": "सनम",
-        "english": "Beloved / Darling (Người thương)"
-      }
-    ]
+    "correctHindiSentence": "यह एक गाना है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I love you / Tôi yêu bạn",
+    "englishSentence": "I see Hero / Tôi thấy Nam chính / Anh hùng",
     "hindiWords": [
       "मैं",
-      "तुमसे",
-      "प्यार",
-      "करता",
-      "हूँ",
-      "दोस्त"
+      "हीरो",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं तुमसे प्यार करता हूँ"
+    "correctHindiSentence": "मैं हीरो देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, खेलना​​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I love you'."
+      "You learned: गाना, ७०",
+      "Practiced constructing sentences."
     ]
   }
 ]

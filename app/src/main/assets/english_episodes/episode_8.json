@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 8",
+    "description": "Master the vocabulary and grammar for: Episode 8. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 8",
+    "title_vi": "Tập 8",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Yearning / Restlessness (तड़प).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Sự khắc khoải / Khao khát."
+      },
+      {
+        "hindi": "Later, you encounter a To play (खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Chơi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Yearning / Restlessness",
+        "isCorrect": true
+      },
+      {
+        "text": "To play",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Yearning / Restlessness.",
+    "simpleRule": "Remember: Yearning / Restlessness means तड़प (Sự khắc khoải / Khao khát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yearning / Restlessness",
+    "transliteration": "",
+    "english": "तड़प",
+    "vietnamese": "Sự khắc khoải / Khao khát",
+    "audio": "Yearning / Restlessness"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mother",
+    "transliteration": "",
+    "english": "माँ",
+    "vietnamese": "Mẹ",
+    "audio": "Mother"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yearning / Restlessness'",
+    "prompt_en": "Choose correct translation for 'Yearning / Restlessness'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yearning / Restlessness'",
+    "text": "Yearning / Restlessness",
+    "subtext": "",
+    "answer": "तड़प",
+    "answer_vi": "Sự khắc khoải / Khao khát",
+    "options": [
+      "तड़प",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "माँ",
+      "खड़े होना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự khắc khoải / Khao khát",
+      "Chơi",
+      "Mẹ",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yearning / Restlessness",
+        "english": "तड़प (Sự khắc khoải / Khao khát)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Mother",
+        "english": "माँ (Mẹ)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​ (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Isn't it?.",
+    "simpleRule": "Remember: Isn't it? means ना (Phải không?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Isn't it?",
+    "transliteration": "",
+    "english": "ना",
+    "vietnamese": "Phải không?",
+    "audio": "Isn't it?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Isn't it?'",
+    "prompt_en": "Choose correct translation for 'Isn't it?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Isn't it?'",
+    "text": "Isn't it?",
+    "subtext": "",
+    "answer": "ना",
+    "answer_vi": "Phải không?",
+    "options": [
+      "ना",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हँसना​​​​​​​​​​",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Phải không?",
+      "Kể / Giải thích",
+      "Cười lớn",
+      "Mua"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Isn't it?",
+        "english": "ना (Phải không?)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Samosa.",
+    "simpleRule": "Remember: Samosa means समोसा (Bánh gối chiên Samosa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Samosa",
+    "transliteration": "",
+    "english": "समोसा",
+    "vietnamese": "Bánh gối chiên Samosa",
+    "audio": "Samosa"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "City",
+    "transliteration": "",
+    "english": "शहर",
+    "vietnamese": "Thành phố",
+    "audio": "City"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mountain",
+    "transliteration": "",
+    "english": "पहाड़​",
+    "vietnamese": "Ngọn núi",
+    "audio": "Mountain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​​​​​​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Samosa'",
+    "prompt_en": "Choose correct translation for 'Samosa'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Samosa'",
+    "text": "Samosa",
+    "subtext": "",
+    "answer": "समोसा",
+    "answer_vi": "Bánh gối chiên Samosa",
+    "options": [
+      "समोसा",
+      "शहर",
+      "पहाड़​",
+      "बारिश​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bánh gối chiên Samosa",
+      "Thành phố",
+      "Ngọn núi",
+      "Cơn mưa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Samosa",
+        "english": "समोसा (Bánh gối chiên Samosa)"
+      },
+      {
+        "hindi": "City",
+        "english": "शहर (Thành phố)"
+      },
+      {
+        "hindi": "Mountain",
+        "english": "पहाड़​ (Ngọn núi)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​​​​​​​​ (Cơn mưa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Yearning / Restlessness",
+    "translation_en": "तड़प",
+    "translation_vi": "Sự khắc khoải / Khao khát",
+    "options_en": [
+      "तड़प",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "माँ",
+      "खड़े होना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự khắc khoải / Khao khát",
+      "Chơi",
+      "Mẹ",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the तड़प / Tôi thấy Sự khắc khoải / Khao khát",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Yearning / Restlessness"
+    ],
+    "correctHindiSentence": "I see the Yearning / Restlessness"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Chơi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To play"
+    ],
+    "correctHindiSentence": "I want a To play"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Yearning / Restlessness and Rain",
+      "Practiced constructing sentences."
+    ]
+  }
+]

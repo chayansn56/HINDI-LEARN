@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Whatsapp - Level 8",
+    "description": "Master the vocabulary and grammar for: Whatsapp - Level 8. Read the key points carefully.",
+    "keyPoints": [
+      "Learn whatsapp concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मित्र.",
+    "simpleRule": "Remember: मित्र means Friend (Bạn bè)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मित्र",
+    "transliteration": "mitra",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "मित्र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोस्त",
+    "transliteration": "dost",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "दोस्त"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अरे यार!",
+    "transliteration": "are yaar!",
+    "english": "Oh friend! / Oh man!",
+    "vietnamese": "Trời ơi bạn ơi!",
+    "audio": "अरे यार!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "संदेश",
+    "transliteration": "sandesh",
+    "english": "Message",
+    "vietnamese": "Tin nhắn",
+    "audio": "संदेश"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मित्र'",
+    "prompt_en": "Choose correct translation for 'मित्र'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मित्र'",
+    "text": "मित्र",
+    "subtext": "mitra",
+    "answer": "Friend",
+    "answer_vi": "Bạn bè",
+    "options": [
+      "Friend",
+      "Friend",
+      "Oh friend! / Oh man!",
+      "Message"
+    ],
+    "options_vi": [
+      "Bạn bè",
+      "Bạn bè",
+      "Trời ơi bạn ơi!",
+      "Tin nhắn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मित्र",
+        "english": "Friend (Bạn bè)"
+      },
+      {
+        "hindi": "दोस्त",
+        "english": "Friend (Bạn bè)"
+      },
+      {
+        "hindi": "अरे यार!",
+        "english": "Oh friend! / Oh man! (Trời ơi bạn ơi!)"
+      },
+      {
+        "hindi": "संदेश",
+        "english": "Message (Tin nhắn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: यार.",
+    "simpleRule": "Remember: यार means Friend / Buddy (Bạn ơi / Bạn bè)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "यार",
+    "transliteration": "yaar",
+    "english": "Friend / Buddy",
+    "vietnamese": "Bạn ơi / Bạn bè",
+    "audio": "यार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोस्ती",
+    "transliteration": "dostī",
+    "english": "Friendship",
+    "vietnamese": "Tình bạn",
+    "audio": "दोस्ती"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फ़ोन",
+    "transliteration": "phone",
+    "english": "Phone",
+    "vietnamese": "Điện thoại",
+    "audio": "फ़ोन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मैसेज",
+    "transliteration": "message",
+    "english": "Message",
+    "vietnamese": "Tin nhắn",
+    "audio": "मैसेज"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'यार'",
+    "prompt_en": "Choose correct translation for 'यार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'यार'",
+    "text": "यार",
+    "subtext": "yaar",
+    "answer": "Friend / Buddy",
+    "answer_vi": "Bạn ơi / Bạn bè",
+    "options": [
+      "Friend / Buddy",
+      "Friendship",
+      "Phone",
+      "Message"
+    ],
+    "options_vi": [
+      "Bạn ơi / Bạn bè",
+      "Tình bạn",
+      "Điện thoại",
+      "Tin nhắn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "यार",
+        "english": "Friend / Buddy (Bạn ơi / Bạn bè)"
+      },
+      {
+        "hindi": "दोस्ती",
+        "english": "Friendship (Tình bạn)"
+      },
+      {
+        "hindi": "फ़ोन",
+        "english": "Phone (Điện thoại)"
+      },
+      {
+        "hindi": "मैसेज",
+        "english": "Message (Tin nhắn)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मित्र",
+    "translation_en": "Friend",
+    "translation_vi": "Bạn bè",
+    "options_en": [
+      "Friend",
+      "Friend",
+      "Oh friend! / Oh man!",
+      "Message"
+    ],
+    "options_vi": [
+      "Bạn bè",
+      "Bạn bè",
+      "Trời ơi bạn ơi!",
+      "Tin nhắn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Friend / Đây là Bạn bè",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मित्र",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मित्र है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Friend / Tôi thấy Bạn bè",
+    "hindiWords": [
+      "मैं",
+      "दोस्त",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं दोस्त देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: मित्र, मैसेज",
+      "Practiced constructing sentences."
+    ]
+  }
+]

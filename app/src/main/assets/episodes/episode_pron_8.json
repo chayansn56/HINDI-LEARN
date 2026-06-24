@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Pron - Lesson 8",
-    "description": "Learn key vocabulary and concepts for Pron - Lesson 8. Listen carefully and read along in English and Vietnamese.",
+    "title": "Pron - Level 8",
+    "description": "Master the vocabulary and grammar for: Pron - Level 8. Read the key points carefully.",
     "keyPoints": [
-      "उससे (usse) = From him / her / it / Từ anh ấy / cô ấy",
-      "साफ करना​​ (sāf karnā) = To clean / Dọn dẹp / Lau chùi",
-      "सोना​​ (sonā) = To sleep / Ngủ"
+      "Learn pron concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 8",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: उससे means 'From him / her / it' (Từ anh ấy / cô ấy)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "उससे",
-    "transliteration": "usse",
-    "english": "From him / her / it",
-    "vietnamese": "Từ anh ấy / cô ấy",
-    "audio": "उससे"
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "साफ करना​​",
-    "transliteration": "sāf karnā",
-    "english": "To clean",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​"
+    "hindi": "सुनना​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'उससे'",
-    "prompt_en": "Choose the correct translation for 'उससे'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'उससे'",
-    "text": "उससे",
-    "subtext": "usse",
-    "answer": "From him / her / it",
-    "answer_vi": "Từ anh ấy / cô ấy",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
     "options": [
-      "Our (masculine)",
-      "To clean",
-      "To sleep",
-      "From him / her / it"
+      "To speak",
+      "To listen / hear",
+      "To speak",
+      "Cloud"
     ],
     "options_vi": [
-      "Của chúng tôi (giống đực)",
-      "Dọn dẹp / Lau chùi",
-      "Ngủ",
-      "Từ anh ấy / cô ấy"
+      "Nói",
+      "Nghe",
+      "Nói",
+      "Đám mây"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "सोना​​",
-    "transliteration": "sonā",
-    "english": "To sleep",
-    "vietnamese": "Ngủ",
-    "audio": "सोना​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "सुनना​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बादल​​​​​",
+        "english": "Cloud (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हमारा",
-    "transliteration": "hamaara",
-    "english": "Our (masculine)",
-    "vietnamese": "Của chúng tôi (giống đực)",
-    "audio": "हमारा"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To listen / hear",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nói",
+      "Nói"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "उससे",
-        "english": "From him / her / it (Từ anh ấy / cô ấy)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "साफ करना​​",
-        "english": "To clean (Dọn dẹp / Lau chùi)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "सोना​​",
-        "english": "To sleep (Ngủ)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "हमारा",
-        "english": "Our (masculine) (Của chúng tôi (giống đực))"
+        "hindi": "बोलना​​​​​",
+        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "साफ करना​​",
-    "translation_en": "To clean",
-    "translation_vi": "Dọn dẹp / Lau chùi",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To speak",
+    "translation_vi": "Nói",
     "options_en": [
-      "To sleep",
-      "From him / her / it",
-      "Our (masculine)",
-      "To clean"
+      "To speak",
+      "To listen / hear",
+      "To speak",
+      "Cloud"
     ],
     "options_vi": [
-      "Ngủ",
-      "Từ anh ấy / cô ấy",
-      "Của chúng tôi (giống đực)",
-      "Dọn dẹp / Lau chùi"
+      "Nói",
+      "Nghe",
+      "Nói",
+      "Đám mây"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "englishSentence": "This is a To speak / Đây là Nói",
     "hindiWords": [
-      "कृपया",
-      "दाम",
-      "कम",
-      "करो",
-      "ज्यादा",
-      "पैसे"
+      "यह",
+      "एक",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "कृपया दाम कम करो"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बनाना​",
-    "transliteration": "banānā",
-    "english": "To make / build",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बैठना",
-    "transliteration": "baiṭhnā",
-    "english": "To sit",
-    "vietnamese": "Ngồi",
-    "audio": "बैठना"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "सोना​​",
-        "english": "To sleep (Ngủ)"
-      },
-      {
-        "hindi": "हमारा",
-        "english": "Our (masculine) (Của chúng tôi (giống đực))"
-      },
-      {
-        "hindi": "बनाना​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
-      },
-      {
-        "hindi": "बैठना",
-        "english": "To sit (Ngồi)"
-      }
-    ]
+    "correctHindiSentence": "यह एक बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Don't annoy me / Đừng làm phiền tôi nữa",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
-      "दिमाग",
-      "मत",
-      "खा",
-      "यार",
-      "बकवास",
-      "ब्रो"
+      "मैं",
+      "सुनना​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "दिमाग मत खा"
+    "correctHindiSentence": "मैं सुनना​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: उससे, सोना​​, बनाना​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Don't annoy me'."
+      "You learned: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, बोलना​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

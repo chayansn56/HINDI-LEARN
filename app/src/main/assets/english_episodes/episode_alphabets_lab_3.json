@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 3",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 3. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Truth alone triumphs.",
+    "simpleRule": "Remember: Truth alone triumphs means सत्यमेव जयते (Sự thật luôn chiến thắng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Truth alone triumphs",
+    "transliteration": "",
+    "english": "सत्यमेव जयते",
+    "vietnamese": "Sự thật luôn chiến thắng",
+    "audio": "Truth alone triumphs"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Path / Way",
+    "transliteration": "",
+    "english": "रास्ता​​​​​​​",
+    "vietnamese": "Đường đi",
+    "audio": "Path / Way"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Truth alone triumphs'",
+    "prompt_en": "Choose correct translation for 'Truth alone triumphs'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Truth alone triumphs'",
+    "text": "Truth alone triumphs",
+    "subtext": "",
+    "answer": "सत्यमेव जयते",
+    "answer_vi": "Sự thật luôn chiến thắng",
+    "options": [
+      "सत्यमेव जयते",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​​​​",
+      "रास्ता​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự thật luôn chiến thắng",
+      "Cười lớn",
+      "Dạy",
+      "Đường đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Truth alone triumphs",
+        "english": "सत्यमेव जयते (Sự thật luôn chiến thắng)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Path / Way",
+        "english": "रास्ता​​​​​​​ (Đường đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Office.",
+    "simpleRule": "Remember: Office means दफ़्तर​​​ (Văn phòng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "That is right",
+    "transliteration": "",
+    "english": "सही है",
+    "vietnamese": "Đúng thế",
+    "audio": "That is right"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Office'",
+    "prompt_en": "Choose correct translation for 'Office'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
+    "text": "Office",
+    "subtext": "",
+    "answer": "दफ़्तर​​​",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "दफ़्तर​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सही है",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Nói",
+      "Đúng thế",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "That is right",
+        "english": "सही है (Đúng thế)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To stand.",
+    "simpleRule": "Remember: To stand means खड़े होना​​​​ (Đứng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "As much as",
+    "transliteration": "",
+    "english": "जितना",
+    "vietnamese": "Bao nhiêu tùy ý",
+    "audio": "As much as"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tears",
+    "transliteration": "",
+    "english": "आँसू",
+    "vietnamese": "Nước mắt",
+    "audio": "Tears"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To stand'",
+    "prompt_en": "Choose correct translation for 'To stand'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
+    "text": "To stand",
+    "subtext": "",
+    "answer": "खड़े होना​​​​",
+    "answer_vi": "Đứng",
+    "options": [
+      "खड़े होना​​​​",
+      "जितना",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "आँसू"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Bao nhiêu tùy ý",
+      "Hỏi",
+      "Nước mắt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​ (Đứng)"
+      },
+      {
+        "hindi": "As much as",
+        "english": "जितना (Bao nhiêu tùy ý)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Tears",
+        "english": "आँसू (Nước mắt)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Country.",
+    "simpleRule": "Remember: Country means देश​​​​ (Đất nước)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Country",
+    "transliteration": "",
+    "english": "देश​​​​",
+    "vietnamese": "Đất nước",
+    "audio": "Country"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "It is possible.",
+    "transliteration": "",
+    "english": "यह मुमकिन है।",
+    "vietnamese": "Có khả năng đó.",
+    "audio": "It is possible."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Country'",
+    "prompt_en": "Choose correct translation for 'Country'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Country'",
+    "text": "Country",
+    "subtext": "",
+    "answer": "देश​​​​",
+    "answer_vi": "Đất nước",
+    "options": [
+      "देश​​​​",
+      "पढ़ना​​​​​​​​​",
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "यह मुमकिन है।"
+    ],
+    "options_vi": [
+      "Đất nước",
+      "Đọc",
+      "Học",
+      "Có khả năng đó."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Country",
+        "english": "देश​​​​ (Đất nước)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "It is possible.",
+        "english": "यह मुमकिन है। (Có khả năng đó.)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Truth alone triumphs",
+    "translation_en": "सत्यमेव जयते",
+    "translation_vi": "Sự thật luôn chiến thắng",
+    "options_en": [
+      "सत्यमेव जयते",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​​​​",
+      "रास्ता​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự thật luôn chiến thắng",
+      "Cười lớn",
+      "Dạy",
+      "Đường đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सत्यमेव जयते / Nó là một Sự thật luôn chiến thắng",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Truth alone triumphs"
+    ],
+    "correctHindiSentence": "It is a Truth alone triumphs"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Cười lớn",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To laugh"
+    ],
+    "correctHindiSentence": "I really like To laugh"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Truth alone triumphs and It is possible.",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 18",
+    "description": "Master the vocabulary and grammar for: Speak - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: No / Not.",
+    "simpleRule": "Remember: No / Not means नहीं (Không)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No / Not",
+    "transliteration": "",
+    "english": "नहीं",
+    "vietnamese": "Không",
+    "audio": "No / Not"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Why",
+    "transliteration": "",
+    "english": "क्यों",
+    "vietnamese": "Tại sao",
+    "audio": "Why"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'No / Not'",
+    "prompt_en": "Choose correct translation for 'No / Not'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'No / Not'",
+    "text": "No / Not",
+    "subtext": "",
+    "answer": "नहीं",
+    "answer_vi": "Không",
+    "options": [
+      "नहीं",
+      "क्यों",
+      "बर्फ़​",
+      "कापी​​​​​​​​"
+    ],
+    "options_vi": [
+      "Không",
+      "Tại sao",
+      "Tuyết / Đá",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "No / Not",
+        "english": "नहीं (Không)"
+      },
+      {
+        "hindi": "Why",
+        "english": "क्यों (Tại sao)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative plural)",
+    "transliteration": "",
+    "english": "जिन्हें",
+    "vietnamese": "Người mà (số nhiều)",
+    "audio": "Whom (relative plural)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No doubt.",
+    "transliteration": "",
+    "english": "कोई शक नहीं।",
+    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "audio": "No doubt."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​​​​​​",
+      "जिन्हें",
+      "कोई शक नहीं।",
+      "कापी​​​​"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Người mà (số nhiều)",
+      "Không còn nghi ngờ gì nữa.",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Whom (relative plural)",
+        "english": "जिन्हें (Người mà (số nhiều))"
+      },
+      {
+        "hindi": "No doubt.",
+        "english": "कोई शक नहीं। (Không còn nghi ngờ gì nữa.)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: What do you say? / What's up?.",
+    "simpleRule": "Remember: What do you say? / What's up? means क्या बोलता है? (Bạn nói gì thế? / Thế nào?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What do you say? / What's up?",
+    "transliteration": "",
+    "english": "क्या बोलता है?",
+    "vietnamese": "Bạn nói gì thế? / Thế nào?",
+    "audio": "What do you say? / What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How are you? (Formal)",
+    "transliteration": "",
+    "english": "आप कैसे हैं?",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "How are you? (Formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yesterday / Tomorrow",
+    "transliteration": "",
+    "english": "कल",
+    "vietnamese": "Hôm qua / Ngày mai",
+    "audio": "Yesterday / Tomorrow"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What's up?",
+    "transliteration": "",
+    "english": "क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "What's up?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What do you say? / What's up?'",
+    "prompt_en": "Choose correct translation for 'What do you say? / What's up?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What do you say? / What's up?'",
+    "text": "What do you say? / What's up?",
+    "subtext": "",
+    "answer": "क्या बोलता है?",
+    "answer_vi": "Bạn nói gì thế? / Thế nào?",
+    "options": [
+      "क्या बोलता है?",
+      "आप कैसे हैं?",
+      "कल",
+      "क्या चल रहा है?"
+    ],
+    "options_vi": [
+      "Bạn nói gì thế? / Thế nào?",
+      "Bạn khỏe không? (Lịch sự)",
+      "Hôm qua / Ngày mai",
+      "Có chuyện gì thế?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What do you say? / What's up?",
+        "english": "क्या बोलता है? (Bạn nói gì thế? / Thế nào?)"
+      },
+      {
+        "hindi": "How are you? (Formal)",
+        "english": "आप कैसे हैं? (Bạn khỏe không? (Lịch sự))"
+      },
+      {
+        "hindi": "Yesterday / Tomorrow",
+        "english": "कल (Hôm qua / Ngày mai)"
+      },
+      {
+        "hindi": "What's up?",
+        "english": "क्या चल रहा है? (Có chuyện gì thế?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Yes-man / Flatterer.",
+    "simpleRule": "Remember: Yes-man / Flatterer means चमचा (Kẻ nịnh bợ / Tay sai)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes-man / Flatterer",
+    "transliteration": "",
+    "english": "चमचा",
+    "vietnamese": "Kẻ nịnh bợ / Tay sai",
+    "audio": "Yes-man / Flatterer"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Reverent hello to Grandma",
+    "transliteration": "",
+    "english": "प्रणाम दादी जी",
+    "vietnamese": "Kính chào bà nội kính yêu",
+    "audio": "Reverent hello to Grandma"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yes-man / Flatterer'",
+    "prompt_en": "Choose correct translation for 'Yes-man / Flatterer'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yes-man / Flatterer'",
+    "text": "Yes-man / Flatterer",
+    "subtext": "",
+    "answer": "चमचा",
+    "answer_vi": "Kẻ nịnh bợ / Tay sai",
+    "options": [
+      "चमचा",
+      "कापी​​​​​​​​​​​",
+      "प्रणाम दादी जी",
+      "बर्फ़​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Kẻ nịnh bợ / Tay sai",
+      "Sổ tay",
+      "Kính chào bà nội kính yêu",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yes-man / Flatterer",
+        "english": "चमचा (Kẻ nịnh bợ / Tay sai)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Reverent hello to Grandma",
+        "english": "प्रणाम दादी जी (Kính chào bà nội kính yêu)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "No / Not",
+    "translation_en": "नहीं",
+    "translation_vi": "Không",
+    "options_en": [
+      "नहीं",
+      "क्यों",
+      "बर्फ़​",
+      "कापी​​​​​​​​"
+    ],
+    "options_vi": [
+      "Không",
+      "Tại sao",
+      "Tuyết / Đá",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a नहीं / Nó là một Không",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "No / Not"
+    ],
+    "correctHindiSentence": "It is a No / Not"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like क्यों / Tôi thích Tại sao",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Why"
+    ],
+    "correctHindiSentence": "I really like Why"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: No / Not and Snow / Ice",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Level 13",
+    "description": "Master the vocabulary and grammar for: Write - Level 13. Read the key points carefully.",
+    "keyPoints": [
+      "Learn write concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: खोलना​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: खोलना​​​​​​​​​​​​​​​​​​​ means To open (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​​​​​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'खोलना​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'खोलना​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खोलना​​​​​​​​​​​​​​​​​​​'",
+    "text": "खोलना​​​​​​​​​​​​​​​​​​​",
+    "subtext": "kholnā",
+    "answer": "To open",
+    "answer_vi": "Mở",
+    "options": [
+      "To open",
+      "To read",
+      "Pen",
+      "Pen"
+    ],
+    "options_vi": [
+      "Mở",
+      "Đọc",
+      "Bút",
+      "Bút"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "पेन​​​​​​​​​​​",
+        "english": "Pen (Bút)"
+      },
+      {
+        "hindi": "पेन​​",
+        "english": "Pen (Bút)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पढ़ना.",
+    "simpleRule": "Remember: पढ़ना means To read (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पत्र",
+    "transliteration": "patra",
+    "english": "Letter (mail)",
+    "vietnamese": "Thư tay",
+    "audio": "पत्र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पढ़ना'",
+    "prompt_en": "Choose correct translation for 'पढ़ना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पढ़ना'",
+    "text": "पढ़ना",
+    "subtext": "paṛhnā",
+    "answer": "To read",
+    "answer_vi": "Đọc",
+    "options": [
+      "To read",
+      "To open",
+      "Letter (mail)",
+      "To read"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Mở",
+      "Thư tay",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पढ़ना",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "खोलना​​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "पत्र",
+        "english": "Letter (mail) (Thư tay)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "खोलना​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To open",
+    "translation_vi": "Mở",
+    "options_en": [
+      "To open",
+      "To read",
+      "Pen",
+      "Pen"
+    ],
+    "options_vi": [
+      "Mở",
+      "Đọc",
+      "Bút",
+      "Bút"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To open / Đây là Mở",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "खोलना​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक खोलना​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To read / Tôi thấy Đọc",
+    "hindiWords": [
+      "मैं",
+      "पढ़ना​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं पढ़ना​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: खोलना​​​​​​​​​​​​​​​​​​​, पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

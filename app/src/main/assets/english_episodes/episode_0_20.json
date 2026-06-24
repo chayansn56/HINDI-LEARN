@@ -1,0 +1,304 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Weather & Seasons",
+    "description": "Master the vocabulary and grammar for: Weather & Seasons. Read the key points carefully.",
+    "keyPoints": [
+      "Focus: Weather & Seasons"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Rain.",
+    "simpleRule": "Remember: Rain means बारिश​​ (Cơn mưa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hotel",
+    "transliteration": "",
+    "english": "होटल",
+    "vietnamese": "Khách sạn",
+    "audio": "Hotel"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​​​​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Rain'",
+    "prompt_en": "Choose correct translation for 'Rain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Rain'",
+    "text": "Rain",
+    "subtext": "",
+    "answer": "बारिश​​",
+    "answer_vi": "Cơn mưa",
+    "options": [
+      "बारिश​​",
+      "होटल",
+      "बारिश​​​​​​​​",
+      "बर्फ़​​​"
+    ],
+    "options_vi": [
+      "Cơn mưa",
+      "Khách sạn",
+      "Cơn mưa",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​ (Cơn mưa)"
+      },
+      {
+        "hindi": "Hotel",
+        "english": "होटल (Khách sạn)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​​​​​​ (Cơn mưa)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Car / Train / Cart.",
+    "simpleRule": "Remember: Car / Train / Cart means गाड़ी (Xe hơi / Xe lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Car / Train / Cart",
+    "transliteration": "",
+    "english": "गाड़ी",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "Car / Train / Cart"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Car / Train / Cart'",
+    "prompt_en": "Choose correct translation for 'Car / Train / Cart'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Car / Train / Cart'",
+    "text": "Car / Train / Cart",
+    "subtext": "",
+    "answer": "गाड़ी",
+    "answer_vi": "Xe hơi / Xe lửa",
+    "options": [
+      "गाड़ी",
+      "बर्फ़​​​​​​​​",
+      "बारिश​",
+      "बर्फ़​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Xe hơi / Xe lửa",
+      "Tuyết / Đá",
+      "Cơn mưa",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Car / Train / Cart",
+        "english": "गाड़ी (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​ (Cơn mưa)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Rain.",
+    "simpleRule": "Remember: Rain means बारिश​​​​​​​​​​ (Cơn mưa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​​​​​​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To swindle / cheat",
+    "transliteration": "",
+    "english": "चूना लगाना",
+    "vietnamese": "Lừa bịp / Lừa tiền",
+    "audio": "To swindle / cheat"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dhoti",
+    "transliteration": "",
+    "english": "धोती",
+    "vietnamese": "Quần Dhoti truyền thống",
+    "audio": "Dhoti"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Rain'",
+    "prompt_en": "Choose correct translation for 'Rain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Rain'",
+    "text": "Rain",
+    "subtext": "",
+    "answer": "बारिश​​​​​​​​​​",
+    "answer_vi": "Cơn mưa",
+    "options": [
+      "बारिश​​​​​​​​​​",
+      "चूना लगाना",
+      "बर्फ़​​​​​​​​​",
+      "धोती"
+    ],
+    "options_vi": [
+      "Cơn mưa",
+      "Lừa bịp / Lừa tiền",
+      "Tuyết / Đá",
+      "Quần Dhoti truyền thống"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​​​​​​​​ (Cơn mưa)"
+      },
+      {
+        "hindi": "To swindle / cheat",
+        "english": "चूना लगाना (Lừa bịp / Lừa tiền)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Dhoti",
+        "english": "धोती (Quần Dhoti truyền thống)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Rain",
+    "translation_en": "बारिश​​",
+    "translation_vi": "Cơn mưa",
+    "options_en": [
+      "बारिश​​",
+      "होटल",
+      "बारिश​​​​​​​​",
+      "बर्फ़​​​"
+    ],
+    "options_vi": [
+      "Cơn mưa",
+      "Khách sạn",
+      "Cơn mưa",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बारिश​​ / Tôi thấy Cơn mưa",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Rain"
+    ],
+    "correctHindiSentence": "I see the Rain"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is होटल? / Khách sạn ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "the",
+      "Hotel"
+    ],
+    "correctHindiSentence": "Where is the Hotel"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Rain and Dhoti",
+      "Practiced constructing sentences."
+    ]
+  }
+]

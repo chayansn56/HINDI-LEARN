@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 8",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 8. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 8",
+    "description": "Master the vocabulary and grammar for: Travel - Level 8. Read the key points carefully.",
     "keyPoints": [
-      "बताना​​​​​​​​​​​​​​​​​​​​​​ (batānā) = To tell / explain / Kể / Giải thích",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​ (pūchnā) = To ask / Hỏi",
-      "देखना​​​​​​​​​​​​​​​​​​​​​ (dekhnā) = To see / watch / Nhìn / Xem"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 8",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बताना​​​​​​​​​​​​​​​​​​​​​​ means 'To tell / explain' (Kể / Giải thích)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सफ़र​​.",
+    "simpleRule": "Remember: सफ़र​​ means Journey (Chuyến đi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "टिकट काउंटर",
+    "transliteration": "ticket counter",
+    "english": "Ticket counter",
+    "vietnamese": "Quầy bán vé",
+    "audio": "टिकट काउंटर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बताना​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'बताना​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बताना​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बताना​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "batānā",
-    "answer": "To tell / explain",
-    "answer_vi": "Kể / Giải thích",
+    "prompt": "Translate 'सफ़र​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​'",
+    "text": "सफ़र​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
     "options": [
-      "To tell / explain",
-      "To ask",
-      "To ask",
-      "To see / watch"
+      "Journey",
+      "Ticket counter",
+      "Bathroom",
+      "Car / Train / Cart"
     ],
     "options_vi": [
-      "Kể / Giải thích",
-      "Hỏi",
-      "Hỏi",
-      "Nhìn / Xem"
+      "Chuyến đi",
+      "Quầy bán vé",
+      "Nhà tắm / Toilet",
+      "Xe hơi / Xe lửa"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "dekhnā",
-    "english": "To see / watch",
-    "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "टिकट काउंटर",
+        "english": "Ticket counter (Quầy bán vé)"
+      },
+      {
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​​​​​ means Journey (Chuyến đi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थाना",
+    "transliteration": "thana",
+    "english": "Police station",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "थाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​​​​​'",
+    "text": "सफ़र​​​​​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Police station",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Đồn cảnh sát",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To tell / explain (Kể / Giải thích)"
+        "hindi": "सफ़र​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
+        "hindi": "थाना",
+        "english": "Police station (Đồn cảnh sát)"
       },
       {
-        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
+        "hindi": "सफ़र",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
+        "hindi": "सफ़र​​​",
+        "english": "Journey (Chuyến đi)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To ask",
-    "translation_vi": "Hỏi",
+    "audio": "सफ़र​​",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
     "options_en": [
-      "To see / watch",
-      "To learn",
-      "To ask",
-      "To tell / explain"
+      "Journey",
+      "Ticket counter",
+      "Bathroom",
+      "Car / Train / Cart"
     ],
     "options_vi": [
-      "Nhìn / Xem",
-      "Học",
-      "Hỏi",
-      "Kể / Giải thích"
+      "Chuyến đi",
+      "Quầy bán vé",
+      "Nhà tắm / Toilet",
+      "Xe hơi / Xe lửa"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the train station? / Ga tàu ở đâu?",
+    "englishSentence": "This is a Journey / Đây là Chuyến đi",
     "hindiWords": [
-      "रेलवे",
-      "स्टेशन",
-      "कहाँ",
-      "है",
-      "हवाई",
-      "अड्डा"
+      "यह",
+      "एक",
+      "सफ़र​​",
+      "है"
     ],
-    "correctHindiSentence": "रेलवे स्टेशन कहाँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sīkhnā",
-    "english": "To learn",
-    "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
-      },
-      {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
-      },
-      {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To learn (Học)"
-      },
-      {
-        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To cry (Khóc)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सफ़र​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "englishSentence": "I see Ticket counter / Tôi thấy Quầy bán vé",
     "hindiWords": [
-      "कृपया",
-      "दाम",
-      "कम",
-      "करो",
-      "ज्यादा",
-      "पैसे"
+      "मैं",
+      "टिकट काउंटर",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "कृपया दाम कम करो"
+    "correctHindiSentence": "मैं टिकट काउंटर देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बताना​​​​​​​​​​​​​​​​​​​​​​, देखना​​​​​​​​​​​​​​​​​​​​​, सीखना​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Please reduce the price'."
+      "You learned: सफ़र​​, सफ़र​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

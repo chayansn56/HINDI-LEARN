@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 17",
+    "description": "Master the vocabulary and grammar for: Speak - Level 17. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Oh friend! / Oh man!.",
+    "simpleRule": "Remember: Oh friend! / Oh man! means अरे यार! (Trời ơi bạn ơi!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Oh friend! / Oh man!",
+    "transliteration": "",
+    "english": "अरे यार!",
+    "vietnamese": "Trời ơi bạn ơi!",
+    "audio": "Oh friend! / Oh man!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to know",
+    "transliteration": "",
+    "english": "जानना",
+    "vietnamese": "Biết",
+    "audio": "to know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Now",
+    "transliteration": "",
+    "english": "अब",
+    "vietnamese": "Bây giờ",
+    "audio": "Now"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Oh friend! / Oh man!'",
+    "prompt_en": "Choose correct translation for 'Oh friend! / Oh man!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Oh friend! / Oh man!'",
+    "text": "Oh friend! / Oh man!",
+    "subtext": "",
+    "answer": "अरे यार!",
+    "answer_vi": "Trời ơi bạn ơi!",
+    "options": [
+      "अरे यार!",
+      "जानना",
+      "बर्फ़​",
+      "अब"
+    ],
+    "options_vi": [
+      "Trời ơi bạn ơi!",
+      "Biết",
+      "Tuyết / Đá",
+      "Bây giờ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Oh friend! / Oh man!",
+        "english": "अरे यार! (Trời ơi bạn ơi!)"
+      },
+      {
+        "hindi": "to know",
+        "english": "जानना (Biết)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Now",
+        "english": "अब (Bây giờ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: What is the plan?.",
+    "simpleRule": "Remember: What is the plan? means सीन क्या है? (Kế hoạch là gì thế?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What is the plan?",
+    "transliteration": "",
+    "english": "सीन क्या है?",
+    "vietnamese": "Kế hoạch là gì thế?",
+    "audio": "What is the plan?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello (highly respectful)",
+    "transliteration": "",
+    "english": "नमस्ते जी",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "Hello (highly respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where (relative)",
+    "transliteration": "",
+    "english": "जहाँ",
+    "vietnamese": "Nơi mà",
+    "audio": "Where (relative)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Enough / Stop",
+    "transliteration": "",
+    "english": "बस",
+    "vietnamese": "Đủ rồi / Thôi",
+    "audio": "Enough / Stop"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What is the plan?'",
+    "prompt_en": "Choose correct translation for 'What is the plan?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What is the plan?'",
+    "text": "What is the plan?",
+    "subtext": "",
+    "answer": "सीन क्या है?",
+    "answer_vi": "Kế hoạch là gì thế?",
+    "options": [
+      "सीन क्या है?",
+      "नमस्ते जी",
+      "जहाँ",
+      "बस"
+    ],
+    "options_vi": [
+      "Kế hoạch là gì thế?",
+      "Kính chào quý vị",
+      "Nơi mà",
+      "Đủ rồi / Thôi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What is the plan?",
+        "english": "सीन क्या है? (Kế hoạch là gì thế?)"
+      },
+      {
+        "hindi": "Hello (highly respectful)",
+        "english": "नमस्ते जी (Kính chào quý vị)"
+      },
+      {
+        "hindi": "Where (relative)",
+        "english": "जहाँ (Nơi mà)"
+      },
+      {
+        "hindi": "Enough / Stop",
+        "english": "बस (Đủ rồi / Thôi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: No (respectful).",
+    "simpleRule": "Remember: No (respectful) means जी नहीं (Không (Lịch sự))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No (respectful)",
+    "transliteration": "",
+    "english": "जी नहीं",
+    "vietnamese": "Không (Lịch sự)",
+    "audio": "No (respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much",
+    "transliteration": "",
+    "english": "कितना",
+    "vietnamese": "Bao nhiêu",
+    "audio": "How much"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What else is going on? / What's up?",
+    "transliteration": "",
+    "english": "और क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì mới không?",
+    "audio": "What else is going on? / What's up?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'No (respectful)'",
+    "prompt_en": "Choose correct translation for 'No (respectful)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'No (respectful)'",
+    "text": "No (respectful)",
+    "subtext": "",
+    "answer": "जी नहीं",
+    "answer_vi": "Không (Lịch sự)",
+    "options": [
+      "जी नहीं",
+      "कितना",
+      "बर्फ़",
+      "और क्या चल रहा है?"
+    ],
+    "options_vi": [
+      "Không (Lịch sự)",
+      "Bao nhiêu",
+      "Tuyết / Đá",
+      "Có chuyện gì mới không?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "No (respectful)",
+        "english": "जी नहीं (Không (Lịch sự))"
+      },
+      {
+        "hindi": "How much",
+        "english": "कितना (Bao nhiêu)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "What else is going on? / What's up?",
+        "english": "और क्या चल रहा है? (Có chuyện gì mới không?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nose",
+    "transliteration": "",
+    "english": "नाक",
+    "vietnamese": "Mũi",
+    "audio": "Nose"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom / To whom",
+    "transliteration": "",
+    "english": "किसे",
+    "vietnamese": "Ai / Cho ai",
+    "audio": "Whom / To whom"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​​​​",
+      "नाक",
+      "कापी",
+      "किसे"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Mũi",
+      "Sổ tay",
+      "Ai / Cho ai"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Nose",
+        "english": "नाक (Mũi)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी (Sổ tay)"
+      },
+      {
+        "hindi": "Whom / To whom",
+        "english": "किसे (Ai / Cho ai)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Oh friend! / Oh man!",
+    "translation_en": "अरे यार!",
+    "translation_vi": "Trời ơi bạn ơi!",
+    "options_en": [
+      "अरे यार!",
+      "जानना",
+      "बर्फ़​",
+      "अब"
+    ],
+    "options_vi": [
+      "Trời ơi bạn ơi!",
+      "Biết",
+      "Tuyết / Đá",
+      "Bây giờ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a अरे यार! / Nó là một Trời ơi bạn ơi!",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Oh friend! / Oh man!"
+    ],
+    "correctHindiSentence": "It is a Oh friend! / Oh man!"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like जानना / Tôi thích Biết",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "to know"
+    ],
+    "correctHindiSentence": "I really like to know"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Oh friend! / Oh man! and Whom / To whom",
+      "Practiced constructing sentences."
+    ]
+  }
+]

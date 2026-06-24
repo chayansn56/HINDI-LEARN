@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 2",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 2. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Is everything okay?.",
+    "simpleRule": "Remember: Is everything okay? means सब ठीक है? (Mọi việc đều ổn chứ?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Is everything okay?",
+    "transliteration": "",
+    "english": "सब ठीक है?",
+    "vietnamese": "Mọi việc đều ổn chứ?",
+    "audio": "Is everything okay?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Is everything okay?'",
+    "prompt_en": "Choose correct translation for 'Is everything okay?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Is everything okay?'",
+    "text": "Is everything okay?",
+    "subtext": "",
+    "answer": "सब ठीक है?",
+    "answer_vi": "Mọi việc đều ổn chứ?",
+    "options": [
+      "सब ठीक है?",
+      "लिखना​​​​",
+      "सीखना​​​​​​​​​​​​​​​",
+      "हँसना​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mọi việc đều ổn chứ?",
+      "Viết",
+      "Học",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Is everything okay?",
+        "english": "सब ठीक है? (Mọi việc đều ổn chứ?)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​ (Viết)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​ (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To take.",
+    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​​​​​​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Demand",
+    "transliteration": "",
+    "english": "मांग",
+    "vietnamese": "Nhu cầu",
+    "audio": "Demand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To take'",
+    "prompt_en": "Choose correct translation for 'To take'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
+    "text": "To take",
+    "subtext": "",
+    "answer": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "गाँव​​​​​​​​",
+      "मांग"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Chế tạo / Tạo ra",
+      "Ngôi làng",
+      "Nhu cầu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​​​​​​​ (Ngôi làng)"
+      },
+      {
+        "hindi": "Demand",
+        "english": "मांग (Nhu cầu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सीखना​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Khóc",
+      "Học",
+      "Dọn dẹp / Lau chùi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Ticket counter.",
+    "simpleRule": "Remember: Ticket counter means टिकट काउंटर (Quầy bán vé)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ticket counter",
+    "transliteration": "",
+    "english": "टिकट काउंटर",
+    "vietnamese": "Quầy bán vé",
+    "audio": "Ticket counter"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Ticket counter'",
+    "prompt_en": "Choose correct translation for 'Ticket counter'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Ticket counter'",
+    "text": "Ticket counter",
+    "subtext": "",
+    "answer": "टिकट काउंटर",
+    "answer_vi": "Quầy bán vé",
+    "options": [
+      "टिकट काउंटर",
+      "बर्फ़​​​",
+      "जागना​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Quầy bán vé",
+      "Tuyết / Đá",
+      "Thức dậy",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Ticket counter",
+        "english": "टिकट काउंटर (Quầy bán vé)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Is everything okay?",
+    "translation_en": "सब ठीक है?",
+    "translation_vi": "Mọi việc đều ổn chứ?",
+    "options_en": [
+      "सब ठीक है?",
+      "लिखना​​​​",
+      "सीखना​​​​​​​​​​​​​​​",
+      "हँसना​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mọi việc đều ổn chứ?",
+      "Viết",
+      "Học",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सब ठीक है? / Nó là một Mọi việc đều ổn chứ?",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Is everything okay?"
+    ],
+    "correctHindiSentence": "It is a Is everything okay?"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like लिखना​​​​ / Tôi thích Viết",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To write"
+    ],
+    "correctHindiSentence": "I really like To write"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Is everything okay? and To wake up",
+      "Practiced constructing sentences."
+    ]
+  }
+]

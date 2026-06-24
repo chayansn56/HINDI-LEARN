@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Listen - Level 3",
+    "description": "Master the vocabulary and grammar for: Listen - Level 3. Read the key points carefully.",
+    "keyPoints": [
+      "Learn listen concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To learn.",
+    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​ (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "His / Her / Its (near)",
+    "transliteration": "",
+    "english": "इसका",
+    "vietnamese": "Của anh/chị/nó (gần)",
+    "audio": "His / Her / Its (near)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To learn'",
+    "prompt_en": "Choose correct translation for 'To learn'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
+    "text": "To learn",
+    "subtext": "",
+    "answer": "सीखना​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Học",
+    "options": [
+      "सीखना​​​​​​​​​​​​​​​​​​​​",
+      "सीखना​​​​​​​​​​",
+      "सीखना​​​​​​​",
+      "इसका"
+    ],
+    "options_vi": [
+      "Học",
+      "Học",
+      "Học",
+      "Của anh/chị/nó (gần)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "His / Her / Its (near)",
+        "english": "इसका (Của anh/chị/nó (gần))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Keep quiet / Shut up.",
+    "transliteration": "",
+    "english": "चुप रहो।",
+    "vietnamese": "Im lặng đi.",
+    "audio": "Keep quiet / Shut up."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing / Song",
+    "transliteration": "",
+    "english": "गाना",
+    "vietnamese": "Hát / Bài hát",
+    "audio": "To sing / Song"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चुप रहो।",
+      "गाना"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Học",
+      "Im lặng đi.",
+      "Hát / Bài hát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "Keep quiet / Shut up.",
+        "english": "चुप रहो। (Im lặng đi.)"
+      },
+      {
+        "hindi": "To sing / Song",
+        "english": "गाना (Hát / Bài hát)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To this / him / her (near)",
+    "transliteration": "",
+    "english": "इसे",
+    "vietnamese": "Cho người/vật này",
+    "audio": "To this / him / her (near)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​",
+      "इसे",
+      "सीखना​​​​​​​​​​​​",
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Cho người/vật này",
+      "Học",
+      "Học"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​ (Nghe)"
+      },
+      {
+        "hindi": "To this / him / her (near)",
+        "english": "इसे (Cho người/vật này)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Yearning / Restlessness.",
+    "simpleRule": "Remember: Yearning / Restlessness means तड़प (Sự khắc khoải / Khao khát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yearning / Restlessness",
+    "transliteration": "",
+    "english": "तड़प",
+    "vietnamese": "Sự khắc khoải / Khao khát",
+    "audio": "Yearning / Restlessness"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yearning / Restlessness'",
+    "prompt_en": "Choose correct translation for 'Yearning / Restlessness'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yearning / Restlessness'",
+    "text": "Yearning / Restlessness",
+    "subtext": "",
+    "answer": "तड़प",
+    "answer_vi": "Sự khắc khoải / Khao khát",
+    "options": [
+      "तड़प",
+      "सुनना​​​​​",
+      "बादल​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự khắc khoải / Khao khát",
+      "Nghe",
+      "Đám mây",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yearning / Restlessness",
+        "english": "तड़प (Sự khắc khoải / Khao khát)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To learn",
+    "translation_en": "सीखना​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Học",
+    "options_en": [
+      "सीखना​​​​​​​​​​​​​​​​​​​​",
+      "सीखना​​​​​​​​​​",
+      "सीखना​​​​​​​",
+      "इसका"
+    ],
+    "options_vi": [
+      "Học",
+      "Học",
+      "Học",
+      "Của anh/chị/nó (gần)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सीखना​​​​​​​​​​​​​​​​​​​​ / Nó là một Học",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "To learn"
+    ],
+    "correctHindiSentence": "It is a To learn"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like सीखना​​​​​​​​​​ / Tôi thích Học",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To learn"
+    ],
+    "correctHindiSentence": "I really like To learn"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To learn and To listen / hear",
+      "Practiced constructing sentences."
+    ]
+  }
+]

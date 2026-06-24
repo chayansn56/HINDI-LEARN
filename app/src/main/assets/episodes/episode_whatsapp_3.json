@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Whatsapp - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Whatsapp - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Whatsapp - Level 3",
+    "description": "Master the vocabulary and grammar for: Whatsapp - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (kām karnā) = To work / Làm việc",
-      "हवा आने दे (hawa aane de) = Get lost / Let me breathe / Đi chỗ khác chơi / Cho tôi thở",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (lenā) = To take / Lấy / Nhận"
+      "Learn whatsapp concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To work' (Làm việc)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: ग्रुप.",
+    "simpleRule": "Remember: ग्रुप means Group (Nhóm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kām karnā",
-    "english": "To work",
-    "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "ग्रुप",
+    "transliteration": "group",
+    "english": "Group",
+    "vietnamese": "Nhóm",
+    "audio": "ग्रुप"
   },
   {
     "type": "Flashcard",
-    "hindi": "हवा आने दे",
-    "transliteration": "hawa aane de",
-    "english": "Get lost / Let me breathe",
-    "vietnamese": "Đi chỗ khác chơi / Cho tôi thở",
-    "audio": "हवा आने दे"
+    "hindi": "मैसेज",
+    "transliteration": "message",
+    "english": "Message",
+    "vietnamese": "Tin nhắn",
+    "audio": "मैसेज"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "यार",
+    "transliteration": "yaar",
+    "english": "Friend / Buddy",
+    "vietnamese": "Bạn ơi / Bạn bè",
+    "audio": "यार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अरे यार!",
+    "transliteration": "are yaar!",
+    "english": "Oh friend! / Oh man!",
+    "vietnamese": "Trời ơi bạn ơi!",
+    "audio": "अरे यार!"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "kām karnā",
-    "answer": "To work",
-    "answer_vi": "Làm việc",
+    "prompt": "Translate 'ग्रुप'",
+    "prompt_en": "Choose correct translation for 'ग्रुप'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ग्रुप'",
+    "text": "ग्रुप",
+    "subtext": "group",
+    "answer": "Group",
+    "answer_vi": "Nhóm",
     "options": [
-      "Get lost / Let me breathe",
-      "To work",
-      "To listen / hear",
-      "To take"
+      "Group",
+      "Message",
+      "Friend / Buddy",
+      "Oh friend! / Oh man!"
     ],
     "options_vi": [
-      "Đi chỗ khác chơi / Cho tôi thở",
-      "Làm việc",
-      "Nghe",
-      "Lấy / Nhận"
+      "Nhóm",
+      "Tin nhắn",
+      "Bạn ơi / Bạn bè",
+      "Trời ơi bạn ơi!"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "lenā",
-    "english": "To take",
-    "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "ग्रुप",
+        "english": "Group (Nhóm)"
+      },
+      {
+        "hindi": "मैसेज",
+        "english": "Message (Tin nhắn)"
+      },
+      {
+        "hindi": "यार",
+        "english": "Friend / Buddy (Bạn ơi / Bạn bè)"
+      },
+      {
+        "hindi": "अरे यार!",
+        "english": "Oh friend! / Oh man! (Trời ơi bạn ơi!)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: फ़ोन.",
+    "simpleRule": "Remember: फ़ोन means Phone (Điện thoại)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sunnā",
-    "english": "To listen / hear",
-    "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "फ़ोन",
+    "transliteration": "phone",
+    "english": "Phone",
+    "vietnamese": "Điện thoại",
+    "audio": "फ़ोन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मित्र",
+    "transliteration": "mitra",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "मित्र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोस्त",
+    "transliteration": "dost",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "दोस्त"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "संदेश",
+    "transliteration": "sandesh",
+    "english": "Message",
+    "vietnamese": "Tin nhắn",
+    "audio": "संदेश"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़ोन'",
+    "prompt_en": "Choose correct translation for 'फ़ोन'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़ोन'",
+    "text": "फ़ोन",
+    "subtext": "phone",
+    "answer": "Phone",
+    "answer_vi": "Điện thoại",
+    "options": [
+      "Phone",
+      "Friend",
+      "Friend",
+      "Message"
+    ],
+    "options_vi": [
+      "Điện thoại",
+      "Bạn bè",
+      "Bạn bè",
+      "Tin nhắn"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To work (Làm việc)"
+        "hindi": "फ़ोन",
+        "english": "Phone (Điện thoại)"
       },
       {
-        "hindi": "हवा आने दे",
-        "english": "Get lost / Let me breathe (Đi chỗ khác chơi / Cho tôi thở)"
+        "hindi": "मित्र",
+        "english": "Friend (Bạn bè)"
       },
       {
-        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To take (Lấy / Nhận)"
+        "hindi": "दोस्त",
+        "english": "Friend (Bạn bè)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
+        "hindi": "संदेश",
+        "english": "Message (Tin nhắn)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "हवा आने दे",
-    "translation_en": "Get lost / Let me breathe",
-    "translation_vi": "Đi chỗ khác chơi / Cho tôi thở",
+    "audio": "ग्रुप",
+    "translation_en": "Group",
+    "translation_vi": "Nhóm",
     "options_en": [
-      "To listen / hear",
-      "To take",
-      "To work",
-      "Get lost / Let me breathe"
+      "Group",
+      "Message",
+      "Friend / Buddy",
+      "Oh friend! / Oh man!"
     ],
     "options_vi": [
-      "Nghe",
-      "Lấy / Nhận",
-      "Làm việc",
-      "Đi chỗ khác chơi / Cho tôi thở"
+      "Nhóm",
+      "Tin nhắn",
+      "Bạn ơi / Bạn bè",
+      "Trời ơi bạn ơi!"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "What is the plan, bro? / Kế hoạch là gì vậy bro?",
+    "englishSentence": "This is a Group / Đây là Nhóm",
     "hindiWords": [
-      "सीन",
-      "क्या",
-      "है",
-      "भाई",
-      "यार",
-      "मस्त"
+      "यह",
+      "एक",
+      "ग्रुप",
+      "है"
     ],
-    "correctHindiSentence": "सीन क्या है भाई"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kharīdnā",
-    "english": "To buy",
-    "vietnamese": "Mua",
-    "audio": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sikhānā",
-    "english": "To teach",
-    "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To take (Lấy / Nhận)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To buy (Mua)"
-      },
-      {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
-      }
-    ]
+    "correctHindiSentence": "यह एक ग्रुप है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Don't annoy me / Đừng làm phiền tôi nữa",
+    "englishSentence": "I see Message / Tôi thấy Tin nhắn",
     "hindiWords": [
-      "दिमाग",
-      "मत",
-      "खा",
-      "यार",
-      "बकवास",
-      "ब्रो"
+      "मैं",
+      "मैसेज",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "दिमाग मत खा"
+    "correctHindiSentence": "मैं मैसेज देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​, लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Don't annoy me'."
+      "You learned: ग्रुप, संदेश",
+      "Practiced constructing sentences."
     ]
   }
 ]

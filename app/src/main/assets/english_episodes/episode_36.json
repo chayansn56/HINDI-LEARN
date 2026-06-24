@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 36",
+    "description": "Master the vocabulary and grammar for: Episode 36. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 36",
+    "title_vi": "Tập 36",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a to drink (पीना).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Uống."
+      },
+      {
+        "hindi": "Later, you encounter a Wants (चाहता है).",
+        "translation": "Sau đó, bạn gặp một Muốn."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "to drink",
+        "isCorrect": true
+      },
+      {
+        "text": "Wants",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: to drink.",
+    "simpleRule": "Remember: to drink means पीना (Uống)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to drink",
+    "transliteration": "",
+    "english": "पीना",
+    "vietnamese": "Uống",
+    "audio": "to drink"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Wants",
+    "transliteration": "",
+    "english": "चाहता है",
+    "vietnamese": "Muốn",
+    "audio": "Wants"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bindi",
+    "transliteration": "",
+    "english": "बिंदी",
+    "vietnamese": "Nốt đỏ trán Bindi",
+    "audio": "Bindi"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'to drink'",
+    "prompt_en": "Choose correct translation for 'to drink'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
+    "text": "to drink",
+    "subtext": "",
+    "answer": "पीना",
+    "answer_vi": "Uống",
+    "options": [
+      "पीना",
+      "चाहता है",
+      "बिंदी",
+      "तारा​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Uống",
+      "Muốn",
+      "Nốt đỏ trán Bindi",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "to drink",
+        "english": "पीना (Uống)"
+      },
+      {
+        "hindi": "Wants",
+        "english": "चाहता है (Muốn)"
+      },
+      {
+        "hindi": "Bindi",
+        "english": "बिंदी (Nốt đỏ trán Bindi)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To sleep.",
+    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Difference",
+    "transliteration": "",
+    "english": "फ़र्क",
+    "vietnamese": "Sự khác biệt",
+    "audio": "Difference"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sleep'",
+    "prompt_en": "Choose correct translation for 'To sleep'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
+    "text": "To sleep",
+    "subtext": "",
+    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngủ",
+    "options": [
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "आग​​​​​​​​​​",
+      "फ़र्क",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Lửa",
+      "Sự khác biệt",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "Difference",
+        "english": "फ़र्क (Sự khác biệt)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To write.",
+    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​ (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Boys",
+    "transliteration": "",
+    "english": "लड़के",
+    "vietnamese": "Các cậu bé",
+    "audio": "Boys"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Spoon",
+    "transliteration": "",
+    "english": "चम्मच​​",
+    "vietnamese": "Thìa",
+    "audio": "Spoon"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To write'",
+    "prompt_en": "Choose correct translation for 'To write'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
+    "text": "To write",
+    "subtext": "",
+    "answer": "लिखना​​​​​​​​​​​​​",
+    "answer_vi": "Viết",
+    "options": [
+      "लिखना​​​​​​​​​​​​​",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लड़के",
+      "चम्मच​​"
+    ],
+    "options_vi": [
+      "Viết",
+      "Đứng",
+      "Các cậu bé",
+      "Thìa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "Boys",
+        "english": "लड़के (Các cậu bé)"
+      },
+      {
+        "hindi": "Spoon",
+        "english": "चम्मच​​ (Thìa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "to drink",
+    "translation_en": "पीना",
+    "translation_vi": "Uống",
+    "options_en": [
+      "पीना",
+      "चाहता है",
+      "बिंदी",
+      "तारा​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Uống",
+      "Muốn",
+      "Nốt đỏ trán Bindi",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पीना / Tôi thấy Uống",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "to drink"
+    ],
+    "correctHindiSentence": "I see the to drink"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a चाहता है / Tôi muốn Muốn",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Wants"
+    ],
+    "correctHindiSentence": "I want a Wants"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: to drink and Spoon",
+      "Practiced constructing sentences."
+    ]
+  }
+]

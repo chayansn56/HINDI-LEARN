@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Level 7",
+    "description": "Master the vocabulary and grammar for: Business - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn business concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दफ़्तर​​.",
+    "simpleRule": "Remember: दफ़्तर​​ means Office (Văn phòng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समझौता",
+    "transliteration": "samjhautā",
+    "english": "Agreement / Contract",
+    "vietnamese": "Thỏa thuận / Hợp đồng",
+    "audio": "समझौता"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दफ़्तर​​'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​'",
+    "text": "दफ़्तर​​",
+    "subtext": "daftar",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "Office",
+      "Office",
+      "Office",
+      "Agreement / Contract"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Văn phòng",
+      "Văn phòng",
+      "Thỏa thuận / Hợp đồng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दफ़्तर​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "समझौता",
+        "english": "Agreement / Contract (Thỏa thuận / Hợp đồng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: दाम.",
+    "simpleRule": "Remember: दाम means Price / Rate (Giá cả)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दाम",
+    "transliteration": "daam",
+    "english": "Price / Rate",
+    "vietnamese": "Giá cả",
+    "audio": "दाम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मूल्य",
+    "transliteration": "moolya",
+    "english": "Value / Price",
+    "vietnamese": "Giá trị",
+    "audio": "मूल्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बैठक",
+    "transliteration": "baiṭhak",
+    "english": "Meeting",
+    "vietnamese": "Cuộc họp",
+    "audio": "बैठक"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दाम'",
+    "prompt_en": "Choose correct translation for 'दाम'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दाम'",
+    "text": "दाम",
+    "subtext": "daam",
+    "answer": "Price / Rate",
+    "answer_vi": "Giá cả",
+    "options": [
+      "Price / Rate",
+      "Value / Price",
+      "Money",
+      "Meeting"
+    ],
+    "options_vi": [
+      "Giá cả",
+      "Giá trị",
+      "Tiền",
+      "Cuộc họp"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दाम",
+        "english": "Price / Rate (Giá cả)"
+      },
+      {
+        "hindi": "मूल्य",
+        "english": "Value / Price (Giá trị)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "बैठक",
+        "english": "Meeting (Cuộc họp)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दफ़्तर​​",
+    "translation_en": "Office",
+    "translation_vi": "Văn phòng",
+    "options_en": [
+      "Office",
+      "Office",
+      "Office",
+      "Agreement / Contract"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Văn phòng",
+      "Văn phòng",
+      "Thỏa thuận / Hợp đồng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Office / Đây là Văn phòng",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "दफ़्तर​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक दफ़्तर​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Office / Tôi thấy Văn phòng",
+    "hindiWords": [
+      "मैं",
+      "दफ़्तर​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं दफ़्तर​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: दफ़्तर​​, बैठक",
+      "Practiced constructing sentences."
+    ]
+  }
+]

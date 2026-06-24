@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 17",
+    "description": "Master the vocabulary and grammar for: Travel - Level 17. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Train station.",
+    "simpleRule": "Remember: Train station means रेलवे स्टेशन (Ga tàu hỏa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Train station",
+    "transliteration": "",
+    "english": "रेलवे स्टेशन",
+    "vietnamese": "Ga tàu hỏa",
+    "audio": "Train station"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Carefree / Cool",
+    "transliteration": "",
+    "english": "बिंदास",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "Carefree / Cool"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bus stop",
+    "transliteration": "",
+    "english": "बस स्टैंड",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "Bus stop"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Restroom / Toilet",
+    "transliteration": "",
+    "english": "शौचालय",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "Restroom / Toilet"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Train station'",
+    "prompt_en": "Choose correct translation for 'Train station'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Train station'",
+    "text": "Train station",
+    "subtext": "",
+    "answer": "रेलवे स्टेशन",
+    "answer_vi": "Ga tàu hỏa",
+    "options": [
+      "रेलवे स्टेशन",
+      "बिंदास",
+      "बस स्टैंड",
+      "शौचालय"
+    ],
+    "options_vi": [
+      "Ga tàu hỏa",
+      "Sống thoải mái / Vô tư",
+      "Trạm xe buýt",
+      "Nhà vệ sinh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Train station",
+        "english": "रेलवे स्टेशन (Ga tàu hỏa)"
+      },
+      {
+        "hindi": "Carefree / Cool",
+        "english": "बिंदास (Sống thoải mái / Vô tư)"
+      },
+      {
+        "hindi": "Bus stop",
+        "english": "बस स्टैंड (Trạm xe buýt)"
+      },
+      {
+        "hindi": "Restroom / Toilet",
+        "english": "शौचालय (Nhà vệ sinh)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Journey.",
+    "simpleRule": "Remember: Journey means सफ़र​​​​​​ (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Business / Trade",
+    "transliteration": "",
+    "english": "व्यापार",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "Business / Trade"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Journey'",
+    "prompt_en": "Choose correct translation for 'Journey'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
+    "text": "Journey",
+    "subtext": "",
+    "answer": "सफ़र​​​​​​",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "सफ़र​​​​​​",
+      "सफ़र​​​​​​​​​​​",
+      "व्यापार",
+      "सफ़र"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Chuyến đi",
+      "Kinh doanh / Thương mại",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Business / Trade",
+        "english": "व्यापार (Kinh doanh / Thương mại)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Ticket.",
+    "simpleRule": "Remember: Ticket means टिकट (Vé)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ticket",
+    "transliteration": "",
+    "english": "टिकट",
+    "vietnamese": "Vé",
+    "audio": "Ticket"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Car / Train / Cart",
+    "transliteration": "",
+    "english": "गाड़ी",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "Car / Train / Cart"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police station",
+    "transliteration": "",
+    "english": "थाना",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "Police station"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ticket counter",
+    "transliteration": "",
+    "english": "टिकट काउंटर",
+    "vietnamese": "Quầy bán vé",
+    "audio": "Ticket counter"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Ticket'",
+    "prompt_en": "Choose correct translation for 'Ticket'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Ticket'",
+    "text": "Ticket",
+    "subtext": "",
+    "answer": "टिकट",
+    "answer_vi": "Vé",
+    "options": [
+      "टिकट",
+      "गाड़ी",
+      "थाना",
+      "टिकट काउंटर"
+    ],
+    "options_vi": [
+      "Vé",
+      "Xe hơi / Xe lửa",
+      "Đồn cảnh sát",
+      "Quầy bán vé"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Ticket",
+        "english": "टिकट (Vé)"
+      },
+      {
+        "hindi": "Car / Train / Cart",
+        "english": "गाड़ी (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "Police station",
+        "english": "थाना (Đồn cảnh sát)"
+      },
+      {
+        "hindi": "Ticket counter",
+        "english": "टिकट काउंटर (Quầy bán vé)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Vacant room.",
+    "simpleRule": "Remember: Vacant room means खाली कमरा (Phòng trống)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vacant room",
+    "transliteration": "",
+    "english": "खाली कमरा",
+    "vietnamese": "Phòng trống",
+    "audio": "Vacant room"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the station?",
+    "transliteration": "",
+    "english": "स्टेशन कहाँ है?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "Where is the station?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Airport",
+    "transliteration": "",
+    "english": "हवाई अड्डा",
+    "vietnamese": "Sân bay",
+    "audio": "Airport"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Vacant room'",
+    "prompt_en": "Choose correct translation for 'Vacant room'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Vacant room'",
+    "text": "Vacant room",
+    "subtext": "",
+    "answer": "खाली कमरा",
+    "answer_vi": "Phòng trống",
+    "options": [
+      "खाली कमरा",
+      "सफ़र​​​​​​​​​",
+      "स्टेशन कहाँ है?",
+      "हवाई अड्डा"
+    ],
+    "options_vi": [
+      "Phòng trống",
+      "Chuyến đi",
+      "Nhà ga ở đâu?",
+      "Sân bay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Vacant room",
+        "english": "खाली कमरा (Phòng trống)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Where is the station?",
+        "english": "स्टेशन कहाँ है? (Nhà ga ở đâu?)"
+      },
+      {
+        "hindi": "Airport",
+        "english": "हवाई अड्डा (Sân bay)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Train station",
+    "translation_en": "रेलवे स्टेशन",
+    "translation_vi": "Ga tàu hỏa",
+    "options_en": [
+      "रेलवे स्टेशन",
+      "बिंदास",
+      "बस स्टैंड",
+      "शौचालय"
+    ],
+    "options_vi": [
+      "Ga tàu hỏa",
+      "Sống thoải mái / Vô tư",
+      "Trạm xe buýt",
+      "Nhà vệ sinh"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a रेलवे स्टेशन / Nó là một Ga tàu hỏa",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Train station"
+    ],
+    "correctHindiSentence": "It is a Train station"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बिंदास / Tôi thích Sống thoải mái / Vô tư",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Carefree / Cool"
+    ],
+    "correctHindiSentence": "I really like Carefree / Cool"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Train station and Airport",
+      "Practiced constructing sentences."
+    ]
+  }
+]

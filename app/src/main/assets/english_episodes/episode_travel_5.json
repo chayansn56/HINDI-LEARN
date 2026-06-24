@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 5",
+    "description": "Master the vocabulary and grammar for: Travel - Level 5. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Journey.",
+    "simpleRule": "Remember: Journey means सफ़र​​​ (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vacant room",
+    "transliteration": "",
+    "english": "खाली कमरा",
+    "vietnamese": "Phòng trống",
+    "audio": "Vacant room"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Profession / Business",
+    "transliteration": "",
+    "english": "व्यवसाय",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "Profession / Business"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Journey'",
+    "prompt_en": "Choose correct translation for 'Journey'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
+    "text": "Journey",
+    "subtext": "",
+    "answer": "सफ़र​​​",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "सफ़र​​​",
+      "खाली कमरा",
+      "व्यवसाय",
+      "सफ़र​​​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Phòng trống",
+      "Nghề nghiệp / Doanh nghiệp",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Vacant room",
+        "english": "खाली कमरा (Phòng trống)"
+      },
+      {
+        "hindi": "Profession / Business",
+        "english": "व्यवसाय (Nghề nghiệp / Doanh nghiệp)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Luggage / Stuff.",
+    "simpleRule": "Remember: Luggage / Stuff means सामान (Hành lý)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Luggage / Stuff",
+    "transliteration": "",
+    "english": "सामान",
+    "vietnamese": "Hành lý",
+    "audio": "Luggage / Stuff"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Groom's wedding procession",
+    "transliteration": "",
+    "english": "बारात",
+    "vietnamese": "Đoàn rước dâu nhà trai",
+    "audio": "Groom's wedding procession"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Luggage / Stuff'",
+    "prompt_en": "Choose correct translation for 'Luggage / Stuff'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Luggage / Stuff'",
+    "text": "Luggage / Stuff",
+    "subtext": "",
+    "answer": "सामान",
+    "answer_vi": "Hành lý",
+    "options": [
+      "सामान",
+      "सफ़र​​​​​​​​​​",
+      "बारात",
+      "सफ़र​​"
+    ],
+    "options_vi": [
+      "Hành lý",
+      "Chuyến đi",
+      "Đoàn rước dâu nhà trai",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Luggage / Stuff",
+        "english": "सामान (Hành lý)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Groom's wedding procession",
+        "english": "बारात (Đoàn rước dâu nhà trai)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Journey.",
+    "simpleRule": "Remember: Journey means सफ़र​​​​​​​​​ (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Car / Train / Cart",
+    "transliteration": "",
+    "english": "गाड़ी",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "Car / Train / Cart"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ticket",
+    "transliteration": "",
+    "english": "टिकट",
+    "vietnamese": "Vé",
+    "audio": "Ticket"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Be careful / Watch out.",
+    "transliteration": "",
+    "english": "सावधान रहें।",
+    "vietnamese": "Hãy cẩn thận.",
+    "audio": "Be careful / Watch out."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Journey'",
+    "prompt_en": "Choose correct translation for 'Journey'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
+    "text": "Journey",
+    "subtext": "",
+    "answer": "सफ़र​​​​​​​​​",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "सफ़र​​​​​​​​​",
+      "गाड़ी",
+      "टिकट",
+      "सावधान रहें।"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Xe hơi / Xe lửa",
+      "Vé",
+      "Hãy cẩn thận."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Car / Train / Cart",
+        "english": "गाड़ी (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "Ticket",
+        "english": "टिकट (Vé)"
+      },
+      {
+        "hindi": "Be careful / Watch out.",
+        "english": "सावधान रहें। (Hãy cẩn thận.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Carefree / Cool.",
+    "simpleRule": "Remember: Carefree / Cool means बिंदास (Sống thoải mái / Vô tư)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Carefree / Cool",
+    "transliteration": "",
+    "english": "बिंदास",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "Carefree / Cool"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the station?",
+    "transliteration": "",
+    "english": "स्टेशन कहाँ है?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "Where is the station?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Train station",
+    "transliteration": "",
+    "english": "रेलवे स्टेशन",
+    "vietnamese": "Ga tàu hỏa",
+    "audio": "Train station"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Carefree / Cool'",
+    "prompt_en": "Choose correct translation for 'Carefree / Cool'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Carefree / Cool'",
+    "text": "Carefree / Cool",
+    "subtext": "",
+    "answer": "बिंदास",
+    "answer_vi": "Sống thoải mái / Vô tư",
+    "options": [
+      "बिंदास",
+      "स्टेशन कहाँ है?",
+      "सफ़र​",
+      "रेलवे स्टेशन"
+    ],
+    "options_vi": [
+      "Sống thoải mái / Vô tư",
+      "Nhà ga ở đâu?",
+      "Chuyến đi",
+      "Ga tàu hỏa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Carefree / Cool",
+        "english": "बिंदास (Sống thoải mái / Vô tư)"
+      },
+      {
+        "hindi": "Where is the station?",
+        "english": "स्टेशन कहाँ है? (Nhà ga ở đâu?)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Train station",
+        "english": "रेलवे स्टेशन (Ga tàu hỏa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Journey",
+    "translation_en": "सफ़र​​​",
+    "translation_vi": "Chuyến đi",
+    "options_en": [
+      "सफ़र​​​",
+      "खाली कमरा",
+      "व्यवसाय",
+      "सफ़र​​​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Phòng trống",
+      "Nghề nghiệp / Doanh nghiệp",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सफ़र​​​ / Nó là một Chuyến đi",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Journey"
+    ],
+    "correctHindiSentence": "It is a Journey"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like खाली कमरा / Tôi thích Phòng trống",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Vacant room"
+    ],
+    "correctHindiSentence": "I really like Vacant room"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Journey and Train station",
+      "Practiced constructing sentences."
+    ]
+  }
+]

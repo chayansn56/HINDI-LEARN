@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 60",
+    "description": "Master the vocabulary and grammar for: Episode 60. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 60",
+    "title_vi": "Tập 60",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To them / him / her (formal) (उन्हें).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Cho họ / Cho ngài ấy."
+      },
+      {
+        "hindi": "Later, you encounter a Cloud (बादल​​​).",
+        "translation": "Sau đó, bạn gặp một Đám mây."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To them / him / her (formal)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cloud",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To them / him / her (formal).",
+    "simpleRule": "Remember: To them / him / her (formal) means उन्हें (Cho họ / Cho ngài ấy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To them / him / her (formal)",
+    "transliteration": "",
+    "english": "उन्हें",
+    "vietnamese": "Cho họ / Cho ngài ấy",
+    "audio": "To them / him / her (formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To them / him / her (formal)'",
+    "prompt_en": "Choose correct translation for 'To them / him / her (formal)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To them / him / her (formal)'",
+    "text": "To them / him / her (formal)",
+    "subtext": "",
+    "answer": "उन्हें",
+    "answer_vi": "Cho họ / Cho ngài ấy",
+    "options": [
+      "उन्हें",
+      "बादल​​​",
+      "चलना​​​​​​​​​​",
+      "कापी​"
+    ],
+    "options_vi": [
+      "Cho họ / Cho ngài ấy",
+      "Đám mây",
+      "Đi bộ / Di chuyển",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To them / him / her (formal)",
+        "english": "उन्हें (Cho họ / Cho ngài ấy)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​ (Đám mây)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: GB (Gigabyte).",
+    "simpleRule": "Remember: GB (Gigabyte) means जीबी (GB (Gigabyte))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "GB (Gigabyte)",
+    "transliteration": "",
+    "english": "जीबी",
+    "vietnamese": "GB (Gigabyte)",
+    "audio": "GB (Gigabyte)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Manager",
+    "transliteration": "",
+    "english": "प्रबंधक",
+    "vietnamese": "Quản lý",
+    "audio": "Manager"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'GB (Gigabyte)'",
+    "prompt_en": "Choose correct translation for 'GB (Gigabyte)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'GB (Gigabyte)'",
+    "text": "GB (Gigabyte)",
+    "subtext": "",
+    "answer": "जीबी",
+    "answer_vi": "GB (Gigabyte)",
+    "options": [
+      "जीबी",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​",
+      "प्रबंधक"
+    ],
+    "options_vi": [
+      "GB (Gigabyte)",
+      "Viết",
+      "Nói",
+      "Quản lý"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "GB (Gigabyte)",
+        "english": "जीबी (GB (Gigabyte))"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Manager",
+        "english": "प्रबंधक (Quản lý)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Star.",
+    "simpleRule": "Remember: Star means सितारा (Ngôi sao điện ảnh)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "सितारा",
+    "vietnamese": "Ngôi sao điện ảnh",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "River",
+    "transliteration": "",
+    "english": "नदी​​​​​​",
+    "vietnamese": "Con sông",
+    "audio": "River"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What's up?",
+    "transliteration": "",
+    "english": "क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Star'",
+    "prompt_en": "Choose correct translation for 'Star'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
+    "text": "Star",
+    "subtext": "",
+    "answer": "सितारा",
+    "answer_vi": "Ngôi sao điện ảnh",
+    "options": [
+      "सितारा",
+      "नदी​​​​​​",
+      "क्या चल रहा है?",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngôi sao điện ảnh",
+      "Con sông",
+      "Có chuyện gì thế?",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Star",
+        "english": "सितारा (Ngôi sao điện ảnh)"
+      },
+      {
+        "hindi": "River",
+        "english": "नदी​​​​​​ (Con sông)"
+      },
+      {
+        "hindi": "What's up?",
+        "english": "क्या चल रहा है? (Có chuyện gì thế?)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To them / him / her (formal)",
+    "translation_en": "उन्हें",
+    "translation_vi": "Cho họ / Cho ngài ấy",
+    "options_en": [
+      "उन्हें",
+      "बादल​​​",
+      "चलना​​​​​​​​​​",
+      "कापी​"
+    ],
+    "options_vi": [
+      "Cho họ / Cho ngài ấy",
+      "Đám mây",
+      "Đi bộ / Di chuyển",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the उन्हें / Tôi thấy Cho họ / Cho ngài ấy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To them / him / her (formal)"
+    ],
+    "correctHindiSentence": "I see the To them / him / her (formal)"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बादल​​​ / Tôi muốn Đám mây",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Cloud"
+    ],
+    "correctHindiSentence": "I want a Cloud"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To them / him / her (formal) and To work",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 14",
+    "description": "Master the vocabulary and grammar for: Travel - Level 14. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सावधान रहें।.",
+    "simpleRule": "Remember: सावधान रहें। means Be careful / Watch out. (Hãy cẩn thận.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सावधान रहें।",
+    "transliteration": "saavdhaan rahein",
+    "english": "Be careful / Watch out.",
+    "vietnamese": "Hãy cẩn thận.",
+    "audio": "सावधान रहें।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सावधान रहें।'",
+    "prompt_en": "Choose correct translation for 'सावधान रहें।'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सावधान रहें।'",
+    "text": "सावधान रहें।",
+    "subtext": "saavdhaan rahein",
+    "answer": "Be careful / Watch out.",
+    "answer_vi": "Hãy cẩn thận.",
+    "options": [
+      "Be careful / Watch out.",
+      "Journey",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Hãy cẩn thận.",
+      "Chuyến đi",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सावधान रहें।",
+        "english": "Be careful / Watch out. (Hãy cẩn thận.)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सफ़र​​​​​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बाथरूम.",
+    "simpleRule": "Remember: बाथरूम means Bathroom (Nhà tắm / Toilet)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट",
+    "transliteration": "ṭikaṭ",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बिंदास",
+    "transliteration": "bindaas",
+    "english": "Carefree / Cool",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "बिंदास"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बाथरूम'",
+    "prompt_en": "Choose correct translation for 'बाथरूम'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बाथरूम'",
+    "text": "बाथरूम",
+    "subtext": "bathroom",
+    "answer": "Bathroom",
+    "answer_vi": "Nhà tắm / Toilet",
+    "options": [
+      "Bathroom",
+      "Ticket",
+      "Journey",
+      "Carefree / Cool"
+    ],
+    "options_vi": [
+      "Nhà tắm / Toilet",
+      "Vé",
+      "Chuyến đi",
+      "Sống thoải mái / Vô tư"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "बिंदास",
+        "english": "Carefree / Cool (Sống thoải mái / Vô tư)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सावधान रहें।",
+    "translation_en": "Be careful / Watch out.",
+    "translation_vi": "Hãy cẩn thận.",
+    "options_en": [
+      "Be careful / Watch out.",
+      "Journey",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Hãy cẩn thận.",
+      "Chuyến đi",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Be careful / Watch out. / Đây là Hãy cẩn thận.",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "सावधान रहें।",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक सावधान रहें। है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Journey / Tôi thấy Chuyến đi",
+    "hindiWords": [
+      "मैं",
+      "सफ़र​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं सफ़र​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: सावधान रहें।, बिंदास",
+      "Practiced constructing sentences."
+    ]
+  }
+]

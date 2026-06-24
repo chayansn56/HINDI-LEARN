@@ -33,14 +33,19 @@ fun AcademyDashboard(
     onRevisionSelected: () -> Unit,
     onDailyChallengeSelected: () -> Unit,
     onAchievementsSelected: () -> Unit,
+    onLeaderboardSelected: () -> Unit,
+    onRoleplaySelected: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val context = LocalContext.current
     val progress = UserManager.progress
     val allEpisodesWithLock = GamifiedCurriculum.getEpisodesWithLockState(progress.unlockedNodeId)
     val lang = progress.selectedLanguage ?: "EN"
-    val userName = if (lang == "EN") "John \uD83C\uDDFA\uD83C\uDDF8" else "Lan \uD83C\uDDFB\uD83C\uDDF3"
-    val greeting = if (lang == "EN") "Good Afternoon, $userName" else "Xin chào, $userName"
+    val isVi = lang == "VI"
+    val isHindiCourse = progress.selectedCourse == "HINDI"
+    
+    val userName = if (isVi) "Lan 🇻🇳" else "John 🇺🇸"
+    val greeting = if (isVi) "Xin chào, $userName" else "Good Afternoon, $userName"
     
     val showToast = { msg: String ->
         Toast.makeText(context, msg, Toast.LENGTH_SHORT).show()
@@ -53,33 +58,120 @@ fun AcademyDashboard(
         ) {
             // Dashboard Header
             item {
-                Row(
-                    modifier = Modifier.fillMaxWidth().padding(horizontal = 24.dp, vertical = 24.dp),
-                    horizontalArrangement = Arrangement.SpaceBetween,
-                    verticalAlignment = Alignment.CenterVertically
+                Column(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(horizontal = 24.dp, vertical = 16.dp)
                 ) {
-                    Column {
-                        val courseLabel = if (UserManager.progress.selectedCourse == "ENGLISH") "LEARN ENGLISH" else "LEARN HINDI"
-                        Text(courseLabel, style = MaterialTheme.typography.headlineSmall, color = DeepSaffron, fontWeight = FontWeight.Black)
-                        Text("app by", style = MaterialTheme.typography.labelSmall, color = TextDark.copy(alpha=0.5f))
-                        Text("VIETANA GROUP", style = MaterialTheme.typography.titleLarge, color = TextDark, fontWeight = FontWeight.Black)
-                        Spacer(modifier = Modifier.height(4.dp))
-                        Text(greeting, style = MaterialTheme.typography.bodyMedium, color = TextDark.copy(alpha=0.7f))
-                    }
-                    Row(verticalAlignment = Alignment.CenterVertically) {
-                        Icon(Icons.Default.LocalFireDepartment, contentDescription = "Streak", tint = DeepSaffron, modifier = Modifier.size(20.dp))
-                        Text("${progress.streak}", style = MaterialTheme.typography.titleMedium, color = TextDark, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 4.dp, end = 16.dp))
-                        Icon(Icons.Default.Star, contentDescription = "XP", tint = PremiumGold, modifier = Modifier.size(20.dp))
-                        Text("${progress.xp}", style = MaterialTheme.typography.titleMedium, color = TextDark, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 4.dp, end = 16.dp))
-                        IconButton(onClick = onAlphabetSelected) {
+                    // Row 1: Brand & Top Level Stats
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.SpaceBetween,
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        Column {
+                            val courseLabel = if (progress.selectedCourse == "ENGLISH") {
+                                if (isVi) "HỌC TIẾNG ANH" else "LEARN ENGLISH"
+                            } else {
+                                if (isVi) "HỌC TIẾNG HINDI" else "LEARN HINDI"
+                            }
                             Text(
-                                text = "अ",
-                                style = MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold),
-                                color = DeepSaffron
+                                text = courseLabel,
+                                style = MaterialTheme.typography.titleMedium,
+                                color = DeepSaffron,
+                                fontWeight = FontWeight.Black
+                            )
+                            Text(
+                                text = if (isVi) "ứng dụng bởi VIETANA" else "app by VIETANA",
+                                style = MaterialTheme.typography.labelSmall,
+                                color = TextDark.copy(alpha = 0.5f)
                             )
                         }
-                        IconButton(onClick = onSettingsSelected) {
-                            Icon(Icons.Default.Settings, contentDescription = "Settings", tint = TextDark)
+
+                        Row(
+                            verticalAlignment = Alignment.CenterVertically,
+                            horizontalArrangement = Arrangement.spacedBy(8.dp)
+                        ) {
+                            // Quick language switch toggle on top bar if active course is Hindi
+                            if (isHindiCourse) {
+                                TextButton(
+                                    onClick = {
+                                        val nextLang = if (isVi) "EN" else "VI"
+                                        UserManager.updateLanguage(nextLang)
+                                    },
+                                    contentPadding = PaddingValues(horizontal = 4.dp)
+                                ) {
+                                    Text(
+                                        text = if (isVi) "🇻🇳 VI" else "🇺🇸 EN",
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        fontWeight = FontWeight.Bold,
+                                        color = DeepSaffron
+                                    )
+                                }
+                            }
+
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                Icon(Icons.Default.LocalFireDepartment, contentDescription = "Streak", tint = DeepSaffron, modifier = Modifier.size(18.dp))
+                                Text("${progress.streak}", style = MaterialTheme.typography.bodyMedium, color = TextDark, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
+                            }
+
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                Icon(Icons.Default.Star, contentDescription = "XP", tint = PremiumGold, modifier = Modifier.size(18.dp))
+                                Text("${progress.xp}", style = MaterialTheme.typography.bodyMedium, color = TextDark, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
+                            }
+
+                            IconButton(
+                                onClick = onSettingsSelected,
+                                modifier = Modifier.size(36.dp)
+                            ) {
+                                Icon(Icons.Default.Settings, contentDescription = "Settings", tint = TextDark, modifier = Modifier.size(20.dp))
+                            }
+                        }
+                    }
+
+                    Spacer(modifier = Modifier.height(16.dp))
+
+                    // Row 2: Greeting & Quick Alphabet Hub Shortcut
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.SpaceBetween,
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        Column {
+                            val greetingPrefix = if (isVi) "Xin chào," else "Good Afternoon,"
+                            Text(
+                                text = greetingPrefix,
+                                style = MaterialTheme.typography.bodyMedium,
+                                color = TextDark.copy(alpha = 0.6f)
+                            )
+                            Text(
+                                text = userName,
+                                style = MaterialTheme.typography.headlineMedium,
+                                color = TextDark,
+                                fontWeight = FontWeight.Black
+                            )
+                        }
+
+                        // Prominent Alphabet Hub Round Button
+                        Button(
+                            onClick = onAlphabetSelected,
+                            colors = ButtonDefaults.buttonColors(containerColor = DeepSaffron.copy(alpha = 0.15f)),
+                            shape = RoundedCornerShape(16.dp),
+                            contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp)
+                        ) {
+                            Text(
+                                text = "अ",
+                                style = MaterialTheme.typography.titleMedium,
+                                fontWeight = FontWeight.Bold,
+                                color = DeepSaffron
+                            )
+                            Spacer(modifier = Modifier.width(6.dp))
+                            Text(
+                                text = if (isVi) "Bảng chữ" else "Letters",
+                                style = MaterialTheme.typography.bodyMedium,
+                                fontWeight = FontWeight.Bold,
+                                color = DeepSaffron
+                            )
                         }
                     }
                 }
@@ -87,7 +179,6 @@ fun AcademyDashboard(
 
             // Continue Journey Banner
             item {
-                // Find first unlocked episode (including phase 0)
                 val journeyEpisodes = allEpisodesWithLock.filter { it.id.startsWith("episode_") }
                 val nextEpisode = journeyEpisodes.firstOrNull { !it.isLocked } ?: journeyEpisodes.lastOrNull()
                 
@@ -97,13 +188,20 @@ fun AcademyDashboard(
                         shape = RoundedCornerShape(32.dp)
                     ) {
                         Column(modifier = Modifier.padding(24.dp)) {
-                            val moduleLabel = if (nextEpisode.id.startsWith("episode_0_")) "PHASE 0" else "SEASON 1"
-                            Text("UP NEXT \u2022 $moduleLabel", style = MaterialTheme.typography.labelSmall, color = RoyalBlue, fontWeight = FontWeight.Bold)
+                            val moduleLabel = if (nextEpisode.id.startsWith("episode_0_")) {
+                                if (isVi) "GIAI ĐOẠN 0" else "PHASE 0"
+                            } else {
+                                if (isVi) "PHẦN 1" else "SEASON 1"
+                            }
+                            Text((if (isVi) "BÀI TIẾP THEO • " else "UP NEXT • ") + moduleLabel, style = MaterialTheme.typography.labelSmall, color = RoyalBlue, fontWeight = FontWeight.Bold)
                             Spacer(modifier = Modifier.height(8.dp))
                             Text(nextEpisode.title, style = MaterialTheme.typography.headlineSmall, color = TextDark, fontWeight = FontWeight.Bold)
                             Text(nextEpisode.synopsis, style = MaterialTheme.typography.bodyMedium, color = TextDark.copy(alpha=0.7f))
                             Spacer(modifier = Modifier.height(16.dp))
-                            PremiumButton(text = "Continue \u2192", onClick = { onNodeSelected(nextEpisode) })
+                            PremiumButton(
+                                text = if (isVi) "Tiếp tục \u2192" else "Continue \u2192",
+                                onClick = { onNodeSelected(nextEpisode) }
+                            )
                         }
                     }
                     Spacer(modifier = Modifier.height(32.dp))
@@ -112,65 +210,196 @@ fun AcademyDashboard(
             
             // Choose What To Learn Title
             item {
-                Text("Choose What To Learn", style = MaterialTheme.typography.titleLarge, color = TextDark, fontWeight = FontWeight.Bold, modifier = Modifier.padding(horizontal = 24.dp))
+                Text(
+                    text = if (isVi) "Chọn nội dung học" else "Choose What To Learn",
+                    style = MaterialTheme.typography.titleLarge,
+                    color = TextDark,
+                    fontWeight = FontWeight.Bold,
+                    modifier = Modifier.padding(horizontal = 24.dp)
+                )
                 Spacer(modifier = Modifier.height(16.dp))
             }
 
             // Foundations
             item {
-                CategorySectionTitle("Phase 0")
+                CategorySectionTitle(if (isVi) "Giai đoạn 0" else "Phase 0")
                 Row(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Foundations", "Learn Hindi from zero.", "\uD83C\uDF31", onClick = { onModuleSelected("phase_0") }, tintColor = Color(0xFFE2F4E3))
-                    CategoryCard("Pronunciation Lab", "Sounds, Accents.", "\uD83E\uDDE0", onClick = { onModuleSelected("pron") }, tintColor = Color(0xFFE2F4E3))
+                    CategoryCard(
+                        title = if (isVi) "Nền tảng" else "Foundations",
+                        subtitle = if (isVi) "Học tiếng Hindi từ con số 0." else "Learn Hindi from zero.",
+                        emoji = "🌱",
+                        onClick = { onModuleSelected("phase_0") },
+                        tintColor = Color(0xFFE2F4E3)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Luyện phát âm" else "Pronunciation Lab",
+                        subtitle = if (isVi) "Âm thanh, Giọng điệu." else "Sounds, Accents.",
+                        emoji = "🧠",
+                        onClick = { onModuleSelected("pron") },
+                        tintColor = Color(0xFFE2F4E3)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Phòng số học" else "Numbers Lab",
+                        subtitle = if (isVi) "Học số lên tới 1000." else "Learn numbers up to 1000.",
+                        emoji = "🔢",
+                        onClick = { onModuleSelected("numbers_lab") },
+                        tintColor = Color(0xFFE2F4E3)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Góc bảng chữ cái" else "Alphabet Hub",
+                        subtitle = if (isVi) "Hindi & Âm tương đồng." else "Hindi Alphabets vs VI Sounds.",
+                        emoji = "🔤",
+                        onClick = { onModuleSelected("alphabets_lab") },
+                        tintColor = Color(0xFFE2F4E3)
+                    )
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
 
             // Core Skills
             item {
-                CategorySectionTitle("Core Skills")
+                CategorySectionTitle(if (isVi) "Kỹ năng chính" else "Core Skills")
                 Row(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Speaking", "Greetings, Introductions.", "\uD83D\uDDE3\uFE0F", onClick = { onModuleSelected("speak") }, tintColor = Color(0xFFE2EDF8))
-                    CategoryCard("Grammar", "Tenses, Questions.", "\uD83D\uDCDA", onClick = { onModuleSelected("gram") }, tintColor = Color(0xFFE2EDF8))
-                    CategoryCard("Listening", "Stories, Native speed.", "\uD83D\uDC42", onClick = { onModuleSelected("listen") }, tintColor = Color(0xFFE2EDF8))
-                    CategoryCard("Writing", "Tracing, Typing.", "\u270D\uFE0F", onClick = { onModuleSelected("write") }, tintColor = Color(0xFFE2EDF8))
+                    CategoryCard(
+                        title = if (isVi) "Giao tiếp & Vai trò" else "AI Roleplay",
+                        subtitle = if (isVi) "Thực hành hội thoại." else "Practice real conversations.",
+                        emoji = "🤖",
+                        onClick = onRoleplaySelected,
+                        tintColor = Color(0xFFE2EDF8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Giao tiếp" else "Speaking",
+                        subtitle = if (isVi) "Chào hỏi, Giới thiệu." else "Greetings, Introductions.",
+                        emoji = "🗣️",
+                        onClick = { onModuleSelected("speak") },
+                        tintColor = Color(0xFFE2EDF8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Ngữ pháp" else "Grammar",
+                        subtitle = if (isVi) "Thì, Câu hỏi." else "Tenses, Questions.",
+                        emoji = "📚",
+                        onClick = { onModuleSelected("gram") },
+                        tintColor = Color(0xFFE2EDF8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Luyện nghe" else "Listening",
+                        subtitle = if (isVi) "Câu chuyện, Tốc độ bản xứ." else "Stories, Native speed.",
+                        emoji = "👂",
+                        onClick = { onModuleSelected("listen") },
+                        tintColor = Color(0xFFE2EDF8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Luyện viết" else "Writing",
+                        subtitle = if (isVi) "Tập viết, Gõ phím." else "Tracing, Typing.",
+                        emoji = "✍️",
+                        onClick = { onModuleSelected("write") },
+                        tintColor = Color(0xFFE2EDF8)
+                    )
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
 
             // The World
             item {
-                CategorySectionTitle("The World")
+                CategorySectionTitle(if (isVi) "Thế giới" else "The World")
                 Row(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Culture", "Festivals, Food.", "\uD83C\uDDEE\uD83C\uDDF3", onClick = { onModuleSelected("culture") }, tintColor = Color(0xFFF9F0DF))
-                    CategoryCard("Travel Hindi", "Airport, Taxi.", "\u2708\uFE0F", onClick = { onModuleSelected("travel") }, tintColor = Color(0xFFF9F0DF))
-                    CategoryCard("Business Hindi", "Meetings, Emails.", "\uD83D\uDCBC", onClick = { onModuleSelected("business") }, tintColor = Color(0xFFF9F0DF))
-                    CategoryCard("Bollywood Hindi", "Songs, Expressions.", "\uD83C\uDFB5", onClick = { onModuleSelected("bollywood") }, tintColor = Color(0xFFF9F0DF))
-                    CategoryCard("WhatsApp Hindi", "Modern conversations.", "\uD83D\uDCAC", onClick = { onModuleSelected("whatsapp") }, tintColor = Color(0xFFF9F0DF))
+                    CategoryCard(
+                        title = if (isVi) "Văn hóa" else "Culture",
+                        subtitle = if (isVi) "Lễ hội, Ẩm thực." else "Festivals, Food.",
+                        emoji = "🇮🇳",
+                        onClick = { onModuleSelected("culture") },
+                        tintColor = Color(0xFFF9F0DF)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Hindi du lịch" else "Travel Hindi",
+                        subtitle = if (isVi) "Sân bay, Taxi." else "Airport, Taxi.",
+                        emoji = "✈️",
+                        onClick = { onModuleSelected("travel") },
+                        tintColor = Color(0xFFF9F0DF)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Hindi thương mại" else "Business Hindi",
+                        subtitle = if (isVi) "Cuộc họp, Email." else "Meetings, Emails.",
+                        emoji = "💼",
+                        onClick = { onModuleSelected("business") },
+                        tintColor = Color(0xFFF9F0DF)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Hindi Bollywood" else "Bollywood Hindi",
+                        subtitle = if (isVi) "Bài hát, Biểu cảm." else "Songs, Expressions.",
+                        emoji = "🎵",
+                        onClick = { onModuleSelected("bollywood") },
+                        tintColor = Color(0xFFF9F0DF)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Hindi WhatsApp" else "WhatsApp Hindi",
+                        subtitle = if (isVi) "Trò chuyện hiện đại." else "Modern conversations.",
+                        emoji = "💬",
+                        onClick = { onModuleSelected("whatsapp") },
+                        tintColor = Color(0xFFF9F0DF)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Hindi khẩn cấp" else "Emergency Hindi",
+                        subtitle = if (isVi) "Y tế & Khẩn cấp." else "Medical & Urgent help.",
+                        emoji = "🚨",
+                        onClick = { onModuleSelected("emerg") },
+                        tintColor = Color(0xFFF9F0DF)
+                    )
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
             
             // Utilities
             item {
-                CategorySectionTitle("Your Academy")
+                CategorySectionTitle(if (isVi) "Học viện của bạn" else "Your Academy")
                 Row(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    CategoryCard("Stories", "ELDER SISTER Di, mom, the greatman JIJU.", "\uD83C\uDFAD", onClick = onStoriesSelected, tintColor = Color(0xFFEDE4F8))
-                    CategoryCard("Revision Center", "Mistakes, Weak words.", "\u2B50", onClick = onRevisionSelected, tintColor = Color(0xFFEDE4F8))
-                    CategoryCard("Daily Challenge", "Test your skills.", "\uD83D\uDD25", onClick = onDailyChallengeSelected, tintColor = Color(0xFFEDE4F8))
-                    CategoryCard("Achievements", "Badges & Rewards.", "🏆", onClick = onAchievementsSelected, tintColor = Color(0xFFEDE4F8))
+                    CategoryCard(
+                        title = if (isVi) "Truyện" else "Stories",
+                        subtitle = if (isVi) "Các câu chuyện ngắn." else "ELDER SISTER Di, mom, the greatman JIJU.",
+                        emoji = "🎭",
+                        onClick = onStoriesSelected,
+                        tintColor = Color(0xFFEDE4F8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Trung tâm ôn tập" else "Revision Center",
+                        subtitle = if (isVi) "Từ vựng còn yếu." else "Mistakes, Weak words.",
+                        emoji = "⭐",
+                        onClick = onRevisionSelected,
+                        tintColor = Color(0xFFEDE4F8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Thử thách" else "Daily Challenge",
+                        subtitle = if (isVi) "Kiểm tra kỹ năng." else "Test your skills.",
+                        emoji = "🔥",
+                        onClick = onDailyChallengeSelected,
+                        tintColor = Color(0xFFEDE4F8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Thành tựu" else "Achievements",
+                        subtitle = if (isVi) "Huy hiệu & Phần thưởng." else "Badges & Rewards.",
+                        emoji = "🏆",
+                        onClick = onAchievementsSelected,
+                        tintColor = Color(0xFFEDE4F8)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Bảng Xếp Hạng" else "Leaderboard",
+                        subtitle = if (isVi) "Cạnh tranh toàn cầu." else "Compete globally.",
+                        emoji = "🌍",
+                        onClick = onLeaderboardSelected,
+                        tintColor = Color(0xFFEDE4F8)
+                    )
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
@@ -182,3 +411,4 @@ fun AcademyDashboard(
 fun CategorySectionTitle(title: String) {
     Text(title, style = MaterialTheme.typography.titleMedium, color = DeepSaffron, fontWeight = FontWeight.Bold, modifier = Modifier.padding(horizontal = 24.dp, vertical = 8.dp))
 }
+

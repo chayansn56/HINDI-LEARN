@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 2",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 2. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: हॉस्पिटल.",
+    "simpleRule": "Remember: हॉस्पिटल means Hospital (Bệnh viện)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हॉस्पिटल",
+    "transliteration": "hospital",
+    "english": "Hospital",
+    "vietnamese": "Bệnh viện",
+    "audio": "हॉस्पिटल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे मदद चाहिए।",
+    "transliteration": "mujhe madad chaahie",
+    "english": "I need help.",
+    "vietnamese": "Tôi cần giúp đỡ.",
+    "audio": "मुझे मदद चाहिए।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'हॉस्पिटल'",
+    "prompt_en": "Choose correct translation for 'हॉस्पिटल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'हॉस्पिटल'",
+    "text": "हॉस्पिटल",
+    "subtext": "hospital",
+    "answer": "Hospital",
+    "answer_vi": "Bệnh viện",
+    "options": [
+      "Hospital",
+      "I need help.",
+      "Fire",
+      "Fire"
+    ],
+    "options_vi": [
+      "Bệnh viện",
+      "Tôi cần giúp đỡ.",
+      "Lửa",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "हॉस्पिटल",
+        "english": "Hospital (Bệnh viện)"
+      },
+      {
+        "hindi": "मुझे मदद चाहिए।",
+        "english": "I need help. (Tôi cần giúp đỡ.)"
+      },
+      {
+        "hindi": "आग​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "आग​​​",
+        "english": "Fire (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: अस्पताल.",
+    "simpleRule": "Remember: अस्पताल means Hospital (Bệnh viện)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अस्पताल",
+    "transliteration": "aspataal",
+    "english": "Hospital",
+    "vietnamese": "Bệnh viện",
+    "audio": "अस्पताल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "डॉक्टर",
+    "transliteration": "ḍôkṭar",
+    "english": "Doctor",
+    "vietnamese": "Bác sĩ",
+    "audio": "डॉक्टर"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'अस्पताल'",
+    "prompt_en": "Choose correct translation for 'अस्पताल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'अस्पताल'",
+    "text": "अस्पताल",
+    "subtext": "aspataal",
+    "answer": "Hospital",
+    "answer_vi": "Bệnh viện",
+    "options": [
+      "Hospital",
+      "Help",
+      "Fire",
+      "Doctor"
+    ],
+    "options_vi": [
+      "Bệnh viện",
+      "Sự giúp đỡ",
+      "Lửa",
+      "Bác sĩ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "अस्पताल",
+        "english": "Hospital (Bệnh viện)"
+      },
+      {
+        "hindi": "मदद​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "आग​​​​​​​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "डॉक्टर",
+        "english": "Doctor (Bác sĩ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "हॉस्पिटल",
+    "translation_en": "Hospital",
+    "translation_vi": "Bệnh viện",
+    "options_en": [
+      "Hospital",
+      "I need help.",
+      "Fire",
+      "Fire"
+    ],
+    "options_vi": [
+      "Bệnh viện",
+      "Tôi cần giúp đỡ.",
+      "Lửa",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Hospital / Đây là Bệnh viện",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "हॉस्पिटल",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक हॉस्पिटल है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see I need help. / Tôi thấy Tôi cần giúp đỡ.",
+    "hindiWords": [
+      "मैं",
+      "मुझे मदद चाहिए।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मुझे मदद चाहिए। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: हॉस्पिटल, डॉक्टर",
+      "Practiced constructing sentences."
+    ]
+  }
+]

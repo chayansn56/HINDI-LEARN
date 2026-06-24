@@ -1,19 +1,99 @@
 [
   {
     "type": "Introduction",
-    "title": "Foundation Academy - Level 23",
-    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 23. Listen carefully and read along in English and Vietnamese.",
+    "title": "Essential Words: Family & People",
+    "description": "Master the vocabulary and grammar for: Essential Words: Family & People. Read the key points carefully.",
     "keyPoints": [
-      "दादी (dādī) = Paternal Grandmother / Bà nội",
-      "समझना (samajhna) = to understand / Hiểu",
-      "रोना​​​​​​​​ (ronā) = To cry / Khóc"
+      "Focus: Essential Words: Family & People"
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Alphabet & Building Blocks - Part 23",
-    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: दादी means 'Paternal Grandmother' (Bà nội)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बहन.",
+    "simpleRule": "Remember: बहन means Sister (Chị / Em gái)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बहन",
+    "transliteration": "bahan",
+    "english": "Sister",
+    "vietnamese": "Chị / Em gái",
+    "audio": "बहन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "माँ",
+    "transliteration": "mā̃",
+    "english": "Mother",
+    "vietnamese": "Mẹ",
+    "audio": "माँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नानी",
+    "transliteration": "nānī",
+    "english": "Maternal Grandmother",
+    "vietnamese": "Bà ngoại",
+    "audio": "नानी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भाई",
+    "transliteration": "bhāī",
+    "english": "Brother",
+    "vietnamese": "Anh / Em trai",
+    "audio": "भाई"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बहन'",
+    "prompt_en": "Choose correct translation for 'बहन'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बहन'",
+    "text": "बहन",
+    "subtext": "bahan",
+    "answer": "Sister",
+    "answer_vi": "Chị / Em gái",
+    "options": [
+      "Sister",
+      "Mother",
+      "Maternal Grandmother",
+      "Brother"
+    ],
+    "options_vi": [
+      "Chị / Em gái",
+      "Mẹ",
+      "Bà ngoại",
+      "Anh / Em trai"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बहन",
+        "english": "Sister (Chị / Em gái)"
+      },
+      {
+        "hindi": "माँ",
+        "english": "Mother (Mẹ)"
+      },
+      {
+        "hindi": "नानी",
+        "english": "Maternal Grandmother (Bà ngoại)"
+      },
+      {
+        "hindi": "भाई",
+        "english": "Brother (Anh / Em trai)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: दादी.",
+    "simpleRule": "Remember: दादी means Paternal Grandmother (Bà nội)."
   },
   {
     "type": "Flashcard",
@@ -25,160 +105,118 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "समझना",
-    "transliteration": "samajhna",
-    "english": "to understand",
-    "vietnamese": "Hiểu",
-    "audio": "समझना"
+    "hindi": "भैया",
+    "transliteration": "bhaiyā",
+    "english": "Brother / Bro",
+    "vietnamese": "Người anh em / Anh trai",
+    "audio": "भैया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नाना",
+    "transliteration": "nānā",
+    "english": "Maternal Grandfather",
+    "vietnamese": "Ông ngoại",
+    "audio": "नाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पिता",
+    "transliteration": "pitā",
+    "english": "Father",
+    "vietnamese": "Cha",
+    "audio": "पिता"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Translate 'दादी'",
-    "prompt_en": "Choose the correct translation for 'दादी'",
+    "prompt_en": "Choose correct translation for 'दादी'",
     "prompt_vi": "Chọn bản dịch đúng cho 'दादी'",
     "text": "दादी",
     "subtext": "dādī",
     "answer": "Paternal Grandmother",
     "answer_vi": "Bà nội",
     "options": [
-      "to understand",
       "Paternal Grandmother",
-      "To cry",
-      "To write"
+      "Brother / Bro",
+      "Maternal Grandfather",
+      "Father"
     ],
     "options_vi": [
-      "Hiểu",
       "Bà nội",
-      "Khóc",
-      "Viết"
+      "Người anh em / Anh trai",
+      "Ông ngoại",
+      "Cha"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लिखना​​​​",
-    "transliteration": "likhnā",
-    "english": "To write",
-    "vietnamese": "Viết",
-    "audio": "लिखना​​​​"
-  },
-  {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
         "hindi": "दादी",
         "english": "Paternal Grandmother (Bà nội)"
       },
       {
-        "hindi": "समझना",
-        "english": "to understand (Hiểu)"
+        "hindi": "भैया",
+        "english": "Brother / Bro (Người anh em / Anh trai)"
       },
       {
-        "hindi": "रोना​​​​​​​​",
-        "english": "To cry (Khóc)"
+        "hindi": "नाना",
+        "english": "Maternal Grandfather (Ông ngoại)"
       },
       {
-        "hindi": "लिखना​​​​",
-        "english": "To write (Viết)"
+        "hindi": "पिता",
+        "english": "Father (Cha)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "समझना",
-    "translation_en": "to understand",
-    "translation_vi": "Hiểu",
+    "audio": "बहन",
+    "translation_en": "Sister",
+    "translation_vi": "Chị / Em gái",
     "options_en": [
-      "To cry",
-      "to understand",
-      "To write",
-      "Paternal Grandmother"
+      "Sister",
+      "Mother",
+      "Maternal Grandmother",
+      "Brother"
     ],
     "options_vi": [
-      "Khóc",
-      "Hiểu",
-      "Viết",
-      "Bà nội"
+      "Chị / Em gái",
+      "Mẹ",
+      "Bà ngoại",
+      "Anh / Em trai"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I drink water / Tôi uống nước",
+    "englishSentence": "I know Sister / Tôi biết Chị / Em gái",
     "hindiWords": [
       "मैं",
-      "पानी",
-      "पीता",
-      "हूँ",
-      "दूध",
-      "है"
+      "बहन",
+      "जानता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं पानी पीता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सड़क​",
-    "transliteration": "saṛak",
-    "english": "Road",
-    "vietnamese": "Đường",
-    "audio": "सड़क​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "आकाश",
-    "transliteration": "ākāsh",
-    "english": "Sky",
-    "vietnamese": "Bầu trời",
-    "audio": "आकाश"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "रोना​​​​​​​​",
-        "english": "To cry (Khóc)"
-      },
-      {
-        "hindi": "लिखना​​​​",
-        "english": "To write (Viết)"
-      },
-      {
-        "hindi": "सड़क​",
-        "english": "Road (Đường)"
-      },
-      {
-        "hindi": "आकाश",
-        "english": "Sky (Bầu trời)"
-      }
-    ]
+    "correctHindiSentence": "मैं बहन जानता हूँ"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "We are friends / Chúng tôi là bạn bè",
+    "englishSentence": "Where is Mother? / Mẹ ở đâu?",
     "hindiWords": [
-      "हम",
-      "दोस्त",
-      "हैं",
-      "हो",
-      "तुम"
+      "माँ",
+      "कहाँ",
+      "है",
+      "था"
     ],
-    "correctHindiSentence": "हम दोस्त हैं"
+    "correctHindiSentence": "माँ कहाँ है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: दादी, रोना​​​​​​​​, सड़क​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'We are friends'."
+      "You learned: बहन, पिता",
+      "Practiced constructing sentences."
     ]
   }
 ]

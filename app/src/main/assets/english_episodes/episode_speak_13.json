@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 13",
+    "description": "Master the vocabulary and grammar for: Speak - Level 13. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Yes, I am sure..",
+    "simpleRule": "Remember: Yes, I am sure. means हाँ, मुझे यकीन है। (Vâng, tôi chắc chắn.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, I am sure.",
+    "transliteration": "",
+    "english": "हाँ, मुझे यकीन है।",
+    "vietnamese": "Vâng, tôi chắc chắn.",
+    "audio": "Yes, I am sure."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative singular)",
+    "transliteration": "",
+    "english": "जिसे",
+    "vietnamese": "Người mà (số ít)",
+    "audio": "Whom (relative singular)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes (respectful)",
+    "transliteration": "",
+    "english": "जी हाँ",
+    "vietnamese": "Vâng (Lịch sự)",
+    "audio": "Yes (respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friend",
+    "transliteration": "",
+    "english": "दोस्त",
+    "vietnamese": "Bạn bè",
+    "audio": "Friend"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yes, I am sure.'",
+    "prompt_en": "Choose correct translation for 'Yes, I am sure.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yes, I am sure.'",
+    "text": "Yes, I am sure.",
+    "subtext": "",
+    "answer": "हाँ, मुझे यकीन है।",
+    "answer_vi": "Vâng, tôi chắc chắn.",
+    "options": [
+      "हाँ, मुझे यकीन है।",
+      "जिसे",
+      "जी हाँ",
+      "दोस्त"
+    ],
+    "options_vi": [
+      "Vâng, tôi chắc chắn.",
+      "Người mà (số ít)",
+      "Vâng (Lịch sự)",
+      "Bạn bè"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yes, I am sure.",
+        "english": "हाँ, मुझे यकीन है। (Vâng, tôi chắc chắn.)"
+      },
+      {
+        "hindi": "Whom (relative singular)",
+        "english": "जिसे (Người mà (số ít))"
+      },
+      {
+        "hindi": "Yes (respectful)",
+        "english": "जी हाँ (Vâng (Lịch sự))"
+      },
+      {
+        "hindi": "Friend",
+        "english": "दोस्त (Bạn bè)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Yesterday / Tomorrow.",
+    "simpleRule": "Remember: Yesterday / Tomorrow means कल (Hôm qua / Ngày mai)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yesterday / Tomorrow",
+    "transliteration": "",
+    "english": "कल",
+    "vietnamese": "Hôm qua / Ngày mai",
+    "audio": "Yesterday / Tomorrow"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Reverent hello to Grandma",
+    "transliteration": "",
+    "english": "प्रणाम दादी जी",
+    "vietnamese": "Kính chào bà nội kính yêu",
+    "audio": "Reverent hello to Grandma"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Just then / That is why",
+    "transliteration": "",
+    "english": "तभी",
+    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "audio": "Just then / That is why"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yesterday / Tomorrow'",
+    "prompt_en": "Choose correct translation for 'Yesterday / Tomorrow'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yesterday / Tomorrow'",
+    "text": "Yesterday / Tomorrow",
+    "subtext": "",
+    "answer": "कल",
+    "answer_vi": "Hôm qua / Ngày mai",
+    "options": [
+      "कल",
+      "बर्फ़​​​​​",
+      "प्रणाम दादी जी",
+      "तभी"
+    ],
+    "options_vi": [
+      "Hôm qua / Ngày mai",
+      "Tuyết / Đá",
+      "Kính chào bà nội kính yêu",
+      "Ngay lúc đó / Chính vì vậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yesterday / Tomorrow",
+        "english": "कल (Hôm qua / Ngày mai)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Reverent hello to Grandma",
+        "english": "प्रणाम दादी जी (Kính chào bà nội kính yêu)"
+      },
+      {
+        "hindi": "Just then / That is why",
+        "english": "तभी (Ngay lúc đó / Chính vì vậy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: When.",
+    "simpleRule": "Remember: When means कब (Khi nào)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When",
+    "transliteration": "",
+    "english": "कब",
+    "vietnamese": "Khi nào",
+    "audio": "When"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How are you? (Formal)",
+    "transliteration": "",
+    "english": "आप कैसे हैं?",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "How are you? (Formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Afternoon",
+    "transliteration": "",
+    "english": "दोपहर",
+    "vietnamese": "Buổi trưa",
+    "audio": "Afternoon"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No (respectful)",
+    "transliteration": "",
+    "english": "जी नहीं",
+    "vietnamese": "Không (Lịch sự)",
+    "audio": "No (respectful)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'When'",
+    "prompt_en": "Choose correct translation for 'When'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'When'",
+    "text": "When",
+    "subtext": "",
+    "answer": "कब",
+    "answer_vi": "Khi nào",
+    "options": [
+      "कब",
+      "आप कैसे हैं?",
+      "दोपहर",
+      "जी नहीं"
+    ],
+    "options_vi": [
+      "Khi nào",
+      "Bạn khỏe không? (Lịch sự)",
+      "Buổi trưa",
+      "Không (Lịch sự)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "When",
+        "english": "कब (Khi nào)"
+      },
+      {
+        "hindi": "How are you? (Formal)",
+        "english": "आप कैसे हैं? (Bạn khỏe không? (Lịch sự))"
+      },
+      {
+        "hindi": "Afternoon",
+        "english": "दोपहर (Buổi trưa)"
+      },
+      {
+        "hindi": "No (respectful)",
+        "english": "जी नहीं (Không (Lịch sự))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Name.",
+    "simpleRule": "Remember: Name means नाम (Tên)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Name",
+    "transliteration": "",
+    "english": "नाम",
+    "vietnamese": "Tên",
+    "audio": "Name"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How sad!",
+    "transliteration": "",
+    "english": "कितना दुखद है!",
+    "vietnamese": "Thật là buồn!",
+    "audio": "How sad!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello, how are you?",
+    "transliteration": "",
+    "english": "नमस्ते, आप कैसे हैं?",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "Hello, how are you?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Name'",
+    "prompt_en": "Choose correct translation for 'Name'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Name'",
+    "text": "Name",
+    "subtext": "",
+    "answer": "नाम",
+    "answer_vi": "Tên",
+    "options": [
+      "नाम",
+      "कितना दुखद है!",
+      "नमस्ते, आप कैसे हैं?",
+      "कापी"
+    ],
+    "options_vi": [
+      "Tên",
+      "Thật là buồn!",
+      "Xin chào, bạn khỏe không?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Name",
+        "english": "नाम (Tên)"
+      },
+      {
+        "hindi": "How sad!",
+        "english": "कितना दुखद है! (Thật là buồn!)"
+      },
+      {
+        "hindi": "Hello, how are you?",
+        "english": "नमस्ते, आप कैसे हैं? (Xin chào, bạn khỏe không?)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Yes, I am sure.",
+    "translation_en": "हाँ, मुझे यकीन है।",
+    "translation_vi": "Vâng, tôi chắc chắn.",
+    "options_en": [
+      "हाँ, मुझे यकीन है।",
+      "जिसे",
+      "जी हाँ",
+      "दोस्त"
+    ],
+    "options_vi": [
+      "Vâng, tôi chắc chắn.",
+      "Người mà (số ít)",
+      "Vâng (Lịch sự)",
+      "Bạn bè"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a हाँ, मुझे यकीन है। / Nó là một Vâng, tôi chắc chắn.",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Yes, I am sure."
+    ],
+    "correctHindiSentence": "It is a Yes, I am sure."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like जिसे / Tôi thích Người mà (số ít)",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Whom (relative singular)"
+    ],
+    "correctHindiSentence": "I really like Whom (relative singular)"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Yes, I am sure. and Notebook",
+      "Practiced constructing sentences."
+    ]
+  }
+]

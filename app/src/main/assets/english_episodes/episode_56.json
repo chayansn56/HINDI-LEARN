@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 56",
+    "description": "Master the vocabulary and grammar for: Episode 56. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 56",
+    "title_vi": "Tập 56",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To see / watch (देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Nhìn / Xem."
+      },
+      {
+        "hindi": "Later, you encounter a To read (पढ़ना​).",
+        "translation": "Sau đó, bạn gặp một Đọc."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To see / watch",
+        "isCorrect": true
+      },
+      {
+        "text": "To read",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To see / watch.",
+    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Profession / Business",
+    "transliteration": "",
+    "english": "व्यवसाय",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "Profession / Business"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To see / watch'",
+    "prompt_en": "Choose correct translation for 'To see / watch'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
+    "text": "To see / watch",
+    "subtext": "",
+    "answer": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​",
+      "समुद्र​",
+      "व्यवसाय"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Đọc",
+      "Biển",
+      "Nghề nghiệp / Doanh nghiệp"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​ (Đọc)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​ (Biển)"
+      },
+      {
+        "hindi": "Profession / Business",
+        "english": "व्यवसाय (Nghề nghiệp / Doanh nghiệp)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Read (root).",
+    "simpleRule": "Remember: Read (root) means पढ़ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Read (root)",
+    "transliteration": "",
+    "english": "पढ़",
+    "vietnamese": "Đọc",
+    "audio": "Read (root)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mountain",
+    "transliteration": "",
+    "english": "पहाड़​​​​​​​​",
+    "vietnamese": "Ngọn núi",
+    "audio": "Mountain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cup",
+    "transliteration": "",
+    "english": "प्याला​​​​",
+    "vietnamese": "Tách",
+    "audio": "Cup"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Read (root)'",
+    "prompt_en": "Choose correct translation for 'Read (root)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Read (root)'",
+    "text": "Read (root)",
+    "subtext": "",
+    "answer": "पढ़",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़",
+      "पहाड़​​​​​​​​",
+      "प्याला​​​​",
+      "बताना​​​​​​​"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Ngọn núi",
+      "Tách",
+      "Kể / Giải thích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Read (root)",
+        "english": "पढ़ (Đọc)"
+      },
+      {
+        "hindi": "Mountain",
+        "english": "पहाड़​​​​​​​​ (Ngọn núi)"
+      },
+      {
+        "hindi": "Cup",
+        "english": "प्याला​​​​ (Tách)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​ (Kể / Giải thích)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To sleep.",
+    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sleep'",
+    "prompt_en": "Choose correct translation for 'To sleep'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
+    "text": "To sleep",
+    "subtext": "",
+    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngủ",
+    "options": [
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Nghe",
+      "Nghe",
+      "Ngủ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To see / watch",
+    "translation_en": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Nhìn / Xem",
+    "options_en": [
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​",
+      "समुद्र​",
+      "व्यवसाय"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Đọc",
+      "Biển",
+      "Nghề nghiệp / Doanh nghiệp"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Nhìn / Xem",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To see / watch"
+    ],
+    "correctHindiSentence": "I see the To see / watch"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a पढ़ना​ / Tôi muốn Đọc",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To read"
+    ],
+    "correctHindiSentence": "I want a To read"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To see / watch and To sleep",
+      "Practiced constructing sentences."
+    ]
+  }
+]

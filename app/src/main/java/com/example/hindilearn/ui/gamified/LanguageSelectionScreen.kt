@@ -15,11 +15,18 @@ import com.example.hindilearn.data.UserManager
 import com.example.hindilearn.ui.gamified.PremiumBackground
 import com.example.hindilearn.ui.gamified.GlassCard
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.setValue
+
 @Composable
 fun LanguageSelectionScreen(
     onLanguageSelected: () -> Unit,
     modifier: Modifier = Modifier
 ) {
+    var currentStep by remember { mutableStateOf("TARGET_SELECTION") } // TARGET_SELECTION, HINDI_LANG_SELECTION
+
     PremiumBackground {
         Column(
             modifier = modifier.fillMaxSize().padding(24.dp),
@@ -30,7 +37,7 @@ fun LanguageSelectionScreen(
                 painter = androidx.compose.ui.res.painterResource(id = com.example.hindilearn.R.drawable.vietana_logo),
                 contentDescription = "Vietana Logo",
                 modifier = Modifier
-                    .fillMaxWidth(0.6f)
+                    .fillMaxWidth(0.5f)
                     .padding(bottom = 12.dp),
                 contentScale = androidx.compose.ui.layout.ContentScale.Fit
             )
@@ -40,27 +47,50 @@ fun LanguageSelectionScreen(
                 fontWeight = FontWeight.Bold
             )
             Spacer(modifier = Modifier.height(12.dp))
-            Text(
-                "Select your learning course / Chọn khóa học của bạn:",
-                style = MaterialTheme.typography.bodyLarge,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-            )
-            Spacer(modifier = Modifier.height(32.dp))
-            
-            LanguageCard(title = "Học tiếng Hindi \uD83C\uDDEE\uD83C\uDDF3", subtitle = "Dành cho người Việt học tiếng Hindi") {
-                UserManager.updateLanguage("VI")
-                UserManager.progress.selectedCourse = "HINDI"
-                UserManager.save()
-                onLanguageSelected()
-            }
-            
-            Spacer(modifier = Modifier.height(20.dp))
-            
-            LanguageCard(title = "Học tiếng Anh \uD83C\uDDEC\uD83C\uDDE7", subtitle = "Dành cho người Việt học tiếng Anh") {
-                UserManager.updateLanguage("VI")
-                UserManager.progress.selectedCourse = "ENGLISH"
-                UserManager.save()
-                onLanguageSelected()
+
+            if (currentStep == "TARGET_SELECTION") {
+                Text(
+                    "Select your learning target / Chọn mục tiêu học:",
+                    style = MaterialTheme.typography.bodyLarge,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Spacer(modifier = Modifier.height(32.dp))
+                
+                LanguageCard(title = "Học tiếng Hindi \uD83C\uDDEE\uD83C\uDDF3", subtitle = "Dành cho người Việt & Người nước ngoài") {
+                    currentStep = "HINDI_LANG_SELECTION"
+                }
+                
+                Spacer(modifier = Modifier.height(20.dp))
+                
+                LanguageCard(title = "Học tiếng Anh \uD83C\uDDEC\uD83C\uDDE7", subtitle = "Dành cho người Việt học tiếng Anh") {
+                    UserManager.updateLanguage("VI")
+                    UserManager.progress.selectedCourse = "ENGLISH"
+                    UserManager.save()
+                    onLanguageSelected()
+                }
+            } else if (currentStep == "HINDI_LANG_SELECTION") {
+                Text(
+                    "Choose instruction language / Chọn ngôn ngữ hướng dẫn:",
+                    style = MaterialTheme.typography.bodyLarge,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Spacer(modifier = Modifier.height(32.dp))
+                
+                LanguageCard(title = "English \uD83C\uDDEC\uD83C\uDDE7", subtitle = "Learn Hindi with English instructions") {
+                    UserManager.updateLanguage("EN")
+                    UserManager.progress.selectedCourse = "HINDI"
+                    UserManager.save()
+                    onLanguageSelected()
+                }
+                
+                Spacer(modifier = Modifier.height(20.dp))
+                
+                LanguageCard(title = "Tiếng Việt \uD83C\uDDFB\uD83C\uDDF3", subtitle = "Học tiếng Hindi với hướng dẫn Tiếng Việt") {
+                    UserManager.updateLanguage("VI")
+                    UserManager.progress.selectedCourse = "HINDI"
+                    UserManager.save()
+                    onLanguageSelected()
+                }
             }
             
             Spacer(modifier = Modifier.weight(1f))

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 59",
+    "description": "Master the vocabulary and grammar for: Episode 59. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 59",
+    "title_vi": "Tập 59",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Daughter (बेटी).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Con gái (đối với cha mẹ)."
+      },
+      {
+        "hindi": "Later, you encounter a To give (देना​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Cho / Tặng."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Daughter",
+        "isCorrect": true
+      },
+      {
+        "text": "To give",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Daughter.",
+    "simpleRule": "Remember: Daughter means बेटी (Con gái (đối với cha mẹ))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Daughter",
+    "transliteration": "",
+    "english": "बेटी",
+    "vietnamese": "Con gái (đối với cha mẹ)",
+    "audio": "Daughter"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Come inside.",
+    "transliteration": "",
+    "english": "अंदर आओ।",
+    "vietnamese": "Vào trong đi.",
+    "audio": "Come inside."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Daughter'",
+    "prompt_en": "Choose correct translation for 'Daughter'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Daughter'",
+    "text": "Daughter",
+    "subtext": "",
+    "answer": "बेटी",
+    "answer_vi": "Con gái (đối với cha mẹ)",
+    "options": [
+      "बेटी",
+      "देना​​​​​​​​​​​​​​​​​",
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "अंदर आओ।"
+    ],
+    "options_vi": [
+      "Con gái (đối với cha mẹ)",
+      "Cho / Tặng",
+      "Rửa / Giặt",
+      "Vào trong đi."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Daughter",
+        "english": "बेटी (Con gái (đối với cha mẹ))"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "Come inside.",
+        "english": "अंदर आओ। (Vào trong đi.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To open.",
+    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​​​​​ (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Laddu",
+    "transliteration": "",
+    "english": "लड्डू",
+    "vietnamese": "Bánh Laddu tròn",
+    "audio": "Laddu"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To open'",
+    "prompt_en": "Choose correct translation for 'To open'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
+    "text": "To open",
+    "subtext": "",
+    "answer": "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Mở",
+    "options": [
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
+      "लड्डू",
+      "लेना​​​​​​​​​",
+      "लिखना​​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Bánh Laddu tròn",
+      "Lấy / Nhận",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "Laddu",
+        "english": "लड्डू (Bánh Laddu tròn)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​ (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Sea / Ocean.",
+    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​​​​​​​​ (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sea / Ocean'",
+    "prompt_en": "Choose correct translation for 'Sea / Ocean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
+    "text": "Sea / Ocean",
+    "subtext": "",
+    "answer": "समुद्र​​​​​​​​​​",
+    "answer_vi": "Biển",
+    "options": [
+      "समुद्र​​​​​​​​​​",
+      "पूछना​​​​​​​​",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Biển",
+      "Hỏi",
+      "Hỏi",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​​​​​​ (Biển)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Daughter",
+    "translation_en": "बेटी",
+    "translation_vi": "Con gái (đối với cha mẹ)",
+    "options_en": [
+      "बेटी",
+      "देना​​​​​​​​​​​​​​​​​",
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "अंदर आओ।"
+    ],
+    "options_vi": [
+      "Con gái (đối với cha mẹ)",
+      "Cho / Tặng",
+      "Rửa / Giặt",
+      "Vào trong đi."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बेटी / Tôi thấy Con gái (đối với cha mẹ)",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Daughter"
+    ],
+    "correctHindiSentence": "I see the Daughter"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a देना​​​​​​​​​​​​​​​​​ / Tôi muốn Cho / Tặng",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To give"
+    ],
+    "correctHindiSentence": "I want a To give"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Daughter and To listen / hear",
+      "Practiced constructing sentences."
+    ]
+  }
+]

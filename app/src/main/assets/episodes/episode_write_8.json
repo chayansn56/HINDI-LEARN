@@ -1,183 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Write - Lesson 8",
-    "description": "Learn key vocabulary and concepts for Write - Lesson 8. Listen carefully and read along in English and Vietnamese.",
+    "title": "Write - Level 8",
+    "description": "Master the vocabulary and grammar for: Write - Level 8. Read the key points carefully.",
     "keyPoints": [
-      "ताला​​​​​​​​​ (tālā) = Lock / Ổ khóa",
-      "समुद्र​​​​​​​​ (samudra) = Sea / Ocean / Biển",
-      "६ (chhah) = 6 / Sáu"
+      "Learn write concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 8",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: ताला​​​​​​​​​ means 'Lock' (Ổ khóa)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: लिखना​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: लिखना​​​​​​​​​​​​​​​​​​​​​​​ means To write (Viết)."
   },
   {
     "type": "Flashcard",
-    "hindi": "ताला​​​​​​​​​",
-    "transliteration": "tālā",
-    "english": "Lock",
-    "vietnamese": "Ổ khóa",
-    "audio": "ताला​​​​​​​​​"
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "समुद्र​​​​​​​​",
-    "transliteration": "samudra",
-    "english": "Sea / Ocean",
-    "vietnamese": "Biển",
-    "audio": "समुद्र​​​​​​​​"
+    "hindi": "पढ़ना",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कापी​​​​",
+    "transliteration": "kaapī",
+    "english": "Notebook",
+    "vietnamese": "Sổ tay",
+    "audio": "कापी​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'ताला​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'ताला​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'ताला​​​​​​​​​'",
-    "text": "ताला​​​​​​​​​",
-    "subtext": "tālā",
-    "answer": "Lock",
-    "answer_vi": "Ổ khóa",
+    "prompt": "Translate 'लिखना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'लिखना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "likhnā",
+    "answer": "To write",
+    "answer_vi": "Viết",
     "options": [
-      "Sea / Ocean",
-      "6",
-      "Lock",
-      "Soil / Earth"
+      "To write",
+      "To read",
+      "Notebook",
+      "Pen"
     ],
     "options_vi": [
-      "Biển",
-      "Sáu",
-      "Ổ khóa",
-      "Đất"
+      "Viết",
+      "Đọc",
+      "Sổ tay",
+      "Bút"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "६",
-    "transliteration": "chhah",
-    "english": "6",
-    "vietnamese": "Sáu",
-    "audio": "६"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "पढ़ना",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "कापी​​​​",
+        "english": "Notebook (Sổ tay)"
+      },
+      {
+        "hindi": "पेन​",
+        "english": "Pen (Bút)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To write (Viết)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​​",
-    "transliteration": "miṭṭī",
-    "english": "Soil / Earth",
-    "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​​"
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "likhnā",
+    "answer": "To write",
+    "answer_vi": "Viết",
+    "options": [
+      "To write",
+      "Pen",
+      "To write",
+      "To open"
+    ],
+    "options_vi": [
+      "Viết",
+      "Bút",
+      "Viết",
+      "Mở"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "ताला​​​​​​​​​",
-        "english": "Lock (Ổ khóa)"
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "समुद्र​​​​​​​​",
-        "english": "Sea / Ocean (Biển)"
+        "hindi": "पेन",
+        "english": "Pen (Bút)"
       },
       {
-        "hindi": "६",
-        "english": "6 (Sáu)"
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "मिट्टी​​​​​​​​",
-        "english": "Soil / Earth (Đất)"
+        "hindi": "खोलना​​​​​​​​​​",
+        "english": "To open (Mở)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "समुद्र​​​​​​​​",
-    "translation_en": "Sea / Ocean",
-    "translation_vi": "Biển",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To write",
+    "translation_vi": "Viết",
     "options_en": [
-      "Lock",
-      "Soil / Earth",
-      "6",
-      "Sea / Ocean"
+      "To write",
+      "To read",
+      "Notebook",
+      "Pen"
     ],
     "options_vi": [
-      "Ổ khóa",
-      "Đất",
-      "Sáu",
-      "Biển"
+      "Viết",
+      "Đọc",
+      "Sổ tay",
+      "Bút"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "englishSentence": "This is a To write / Đây là Viết",
     "hindiWords": [
-      "मैं",
-      "लड़का",
-      "हूँ",
-      "लड़की",
+      "यह",
+      "एक",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
       "है"
     ],
-    "correctHindiSentence": "मैं लड़का हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "२०",
-    "transliteration": "bees",
-    "english": "20",
-    "vietnamese": "Hai mươi",
-    "audio": "२०"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "प्याला​​​​​​​",
-    "transliteration": "pyālā",
-    "english": "Cup",
-    "vietnamese": "Tách",
-    "audio": "प्याला​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "६",
-        "english": "6 (Sáu)"
-      },
-      {
-        "hindi": "मिट्टी​​​​​​​​",
-        "english": "Soil / Earth (Đất)"
-      },
-      {
-        "hindi": "२०",
-        "english": "20 (Hai mươi)"
-      },
-      {
-        "hindi": "प्याला​​​​​​​",
-        "english": "Cup (Tách)"
-      }
-    ]
+    "correctHindiSentence": "यह एक लिखना​​​​​​​​​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
+    "englishSentence": "I see To read / Tôi thấy Đọc",
     "hindiWords": [
-      "होटल",
-      "कहाँ",
-      "है",
-      "स्टेशन",
-      "में"
+      "मैं",
+      "पढ़ना",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "होटल कहाँ है"
+    "correctHindiSentence": "मैं पढ़ना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: ताला​​​​​​​​​, ६, २०.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Where is the hotel?'."
+      "You learned: लिखना​​​​​​​​​​​​​​​​​​​​​​​, खोलना​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

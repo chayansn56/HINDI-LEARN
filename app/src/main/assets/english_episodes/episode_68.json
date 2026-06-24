@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 68",
+    "description": "Master the vocabulary and grammar for: Episode 68. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 68",
+    "title_vi": "Tập 68",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
+      },
+      {
+        "hindi": "Later, you encounter a Money (पैसा​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Tiền."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To ask",
+        "isCorrect": true
+      },
+      {
+        "text": "Money",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पैसा​​​​​​",
+      "आग​​​​​​",
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Tiền",
+      "Lửa",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​​ (Tiền)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​",
+      "सीखना​​",
+      "मदद​​​​​​​",
+      "समुद्र​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Học",
+      "Sự giúp đỡ",
+      "Biển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​ (Học)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​ (Biển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please speak slowly.",
+    "transliteration": "",
+    "english": "कृपया धीरे बोलिए।",
+    "vietnamese": "Làm ơn nói chậm lại.",
+    "audio": "Please speak slowly."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "कृपया धीरे बोलिए।",
+      "बैठना​​​​​​​​​​​​​​​​​​​",
+      "काम करना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Làm ơn nói chậm lại.",
+      "Ngồi",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Please speak slowly.",
+        "english": "कृपया धीरे बोलिए। (Làm ơn nói chậm lại.)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​ (Làm việc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To ask",
+    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Hỏi",
+    "options_en": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पैसा​​​​​​",
+      "आग​​​​​​",
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Tiền",
+      "Lửa",
+      "Bán"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Hỏi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To ask"
+    ],
+    "correctHindiSentence": "I see the To ask"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a पैसा​​​​​​ / Tôi muốn Tiền",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Money"
+    ],
+    "correctHindiSentence": "I want a Money"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To ask and To work",
+      "Practiced constructing sentences."
+    ]
+  }
+]

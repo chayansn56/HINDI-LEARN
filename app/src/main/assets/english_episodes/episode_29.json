@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 29",
+    "description": "Master the vocabulary and grammar for: Episode 29. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 29",
+    "title_vi": "Tập 29",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To open (खोलना​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Mở."
+      },
+      {
+        "hindi": "Later, you encounter a To listen / hear (सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Nghe."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To open",
+        "isCorrect": true
+      },
+      {
+        "text": "To listen / hear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To open.",
+    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​ (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To open'",
+    "prompt_en": "Choose correct translation for 'To open'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
+    "text": "To open",
+    "subtext": "",
+    "answer": "खोलना​​​​​​​​​​​​​​​",
+    "answer_vi": "Mở",
+    "options": [
+      "खोलना​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "धोना​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Nghe",
+      "Làm",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To sing.",
+    "simpleRule": "Remember: To sing means गाना​​​​​​​​​ (Hát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "under / below",
+    "transliteration": "",
+    "english": "के नीचे",
+    "vietnamese": "Dưới / Phía dưới",
+    "audio": "under / below"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "1",
+    "transliteration": "",
+    "english": "१",
+    "vietnamese": "Một",
+    "audio": "1"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sing'",
+    "prompt_en": "Choose correct translation for 'To sing'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
+    "text": "To sing",
+    "subtext": "",
+    "answer": "गाना​​​​​​​​​",
+    "answer_vi": "Hát",
+    "options": [
+      "गाना​​​​​​​​​",
+      "के नीचे",
+      "१",
+      "बेचना​"
+    ],
+    "options_vi": [
+      "Hát",
+      "Dưới / Phía dưới",
+      "Một",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "under / below",
+        "english": "के नीचे (Dưới / Phía dưới)"
+      },
+      {
+        "hindi": "1",
+        "english": "१ (Một)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To buy.",
+    "simpleRule": "Remember: To buy means खरीदना​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Product",
+    "transliteration": "",
+    "english": "उत्पाद",
+    "vietnamese": "Sản phẩm",
+    "audio": "Product"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To buy'",
+    "prompt_en": "Choose correct translation for 'To buy'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To buy'",
+    "text": "To buy",
+    "subtext": "",
+    "answer": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Mua",
+    "options": [
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​",
+      "बंद करना​​",
+      "उत्पाद"
+    ],
+    "options_vi": [
+      "Mua",
+      "Đi bộ / Di chuyển",
+      "Đóng",
+      "Sản phẩm"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​ (Đóng)"
+      },
+      {
+        "hindi": "Product",
+        "english": "उत्पाद (Sản phẩm)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To open",
+    "translation_en": "खोलना​​​​​​​​​​​​​​​",
+    "translation_vi": "Mở",
+    "options_en": [
+      "खोलना​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "धोना​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Nghe",
+      "Làm",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the खोलना​​​​​​​​​​​​​​​ / Tôi thấy Mở",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To open"
+    ],
+    "correctHindiSentence": "I see the To open"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Nghe",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "I want a To listen / hear"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To open and Product",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 28",
+    "description": "Master the vocabulary and grammar for: Episode 28. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 28",
+    "title_vi": "Tập 28",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To make / build (बनाना​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chế tạo / Tạo ra."
+      },
+      {
+        "hindi": "Later, you encounter a People (लोग).",
+        "translation": "Sau đó, bạn gặp một Mọi người."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To make / build",
+        "isCorrect": true
+      },
+      {
+        "text": "People",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To make / build.",
+    "simpleRule": "Remember: To make / build means बनाना​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "People",
+    "transliteration": "",
+    "english": "लोग",
+    "vietnamese": "Mọi người",
+    "audio": "People"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "2",
+    "transliteration": "",
+    "english": "२",
+    "vietnamese": "Hai",
+    "audio": "2"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To make / build'",
+    "prompt_en": "Choose correct translation for 'To make / build'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
+    "text": "To make / build",
+    "subtext": "",
+    "answer": "बनाना​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "बनाना​​​​​​​​​​​​​​​​​​",
+      "लोग",
+      "बेचना​​​​​​",
+      "२"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Mọi người",
+      "Bán",
+      "Hai"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "People",
+        "english": "लोग (Mọi người)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​ (Bán)"
+      },
+      {
+        "hindi": "2",
+        "english": "२ (Hai)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To wash.",
+    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wash'",
+    "prompt_en": "Choose correct translation for 'To wash'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
+    "text": "To wash",
+    "subtext": "",
+    "answer": "धोना​​​​​​​​​​​​​​​​",
+    "answer_vi": "Rửa / Giặt",
+    "options": [
+      "धोना​​​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पूछना​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Kể / Giải thích",
+      "Lấy / Nhận",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To clean.",
+    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​​​​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To clean'",
+    "prompt_en": "Choose correct translation for 'To clean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To clean'",
+    "text": "To clean",
+    "subtext": "",
+    "answer": "साफ करना​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Dọn dẹp / Lau chùi",
+    "options": [
+      "साफ करना​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​",
+      "बारिश​​​​​​​​",
+      "साफ करना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dọn dẹp / Lau chùi",
+      "Đi bộ / Di chuyển",
+      "Cơn mưa",
+      "Dọn dẹp / Lau chùi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​​​​​​ (Cơn mưa)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To make / build",
+    "translation_en": "बनाना​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Chế tạo / Tạo ra",
+    "options_en": [
+      "बनाना​​​​​​​​​​​​​​​​​​",
+      "लोग",
+      "बेचना​​​​​​",
+      "२"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Mọi người",
+      "Bán",
+      "Hai"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बनाना​​​​​​​​​​​​​​​​​​ / Tôi thấy Chế tạo / Tạo ra",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To make / build"
+    ],
+    "correctHindiSentence": "I see the To make / build"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a लोग / Tôi muốn Mọi người",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "People"
+    ],
+    "correctHindiSentence": "I want a People"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To make / build and To clean",
+      "Practiced constructing sentences."
+    ]
+  }
+]

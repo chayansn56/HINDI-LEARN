@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Listen - Lesson 5",
-    "description": "Learn key vocabulary and concepts for Listen - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "title": "Listen - Level 5",
+    "description": "Master the vocabulary and grammar for: Listen - Level 5. Read the key points carefully.",
     "keyPoints": [
-      "बनाना​​​​​​​​​ (banānā) = To make / build / Chế tạo / Tạo ra",
-      "दौड़ना​​​​​​​​​​​​ (dauṛnā) = To run / Chạy",
-      "करना​​​​​​​​​ (karnā) = To do / Làm"
+      "Learn listen concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 5",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बनाना​​​​​​​​​ means 'To make / build' (Chế tạo / Tạo ra)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​",
-    "transliteration": "banānā",
-    "english": "To make / build",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​​​​​​​​",
-    "transliteration": "dauṛnā",
-    "english": "To run",
-    "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​​​​​​​​"
+    "hindi": "बादल​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बनाना​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'बनाना​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​'",
-    "text": "बनाना​​​​​​​​​",
-    "subtext": "banānā",
-    "answer": "To make / build",
-    "answer_vi": "Chế tạo / Tạo ra",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
     "options": [
-      "To make / build",
-      "To run",
-      "To do",
-      "To do"
+      "To listen / hear",
+      "Cloud",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
-      "Chế tạo / Tạo ra",
-      "Chạy",
-      "Làm",
-      "Làm"
+      "Nghe",
+      "Đám mây",
+      "Nghe",
+      "Nghe"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "करना​​​​​​​​​",
-    "transliteration": "karnā",
-    "english": "To do",
-    "vietnamese": "Làm",
-    "audio": "करना​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बादल​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "करना​​​​​​​​​​​",
-    "transliteration": "karnā",
-    "english": "To do",
-    "vietnamese": "Làm",
-    "audio": "करना​​​​​​​​​​​"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nghe",
+      "Nghe"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बनाना​​​​​​​​​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "दौड़ना​​​​​​​​​​​​",
-        "english": "To run (Chạy)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "करना​​​​​​​​​",
-        "english": "To do (Làm)"
+        "hindi": "सुनना​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "करना​​​​​​​​​​​",
-        "english": "To do (Làm)"
+        "hindi": "सुनना​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "दौड़ना​​​​​​​​​​​​",
-    "translation_en": "To run",
-    "translation_vi": "Chạy",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To listen / hear",
+    "translation_vi": "Nghe",
     "options_en": [
-      "To do",
-      "To do",
-      "To make / build",
-      "To run"
+      "To listen / hear",
+      "Cloud",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
-      "Làm",
-      "Làm",
-      "Chế tạo / Tạo ra",
-      "Chạy"
+      "Nghe",
+      "Đám mây",
+      "Nghe",
+      "Nghe"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "This is a To listen / hear / Đây là Nghe",
     "hindiWords": [
       "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "एक",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "गाना​​​​​​​​​​",
-    "transliteration": "gānā",
-    "english": "To sing",
-    "vietnamese": "Hát",
-    "audio": "गाना​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sonā",
-    "english": "To sleep",
-    "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "करना​​​​​​​​​",
-        "english": "To do (Làm)"
-      },
-      {
-        "hindi": "करना​​​​​​​​​​​",
-        "english": "To do (Làm)"
-      },
-      {
-        "hindi": "गाना​​​​​​​​​​",
-        "english": "To sing (Hát)"
-      },
-      {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sleep (Ngủ)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सुनना​​​​​​​​​​​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "I see Cloud / Tôi thấy Đám mây",
     "hindiWords": [
-      "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "मैं",
+      "बादल​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
+    "correctHindiSentence": "मैं बादल​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बनाना​​​​​​​​​, करना​​​​​​​​​, गाना​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'This water is clean'."
+      "You learned: सुनना​​​​​​​​​​​​​​​​​​​​​, सुनना​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

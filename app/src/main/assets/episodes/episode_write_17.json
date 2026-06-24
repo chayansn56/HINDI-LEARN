@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Level 17",
+    "description": "Master the vocabulary and grammar for: Write - Level 17. Read the key points carefully.",
+    "keyPoints": [
+      "Learn write concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To read (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या आप तैयार हैं?",
+    "transliteration": "kya aap taiyaar hain?",
+    "english": "Are you ready?",
+    "vietnamese": "Bạn đã sẵn sàng chưa?",
+    "audio": "क्या आप तैयार हैं?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "paṛhnā",
+    "answer": "To read",
+    "answer_vi": "Đọc",
+    "options": [
+      "To read",
+      "Pen",
+      "Pen",
+      "Are you ready?"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Bút",
+      "Bút",
+      "Bạn đã sẵn sàng chưa?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "पेन​​​​​​​​",
+        "english": "Pen (Bút)"
+      },
+      {
+        "hindi": "पेन​​​​",
+        "english": "Pen (Bút)"
+      },
+      {
+        "hindi": "क्या आप तैयार हैं?",
+        "english": "Are you ready? (Bạn đã sẵn sàng chưa?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To write (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "likhnā",
+    "answer": "To write",
+    "answer_vi": "Viết",
+    "options": [
+      "To write",
+      "To open",
+      "To write",
+      "To write"
+    ],
+    "options_vi": [
+      "Viết",
+      "Mở",
+      "Viết",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "खोलना​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "लिखना",
+        "english": "To write (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To read",
+    "translation_vi": "Đọc",
+    "options_en": [
+      "To read",
+      "Pen",
+      "Pen",
+      "Are you ready?"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Bút",
+      "Bút",
+      "Bạn đã sẵn sàng chưa?"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To read / Đây là Đọc",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Pen / Tôi thấy Bút",
+    "hindiWords": [
+      "मैं",
+      "पेन​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं पेन​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, लिखना",
+      "Practiced constructing sentences."
+    ]
+  }
+]

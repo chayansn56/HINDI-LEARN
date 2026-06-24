@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Numbers Challenge",
+    "description": "Master the vocabulary and grammar for: Numbers Challenge. Read the key points carefully.",
+    "keyPoints": [
+      "Master Numbers Challenge"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कोई",
+    "transliteration": "koi",
+    "english": "Someone / Anyone",
+    "vietnamese": "Ai đó / Người nào đó",
+    "audio": "कोई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To listen / hear",
+      "Someone / Anyone",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Ai đó / Người nào đó",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "कोई",
+        "english": "Someone / Anyone (Ai đó / Người nào đó)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अपना",
+    "transliteration": "apna",
+    "english": "One's own (reflexive)",
+    "vietnamese": "Của bản thân mình",
+    "audio": "अपना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "One's own (reflexive)",
+      "To listen / hear",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Của bản thân mình",
+      "Nghe",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "अपना",
+        "english": "One's own (reflexive) (Của bản thân mình)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सुनना​​​​​​​​​​​​​​​",
+    "translation_en": "To listen / hear",
+    "translation_vi": "Nghe",
+    "options_en": [
+      "To listen / hear",
+      "To listen / hear",
+      "Someone / Anyone",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Ai đó / Người nào đó",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have To listen / hear / Tôi có Nghe",
+    "hindiWords": [
+      "मेरे",
+      "पास",
+      "सुनना​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "मेरे पास सुनना​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Price is To listen / hear / Giá là Nghe",
+    "hindiWords": [
+      "दाम",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "दाम सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: सुनना​​​​​​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

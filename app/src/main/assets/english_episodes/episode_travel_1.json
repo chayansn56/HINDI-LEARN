@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 1",
+    "description": "Master the vocabulary and grammar for: Travel - Level 1. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Groom.",
+    "simpleRule": "Remember: Groom means दुल्हा (Chú rể)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Groom",
+    "transliteration": "",
+    "english": "दुल्हा",
+    "vietnamese": "Chú rể",
+    "audio": "Groom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police station",
+    "transliteration": "",
+    "english": "थाना",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "Police station"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bus stop",
+    "transliteration": "",
+    "english": "बस स्टैंड",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "Bus stop"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Groom'",
+    "prompt_en": "Choose correct translation for 'Groom'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Groom'",
+    "text": "Groom",
+    "subtext": "",
+    "answer": "दुल्हा",
+    "answer_vi": "Chú rể",
+    "options": [
+      "दुल्हा",
+      "थाना",
+      "बस स्टैंड",
+      "सफ़र​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chú rể",
+      "Đồn cảnh sát",
+      "Trạm xe buýt",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Groom",
+        "english": "दुल्हा (Chú rể)"
+      },
+      {
+        "hindi": "Police station",
+        "english": "थाना (Đồn cảnh sát)"
+      },
+      {
+        "hindi": "Bus stop",
+        "english": "बस स्टैंड (Trạm xe buýt)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Journey.",
+    "simpleRule": "Remember: Journey means सफ़र​ (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vacant room",
+    "transliteration": "",
+    "english": "खाली कमरा",
+    "vietnamese": "Phòng trống",
+    "audio": "Vacant room"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ticket counter",
+    "transliteration": "",
+    "english": "टिकट काउंटर",
+    "vietnamese": "Quầy bán vé",
+    "audio": "Ticket counter"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Journey'",
+    "prompt_en": "Choose correct translation for 'Journey'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
+    "text": "Journey",
+    "subtext": "",
+    "answer": "सफ़र​",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "सफ़र​",
+      "खाली कमरा",
+      "टिकट काउंटर",
+      "सफ़र​​"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Phòng trống",
+      "Quầy bán vé",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Vacant room",
+        "english": "खाली कमरा (Phòng trống)"
+      },
+      {
+        "hindi": "Ticket counter",
+        "english": "टिकट काउंटर (Quầy bán vé)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Car / Train / Cart.",
+    "simpleRule": "Remember: Car / Train / Cart means गाड़ी (Xe hơi / Xe lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Car / Train / Cart",
+    "transliteration": "",
+    "english": "गाड़ी",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "Car / Train / Cart"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the station?",
+    "transliteration": "",
+    "english": "स्टेशन कहाँ है?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "Where is the station?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hotel",
+    "transliteration": "",
+    "english": "होटल",
+    "vietnamese": "Khách sạn",
+    "audio": "Hotel"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Car / Train / Cart'",
+    "prompt_en": "Choose correct translation for 'Car / Train / Cart'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Car / Train / Cart'",
+    "text": "Car / Train / Cart",
+    "subtext": "",
+    "answer": "गाड़ी",
+    "answer_vi": "Xe hơi / Xe lửa",
+    "options": [
+      "गाड़ी",
+      "सफ़र​​​​​​",
+      "स्टेशन कहाँ है?",
+      "होटल"
+    ],
+    "options_vi": [
+      "Xe hơi / Xe lửa",
+      "Chuyến đi",
+      "Nhà ga ở đâu?",
+      "Khách sạn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Car / Train / Cart",
+        "english": "गाड़ी (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Where is the station?",
+        "english": "स्टेशन कहाँ है? (Nhà ga ở đâu?)"
+      },
+      {
+        "hindi": "Hotel",
+        "english": "होटल (Khách sạn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Carefree / Cool.",
+    "simpleRule": "Remember: Carefree / Cool means बिंदास (Sống thoải mái / Vô tư)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Carefree / Cool",
+    "transliteration": "",
+    "english": "बिंदास",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "Carefree / Cool"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Listen carefully.",
+    "transliteration": "",
+    "english": "ध्यान से सुनो।",
+    "vietnamese": "Nghe cho kỹ nhé.",
+    "audio": "Listen carefully."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Strong / Robust / Awesome",
+    "transliteration": "",
+    "english": "तगड़ा",
+    "vietnamese": "Mạnh mẽ / Tuyệt vời",
+    "audio": "Strong / Robust / Awesome"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Profession / Business",
+    "transliteration": "",
+    "english": "व्यवसाय",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "Profession / Business"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Carefree / Cool'",
+    "prompt_en": "Choose correct translation for 'Carefree / Cool'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Carefree / Cool'",
+    "text": "Carefree / Cool",
+    "subtext": "",
+    "answer": "बिंदास",
+    "answer_vi": "Sống thoải mái / Vô tư",
+    "options": [
+      "बिंदास",
+      "ध्यान से सुनो।",
+      "तगड़ा",
+      "व्यवसाय"
+    ],
+    "options_vi": [
+      "Sống thoải mái / Vô tư",
+      "Nghe cho kỹ nhé.",
+      "Mạnh mẽ / Tuyệt vời",
+      "Nghề nghiệp / Doanh nghiệp"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Carefree / Cool",
+        "english": "बिंदास (Sống thoải mái / Vô tư)"
+      },
+      {
+        "hindi": "Listen carefully.",
+        "english": "ध्यान से सुनो। (Nghe cho kỹ nhé.)"
+      },
+      {
+        "hindi": "Strong / Robust / Awesome",
+        "english": "तगड़ा (Mạnh mẽ / Tuyệt vời)"
+      },
+      {
+        "hindi": "Profession / Business",
+        "english": "व्यवसाय (Nghề nghiệp / Doanh nghiệp)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Groom",
+    "translation_en": "दुल्हा",
+    "translation_vi": "Chú rể",
+    "options_en": [
+      "दुल्हा",
+      "थाना",
+      "बस स्टैंड",
+      "सफ़र​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chú rể",
+      "Đồn cảnh sát",
+      "Trạm xe buýt",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a दुल्हा / Nó là một Chú rể",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Groom"
+    ],
+    "correctHindiSentence": "It is a Groom"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like थाना / Tôi thích Đồn cảnh sát",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Police station"
+    ],
+    "correctHindiSentence": "I really like Police station"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Groom and Profession / Business",
+      "Practiced constructing sentences."
+    ]
+  }
+]

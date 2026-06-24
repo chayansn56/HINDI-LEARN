@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 71",
+    "description": "Master the vocabulary and grammar for: Episode 71. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 71",
+    "title_vi": "Tập 71",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To stand (खड़े होना​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đứng."
+      },
+      {
+        "hindi": "Later, you encounter a To write (लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Viết."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To stand",
+        "isCorrect": true
+      },
+      {
+        "text": "To write",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To stand.",
+    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​​​​​​ (Đứng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hospital",
+    "transliteration": "",
+    "english": "अस्पताल",
+    "vietnamese": "Bệnh viện",
+    "audio": "Hospital"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To stand'",
+    "prompt_en": "Choose correct translation for 'To stand'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
+    "text": "To stand",
+    "subtext": "",
+    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đứng",
+    "options": [
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​​​​​​​​​​​​",
+      "अस्पताल"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Viết",
+      "Dạy",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Hospital",
+        "english": "अस्पताल (Bệnh viện)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Prayer / Blessing.",
+    "simpleRule": "Remember: Prayer / Blessing means दुआ (Lời cầu nguyện)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Prayer / Blessing",
+    "transliteration": "",
+    "english": "दुआ",
+    "vietnamese": "Lời cầu nguyện",
+    "audio": "Prayer / Blessing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Prayer / Blessing'",
+    "prompt_en": "Choose correct translation for 'Prayer / Blessing'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Prayer / Blessing'",
+    "text": "Prayer / Blessing",
+    "subtext": "",
+    "answer": "दुआ",
+    "answer_vi": "Lời cầu nguyện",
+    "options": [
+      "दुआ",
+      "तारा​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मिट्टी​​​​​"
+    ],
+    "options_vi": [
+      "Lời cầu nguyện",
+      "Ngôi sao",
+      "Nói",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Prayer / Blessing",
+        "english": "दुआ (Lời cầu nguyện)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​ (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To work.",
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To work'",
+    "prompt_en": "Choose correct translation for 'To work'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
+    "text": "To work",
+    "subtext": "",
+    "answer": "काम करना",
+    "answer_vi": "Làm việc",
+    "options": [
+      "काम करना",
+      "खड़े होना​​​​​​​​​​​​​​​​​​",
+      "बादल​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Đứng",
+      "Đám mây",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To work",
+        "english": "काम करना (Làm việc)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​ (Đám mây)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To stand",
+    "translation_en": "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Đứng",
+    "options_en": [
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​​​​​​​​​​​​",
+      "अस्पताल"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Viết",
+      "Dạy",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the खड़े होना​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Đứng",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To stand"
+    ],
+    "correctHindiSentence": "I see the To stand"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Viết",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To write"
+    ],
+    "correctHindiSentence": "I want a To write"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To stand and To take",
+      "Practiced constructing sentences."
+    ]
+  }
+]

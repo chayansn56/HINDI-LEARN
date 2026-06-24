@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 46",
+    "description": "Master the vocabulary and grammar for: Episode 46. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 46",
+    "title_vi": "Tập 46",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Woman (औरत).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Người phụ nữ."
+      },
+      {
+        "hindi": "Later, you encounter a Cloth / Dress (कपड़ा​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Quần áo."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Woman",
+        "isCorrect": true
+      },
+      {
+        "text": "Cloth / Dress",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Woman.",
+    "simpleRule": "Remember: Woman means औरत (Người phụ nữ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Woman",
+    "transliteration": "",
+    "english": "औरत",
+    "vietnamese": "Người phụ nữ",
+    "audio": "Woman"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloth / Dress",
+    "transliteration": "",
+    "english": "कपड़ा​​​​​​",
+    "vietnamese": "Quần áo",
+    "audio": "Cloth / Dress"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Woman'",
+    "prompt_en": "Choose correct translation for 'Woman'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Woman'",
+    "text": "Woman",
+    "subtext": "",
+    "answer": "औरत",
+    "answer_vi": "Người phụ nữ",
+    "options": [
+      "औरत",
+      "कपड़ा​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​",
+      "ताला​​"
+    ],
+    "options_vi": [
+      "Người phụ nữ",
+      "Quần áo",
+      "Đọc",
+      "Ổ khóa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Woman",
+        "english": "औरत (Người phụ nữ)"
+      },
+      {
+        "hindi": "Cloth / Dress",
+        "english": "कपड़ा​​​​​​ (Quần áo)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "Lock",
+        "english": "ताला​​ (Ổ khóa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: were (masculine plural).",
+    "simpleRule": "Remember: were (masculine plural) means थे (Đã là (nam số nhiều))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "were (masculine plural)",
+    "transliteration": "",
+    "english": "थे",
+    "vietnamese": "Đã là (nam số nhiều)",
+    "audio": "were (masculine plural)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'were (masculine plural)'",
+    "prompt_en": "Choose correct translation for 'were (masculine plural)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'were (masculine plural)'",
+    "text": "were (masculine plural)",
+    "subtext": "",
+    "answer": "थे",
+    "answer_vi": "Đã là (nam số nhiều)",
+    "options": [
+      "थे",
+      "जूता​​",
+      "पैसा​​​​​",
+      "मिट्टी​"
+    ],
+    "options_vi": [
+      "Đã là (nam số nhiều)",
+      "Giày",
+      "Tiền",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "were (masculine plural)",
+        "english": "थे (Đã là (nam số nhiều))"
+      },
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​ (Giày)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​ (Tiền)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​ (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To run.",
+    "simpleRule": "Remember: To run means दौड़ना​​​​​​​​​​​​​​​​ (Chạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Apple",
+    "transliteration": "",
+    "english": "सेब",
+    "vietnamese": "Quả táo",
+    "audio": "Apple"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To run'",
+    "prompt_en": "Choose correct translation for 'To run'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
+    "text": "To run",
+    "subtext": "",
+    "answer": "दौड़ना​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chạy",
+    "options": [
+      "दौड़ना​​​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सेब",
+      "बनाना​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Đứng",
+      "Quả táo",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "Apple",
+        "english": "सेब (Quả táo)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Woman",
+    "translation_en": "औरत",
+    "translation_vi": "Người phụ nữ",
+    "options_en": [
+      "औरत",
+      "कपड़ा​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​",
+      "ताला​​"
+    ],
+    "options_vi": [
+      "Người phụ nữ",
+      "Quần áo",
+      "Đọc",
+      "Ổ khóa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the औरत / Tôi thấy Người phụ nữ",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Woman"
+    ],
+    "correctHindiSentence": "I see the Woman"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a कपड़ा​​​​​​ / Tôi muốn Quần áo",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Cloth / Dress"
+    ],
+    "correctHindiSentence": "I want a Cloth / Dress"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Woman and To make / build",
+      "Practiced constructing sentences."
+    ]
+  }
+]

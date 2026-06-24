@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 14",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 14. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To see / watch (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दिवाली",
+    "transliteration": "diwali",
+    "english": "Diwali",
+    "vietnamese": "Lễ hội ánh sáng Diwali",
+    "audio": "दिवाली"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खरीदना​​​​​​​​​​",
+    "transliteration": "kharīdnā",
+    "english": "To buy",
+    "vietnamese": "Mua",
+    "audio": "खरीदना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "band karnā",
+    "english": "To close",
+    "vietnamese": "Đóng",
+    "audio": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "dekhnā",
+    "answer": "To see / watch",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "To see / watch",
+      "Diwali",
+      "To buy",
+      "To close"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Lễ hội ánh sáng Diwali",
+      "Mua",
+      "Đóng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "दिवाली",
+        "english": "Diwali (Lễ hội ánh sáng Diwali)"
+      },
+      {
+        "hindi": "खरीदना​​​​​​​​​​",
+        "english": "To buy (Mua)"
+      },
+      {
+        "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To close (Đóng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​ means To make / build (Chế tạo / Tạo ra)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बिंदी",
+    "transliteration": "bindi",
+    "english": "Bindi",
+    "vietnamese": "Nốt đỏ trán Bindi",
+    "audio": "बिंदी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khaṛe honā",
+    "english": "To stand",
+    "vietnamese": "Đứng",
+    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "banānā",
+    "answer": "To make / build",
+    "answer_vi": "Chế tạo / Tạo ra",
+    "options": [
+      "To make / build",
+      "Bindi",
+      "To learn",
+      "To stand"
+    ],
+    "options_vi": [
+      "Chế tạo / Tạo ra",
+      "Nốt đỏ trán Bindi",
+      "Học",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "बिंदी",
+        "english": "Bindi (Nốt đỏ trán Bindi)"
+      },
+      {
+        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To learn (Học)"
+      },
+      {
+        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To stand (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To see / watch",
+    "translation_vi": "Nhìn / Xem",
+    "options_en": [
+      "To see / watch",
+      "Diwali",
+      "To buy",
+      "To close"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Lễ hội ánh sáng Diwali",
+      "Mua",
+      "Đóng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To see / watch / Đây là Nhìn / Xem",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Diwali / Tôi thấy Lễ hội ánh sáng Diwali",
+    "hindiWords": [
+      "मैं",
+      "दिवाली",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं दिवाली देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

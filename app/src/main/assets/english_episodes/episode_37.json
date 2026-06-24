@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 37",
+    "description": "Master the vocabulary and grammar for: Episode 37. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 37",
+    "title_vi": "Tập 37",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Hey! (ओये).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Này!."
+      },
+      {
+        "hindi": "Later, you encounter a To sing (गाना​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Hát."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Hey!",
+        "isCorrect": true
+      },
+      {
+        "text": "To sing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Hey!.",
+    "simpleRule": "Remember: Hey! means ओये (Này!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hey!",
+    "transliteration": "",
+    "english": "ओये",
+    "vietnamese": "Này!",
+    "audio": "Hey!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "11",
+    "transliteration": "",
+    "english": "११",
+    "vietnamese": "Mười một",
+    "audio": "11"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Hey!'",
+    "prompt_en": "Choose correct translation for 'Hey!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Hey!'",
+    "text": "Hey!",
+    "subtext": "",
+    "answer": "ओये",
+    "answer_vi": "Này!",
+    "options": [
+      "ओये",
+      "गाना​​​​​​​​​​​​​​​​​​​​​",
+      "बर्फ़​​​​​​",
+      "११"
+    ],
+    "options_vi": [
+      "Này!",
+      "Hát",
+      "Tuyết / Đá",
+      "Mười một"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Hey!",
+        "english": "ओये (Này!)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "11",
+        "english": "११ (Mười một)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To sit.",
+    "simpleRule": "Remember: To sit means बैठना​​​​​​​​​​​​​​​​​​​ (Ngồi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Time",
+    "transliteration": "",
+    "english": "समय",
+    "vietnamese": "Thời gian",
+    "audio": "Time"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello (highly respectful)",
+    "transliteration": "",
+    "english": "नमस्ते जी",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "Hello (highly respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sit'",
+    "prompt_en": "Choose correct translation for 'To sit'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sit'",
+    "text": "To sit",
+    "subtext": "",
+    "answer": "बैठना​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngồi",
+    "options": [
+      "बैठना​​​​​​​​​​​​​​​​​​​",
+      "समय",
+      "नमस्ते जी",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngồi",
+      "Thời gian",
+      "Kính chào quý vị",
+      "Mở"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "Time",
+        "english": "समय (Thời gian)"
+      },
+      {
+        "hindi": "Hello (highly respectful)",
+        "english": "नमस्ते जी (Kính chào quý vị)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To take.",
+    "simpleRule": "Remember: To take means लेना​​​​​​​​​​ (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​​​​​​​​​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Path / Way",
+    "transliteration": "",
+    "english": "रास्ता​​​​​",
+    "vietnamese": "Đường đi",
+    "audio": "Path / Way"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To take'",
+    "prompt_en": "Choose correct translation for 'To take'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
+    "text": "To take",
+    "subtext": "",
+    "answer": "लेना​​​​​​​​​​",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "लेना​​​​​​​​​​",
+      "देखना​​​​​​​​​​​​​​",
+      "जूता​​​​​​​​​​​",
+      "रास्ता​​​​​"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Nhìn / Xem",
+      "Giày",
+      "Đường đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​​​​​​​​​​ (Giày)"
+      },
+      {
+        "hindi": "Path / Way",
+        "english": "रास्ता​​​​​ (Đường đi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Hey!",
+    "translation_en": "ओये",
+    "translation_vi": "Này!",
+    "options_en": [
+      "ओये",
+      "गाना​​​​​​​​​​​​​​​​​​​​​",
+      "बर्फ़​​​​​​",
+      "११"
+    ],
+    "options_vi": [
+      "Này!",
+      "Hát",
+      "Tuyết / Đá",
+      "Mười một"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the ओये / Tôi thấy Này!",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Hey!"
+    ],
+    "correctHindiSentence": "I see the Hey!"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To sing"
+    ],
+    "correctHindiSentence": "I want a To sing"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Hey! and Path / Way",
+      "Practiced constructing sentences."
+    ]
+  }
+]

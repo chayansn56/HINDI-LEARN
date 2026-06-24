@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 61",
+    "description": "Master the vocabulary and grammar for: Episode 61. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 61",
+    "title_vi": "Tập 61",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To sell (बेचना​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Bán."
+      },
+      {
+        "hindi": "Later, you encounter a To take (लेना​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Lấy / Nhận."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To sell",
+        "isCorrect": true
+      },
+      {
+        "text": "To take",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To sell.",
+    "simpleRule": "Remember: To sell means बेचना​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sell'",
+    "prompt_en": "Choose correct translation for 'To sell'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sell'",
+    "text": "To sell",
+    "subtext": "",
+    "answer": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Bán",
+    "options": [
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना",
+      "चलना​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bán",
+      "Lấy / Nhận",
+      "Nhìn / Xem",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To clean.",
+    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To clean'",
+    "prompt_en": "Choose correct translation for 'To clean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To clean'",
+    "text": "To clean",
+    "subtext": "",
+    "answer": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Dọn dẹp / Lau chùi",
+    "options": [
+      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना​",
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dọn dẹp / Lau chùi",
+      "Nhìn / Xem",
+      "Rửa / Giặt",
+      "Dọn dẹp / Lau chùi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To buy.",
+    "simpleRule": "Remember: To buy means खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "It was a great pleasure meeting you.",
+    "transliteration": "",
+    "english": "आपसे मिलकर बहुत खुशी हुई।",
+    "vietnamese": "Rất vui được gặp ngài.",
+    "audio": "It was a great pleasure meeting you."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To buy'",
+    "prompt_en": "Choose correct translation for 'To buy'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To buy'",
+    "text": "To buy",
+    "subtext": "",
+    "answer": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Mua",
+    "options": [
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना​​​",
+      "आपसे मिलकर बहुत खुशी हुई।",
+      "बैठना​​​​​​​"
+    ],
+    "options_vi": [
+      "Mua",
+      "Nhìn / Xem",
+      "Rất vui được gặp ngài.",
+      "Ngồi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "It was a great pleasure meeting you.",
+        "english": "आपसे मिलकर बहुत खुशी हुई। (Rất vui được gặp ngài.)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​ (Ngồi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To sell",
+    "translation_en": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Bán",
+    "options_en": [
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना",
+      "चलना​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bán",
+      "Lấy / Nhận",
+      "Nhìn / Xem",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बेचना​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Bán",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To sell"
+    ],
+    "correctHindiSentence": "I see the To sell"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a लेना​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Lấy / Nhận",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To take"
+    ],
+    "correctHindiSentence": "I want a To take"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To sell and To sit",
+      "Practiced constructing sentences."
+    ]
+  }
+]

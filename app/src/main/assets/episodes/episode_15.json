@@ -1,0 +1,140 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 15: Food - Sweet Delights",
+    "description": "Trải nghiệm thế giới đồ ngọt Ấn Độ! Học về các món tráng miệng nổi tiếng: Gulab Jamun, Jalebi và tính từ 'Ngọt'.",
+    "keyPoints": [
+      "मीठा (meetha): Ngọt",
+      "मिठाई (mithai): Đồ ngọt/Bánh kẹo",
+      "गुलाब जामुन (gulab jamun): Bánh sữa chiên",
+      "जलेबी (jalebi): Kẹo vòng"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Tính từ miêu tả hương vị đồ ăn",
+    "explanation": "Tính từ मीठा (meetha - ngọt) thay đổi theo giống của món ăn. Ví dụ: गुलाब जामुन मीठा है (Gulab Jamun ngọt - giống đực) nhưng जलेबी मीठी है (Jalebi ngọt - giống cái).",
+    "simpleRule": "मीठा (đực) / मीठी (cái) = Ngọt"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मीठा",
+    "transliteration": "meetha",
+    "english": "Sweet",
+    "vietnamese": "Ngọt",
+    "audio": "मीठा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिठाई",
+    "transliteration": "mithai",
+    "english": "Sweet/Dessert",
+    "vietnamese": "Đồ ngọt/Bánh kẹo",
+    "audio": "मिठाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गुलाब जामुन",
+    "transliteration": "gulab jamun",
+    "english": "Gulab Jamun",
+    "vietnamese": "Bánh sữa chiên nước đường",
+    "audio": "गुलाब जामुन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जलेबी",
+    "transliteration": "jalebi",
+    "english": "Jalebi",
+    "vietnamese": "Kẹo vòng chiên giòn",
+    "audio": "जलेबी"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "जलेबी",
+    "translation": "Jalebi / Kẹo vòng",
+    "contextSentenceHindi": "जelebi bahut meethi hai. / जलेबी बहुत मीठी है।",
+    "contextSentenceTranslation": "Jalebi is very sweet. / Jalebi rất ngọt.",
+    "memoryTrick": "Jalebi có hình xoắn ốc tròn, phát âm gần giống như 'Jelly' nhưng giòn và ngọt lịm!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "गुलाब जामुन",
+    "subtext": "gulab jamun",
+    "answer": "Gulab Jamun",
+    "answer_vi": "Bánh sữa chiên",
+    "options": [
+      "Gulab Jamun",
+      "Jalebi",
+      "Salty",
+      "Spicy"
+    ],
+    "options_vi": [
+      "Bánh sữa chiên",
+      "Kẹo vòng",
+      "Mặn",
+      "Cay"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मीठा",
+    "translation_en": "Sweet",
+    "options_en": [
+      "Sweet",
+      "Sour",
+      "Bitter",
+      "Spicy"
+    ],
+    "translation_vi": "Ngọt",
+    "options_vi": [
+      "Ngọt",
+      "Chua",
+      "Đắng",
+      "Cay"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'I like sweets.' / Dịch: 'Tôi thích đồ ngọt.'",
+    "hindiWords": [
+      "पसंद",
+      "मिठाई",
+      "मुझे",
+      "है"
+    ],
+    "correctHindiSentence": "मुझे मिठाई पसंद है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "मीठा",
+        "english": "Sweet (Ngọt)"
+      },
+      {
+        "hindi": "मिठाई",
+        "english": "Dessert (Đồ ngọt)"
+      },
+      {
+        "hindi": "गुलाब जामुन",
+        "english": "Gulab Jamun (Bánh sữa chiên)"
+      },
+      {
+        "hindi": "जलेबी",
+        "english": "Jalebi (Kẹo vòng)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Biết tên các món ngọt truyền thống Ấn Độ.",
+      "Học cách diễn tả vị ngọt bằng meetha/meethi phù hợp với giống danh từ.",
+      "Tự tin gọi món tráng miệng khi ăn đồ Ấn."
+    ]
+  }
+]

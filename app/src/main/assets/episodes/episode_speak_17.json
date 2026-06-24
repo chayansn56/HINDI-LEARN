@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 17",
+    "description": "Master the vocabulary and grammar for: Speak - Level 17. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: क्या आप अंग्रेज़ी बोलते हैं?.",
+    "simpleRule": "Remember: क्या आप अंग्रेज़ी बोलते हैं? means Do you speak English? (Bạn có nói tiếng Anh không?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या आप अंग्रेज़ी बोलते हैं?",
+    "transliteration": "kya aap angrezi bolte hain?",
+    "english": "Do you speak English?",
+    "vietnamese": "Bạn có nói tiếng Anh không?",
+    "audio": "क्या आप अंग्रेज़ी बोलते हैं?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फिर से कहिए।",
+    "transliteration": "phir se kahiye",
+    "english": "Please say it again.",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "फिर से कहिए।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'क्या आप अंग्रेज़ी बोलते हैं?'",
+    "prompt_en": "Choose correct translation for 'क्या आप अंग्रेज़ी बोलते हैं?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'क्या आप अंग्रेज़ी बोलते हैं?'",
+    "text": "क्या आप अंग्रेज़ी बोलते हैं?",
+    "subtext": "kya aap angrezi bolte hain?",
+    "answer": "Do you speak English?",
+    "answer_vi": "Bạn có nói tiếng Anh không?",
+    "options": [
+      "Do you speak English?",
+      "Please say it again.",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Bạn có nói tiếng Anh không?",
+      "Làm ơn nói lại lần nữa.",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "क्या आप अंग्रेज़ी बोलते हैं?",
+        "english": "Do you speak English? (Bạn có nói tiếng Anh không?)"
+      },
+      {
+        "hindi": "फिर से कहिए।",
+        "english": "Please say it again. (Làm ơn nói lại lần nữa.)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: जहाँ.",
+    "simpleRule": "Remember: जहाँ means Where (relative) (Nơi mà)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जहाँ",
+    "transliteration": "jahaan",
+    "english": "Where (relative)",
+    "vietnamese": "Nơi mà",
+    "audio": "जहाँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कब",
+    "transliteration": "kab",
+    "english": "When",
+    "vietnamese": "Khi nào",
+    "audio": "कब"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हवाबाज़ी",
+    "transliteration": "havabaazi",
+    "english": "Show-off / Bragging",
+    "vietnamese": "Sự khoe khoang",
+    "audio": "हवाबाज़ी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'जहाँ'",
+    "prompt_en": "Choose correct translation for 'जहाँ'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'जहाँ'",
+    "text": "जहाँ",
+    "subtext": "jahaan",
+    "answer": "Where (relative)",
+    "answer_vi": "Nơi mà",
+    "options": [
+      "Where (relative)",
+      "To speak",
+      "When",
+      "Show-off / Bragging"
+    ],
+    "options_vi": [
+      "Nơi mà",
+      "Nói",
+      "Khi nào",
+      "Sự khoe khoang"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "जहाँ",
+        "english": "Where (relative) (Nơi mà)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "कब",
+        "english": "When (Khi nào)"
+      },
+      {
+        "hindi": "हवाबाज़ी",
+        "english": "Show-off / Bragging (Sự khoe khoang)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "क्या आप अंग्रेज़ी बोलते हैं?",
+    "translation_en": "Do you speak English?",
+    "translation_vi": "Bạn có nói tiếng Anh không?",
+    "options_en": [
+      "Do you speak English?",
+      "Please say it again.",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Bạn có nói tiếng Anh không?",
+      "Làm ơn nói lại lần nữa.",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Do you speak English? / Đây là Bạn có nói tiếng Anh không?",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "क्या आप अंग्रेज़ी बोलते हैं?",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक क्या आप अंग्रेज़ी बोलते हैं? है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Please say it again. / Tôi thấy Làm ơn nói lại lần nữa.",
+    "hindiWords": [
+      "मैं",
+      "फिर से कहिए।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं फिर से कहिए। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: क्या आप अंग्रेज़ी बोलते हैं?, हवाबाज़ी",
+      "Practiced constructing sentences."
+    ]
+  }
+]

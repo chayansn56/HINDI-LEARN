@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Foundation Academy - Level 26",
-    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 26. Listen carefully and read along in English and Vietnamese.",
+    "title": "Colors & Nature",
+    "description": "Master the vocabulary and grammar for: Colors & Nature. Read the key points carefully.",
     "keyPoints": [
-      "सीखना​​​​​​​ (sīkhnā) = To learn / Học",
-      "बुखार (bukhaar) = Fever / Sốt",
-      "खिड़की (khiṛkī) = Window / Cửa sổ"
+      "Focus: Colors & Nature"
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Alphabet & Building Blocks - Part 26",
-    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: सीखना​​​​​​​ means 'To learn' (Học)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: चाँद.",
+    "simpleRule": "Remember: चाँद means Moon (Mặt trăng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​",
-    "transliteration": "sīkhnā",
-    "english": "To learn",
-    "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​"
+    "hindi": "चाँद",
+    "transliteration": "cā̃d",
+    "english": "Moon",
+    "vietnamese": "Mặt trăng",
+    "audio": "चाँद"
   },
   {
     "type": "Flashcard",
-    "hindi": "बुखार",
-    "transliteration": "bukhaar",
-    "english": "Fever",
-    "vietnamese": "Sốt",
-    "audio": "बुखार"
+    "hindi": "नफ़रत",
+    "transliteration": "nafrat",
+    "english": "Hatred",
+    "vietnamese": "Sự ghét bỏ / Căm thù",
+    "audio": "नफ़रत"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सूरज",
+    "transliteration": "sūraj",
+    "english": "Sun",
+    "vietnamese": "Mặt trời",
+    "audio": "सूरज"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गली",
+    "transliteration": "galī",
+    "english": "Lane / Street",
+    "vietnamese": "Con hẻm",
+    "audio": "गली"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सीखना​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'सीखना​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सीखना​​​​​​​'",
-    "text": "सीखना​​​​​​​",
-    "subtext": "sīkhnā",
-    "answer": "To learn",
-    "answer_vi": "Học",
+    "prompt": "Translate 'चाँद'",
+    "prompt_en": "Choose correct translation for 'चाँद'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'चाँद'",
+    "text": "चाँद",
+    "subtext": "cā̃d",
+    "answer": "Moon",
+    "answer_vi": "Mặt trăng",
     "options": [
-      "Window",
-      "Fever",
-      "To learn",
-      "To speak"
+      "Moon",
+      "Hatred",
+      "Sun",
+      "Lane / Street"
     ],
     "options_vi": [
-      "Cửa sổ",
-      "Sốt",
-      "Học",
-      "Nói"
+      "Mặt trăng",
+      "Sự ghét bỏ / Căm thù",
+      "Mặt trời",
+      "Con hẻm"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "खिड़की",
-    "transliteration": "khiṛkī",
-    "english": "Window",
-    "vietnamese": "Cửa sổ",
-    "audio": "खिड़की"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "चाँद",
+        "english": "Moon (Mặt trăng)"
+      },
+      {
+        "hindi": "नफ़रत",
+        "english": "Hatred (Sự ghét bỏ / Căm thù)"
+      },
+      {
+        "hindi": "सूरज",
+        "english": "Sun (Mặt trời)"
+      },
+      {
+        "hindi": "गली",
+        "english": "Lane / Street (Con hẻm)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पेड़.",
+    "simpleRule": "Remember: पेड़ means Tree (Cây)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​",
-    "transliteration": "bolnā",
-    "english": "To speak",
-    "vietnamese": "Nói",
-    "audio": "बोलना​​​​​"
+    "hindi": "पेड़",
+    "transliteration": "peṛ",
+    "english": "Tree",
+    "vietnamese": "Cây",
+    "audio": "पेड़"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हरा",
+    "transliteration": "hara",
+    "english": "Green",
+    "vietnamese": "Màu xanh lá",
+    "audio": "हरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लाल",
+    "transliteration": "laal",
+    "english": "Red",
+    "vietnamese": "Màu đỏ",
+    "audio": "लाल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पीला",
+    "transliteration": "peela",
+    "english": "Yellow",
+    "vietnamese": "Màu vàng",
+    "audio": "पीला"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पेड़'",
+    "prompt_en": "Choose correct translation for 'पेड़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पेड़'",
+    "text": "पेड़",
+    "subtext": "peṛ",
+    "answer": "Tree",
+    "answer_vi": "Cây",
+    "options": [
+      "Tree",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "options_vi": [
+      "Cây",
+      "Màu xanh lá",
+      "Màu đỏ",
+      "Màu vàng"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सीखना​​​​​​​",
-        "english": "To learn (Học)"
+        "hindi": "पेड़",
+        "english": "Tree (Cây)"
       },
       {
-        "hindi": "बुखार",
-        "english": "Fever (Sốt)"
+        "hindi": "हरा",
+        "english": "Green (Màu xanh lá)"
       },
       {
-        "hindi": "खिड़की",
-        "english": "Window (Cửa sổ)"
+        "hindi": "लाल",
+        "english": "Red (Màu đỏ)"
       },
       {
-        "hindi": "बोलना​​​​​",
-        "english": "To speak (Nói)"
+        "hindi": "पीला",
+        "english": "Yellow (Màu vàng)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बुखार",
-    "translation_en": "Fever",
-    "translation_vi": "Sốt",
+    "audio": "चाँद",
+    "translation_en": "Moon",
+    "translation_vi": "Mặt trăng",
     "options_en": [
-      "Fever",
-      "Window",
-      "To speak",
-      "To learn"
+      "Moon",
+      "Hatred",
+      "Sun",
+      "Lane / Street"
     ],
     "options_vi": [
-      "Sốt",
-      "Cửa sổ",
-      "Nói",
-      "Học"
+      "Mặt trăng",
+      "Sự ghét bỏ / Căm thù",
+      "Mặt trời",
+      "Con hẻm"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
-    "hindiWords": [
-      "लड़का",
-      "तेज़",
-      "दौड़ता",
-      "है",
-      "लड़की",
-      "धीमे"
-    ],
-    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "फ़ोन",
-    "transliteration": "phone",
-    "english": "Phone",
-    "vietnamese": "Điện thoại",
-    "audio": "फ़ोन"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​",
-    "transliteration": "bolnā",
-    "english": "To speak",
-    "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "खिड़की",
-        "english": "Window (Cửa sổ)"
-      },
-      {
-        "hindi": "बोलना​​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "फ़ोन",
-        "english": "Phone (Điện thoại)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​",
-        "english": "To speak (Nói)"
-      }
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "englishSentence": "I know Moon / Tôi biết Mặt trăng",
     "hindiWords": [
       "मैं",
-      "लड़का",
-      "हूँ",
-      "लड़की",
-      "है"
+      "चाँद",
+      "जानता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं लड़का हूँ"
+    "correctHindiSentence": "मैं चाँद जानता हूँ"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is Hatred? / Sự ghét bỏ / Căm thù ở đâu?",
+    "hindiWords": [
+      "नफ़रत",
+      "कहाँ",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "नफ़रत कहाँ है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: सीखना​​​​​​​, खिड़की, फ़ोन.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I am a boy'."
+      "You learned: चाँद, पीला",
+      "Practiced constructing sentences."
     ]
   }
 ]

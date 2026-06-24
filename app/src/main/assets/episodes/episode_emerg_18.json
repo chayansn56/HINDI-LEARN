@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 18",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: आग​​​​​​​​.",
+    "simpleRule": "Remember: आग​​​​​​​​ means Fire (Lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे मदद चाहिए।",
+    "transliteration": "mujhe madad chaahie",
+    "english": "I need help.",
+    "vietnamese": "Tôi cần giúp đỡ.",
+    "audio": "मुझे मदद चाहिए।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'आग​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'आग​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​​​​​​​'",
+    "text": "आग​​​​​​​​",
+    "subtext": "āg",
+    "answer": "Fire",
+    "answer_vi": "Lửa",
+    "options": [
+      "Fire",
+      "I need help.",
+      "Fire",
+      "Help"
+    ],
+    "options_vi": [
+      "Lửa",
+      "Tôi cần giúp đỡ.",
+      "Lửa",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "आग​​​​​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मुझे मदद चाहिए।",
+        "english": "I need help. (Tôi cần giúp đỡ.)"
+      },
+      {
+        "hindi": "आग",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मदद​​​",
+        "english": "Help (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: आग​​.",
+    "simpleRule": "Remember: आग​​ means Fire (Lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दवाई",
+    "transliteration": "dawai",
+    "english": "Medicine",
+    "vietnamese": "Thuốc",
+    "audio": "दवाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'आग​​'",
+    "prompt_en": "Choose correct translation for 'आग​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​'",
+    "text": "आग​​",
+    "subtext": "āg",
+    "answer": "Fire",
+    "answer_vi": "Lửa",
+    "options": [
+      "Fire",
+      "Help",
+      "Medicine",
+      "Help"
+    ],
+    "options_vi": [
+      "Lửa",
+      "Sự giúp đỡ",
+      "Thuốc",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "आग​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मदद​​​​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "दवाई",
+        "english": "Medicine (Thuốc)"
+      },
+      {
+        "hindi": "मदद​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "आग​​​​​​​​",
+    "translation_en": "Fire",
+    "translation_vi": "Lửa",
+    "options_en": [
+      "Fire",
+      "I need help.",
+      "Fire",
+      "Help"
+    ],
+    "options_vi": [
+      "Lửa",
+      "Tôi cần giúp đỡ.",
+      "Lửa",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Fire / Đây là Lửa",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "आग​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक आग​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see I need help. / Tôi thấy Tôi cần giúp đỡ.",
+    "hindiWords": [
+      "मैं",
+      "मुझे मदद चाहिए।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मुझे मदद चाहिए। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: आग​​​​​​​​, मदद​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

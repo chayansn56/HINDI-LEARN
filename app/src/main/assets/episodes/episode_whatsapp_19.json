@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Whatsapp - Level 19",
+    "description": "Master the vocabulary and grammar for: Whatsapp - Level 19. Read the key points carefully.",
+    "keyPoints": [
+      "Learn whatsapp concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: फ़ोन.",
+    "simpleRule": "Remember: फ़ोन means Phone (Điện thoại)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फ़ोन",
+    "transliteration": "phone",
+    "english": "Phone",
+    "vietnamese": "Điện thoại",
+    "audio": "फ़ोन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "संदेश",
+    "transliteration": "sandesh",
+    "english": "Message",
+    "vietnamese": "Tin nhắn",
+    "audio": "संदेश"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "यार",
+    "transliteration": "yaar",
+    "english": "Friend / Buddy",
+    "vietnamese": "Bạn ơi / Bạn bè",
+    "audio": "यार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोस्ती",
+    "transliteration": "dostī",
+    "english": "Friendship",
+    "vietnamese": "Tình bạn",
+    "audio": "दोस्ती"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़ोन'",
+    "prompt_en": "Choose correct translation for 'फ़ोन'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़ोन'",
+    "text": "फ़ोन",
+    "subtext": "phone",
+    "answer": "Phone",
+    "answer_vi": "Điện thoại",
+    "options": [
+      "Phone",
+      "Message",
+      "Friend / Buddy",
+      "Friendship"
+    ],
+    "options_vi": [
+      "Điện thoại",
+      "Tin nhắn",
+      "Bạn ơi / Bạn bè",
+      "Tình bạn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "फ़ोन",
+        "english": "Phone (Điện thoại)"
+      },
+      {
+        "hindi": "संदेश",
+        "english": "Message (Tin nhắn)"
+      },
+      {
+        "hindi": "यार",
+        "english": "Friend / Buddy (Bạn ơi / Bạn bè)"
+      },
+      {
+        "hindi": "दोस्ती",
+        "english": "Friendship (Tình bạn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: अरे यार!.",
+    "simpleRule": "Remember: अरे यार! means Oh friend! / Oh man! (Trời ơi bạn ơi!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अरे यार!",
+    "transliteration": "are yaar!",
+    "english": "Oh friend! / Oh man!",
+    "vietnamese": "Trời ơi bạn ơi!",
+    "audio": "अरे यार!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ग्रुप",
+    "transliteration": "group",
+    "english": "Group",
+    "vietnamese": "Nhóm",
+    "audio": "ग्रुप"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मित्र",
+    "transliteration": "mitra",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "मित्र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोस्त",
+    "transliteration": "dost",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "दोस्त"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'अरे यार!'",
+    "prompt_en": "Choose correct translation for 'अरे यार!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'अरे यार!'",
+    "text": "अरे यार!",
+    "subtext": "are yaar!",
+    "answer": "Oh friend! / Oh man!",
+    "answer_vi": "Trời ơi bạn ơi!",
+    "options": [
+      "Oh friend! / Oh man!",
+      "Group",
+      "Friend",
+      "Friend"
+    ],
+    "options_vi": [
+      "Trời ơi bạn ơi!",
+      "Nhóm",
+      "Bạn bè",
+      "Bạn bè"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "अरे यार!",
+        "english": "Oh friend! / Oh man! (Trời ơi bạn ơi!)"
+      },
+      {
+        "hindi": "ग्रुप",
+        "english": "Group (Nhóm)"
+      },
+      {
+        "hindi": "मित्र",
+        "english": "Friend (Bạn bè)"
+      },
+      {
+        "hindi": "दोस्त",
+        "english": "Friend (Bạn bè)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "फ़ोन",
+    "translation_en": "Phone",
+    "translation_vi": "Điện thoại",
+    "options_en": [
+      "Phone",
+      "Message",
+      "Friend / Buddy",
+      "Friendship"
+    ],
+    "options_vi": [
+      "Điện thoại",
+      "Tin nhắn",
+      "Bạn ơi / Bạn bè",
+      "Tình bạn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Phone / Đây là Điện thoại",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "फ़ोन",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक फ़ोन है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Message / Tôi thấy Tin nhắn",
+    "hindiWords": [
+      "मैं",
+      "संदेश",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं संदेश देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: फ़ोन, दोस्त",
+      "Practiced constructing sentences."
+    ]
+  }
+]

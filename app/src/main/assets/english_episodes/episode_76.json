@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 76",
+    "description": "Master the vocabulary and grammar for: Episode 76. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 76",
+    "title_vi": "Tập 76",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To laugh (हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Cười lớn."
+      },
+      {
+        "hindi": "Later, you encounter a Question (प्रश्न).",
+        "translation": "Sau đó, bạn gặp một Câu hỏi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To laugh",
+        "isCorrect": true
+      },
+      {
+        "text": "Question",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To laugh.",
+    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Question",
+    "transliteration": "",
+    "english": "प्रश्न",
+    "vietnamese": "Câu hỏi",
+    "audio": "Question"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To laugh'",
+    "prompt_en": "Choose correct translation for 'To laugh'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
+    "text": "To laugh",
+    "subtext": "",
+    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "प्रश्न",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मिट्टी​​​"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Câu hỏi",
+      "Mua",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "Question",
+        "english": "प्रश्न (Câu hỏi)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​ (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Sea / Ocean.",
+    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​​​ (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "From this / it (near)",
+    "transliteration": "",
+    "english": "इससे",
+    "vietnamese": "Từ cái này",
+    "audio": "From this / it (near)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sea / Ocean'",
+    "prompt_en": "Choose correct translation for 'Sea / Ocean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
+    "text": "Sea / Ocean",
+    "subtext": "",
+    "answer": "समुद्र​​​​​",
+    "answer_vi": "Biển",
+    "options": [
+      "समुद्र​​​​​",
+      "समुद्र​​​​​​​​​​",
+      "मदद​​​​",
+      "इससे"
+    ],
+    "options_vi": [
+      "Biển",
+      "Biển",
+      "Sự giúp đỡ",
+      "Từ cái này"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​ (Biển)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​​​​​​ (Biển)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "From this / it (near)",
+        "english": "इससे (Từ cái này)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: are.",
+    "simpleRule": "Remember: are means हो (Là (bạn))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "are",
+    "transliteration": "",
+    "english": "हो",
+    "vietnamese": "Là (bạn)",
+    "audio": "are"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Service",
+    "transliteration": "",
+    "english": "सेवा",
+    "vietnamese": "Dịch vụ",
+    "audio": "Service"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'are'",
+    "prompt_en": "Choose correct translation for 'are'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'are'",
+    "text": "are",
+    "subtext": "",
+    "answer": "हो",
+    "answer_vi": "Là (bạn)",
+    "options": [
+      "हो",
+      "सीखना​​​​​​​​",
+      "धोना​​​​​",
+      "सेवा"
+    ],
+    "options_vi": [
+      "Là (bạn)",
+      "Học",
+      "Rửa / Giặt",
+      "Dịch vụ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "are",
+        "english": "हो (Là (bạn))"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "Service",
+        "english": "सेवा (Dịch vụ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To laugh",
+    "translation_en": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Cười lớn",
+    "options_en": [
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "प्रश्न",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मिट्टी​​​"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Câu hỏi",
+      "Mua",
+      "Đất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Cười lớn",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To laugh"
+    ],
+    "correctHindiSentence": "I see the To laugh"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a प्रश्न / Tôi muốn Câu hỏi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Question"
+    ],
+    "correctHindiSentence": "I want a Question"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To laugh and Service",
+      "Practiced constructing sentences."
+    ]
+  }
+]

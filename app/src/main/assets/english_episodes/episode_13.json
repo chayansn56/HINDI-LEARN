@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 13",
+    "description": "Master the vocabulary and grammar for: Episode 13. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 13",
+    "title_vi": "Tập 13",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To run (दौड़ना​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chạy."
+      },
+      {
+        "hindi": "Later, you encounter a To take (लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Lấy / Nhận."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To run",
+        "isCorrect": true
+      },
+      {
+        "text": "To take",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To run.",
+    "simpleRule": "Remember: To run means दौड़ना​​​ (Chạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cool / Awesome",
+    "transliteration": "",
+    "english": "मस्त",
+    "vietnamese": "Tuyệt vời / Đỉnh",
+    "audio": "Cool / Awesome"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To run'",
+    "prompt_en": "Choose correct translation for 'To run'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
+    "text": "To run",
+    "subtext": "",
+    "answer": "दौड़ना​​​",
+    "answer_vi": "Chạy",
+    "options": [
+      "दौड़ना​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मस्त"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Lấy / Nhận",
+      "Làm việc",
+      "Tuyệt vời / Đỉnh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​ (Chạy)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "Cool / Awesome",
+        "english": "मस्त (Tuyệt vời / Đỉnh)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To walk / move.",
+    "simpleRule": "Remember: To walk / move means चलना​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "is",
+    "transliteration": "",
+    "english": "है",
+    "vietnamese": "Là (số ít)",
+    "audio": "is"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To walk / move'",
+    "prompt_en": "Choose correct translation for 'To walk / move'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
+    "text": "To walk / move",
+    "subtext": "",
+    "answer": "चलना​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đi bộ / Di chuyển",
+    "options": [
+      "चलना​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सफ़र​​​​​​​​​​",
+      "है"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Chạy",
+      "Chuyến đi",
+      "Là (số ít)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "is",
+        "english": "है (Là (số ít))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To wash.",
+    "simpleRule": "Remember: To wash means धोना​ (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wash'",
+    "prompt_en": "Choose correct translation for 'To wash'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
+    "text": "To wash",
+    "subtext": "",
+    "answer": "धोना​",
+    "answer_vi": "Rửa / Giặt",
+    "options": [
+      "धोना​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "गाना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Khóc",
+      "Cười lớn",
+      "Hát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wash",
+        "english": "धोना​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​ (Hát)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To run",
+    "translation_en": "दौड़ना​​​",
+    "translation_vi": "Chạy",
+    "options_en": [
+      "दौड़ना​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मस्त"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Lấy / Nhận",
+      "Làm việc",
+      "Tuyệt vời / Đỉnh"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the दौड़ना​​​ / Tôi thấy Chạy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To run"
+    ],
+    "correctHindiSentence": "I see the To run"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Lấy / Nhận",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To take"
+    ],
+    "correctHindiSentence": "I want a To take"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To run and To sing",
+      "Practiced constructing sentences."
+    ]
+  }
+]

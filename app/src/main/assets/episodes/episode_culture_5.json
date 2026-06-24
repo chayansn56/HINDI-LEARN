@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Culture - Lesson 5",
-    "description": "Learn key vocabulary and concepts for Culture - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "title": "Culture - Level 5",
+    "description": "Master the vocabulary and grammar for: Culture - Level 5. Read the key points carefully.",
     "keyPoints": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (likhnā) = To write / Viết",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (ronā) = To cry / Khóc",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (dauṛnā) = To run / Chạy"
+      "Learn culture concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 5",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To write' (Viết)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मंदिर.",
+    "simpleRule": "Remember: मंदिर means Temple (Đền thờ)."
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "likhnā",
-    "english": "To write",
-    "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "मंदिर",
+    "transliteration": "mandir",
+    "english": "Temple",
+    "vietnamese": "Đền thờ",
+    "audio": "मंदिर"
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साझेदारी",
+    "transliteration": "sājhedārī",
+    "english": "Partnership",
+    "vietnamese": "Quan hệ đối tác",
+    "audio": "साझेदारी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जूठा",
+    "transliteration": "jūṭhā",
+    "english": "Defiled food",
+    "vietnamese": "Thức ăn thừa / Ô uế",
+    "audio": "जूठा"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "likhnā",
-    "answer": "To write",
-    "answer_vi": "Viết",
+    "prompt": "Translate 'मंदिर'",
+    "prompt_en": "Choose correct translation for 'मंदिर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मंदिर'",
+    "text": "मंदिर",
+    "subtext": "mandir",
+    "answer": "Temple",
+    "answer_vi": "Đền thờ",
     "options": [
-      "To cry",
-      "To run",
-      "To buy",
-      "To write"
+      "Temple",
+      "Dance, my love",
+      "Partnership",
+      "Defiled food"
     ],
     "options_vi": [
-      "Khóc",
-      "Chạy",
-      "Mua",
-      "Viết"
+      "Đền thờ",
+      "Nhảy đi tình yêu của tôi",
+      "Quan hệ đối tác",
+      "Thức ăn thừa / Ô uế"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "dauṛnā",
-    "english": "To run",
-    "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मंदिर",
+        "english": "Temple (Đền thờ)"
+      },
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "साझेदारी",
+        "english": "Partnership (Quan hệ đối tác)"
+      },
+      {
+        "hindi": "जूठा",
+        "english": "Defiled food (Thức ăn thừa / Ô uế)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मिट्टी​​​​.",
+    "simpleRule": "Remember: मिट्टी​​​​ means Soil / Earth (Đất)."
   },
   {
     "type": "Flashcard",
-    "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kharīdnā",
-    "english": "To buy",
-    "vietnamese": "Mua",
-    "audio": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "मिट्टी​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धर्म",
+    "transliteration": "dharma",
+    "english": "Religion / Duty",
+    "vietnamese": "Tôn giáo / Bổn phận",
+    "audio": "धर्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मिट्टी​​​​'",
+    "prompt_en": "Choose correct translation for 'मिट्टी​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​​​'",
+    "text": "मिट्टी​​​​",
+    "subtext": "miṭṭī",
+    "answer": "Soil / Earth",
+    "answer_vi": "Đất",
+    "options": [
+      "Soil / Earth",
+      "Religion / Duty",
+      "Soil / Earth",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Đất",
+      "Tôn giáo / Bổn phận",
+      "Đất",
+      "Đất"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To write (Viết)"
+        "hindi": "मिट्टी​​​​",
+        "english": "Soil / Earth (Đất)"
       },
       {
-        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To cry (Khóc)"
+        "hindi": "धर्म",
+        "english": "Religion / Duty (Tôn giáo / Bổn phận)"
       },
       {
-        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To run (Chạy)"
+        "hindi": "मिट्टी​​​​​​",
+        "english": "Soil / Earth (Đất)"
       },
       {
-        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To buy (Mua)"
+        "hindi": "मिट्टी​​​​​​​​",
+        "english": "Soil / Earth (Đất)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To cry",
-    "translation_vi": "Khóc",
+    "audio": "मंदिर",
+    "translation_en": "Temple",
+    "translation_vi": "Đền thờ",
     "options_en": [
-      "To write",
-      "To cry",
-      "To run",
-      "To buy"
+      "Temple",
+      "Dance, my love",
+      "Partnership",
+      "Defiled food"
     ],
     "options_vi": [
-      "Viết",
-      "Khóc",
-      "Chạy",
-      "Mua"
+      "Đền thờ",
+      "Nhảy đi tình yêu của tôi",
+      "Quan hệ đối tác",
+      "Thức ăn thừa / Ô uế"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "englishSentence": "This is a Temple / Đây là Đền thờ",
     "hindiWords": [
-      "आज",
-      "दिवाली",
-      "है",
-      "होली",
-      "ईद"
+      "यह",
+      "एक",
+      "मंदिर",
+      "है"
     ],
-    "correctHindiSentence": "आज दिवाली है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "धोना​​​​​​​​​​​​​​",
-    "transliteration": "dhonā",
-    "english": "To wash",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "धोना​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "denā",
-    "english": "To give",
-    "vietnamese": "Cho / Tặng",
-    "audio": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To run (Chạy)"
-      },
-      {
-        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To buy (Mua)"
-      },
-      {
-        "hindi": "धोना​​​​​​​​​​​​​​",
-        "english": "To wash (Rửa / Giặt)"
-      },
-      {
-        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To give (Cho / Tặng)"
-      }
-    ]
+    "correctHindiSentence": "यह एक मंदिर है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I go to the temple / Tôi đi đến đền thờ",
+    "englishSentence": "I see Dance, my love / Tôi thấy Nhảy đi tình yêu của tôi",
     "hindiWords": [
       "मैं",
-      "मंदिर",
-      "जाता",
-      "हूँ",
-      "घर",
-      "बाज़ार"
+      "नच बलिए",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं मंदिर जाता हूँ"
+    "correctHindiSentence": "मैं नच बलिए देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, धोना​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I go to the temple'."
+      "You learned: मंदिर, मिट्टी​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

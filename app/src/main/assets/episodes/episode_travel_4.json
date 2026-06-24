@@ -1,126 +1,17 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 4",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 4. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 4",
+    "description": "Master the vocabulary and grammar for: Travel - Level 4. Read the key points carefully.",
     "keyPoints": [
-      "बंद करना​​​​​​​​​​​​​​​​ (band karnā) = To close / Đóng",
-      "सीखना​​​​​​​​​​​​​​​​​​​ (sīkhnā) = To learn / Học",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​ (bolnā) = To speak / Nói"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 4",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बंद करना​​​​​​​​​​​​​​​​ means 'To close' (Đóng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बंद करना​​​​​​​​​​​​​​​​",
-    "transliteration": "band karnā",
-    "english": "To close",
-    "vietnamese": "Đóng",
-    "audio": "बंद करना​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sīkhnā",
-    "english": "To learn",
-    "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'बंद करना​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'बंद करना​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बंद करना​​​​​​​​​​​​​​​​'",
-    "text": "बंद करना​​​​​​​​​​​​​​​​",
-    "subtext": "band karnā",
-    "answer": "To close",
-    "answer_vi": "Đóng",
-    "options": [
-      "To make / build",
-      "To learn",
-      "To close",
-      "To speak"
-    ],
-    "options_vi": [
-      "Chế tạo / Tạo ra",
-      "Học",
-      "Đóng",
-      "Nói"
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "bolnā",
-    "english": "To speak",
-    "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​​​",
-    "transliteration": "banānā",
-    "english": "To make / build",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
-    "pairs": [
-      {
-        "hindi": "बंद करना​​​​​​​​​​​​​​​​",
-        "english": "To close (Đóng)"
-      },
-      {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​",
-        "english": "To learn (Học)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To learn",
-    "translation_vi": "Học",
-    "options_en": [
-      "To learn",
-      "To speak",
-      "To make / build",
-      "To close"
-    ],
-    "options_vi": [
-      "Học",
-      "Nói",
-      "Chế tạo / Tạo ra",
-      "Đóng"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
-    "hindiWords": [
-      "कृपया",
-      "दाम",
-      "कम",
-      "करो",
-      "ज्यादा",
-      "पैसे"
-    ],
-    "correctHindiSentence": "कृपया दाम कम करो"
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: शौचालय.",
+    "simpleRule": "Remember: शौचालय means Restroom / Toilet (Nhà vệ sinh)."
   },
   {
     "type": "Flashcard",
@@ -132,53 +23,200 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "dauṛnā",
-    "english": "To run",
-    "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "तगड़ा",
+    "transliteration": "tagda",
+    "english": "Strong / Robust / Awesome",
+    "vietnamese": "Mạnh mẽ / Tuyệt vời",
+    "audio": "तगड़ा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व्यापार",
+    "transliteration": "vyaapaar",
+    "english": "Business / Trade",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "व्यापार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रेलवे स्टेशन",
+    "transliteration": "railway station",
+    "english": "Train station",
+    "vietnamese": "Ga tàu hỏa",
+    "audio": "रेलवे स्टेशन"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'शौचालय'",
+    "prompt_en": "Choose correct translation for 'शौचालय'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'शौचालय'",
+    "text": "शौचालय",
+    "subtext": "shauchaalay",
+    "answer": "Restroom / Toilet",
+    "answer_vi": "Nhà vệ sinh",
+    "options": [
+      "Restroom / Toilet",
+      "Strong / Robust / Awesome",
+      "Business / Trade",
+      "Train station"
+    ],
+    "options_vi": [
+      "Nhà vệ sinh",
+      "Mạnh mẽ / Tuyệt vời",
+      "Kinh doanh / Thương mại",
+      "Ga tàu hỏa"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
-      },
       {
         "hindi": "शौचालय",
         "english": "Restroom / Toilet (Nhà vệ sinh)"
       },
       {
-        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To run (Chạy)"
+        "hindi": "तगड़ा",
+        "english": "Strong / Robust / Awesome (Mạnh mẽ / Tuyệt vời)"
+      },
+      {
+        "hindi": "व्यापार",
+        "english": "Business / Trade (Kinh doanh / Thương mại)"
+      },
+      {
+        "hindi": "रेलवे स्टेशन",
+        "english": "Train station (Ga tàu hỏa)"
       }
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
-    "hindiWords": [
-      "होटल",
-      "कहाँ",
-      "है",
-      "स्टेशन",
-      "में"
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: गाड़ी.",
+    "simpleRule": "Remember: गाड़ी means Car / Train / Cart (Xe hơi / Xe lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दुल्हा",
+    "transliteration": "dulha",
+    "english": "Groom",
+    "vietnamese": "Chú rể",
+    "audio": "दुल्हा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'गाड़ी'",
+    "prompt_en": "Choose correct translation for 'गाड़ी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गाड़ी'",
+    "text": "गाड़ी",
+    "subtext": "gāṛī",
+    "answer": "Car / Train / Cart",
+    "answer_vi": "Xe hơi / Xe lửa",
+    "options": [
+      "Car / Train / Cart",
+      "Groom",
+      "Journey",
+      "Journey"
     ],
-    "correctHindiSentence": "होटल कहाँ है"
+    "options_vi": [
+      "Xe hơi / Xe lửa",
+      "Chú rể",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "दुल्हा",
+        "english": "Groom (Chú rể)"
+      },
+      {
+        "hindi": "सफ़र",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "शौचालय",
+    "translation_en": "Restroom / Toilet",
+    "translation_vi": "Nhà vệ sinh",
+    "options_en": [
+      "Restroom / Toilet",
+      "Strong / Robust / Awesome",
+      "Business / Trade",
+      "Train station"
+    ],
+    "options_vi": [
+      "Nhà vệ sinh",
+      "Mạnh mẽ / Tuyệt vời",
+      "Kinh doanh / Thương mại",
+      "Ga tàu hỏa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Restroom / Toilet / Đây là Nhà vệ sinh",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "शौचालय",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक शौचालय है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Strong / Robust / Awesome / Tôi thấy Mạnh mẽ / Tuyệt vời",
+    "hindiWords": [
+      "मैं",
+      "तगड़ा",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं तगड़ा देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बंद करना​​​​​​​​​​​​​​​​, बोलना​​​​​​​​​​​​​​​​​​​​​, शौचालय.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Where is the hotel?'."
+      "You learned: शौचालय, सफ़र​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

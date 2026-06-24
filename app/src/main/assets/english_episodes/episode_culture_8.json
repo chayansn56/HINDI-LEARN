@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Level 8",
+    "description": "Master the vocabulary and grammar for: Culture - Level 8. Read the key points carefully.",
+    "keyPoints": [
+      "Learn culture concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Agentive particle.",
+    "simpleRule": "Remember: Agentive particle means ने (Hậu giới từ chỉ tác nhân)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Agentive particle",
+    "transliteration": "",
+    "english": "ने",
+    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "audio": "Agentive particle"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Heart",
+    "transliteration": "",
+    "english": "दिल",
+    "vietnamese": "Trái tim",
+    "audio": "Heart"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dance, my love",
+    "transliteration": "",
+    "english": "नच बलिए",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "Dance, my love"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Agentive particle'",
+    "prompt_en": "Choose correct translation for 'Agentive particle'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Agentive particle'",
+    "text": "Agentive particle",
+    "subtext": "",
+    "answer": "ने",
+    "answer_vi": "Hậu giới từ chỉ tác nhân",
+    "options": [
+      "ने",
+      "दिल",
+      "मिट्टी​​​​​​​​​",
+      "नच बलिए"
+    ],
+    "options_vi": [
+      "Hậu giới từ chỉ tác nhân",
+      "Trái tim",
+      "Đất",
+      "Nhảy đi tình yêu của tôi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Agentive particle",
+        "english": "ने (Hậu giới từ chỉ tác nhân)"
+      },
+      {
+        "hindi": "Heart",
+        "english": "दिल (Trái tim)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​​​​​ (Đất)"
+      },
+      {
+        "hindi": "Dance, my love",
+        "english": "नच बलिए (Nhảy đi tình yêu của tôi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Drinking water.",
+    "simpleRule": "Remember: Drinking water means पीने का पानी (Nước uống)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Drinking water",
+    "transliteration": "",
+    "english": "पीने का पानी",
+    "vietnamese": "Nước uống",
+    "audio": "Drinking water"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To eat / Food",
+    "transliteration": "",
+    "english": "खाना",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "To eat / Food"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Drinking water'",
+    "prompt_en": "Choose correct translation for 'Drinking water'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Drinking water'",
+    "text": "Drinking water",
+    "subtext": "",
+    "answer": "पीने का पानी",
+    "answer_vi": "Nước uống",
+    "options": [
+      "पीने का पानी",
+      "मिट्टी​",
+      "खाना",
+      "मिट्टी​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nước uống",
+      "Đất",
+      "Ăn / Đồ ăn",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Drinking water",
+        "english": "पीने का पानी (Nước uống)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​ (Đất)"
+      },
+      {
+        "hindi": "To eat / Food",
+        "english": "खाना (Ăn / Đồ ăn)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​​​​ (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Partnership.",
+    "simpleRule": "Remember: Partnership means साझेदारी (Quan hệ đối tác)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Partnership",
+    "transliteration": "",
+    "english": "साझेदारी",
+    "vietnamese": "Quan hệ đối tác",
+    "audio": "Partnership"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dance",
+    "transliteration": "",
+    "english": "नृत्य",
+    "vietnamese": "Điệu nhảy",
+    "audio": "Dance"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Partnership'",
+    "prompt_en": "Choose correct translation for 'Partnership'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Partnership'",
+    "text": "Partnership",
+    "subtext": "",
+    "answer": "साझेदारी",
+    "answer_vi": "Quan hệ đối tác",
+    "options": [
+      "साझेदारी",
+      "मिट्टी​​​​",
+      "नृत्य",
+      "मिट्टी​​"
+    ],
+    "options_vi": [
+      "Quan hệ đối tác",
+      "Đất",
+      "Điệu nhảy",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Partnership",
+        "english": "साझेदारी (Quan hệ đối tác)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​ (Đất)"
+      },
+      {
+        "hindi": "Dance",
+        "english": "नृत्य (Điệu nhảy)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​ (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Defiled food.",
+    "simpleRule": "Remember: Defiled food means जूठा (Thức ăn thừa / Ô uế)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Defiled food",
+    "transliteration": "",
+    "english": "जूठा",
+    "vietnamese": "Thức ăn thừa / Ô uế",
+    "audio": "Defiled food"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Car / Train / Cart",
+    "transliteration": "",
+    "english": "गाड़ी",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "Car / Train / Cart"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Client / Customer",
+    "transliteration": "",
+    "english": "ग्राहक",
+    "vietnamese": "Khách hàng",
+    "audio": "Client / Customer"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Defiled food'",
+    "prompt_en": "Choose correct translation for 'Defiled food'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Defiled food'",
+    "text": "Defiled food",
+    "subtext": "",
+    "answer": "जूठा",
+    "answer_vi": "Thức ăn thừa / Ô uế",
+    "options": [
+      "जूठा",
+      "मिट्टी​​​​​",
+      "गाड़ी",
+      "ग्राहक"
+    ],
+    "options_vi": [
+      "Thức ăn thừa / Ô uế",
+      "Đất",
+      "Xe hơi / Xe lửa",
+      "Khách hàng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Defiled food",
+        "english": "जूठा (Thức ăn thừa / Ô uế)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​ (Đất)"
+      },
+      {
+        "hindi": "Car / Train / Cart",
+        "english": "गाड़ी (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "Client / Customer",
+        "english": "ग्राहक (Khách hàng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Agentive particle",
+    "translation_en": "ने",
+    "translation_vi": "Hậu giới từ chỉ tác nhân",
+    "options_en": [
+      "ने",
+      "दिल",
+      "मिट्टी​​​​​​​​​",
+      "नच बलिए"
+    ],
+    "options_vi": [
+      "Hậu giới từ chỉ tác nhân",
+      "Trái tim",
+      "Đất",
+      "Nhảy đi tình yêu của tôi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a ने / Nó là một Hậu giới từ chỉ tác nhân",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Agentive particle"
+    ],
+    "correctHindiSentence": "It is a Agentive particle"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like दिल / Tôi thích Trái tim",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Heart"
+    ],
+    "correctHindiSentence": "I really like Heart"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Agentive particle and Client / Customer",
+      "Practiced constructing sentences."
+    ]
+  }
+]

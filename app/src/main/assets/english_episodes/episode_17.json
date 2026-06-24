@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 17",
+    "description": "Master the vocabulary and grammar for: Episode 17. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 17",
+    "title_vi": "Tập 17",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To wake up (जागना​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Thức dậy."
+      },
+      {
+        "hindi": "Later, you encounter a Dream (सपना).",
+        "translation": "Sau đó, bạn gặp một Giấc mơ."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To wake up",
+        "isCorrect": true
+      },
+      {
+        "text": "Dream",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dream",
+    "transliteration": "",
+    "english": "सपना",
+    "vietnamese": "Giấc mơ",
+    "audio": "Dream"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Crazy (in love - masc)",
+    "transliteration": "",
+    "english": "दीवाना",
+    "vietnamese": "Kẻ điên tình (nam)",
+    "audio": "Crazy (in love - masc)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​",
+      "सपना",
+      "बेचना",
+      "दीवाना"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Giấc mơ",
+      "Bán",
+      "Kẻ điên tình (nam)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "Dream",
+        "english": "सपना (Giấc mơ)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना (Bán)"
+      },
+      {
+        "hindi": "Crazy (in love - masc)",
+        "english": "दीवाना (Kẻ điên tình (nam))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To see / watch.",
+    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​ (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vermilion",
+    "transliteration": "",
+    "english": "सिंदूर",
+    "vietnamese": "Bột đỏ son",
+    "audio": "Vermilion"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hospital",
+    "transliteration": "",
+    "english": "अस्पताल",
+    "vietnamese": "Bệnh viện",
+    "audio": "Hospital"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To see / watch'",
+    "prompt_en": "Choose correct translation for 'To see / watch'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
+    "text": "To see / watch",
+    "subtext": "",
+    "answer": "देखना​​​​​​​​​​​​​",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "देखना​​​​​​​​​​​​​",
+      "सिंदूर",
+      "अस्पताल",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Bột đỏ son",
+      "Bệnh viện",
+      "Kể / Giải thích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "Vermilion",
+        "english": "सिंदूर (Bột đỏ son)"
+      },
+      {
+        "hindi": "Hospital",
+        "english": "अस्पताल (Bệnh viện)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Picture / Photo.",
+    "simpleRule": "Remember: Picture / Photo means तस्वीर (Bức ảnh)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Picture / Photo",
+    "transliteration": "",
+    "english": "तस्वीर",
+    "vietnamese": "Bức ảnh",
+    "audio": "Picture / Photo"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Picture / Photo'",
+    "prompt_en": "Choose correct translation for 'Picture / Photo'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Picture / Photo'",
+    "text": "Picture / Photo",
+    "subtext": "",
+    "answer": "तस्वीर",
+    "answer_vi": "Bức ảnh",
+    "options": [
+      "तस्वीर",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+      "खेलना​​",
+      "धोना​"
+    ],
+    "options_vi": [
+      "Bức ảnh",
+      "Chạy",
+      "Chơi",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Picture / Photo",
+        "english": "तस्वीर (Bức ảnh)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​ (Chơi)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​ (Rửa / Giặt)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To wake up",
+    "translation_en": "जागना​​​​​​​​",
+    "translation_vi": "Thức dậy",
+    "options_en": [
+      "जागना​​​​​​​​",
+      "सपना",
+      "बेचना",
+      "दीवाना"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Giấc mơ",
+      "Bán",
+      "Kẻ điên tình (nam)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the जागना​​​​​​​​ / Tôi thấy Thức dậy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To wake up"
+    ],
+    "correctHindiSentence": "I see the To wake up"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सपना / Tôi muốn Giấc mơ",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Dream"
+    ],
+    "correctHindiSentence": "I want a Dream"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To wake up and To wash",
+      "Practiced constructing sentences."
+    ]
+  }
+]

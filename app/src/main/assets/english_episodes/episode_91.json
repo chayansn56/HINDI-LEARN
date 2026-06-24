@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 91",
+    "description": "Master the vocabulary and grammar for: Episode 91. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 91",
+    "title_vi": "Tập 91",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Account (खाता).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Tài khoản."
+      },
+      {
+        "hindi": "Later, you encounter a To walk / move (चलना​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Đi bộ / Di chuyển."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Account",
+        "isCorrect": true
+      },
+      {
+        "text": "To walk / move",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Account.",
+    "simpleRule": "Remember: Account means खाता (Tài khoản)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Account",
+    "transliteration": "",
+    "english": "खाता",
+    "vietnamese": "Tài khoản",
+    "audio": "Account"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "It is impossible.",
+    "transliteration": "",
+    "english": "यह नामुमकिन है।",
+    "vietnamese": "Không thể nào.",
+    "audio": "It is impossible."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Account'",
+    "prompt_en": "Choose correct translation for 'Account'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Account'",
+    "text": "Account",
+    "subtext": "",
+    "answer": "खाता",
+    "answer_vi": "Tài khoản",
+    "options": [
+      "खाता",
+      "चलना​​​​​​​​​​​​​​​​​​​",
+      "यह नामुमकिन है।",
+      "देना​​​​​​"
+    ],
+    "options_vi": [
+      "Tài khoản",
+      "Đi bộ / Di chuyển",
+      "Không thể nào.",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Account",
+        "english": "खाता (Tài khoản)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "It is impossible.",
+        "english": "यह नामुमकिन है। (Không thể nào.)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​ (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To wash.",
+    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wash'",
+    "prompt_en": "Choose correct translation for 'To wash'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
+    "text": "To wash",
+    "subtext": "",
+    "answer": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Rửa / Giặt",
+    "options": [
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Nghe",
+      "Ngủ",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: It is possible..",
+    "simpleRule": "Remember: It is possible. means यह मुमकिन है। (Có khả năng đó.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "It is possible.",
+    "transliteration": "",
+    "english": "यह मुमकिन है।",
+    "vietnamese": "Có khả năng đó.",
+    "audio": "It is possible."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "90",
+    "transliteration": "",
+    "english": "९०",
+    "vietnamese": "Chín mươi",
+    "audio": "90"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'It is possible.'",
+    "prompt_en": "Choose correct translation for 'It is possible.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'It is possible.'",
+    "text": "It is possible.",
+    "subtext": "",
+    "answer": "यह मुमकिन है।",
+    "answer_vi": "Có khả năng đó.",
+    "options": [
+      "यह मुमकिन है।",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​​​​​",
+      "९०"
+    ],
+    "options_vi": [
+      "Có khả năng đó.",
+      "Dạy",
+      "Dọn dẹp / Lau chùi",
+      "Chín mươi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "It is possible.",
+        "english": "यह मुमकिन है। (Có khả năng đó.)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "90",
+        "english": "९० (Chín mươi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Account",
+    "translation_en": "खाता",
+    "translation_vi": "Tài khoản",
+    "options_en": [
+      "खाता",
+      "चलना​​​​​​​​​​​​​​​​​​​",
+      "यह नामुमकिन है।",
+      "देना​​​​​​"
+    ],
+    "options_vi": [
+      "Tài khoản",
+      "Đi bộ / Di chuyển",
+      "Không thể nào.",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the खाता / Tôi thấy Tài khoản",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Account"
+    ],
+    "correctHindiSentence": "I see the Account"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a चलना​​​​​​​​​​​​​​​​​​​ / Tôi muốn Đi bộ / Di chuyển",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To walk / move"
+    ],
+    "correctHindiSentence": "I want a To walk / move"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Account and 90",
+      "Practiced constructing sentences."
+    ]
+  }
+]

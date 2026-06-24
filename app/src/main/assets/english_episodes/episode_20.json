@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 20",
+    "description": "Master the vocabulary and grammar for: Episode 20. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 20",
+    "title_vi": "Tập 20",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a 40 (४०).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Bốn mươi."
+      },
+      {
+        "hindi": "Later, you encounter a River (नदी​​​​​).",
+        "translation": "Sau đó, bạn gặp một Con sông."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "River",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: 40.",
+    "simpleRule": "Remember: 40 means ४० (Bốn mươi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "40",
+    "transliteration": "",
+    "english": "४०",
+    "vietnamese": "Bốn mươi",
+    "audio": "40"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "River",
+    "transliteration": "",
+    "english": "नदी​​​​​",
+    "vietnamese": "Con sông",
+    "audio": "River"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate '40'",
+    "prompt_en": "Choose correct translation for '40'",
+    "prompt_vi": "Chọn bản dịch đúng cho '40'",
+    "text": "40",
+    "subtext": "",
+    "answer": "४०",
+    "answer_vi": "Bốn mươi",
+    "options": [
+      "४०",
+      "नदी​​​​​",
+      "रोना​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bốn mươi",
+      "Con sông",
+      "Khóc",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "40",
+        "english": "४० (Bốn mươi)"
+      },
+      {
+        "hindi": "River",
+        "english": "नदी​​​​​ (Con sông)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: No doubt..",
+    "simpleRule": "Remember: No doubt. means कोई शक नहीं। (Không còn nghi ngờ gì nữa.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No doubt.",
+    "transliteration": "",
+    "english": "कोई शक नहीं।",
+    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "audio": "No doubt."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bride",
+    "transliteration": "",
+    "english": "दुल्हन",
+    "vietnamese": "Cô dâu",
+    "audio": "Bride"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'No doubt.'",
+    "prompt_en": "Choose correct translation for 'No doubt.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'No doubt.'",
+    "text": "No doubt.",
+    "subtext": "",
+    "answer": "कोई शक नहीं।",
+    "answer_vi": "Không còn nghi ngờ gì nữa.",
+    "options": [
+      "कोई शक नहीं।",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​​​​​​",
+      "दुल्हन"
+    ],
+    "options_vi": [
+      "Không còn nghi ngờ gì nữa.",
+      "Đứng",
+      "Dọn dẹp / Lau chùi",
+      "Cô dâu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "No doubt.",
+        "english": "कोई शक नहीं। (Không còn nghi ngờ gì nữa.)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "Bride",
+        "english": "दुल्हन (Cô dâu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Rain.",
+    "simpleRule": "Remember: Rain means बारिश​​​​​​​ (Cơn mưa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​​​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Rain'",
+    "prompt_en": "Choose correct translation for 'Rain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Rain'",
+    "text": "Rain",
+    "subtext": "",
+    "answer": "बारिश​​​​​​​",
+    "answer_vi": "Cơn mưa",
+    "options": [
+      "बारिश​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "साफ करना",
+      "लेना​​​​​​"
+    ],
+    "options_vi": [
+      "Cơn mưa",
+      "Nói",
+      "Dọn dẹp / Lau chùi",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​​​​​ (Cơn mưa)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "40",
+    "translation_en": "४०",
+    "translation_vi": "Bốn mươi",
+    "options_en": [
+      "४०",
+      "नदी​​​​​",
+      "रोना​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bốn mươi",
+      "Con sông",
+      "Khóc",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the ४० / Tôi thấy Bốn mươi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "40"
+    ],
+    "correctHindiSentence": "I see the 40"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a नदी​​​​​ / Tôi muốn Con sông",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "River"
+    ],
+    "correctHindiSentence": "I want a River"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: 40 and To take",
+      "Practiced constructing sentences."
+    ]
+  }
+]

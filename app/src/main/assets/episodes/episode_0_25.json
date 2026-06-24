@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Foundation Academy - Level 25",
-    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 25. Listen carefully and read along in English and Vietnamese.",
+    "title": "Essential Words: Body & Health",
+    "description": "Master the vocabulary and grammar for: Essential Words: Body & Health. Read the key points carefully.",
     "keyPoints": [
-      "तारा​​​​​​​​​​​​ (tārā) = Star / Ngôi sao",
-      "लेना​​​​​​ (lenā) = To take / Lấy / Nhận",
-      "तारा​​​​​​​​ (tārā) = Star / Ngôi sao"
+      "Focus: Essential Words: Body & Health"
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Alphabet & Building Blocks - Part 25",
-    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: तारा​​​​​​​​​​​​ means 'Star' (Ngôi sao)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: नज़र.",
+    "simpleRule": "Remember: नज़र means Evil Eye (Mắt ác / Vận đen)."
   },
   {
     "type": "Flashcard",
-    "hindi": "तारा​​​​​​​​​​​​",
-    "transliteration": "tārā",
-    "english": "Star",
-    "vietnamese": "Ngôi sao",
-    "audio": "तारा​​​​​​​​​​​​"
+    "hindi": "नज़र",
+    "transliteration": "nazar",
+    "english": "Evil Eye",
+    "vietnamese": "Mắt ác / Vận đen",
+    "audio": "नज़र"
   },
   {
     "type": "Flashcard",
-    "hindi": "लेना​​​​​​",
-    "transliteration": "lenā",
-    "english": "To take",
-    "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​"
+    "hindi": "दिल",
+    "transliteration": "dil",
+    "english": "Heart",
+    "vietnamese": "Trái tim",
+    "audio": "दिल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैर",
+    "transliteration": "pair",
+    "english": "Leg / Foot",
+    "vietnamese": "Chân",
+    "audio": "पैर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सिर",
+    "transliteration": "sir",
+    "english": "Head",
+    "vietnamese": "Đầu",
+    "audio": "सिर"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'तारा​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'तारा​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'तारा​​​​​​​​​​​​'",
-    "text": "तारा​​​​​​​​​​​​",
-    "subtext": "tārā",
-    "answer": "Star",
-    "answer_vi": "Ngôi sao",
+    "prompt": "Translate 'नज़र'",
+    "prompt_en": "Choose correct translation for 'नज़र'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'नज़र'",
+    "text": "नज़र",
+    "subtext": "nazar",
+    "answer": "Evil Eye",
+    "answer_vi": "Mắt ác / Vận đen",
     "options": [
-      "Star",
-      "Pen",
-      "Rain",
-      "To take"
+      "Evil Eye",
+      "Heart",
+      "Leg / Foot",
+      "Head"
     ],
     "options_vi": [
-      "Ngôi sao",
-      "Bút",
-      "Cơn mưa",
-      "Lấy / Nhận"
+      "Mắt ác / Vận đen",
+      "Trái tim",
+      "Chân",
+      "Đầu"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "तारा​​​​​​​​",
-    "transliteration": "tārā",
-    "english": "Star",
-    "vietnamese": "Ngôi sao",
-    "audio": "तारा​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "नज़र",
+        "english": "Evil Eye (Mắt ác / Vận đen)"
+      },
+      {
+        "hindi": "दिल",
+        "english": "Heart (Trái tim)"
+      },
+      {
+        "hindi": "पैर",
+        "english": "Leg / Foot (Chân)"
+      },
+      {
+        "hindi": "सिर",
+        "english": "Head (Đầu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: डॉक्टर.",
+    "simpleRule": "Remember: डॉक्टर means Doctor (Bác sĩ)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बारिश​",
-    "transliteration": "bārish",
-    "english": "Rain",
-    "vietnamese": "Cơn mưa",
-    "audio": "बारिश​"
+    "hindi": "डॉक्टर",
+    "transliteration": "ḍôkṭar",
+    "english": "Doctor",
+    "vietnamese": "Bác sĩ",
+    "audio": "डॉक्टर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हाथ",
+    "transliteration": "haath",
+    "english": "Hand",
+    "vietnamese": "Bàn tay",
+    "audio": "हाथ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कर",
+    "transliteration": "kar",
+    "english": "Tax / Hand",
+    "vietnamese": "Thuế",
+    "audio": "कर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आँख",
+    "transliteration": "aankh",
+    "english": "Eye",
+    "vietnamese": "Mắt",
+    "audio": "आँख"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'डॉक्टर'",
+    "prompt_en": "Choose correct translation for 'डॉक्टर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'डॉक्टर'",
+    "text": "डॉक्टर",
+    "subtext": "ḍôkṭar",
+    "answer": "Doctor",
+    "answer_vi": "Bác sĩ",
+    "options": [
+      "Doctor",
+      "Hand",
+      "Tax / Hand",
+      "Eye"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Bàn tay",
+      "Thuế",
+      "Mắt"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "तारा​​​​​​​​​​​​",
-        "english": "Star (Ngôi sao)"
+        "hindi": "डॉक्टर",
+        "english": "Doctor (Bác sĩ)"
       },
       {
-        "hindi": "लेना​​​​​​",
-        "english": "To take (Lấy / Nhận)"
+        "hindi": "हाथ",
+        "english": "Hand (Bàn tay)"
       },
       {
-        "hindi": "तारा​​​​​​​​",
-        "english": "Star (Ngôi sao)"
+        "hindi": "कर",
+        "english": "Tax / Hand (Thuế)"
       },
       {
-        "hindi": "बारिश​",
-        "english": "Rain (Cơn mưa)"
+        "hindi": "आँख",
+        "english": "Eye (Mắt)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "लेना​​​​​​",
-    "translation_en": "To take",
-    "translation_vi": "Lấy / Nhận",
+    "audio": "नज़र",
+    "translation_en": "Evil Eye",
+    "translation_vi": "Mắt ác / Vận đen",
     "options_en": [
-      "Rain",
-      "Star",
-      "To take",
-      "Star"
+      "Evil Eye",
+      "Heart",
+      "Leg / Foot",
+      "Head"
     ],
     "options_vi": [
-      "Cơn mưa",
-      "Ngôi sao",
-      "Lấy / Nhận",
-      "Ngôi sao"
+      "Mắt ác / Vận đen",
+      "Trái tim",
+      "Chân",
+      "Đầu"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I drink water / Tôi uống nước",
+    "englishSentence": "I know Evil Eye / Tôi biết Mắt ác / Vận đen",
     "hindiWords": [
       "मैं",
-      "पानी",
-      "पीता",
-      "हूँ",
-      "दूध",
-      "है"
+      "नज़र",
+      "जानता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं पानी पीता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पेन​​",
-    "transliteration": "pen",
-    "english": "Pen",
-    "vietnamese": "Bút",
-    "audio": "पेन​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "कापी​​​​​​​​",
-    "transliteration": "kaapī",
-    "english": "Notebook",
-    "vietnamese": "Sổ tay",
-    "audio": "कापी​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "तारा​​​​​​​​",
-        "english": "Star (Ngôi sao)"
-      },
-      {
-        "hindi": "बारिश​",
-        "english": "Rain (Cơn mưa)"
-      },
-      {
-        "hindi": "पेन​​",
-        "english": "Pen (Bút)"
-      },
-      {
-        "hindi": "कापी​​​​​​​​",
-        "english": "Notebook (Sổ tay)"
-      }
-    ]
+    "correctHindiSentence": "मैं नज़र जानता हूँ"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "englishSentence": "Where is Heart? / Trái tim ở đâu?",
     "hindiWords": [
-      "लड़का",
-      "तेज़",
-      "दौड़ता",
+      "दिल",
+      "कहाँ",
       "है",
-      "लड़की",
-      "धीमे"
+      "था"
     ],
-    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+    "correctHindiSentence": "दिल कहाँ है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: तारा​​​​​​​​​​​​, तारा​​​​​​​​, पेन​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'The boy runs fast'."
+      "You learned: नज़र, आँख",
+      "Practiced constructing sentences."
     ]
   }
 ]

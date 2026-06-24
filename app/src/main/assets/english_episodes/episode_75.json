@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 75",
+    "description": "Master the vocabulary and grammar for: Episode 75. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 75",
+    "title_vi": "Tập 75",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To take (लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Lấy / Nhận."
+      },
+      {
+        "hindi": "Later, you encounter a Signature (हस्ताक्षर).",
+        "translation": "Sau đó, bạn gặp một Chữ ký."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To take",
+        "isCorrect": true
+      },
+      {
+        "text": "Signature",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To take.",
+    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Signature",
+    "transliteration": "",
+    "english": "हस्ताक्षर",
+    "vietnamese": "Chữ ký",
+    "audio": "Signature"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative singular)",
+    "transliteration": "",
+    "english": "जिसे",
+    "vietnamese": "Người mà (số ít)",
+    "audio": "Whom (relative singular)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To take'",
+    "prompt_en": "Choose correct translation for 'To take'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
+    "text": "To take",
+    "subtext": "",
+    "answer": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हस्ताक्षर",
+      "खड़े होना​",
+      "जिसे"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Chữ ký",
+      "Đứng",
+      "Người mà (số ít)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Signature",
+        "english": "हस्ताक्षर (Chữ ký)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​ (Đứng)"
+      },
+      {
+        "hindi": "Whom (relative singular)",
+        "english": "जिसे (Người mà (số ít))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Show-off / Bragging.",
+    "simpleRule": "Remember: Show-off / Bragging means हवाबाज़ी (Sự khoe khoang)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Show-off / Bragging",
+    "transliteration": "",
+    "english": "हवाबाज़ी",
+    "vietnamese": "Sự khoe khoang",
+    "audio": "Show-off / Bragging"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Profession / Business",
+    "transliteration": "",
+    "english": "व्यवसाय",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "Profession / Business"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Show-off / Bragging'",
+    "prompt_en": "Choose correct translation for 'Show-off / Bragging'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Show-off / Bragging'",
+    "text": "Show-off / Bragging",
+    "subtext": "",
+    "answer": "हवाबाज़ी",
+    "answer_vi": "Sự khoe khoang",
+    "options": [
+      "हवाबाज़ी",
+      "व्यवसाय",
+      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự khoe khoang",
+      "Nghề nghiệp / Doanh nghiệp",
+      "Hát",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Show-off / Bragging",
+        "english": "हवाबाज़ी (Sự khoe khoang)"
+      },
+      {
+        "hindi": "Profession / Business",
+        "english": "व्यवसाय (Nghề nghiệp / Doanh nghiệp)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To sell.",
+    "simpleRule": "Remember: To sell means बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Garden",
+    "transliteration": "",
+    "english": "बग़ीचा​​​​​​​",
+    "vietnamese": "Khu vườn",
+    "audio": "Garden"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Crazy (in love - fem)",
+    "transliteration": "",
+    "english": "दीवानी",
+    "vietnamese": "Kẻ điên tình (nữ)",
+    "audio": "Crazy (in love - fem)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sell'",
+    "prompt_en": "Choose correct translation for 'To sell'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sell'",
+    "text": "To sell",
+    "subtext": "",
+    "answer": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Bán",
+    "options": [
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बग़ीचा​​​​​​​",
+      "खड़े होना​​​​​​​​​​​​",
+      "दीवानी"
+    ],
+    "options_vi": [
+      "Bán",
+      "Khu vườn",
+      "Đứng",
+      "Kẻ điên tình (nữ)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+      },
+      {
+        "hindi": "Garden",
+        "english": "बग़ीचा​​​​​​​ (Khu vườn)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "Crazy (in love - fem)",
+        "english": "दीवानी (Kẻ điên tình (nữ))"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To take",
+    "translation_en": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Lấy / Nhận",
+    "options_en": [
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हस्ताक्षर",
+      "खड़े होना​",
+      "जिसे"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Chữ ký",
+      "Đứng",
+      "Người mà (số ít)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Lấy / Nhận",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To take"
+    ],
+    "correctHindiSentence": "I see the To take"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a हस्ताक्षर / Tôi muốn Chữ ký",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Signature"
+    ],
+    "correctHindiSentence": "I want a Signature"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To take and Crazy (in love - fem)",
+      "Practiced constructing sentences."
+    ]
+  }
+]

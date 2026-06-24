@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 19",
+    "description": "Master the vocabulary and grammar for: Speak - Level 19. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: हवाबाज़ी.",
+    "simpleRule": "Remember: हवाबाज़ी means Show-off / Bragging (Sự khoe khoang)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हवाबाज़ी",
+    "transliteration": "havabaazi",
+    "english": "Show-off / Bragging",
+    "vietnamese": "Sự khoe khoang",
+    "audio": "हवाबाज़ी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ज़ोर से बोलिए।",
+    "transliteration": "zor se boliye",
+    "english": "Speak louder.",
+    "vietnamese": "Nói to lên.",
+    "audio": "ज़ोर से बोलिए।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या",
+    "transliteration": "kyā",
+    "english": "What / [Question Marker]",
+    "vietnamese": "Cái gì",
+    "audio": "क्या"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'हवाबाज़ी'",
+    "prompt_en": "Choose correct translation for 'हवाबाज़ी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'हवाबाज़ी'",
+    "text": "हवाबाज़ी",
+    "subtext": "havabaazi",
+    "answer": "Show-off / Bragging",
+    "answer_vi": "Sự khoe khoang",
+    "options": [
+      "Show-off / Bragging",
+      "To speak",
+      "Speak louder.",
+      "What / [Question Marker]"
+    ],
+    "options_vi": [
+      "Sự khoe khoang",
+      "Nói",
+      "Nói to lên.",
+      "Cái gì"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "हवाबाज़ी",
+        "english": "Show-off / Bragging (Sự khoe khoang)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "ज़ोर से बोलिए।",
+        "english": "Speak louder. (Nói to lên.)"
+      },
+      {
+        "hindi": "क्या",
+        "english": "What / [Question Marker] (Cái gì)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कितना दुखद है!",
+    "transliteration": "kitna dukhad hai!",
+    "english": "How sad!",
+    "vietnamese": "Thật là buồn!",
+    "audio": "कितना दुखद है!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
+    "options": [
+      "To speak",
+      "To speak",
+      "To speak",
+      "How sad!"
+    ],
+    "options_vi": [
+      "Nói",
+      "Nói",
+      "Nói",
+      "Thật là buồn!"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "कितना दुखद है!",
+        "english": "How sad! (Thật là buồn!)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "हवाबाज़ी",
+    "translation_en": "Show-off / Bragging",
+    "translation_vi": "Sự khoe khoang",
+    "options_en": [
+      "Show-off / Bragging",
+      "To speak",
+      "Speak louder.",
+      "What / [Question Marker]"
+    ],
+    "options_vi": [
+      "Sự khoe khoang",
+      "Nói",
+      "Nói to lên.",
+      "Cái gì"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Show-off / Bragging / Đây là Sự khoe khoang",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "हवाबाज़ी",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक हवाबाज़ी है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
+    "hindiWords": [
+      "मैं",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: हवाबाज़ी, कितना दुखद है!",
+      "Practiced constructing sentences."
+    ]
+  }
+]

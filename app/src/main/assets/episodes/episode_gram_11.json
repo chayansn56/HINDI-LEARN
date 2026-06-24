@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Lesson 11",
-    "description": "Learn key vocabulary and concepts for Gram - Lesson 11. Listen carefully and read along in English and Vietnamese.",
+    "title": "Gram - Level 11",
+    "description": "Master the vocabulary and grammar for: Gram - Level 11. Read the key points carefully.",
     "keyPoints": [
-      "चम्मच​​​​ (cammac) = Spoon / Thìa",
-      "दफ़्तर​​​​ (daftar) = Office / Văn phòng",
-      "चाँदी​ (cā̃dī) = Silver / Bạc"
+      "Learn gram concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 11",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: चम्मच​​​​ means 'Spoon' (Thìa)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "चम्मच​​​​",
-    "transliteration": "cammac",
-    "english": "Spoon",
-    "vietnamese": "Thìa",
-    "audio": "चम्मच​​​​"
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​",
-    "transliteration": "daftar",
-    "english": "Office",
-    "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​"
+    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शुभ रात्रि",
+    "transliteration": "shubh raatri",
+    "english": "Good night",
+    "vietnamese": "Chúc ngủ ngon",
+    "audio": "शुभ रात्रि"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khelnā",
+    "english": "To play",
+    "vietnamese": "Chơi",
+    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'चम्मच​​​​'",
-    "prompt_en": "Choose the correct translation for 'चम्मच​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'चम्मच​​​​'",
-    "text": "चम्मच​​​​",
-    "subtext": "cammac",
-    "answer": "Spoon",
-    "answer_vi": "Thìa",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
     "options": [
-      "with / along with",
-      "Office",
-      "Spoon",
-      "Silver"
+      "Love (intense)",
+      "To wake up",
+      "Good night",
+      "To play"
     ],
     "options_vi": [
-      "Với / Cùng với",
-      "Văn phòng",
-      "Thìa",
-      "Bạc"
+      "Tình yêu sâu đậm",
+      "Thức dậy",
+      "Chúc ngủ ngon",
+      "Chơi"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "चाँदी​",
-    "transliteration": "cā̃dī",
-    "english": "Silver",
-    "vietnamese": "Bạc",
-    "audio": "चाँदी​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wake up (Thức dậy)"
+      },
+      {
+        "hindi": "शुभ रात्रि",
+        "english": "Good night (Chúc ngủ ngon)"
+      },
+      {
+        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To play (Chơi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: रोटी.",
+    "simpleRule": "Remember: रोटी means Flatbread (Bánh mì dẹt)."
   },
   {
     "type": "Flashcard",
-    "hindi": "के साथ",
-    "transliteration": "ke saath",
-    "english": "with / along with",
-    "vietnamese": "Với / Cùng với",
-    "audio": "के साथ"
+    "hindi": "रोटी",
+    "transliteration": "roṭī",
+    "english": "Flatbread",
+    "vietnamese": "Bánh mì dẹt",
+    "audio": "रोटी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "योगा",
+    "transliteration": "yoga",
+    "english": "Yoga",
+    "vietnamese": "Môn Yoga",
+    "audio": "योगा"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'रोटी'",
+    "prompt_en": "Choose correct translation for 'रोटी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'रोटी'",
+    "text": "रोटी",
+    "subtext": "roṭī",
+    "answer": "Flatbread",
+    "answer_vi": "Bánh mì dẹt",
+    "options": [
+      "Flatbread",
+      "To listen / hear",
+      "To write",
+      "Yoga"
+    ],
+    "options_vi": [
+      "Bánh mì dẹt",
+      "Nghe",
+      "Viết",
+      "Môn Yoga"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "चम्मच​​​​",
-        "english": "Spoon (Thìa)"
+        "hindi": "रोटी",
+        "english": "Flatbread (Bánh mì dẹt)"
       },
       {
-        "hindi": "दफ़्तर​​​​",
-        "english": "Office (Văn phòng)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "चाँदी​",
-        "english": "Silver (Bạc)"
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "के साथ",
-        "english": "with / along with (Với / Cùng với)"
+        "hindi": "योगा",
+        "english": "Yoga (Môn Yoga)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "दफ़्तर​​​​",
-    "translation_en": "Office",
-    "translation_vi": "Văn phòng",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
     "options_en": [
-      "Silver",
-      "Spoon",
-      "with / along with",
-      "Office"
+      "Love (intense)",
+      "To wake up",
+      "Good night",
+      "To play"
     ],
     "options_vi": [
-      "Bạc",
-      "Thìa",
-      "Với / Cùng với",
-      "Văn phòng"
+      "Tình yêu sâu đậm",
+      "Thức dậy",
+      "Chúc ngủ ngon",
+      "Chơi"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "She eats bread / Cô ấy ăn bánh mì",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
     "hindiWords": [
-      "वह",
-      "रोटी",
-      "खाती",
-      "है",
-      "पीती",
-      "हूँ"
-    ],
-    "correctHindiSentence": "वह रोटी खाती है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "समुद्र​​​​",
-    "transliteration": "samudra",
-    "english": "Sea / Ocean",
-    "vietnamese": "Biển",
-    "audio": "समुद्र​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पहाड़​​​​​​",
-    "transliteration": "pahāṛ",
-    "english": "Mountain",
-    "vietnamese": "Ngọn núi",
-    "audio": "पहाड़​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "चाँदी​",
-        "english": "Silver (Bạc)"
-      },
-      {
-        "hindi": "के साथ",
-        "english": "with / along with (Với / Cùng với)"
-      },
-      {
-        "hindi": "समुद्र​​​​",
-        "english": "Sea / Ocean (Biển)"
-      },
-      {
-        "hindi": "पहाड़​​​​​​",
-        "english": "Mountain (Ngọn núi)"
-      }
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
-    "hindiWords": [
-      "मैं",
-      "सेब",
-      "खाता",
-      "हूँ",
-      "रोटी",
+      "यह",
+      "एक",
+      "इश्क़",
       "है"
     ],
-    "correctHindiSentence": "मैं सेब खाता हूँ"
+    "correctHindiSentence": "यह एक इश्क़ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To wake up / Tôi thấy Thức dậy",
+    "hindiWords": [
+      "मैं",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं जागना​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: चम्मच​​​​, चाँदी​, समुद्र​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I eat an apple'."
+      "You learned: इश्क़, योगा",
+      "Practiced constructing sentences."
     ]
   }
 ]

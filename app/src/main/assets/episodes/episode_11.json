@@ -1,0 +1,139 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 11: Travel by Train",
+    "description": "Chào mừng đến ga! Hãy học các từ vựng và mẫu câu cơ bản để đi lại bằng tàu hỏa ở Ấn Độ.",
+    "keyPoints": [
+      "स्टेशन (station): Ga tàu",
+      "प्लेटफॉर्म (platform): Sân ga",
+      "ट्रेन (train): Tàu hỏa",
+      "टिकट (ticket): Vé"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Cách hỏi vị trí sân ga hoặc ga tàu",
+    "explanation": "Để hỏi vị trí của ga tàu hoặc sân ga, bạn sử dụng cấu trúc: [Danh từ] + कहाँ है? (kahan hai? - ở đâu?). Ví dụ: प्लेटफॉर्म कहाँ है? (Sân ga ở đâu?)",
+    "simpleRule": "[Vật/Nơi chốn] + कहाँ है? = ... ở đâu?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स्टेशन",
+    "transliteration": "station",
+    "english": "Station",
+    "vietnamese": "Ga tàu",
+    "audio": "स्टेशन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्लेटफॉर्म",
+    "transliteration": "platform",
+    "english": "Platform",
+    "vietnamese": "Sân ga",
+    "audio": "प्लेटफॉर्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ट्रेन",
+    "transliteration": "train",
+    "english": "Train",
+    "vietnamese": "Tàu hỏa",
+    "audio": "ट्रेन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट",
+    "transliteration": "ticket",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "प्लेटफॉर्म",
+    "translation": "Platform / Sân ga",
+    "contextSentenceHindi": "मेरा प्लेटफॉर्म कहाँ है?",
+    "contextSentenceTranslation": "Where is my platform? / Sân ga của tôi ở đâu?",
+    "memoryTrick": "Platform phát âm giống tiếng Anh, chỉ cần viết theo ký tự Devanagari!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "स्टेशन",
+    "subtext": "station",
+    "answer": "Station",
+    "answer_vi": "Ga tàu",
+    "options": [
+      "Station",
+      "Train",
+      "Ticket",
+      "Platform"
+    ],
+    "options_vi": [
+      "Ga tàu",
+      "Tàu hỏa",
+      "Vé",
+      "Sân ga"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "ट्रेन",
+    "translation_en": "Train",
+    "options_en": [
+      "Train",
+      "Station",
+      "Ticket",
+      "Platform"
+    ],
+    "translation_vi": "Tàu hỏa",
+    "options_vi": [
+      "Tàu hỏa",
+      "Ga tàu",
+      "Vé",
+      "Sân ga"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'Where is the train?' / Dịch: 'Tàu hỏa ở đâu?'",
+    "hindiWords": [
+      "कहाँ",
+      "ट्रेन",
+      "है"
+    ],
+    "correctHindiSentence": "ट्रेन कहाँ है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "स्टेशन",
+        "english": "Station (Ga tàu)"
+      },
+      {
+        "hindi": "प्लेटफॉर्म",
+        "english": "Platform (Sân ga)"
+      },
+      {
+        "hindi": "ट्रेन",
+        "english": "Train (Tàu hỏa)"
+      },
+      {
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Đã học cách hỏi vị trí sân ga và tàu hỏa.",
+      "Nắm vững các danh từ: स्टेशन, प्लेटफॉर्म, ट्रेन, टिकट.",
+      "Tự tin giao tiếp cơ bản tại ga tàu Ấn Độ."
+    ]
+  }
+]

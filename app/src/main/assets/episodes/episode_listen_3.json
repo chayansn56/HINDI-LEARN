@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Listen - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Listen - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Listen - Level 3",
+    "description": "Master the vocabulary and grammar for: Listen - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "खोलना​​​​​​​​ (kholnā) = To open / Mở",
-      "बहू (bahū) = Daughter-in-law / Con dâu / Vợ",
-      "धोना​​​​​​​​​ (dhonā) = To wash / Rửa / Giặt"
+      "Learn listen concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: खोलना​​​​​​​​ means 'To open' (Mở)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बादल​​​​​​​.",
+    "simpleRule": "Remember: बादल​​​​​​​ means Cloud (Đám mây)."
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​​",
-    "transliteration": "kholnā",
-    "english": "To open",
-    "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​​"
+    "hindi": "बादल​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "बहू",
-    "transliteration": "bahū",
-    "english": "Daughter-in-law",
-    "vietnamese": "Con dâu / Vợ",
-    "audio": "बहू"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'खोलना​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'खोलना​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'खोलना​​​​​​​​'",
-    "text": "खोलना​​​​​​​​",
-    "subtext": "kholnā",
-    "answer": "To open",
-    "answer_vi": "Mở",
+    "prompt": "Translate 'बादल​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बादल​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बादल​​​​​​​'",
+    "text": "बादल​​​​​​​",
+    "subtext": "bādal",
+    "answer": "Cloud",
+    "answer_vi": "Đám mây",
     "options": [
-      "Daughter-in-law",
-      "To open",
-      "To wash",
-      "To stand"
+      "Cloud",
+      "To listen / hear",
+      "Cloud",
+      "To listen / hear"
     ],
     "options_vi": [
-      "Con dâu / Vợ",
-      "Mở",
-      "Rửa / Giặt",
-      "Đứng"
+      "Đám mây",
+      "Nghe",
+      "Đám mây",
+      "Nghe"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "धोना​​​​​​​​​",
-    "transliteration": "dhonā",
-    "english": "To wash",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "धोना​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बादल​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बादल​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To listen / hear",
+      "Cloud",
+      "Cloud"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Đám mây",
+      "Đám mây"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "खोलना​​​​​​​​",
-        "english": "To open (Mở)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "बहू",
-        "english": "Daughter-in-law (Con dâu / Vợ)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "धोना​​​​​​​​​",
-        "english": "To wash (Rửa / Giặt)"
+        "hindi": "बादल​​​​​",
+        "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
+        "hindi": "बादल​​",
+        "english": "Cloud (Đám mây)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बहू",
-    "translation_en": "Daughter-in-law",
-    "translation_vi": "Con dâu / Vợ",
+    "audio": "बादल​​​​​​​",
+    "translation_en": "Cloud",
+    "translation_vi": "Đám mây",
     "options_en": [
-      "To stand",
-      "To open",
-      "Daughter-in-law",
-      "To wash"
+      "Cloud",
+      "To listen / hear",
+      "Cloud",
+      "To listen / hear"
     ],
     "options_vi": [
-      "Đứng",
-      "Mở",
-      "Con dâu / Vợ",
-      "Rửa / Giặt"
+      "Đám mây",
+      "Nghe",
+      "Đám mây",
+      "Nghe"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "This is a Cloud / Đây là Đám mây",
     "hindiWords": [
       "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "एक",
+      "बादल​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "मुँह",
-    "transliteration": "munh",
-    "english": "Mouth",
-    "vietnamese": "Miệng",
-    "audio": "मुँह"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​",
-    "transliteration": "likhnā",
-    "english": "To write",
-    "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "धोना​​​​​​​​​",
-        "english": "To wash (Rửa / Giặt)"
-      },
-      {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
-      },
-      {
-        "hindi": "मुँह",
-        "english": "Mouth (Miệng)"
-      },
-      {
-        "hindi": "लिखना​​​​​​​​​​​​​​",
-        "english": "To write (Viết)"
-      }
-    ]
+    "correctHindiSentence": "यह एक बादल​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
-      "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "मैं",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
+    "correctHindiSentence": "मैं सुनना​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: खोलना​​​​​​​​, धोना​​​​​​​​​, मुँह.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'This water is clean'."
+      "You learned: बादल​​​​​​​, बादल​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

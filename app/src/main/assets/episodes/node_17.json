@@ -1,0 +1,140 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 17: Family - Uncle and Aunt",
+    "description": "Làm quen với hệ thống đại gia đình Ấn Độ! Học cách gọi tên Chú, Thím, Cậu, Mợ (Chacha, Chachi, Mama, Mami).",
+    "keyPoints": [
+      "चाचा (chacha): Chú (em trai của bố)",
+      "चाची (chachi): Thím (vợ của chacha)",
+      "मामा (mama): Cậu (anh em trai của mẹ)",
+      "मामी (mami): Mợ (vợ của mama)"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Biến đổi đuôi từ chỉ mối quan hệ",
+    "explanation": "Trong tiếng Hindi, các danh từ chỉ người thân nam kết thúc bằng '-aa' thường có từ chỉ người thân nữ tương ứng kết thúc bằng '-ee'. Ví dụ: Chacha (chú) → Chachi (thím), Mama (cậu) → Mami (mợ).",
+    "simpleRule": "-aa (nam) → -ee (nữ) tương ứng"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाचा",
+    "transliteration": "chacha",
+    "english": "Paternal Uncle",
+    "vietnamese": "Chú (em bố)",
+    "audio": "चाचा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाची",
+    "transliteration": "chachi",
+    "english": "Paternal Aunt",
+    "vietnamese": "Thím (vợ chú)",
+    "audio": "चाची"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मामा",
+    "transliteration": "mama",
+    "english": "Maternal Uncle",
+    "vietnamese": "Cậu (em mẹ)",
+    "audio": "मामा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मामी",
+    "transliteration": "mami",
+    "english": "Maternal Aunt",
+    "vietnamese": "Mợ (vợ cậu)",
+    "audio": "मामी"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "मामा",
+    "translation": "Maternal Uncle / Cậu",
+    "contextSentenceHindi": "मेरे मामा दिल्ली में रहते हैं।",
+    "contextSentenceTranslation": "My maternal uncle lives in Delhi. / Cậu của tôi sống ở Delhi.",
+    "memoryTrick": "Mama viết giống như 'Mẹ' trong tiếng Anh nhưng có nghĩa là Cậu (bên ngoại) trong tiếng Hindi!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "चाची",
+    "subtext": "chachi",
+    "answer": "Paternal Aunt",
+    "answer_vi": "Thím (vợ chú)",
+    "options": [
+      "Paternal Aunt",
+      "Paternal Uncle",
+      "Maternal Aunt",
+      "Mother"
+    ],
+    "options_vi": [
+      "Thím (vợ chú)",
+      "Chú (em bố)",
+      "Mợ (vợ cậu)",
+      "Mẹ"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "चाचा",
+    "translation_en": "Paternal Uncle",
+    "options_en": [
+      "Paternal Uncle",
+      "Maternal Uncle",
+      "Father",
+      "Brother"
+    ],
+    "translation_vi": "Chú (em bố)",
+    "options_vi": [
+      "Chú (em bố)",
+      "Cậu (em mẹ)",
+      "Bố",
+      "Anh em"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'These are my maternal uncles.' (honorific) / Dịch: 'Đây là cậu của tôi.'",
+    "hindiWords": [
+      "मामा",
+      "हैं",
+      "मेरे",
+      "ये"
+    ],
+    "correctHindiSentence": "ये मेरे मामा हैं"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "चाचा",
+        "english": "Paternal Uncle (Chú)"
+      },
+      {
+        "hindi": "चाची",
+        "english": "Paternal Aunt (Thím)"
+      },
+      {
+        "hindi": "मामा",
+        "english": "Maternal Uncle (Cậu)"
+      },
+      {
+        "hindi": "मामी",
+        "english": "Maternal Aunt (Mợ)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Phân biệt rõ ràng quan hệ bên nội (Chacha) và bên ngoại (Mama).",
+      "Nắm vững quy tắc chuyển đuôi từ tính chất nam sang nữ (-aa thành -ee).",
+      "Biết sử dụng kính ngữ khi nói về người lớn tuổi trong gia đình."
+    ]
+  }
+]

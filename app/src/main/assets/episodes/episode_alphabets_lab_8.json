@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 8",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 8. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: पूछना​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: पूछना​​​​​​​​​​​​​​​​​​​ means To ask (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे तुम पर गर्व है।",
+    "transliteration": "mujhe tum par garv hai",
+    "english": "I am proud of you.",
+    "vietnamese": "Tôi tự hào về bạn.",
+    "audio": "मुझे तुम पर गर्व है।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाँव​​​​​",
+    "transliteration": "gā̃v",
+    "english": "Village",
+    "vietnamese": "Ngôi làng",
+    "audio": "गाँव​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पूछना​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'पूछना​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पूछना​​​​​​​​​​​​​​​​​​​'",
+    "text": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "subtext": "pūchnā",
+    "answer": "To ask",
+    "answer_vi": "Hỏi",
+    "options": [
+      "To ask",
+      "I am proud of you.",
+      "Village",
+      "To ask"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Tôi tự hào về bạn.",
+      "Ngôi làng",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "मुझे तुम पर गर्व है।",
+        "english": "I am proud of you. (Tôi tự hào về bạn.)"
+      },
+      {
+        "hindi": "गाँव​​​​​",
+        "english": "Village (Ngôi làng)"
+      },
+      {
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: धोखा.",
+    "simpleRule": "Remember: धोखा means Betrayal / Deceit (Sự phản bội)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धोखा",
+    "transliteration": "dhokha",
+    "english": "Betrayal / Deceit",
+    "vietnamese": "Sự phản bội",
+    "audio": "धोखा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बताना​",
+    "transliteration": "batānā",
+    "english": "To tell / explain",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "बताना​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जागना​​​​​​​​​​​​​​​​​",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'धोखा'",
+    "prompt_en": "Choose correct translation for 'धोखा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'धोखा'",
+    "text": "धोखा",
+    "subtext": "dhokha",
+    "answer": "Betrayal / Deceit",
+    "answer_vi": "Sự phản bội",
+    "options": [
+      "Betrayal / Deceit",
+      "To tell / explain",
+      "To ask",
+      "To wake up"
+    ],
+    "options_vi": [
+      "Sự phản bội",
+      "Kể / Giải thích",
+      "Hỏi",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "धोखा",
+        "english": "Betrayal / Deceit (Sự phản bội)"
+      },
+      {
+        "hindi": "बताना​",
+        "english": "To tell / explain (Kể / Giải thích)"
+      },
+      {
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "जागना​​​​​​​​​​​​​​​​​",
+        "english": "To wake up (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To ask",
+    "translation_vi": "Hỏi",
+    "options_en": [
+      "To ask",
+      "I am proud of you.",
+      "Village",
+      "To ask"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Tôi tự hào về bạn.",
+      "Ngôi làng",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To ask / Đây là Hỏi",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "पूछना​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक पूछना​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see I am proud of you. / Tôi thấy Tôi tự hào về bạn.",
+    "hindiWords": [
+      "मैं",
+      "मुझे तुम पर गर्व है।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मुझे तुम पर गर्व है। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: पूछना​​​​​​​​​​​​​​​​​​​, जागना​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

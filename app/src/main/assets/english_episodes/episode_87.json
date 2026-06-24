@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 87",
+    "description": "Master the vocabulary and grammar for: Episode 87. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 87",
+    "title_vi": "Tập 87",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Ahead / Forward (आगे).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Phía trước."
+      },
+      {
+        "hindi": "Later, you encounter a To listen / hear (सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Nghe."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Ahead / Forward",
+        "isCorrect": true
+      },
+      {
+        "text": "To listen / hear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Ahead / Forward.",
+    "simpleRule": "Remember: Ahead / Forward means आगे (Phía trước)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ahead / Forward",
+    "transliteration": "",
+    "english": "आगे",
+    "vietnamese": "Phía trước",
+    "audio": "Ahead / Forward"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Leaf",
+    "transliteration": "",
+    "english": "पत्ता",
+    "vietnamese": "Lá cây",
+    "audio": "Leaf"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Are you joking?",
+    "transliteration": "",
+    "english": "मज़ाक कर रहे हो क्या?",
+    "vietnamese": "Bạn đùa à?",
+    "audio": "Are you joking?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Ahead / Forward'",
+    "prompt_en": "Choose correct translation for 'Ahead / Forward'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Ahead / Forward'",
+    "text": "Ahead / Forward",
+    "subtext": "",
+    "answer": "आगे",
+    "answer_vi": "Phía trước",
+    "options": [
+      "आगे",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पत्ता",
+      "मज़ाक कर रहे हो क्या?"
+    ],
+    "options_vi": [
+      "Phía trước",
+      "Nghe",
+      "Lá cây",
+      "Bạn đùa à?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Ahead / Forward",
+        "english": "आगे (Phía trước)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Leaf",
+        "english": "पत्ता (Lá cây)"
+      },
+      {
+        "hindi": "Are you joking?",
+        "english": "मज़ाक कर रहे हो क्या? (Bạn đùa à?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Village.",
+    "simpleRule": "Remember: Village means गाँव​​​​​​​ (Ngôi làng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​​​​​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Village'",
+    "prompt_en": "Choose correct translation for 'Village'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Village'",
+    "text": "Village",
+    "subtext": "",
+    "answer": "गाँव​​​​​​​",
+    "answer_vi": "Ngôi làng",
+    "options": [
+      "गाँव​​​​​​​",
+      "सीखना​​​​​​​​​​",
+      "बेचना​​​​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngôi làng",
+      "Học",
+      "Bán",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Village",
+        "english": "गाँव​​​​​​​ (Ngôi làng)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​ (Bán)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: will be (masculine plural).",
+    "simpleRule": "Remember: will be (masculine plural) means होंगे (Sẽ là (nam số nhiều))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "will be (masculine plural)",
+    "transliteration": "",
+    "english": "होंगे",
+    "vietnamese": "Sẽ là (nam số nhiều)",
+    "audio": "will be (masculine plural)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Third wheel / Spoil sport",
+    "transliteration": "",
+    "english": "कबाब में हड्डी",
+    "vietnamese": "Kẻ thứ ba phá đám",
+    "audio": "Third wheel / Spoil sport"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cup",
+    "transliteration": "",
+    "english": "प्याला​​​​​​​",
+    "vietnamese": "Tách",
+    "audio": "Cup"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'will be (masculine plural)'",
+    "prompt_en": "Choose correct translation for 'will be (masculine plural)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'will be (masculine plural)'",
+    "text": "will be (masculine plural)",
+    "subtext": "",
+    "answer": "होंगे",
+    "answer_vi": "Sẽ là (nam số nhiều)",
+    "options": [
+      "होंगे",
+      "कबाब में हड्डी",
+      "प्याला​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sẽ là (nam số nhiều)",
+      "Kẻ thứ ba phá đám",
+      "Tách",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "will be (masculine plural)",
+        "english": "होंगे (Sẽ là (nam số nhiều))"
+      },
+      {
+        "hindi": "Third wheel / Spoil sport",
+        "english": "कबाब में हड्डी (Kẻ thứ ba phá đám)"
+      },
+      {
+        "hindi": "Cup",
+        "english": "प्याला​​​​​​​ (Tách)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Ahead / Forward",
+    "translation_en": "आगे",
+    "translation_vi": "Phía trước",
+    "options_en": [
+      "आगे",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पत्ता",
+      "मज़ाक कर रहे हो क्या?"
+    ],
+    "options_vi": [
+      "Phía trước",
+      "Nghe",
+      "Lá cây",
+      "Bạn đùa à?"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the आगे / Tôi thấy Phía trước",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Ahead / Forward"
+    ],
+    "correctHindiSentence": "I see the Ahead / Forward"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Nghe",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "I want a To listen / hear"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Ahead / Forward and To wake up",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -110,14 +110,19 @@ fun RevisionScreen(
                 )
             }
             
-            // Sample 5 random weak words
-            val shuffled = allWords.shuffled()
-            weakWordsList.clear()
-            weakWordsList.addAll(shuffled.take(5))
+            val mistakeMap = progress.mistakeMap
+            // Sort by mistake count descending
+            val sortedWords = allWords.sortedByDescending { word ->
+                mistakeMap[word.hindi] ?: 0
+            }
             
-            // Populate review queue with 6 words
+            // Sample top 5 weak words
+            weakWordsList.clear()
+            weakWordsList.addAll(sortedWords.take(5))
+            
+            // Populate review queue with top 6 words
             reviewQueue.clear()
-            reviewQueue.addAll(shuffled.take(6))
+            reviewQueue.addAll(sortedWords.take(6))
         } catch (e: Exception) {
             e.printStackTrace()
         }

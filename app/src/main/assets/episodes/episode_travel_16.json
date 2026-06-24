@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 16",
+    "description": "Master the vocabulary and grammar for: Travel - Level 16. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: थाना.",
+    "simpleRule": "Remember: थाना means Police station (Đồn cảnh sát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थाना",
+    "transliteration": "thana",
+    "english": "Police station",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "थाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कमरा",
+    "transliteration": "kamrā",
+    "english": "Room",
+    "vietnamese": "Căn phòng",
+    "audio": "कमरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स्टेशन कहाँ है?",
+    "transliteration": "sṭeśan kahā̃ hai?",
+    "english": "Where is the station?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "स्टेशन कहाँ है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'थाना'",
+    "prompt_en": "Choose correct translation for 'थाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'थाना'",
+    "text": "थाना",
+    "subtext": "thana",
+    "answer": "Police station",
+    "answer_vi": "Đồn cảnh sát",
+    "options": [
+      "Police station",
+      "Room",
+      "Where is the station?",
+      "Journey"
+    ],
+    "options_vi": [
+      "Đồn cảnh sát",
+      "Căn phòng",
+      "Nhà ga ở đâu?",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "थाना",
+        "english": "Police station (Đồn cảnh sát)"
+      },
+      {
+        "hindi": "कमरा",
+        "english": "Room (Căn phòng)"
+      },
+      {
+        "hindi": "स्टेशन कहाँ है?",
+        "english": "Where is the station? (Nhà ga ở đâu?)"
+      },
+      {
+        "hindi": "सफ़र​​​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सफ़र​.",
+    "simpleRule": "Remember: सफ़र​ means Journey (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बस स्टैंड",
+    "transliteration": "bus stand",
+    "english": "Bus stop",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "बस स्टैंड"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ध्यान से सुनो।",
+    "transliteration": "dhyaan se suno",
+    "english": "Listen carefully.",
+    "vietnamese": "Nghe cho kỹ nhé.",
+    "audio": "ध्यान से सुनो।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​'",
+    "text": "सफ़र​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Bus stop",
+      "Journey",
+      "Listen carefully."
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Trạm xe buýt",
+      "Chuyến đi",
+      "Nghe cho kỹ nhé."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "बस स्टैंड",
+        "english": "Bus stop (Trạm xe buýt)"
+      },
+      {
+        "hindi": "सफ़र​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "ध्यान से सुनो।",
+        "english": "Listen carefully. (Nghe cho kỹ nhé.)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "थाना",
+    "translation_en": "Police station",
+    "translation_vi": "Đồn cảnh sát",
+    "options_en": [
+      "Police station",
+      "Room",
+      "Where is the station?",
+      "Journey"
+    ],
+    "options_vi": [
+      "Đồn cảnh sát",
+      "Căn phòng",
+      "Nhà ga ở đâu?",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Police station / Đây là Đồn cảnh sát",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "थाना",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक थाना है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Room / Tôi thấy Căn phòng",
+    "hindiWords": [
+      "मैं",
+      "कमरा",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं कमरा देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: थाना, ध्यान से सुनो।",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,77 +1,304 @@
 [
   {
     "type": "Introduction",
-    "title": "IT Basics: Repository and Code Reviews",
-    "description": "Tìm hiểu các thuật ngữ cơ bản về quản lý mã nguồn trong công nghệ thông tin.",
+    "title": "Colors & Shapes",
+    "description": "Master the vocabulary and grammar for: Colors & Shapes. Read the key points carefully.",
     "keyPoints": [
-      "Repository (Kho chứa mã)",
-      "Pull request (Yêu cầu kéo/sát nhập code)",
-      "Code review (Đánh giá mã nguồn)",
-      "Merge (Hợp nhất)"
+      "Focus: Colors & Shapes"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "Managing Code",
-    "title_vi": "Quản lý mã nguồn",
-    "paragraphs": [
-      {
-        "hindi": "Please create a pull request for the repository.",
-        "translation": "Vui lòng tạo một yêu cầu kéo code cho kho chứa mã."
-      },
-      {
-        "hindi": "Let's do a code review before we merge.",
-        "translation": "Hãy tiến hành đánh giá mã nguồn trước khi chúng ta hợp nhất."
-      }
-    ],
-    "question_en": "What should you do before merging the code?",
-    "question_vi": "Bạn nên làm gì trước khi hợp nhất mã nguồn?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Reduce price a bit..",
+    "simpleRule": "Remember: Reduce price a bit. means थोड़ा कम कीजिए। (Giảm giá một chút.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Reduce price a bit.",
+    "transliteration": "",
+    "english": "थोड़ा कम कीजिए।",
+    "vietnamese": "Giảm giá một chút.",
+    "audio": "Reduce price a bit."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Red",
+    "transliteration": "",
+    "english": "लाल",
+    "vietnamese": "Màu đỏ",
+    "audio": "Red"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Blue",
+    "transliteration": "",
+    "english": "नीला",
+    "vietnamese": "Màu xanh dương",
+    "audio": "Blue"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Green",
+    "transliteration": "",
+    "english": "हरा",
+    "vietnamese": "Màu xanh lá",
+    "audio": "Green"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Reduce price a bit.'",
+    "prompt_en": "Choose correct translation for 'Reduce price a bit.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Reduce price a bit.'",
+    "text": "Reduce price a bit.",
+    "subtext": "",
+    "answer": "थोड़ा कम कीजिए।",
+    "answer_vi": "Giảm giá một chút.",
     "options": [
+      "थोड़ा कम कीजिए।",
+      "लाल",
+      "नीला",
+      "हरा"
+    ],
+    "options_vi": [
+      "Giảm giá một chút.",
+      "Màu đỏ",
+      "Màu xanh dương",
+      "Màu xanh lá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "Code review",
-        "isCorrect": true
+        "hindi": "Reduce price a bit.",
+        "english": "थोड़ा कम कीजिए। (Giảm giá một chút.)"
       },
       {
-        "text": "Delete repository",
-        "isCorrect": false
+        "hindi": "Red",
+        "english": "लाल (Màu đỏ)"
+      },
+      {
+        "hindi": "Blue",
+        "english": "नीला (Màu xanh dương)"
+      },
+      {
+        "hindi": "Green",
+        "english": "हरा (Màu xanh lá)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Git Workflow Terms",
-    "explanation": "Trong lập trình, 'repository' là kho lưu trữ. Khi hoàn thành code, bạn tạo một 'pull request' để đồng nghiệp 'code review' trước khi 'merge' vào nhánh chính.",
-    "simpleRule": "Repository = Kho chứa, Pull request = Yêu cầu kéo code, Code review = Đánh giá mã, Merge = Hợp nhất"
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Yellow.",
+    "simpleRule": "Remember: Yellow means पीला (Màu vàng)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "pull request",
-    "translation": "yêu cầu kéo code",
-    "contextSentenceHindi": "Please submit a pull request.",
-    "contextSentenceTranslation": "Vui lòng gửi một yêu cầu kéo code.",
-    "memoryTrick": "Pull request = Yêu cầu kéo/sát nhập code vào kho chung."
+    "type": "Flashcard",
+    "hindi": "Yellow",
+    "transliteration": "",
+    "english": "पीला",
+    "vietnamese": "Màu vàng",
+    "audio": "Yellow"
   },
   {
-    "type": "Listening",
-    "audio": "Please do a code review.",
-    "translation_en": "Please do a code review.",
-    "options_en": [
-      "Please do a code review.",
-      "Create a repository.",
-      "Merge the branch.",
-      "Delete the code."
+    "type": "Flashcard",
+    "hindi": "Black",
+    "transliteration": "",
+    "english": "काला",
+    "vietnamese": "Màu đen",
+    "audio": "Black"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "White",
+    "transliteration": "",
+    "english": "सफ़ेद",
+    "vietnamese": "Màu trắng",
+    "audio": "White"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hatred",
+    "transliteration": "",
+    "english": "नफ़रत",
+    "vietnamese": "Sự ghét bỏ / Căm thù",
+    "audio": "Hatred"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yellow'",
+    "prompt_en": "Choose correct translation for 'Yellow'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yellow'",
+    "text": "Yellow",
+    "subtext": "",
+    "answer": "पीला",
+    "answer_vi": "Màu vàng",
+    "options": [
+      "पीला",
+      "काला",
+      "सफ़ेद",
+      "नफ़रत"
     ],
-    "translation_vi": "Vui lòng đánh giá mã nguồn.",
     "options_vi": [
-      "Vui lòng đánh giá mã nguồn.",
-      "Tạo một kho chứa mã.",
-      "Hợp nhất nhánh.",
-      "Xóa mã nguồn."
+      "Màu vàng",
+      "Màu đen",
+      "Màu trắng",
+      "Sự ghét bỏ / Căm thù"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "Merge the code",
-    "translation": "Hợp nhất mã nguồn"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yellow",
+        "english": "पीला (Màu vàng)"
+      },
+      {
+        "hindi": "Black",
+        "english": "काला (Màu đen)"
+      },
+      {
+        "hindi": "White",
+        "english": "सफ़ेद (Màu trắng)"
+      },
+      {
+        "hindi": "Hatred",
+        "english": "नफ़रत (Sự ghét bỏ / Căm thù)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Country",
+    "transliteration": "",
+    "english": "देश​",
+    "vietnamese": "Đất nước",
+    "audio": "Country"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​​​​​",
+      "देश​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Đất nước",
+      "Nói",
+      "Mở"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Country",
+        "english": "देश​ (Đất nước)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Reduce price a bit.",
+    "translation_en": "थोड़ा कम कीजिए।",
+    "translation_vi": "Giảm giá một chút.",
+    "options_en": [
+      "थोड़ा कम कीजिए।",
+      "लाल",
+      "नीला",
+      "हरा"
+    ],
+    "options_vi": [
+      "Giảm giá một chút.",
+      "Màu đỏ",
+      "Màu xanh dương",
+      "Màu xanh lá"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the थोड़ा कम कीजिए। / Tôi thấy Giảm giá một chút.",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Reduce price a bit."
+    ],
+    "correctHindiSentence": "I see the Reduce price a bit."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is लाल? / Màu đỏ ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "the",
+      "Red"
+    ],
+    "correctHindiSentence": "Where is the Red"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Reduce price a bit. and To open",
+      "Practiced constructing sentences."
+    ]
   }
 ]

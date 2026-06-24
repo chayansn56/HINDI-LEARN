@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 3",
+    "description": "Master the vocabulary and grammar for: Speak - Level 3. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative plural)",
+    "transliteration": "",
+    "english": "जिन्हें",
+    "vietnamese": "Người mà (số nhiều)",
+    "audio": "Whom (relative plural)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Just then / That is why",
+    "transliteration": "",
+    "english": "तभी",
+    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "audio": "Just then / That is why"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What time is it?",
+    "transliteration": "",
+    "english": "क्या समय हुआ है?",
+    "vietnamese": "Mấy giờ rồi?",
+    "audio": "What time is it?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​​​​​​",
+      "जिन्हें",
+      "तभी",
+      "क्या समय हुआ है?"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Người mà (số nhiều)",
+      "Ngay lúc đó / Chính vì vậy",
+      "Mấy giờ rồi?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Whom (relative plural)",
+        "english": "जिन्हें (Người mà (số nhiều))"
+      },
+      {
+        "hindi": "Just then / That is why",
+        "english": "तभी (Ngay lúc đó / Chính vì vậy)"
+      },
+      {
+        "hindi": "What time is it?",
+        "english": "क्या समय हुआ है? (Mấy giờ rồi?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How's it going? / How are you?",
+    "transliteration": "",
+    "english": "क्या हाल है?",
+    "vietnamese": "Thế nào rồi?",
+    "audio": "How's it going? / How are you?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, absolutely.",
+    "transliteration": "",
+    "english": "हाँ, बिल्कुल।",
+    "vietnamese": "Vâng, hoàn toàn đồng ý.",
+    "audio": "Yes, absolutely."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​​",
+      "क्या हाल है?",
+      "बर्फ़​​​",
+      "हाँ, बिल्कुल।"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Thế nào rồi?",
+      "Tuyết / Đá",
+      "Vâng, hoàn toàn đồng ý."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "How's it going? / How are you?",
+        "english": "क्या हाल है? (Thế nào rồi?)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Yes, absolutely.",
+        "english": "हाँ, बिल्कुल। (Vâng, hoàn toàn đồng ý.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Please say it again..",
+    "simpleRule": "Remember: Please say it again. means फिर से कहिए। (Làm ơn nói lại lần nữa.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please say it again.",
+    "transliteration": "",
+    "english": "फिर से कहिए।",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "Please say it again."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Afternoon",
+    "transliteration": "",
+    "english": "दोपहर",
+    "vietnamese": "Buổi trưa",
+    "audio": "Afternoon"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How many",
+    "transliteration": "",
+    "english": "कितने",
+    "vietnamese": "Bao nhiêu (số lượng)",
+    "audio": "How many"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Please say it again.'",
+    "prompt_en": "Choose correct translation for 'Please say it again.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Please say it again.'",
+    "text": "Please say it again.",
+    "subtext": "",
+    "answer": "फिर से कहिए।",
+    "answer_vi": "Làm ơn nói lại lần nữa.",
+    "options": [
+      "फिर से कहिए।",
+      "दोपहर",
+      "बर्फ़​​​​​",
+      "कितने"
+    ],
+    "options_vi": [
+      "Làm ơn nói lại lần nữa.",
+      "Buổi trưa",
+      "Tuyết / Đá",
+      "Bao nhiêu (số lượng)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Please say it again.",
+        "english": "फिर से कहिए। (Làm ơn nói lại lần nữa.)"
+      },
+      {
+        "hindi": "Afternoon",
+        "english": "दोपहर (Buổi trưa)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "How many",
+        "english": "कितने (Bao nhiêu (số lượng))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: I don't know..",
+    "simpleRule": "Remember: I don't know. means पता नहीं। (Tôi không biết.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know.",
+    "transliteration": "",
+    "english": "पता नहीं।",
+    "vietnamese": "Tôi không biết.",
+    "audio": "I don't know."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Name",
+    "transliteration": "",
+    "english": "नाम",
+    "vietnamese": "Tên",
+    "audio": "Name"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello, how are you?",
+    "transliteration": "",
+    "english": "नमस्ते, आप कैसे हैं?",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "Hello, how are you?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I don't know.'",
+    "prompt_en": "Choose correct translation for 'I don't know.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I don't know.'",
+    "text": "I don't know.",
+    "subtext": "",
+    "answer": "पता नहीं।",
+    "answer_vi": "Tôi không biết.",
+    "options": [
+      "पता नहीं।",
+      "नाम",
+      "नमस्ते, आप कैसे हैं?",
+      "कापी​"
+    ],
+    "options_vi": [
+      "Tôi không biết.",
+      "Tên",
+      "Xin chào, bạn khỏe không?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I don't know.",
+        "english": "पता नहीं। (Tôi không biết.)"
+      },
+      {
+        "hindi": "Name",
+        "english": "नाम (Tên)"
+      },
+      {
+        "hindi": "Hello, how are you?",
+        "english": "नमस्ते, आप कैसे हैं? (Xin chào, bạn khỏe không?)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Notebook",
+    "translation_en": "कापी​​​​​​​​​​",
+    "translation_vi": "Sổ tay",
+    "options_en": [
+      "कापी​​​​​​​​​​",
+      "जिन्हें",
+      "तभी",
+      "क्या समय हुआ है?"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Người mà (số nhiều)",
+      "Ngay lúc đó / Chính vì vậy",
+      "Mấy giờ rồi?"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कापी​​​​​​​​​​ / Nó là một Sổ tay",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Notebook"
+    ],
+    "correctHindiSentence": "It is a Notebook"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like जिन्हें / Tôi thích Người mà (số nhiều)",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Whom (relative plural)"
+    ],
+    "correctHindiSentence": "I really like Whom (relative plural)"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Notebook and Notebook",
+      "Practiced constructing sentences."
+    ]
+  }
+]

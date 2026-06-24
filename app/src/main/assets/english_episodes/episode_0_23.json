@@ -1,0 +1,304 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 23",
+    "description": "Master the vocabulary and grammar for: Episode 23. Read the key points carefully.",
+    "keyPoints": [
+      "Foundation Practice"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​​​​​​​​​​​​​​​​​​​​​ (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Dạy",
+    "options": [
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​",
+      "सफ़र"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Ngồi",
+      "Viết",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To learn.",
+    "simpleRule": "Remember: To learn means सीखना​ (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To learn'",
+    "prompt_en": "Choose correct translation for 'To learn'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
+    "text": "To learn",
+    "subtext": "",
+    "answer": "सीखना​",
+    "answer_vi": "Học",
+    "options": [
+      "सीखना​",
+      "आग​​​​​",
+      "चलना​​​​​",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Học",
+      "Lửa",
+      "Đi bộ / Di chuyển",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To learn",
+        "english": "सीखना​ (Học)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To walk / move.",
+    "simpleRule": "Remember: To walk / move means चलना​​​​​​​​​​ (Đi bộ / Di chuyển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mountain",
+    "transliteration": "",
+    "english": "पहाड़​​​​​​​​​​",
+    "vietnamese": "Ngọn núi",
+    "audio": "Mountain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To walk / move'",
+    "prompt_en": "Choose correct translation for 'To walk / move'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
+    "text": "To walk / move",
+    "subtext": "",
+    "answer": "चलना​​​​​​​​​​",
+    "answer_vi": "Đi bộ / Di chuyển",
+    "options": [
+      "चलना​​​​​​​​​​",
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पहाड़​​​​​​​​​​",
+      "दफ़्तर​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Làm việc",
+      "Ngọn núi",
+      "Văn phòng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "Mountain",
+        "english": "पहाड़​​​​​​​​​​ (Ngọn núi)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​​​​​​ (Văn phòng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To teach",
+    "translation_en": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Dạy",
+    "options_en": [
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​",
+      "सफ़र"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Ngồi",
+      "Viết",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a sिखाना​​​​​​​​​​​​​​​​​​​​​​ / Tôi có một Dạy",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "To teach"
+    ],
+    "correctHindiSentence": "I have a To teach"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Đây là một Ngồi",
+    "hindiWords": [
+      "This",
+      "is",
+      "a",
+      "To sit"
+    ],
+    "correctHindiSentence": "This is a To sit"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To teach and Office",
+      "Practiced constructing sentences."
+    ]
+  }
+]

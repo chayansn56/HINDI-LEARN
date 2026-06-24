@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 12",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 12. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: भूरा.",
+    "simpleRule": "Remember: भूरा means Brown (Màu nâu)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भूरा",
+    "transliteration": "bhoora",
+    "english": "Brown",
+    "vietnamese": "Màu nâu",
+    "audio": "भूरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हँसना​​​​​​​​​​​​",
+    "transliteration": "hãsnā",
+    "english": "To laugh",
+    "vietnamese": "Cười lớn",
+    "audio": "हँसना​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​​​​​​​​​​​​​​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'भूरा'",
+    "prompt_en": "Choose correct translation for 'भूरा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'भूरा'",
+    "text": "भूरा",
+    "subtext": "bhoora",
+    "answer": "Brown",
+    "answer_vi": "Màu nâu",
+    "options": [
+      "Brown",
+      "To laugh",
+      "To read",
+      "To cry"
+    ],
+    "options_vi": [
+      "Màu nâu",
+      "Cười lớn",
+      "Đọc",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "भूरा",
+        "english": "Brown (Màu nâu)"
+      },
+      {
+        "hindi": "हँसना​​​​​​​​​​​​",
+        "english": "To laugh (Cười lớn)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "रोना​​​​​​​​​​​​​​​​",
+        "english": "To cry (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: स्वागत.",
+    "simpleRule": "Remember: स्वागत means Welcome (Chào mừng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स्वागत",
+    "transliteration": "svaagat",
+    "english": "Welcome",
+    "vietnamese": "Chào mừng",
+    "audio": "स्वागत"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​​​​​​​​​​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'स्वागत'",
+    "prompt_en": "Choose correct translation for 'स्वागत'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'स्वागत'",
+    "text": "स्वागत",
+    "subtext": "svaagat",
+    "answer": "Welcome",
+    "answer_vi": "Chào mừng",
+    "options": [
+      "Welcome",
+      "To speak",
+      "To read",
+      "To take"
+    ],
+    "options_vi": [
+      "Chào mừng",
+      "Nói",
+      "Đọc",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "स्वागत",
+        "english": "Welcome (Chào mừng)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "लेना​​​​​​​​​​​​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "भूरा",
+    "translation_en": "Brown",
+    "translation_vi": "Màu nâu",
+    "options_en": [
+      "Brown",
+      "To laugh",
+      "To read",
+      "To cry"
+    ],
+    "options_vi": [
+      "Màu nâu",
+      "Cười lớn",
+      "Đọc",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Brown / Đây là Màu nâu",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "भूरा",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक भूरा है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To laugh / Tôi thấy Cười lớn",
+    "hindiWords": [
+      "मैं",
+      "हँसना​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं हँसना​​​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: भूरा, लेना​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

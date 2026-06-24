@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 11",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 11. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: All good..",
+    "simpleRule": "Remember: All good. means सब बढ़िया। (Mọi thứ đều tốt.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "All good.",
+    "transliteration": "",
+    "english": "सब बढ़िया।",
+    "vietnamese": "Mọi thứ đều tốt.",
+    "audio": "All good."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Strong / Robust / Awesome",
+    "transliteration": "",
+    "english": "तगड़ा",
+    "vietnamese": "Mạnh mẽ / Tuyệt vời",
+    "audio": "Strong / Robust / Awesome"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'All good.'",
+    "prompt_en": "Choose correct translation for 'All good.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'All good.'",
+    "text": "All good.",
+    "subtext": "",
+    "answer": "सब बढ़िया।",
+    "answer_vi": "Mọi thứ đều tốt.",
+    "options": [
+      "सब बढ़िया।",
+      "तगड़ा",
+      "सुनना​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mọi thứ đều tốt.",
+      "Mạnh mẽ / Tuyệt vời",
+      "Nghe",
+      "Biển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "All good.",
+        "english": "सब बढ़िया। (Mọi thứ đều tốt.)"
+      },
+      {
+        "hindi": "Strong / Robust / Awesome",
+        "english": "तगड़ा (Mạnh mẽ / Tuyệt vời)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​​​​​ (Biển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To wash.",
+    "simpleRule": "Remember: To wash means धोना​​​ (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wash'",
+    "prompt_en": "Choose correct translation for 'To wash'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
+    "text": "To wash",
+    "subtext": "",
+    "answer": "धोना​​​",
+    "answer_vi": "Rửa / Giặt",
+    "options": [
+      "धोना​​​",
+      "साफ करना​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "ताला"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Dọn dẹp / Lau chùi",
+      "Viết",
+      "Ổ khóa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "Lock",
+        "english": "ताला (Ổ khóa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To walk / move.",
+    "simpleRule": "Remember: To walk / move means चलना​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To walk / move'",
+    "prompt_en": "Choose correct translation for 'To walk / move'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
+    "text": "To walk / move",
+    "subtext": "",
+    "answer": "चलना​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đi bộ / Di chuyển",
+    "options": [
+      "चलना​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​",
+      "लेना​​​​​​​​​",
+      "देखना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Nói",
+      "Lấy / Nhận",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​ (Nói)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Lock.",
+    "simpleRule": "Remember: Lock means ताला​​​​​​​​​​​ (Ổ khóa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​​​​​​​​​​​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yoga",
+    "transliteration": "",
+    "english": "योगा",
+    "vietnamese": "Môn Yoga",
+    "audio": "Yoga"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Blessing",
+    "transliteration": "",
+    "english": "आशीर्वाद",
+    "vietnamese": "Lời chúc phúc / Sự ban phước",
+    "audio": "Blessing"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Lock'",
+    "prompt_en": "Choose correct translation for 'Lock'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
+    "text": "Lock",
+    "subtext": "",
+    "answer": "ताला​​​​​​​​​​​",
+    "answer_vi": "Ổ khóa",
+    "options": [
+      "ताला​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "योगा",
+      "आशीर्वाद"
+    ],
+    "options_vi": [
+      "Ổ khóa",
+      "Nghe",
+      "Môn Yoga",
+      "Lời chúc phúc / Sự ban phước"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Lock",
+        "english": "ताला​​​​​​​​​​​ (Ổ khóa)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Yoga",
+        "english": "योगा (Môn Yoga)"
+      },
+      {
+        "hindi": "Blessing",
+        "english": "आशीर्वाद (Lời chúc phúc / Sự ban phước)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "All good.",
+    "translation_en": "सब बढ़िया।",
+    "translation_vi": "Mọi thứ đều tốt.",
+    "options_en": [
+      "सब बढ़िया।",
+      "तगड़ा",
+      "सुनना​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mọi thứ đều tốt.",
+      "Mạnh mẽ / Tuyệt vời",
+      "Nghe",
+      "Biển"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सब बढ़िया। / Nó là một Mọi thứ đều tốt.",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "All good."
+    ],
+    "correctHindiSentence": "It is a All good."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like तगड़ा / Tôi thích Mạnh mẽ / Tuyệt vời",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Strong / Robust / Awesome"
+    ],
+    "correctHindiSentence": "I really like Strong / Robust / Awesome"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: All good. and Blessing",
+      "Practiced constructing sentences."
+    ]
+  }
+]

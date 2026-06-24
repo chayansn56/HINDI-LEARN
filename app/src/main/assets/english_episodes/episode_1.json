@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 1",
+    "description": "Master the vocabulary and grammar for: Episode 1. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 1",
+    "title_vi": "Tập 1",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Snow / Ice (बर्फ़​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Tuyết / Đá."
+      },
+      {
+        "hindi": "Later, you encounter a Fire (आग​).",
+        "translation": "Sau đó, bạn gặp một Lửa."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Snow / Ice",
+        "isCorrect": true
+      },
+      {
+        "text": "Fire",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What does this mean?",
+    "transliteration": "",
+    "english": "इसका क्या मतलब है?",
+    "vietnamese": "Cái này có nghĩa là gì?",
+    "audio": "What does this mean?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What time is it?",
+    "transliteration": "",
+    "english": "क्या समय हुआ है?",
+    "vietnamese": "Mấy giờ rồi?",
+    "audio": "What time is it?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​​​",
+      "आग​",
+      "इसका क्या मतलब है?",
+      "क्या समय हुआ है?"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Lửa",
+      "Cái này có nghĩa là gì?",
+      "Mấy giờ rồi?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​ (Lửa)"
+      },
+      {
+        "hindi": "What does this mean?",
+        "english": "इसका क्या मतलब है? (Cái này có nghĩa là gì?)"
+      },
+      {
+        "hindi": "What time is it?",
+        "english": "क्या समय हुआ है? (Mấy giờ rồi?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pilgrimage",
+    "transliteration": "",
+    "english": "तीर्थयात्रा",
+    "vietnamese": "Cuộc hành hương",
+    "audio": "Pilgrimage"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Go straight.",
+    "transliteration": "",
+    "english": "सीधे चलिए।",
+    "vietnamese": "Đi thẳng.",
+    "audio": "Go straight."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Applaud / Clapping",
+    "transliteration": "",
+    "english": "तालियाँ",
+    "vietnamese": "Tràng pháo tay",
+    "audio": "Applaud / Clapping"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​",
+      "तीर्थयात्रा",
+      "सीधे चलिए।",
+      "तालियाँ"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Cuộc hành hương",
+      "Đi thẳng.",
+      "Tràng pháo tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Pilgrimage",
+        "english": "तीर्थयात्रा (Cuộc hành hương)"
+      },
+      {
+        "hindi": "Go straight.",
+        "english": "सीधे चलिए। (Đi thẳng.)"
+      },
+      {
+        "hindi": "Applaud / Clapping",
+        "english": "तालियाँ (Tràng pháo tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To sleep.",
+    "simpleRule": "Remember: To sleep means सोना​​​​​​​​ (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "GB (Gigabyte)",
+    "transliteration": "",
+    "english": "जीबी",
+    "vietnamese": "GB (Gigabyte)",
+    "audio": "GB (Gigabyte)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sleep'",
+    "prompt_en": "Choose correct translation for 'To sleep'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
+    "text": "To sleep",
+    "subtext": "",
+    "answer": "सोना​​​​​​​​",
+    "answer_vi": "Ngủ",
+    "options": [
+      "सोना​​​​​​​​",
+      "जीबी",
+      "बैठना​​​",
+      "पूछना​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "GB (Gigabyte)",
+      "Ngồi",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "GB (Gigabyte)",
+        "english": "जीबी (GB (Gigabyte))"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Snow / Ice",
+    "translation_en": "बर्फ़​​​​​​​​",
+    "translation_vi": "Tuyết / Đá",
+    "options_en": [
+      "बर्फ़​​​​​​​​",
+      "आग​",
+      "इसका क्या मतलब है?",
+      "क्या समय हुआ है?"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Lửa",
+      "Cái này có nghĩa là gì?",
+      "Mấy giờ rồi?"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बर्फ़​​​​​​​​ / Tôi thấy Tuyết / Đá",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "I see the Snow / Ice"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a आग​ / Tôi muốn Lửa",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Fire"
+    ],
+    "correctHindiSentence": "I want a Fire"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Snow / Ice and To ask",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 11",
+    "description": "Master the vocabulary and grammar for: Speak - Level 11. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: What else is going on? / What's up?.",
+    "simpleRule": "Remember: What else is going on? / What's up? means और क्या चल रहा है? (Có chuyện gì mới không?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What else is going on? / What's up?",
+    "transliteration": "",
+    "english": "और क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì mới không?",
+    "audio": "What else is going on? / What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Reverent Hello",
+    "transliteration": "",
+    "english": "प्रणाम",
+    "vietnamese": "Kính chào",
+    "audio": "Reverent Hello"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What else is going on? / What's up?'",
+    "prompt_en": "Choose correct translation for 'What else is going on? / What's up?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What else is going on? / What's up?'",
+    "text": "What else is going on? / What's up?",
+    "subtext": "",
+    "answer": "और क्या चल रहा है?",
+    "answer_vi": "Có chuyện gì mới không?",
+    "options": [
+      "और क्या चल रहा है?",
+      "प्रणाम",
+      "कापी​​​​​",
+      "बर्फ़​​​​​​​"
+    ],
+    "options_vi": [
+      "Có chuyện gì mới không?",
+      "Kính chào",
+      "Sổ tay",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What else is going on? / What's up?",
+        "english": "और क्या चल रहा है? (Có chuyện gì mới không?)"
+      },
+      {
+        "hindi": "Reverent Hello",
+        "english": "प्रणाम (Kính chào)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Hello (highly respectful).",
+    "simpleRule": "Remember: Hello (highly respectful) means नमस्ते जी (Kính chào quý vị)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello (highly respectful)",
+    "transliteration": "",
+    "english": "नमस्ते जी",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "Hello (highly respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, I am ready.",
+    "transliteration": "",
+    "english": "हाँ, मैं तैयार हूँ।",
+    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "audio": "Yes, I am ready."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How's it going? / How are you?",
+    "transliteration": "",
+    "english": "क्या हाल है?",
+    "vietnamese": "Thế nào rồi?",
+    "audio": "How's it going? / How are you?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Hello (highly respectful)'",
+    "prompt_en": "Choose correct translation for 'Hello (highly respectful)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Hello (highly respectful)'",
+    "text": "Hello (highly respectful)",
+    "subtext": "",
+    "answer": "नमस्ते जी",
+    "answer_vi": "Kính chào quý vị",
+    "options": [
+      "नमस्ते जी",
+      "कापी​​​​​​​​​​​",
+      "हाँ, मैं तैयार हूँ।",
+      "क्या हाल है?"
+    ],
+    "options_vi": [
+      "Kính chào quý vị",
+      "Sổ tay",
+      "Vâng, tôi sẵn sàng rồi.",
+      "Thế nào rồi?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Hello (highly respectful)",
+        "english": "नमस्ते जी (Kính chào quý vị)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Yes, I am ready.",
+        "english": "हाँ, मैं तैयार हूँ। (Vâng, tôi sẵn sàng rồi.)"
+      },
+      {
+        "hindi": "How's it going? / How are you?",
+        "english": "क्या हाल है? (Thế nào rồi?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whose (singular)",
+    "transliteration": "",
+    "english": "किसका",
+    "vietnamese": "Của ai",
+    "audio": "Whose (singular)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much is it?",
+    "transliteration": "",
+    "english": "कितना हुआ?",
+    "vietnamese": "Bao nhiêu tiền?",
+    "audio": "How much is it?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​",
+      "किसका",
+      "कितना हुआ?",
+      "बर्फ़​​​"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Của ai",
+      "Bao nhiêu tiền?",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Whose (singular)",
+        "english": "किसका (Của ai)"
+      },
+      {
+        "hindi": "How much is it?",
+        "english": "कितना हुआ? (Bao nhiêu tiền?)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I did not understand.",
+    "transliteration": "",
+    "english": "मुझे समझ नहीं आया।",
+    "vietnamese": "Tôi không hiểu.",
+    "audio": "I did not understand."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello / Greetings",
+    "transliteration": "",
+    "english": "नमस्ते",
+    "vietnamese": "Xin chào",
+    "audio": "Hello / Greetings"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​​​​​",
+      "मुझे समझ नहीं आया।",
+      "बर्फ़​​​​​​​​​​",
+      "नमस्ते"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Tôi không hiểu.",
+      "Tuyết / Đá",
+      "Xin chào"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "I did not understand.",
+        "english": "मुझे समझ नहीं आया। (Tôi không hiểu.)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Hello / Greetings",
+        "english": "नमस्ते (Xin chào)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "What else is going on? / What's up?",
+    "translation_en": "और क्या चल रहा है?",
+    "translation_vi": "Có chuyện gì mới không?",
+    "options_en": [
+      "और क्या चल रहा है?",
+      "प्रणाम",
+      "कापी​​​​​",
+      "बर्फ़​​​​​​​"
+    ],
+    "options_vi": [
+      "Có chuyện gì mới không?",
+      "Kính chào",
+      "Sổ tay",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a और क्या चल रहा है? / Nó là một Có chuyện gì mới không?",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "What else is going on? / What's up?"
+    ],
+    "correctHindiSentence": "It is a What else is going on? / What's up?"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like प्रणाम / Tôi thích Kính chào",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Reverent Hello"
+    ],
+    "correctHindiSentence": "I really like Reverent Hello"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: What else is going on? / What's up? and Hello / Greetings",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 15",
+    "description": "Master the vocabulary and grammar for: Episode 15. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 15",
+    "title_vi": "Tập 15",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To wake up (जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Thức dậy."
+      },
+      {
+        "hindi": "Later, you encounter a To work (काम करना​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Làm việc."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To wake up",
+        "isCorrect": true
+      },
+      {
+        "text": "To work",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "was (masculine)",
+    "transliteration": "",
+    "english": "था",
+    "vietnamese": "Đã là (nam)",
+    "audio": "was (masculine)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "काम करना​​​​​​",
+      "था",
+      "हँसना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Làm việc",
+      "Đã là (nam)",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "was (masculine)",
+        "english": "था (Đã là (nam))"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​ (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Please speak slowly..",
+    "simpleRule": "Remember: Please speak slowly. means कृपया धीरे बोलिए। (Làm ơn nói chậm lại.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please speak slowly.",
+    "transliteration": "",
+    "english": "कृपया धीरे बोलिए।",
+    "vietnamese": "Làm ơn nói chậm lại.",
+    "audio": "Please speak slowly."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Please speak slowly.'",
+    "prompt_en": "Choose correct translation for 'Please speak slowly.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Please speak slowly.'",
+    "text": "Please speak slowly.",
+    "subtext": "",
+    "answer": "कृपया धीरे बोलिए।",
+    "answer_vi": "Làm ơn nói chậm lại.",
+    "options": [
+      "कृपया धीरे बोलिए।",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm ơn nói chậm lại.",
+      "Kể / Giải thích",
+      "Chế tạo / Tạo ra",
+      "Mở"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Please speak slowly.",
+        "english": "कृपया धीरे बोलिए। (Làm ơn nói chậm lại.)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To take.",
+    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Employee",
+    "transliteration": "",
+    "english": "कर्मचारी",
+    "vietnamese": "Nhân viên",
+    "audio": "Employee"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To take'",
+    "prompt_en": "Choose correct translation for 'To take'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
+    "text": "To take",
+    "subtext": "",
+    "answer": "लेना​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "लेना​​​​​​​​​​​​​​​​​​​​",
+      "कर्मचारी",
+      "देना​​​​​​​​​​",
+      "समुद्र​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Nhân viên",
+      "Cho / Tặng",
+      "Biển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Employee",
+        "english": "कर्मचारी (Nhân viên)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​​​​​ (Biển)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To wake up",
+    "translation_en": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Thức dậy",
+    "options_en": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "काम करना​​​​​​",
+      "था",
+      "हँसना​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Làm việc",
+      "Đã là (nam)",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Thức dậy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To wake up"
+    ],
+    "correctHindiSentence": "I see the To wake up"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a काम करना​​​​​​ / Tôi muốn Làm việc",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To work"
+    ],
+    "correctHindiSentence": "I want a To work"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To wake up and Sea / Ocean",
+      "Practiced constructing sentences."
+    ]
+  }
+]

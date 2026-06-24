@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Write - Level 19",
+    "description": "Master the vocabulary and grammar for: Write - Level 19. Read the key points carefully.",
+    "keyPoints": [
+      "Learn write concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: लिखना​​​​​.",
+    "simpleRule": "Remember: लिखना​​​​​ means To write (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​​​​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'लिखना​​​​​'",
+    "prompt_en": "Choose correct translation for 'लिखना​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​'",
+    "text": "लिखना​​​​​",
+    "subtext": "likhnā",
+    "answer": "To write",
+    "answer_vi": "Viết",
+    "options": [
+      "To write",
+      "To write",
+      "Pen",
+      "To read"
+    ],
+    "options_vi": [
+      "Viết",
+      "Viết",
+      "Bút",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "लिखना​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "पेन​​​​​​​​​​",
+        "english": "Pen (Bút)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बहुत महँगा है।.",
+    "simpleRule": "Remember: बहुत महँगा है। means It is very expensive. (Rất đắt.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बहुत महँगा है।",
+    "transliteration": "bahut mahaṅgā hai.",
+    "english": "It is very expensive.",
+    "vietnamese": "Rất đắt.",
+    "audio": "बहुत महँगा है।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कापी​​​​​​​​​​​",
+    "transliteration": "kaapī",
+    "english": "Notebook",
+    "vietnamese": "Sổ tay",
+    "audio": "कापी​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बहुत महँगा है।'",
+    "prompt_en": "Choose correct translation for 'बहुत महँगा है।'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बहुत महँगा है।'",
+    "text": "बहुत महँगा है।",
+    "subtext": "bahut mahaṅgā hai.",
+    "answer": "It is very expensive.",
+    "answer_vi": "Rất đắt.",
+    "options": [
+      "It is very expensive.",
+      "Notebook",
+      "To open",
+      "To write"
+    ],
+    "options_vi": [
+      "Rất đắt.",
+      "Sổ tay",
+      "Mở",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बहुत महँगा है।",
+        "english": "It is very expensive. (Rất đắt.)"
+      },
+      {
+        "hindi": "कापी​​​​​​​​​​​",
+        "english": "Notebook (Sổ tay)"
+      },
+      {
+        "hindi": "खोलना​​​​​​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "लिखना​​​​​",
+    "translation_en": "To write",
+    "translation_vi": "Viết",
+    "options_en": [
+      "To write",
+      "To write",
+      "Pen",
+      "To read"
+    ],
+    "options_vi": [
+      "Viết",
+      "Viết",
+      "Bút",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To write / Đây là Viết",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "लिखना​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक लिखना​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To write / Tôi thấy Viết",
+    "hindiWords": [
+      "मैं",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: लिखना​​​​​, लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

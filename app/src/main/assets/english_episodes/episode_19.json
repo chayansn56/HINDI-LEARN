@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 19",
+    "description": "Master the vocabulary and grammar for: Episode 19. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 19",
+    "title_vi": "Tập 19",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To speak (बोलना​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Nói."
+      },
+      {
+        "hindi": "Later, you encounter a Slink away / Slip out (कट ले).",
+        "translation": "Sau đó, bạn gặp một Lẻn đi thôi / Rút lui."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To speak",
+        "isCorrect": true
+      },
+      {
+        "text": "Slink away / Slip out",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Slink away / Slip out",
+    "transliteration": "",
+    "english": "कट ले",
+    "vietnamese": "Lẻn đi thôi / Rút lui",
+    "audio": "Slink away / Slip out"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​​​​​",
+      "कट ले",
+      "सफ़र​​​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Lẻn đi thôi / Rút lui",
+      "Chuyến đi",
+      "Mở"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Slink away / Slip out",
+        "english": "कट ले (Lẻn đi thôi / Rút lui)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Lock.",
+    "simpleRule": "Remember: Lock means ताला​ (Ổ khóa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Lock'",
+    "prompt_en": "Choose correct translation for 'Lock'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
+    "text": "Lock",
+    "subtext": "",
+    "answer": "ताला​",
+    "answer_vi": "Ổ khóa",
+    "options": [
+      "ताला​",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देना​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ổ khóa",
+      "Đứng",
+      "Cho / Tặng",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Lock",
+        "english": "ताला​ (Ổ khóa)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To open.",
+    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​ (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nose",
+    "transliteration": "",
+    "english": "नाक",
+    "vietnamese": "Mũi",
+    "audio": "Nose"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To open'",
+    "prompt_en": "Choose correct translation for 'To open'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
+    "text": "To open",
+    "subtext": "",
+    "answer": "खोलना​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Mở",
+    "options": [
+      "खोलना​​​​​​​​​​​​​​​​​​​",
+      "नाक",
+      "दफ़्तर​​",
+      "गाँव​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Mũi",
+      "Văn phòng",
+      "Ngôi làng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "Nose",
+        "english": "नाक (Mũi)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​ (Văn phòng)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​ (Ngôi làng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To speak",
+    "translation_en": "बोलना​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Nói",
+    "options_en": [
+      "बोलना​​​​​​​​​​​​​​​​​​",
+      "कट ले",
+      "सफ़र​​​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Lẻn đi thôi / Rút lui",
+      "Chuyến đi",
+      "Mở"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बोलना​​​​​​​​​​​​​​​​​​ / Tôi thấy Nói",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To speak"
+    ],
+    "correctHindiSentence": "I see the To speak"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a कट ले / Tôi muốn Lẻn đi thôi / Rút lui",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Slink away / Slip out"
+    ],
+    "correctHindiSentence": "I want a Slink away / Slip out"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To speak and Village",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 27",
+    "description": "Master the vocabulary and grammar for: Episode 27. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 27",
+    "title_vi": "Tập 27",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To stand (खड़े होना​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đứng."
+      },
+      {
+        "hindi": "Later, you encounter a To speak (बोलना).",
+        "translation": "Sau đó, bạn gặp một Nói."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To stand",
+        "isCorrect": true
+      },
+      {
+        "text": "To speak",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To stand.",
+    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​ (Đứng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​​​​​​​​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To stand'",
+    "prompt_en": "Choose correct translation for 'To stand'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
+    "text": "To stand",
+    "subtext": "",
+    "answer": "खड़े होना​​​​​​​​​​​​",
+    "answer_vi": "Đứng",
+    "options": [
+      "खड़े होना​​​​​​​​​​​​",
+      "बोलना",
+      "दौड़ना​​​​​​​​​​​",
+      "बनाना​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Nói",
+      "Chạy",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना (Nói)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To write.",
+    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Of (masc. sing.)",
+    "transliteration": "",
+    "english": "का",
+    "vietnamese": "Của (nam số ít)",
+    "audio": "Of (masc. sing.)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To write'",
+    "prompt_en": "Choose correct translation for 'To write'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
+    "text": "To write",
+    "subtext": "",
+    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Viết",
+    "options": [
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​",
+      "का",
+      "साफ करना​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Viết",
+      "Hỏi",
+      "Của (nam số ít)",
+      "Dọn dẹp / Lau chùi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Of (masc. sing.)",
+        "english": "का (Của (nam số ít))"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Yes (respectful).",
+    "simpleRule": "Remember: Yes (respectful) means जी हाँ (Vâng (Lịch sự))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes (respectful)",
+    "transliteration": "",
+    "english": "जी हाँ",
+    "vietnamese": "Vâng (Lịch sự)",
+    "audio": "Yes (respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No problem",
+    "transliteration": "",
+    "english": "कोई बात नहीं",
+    "vietnamese": "Không sao đâu",
+    "audio": "No problem"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yes (respectful)'",
+    "prompt_en": "Choose correct translation for 'Yes (respectful)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yes (respectful)'",
+    "text": "Yes (respectful)",
+    "subtext": "",
+    "answer": "जी हाँ",
+    "answer_vi": "Vâng (Lịch sự)",
+    "options": [
+      "जी हाँ",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना​",
+      "कोई बात नहीं"
+    ],
+    "options_vi": [
+      "Vâng (Lịch sự)",
+      "Ngủ",
+      "Ngồi",
+      "Không sao đâu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yes (respectful)",
+        "english": "जी हाँ (Vâng (Lịch sự))"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​ (Ngồi)"
+      },
+      {
+        "hindi": "No problem",
+        "english": "कोई बात नहीं (Không sao đâu)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To stand",
+    "translation_en": "खड़े होना​​​​​​​​​​​​",
+    "translation_vi": "Đứng",
+    "options_en": [
+      "खड़े होना​​​​​​​​​​​​",
+      "बोलना",
+      "दौड़ना​​​​​​​​​​​",
+      "बनाना​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Nói",
+      "Chạy",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the खड़े होना​​​​​​​​​​​​ / Tôi thấy Đứng",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To stand"
+    ],
+    "correctHindiSentence": "I see the To stand"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बोलना / Tôi muốn Nói",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To speak"
+    ],
+    "correctHindiSentence": "I want a To speak"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To stand and No problem",
+      "Practiced constructing sentences."
+    ]
+  }
+]

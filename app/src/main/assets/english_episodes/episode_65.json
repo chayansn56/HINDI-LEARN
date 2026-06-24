@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 65",
+    "description": "Master the vocabulary and grammar for: Episode 65. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 65",
+    "title_vi": "Tập 65",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
+      },
+      {
+        "hindi": "Later, you encounter a To learn (सीखना​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Học."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To ask",
+        "isCorrect": true
+      },
+      {
+        "text": "To learn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​",
+      "पैसा​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Học",
+      "Đi bộ / Di chuyển",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​​​​​ (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Eid",
+    "transliteration": "",
+    "english": "ईद",
+    "vietnamese": "Lễ hội Eid",
+    "audio": "Eid"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Temple",
+    "transliteration": "",
+    "english": "मंदिर",
+    "vietnamese": "Đền thờ",
+    "audio": "Temple"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना​​​​​​​​​​​​",
+      "ईद",
+      "मंदिर"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Ngồi",
+      "Lễ hội Eid",
+      "Đền thờ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "Eid",
+        "english": "ईद (Lễ hội Eid)"
+      },
+      {
+        "hindi": "Temple",
+        "english": "मंदिर (Đền thờ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Romance.",
+    "simpleRule": "Remember: Romance means रोमांस (Sự lãng mạn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Romance",
+    "transliteration": "",
+    "english": "रोमांस",
+    "vietnamese": "Sự lãng mạn",
+    "audio": "Romance"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "9",
+    "transliteration": "",
+    "english": "९",
+    "vietnamese": "Chín",
+    "audio": "9"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Romance'",
+    "prompt_en": "Choose correct translation for 'Romance'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Romance'",
+    "text": "Romance",
+    "subtext": "",
+    "answer": "रोमांस",
+    "answer_vi": "Sự lãng mạn",
+    "options": [
+      "रोमांस",
+      "देखना​​​​​​​​",
+      "९",
+      "देना​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự lãng mạn",
+      "Nhìn / Xem",
+      "Chín",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Romance",
+        "english": "रोमांस (Sự lãng mạn)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "9",
+        "english": "९ (Chín)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To ask",
+    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Hỏi",
+    "options_en": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​",
+      "पैसा​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Học",
+      "Đi bộ / Di chuyển",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Hỏi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To ask"
+    ],
+    "correctHindiSentence": "I see the To ask"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सीखना​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Học",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To learn"
+    ],
+    "correctHindiSentence": "I want a To learn"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To ask and To give",
+      "Practiced constructing sentences."
+    ]
+  }
+]

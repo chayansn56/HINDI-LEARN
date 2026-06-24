@@ -1,0 +1,304 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 18",
+    "description": "Master the vocabulary and grammar for: Episode 18. Read the key points carefully.",
+    "keyPoints": [
+      "Foundation Practice"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Shoe.",
+    "simpleRule": "Remember: Shoe means जूता​​​​​ (Giày)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​​​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Garden",
+    "transliteration": "",
+    "english": "बग़ीचा​​​​​​​",
+    "vietnamese": "Khu vườn",
+    "audio": "Garden"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Shoe'",
+    "prompt_en": "Choose correct translation for 'Shoe'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Shoe'",
+    "text": "Shoe",
+    "subtext": "",
+    "answer": "जूता​​​​​",
+    "answer_vi": "Giày",
+    "options": [
+      "जूता​​​​​",
+      "बग़ीचा​​​​​​​",
+      "सुनना",
+      "सुनना​​​​"
+    ],
+    "options_vi": [
+      "Giày",
+      "Khu vườn",
+      "Nghe",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​​​​ (Giày)"
+      },
+      {
+        "hindi": "Garden",
+        "english": "बग़ीचा​​​​​​​ (Khu vườn)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To do.",
+    "simpleRule": "Remember: To do means करना​​ (Làm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Touching feet for blessings",
+    "transliteration": "",
+    "english": "चरण स्पर्श",
+    "vietnamese": "Chạm chân xin phước lành",
+    "audio": "Touching feet for blessings"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tea",
+    "transliteration": "",
+    "english": "चाय",
+    "vietnamese": "Trà",
+    "audio": "Tea"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To do'",
+    "prompt_en": "Choose correct translation for 'To do'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
+    "text": "To do",
+    "subtext": "",
+    "answer": "करना​​",
+    "answer_vi": "Làm",
+    "options": [
+      "करना​​",
+      "चरण स्पर्श",
+      "चाय",
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm",
+      "Chạm chân xin phước lành",
+      "Trà",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To do",
+        "english": "करना​​ (Làm)"
+      },
+      {
+        "hindi": "Touching feet for blessings",
+        "english": "चरण स्पर्श (Chạm chân xin phước lành)"
+      },
+      {
+        "hindi": "Tea",
+        "english": "चाय (Trà)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Come inside..",
+    "simpleRule": "Remember: Come inside. means अंदर आओ। (Vào trong đi.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Come inside.",
+    "transliteration": "",
+    "english": "अंदर आओ।",
+    "vietnamese": "Vào trong đi.",
+    "audio": "Come inside."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Come inside.'",
+    "prompt_en": "Choose correct translation for 'Come inside.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Come inside.'",
+    "text": "Come inside.",
+    "subtext": "",
+    "answer": "अंदर आओ।",
+    "answer_vi": "Vào trong đi.",
+    "options": [
+      "अंदर आओ।",
+      "बोलना​​​​​​​​​​​​",
+      "sिखाना​​​​​",
+      "देखना​​​​​​"
+    ],
+    "options_vi": [
+      "Vào trong đi.",
+      "Nói",
+      "Dạy",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Come inside.",
+        "english": "अंदर आओ। (Vào trong đi.)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Shoe",
+    "translation_en": "जूता​​​​​",
+    "translation_vi": "Giày",
+    "options_en": [
+      "जूता​​​​​",
+      "बग़ीचा​​​​​​​",
+      "सुनना",
+      "सुनना​​​​"
+    ],
+    "options_vi": [
+      "Giày",
+      "Khu vườn",
+      "Nghe",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a जूता​​​​​ / Tôi có một Giày",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "Shoe"
+    ],
+    "correctHindiSentence": "I have a Shoe"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a बग़ीचा​​​​​​​ / Đây là một Khu vườn",
+    "hindiWords": [
+      "This",
+      "is",
+      "a",
+      "Garden"
+    ],
+    "correctHindiSentence": "This is a Garden"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Shoe and To see / watch",
+      "Practiced constructing sentences."
+    ]
+  }
+]

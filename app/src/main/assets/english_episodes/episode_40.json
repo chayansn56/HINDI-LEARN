@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 40",
+    "description": "Master the vocabulary and grammar for: Episode 40. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 40",
+    "title_vi": "Tập 40",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Worship Ritual (पूजा).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Nghi lễ thờ cúng."
+      },
+      {
+        "hindi": "Later, you encounter a To learn (सीखना​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Học."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Worship Ritual",
+        "isCorrect": true
+      },
+      {
+        "text": "To learn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Worship Ritual.",
+    "simpleRule": "Remember: Worship Ritual means पूजा (Nghi lễ thờ cúng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Worship Ritual",
+    "transliteration": "",
+    "english": "पूजा",
+    "vietnamese": "Nghi lễ thờ cúng",
+    "audio": "Worship Ritual"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Worship Ritual'",
+    "prompt_en": "Choose correct translation for 'Worship Ritual'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Worship Ritual'",
+    "text": "Worship Ritual",
+    "subtext": "",
+    "answer": "पूजा",
+    "answer_vi": "Nghi lễ thờ cúng",
+    "options": [
+      "पूजा",
+      "सीखना​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सफ़र​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghi lễ thờ cúng",
+      "Học",
+      "Đọc",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Worship Ritual",
+        "english": "पूजा (Nghi lễ thờ cúng)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​ (Học)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Water",
+    "transliteration": "",
+    "english": "पानी",
+    "vietnamese": "Nước",
+    "audio": "Water"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​",
+      "बैठना​",
+      "पानी"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Đi bộ / Di chuyển",
+      "Ngồi",
+      "Nước"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​ (Ngồi)"
+      },
+      {
+        "hindi": "Water",
+        "english": "पानी (Nước)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To laugh.",
+    "simpleRule": "Remember: To laugh means हँसना​ (Cười lớn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "am",
+    "transliteration": "",
+    "english": "हूँ",
+    "vietnamese": "Là (tôi)",
+    "audio": "am"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To laugh'",
+    "prompt_en": "Choose correct translation for 'To laugh'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
+    "text": "To laugh",
+    "subtext": "",
+    "answer": "हँसना​",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "हँसना​",
+      "धोना​​​​​​​​​​",
+      "हूँ",
+      "बंद करना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Rửa / Giặt",
+      "Là (tôi)",
+      "Đóng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​ (Cười lớn)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "am",
+        "english": "हूँ (Là (tôi))"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​​​​​​​​​​​​​​​​​ (Đóng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Worship Ritual",
+    "translation_en": "पूजा",
+    "translation_vi": "Nghi lễ thờ cúng",
+    "options_en": [
+      "पूजा",
+      "सीखना​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सफ़र​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nghi lễ thờ cúng",
+      "Học",
+      "Đọc",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पूजा / Tôi thấy Nghi lễ thờ cúng",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Worship Ritual"
+    ],
+    "correctHindiSentence": "I see the Worship Ritual"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सीखना​​​​​​ / Tôi muốn Học",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To learn"
+    ],
+    "correctHindiSentence": "I want a To learn"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Worship Ritual and To close",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Level 7",
+    "description": "Master the vocabulary and grammar for: Culture - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn culture concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: त्योहार.",
+    "simpleRule": "Remember: त्योहार means Festival (Lễ hội)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "त्योहार",
+    "transliteration": "tyohaar",
+    "english": "Festival",
+    "vietnamese": "Lễ hội",
+    "audio": "त्योहार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'त्योहार'",
+    "prompt_en": "Choose correct translation for 'त्योहार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'त्योहार'",
+    "text": "त्योहार",
+    "subtext": "tyohaar",
+    "answer": "Festival",
+    "answer_vi": "Lễ hội",
+    "options": [
+      "Festival",
+      "Soil / Earth",
+      "Dance",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Lễ hội",
+      "Đất",
+      "Điệu nhảy",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "त्योहार",
+        "english": "Festival (Lễ hội)"
+      },
+      {
+        "hindi": "मिट्टी​​​​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      },
+      {
+        "hindi": "मिट्टी​​​​​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: नच बलिए.",
+    "simpleRule": "Remember: नच बलिए means Dance, my love (Nhảy đi tình yêu của tôi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'नच बलिए'",
+    "prompt_en": "Choose correct translation for 'नच बलिए'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'नच बलिए'",
+    "text": "नच बलिए",
+    "subtext": "nac balie",
+    "answer": "Dance, my love",
+    "answer_vi": "Nhảy đi tình yêu của tôi",
+    "options": [
+      "Dance, my love",
+      "Soil / Earth",
+      "Soil / Earth",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Nhảy đi tình yêu của tôi",
+      "Đất",
+      "Đất",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "मिट्टी​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "मिट्टी​​​​​​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "त्योहार",
+    "translation_en": "Festival",
+    "translation_vi": "Lễ hội",
+    "options_en": [
+      "Festival",
+      "Soil / Earth",
+      "Dance",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Lễ hội",
+      "Đất",
+      "Điệu nhảy",
+      "Đất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Festival / Đây là Lễ hội",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "त्योहार",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक त्योहार है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Soil / Earth / Tôi thấy Đất",
+    "hindiWords": [
+      "मैं",
+      "मिट्टी​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मिट्टी​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: त्योहार, मिट्टी​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

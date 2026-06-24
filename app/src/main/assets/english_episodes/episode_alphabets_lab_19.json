@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 19",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 19. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Kurta.",
+    "simpleRule": "Remember: Kurta means कुर्ता (Áo dài nam Kurta)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Kurta",
+    "transliteration": "",
+    "english": "कुर्ता",
+    "vietnamese": "Áo dài nam Kurta",
+    "audio": "Kurta"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​​​​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Kurta'",
+    "prompt_en": "Choose correct translation for 'Kurta'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Kurta'",
+    "text": "Kurta",
+    "subtext": "",
+    "answer": "कुर्ता",
+    "answer_vi": "Áo dài nam Kurta",
+    "options": [
+      "कुर्ता",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "धोना​​​​​​​",
+      "बारिश​​​​​​​​"
+    ],
+    "options_vi": [
+      "Áo dài nam Kurta",
+      "Cười lớn",
+      "Rửa / Giặt",
+      "Cơn mưa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Kurta",
+        "english": "कुर्ता (Áo dài nam Kurta)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​​​​​​ (Cơn mưa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Mountain.",
+    "simpleRule": "Remember: Mountain means पहाड़​​ (Ngọn núi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mountain",
+    "transliteration": "",
+    "english": "पहाड़​​",
+    "vietnamese": "Ngọn núi",
+    "audio": "Mountain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Mountain'",
+    "prompt_en": "Choose correct translation for 'Mountain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Mountain'",
+    "text": "Mountain",
+    "subtext": "",
+    "answer": "पहाड़​​",
+    "answer_vi": "Ngọn núi",
+    "options": [
+      "पहाड़​​",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बादल​​"
+    ],
+    "options_vi": [
+      "Ngọn núi",
+      "Hỏi",
+      "Hỏi",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Mountain",
+        "english": "पहाड़​​ (Ngọn núi)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​ (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Road.",
+    "simpleRule": "Remember: Road means सड़क​​​​​​​ (Đường)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Road",
+    "transliteration": "",
+    "english": "सड़क​​​​​​​",
+    "vietnamese": "Đường",
+    "audio": "Road"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "His / Her (distant)",
+    "transliteration": "",
+    "english": "उसका",
+    "vietnamese": "Của anh/chị ấy (xa)",
+    "audio": "His / Her (distant)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Road'",
+    "prompt_en": "Choose correct translation for 'Road'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Road'",
+    "text": "Road",
+    "subtext": "",
+    "answer": "सड़क​​​​​​​",
+    "answer_vi": "Đường",
+    "options": [
+      "सड़क​​​​​​​",
+      "उसका",
+      "लेना​​​​​​​​​​​​​​​​​​",
+      "बारिश​"
+    ],
+    "options_vi": [
+      "Đường",
+      "Của anh/chị ấy (xa)",
+      "Lấy / Nhận",
+      "Cơn mưa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Road",
+        "english": "सड़क​​​​​​​ (Đường)"
+      },
+      {
+        "hindi": "His / Her (distant)",
+        "english": "उसका (Của anh/chị ấy (xa))"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​ (Cơn mưa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To stand.",
+    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am getting late.",
+    "transliteration": "",
+    "english": "मुझे देर हो रही है।",
+    "vietnamese": "Tôi đang bị trễ.",
+    "audio": "I am getting late."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Client / Customer",
+    "transliteration": "",
+    "english": "ग्राहक",
+    "vietnamese": "Khách hàng",
+    "audio": "Client / Customer"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To them / him / her (formal)",
+    "transliteration": "",
+    "english": "उन्हें",
+    "vietnamese": "Cho họ / Cho ngài ấy",
+    "audio": "To them / him / her (formal)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To stand'",
+    "prompt_en": "Choose correct translation for 'To stand'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
+    "text": "To stand",
+    "subtext": "",
+    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đứng",
+    "options": [
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मुझे देर हो रही है।",
+      "ग्राहक",
+      "उन्हें"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Tôi đang bị trễ.",
+      "Khách hàng",
+      "Cho họ / Cho ngài ấy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "I am getting late.",
+        "english": "मुझे देर हो रही है। (Tôi đang bị trễ.)"
+      },
+      {
+        "hindi": "Client / Customer",
+        "english": "ग्राहक (Khách hàng)"
+      },
+      {
+        "hindi": "To them / him / her (formal)",
+        "english": "उन्हें (Cho họ / Cho ngài ấy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Kurta",
+    "translation_en": "कुर्ता",
+    "translation_vi": "Áo dài nam Kurta",
+    "options_en": [
+      "कुर्ता",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "धोना​​​​​​​",
+      "बारिश​​​​​​​​"
+    ],
+    "options_vi": [
+      "Áo dài nam Kurta",
+      "Cười lớn",
+      "Rửa / Giặt",
+      "Cơn mưa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कुर्ता / Nó là một Áo dài nam Kurta",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Kurta"
+    ],
+    "correctHindiSentence": "It is a Kurta"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Cười lớn",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To laugh"
+    ],
+    "correctHindiSentence": "I really like To laugh"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Kurta and To them / him / her (formal)",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -16,6 +16,7 @@ import com.example.hindilearn.ui.gamified.PremiumButton
 @Composable
 fun SettingsScreen(
     onBack: () -> Unit,
+    onCourseSwitched: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     PremiumBackground {
@@ -60,19 +61,23 @@ fun SettingsScreen(
                             text = "Học tiếng Hindi (Hindi)",
                             onClick = { 
                                 UserManager.progress.selectedCourse = "HINDI"
+                                UserManager.progress.unlockedNodeId = "episode_0_1"
                                 UserManager.save()
-                                onBack()
+                                onCourseSwitched()
                              },
-                            color = if (UserManager.progress.selectedCourse == "HINDI") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color.White.copy(alpha = 0.2f)
+                            color = if (UserManager.progress.selectedCourse == "HINDI") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color(0xFFF1F1F1),
+                            textColor = if (UserManager.progress.selectedCourse == "HINDI") androidx.compose.ui.graphics.Color.White else androidx.compose.ui.graphics.Color(0xFF1E1E1E)
                         )
                         PremiumButton(
                             text = "Học tiếng Anh (English)",
                             onClick = { 
                                 UserManager.progress.selectedCourse = "ENGLISH"
+                                UserManager.progress.unlockedNodeId = "episode_0_1"
                                 UserManager.save()
-                                onBack()
+                                onCourseSwitched()
                              },
-                            color = if (UserManager.progress.selectedCourse == "ENGLISH") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color.White.copy(alpha = 0.2f)
+                            color = if (UserManager.progress.selectedCourse == "ENGLISH") MaterialTheme.colorScheme.primary else androidx.compose.ui.graphics.Color(0xFFF1F1F1),
+                            textColor = if (UserManager.progress.selectedCourse == "ENGLISH") androidx.compose.ui.graphics.Color.White else androidx.compose.ui.graphics.Color(0xFF1E1E1E)
                         )
                     }
                 }

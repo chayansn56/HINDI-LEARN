@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 5",
+    "description": "Master the vocabulary and grammar for: Episode 5. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 5",
+    "title_vi": "Tập 5",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To speak (बोलना​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Nói."
+      },
+      {
+        "hindi": "Later, you encounter a To cry (रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Khóc."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To speak",
+        "isCorrect": true
+      },
+      {
+        "text": "To cry",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Myself / Yourself / Himself (formal)",
+    "transliteration": "",
+    "english": "स्वयं",
+    "vietnamese": "Tự bản thân",
+    "audio": "Myself / Yourself / Himself (formal)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​​​​​​​​​​​​​​​​​​",
+      "स्वयं"
+    ],
+    "options_vi": [
+      "Nói",
+      "Khóc",
+      "Mua",
+      "Tự bản thân"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "Myself / Yourself / Himself (formal)",
+        "english": "स्वयं (Tự bản thân)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please say it again.",
+    "transliteration": "",
+    "english": "फिर से कहिए।",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "Please say it again."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​",
+      "फिर से कहिए।",
+      "गाँव​​",
+      "सुनना​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Làm ơn nói lại lần nữa.",
+      "Ngôi làng",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Please say it again.",
+        "english": "फिर से कहिए। (Làm ơn nói lại lần nữa.)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​ (Ngôi làng)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​",
+      "बर्फ़​​​​​​​​",
+      "पूछना​​​​​"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Đi bộ / Di chuyển",
+      "Tuyết / Đá",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To speak",
+    "translation_en": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Nói",
+    "options_en": [
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​​​​​​​​​​​​​​​​​​",
+      "स्वयं"
+    ],
+    "options_vi": [
+      "Nói",
+      "Khóc",
+      "Mua",
+      "Tự bản thân"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बोलना​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Nói",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To speak"
+    ],
+    "correctHindiSentence": "I see the To speak"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Khóc",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To cry"
+    ],
+    "correctHindiSentence": "I want a To cry"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To speak and To ask",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Write - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Write - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Write - Level 3",
+    "description": "Master the vocabulary and grammar for: Write - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "शहर​​​​​​​ (shahar) = City / Thành phố",
-      "सफ़र​​​​​​​​ (safar) = Journey / Chuyến đi",
-      "८० (assee) = 80 / Tám mươi"
+      "Learn write concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: शहर​​​​​​​ means 'City' (Thành phố)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: होना.",
+    "simpleRule": "Remember: होना means to be / to happen (Thì / Là / Xảy ra)."
   },
   {
     "type": "Flashcard",
-    "hindi": "शहर​​​​​​​",
-    "transliteration": "shahar",
-    "english": "City",
-    "vietnamese": "Thành phố",
-    "audio": "शहर​​​​​​​"
+    "hindi": "होना",
+    "transliteration": "hona",
+    "english": "to be / to happen",
+    "vietnamese": "Thì / Là / Xảy ra",
+    "audio": "होना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​​​​​",
-    "transliteration": "safar",
-    "english": "Journey",
-    "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​​​​​"
+    "hindi": "पेन​​​​​​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'शहर​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'शहर​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'शहर​​​​​​​'",
-    "text": "शहर​​​​​​​",
-    "subtext": "shahar",
-    "answer": "City",
-    "answer_vi": "Thành phố",
+    "prompt": "Translate 'होना'",
+    "prompt_en": "Choose correct translation for 'होना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'होना'",
+    "text": "होना",
+    "subtext": "hona",
+    "answer": "to be / to happen",
+    "answer_vi": "Thì / Là / Xảy ra",
     "options": [
-      "Journey",
-      "80",
-      "City",
-      "Snow / Ice"
+      "to be / to happen",
+      "Pen",
+      "To write",
+      "To read"
     ],
     "options_vi": [
-      "Chuyến đi",
-      "Tám mươi",
-      "Thành phố",
-      "Tuyết / Đá"
+      "Thì / Là / Xảy ra",
+      "Bút",
+      "Viết",
+      "Đọc"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "८०",
-    "transliteration": "assee",
-    "english": "80",
-    "vietnamese": "Tám mươi",
-    "audio": "८०"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "होना",
+        "english": "to be / to happen (Thì / Là / Xảy ra)"
+      },
+      {
+        "hindi": "पेन​​​​​​​​​",
+        "english": "Pen (Bút)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: किताब.",
+    "simpleRule": "Remember: किताब means Book (Sách)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बर्फ़​​​​​​​",
-    "transliteration": "barf",
-    "english": "Snow / Ice",
-    "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​​​​​"
+    "hindi": "किताब",
+    "transliteration": "kitāb",
+    "english": "Book",
+    "vietnamese": "Sách",
+    "audio": "किताब"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "महँगा",
+    "transliteration": "mehanga",
+    "english": "Expensive",
+    "vietnamese": "Đắt đỏ",
+    "audio": "महँगा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'किताब'",
+    "prompt_en": "Choose correct translation for 'किताब'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'किताब'",
+    "text": "किताब",
+    "subtext": "kitāb",
+    "answer": "Book",
+    "answer_vi": "Sách",
+    "options": [
+      "Book",
+      "Expensive",
+      "To write",
+      "To write"
+    ],
+    "options_vi": [
+      "Sách",
+      "Đắt đỏ",
+      "Viết",
+      "Viết"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "शहर​​​​​​​",
-        "english": "City (Thành phố)"
+        "hindi": "किताब",
+        "english": "Book (Sách)"
       },
       {
-        "hindi": "सफ़र​​​​​​​​",
-        "english": "Journey (Chuyến đi)"
+        "hindi": "महँगा",
+        "english": "Expensive (Đắt đỏ)"
       },
       {
-        "hindi": "८०",
-        "english": "80 (Tám mươi)"
+        "hindi": "लिखना​​​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "बर्फ़​​​​​​​",
-        "english": "Snow / Ice (Tuyết / Đá)"
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "सफ़र​​​​​​​​",
-    "translation_en": "Journey",
-    "translation_vi": "Chuyến đi",
+    "audio": "होना",
+    "translation_en": "to be / to happen",
+    "translation_vi": "Thì / Là / Xảy ra",
     "options_en": [
-      "City",
-      "80",
-      "Snow / Ice",
-      "Journey"
+      "to be / to happen",
+      "Pen",
+      "To write",
+      "To read"
     ],
     "options_vi": [
-      "Thành phố",
-      "Tám mươi",
-      "Tuyết / Đá",
-      "Chuyến đi"
+      "Thì / Là / Xảy ra",
+      "Bút",
+      "Viết",
+      "Đọc"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "This is a to be / to happen / Đây là Thì / Là / Xảy ra",
     "hindiWords": [
       "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "एक",
+      "होना",
+      "है"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बग़ीचा​​​​​​​",
-    "transliteration": "bagīcā",
-    "english": "Garden",
-    "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बर्फ़​​​​​​​​​",
-    "transliteration": "barf",
-    "english": "Snow / Ice",
-    "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "८०",
-        "english": "80 (Tám mươi)"
-      },
-      {
-        "hindi": "बर्फ़​​​​​​​",
-        "english": "Snow / Ice (Tuyết / Đá)"
-      },
-      {
-        "hindi": "बग़ीचा​​​​​​​",
-        "english": "Garden (Khu vườn)"
-      },
-      {
-        "hindi": "बर्फ़​​​​​​​​​",
-        "english": "Snow / Ice (Tuyết / Đá)"
-      }
-    ]
+    "correctHindiSentence": "यह एक होना है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I drink water / Tôi uống nước",
+    "englishSentence": "I see Pen / Tôi thấy Bút",
     "hindiWords": [
       "मैं",
-      "पानी",
-      "पीता",
-      "हूँ",
-      "दूध",
-      "है"
+      "पेन​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं पानी पीता हूँ"
+    "correctHindiSentence": "मैं पेन​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: शहर​​​​​​​, ८०, बग़ीचा​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'I drink water'."
+      "You learned: होना, लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

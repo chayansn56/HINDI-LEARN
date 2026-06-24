@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 16",
+    "description": "Master the vocabulary and grammar for: Travel - Level 16. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Hotel.",
+    "simpleRule": "Remember: Hotel means होटल (Khách sạn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hotel",
+    "transliteration": "",
+    "english": "होटल",
+    "vietnamese": "Khách sạn",
+    "audio": "Hotel"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Groom's wedding procession",
+    "transliteration": "",
+    "english": "बारात",
+    "vietnamese": "Đoàn rước dâu nhà trai",
+    "audio": "Groom's wedding procession"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Hotel'",
+    "prompt_en": "Choose correct translation for 'Hotel'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Hotel'",
+    "text": "Hotel",
+    "subtext": "",
+    "answer": "होटल",
+    "answer_vi": "Khách sạn",
+    "options": [
+      "होटल",
+      "बारात",
+      "सफ़र​​​​​​​​",
+      "सफ़र​​​​"
+    ],
+    "options_vi": [
+      "Khách sạn",
+      "Đoàn rước dâu nhà trai",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Hotel",
+        "english": "होटल (Khách sạn)"
+      },
+      {
+        "hindi": "Groom's wedding procession",
+        "english": "बारात (Đoàn rước dâu nhà trai)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Profession / Business.",
+    "simpleRule": "Remember: Profession / Business means व्यवसाय (Nghề nghiệp / Doanh nghiệp)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Profession / Business",
+    "transliteration": "",
+    "english": "व्यवसाय",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "Profession / Business"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bus stop",
+    "transliteration": "",
+    "english": "बस स्टैंड",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "Bus stop"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Car / Train / Cart",
+    "transliteration": "",
+    "english": "गाड़ी",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "Car / Train / Cart"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Profession / Business'",
+    "prompt_en": "Choose correct translation for 'Profession / Business'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Profession / Business'",
+    "text": "Profession / Business",
+    "subtext": "",
+    "answer": "व्यवसाय",
+    "answer_vi": "Nghề nghiệp / Doanh nghiệp",
+    "options": [
+      "व्यवसाय",
+      "बस स्टैंड",
+      "गाड़ी",
+      "सफ़र​​​​​​"
+    ],
+    "options_vi": [
+      "Nghề nghiệp / Doanh nghiệp",
+      "Trạm xe buýt",
+      "Xe hơi / Xe lửa",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Profession / Business",
+        "english": "व्यवसाय (Nghề nghiệp / Doanh nghiệp)"
+      },
+      {
+        "hindi": "Bus stop",
+        "english": "बस स्टैंड (Trạm xe buýt)"
+      },
+      {
+        "hindi": "Car / Train / Cart",
+        "english": "गाड़ी (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Luggage / Stuff.",
+    "simpleRule": "Remember: Luggage / Stuff means सामान (Hành lý)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Luggage / Stuff",
+    "transliteration": "",
+    "english": "सामान",
+    "vietnamese": "Hành lý",
+    "audio": "Luggage / Stuff"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ticket",
+    "transliteration": "",
+    "english": "टिकट",
+    "vietnamese": "Vé",
+    "audio": "Ticket"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the station?",
+    "transliteration": "",
+    "english": "स्टेशन कहाँ है?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "Where is the station?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Luggage / Stuff'",
+    "prompt_en": "Choose correct translation for 'Luggage / Stuff'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Luggage / Stuff'",
+    "text": "Luggage / Stuff",
+    "subtext": "",
+    "answer": "सामान",
+    "answer_vi": "Hành lý",
+    "options": [
+      "सामान",
+      "टिकट",
+      "सफ़र",
+      "स्टेशन कहाँ है?"
+    ],
+    "options_vi": [
+      "Hành lý",
+      "Vé",
+      "Chuyến đi",
+      "Nhà ga ở đâu?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Luggage / Stuff",
+        "english": "सामान (Hành lý)"
+      },
+      {
+        "hindi": "Ticket",
+        "english": "टिकट (Vé)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र (Chuyến đi)"
+      },
+      {
+        "hindi": "Where is the station?",
+        "english": "स्टेशन कहाँ है? (Nhà ga ở đâu?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Police station.",
+    "simpleRule": "Remember: Police station means थाना (Đồn cảnh sát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police station",
+    "transliteration": "",
+    "english": "थाना",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "Police station"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bathroom",
+    "transliteration": "",
+    "english": "बाथरूम",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "Bathroom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Airport",
+    "transliteration": "",
+    "english": "हवाई अड्डा",
+    "vietnamese": "Sân bay",
+    "audio": "Airport"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Police station'",
+    "prompt_en": "Choose correct translation for 'Police station'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Police station'",
+    "text": "Police station",
+    "subtext": "",
+    "answer": "थाना",
+    "answer_vi": "Đồn cảnh sát",
+    "options": [
+      "थाना",
+      "बाथरूम",
+      "हवाई अड्डा",
+      "सफ़र​​"
+    ],
+    "options_vi": [
+      "Đồn cảnh sát",
+      "Nhà tắm / Toilet",
+      "Sân bay",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Police station",
+        "english": "थाना (Đồn cảnh sát)"
+      },
+      {
+        "hindi": "Bathroom",
+        "english": "बाथरूम (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "Airport",
+        "english": "हवाई अड्डा (Sân bay)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​ (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Hotel",
+    "translation_en": "होटल",
+    "translation_vi": "Khách sạn",
+    "options_en": [
+      "होटल",
+      "बारात",
+      "सफ़र​​​​​​​​",
+      "सफ़र​​​​"
+    ],
+    "options_vi": [
+      "Khách sạn",
+      "Đoàn rước dâu nhà trai",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a होटल / Nó là một Khách sạn",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Hotel"
+    ],
+    "correctHindiSentence": "It is a Hotel"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बारात / Tôi thích Đoàn rước dâu nhà trai",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Groom's wedding procession"
+    ],
+    "correctHindiSentence": "I really like Groom's wedding procession"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Hotel and Journey",
+      "Practiced constructing sentences."
+    ]
+  }
+]

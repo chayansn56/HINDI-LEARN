@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 7",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To wash.",
+    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Road",
+    "transliteration": "",
+    "english": "सड़क​​​​​​​​​",
+    "vietnamese": "Đường",
+    "audio": "Road"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wash'",
+    "prompt_en": "Choose correct translation for 'To wash'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
+    "text": "To wash",
+    "subtext": "",
+    "answer": "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Rửa / Giặt",
+    "options": [
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​​​",
+      "सड़क​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Lấy / Nhận",
+      "Biển",
+      "Đường"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​ (Biển)"
+      },
+      {
+        "hindi": "Road",
+        "english": "सड़क​​​​​​​​​ (Đường)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To clean.",
+    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​​​​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "are",
+    "transliteration": "",
+    "english": "हो",
+    "vietnamese": "Là (bạn)",
+    "audio": "are"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Wise / Scholar",
+    "transliteration": "",
+    "english": "ज्ञानी",
+    "vietnamese": "Người thông thái",
+    "audio": "Wise / Scholar"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To clean'",
+    "prompt_en": "Choose correct translation for 'To clean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To clean'",
+    "text": "To clean",
+    "subtext": "",
+    "answer": "साफ करना​​​​​​​​​​",
+    "answer_vi": "Dọn dẹp / Lau chùi",
+    "options": [
+      "साफ करना​​​​​​​​​​",
+      "गाँव​​​​​​",
+      "हो",
+      "ज्ञानी"
+    ],
+    "options_vi": [
+      "Dọn dẹp / Lau chùi",
+      "Ngôi làng",
+      "Là (bạn)",
+      "Người thông thái"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​​​​​ (Ngôi làng)"
+      },
+      {
+        "hindi": "are",
+        "english": "हो (Là (bạn))"
+      },
+      {
+        "hindi": "Wise / Scholar",
+        "english": "ज्ञानी (Người thông thái)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Remember..",
+    "simpleRule": "Remember: Remember. means याद रखना। (Hãy nhớ lấy.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Remember.",
+    "transliteration": "",
+    "english": "याद रखना।",
+    "vietnamese": "Hãy nhớ lấy.",
+    "audio": "Remember."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Paternal Grandmother",
+    "transliteration": "",
+    "english": "दादी",
+    "vietnamese": "Bà nội",
+    "audio": "Paternal Grandmother"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cup",
+    "transliteration": "",
+    "english": "प्याला​",
+    "vietnamese": "Tách",
+    "audio": "Cup"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Remember.'",
+    "prompt_en": "Choose correct translation for 'Remember.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Remember.'",
+    "text": "Remember.",
+    "subtext": "",
+    "answer": "याद रखना।",
+    "answer_vi": "Hãy nhớ lấy.",
+    "options": [
+      "याद रखना।",
+      "दादी",
+      "प्याला​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hãy nhớ lấy.",
+      "Bà nội",
+      "Tách",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Remember.",
+        "english": "याद रखना। (Hãy nhớ lấy.)"
+      },
+      {
+        "hindi": "Paternal Grandmother",
+        "english": "दादी (Bà nội)"
+      },
+      {
+        "hindi": "Cup",
+        "english": "प्याला​ (Tách)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Trust / Belief",
+    "transliteration": "",
+    "english": "विश्वास",
+    "vietnamese": "Niềm tin",
+    "audio": "Trust / Belief"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Show-off / Bragging",
+    "transliteration": "",
+    "english": "हवाबाज़ी",
+    "vietnamese": "Sự khoe khoang",
+    "audio": "Show-off / Bragging"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "विश्वास",
+      "हवाबाज़ी",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Niềm tin",
+      "Sự khoe khoang",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Trust / Belief",
+        "english": "विश्वास (Niềm tin)"
+      },
+      {
+        "hindi": "Show-off / Bragging",
+        "english": "हवाबाज़ी (Sự khoe khoang)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To wash",
+    "translation_en": "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Rửa / Giặt",
+    "options_en": [
+      "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​​​",
+      "सड़क​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rửa / Giặt",
+      "Lấy / Nhận",
+      "Biển",
+      "Đường"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a धोना​​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Rửa / Giặt",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "To wash"
+    ],
+    "correctHindiSentence": "It is a To wash"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Lấy / Nhận",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To take"
+    ],
+    "correctHindiSentence": "I really like To take"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To wash and To laugh",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Level 15",
+    "description": "Master the vocabulary and grammar for: Business - Level 15. Read the key points carefully.",
+    "keyPoints": [
+      "Learn business concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मूल्य.",
+    "simpleRule": "Remember: मूल्य means Value / Price (Giá trị)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मूल्य",
+    "transliteration": "moolya",
+    "english": "Value / Price",
+    "vietnamese": "Giá trị",
+    "audio": "मूल्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दाम",
+    "transliteration": "daam",
+    "english": "Price / Rate",
+    "vietnamese": "Giá cả",
+    "audio": "दाम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मूल्य'",
+    "prompt_en": "Choose correct translation for 'मूल्य'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मूल्य'",
+    "text": "मूल्य",
+    "subtext": "moolya",
+    "answer": "Value / Price",
+    "answer_vi": "Giá trị",
+    "options": [
+      "Value / Price",
+      "Office",
+      "Price / Rate",
+      "Money"
+    ],
+    "options_vi": [
+      "Giá trị",
+      "Văn phòng",
+      "Giá cả",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मूल्य",
+        "english": "Value / Price (Giá trị)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "दाम",
+        "english": "Price / Rate (Giá cả)"
+      },
+      {
+        "hindi": "पैसा​​​",
+        "english": "Money (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पैसा​​​​​​.",
+    "simpleRule": "Remember: पैसा​​​​​​ means Money (Tiền)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नौकरी",
+    "transliteration": "naukri",
+    "english": "Job / Employment",
+    "vietnamese": "Công ăn việc làm",
+    "audio": "नौकरी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पैसा​​​​​​'",
+    "prompt_en": "Choose correct translation for 'पैसा​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पैसा​​​​​​'",
+    "text": "पैसा​​​​​​",
+    "subtext": "paisā",
+    "answer": "Money",
+    "answer_vi": "Tiền",
+    "options": [
+      "Money",
+      "Office",
+      "Job / Employment",
+      "Money"
+    ],
+    "options_vi": [
+      "Tiền",
+      "Văn phòng",
+      "Công ăn việc làm",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पैसा​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "दफ़्तर​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "नौकरी",
+        "english": "Job / Employment (Công ăn việc làm)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​​​​​",
+        "english": "Money (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मूल्य",
+    "translation_en": "Value / Price",
+    "translation_vi": "Giá trị",
+    "options_en": [
+      "Value / Price",
+      "Office",
+      "Price / Rate",
+      "Money"
+    ],
+    "options_vi": [
+      "Giá trị",
+      "Văn phòng",
+      "Giá cả",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Value / Price / Đây là Giá trị",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मूल्य",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मूल्य है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Office / Tôi thấy Văn phòng",
+    "hindiWords": [
+      "मैं",
+      "दफ़्तर​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं दफ़्तर​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: मूल्य, पैसा​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

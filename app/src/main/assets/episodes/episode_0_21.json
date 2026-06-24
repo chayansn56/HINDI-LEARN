@@ -1,185 +1,252 @@
 [
   {
     "type": "Introduction",
-    "title": "Foundation Academy - Level 21",
-    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 21. Listen carefully and read along in English and Vietnamese.",
+    "title": "Numbers 0–10",
+    "description": "Master the vocabulary and grammar for: Numbers 0–10. Read the key points carefully.",
     "keyPoints": [
-      "मेज़ (mez) = Table / Cái bàn",
-      "जागना​​​ (jāgnā) = To wake up / Thức dậy",
-      "बादल​​​​​​​​​ (bādal) = Cloud / Đám mây"
+      "Focus: Numbers 0–10"
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Alphabet & Building Blocks - Part 21",
-    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: मेज़ means 'Table' (Cái bàn)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: शून्य.",
+    "simpleRule": "Remember: शून्य means Zero (Số không)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मेज़",
-    "transliteration": "mez",
-    "english": "Table",
-    "vietnamese": "Cái bàn",
-    "audio": "मेज़"
+    "hindi": "शून्य",
+    "transliteration": "shūnya",
+    "english": "Zero",
+    "vietnamese": "Số không",
+    "audio": "शून्य"
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​",
-    "transliteration": "jāgnā",
-    "english": "To wake up",
-    "vietnamese": "Thức dậy",
-    "audio": "जागना​​​"
+    "hindi": "एक",
+    "transliteration": "ek",
+    "english": "One",
+    "vietnamese": "Số một",
+    "audio": "एक"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दो",
+    "transliteration": "do",
+    "english": "Two",
+    "vietnamese": "Số hai",
+    "audio": "दो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तीन",
+    "transliteration": "tīn",
+    "english": "Three",
+    "vietnamese": "Số ba",
+    "audio": "तीन"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मेज़'",
-    "prompt_en": "Choose the correct translation for 'मेज़'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मेज़'",
-    "text": "मेज़",
-    "subtext": "mez",
-    "answer": "Table",
-    "answer_vi": "Cái bàn",
+    "prompt": "Translate 'शून्य'",
+    "prompt_en": "Choose correct translation for 'शून्य'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'शून्य'",
+    "text": "शून्य",
+    "subtext": "shūnya",
+    "answer": "Zero",
+    "answer_vi": "Số không",
     "options": [
-      "Cloud",
-      "Table",
-      "Good / Kind",
-      "To wake up"
+      "Zero",
+      "One",
+      "Two",
+      "Three"
     ],
     "options_vi": [
-      "Đám mây",
-      "Cái bàn",
-      "Tốt bụng",
-      "Thức dậy"
+      "Số không",
+      "Số một",
+      "Số hai",
+      "Số ba"
     ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बादल​​​​​​​​​",
-    "transliteration": "bādal",
-    "english": "Cloud",
-    "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "भला",
-    "transliteration": "bhalā",
-    "english": "Good / Kind",
-    "vietnamese": "Tốt bụng",
-    "audio": "भला"
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मेज़",
-        "english": "Table (Cái bàn)"
+        "hindi": "शून्य",
+        "english": "Zero (Số không)"
       },
       {
-        "hindi": "जागना​​​",
-        "english": "To wake up (Thức dậy)"
+        "hindi": "एक",
+        "english": "One (Số một)"
       },
       {
-        "hindi": "बादल​​​​​​​​​",
-        "english": "Cloud (Đám mây)"
+        "hindi": "दो",
+        "english": "Two (Số hai)"
       },
       {
-        "hindi": "भला",
-        "english": "Good / Kind (Tốt bụng)"
+        "hindi": "तीन",
+        "english": "Three (Số ba)"
       }
     ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: चार.",
+    "simpleRule": "Remember: चार means Four (Số bốn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चार",
+    "transliteration": "cār",
+    "english": "Four",
+    "vietnamese": "Số bốn",
+    "audio": "चार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पाँच",
+    "transliteration": "pā̃c",
+    "english": "Five",
+    "vietnamese": "Số năm",
+    "audio": "पाँच"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "छह",
+    "transliteration": "chah",
+    "english": "Six",
+    "vietnamese": "Số sáu",
+    "audio": "छह"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सात",
+    "transliteration": "sāt",
+    "english": "Seven",
+    "vietnamese": "Số bảy",
+    "audio": "सात"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'चार'",
+    "prompt_en": "Choose correct translation for 'चार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'चार'",
+    "text": "चार",
+    "subtext": "cār",
+    "answer": "Four",
+    "answer_vi": "Số bốn",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "options_vi": [
+      "Số bốn",
+      "Số năm",
+      "Số sáu",
+      "Số bảy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "चार",
+        "english": "Four (Số bốn)"
+      },
+      {
+        "hindi": "पाँच",
+        "english": "Five (Số năm)"
+      },
+      {
+        "hindi": "छह",
+        "english": "Six (Số sáu)"
+      },
+      {
+        "hindi": "सात",
+        "english": "Seven (Số bảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set C",
+    "explanation": "Understand the usage and roots of: आठ.",
+    "simpleRule": "Remember: आठ means Eight (Số tám)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आठ",
+    "transliteration": "āṭh",
+    "english": "Eight",
+    "vietnamese": "Số tám",
+    "audio": "आठ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नौ",
+    "transliteration": "nau",
+    "english": "Nine",
+    "vietnamese": "Số chín",
+    "audio": "नौ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दस",
+    "transliteration": "das",
+    "english": "Ten",
+    "vietnamese": "Số mười",
+    "audio": "दस"
   },
   {
     "type": "Listening",
-    "audio": "जागना​​​",
-    "translation_en": "To wake up",
-    "translation_vi": "Thức dậy",
+    "audio": "शून्य",
+    "translation_en": "Zero",
+    "translation_vi": "Số không",
     "options_en": [
-      "Table",
-      "To wake up",
-      "Cloud",
-      "Good / Kind"
+      "Zero",
+      "One",
+      "Two",
+      "Three"
     ],
     "options_vi": [
-      "Cái bàn",
-      "Thức dậy",
-      "Đám mây",
-      "Tốt bụng"
+      "Số không",
+      "Số một",
+      "Số hai",
+      "Số ba"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I eat an apple / Tôi ăn một quả táo",
+    "englishSentence": "I know Zero / Tôi biết Số không",
     "hindiWords": [
       "मैं",
-      "सेब",
-      "खाता",
-      "हूँ",
-      "रोटी",
-      "है"
+      "शून्य",
+      "जानता",
+      "हूँ"
     ],
-    "correctHindiSentence": "मैं सेब खाता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "तारा​​​​​​​​​​​​",
-    "transliteration": "tārā",
-    "english": "Star",
-    "vietnamese": "Ngôi sao",
-    "audio": "तारा​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बंदर",
-    "transliteration": "bandar",
-    "english": "Monkey",
-    "vietnamese": "Con khỉ",
-    "audio": "बंदर"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "बादल​​​​​​​​​",
-        "english": "Cloud (Đám mây)"
-      },
-      {
-        "hindi": "भला",
-        "english": "Good / Kind (Tốt bụng)"
-      },
-      {
-        "hindi": "तारा​​​​​​​​​​​​",
-        "english": "Star (Ngôi sao)"
-      },
-      {
-        "hindi": "बंदर",
-        "english": "Monkey (Con khỉ)"
-      }
-    ]
+    "correctHindiSentence": "मैं शून्य जानता हूँ"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "She eats bread / Cô ấy ăn bánh mì",
+    "englishSentence": "Where is One? / Số một ở đâu?",
     "hindiWords": [
-      "वह",
-      "रोटी",
-      "खाती",
+      "एक",
+      "कहाँ",
       "है",
-      "पीती",
-      "हूँ"
+      "था"
     ],
-    "correctHindiSentence": "वह रोटी खाती है"
+    "correctHindiSentence": "एक कहाँ है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: मेज़, बादल​​​​​​​​​, तारा​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'She eats bread'."
+      "You learned: शून्य, दस",
+      "Practiced constructing sentences."
     ]
   }
 ]

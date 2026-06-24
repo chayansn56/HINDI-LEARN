@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Hundreds 100-500",
+    "description": "Master the vocabulary and grammar for: Hundreds 100-500. Read the key points carefully.",
+    "keyPoints": [
+      "Master Hundreds 100-500"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: ताला​​​​​​​​​​​.",
+    "simpleRule": "Remember: ताला​​​​​​​​​​​ means Lock (Ổ khóa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ताला​​​​​​​​​​​",
+    "transliteration": "tālā",
+    "english": "Lock",
+    "vietnamese": "Ổ khóa",
+    "audio": "ताला​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'ताला​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'ताला​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ताला​​​​​​​​​​​'",
+    "text": "ताला​​​​​​​​​​​",
+    "subtext": "tālā",
+    "answer": "Lock",
+    "answer_vi": "Ổ khóa",
+    "options": [
+      "Lock",
+      "To read",
+      "To read",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Ổ khóa",
+      "Đọc",
+      "Đọc",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "ताला​​​​​​​​​​​",
+        "english": "Lock (Ổ khóa)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "मिट्टी​​​​​​​​​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: शहर​​​​.",
+    "simpleRule": "Remember: शहर​​​​ means City (Thành phố)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शहर​​​​",
+    "transliteration": "shahar",
+    "english": "City",
+    "vietnamese": "Thành phố",
+    "audio": "शहर​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गर्म",
+    "transliteration": "garm",
+    "english": "Hot",
+    "vietnamese": "Nóng",
+    "audio": "गर्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सही है",
+    "transliteration": "sahi hai",
+    "english": "That is right",
+    "vietnamese": "Đúng thế",
+    "audio": "सही है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे नींद आ रही है।",
+    "transliteration": "mujhe neend aa rahi hai",
+    "english": "I am feeling sleepy.",
+    "vietnamese": "Tôi đang buồn ngủ.",
+    "audio": "मुझे नींद आ रही है।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'शहर​​​​'",
+    "prompt_en": "Choose correct translation for 'शहर​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'शहर​​​​'",
+    "text": "शहर​​​​",
+    "subtext": "shahar",
+    "answer": "City",
+    "answer_vi": "Thành phố",
+    "options": [
+      "City",
+      "Hot",
+      "That is right",
+      "I am feeling sleepy."
+    ],
+    "options_vi": [
+      "Thành phố",
+      "Nóng",
+      "Đúng thế",
+      "Tôi đang buồn ngủ."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "शहर​​​​",
+        "english": "City (Thành phố)"
+      },
+      {
+        "hindi": "गर्म",
+        "english": "Hot (Nóng)"
+      },
+      {
+        "hindi": "सही है",
+        "english": "That is right (Đúng thế)"
+      },
+      {
+        "hindi": "मुझे नींद आ रही है।",
+        "english": "I am feeling sleepy. (Tôi đang buồn ngủ.)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "ताला​​​​​​​​​​​",
+    "translation_en": "Lock",
+    "translation_vi": "Ổ khóa",
+    "options_en": [
+      "Lock",
+      "To read",
+      "To read",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Ổ khóa",
+      "Đọc",
+      "Đọc",
+      "Đất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have Lock / Tôi có Ổ khóa",
+    "hindiWords": [
+      "मेरे",
+      "पास",
+      "ताला​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "मेरे पास ताला​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Price is To read / Giá là Đọc",
+    "hindiWords": [
+      "दाम",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "दाम पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: ताला​​​​​​​​​​​, मुझे नींद आ रही है।",
+      "Practiced constructing sentences."
+    ]
+  }
+]

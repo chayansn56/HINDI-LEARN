@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 89",
+    "description": "Master the vocabulary and grammar for: Episode 89. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 89",
+    "title_vi": "Tập 89",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
+      },
+      {
+        "hindi": "Later, you encounter a Applaud / Clapping (तालियाँ).",
+        "translation": "Sau đó, bạn gặp một Tràng pháo tay."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To ask",
+        "isCorrect": true
+      },
+      {
+        "text": "Applaud / Clapping",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Applaud / Clapping",
+    "transliteration": "",
+    "english": "तालियाँ",
+    "vietnamese": "Tràng pháo tay",
+    "audio": "Applaud / Clapping"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I want this.",
+    "transliteration": "",
+    "english": "मुझे यह चाहिए।",
+    "vietnamese": "Tôi muốn cái này.",
+    "audio": "I want this."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​​​​​​​​​​​​",
+      "तालियाँ",
+      "धोना​​​​",
+      "मुझे यह चाहिए।"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Tràng pháo tay",
+      "Rửa / Giặt",
+      "Tôi muốn cái này."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Applaud / Clapping",
+        "english": "तालियाँ (Tràng pháo tay)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "I want this.",
+        "english": "मुझे यह चाहिए। (Tôi muốn cái này.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Myself / Yourself / Himself (colloquial).",
+    "simpleRule": "Remember: Myself / Yourself / Himself (colloquial) means खुद (Tự mình)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Myself / Yourself / Himself (colloquial)",
+    "transliteration": "",
+    "english": "खुद",
+    "vietnamese": "Tự mình",
+    "audio": "Myself / Yourself / Himself (colloquial)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Love (intense)",
+    "transliteration": "",
+    "english": "इश्क़",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "Love (intense)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Myself / Yourself / Himself (colloquial)'",
+    "prompt_en": "Choose correct translation for 'Myself / Yourself / Himself (colloquial)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Myself / Yourself / Himself (colloquial)'",
+    "text": "Myself / Yourself / Himself (colloquial)",
+    "subtext": "",
+    "answer": "खुद",
+    "answer_vi": "Tự mình",
+    "options": [
+      "खुद",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "इश्क़",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tự mình",
+      "Dạy",
+      "Tình yêu sâu đậm",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Myself / Yourself / Himself (colloquial)",
+        "english": "खुद (Tự mình)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Love (intense)",
+        "english": "इश्क़ (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To write.",
+    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​​​​​​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am proud of you.",
+    "transliteration": "",
+    "english": "मुझे तुम पर गर्व है।",
+    "vietnamese": "Tôi tự hào về bạn.",
+    "audio": "I am proud of you."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "World",
+    "transliteration": "",
+    "english": "दुनया​​​",
+    "vietnamese": "Thế giới",
+    "audio": "World"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To write'",
+    "prompt_en": "Choose correct translation for 'To write'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
+    "text": "To write",
+    "subtext": "",
+    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Viết",
+    "options": [
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "जूता​​​​​​​​",
+      "मुझे तुम पर गर्व है।",
+      "दुनया​​​"
+    ],
+    "options_vi": [
+      "Viết",
+      "Giày",
+      "Tôi tự hào về bạn.",
+      "Thế giới"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​​​​​​​ (Giày)"
+      },
+      {
+        "hindi": "I am proud of you.",
+        "english": "मुझे तुम पर गर्व है। (Tôi tự hào về bạn.)"
+      },
+      {
+        "hindi": "World",
+        "english": "दुनया​​​ (Thế giới)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To ask",
+    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Hỏi",
+    "options_en": [
+      "पूछना​​​​​​​​​​​​​​​​​​​",
+      "तालियाँ",
+      "धोना​​​​",
+      "मुझे यह चाहिए।"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Tràng pháo tay",
+      "Rửa / Giặt",
+      "Tôi muốn cái này."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पूछना​​​​​​​​​​​​​​​​​​​ / Tôi thấy Hỏi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To ask"
+    ],
+    "correctHindiSentence": "I see the To ask"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a तालियाँ / Tôi muốn Tràng pháo tay",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Applaud / Clapping"
+    ],
+    "correctHindiSentence": "I want a Applaud / Clapping"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To ask and World",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 13",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 13. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Cloud.",
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cloud'",
+    "prompt_en": "Choose correct translation for 'Cloud'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
+    "text": "Cloud",
+    "subtext": "",
+    "answer": "बादल",
+    "answer_vi": "Đám mây",
+    "options": [
+      "बादल",
+      "लिखना​​​​​",
+      "खेलना​​",
+      "sिखाना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Viết",
+      "Chơi",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cloud",
+        "english": "बादल (Đám mây)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​ (Chơi)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​ (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Path / Way",
+    "transliteration": "",
+    "english": "रास्ता​​​​​​​",
+    "vietnamese": "Đường đi",
+    "audio": "Path / Way"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​",
+      "रास्ता​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Đường đi",
+      "Nói",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "Path / Way",
+        "english": "रास्ता​​​​​​​ (Đường đi)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​ (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: You are welcome.",
+    "simpleRule": "Remember: You are welcome means आपका स्वागत है। (Không có gì / Chào mừng bạn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "You are welcome",
+    "transliteration": "",
+    "english": "आपका स्वागत है।",
+    "vietnamese": "Không có gì / Chào mừng bạn",
+    "audio": "You are welcome"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Passport",
+    "transliteration": "",
+    "english": "पासपोर्ट",
+    "vietnamese": "Hộ chiếu",
+    "audio": "Passport"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'You are welcome'",
+    "prompt_en": "Choose correct translation for 'You are welcome'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'You are welcome'",
+    "text": "You are welcome",
+    "subtext": "",
+    "answer": "आपका स्वागत है।",
+    "answer_vi": "Không có gì / Chào mừng bạn",
+    "options": [
+      "आपका स्वागत है।",
+      "खेलना​​​​​​​​​​​",
+      "पासपोर्ट",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Không có gì / Chào mừng bạn",
+      "Chơi",
+      "Hộ chiếu",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "You are welcome",
+        "english": "आपका स्वागत है। (Không có gì / Chào mừng bạn)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Passport",
+        "english": "पासपोर्ट (Hộ chiếu)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Daughter-in-law.",
+    "simpleRule": "Remember: Daughter-in-law means बहू (Con dâu / Vợ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Daughter-in-law",
+    "transliteration": "",
+    "english": "बहू",
+    "vietnamese": "Con dâu / Vợ",
+    "audio": "Daughter-in-law"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Their / His / Her (formal)",
+    "transliteration": "",
+    "english": "उनका",
+    "vietnamese": "Của họ / Của ngài ấy",
+    "audio": "Their / His / Her (formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Daughter-in-law'",
+    "prompt_en": "Choose correct translation for 'Daughter-in-law'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Daughter-in-law'",
+    "text": "Daughter-in-law",
+    "subtext": "",
+    "answer": "बहू",
+    "answer_vi": "Con dâu / Vợ",
+    "options": [
+      "बहू",
+      "उनका",
+      "समुद्र​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Con dâu / Vợ",
+      "Của họ / Của ngài ấy",
+      "Biển",
+      "Kể / Giải thích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Daughter-in-law",
+        "english": "बहू (Con dâu / Vợ)"
+      },
+      {
+        "hindi": "Their / His / Her (formal)",
+        "english": "उनका (Của họ / Của ngài ấy)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​​​ (Biển)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Cloud",
+    "translation_en": "बादल",
+    "translation_vi": "Đám mây",
+    "options_en": [
+      "बादल",
+      "लिखना​​​​​",
+      "खेलना​​",
+      "sिखाना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đám mây",
+      "Viết",
+      "Chơi",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a बादल / Nó là một Đám mây",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Cloud"
+    ],
+    "correctHindiSentence": "It is a Cloud"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like लिखना​​​​​ / Tôi thích Viết",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To write"
+    ],
+    "correctHindiSentence": "I really like To write"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Cloud and To tell / explain",
+      "Practiced constructing sentences."
+    ]
+  }
+]

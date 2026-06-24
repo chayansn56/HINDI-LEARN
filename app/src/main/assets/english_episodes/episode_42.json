@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 42",
+    "description": "Master the vocabulary and grammar for: Episode 42. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 42",
+    "title_vi": "Tập 42",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a against (के विरुद्ध).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chống lại / Phản đối."
+      },
+      {
+        "hindi": "Later, you encounter a To ask (पूछना​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Hỏi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "against",
+        "isCorrect": true
+      },
+      {
+        "text": "To ask",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: against.",
+    "simpleRule": "Remember: against means के विरुद्ध (Chống lại / Phản đối)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "against",
+    "transliteration": "",
+    "english": "के विरुद्ध",
+    "vietnamese": "Chống lại / Phản đối",
+    "audio": "against"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'against'",
+    "prompt_en": "Choose correct translation for 'against'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'against'",
+    "text": "against",
+    "subtext": "",
+    "answer": "के विरुद्ध",
+    "answer_vi": "Chống lại / Phản đối",
+    "options": [
+      "के विरुद्ध",
+      "पूछना​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​"
+    ],
+    "options_vi": [
+      "Chống lại / Phản đối",
+      "Hỏi",
+      "Thức dậy",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "against",
+        "english": "के विरुद्ध (Chống lại / Phản đối)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​ (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Cloth / Dress.",
+    "simpleRule": "Remember: Cloth / Dress means कपड़ा​​​​​ (Quần áo)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloth / Dress",
+    "transliteration": "",
+    "english": "कपड़ा​​​​​",
+    "vietnamese": "Quần áo",
+    "audio": "Cloth / Dress"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "LOL / Laughing Out Loud",
+    "transliteration": "",
+    "english": "लोल",
+    "vietnamese": "Cười lớn",
+    "audio": "LOL / Laughing Out Loud"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Listen (polite)",
+    "transliteration": "",
+    "english": "सुनिए",
+    "vietnamese": "Nghe này / Xin lỗi",
+    "audio": "Listen (polite)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cloth / Dress'",
+    "prompt_en": "Choose correct translation for 'Cloth / Dress'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cloth / Dress'",
+    "text": "Cloth / Dress",
+    "subtext": "",
+    "answer": "कपड़ा​​​​​",
+    "answer_vi": "Quần áo",
+    "options": [
+      "कपड़ा​​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​",
+      "लोल",
+      "सुनिए"
+    ],
+    "options_vi": [
+      "Quần áo",
+      "Hát",
+      "Cười lớn",
+      "Nghe này / Xin lỗi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cloth / Dress",
+        "english": "कपड़ा​​​​​ (Quần áo)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "LOL / Laughing Out Loud",
+        "english": "लोल (Cười lớn)"
+      },
+      {
+        "hindi": "Listen (polite)",
+        "english": "सुनिए (Nghe này / Xin lỗi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To cry.",
+    "simpleRule": "Remember: To cry means रोना​​​​​​​​ (Khóc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "before (time)",
+    "transliteration": "",
+    "english": "के पहले",
+    "vietnamese": "Trước khi (thời gian)",
+    "audio": "before (time)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To cry'",
+    "prompt_en": "Choose correct translation for 'To cry'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
+    "text": "To cry",
+    "subtext": "",
+    "answer": "रोना​​​​​​​​",
+    "answer_vi": "Khóc",
+    "options": [
+      "रोना​​​​​​​​",
+      "के पहले",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Khóc",
+      "Trước khi (thời gian)",
+      "Thức dậy",
+      "Đi bộ / Di chuyển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "before (time)",
+        "english": "के पहले (Trước khi (thời gian))"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "against",
+    "translation_en": "के विरुद्ध",
+    "translation_vi": "Chống lại / Phản đối",
+    "options_en": [
+      "के विरुद्ध",
+      "पूछना​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "रोना​​​​​​​"
+    ],
+    "options_vi": [
+      "Chống lại / Phản đối",
+      "Hỏi",
+      "Thức dậy",
+      "Khóc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the के विरुद्ध / Tôi thấy Chống lại / Phản đối",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "against"
+    ],
+    "correctHindiSentence": "I see the against"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a पूछना​​​​​​​​​​​​​​​​ / Tôi muốn Hỏi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To ask"
+    ],
+    "correctHindiSentence": "I want a To ask"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: against and To walk / move",
+      "Practiced constructing sentences."
+    ]
+  }
+]

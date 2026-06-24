@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 70",
+    "description": "Master the vocabulary and grammar for: Episode 70. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 70",
+    "title_vi": "Tập 70",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Cup (प्याला​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Tách."
+      },
+      {
+        "hindi": "Later, you encounter a Don't worry. (चिंता मत करो।).",
+        "translation": "Sau đó, bạn gặp một Đừng lo lắng.."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Cup",
+        "isCorrect": true
+      },
+      {
+        "text": "Don't worry.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Cup.",
+    "simpleRule": "Remember: Cup means प्याला​​​​​​​​​​​ (Tách)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cup",
+    "transliteration": "",
+    "english": "प्याला​​​​​​​​​​​",
+    "vietnamese": "Tách",
+    "audio": "Cup"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Don't worry.",
+    "transliteration": "",
+    "english": "चिंता मत करो।",
+    "vietnamese": "Đừng lo lắng.",
+    "audio": "Don't worry."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Supply",
+    "transliteration": "",
+    "english": "आपूर्ति",
+    "vietnamese": "Nguồn cung",
+    "audio": "Supply"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cup'",
+    "prompt_en": "Choose correct translation for 'Cup'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cup'",
+    "text": "Cup",
+    "subtext": "",
+    "answer": "प्याला​​​​​​​​​​​",
+    "answer_vi": "Tách",
+    "options": [
+      "प्याला​​​​​​​​​​​",
+      "चिंता मत करो।",
+      "लिखना​​​​​​​​​​​​​​​​​​​",
+      "आपूर्ति"
+    ],
+    "options_vi": [
+      "Tách",
+      "Đừng lo lắng.",
+      "Viết",
+      "Nguồn cung"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cup",
+        "english": "प्याला​​​​​​​​​​​ (Tách)"
+      },
+      {
+        "hindi": "Don't worry.",
+        "english": "चिंता मत करो। (Đừng lo lắng.)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "Supply",
+        "english": "आपूर्ति (Nguồn cung)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Expensive",
+    "transliteration": "",
+    "english": "महँगा",
+    "vietnamese": "Đắt đỏ",
+    "audio": "Expensive"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sheep",
+    "transliteration": "",
+    "english": "भेड़",
+    "vietnamese": "Con cừu",
+    "audio": "Sheep"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "महँगा",
+      "दफ़्तर​​​​​​",
+      "भेड़"
+    ],
+    "options_vi": [
+      "Nói",
+      "Đắt đỏ",
+      "Văn phòng",
+      "Con cừu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Expensive",
+        "english": "महँगा (Đắt đỏ)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "Sheep",
+        "english": "भेड़ (Con cừu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To sing.",
+    "simpleRule": "Remember: To sing means गाना​​​​​​ (Hát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tears",
+    "transliteration": "",
+    "english": "आँसू",
+    "vietnamese": "Nước mắt",
+    "audio": "Tears"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sing'",
+    "prompt_en": "Choose correct translation for 'To sing'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
+    "text": "To sing",
+    "subtext": "",
+    "answer": "गाना​​​​​​",
+    "answer_vi": "Hát",
+    "options": [
+      "गाना​​​​​​",
+      "हँसना​​​​​​​​​​​​​",
+      "आँसू",
+      "लिखना​"
+    ],
+    "options_vi": [
+      "Hát",
+      "Cười lớn",
+      "Nước mắt",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "Tears",
+        "english": "आँसू (Nước mắt)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​ (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Cup",
+    "translation_en": "प्याला​​​​​​​​​​​",
+    "translation_vi": "Tách",
+    "options_en": [
+      "प्याला​​​​​​​​​​​",
+      "चिंता मत करो।",
+      "लिखना​​​​​​​​​​​​​​​​​​​",
+      "आपूर्ति"
+    ],
+    "options_vi": [
+      "Tách",
+      "Đừng lo lắng.",
+      "Viết",
+      "Nguồn cung"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the प्याला​​​​​​​​​​​ / Tôi thấy Tách",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Cup"
+    ],
+    "correctHindiSentence": "I see the Cup"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a चिंता मत करो। / Tôi muốn Đừng lo lắng.",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Don't worry."
+    ],
+    "correctHindiSentence": "I want a Don't worry."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Cup and To write",
+      "Practiced constructing sentences."
+    ]
+  }
+]

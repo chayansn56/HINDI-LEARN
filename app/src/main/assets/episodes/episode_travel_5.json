@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 5",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 5",
+    "description": "Master the vocabulary and grammar for: Travel - Level 5. Read the key points carefully.",
     "keyPoints": [
-      "खरीदना​​​​​​​​​​​​​​​​​​ (kharīdnā) = To buy / Mua",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​ (paṛhnā) = To read / Đọc",
-      "टिकट (ṭikaṭ) = Ticket / Vé"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 5",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: खरीदना​​​​​​​​​​​​​​​​​​ means 'To buy' (Mua)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: कमरा.",
+    "simpleRule": "Remember: कमरा means Room (Căn phòng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "खरीदना​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kharīdnā",
-    "english": "To buy",
-    "vietnamese": "Mua",
-    "audio": "खरीदना​​​​​​​​​​​​​​​​​​"
+    "hindi": "कमरा",
+    "transliteration": "kamrā",
+    "english": "Room",
+    "vietnamese": "Căn phòng",
+    "audio": "कमरा"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दुल्हा",
+    "transliteration": "dulha",
+    "english": "Groom",
+    "vietnamese": "Chú rể",
+    "audio": "दुल्हा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाली कमरा",
+    "transliteration": "khālī kamrā",
+    "english": "Vacant room",
+    "vietnamese": "Phòng trống",
+    "audio": "खाली कमरा"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'खरीदना​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'खरीदना​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'खरीदना​​​​​​​​​​​​​​​​​​'",
-    "text": "खरीदना​​​​​​​​​​​​​​​​​​",
-    "subtext": "kharīdnā",
-    "answer": "To buy",
-    "answer_vi": "Mua",
+    "prompt": "Translate 'कमरा'",
+    "prompt_en": "Choose correct translation for 'कमरा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'कमरा'",
+    "text": "कमरा",
+    "subtext": "kamrā",
+    "answer": "Room",
+    "answer_vi": "Căn phòng",
     "options": [
-      "To read",
-      "To buy",
-      "Ticket",
-      "To sleep"
+      "Room",
+      "Journey",
+      "Groom",
+      "Vacant room"
     ],
     "options_vi": [
-      "Đọc",
-      "Mua",
-      "Vé",
-      "Ngủ"
+      "Căn phòng",
+      "Chuyến đi",
+      "Chú rể",
+      "Phòng trống"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "टिकट",
-    "transliteration": "ṭikaṭ",
-    "english": "Ticket",
-    "vietnamese": "Vé",
-    "audio": "टिकट"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "कमरा",
+        "english": "Room (Căn phòng)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "दुल्हा",
+        "english": "Groom (Chú rể)"
+      },
+      {
+        "hindi": "खाली कमरा",
+        "english": "Vacant room (Phòng trống)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: व्यवसाय.",
+    "simpleRule": "Remember: व्यवसाय means Profession / Business (Nghề nghiệp / Doanh nghiệp)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sonā",
-    "english": "To sleep",
-    "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "व्यवसाय",
+    "transliteration": "vyavsaay",
+    "english": "Profession / Business",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "व्यवसाय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बस स्टैंड",
+    "transliteration": "bus stand",
+    "english": "Bus stop",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "बस स्टैंड"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थाना",
+    "transliteration": "thana",
+    "english": "Police station",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "थाना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'व्यवसाय'",
+    "prompt_en": "Choose correct translation for 'व्यवसाय'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'व्यवसाय'",
+    "text": "व्यवसाय",
+    "subtext": "vyavsaay",
+    "answer": "Profession / Business",
+    "answer_vi": "Nghề nghiệp / Doanh nghiệp",
+    "options": [
+      "Profession / Business",
+      "Bathroom",
+      "Bus stop",
+      "Police station"
+    ],
+    "options_vi": [
+      "Nghề nghiệp / Doanh nghiệp",
+      "Nhà tắm / Toilet",
+      "Trạm xe buýt",
+      "Đồn cảnh sát"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "खरीदना​​​​​​​​​​​​​​​​​​",
-        "english": "To buy (Mua)"
+        "hindi": "व्यवसाय",
+        "english": "Profession / Business (Nghề nghiệp / Doanh nghiệp)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To read (Đọc)"
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
       },
       {
-        "hindi": "टिकट",
-        "english": "Ticket (Vé)"
+        "hindi": "बस स्टैंड",
+        "english": "Bus stop (Trạm xe buýt)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sleep (Ngủ)"
+        "hindi": "थाना",
+        "english": "Police station (Đồn cảnh sát)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To read",
-    "translation_vi": "Đọc",
+    "audio": "कमरा",
+    "translation_en": "Room",
+    "translation_vi": "Căn phòng",
     "options_en": [
-      "Ticket",
-      "To buy",
-      "To sleep",
-      "To read"
+      "Room",
+      "Journey",
+      "Groom",
+      "Vacant room"
     ],
     "options_vi": [
-      "Vé",
-      "Mua",
-      "Ngủ",
-      "Đọc"
+      "Căn phòng",
+      "Chuyến đi",
+      "Chú rể",
+      "Phòng trống"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
+    "englishSentence": "This is a Room / Đây là Căn phòng",
     "hindiWords": [
-      "होटल",
-      "कहाँ",
-      "है",
-      "स्टेशन",
-      "में"
+      "यह",
+      "एक",
+      "कमरा",
+      "है"
     ],
-    "correctHindiSentence": "होटल कहाँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पता",
-    "transliteration": "pata",
-    "english": "Address / Info",
-    "vietnamese": "Địa chỉ",
-    "audio": "पता"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "देना​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "denā",
-    "english": "To give",
-    "vietnamese": "Cho / Tặng",
-    "audio": "देना​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "टिकट",
-        "english": "Ticket (Vé)"
-      },
-      {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sleep (Ngủ)"
-      },
-      {
-        "hindi": "पता",
-        "english": "Address / Info (Địa chỉ)"
-      },
-      {
-        "hindi": "देना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To give (Cho / Tặng)"
-      }
-    ]
+    "correctHindiSentence": "यह एक कमरा है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "englishSentence": "I see Journey / Tôi thấy Chuyến đi",
     "hindiWords": [
-      "कृपया",
-      "दाम",
-      "कम",
-      "करो",
-      "ज्यादा",
-      "पैसे"
+      "मैं",
+      "सफ़र​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "कृपया दाम कम करो"
+    "correctHindiSentence": "मैं सफ़र​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: खरीदना​​​​​​​​​​​​​​​​​​, टिकट, पता.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Please reduce the price'."
+      "You learned: कमरा, थाना",
+      "Practiced constructing sentences."
     ]
   }
 ]

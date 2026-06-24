@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Level 7",
+    "description": "Master the vocabulary and grammar for: Culture - Level 7. Read the key points carefully.",
+    "keyPoints": [
+      "Learn culture concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: to drink.",
+    "simpleRule": "Remember: to drink means पीना (Uống)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to drink",
+    "transliteration": "",
+    "english": "पीना",
+    "vietnamese": "Uống",
+    "audio": "to drink"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To eat / Food",
+    "transliteration": "",
+    "english": "खाना",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "To eat / Food"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'to drink'",
+    "prompt_en": "Choose correct translation for 'to drink'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
+    "text": "to drink",
+    "subtext": "",
+    "answer": "पीना",
+    "answer_vi": "Uống",
+    "options": [
+      "पीना",
+      "खाना",
+      "मिट्टी​​​",
+      "मिट्टी​​​​​​​"
+    ],
+    "options_vi": [
+      "Uống",
+      "Ăn / Đồ ăn",
+      "Đất",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "to drink",
+        "english": "पीना (Uống)"
+      },
+      {
+        "hindi": "To eat / Food",
+        "english": "खाना (Ăn / Đồ ăn)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​ (Đất)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​​​ (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Soil / Earth.",
+    "simpleRule": "Remember: Soil / Earth means मिट्टी​​ (Đất)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dance, my love",
+    "transliteration": "",
+    "english": "नच बलिए",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "Dance, my love"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Drinking water",
+    "transliteration": "",
+    "english": "पीने का पानी",
+    "vietnamese": "Nước uống",
+    "audio": "Drinking water"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Soil / Earth'",
+    "prompt_en": "Choose correct translation for 'Soil / Earth'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
+    "text": "Soil / Earth",
+    "subtext": "",
+    "answer": "मिट्टी​​",
+    "answer_vi": "Đất",
+    "options": [
+      "मिट्टी​​",
+      "नच बलिए",
+      "पीने का पानी",
+      "मिट्टी​"
+    ],
+    "options_vi": [
+      "Đất",
+      "Nhảy đi tình yêu của tôi",
+      "Nước uống",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​ (Đất)"
+      },
+      {
+        "hindi": "Dance, my love",
+        "english": "नच बलिए (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "Drinking water",
+        "english": "पीने का पानी (Nước uống)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​ (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Soil / Earth.",
+    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​​​​​ (Đất)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Festival",
+    "transliteration": "",
+    "english": "त्योहार",
+    "vietnamese": "Lễ hội",
+    "audio": "Festival"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Partnership",
+    "transliteration": "",
+    "english": "साझेदारी",
+    "vietnamese": "Quan hệ đối tác",
+    "audio": "Partnership"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Soil / Earth'",
+    "prompt_en": "Choose correct translation for 'Soil / Earth'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
+    "text": "Soil / Earth",
+    "subtext": "",
+    "answer": "मिट्टी​​​​​​​​​",
+    "answer_vi": "Đất",
+    "options": [
+      "मिट्टी​​​​​​​​​",
+      "त्योहार",
+      "मिट्टी​​​​​​",
+      "साझेदारी"
+    ],
+    "options_vi": [
+      "Đất",
+      "Lễ hội",
+      "Đất",
+      "Quan hệ đối tác"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​​​​​ (Đất)"
+      },
+      {
+        "hindi": "Festival",
+        "english": "त्योहार (Lễ hội)"
+      },
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​​ (Đất)"
+      },
+      {
+        "hindi": "Partnership",
+        "english": "साझेदारी (Quan hệ đối tác)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Soil / Earth.",
+    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​ (Đất)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Client / Customer",
+    "transliteration": "",
+    "english": "ग्राहक",
+    "vietnamese": "Khách hàng",
+    "audio": "Client / Customer"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Defiled food",
+    "transliteration": "",
+    "english": "जूठा",
+    "vietnamese": "Thức ăn thừa / Ô uế",
+    "audio": "Defiled food"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Agentive particle",
+    "transliteration": "",
+    "english": "ने",
+    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "audio": "Agentive particle"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Soil / Earth'",
+    "prompt_en": "Choose correct translation for 'Soil / Earth'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
+    "text": "Soil / Earth",
+    "subtext": "",
+    "answer": "मिट्टी​​​​",
+    "answer_vi": "Đất",
+    "options": [
+      "मिट्टी​​​​",
+      "ग्राहक",
+      "जूठा",
+      "ने"
+    ],
+    "options_vi": [
+      "Đất",
+      "Khách hàng",
+      "Thức ăn thừa / Ô uế",
+      "Hậu giới từ chỉ tác nhân"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​ (Đất)"
+      },
+      {
+        "hindi": "Client / Customer",
+        "english": "ग्राहक (Khách hàng)"
+      },
+      {
+        "hindi": "Defiled food",
+        "english": "जूठा (Thức ăn thừa / Ô uế)"
+      },
+      {
+        "hindi": "Agentive particle",
+        "english": "ने (Hậu giới từ chỉ tác nhân)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "to drink",
+    "translation_en": "पीना",
+    "translation_vi": "Uống",
+    "options_en": [
+      "पीना",
+      "खाना",
+      "मिट्टी​​​",
+      "मिट्टी​​​​​​​"
+    ],
+    "options_vi": [
+      "Uống",
+      "Ăn / Đồ ăn",
+      "Đất",
+      "Đất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a पीना / Nó là một Uống",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "to drink"
+    ],
+    "correctHindiSentence": "It is a to drink"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like खाना / Tôi thích Ăn / Đồ ăn",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To eat / Food"
+    ],
+    "correctHindiSentence": "I really like To eat / Food"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: to drink and Agentive particle",
+      "Practiced constructing sentences."
+    ]
+  }
+]

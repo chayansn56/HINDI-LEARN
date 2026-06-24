@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Speak - Lesson 9",
-    "description": "Learn key vocabulary and concepts for Speak - Lesson 9. Listen carefully and read along in English and Vietnamese.",
+    "title": "Speak - Level 9",
+    "description": "Master the vocabulary and grammar for: Speak - Level 9. Read the key points carefully.",
     "keyPoints": [
-      "काम करना​​​​​​ (kām karnā) = To work / Làm việc",
-      "नमस्ते, आप कैसे हैं? (namaste, aap kaise hain?) = Hello, how are you? / Xin chào, bạn khỏe không?",
-      "रोना​​​​​​​​ (ronā) = To cry / Khóc"
+      "Learn speak concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 9",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: काम करना​​​​​​ means 'To work' (Làm việc)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: क्या.",
+    "simpleRule": "Remember: क्या means What / [Question Marker] (Cái gì)."
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​​",
-    "transliteration": "kām karnā",
-    "english": "To work",
-    "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​"
+    "hindi": "क्या",
+    "transliteration": "kyā",
+    "english": "What / [Question Marker]",
+    "vietnamese": "Cái gì",
+    "audio": "क्या"
   },
   {
     "type": "Flashcard",
-    "hindi": "नमस्ते, आप कैसे हैं?",
-    "transliteration": "namaste, aap kaise hain?",
-    "english": "Hello, how are you?",
-    "vietnamese": "Xin chào, bạn khỏe không?",
-    "audio": "नमस्ते, आप कैसे हैं?"
+    "hindi": "कितना दुखद है!",
+    "transliteration": "kitna dukhad hai!",
+    "english": "How sad!",
+    "vietnamese": "Thật là buồn!",
+    "audio": "कितना दुखद है!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भाव खाना",
+    "transliteration": "bhaav khaana",
+    "english": "To act pricey / show attitude",
+    "vietnamese": "Làm kiêu / Tỏ vẻ",
+    "audio": "भाव खाना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'काम करना​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'काम करना​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'काम करना​​​​​​'",
-    "text": "काम करना​​​​​​",
-    "subtext": "kām karnā",
-    "answer": "To work",
-    "answer_vi": "Làm việc",
+    "prompt": "Translate 'क्या'",
+    "prompt_en": "Choose correct translation for 'क्या'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'क्या'",
+    "text": "क्या",
+    "subtext": "kyā",
+    "answer": "What / [Question Marker]",
+    "answer_vi": "Cái gì",
     "options": [
-      "Hello, how are you?",
-      "To cry",
-      "To run",
-      "To work"
+      "What / [Question Marker]",
+      "How sad!",
+      "To speak",
+      "To act pricey / show attitude"
     ],
     "options_vi": [
-      "Xin chào, bạn khỏe không?",
-      "Khóc",
-      "Chạy",
-      "Làm việc"
+      "Cái gì",
+      "Thật là buồn!",
+      "Nói",
+      "Làm kiêu / Tỏ vẻ"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "क्या",
+        "english": "What / [Question Marker] (Cái gì)"
+      },
+      {
+        "hindi": "कितना दुखद है!",
+        "english": "How sad! (Thật là buồn!)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "भाव खाना",
+        "english": "To act pricey / show attitude (Làm kiêu / Tỏ vẻ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: कैसे.",
+    "simpleRule": "Remember: कैसे means How (Như thế nào)."
   },
   {
     "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​​",
-    "transliteration": "dauṛnā",
-    "english": "To run",
-    "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​​"
+    "hindi": "कैसे",
+    "transliteration": "kaise",
+    "english": "How",
+    "vietnamese": "Như thế nào",
+    "audio": "कैसे"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जब",
+    "transliteration": "jab",
+    "english": "When (relative)",
+    "vietnamese": "Khi mà",
+    "audio": "जब"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कब",
+    "transliteration": "kab",
+    "english": "When",
+    "vietnamese": "Khi nào",
+    "audio": "कब"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'कैसे'",
+    "prompt_en": "Choose correct translation for 'कैसे'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'कैसे'",
+    "text": "कैसे",
+    "subtext": "kaise",
+    "answer": "How",
+    "answer_vi": "Như thế nào",
+    "options": [
+      "How",
+      "When (relative)",
+      "To speak",
+      "When"
+    ],
+    "options_vi": [
+      "Như thế nào",
+      "Khi mà",
+      "Nói",
+      "Khi nào"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "काम करना​​​​​​",
-        "english": "To work (Làm việc)"
+        "hindi": "कैसे",
+        "english": "How (Như thế nào)"
       },
       {
-        "hindi": "नमस्ते, आप कैसे हैं?",
-        "english": "Hello, how are you? (Xin chào, bạn khỏe không?)"
+        "hindi": "जब",
+        "english": "When (relative) (Khi mà)"
       },
       {
-        "hindi": "रोना​​​​​​​​",
-        "english": "To cry (Khóc)"
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
       },
       {
-        "hindi": "दौड़ना​​​​​​",
-        "english": "To run (Chạy)"
+        "hindi": "कब",
+        "english": "When (Khi nào)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "नमस्ते, आप कैसे हैं?",
-    "translation_en": "Hello, how are you?",
-    "translation_vi": "Xin chào, bạn khỏe không?",
+    "audio": "क्या",
+    "translation_en": "What / [Question Marker]",
+    "translation_vi": "Cái gì",
     "options_en": [
-      "Hello, how are you?",
-      "To run",
-      "To cry",
-      "To work"
+      "What / [Question Marker]",
+      "How sad!",
+      "To speak",
+      "To act pricey / show attitude"
     ],
     "options_vi": [
-      "Xin chào, bạn khỏe không?",
-      "Chạy",
-      "Khóc",
-      "Làm việc"
+      "Cái gì",
+      "Thật là buồn!",
+      "Nói",
+      "Làm kiêu / Tỏ vẻ"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please speak slowly / Làm ơn nói chậm lại",
+    "englishSentence": "This is a What / [Question Marker] / Đây là Cái gì",
     "hindiWords": [
-      "कृपया",
-      "धीरे",
-      "बोलिए",
-      "सुनिए",
-      "नमस्ते"
+      "यह",
+      "एक",
+      "क्या",
+      "है"
     ],
-    "correctHindiSentence": "कृपया धीरे बोलिए"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "मुझे प्यास लगी है।",
-    "transliteration": "mujhe pyaas lagi hai",
-    "english": "I am thirsty.",
-    "vietnamese": "Tôi khát.",
-    "audio": "मुझे प्यास लगी है।"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "मुझे नींद आ रही है।",
-    "transliteration": "mujhe neend aa rahi hai",
-    "english": "I am feeling sleepy.",
-    "vietnamese": "Tôi đang buồn ngủ.",
-    "audio": "मुझे नींद आ रही है।"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "रोना​​​​​​​​",
-        "english": "To cry (Khóc)"
-      },
-      {
-        "hindi": "दौड़ना​​​​​​",
-        "english": "To run (Chạy)"
-      },
-      {
-        "hindi": "मुझे प्यास लगी है।",
-        "english": "I am thirsty. (Tôi khát.)"
-      },
-      {
-        "hindi": "मुझे नींद आ रही है।",
-        "english": "I am feeling sleepy. (Tôi đang buồn ngủ.)"
-      }
-    ]
+    "correctHindiSentence": "यह एक क्या है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "How are you? / Bạn khỏe không?",
+    "englishSentence": "I see How sad! / Tôi thấy Thật là buồn!",
     "hindiWords": [
-      "तुम",
-      "कैसे",
-      "हो",
-      "नमस्ते",
-      "हम",
-      "हैं"
+      "मैं",
+      "कितना दुखद है!",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "तुम कैसे हो"
+    "correctHindiSentence": "मैं कितना दुखद है! देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: काम करना​​​​​​, रोना​​​​​​​​, मुझे प्यास लगी है।.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'How are you?'."
+      "You learned: क्या, कब",
+      "Practiced constructing sentences."
     ]
   }
 ]

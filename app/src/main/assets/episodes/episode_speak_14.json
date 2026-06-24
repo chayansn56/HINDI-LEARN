@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 14",
+    "description": "Master the vocabulary and grammar for: Speak - Level 14. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: तभी.",
+    "simpleRule": "Remember: तभी means Just then / That is why (Ngay lúc đó / Chính vì vậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तभी",
+    "transliteration": "tabhi",
+    "english": "Just then / That is why",
+    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "audio": "तभी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या हाल है?",
+    "transliteration": "kya haal hai?",
+    "english": "How's it going? / How are you?",
+    "vietnamese": "Thế nào rồi?",
+    "audio": "क्या हाल है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कब",
+    "transliteration": "kab",
+    "english": "When",
+    "vietnamese": "Khi nào",
+    "audio": "कब"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'तभी'",
+    "prompt_en": "Choose correct translation for 'तभी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'तभी'",
+    "text": "तभी",
+    "subtext": "tabhi",
+    "answer": "Just then / That is why",
+    "answer_vi": "Ngay lúc đó / Chính vì vậy",
+    "options": [
+      "Just then / That is why",
+      "To speak",
+      "How's it going? / How are you?",
+      "When"
+    ],
+    "options_vi": [
+      "Ngay lúc đó / Chính vì vậy",
+      "Nói",
+      "Thế nào rồi?",
+      "Khi nào"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "तभी",
+        "english": "Just then / That is why (Ngay lúc đó / Chính vì vậy)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "क्या हाल है?",
+        "english": "How's it going? / How are you? (Thế nào rồi?)"
+      },
+      {
+        "hindi": "कब",
+        "english": "When (Khi nào)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: आप कैसे हैं?.",
+    "simpleRule": "Remember: आप कैसे हैं? means How are you? (Formal) (Bạn khỏe không? (Lịch sự))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आप कैसे हैं?",
+    "transliteration": "āp kaise haĩ?",
+    "english": "How are you? (Formal)",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "आप कैसे हैं?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नमस्ते जी",
+    "transliteration": "namaste ji",
+    "english": "Hello (highly respectful)",
+    "vietnamese": "Kính chào quý vị",
+    "audio": "नमस्ते जी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'आप कैसे हैं?'",
+    "prompt_en": "Choose correct translation for 'आप कैसे हैं?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आप कैसे हैं?'",
+    "text": "आप कैसे हैं?",
+    "subtext": "āp kaise haĩ?",
+    "answer": "How are you? (Formal)",
+    "answer_vi": "Bạn khỏe không? (Lịch sự)",
+    "options": [
+      "How are you? (Formal)",
+      "To speak",
+      "Hello (highly respectful)",
+      "To speak"
+    ],
+    "options_vi": [
+      "Bạn khỏe không? (Lịch sự)",
+      "Nói",
+      "Kính chào quý vị",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "आप कैसे हैं?",
+        "english": "How are you? (Formal) (Bạn khỏe không? (Lịch sự))"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "नमस्ते जी",
+        "english": "Hello (highly respectful) (Kính chào quý vị)"
+      },
+      {
+        "hindi": "बोलना",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "तभी",
+    "translation_en": "Just then / That is why",
+    "translation_vi": "Ngay lúc đó / Chính vì vậy",
+    "options_en": [
+      "Just then / That is why",
+      "To speak",
+      "How's it going? / How are you?",
+      "When"
+    ],
+    "options_vi": [
+      "Ngay lúc đó / Chính vì vậy",
+      "Nói",
+      "Thế nào rồi?",
+      "Khi nào"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Just then / That is why / Đây là Ngay lúc đó / Chính vì vậy",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "तभी",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक तभी है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
+    "hindiWords": [
+      "मैं",
+      "बोलना​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं बोलना​​​​​​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: तभी, बोलना",
+      "Practiced constructing sentences."
+    ]
+  }
+]

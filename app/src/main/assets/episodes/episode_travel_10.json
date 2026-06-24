@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 10",
+    "description": "Master the vocabulary and grammar for: Travel - Level 10. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: व्यवसाय.",
+    "simpleRule": "Remember: व्यवसाय means Profession / Business (Nghề nghiệp / Doanh nghiệp)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व्यवसाय",
+    "transliteration": "vyavsaay",
+    "english": "Profession / Business",
+    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "audio": "व्यवसाय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाली कमरा",
+    "transliteration": "khālī kamrā",
+    "english": "Vacant room",
+    "vietnamese": "Phòng trống",
+    "audio": "खाली कमरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थाना",
+    "transliteration": "thana",
+    "english": "Police station",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "थाना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'व्यवसाय'",
+    "prompt_en": "Choose correct translation for 'व्यवसाय'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'व्यवसाय'",
+    "text": "व्यवसाय",
+    "subtext": "vyavsaay",
+    "answer": "Profession / Business",
+    "answer_vi": "Nghề nghiệp / Doanh nghiệp",
+    "options": [
+      "Profession / Business",
+      "Journey",
+      "Vacant room",
+      "Police station"
+    ],
+    "options_vi": [
+      "Nghề nghiệp / Doanh nghiệp",
+      "Chuyến đi",
+      "Phòng trống",
+      "Đồn cảnh sát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "व्यवसाय",
+        "english": "Profession / Business (Nghề nghiệp / Doanh nghiệp)"
+      },
+      {
+        "hindi": "सफ़र",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "खाली कमरा",
+        "english": "Vacant room (Phòng trống)"
+      },
+      {
+        "hindi": "थाना",
+        "english": "Police station (Đồn cảnh sát)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: होटल.",
+    "simpleRule": "Remember: होटल means Hotel (Khách sạn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होटल",
+    "transliteration": "hotel",
+    "english": "Hotel",
+    "vietnamese": "Khách sạn",
+    "audio": "होटल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट",
+    "transliteration": "ṭikaṭ",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'होटल'",
+    "prompt_en": "Choose correct translation for 'होटल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'होटल'",
+    "text": "होटल",
+    "subtext": "hotel",
+    "answer": "Hotel",
+    "answer_vi": "Khách sạn",
+    "options": [
+      "Hotel",
+      "Ticket",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Khách sạn",
+      "Vé",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "होटल",
+        "english": "Hotel (Khách sạn)"
+      },
+      {
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सफ़र​​​​​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "व्यवसाय",
+    "translation_en": "Profession / Business",
+    "translation_vi": "Nghề nghiệp / Doanh nghiệp",
+    "options_en": [
+      "Profession / Business",
+      "Journey",
+      "Vacant room",
+      "Police station"
+    ],
+    "options_vi": [
+      "Nghề nghiệp / Doanh nghiệp",
+      "Chuyến đi",
+      "Phòng trống",
+      "Đồn cảnh sát"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Profession / Business / Đây là Nghề nghiệp / Doanh nghiệp",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "व्यवसाय",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक व्यवसाय है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Journey / Tôi thấy Chuyến đi",
+    "hindiWords": [
+      "मैं",
+      "सफ़र",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं सफ़र देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: व्यवसाय, सफ़र​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

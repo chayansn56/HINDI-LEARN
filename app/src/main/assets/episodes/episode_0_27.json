@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Foundation Academy - Level 27",
-    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 27. Listen carefully and read along in English and Vietnamese.",
+    "title": "Time & Calendar",
+    "description": "Master the vocabulary and grammar for: Time & Calendar. Read the key points carefully.",
     "keyPoints": [
-      "दौड़ना​​​​​ (dauṛnā) = To run / Chạy",
-      "कापी​​​​​​​​​​ (kaapī) = Notebook / Sổ tay",
-      "सुनना​​​​​​​​​​ (sunnā) = To listen / hear / Nghe"
+      "Focus: Time & Calendar"
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Alphabet & Building Blocks - Part 27",
-    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: दौड़ना​​​​​ means 'To run' (Chạy)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: आज.",
+    "simpleRule": "Remember: आज means Today (Hôm nay)."
   },
   {
     "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​",
-    "transliteration": "dauṛnā",
-    "english": "To run",
-    "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​"
+    "hindi": "आज",
+    "transliteration": "aaj",
+    "english": "Today",
+    "vietnamese": "Hôm nay",
+    "audio": "आज"
   },
   {
     "type": "Flashcard",
-    "hindi": "कापी​​​​​​​​​​",
-    "transliteration": "kaapī",
-    "english": "Notebook",
-    "vietnamese": "Sổ tay",
-    "audio": "कापी​​​​​​​​​​"
+    "hindi": "रात",
+    "transliteration": "rāt",
+    "english": "Night",
+    "vietnamese": "Đêm",
+    "audio": "रात"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बुधवार",
+    "transliteration": "budhvaar",
+    "english": "Wednesday",
+    "vietnamese": "Thứ tư",
+    "audio": "बुधवार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तड़प",
+    "transliteration": "tadap",
+    "english": "Yearning / Restlessness",
+    "vietnamese": "Sự khắc khoải / Khao khát",
+    "audio": "तड़प"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'दौड़ना​​​​​'",
-    "prompt_en": "Choose the correct translation for 'दौड़ना​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'दौड़ना​​​​​'",
-    "text": "दौड़ना​​​​​",
-    "subtext": "dauṛnā",
-    "answer": "To run",
-    "answer_vi": "Chạy",
+    "prompt": "Translate 'आज'",
+    "prompt_en": "Choose correct translation for 'आज'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आज'",
+    "text": "आज",
+    "subtext": "aaj",
+    "answer": "Today",
+    "answer_vi": "Hôm nay",
     "options": [
-      "To listen / hear",
-      "To run",
-      "Mountain",
-      "Notebook"
+      "Today",
+      "Night",
+      "Wednesday",
+      "Yearning / Restlessness"
     ],
     "options_vi": [
-      "Nghe",
-      "Chạy",
-      "Ngọn núi",
-      "Sổ tay"
+      "Hôm nay",
+      "Đêm",
+      "Thứ tư",
+      "Sự khắc khoải / Khao khát"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​",
-    "transliteration": "sunnā",
-    "english": "To listen / hear",
-    "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "आज",
+        "english": "Today (Hôm nay)"
+      },
+      {
+        "hindi": "रात",
+        "english": "Night (Đêm)"
+      },
+      {
+        "hindi": "बुधवार",
+        "english": "Wednesday (Thứ tư)"
+      },
+      {
+        "hindi": "तड़प",
+        "english": "Yearning / Restlessness (Sự khắc khoải / Khao khát)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: गुरुवार.",
+    "simpleRule": "Remember: गुरुवार means Thursday (Thứ năm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पहाड़​​​​​​​​",
-    "transliteration": "pahāṛ",
-    "english": "Mountain",
-    "vietnamese": "Ngọn núi",
-    "audio": "पहाड़​​​​​​​​"
+    "hindi": "गुरुवार",
+    "transliteration": "guruvaar",
+    "english": "Thursday",
+    "vietnamese": "Thứ năm",
+    "audio": "गुरुवार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दिन",
+    "transliteration": "din",
+    "english": "Day",
+    "vietnamese": "Ngày",
+    "audio": "दिन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कल",
+    "transliteration": "kal",
+    "english": "Yesterday / Tomorrow",
+    "vietnamese": "Hôm qua / Ngày mai",
+    "audio": "कल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोमवार",
+    "transliteration": "somvaar",
+    "english": "Monday",
+    "vietnamese": "Thứ hai",
+    "audio": "सोमवार"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'गुरुवार'",
+    "prompt_en": "Choose correct translation for 'गुरुवार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गुरुवार'",
+    "text": "गुरुवार",
+    "subtext": "guruvaar",
+    "answer": "Thursday",
+    "answer_vi": "Thứ năm",
+    "options": [
+      "Thursday",
+      "Day",
+      "Yesterday / Tomorrow",
+      "Monday"
+    ],
+    "options_vi": [
+      "Thứ năm",
+      "Ngày",
+      "Hôm qua / Ngày mai",
+      "Thứ hai"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "दौड़ना​​​​​",
-        "english": "To run (Chạy)"
+        "hindi": "गुरुवार",
+        "english": "Thursday (Thứ năm)"
       },
       {
-        "hindi": "कापी​​​​​​​​​​",
-        "english": "Notebook (Sổ tay)"
+        "hindi": "दिन",
+        "english": "Day (Ngày)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
+        "hindi": "कल",
+        "english": "Yesterday / Tomorrow (Hôm qua / Ngày mai)"
       },
       {
-        "hindi": "पहाड़​​​​​​​​",
-        "english": "Mountain (Ngọn núi)"
+        "hindi": "सोमवार",
+        "english": "Monday (Thứ hai)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "कापी​​​​​​​​​​",
-    "translation_en": "Notebook",
-    "translation_vi": "Sổ tay",
+    "audio": "आज",
+    "translation_en": "Today",
+    "translation_vi": "Hôm nay",
     "options_en": [
-      "To listen / hear",
-      "Notebook",
-      "Mountain",
-      "To run"
+      "Today",
+      "Night",
+      "Wednesday",
+      "Yearning / Restlessness"
     ],
     "options_vi": [
-      "Nghe",
-      "Sổ tay",
-      "Ngọn núi",
-      "Chạy"
+      "Hôm nay",
+      "Đêm",
+      "Thứ tư",
+      "Sự khắc khoải / Khao khát"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is a big house / Đây là một ngôi nhà lớn",
+    "englishSentence": "I know Today / Tôi biết Hôm nay",
     "hindiWords": [
-      "यह",
-      "बड़ा",
-      "घर",
-      "है",
-      "छोटा",
-      "सड़क"
+      "मैं",
+      "आज",
+      "जानता",
+      "हूँ"
     ],
-    "correctHindiSentence": "यह बड़ा घर है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "नीला",
-    "transliteration": "neela",
-    "english": "Blue",
-    "vietnamese": "Màu xanh dương",
-    "audio": "नीला"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "चम्मच",
-    "transliteration": "cammac",
-    "english": "Spoon",
-    "vietnamese": "Thìa",
-    "audio": "चम्मच"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "सुनना​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "पहाड़​​​​​​​​",
-        "english": "Mountain (Ngọn núi)"
-      },
-      {
-        "hindi": "नीला",
-        "english": "Blue (Màu xanh dương)"
-      },
-      {
-        "hindi": "चम्मच",
-        "english": "Spoon (Thìa)"
-      }
-    ]
+    "correctHindiSentence": "मैं आज जानता हूँ"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "He is a boy / Cậu ấy là một cậu bé",
+    "englishSentence": "Where is Night? / Đêm ở đâu?",
     "hindiWords": [
-      "वह",
-      "लड़का",
+      "रात",
+      "कहाँ",
       "है",
-      "हूँ",
-      "वे"
+      "था"
     ],
-    "correctHindiSentence": "वह लड़का है"
+    "correctHindiSentence": "रात कहाँ है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: दौड़ना​​​​​, सुनना​​​​​​​​​​, नीला.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'He is a boy'."
+      "You learned: आज, सोमवार",
+      "Practiced constructing sentences."
     ]
   }
 ]

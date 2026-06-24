@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 64",
+    "description": "Master the vocabulary and grammar for: Episode 64. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 64",
+    "title_vi": "Tập 64",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Apple (सेब).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Quả táo."
+      },
+      {
+        "hindi": "Later, you encounter a And / More (और).",
+        "translation": "Sau đó, bạn gặp một Và / Thêm nữa."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Apple",
+        "isCorrect": true
+      },
+      {
+        "text": "And / More",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Apple.",
+    "simpleRule": "Remember: Apple means सेब (Quả táo)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Apple",
+    "transliteration": "",
+    "english": "सेब",
+    "vietnamese": "Quả táo",
+    "audio": "Apple"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "And / More",
+    "transliteration": "",
+    "english": "और",
+    "vietnamese": "Và / Thêm nữa",
+    "audio": "And / More"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Evil Eye",
+    "transliteration": "",
+    "english": "नज़र",
+    "vietnamese": "Mắt ác / Vận đen",
+    "audio": "Evil Eye"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Apple'",
+    "prompt_en": "Choose correct translation for 'Apple'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Apple'",
+    "text": "Apple",
+    "subtext": "",
+    "answer": "सेब",
+    "answer_vi": "Quả táo",
+    "options": [
+      "सेब",
+      "और",
+      "नज़र",
+      "बोलना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Quả táo",
+      "Và / Thêm nữa",
+      "Mắt ác / Vận đen",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Apple",
+        "english": "सेब (Quả táo)"
+      },
+      {
+        "hindi": "And / More",
+        "english": "और (Và / Thêm nữa)"
+      },
+      {
+        "hindi": "Evil Eye",
+        "english": "नज़र (Mắt ác / Vận đen)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To learn.",
+    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​ (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​​​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Date",
+    "transliteration": "",
+    "english": "तारीख",
+    "vietnamese": "Ngày tháng",
+    "audio": "Date"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To learn'",
+    "prompt_en": "Choose correct translation for 'To learn'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
+    "text": "To learn",
+    "subtext": "",
+    "answer": "सीखना​​​​​​​​​​​​​​",
+    "answer_vi": "Học",
+    "options": [
+      "सीखना​​​​​​​​​​​​​​",
+      "जूता​​​​​",
+      "तारीख",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Học",
+      "Giày",
+      "Ngày tháng",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​​​​ (Giày)"
+      },
+      {
+        "hindi": "Date",
+        "english": "तारीख (Ngày tháng)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​​​​​​​​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​",
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना​​​​​​​​​​​​​​​​​​​​​",
+      "जूता​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Bán",
+      "Đi bộ / Di chuyển",
+      "Giày"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​​​​​​​​​ (Giày)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Apple",
+    "translation_en": "सेब",
+    "translation_vi": "Quả táo",
+    "options_en": [
+      "सेब",
+      "और",
+      "नज़र",
+      "बोलना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Quả táo",
+      "Và / Thêm nữa",
+      "Mắt ác / Vận đen",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सेब / Tôi thấy Quả táo",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Apple"
+    ],
+    "correctHindiSentence": "I see the Apple"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a और / Tôi muốn Và / Thêm nữa",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "And / More"
+    ],
+    "correctHindiSentence": "I want a And / More"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Apple and Shoe",
+      "Practiced constructing sentences."
+    ]
+  }
+]

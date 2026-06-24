@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 2",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 2. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 2",
+    "description": "Master the vocabulary and grammar for: Travel - Level 2. Read the key points carefully.",
     "keyPoints": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (sonā) = To sleep / Ngủ",
-      "sिखाना​​​​​​​​​​​​​​​​ (sikhānā) = To teach / Dạy",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​ (hãsnā) = To laugh / Cười lớn"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 2",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To sleep' (Ngủ)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: टिकट.",
+    "simpleRule": "Remember: टिकट means Ticket (Vé)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sonā",
-    "english": "To sleep",
-    "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "टिकट",
+    "transliteration": "ṭikaṭ",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​",
-    "transliteration": "sikhānā",
-    "english": "To teach",
-    "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व्यापार",
+    "transliteration": "vyaapaar",
+    "english": "Business / Trade",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "व्यापार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रेलवे स्टेशन",
+    "transliteration": "railway station",
+    "english": "Train station",
+    "vietnamese": "Ga tàu hỏa",
+    "audio": "रेलवे स्टेशन"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "sonā",
-    "answer": "To sleep",
-    "answer_vi": "Ngủ",
+    "prompt": "Translate 'टिकट'",
+    "prompt_en": "Choose correct translation for 'टिकट'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'टिकट'",
+    "text": "टिकट",
+    "subtext": "ṭikaṭ",
+    "answer": "Ticket",
+    "answer_vi": "Vé",
     "options": [
-      "To teach",
-      "To sleep",
-      "To laugh",
-      "To laugh"
+      "Ticket",
+      "Journey",
+      "Business / Trade",
+      "Train station"
     ],
     "options_vi": [
-      "Dạy",
-      "Ngủ",
-      "Cười lớn",
-      "Cười lớn"
+      "Vé",
+      "Chuyến đi",
+      "Kinh doanh / Thương mại",
+      "Ga tàu hỏa"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "व्यापार",
+        "english": "Business / Trade (Kinh doanh / Thương mại)"
+      },
+      {
+        "hindi": "रेलवे स्टेशन",
+        "english": "Train station (Ga tàu hỏa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​ means Journey (Chuyến đi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होटल",
+    "transliteration": "hotel",
+    "english": "Hotel",
+    "vietnamese": "Khách sạn",
+    "audio": "होटल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​'",
+    "text": "सफ़र​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Hotel",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Khách sạn",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sleep (Ngủ)"
+        "hindi": "सफ़र​​​​​",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
+        "hindi": "होटल",
+        "english": "Hotel (Khách sạn)"
       },
       {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
+        "hindi": "सफ़र​",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
+        "hindi": "सफ़र​​​​",
+        "english": "Journey (Chuyến đi)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​",
-    "translation_en": "To teach",
-    "translation_vi": "Dạy",
+    "audio": "टिकट",
+    "translation_en": "Ticket",
+    "translation_vi": "Vé",
     "options_en": [
-      "To sleep",
-      "To teach",
-      "To laugh",
-      "To laugh"
+      "Ticket",
+      "Journey",
+      "Business / Trade",
+      "Train station"
     ],
     "options_vi": [
-      "Ngủ",
-      "Dạy",
-      "Cười lớn",
-      "Cười lớn"
+      "Vé",
+      "Chuyến đi",
+      "Kinh doanh / Thương mại",
+      "Ga tàu hỏa"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
+    "englishSentence": "This is a Ticket / Đây là Vé",
     "hindiWords": [
-      "होटल",
-      "कहाँ",
-      "है",
-      "स्टेशन",
-      "में"
+      "यह",
+      "एक",
+      "टिकट",
+      "है"
     ],
-    "correctHindiSentence": "होटल कहाँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "दाएँ मुड़िए।",
-    "transliteration": "dāẽ muṛie.",
-    "english": "Turn right.",
-    "vietnamese": "Rẽ phải.",
-    "audio": "दाएँ मुड़िए।"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "वीज़ा",
-    "transliteration": "visa",
-    "english": "Visa",
-    "vietnamese": "Thị thực / Visa",
-    "audio": "वीज़ा"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
-      },
-      {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
-      },
-      {
-        "hindi": "दाएँ मुड़िए।",
-        "english": "Turn right. (Rẽ phải.)"
-      },
-      {
-        "hindi": "वीज़ा",
-        "english": "Visa (Thị thực / Visa)"
-      }
-    ]
+    "correctHindiSentence": "यह एक टिकट है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "englishSentence": "I see Journey / Tôi thấy Chuyến đi",
     "hindiWords": [
-      "कृपया",
-      "दाम",
-      "कम",
-      "करो",
-      "ज्यादा",
-      "पैसे"
+      "मैं",
+      "सफ़र​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "कृपया दाम कम करो"
+    "correctHindiSentence": "मैं सफ़र​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, हँसना​​​​​​​​​​​​​​​​​​​​​​​, दाएँ मुड़िए।.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Please reduce the price'."
+      "You learned: टिकट, सफ़र​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

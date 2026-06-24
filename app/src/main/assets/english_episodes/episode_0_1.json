@@ -1,65 +1,74 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Welcome to New York",
-    "description": "Chào mừng bạn đến với New York, Mỹ! Không khí mát mẻ, nhộn nhịp. Hãy nói từ tiếng Anh đầu tiên của bạn.",
-    "keyPoints": [
-      "Chúng ta sẽ bắt đầu chỉ với MỘT từ.",
-      "Lắng nghe cẩn thận các âm thanh."
-    ]
-  },
-  {
-    "type": "StoryMode",
-    "title_en": "The Welcome",
-    "title_vi": "Lời chào đón",
-    "paragraphs": [
-      {
-        "hindi": "You meet a friendly local at the coffee shop.",
-        "translation": "Bạn gặp một người dân địa phương thân thiện tại quán cà phê."
-      },
-      {
-        "hindi": "Hello!",
-        "translation": "Xin chào!"
-      }
-    ],
-    "question_en": "What did they say to welcome you?",
-    "question_vi": "Họ đã nói gì để chào đón bạn?",
-    "options": [
-      {
-        "text": "Hello",
-        "isCorrect": true
-      },
-      {
-        "text": "Goodbye",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "The Golden Rule of English Greetings",
-    "explanation": "'Hello' là lời chào phổ biến nhất trong tiếng Anh. Nó lịch sự, thân thiện và được hiểu trên toàn thế giới.",
-    "simpleRule": "Hello = Xin chào"
-  },
-  {
-    "type": "VocabularyContext",
-    "word": "Hello",
-    "translation": "Xin chào",
-    "contextSentenceHindi": "Hello!",
-    "contextSentenceTranslation": "Xin chào!",
-    "memoryTrick": "Hel-lo. Nói một cách vui vẻ khi vẫy tay nhé!"
-  },
-  {
-    "type": "Listening",
-    "audio": "Hello",
-    "translation_en": "Hello",
-    "options_en": ["Hello", "Yes", "No", "Thanks"],
-    "translation_vi": "Xin chào",
-    "options_vi": ["Xin chào", "Có", "Không", "Cảm ơn"]
-  },
-  {
-    "type": "Speaking",
-    "hindiPhrase": "Hello",
-    "translation": "Xin chào"
-  }
-]
+{
+  "id": "episode_0_1",
+  "title": "The English Alphabet",
+  "description": "Introduction to the 26 letters of the English alphabet.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "title": "Bảng chữ cái tiếng Anh",
+      "content": "Bảng chữ cái tiếng Anh có 26 chữ cái. Cách viết giống tiếng Việt nhưng cách đọc hoàn toàn khác."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "A",
+      "english": "A",
+      "vietnamese": "Chữ A (đọc là /eɪ/)",
+      "audio": "A"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "B",
+      "english": "B",
+      "vietnamese": "Chữ B (đọc là /biː/)",
+      "audio": "B"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "C",
+      "english": "C",
+      "vietnamese": "Chữ C (đọc là /siː/)",
+      "audio": "C"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Chữ cái nào sau đây đọc là /biː/?",
+      "options": ["A", "B", "C", "D"],
+      "answer": "B"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Apple",
+      "english": "Apple",
+      "vietnamese": "Quả táo (bắt đầu bằng A)",
+      "audio": "Apple"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Boy",
+      "english": "Boy",
+      "vietnamese": "Cậu bé (bắt đầu bằng B)",
+      "audio": "Boy"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Cat",
+      "english": "Cat",
+      "vietnamese": "Con mèo (bắt đầu bằng C)",
+      "audio": "Cat"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Từ nào có nghĩa là 'Quả táo'?",
+      "options": ["Boy", "Apple", "Cat", "Dog"],
+      "answer": "Apple"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"hindi": "Apple", "vietnamese": "Quả táo"},
+        {"hindi": "Boy", "vietnamese": "Cậu bé"},
+        {"hindi": "Cat", "vietnamese": "Con mèo"}
+      ]
+    }
+  ]
+}

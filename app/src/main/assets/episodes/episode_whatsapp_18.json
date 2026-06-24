@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Whatsapp - Level 18",
+    "description": "Master the vocabulary and grammar for: Whatsapp - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn whatsapp concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मैसेज.",
+    "simpleRule": "Remember: मैसेज means Message (Tin nhắn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मैसेज",
+    "transliteration": "message",
+    "english": "Message",
+    "vietnamese": "Tin nhắn",
+    "audio": "मैसेज"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मित्र",
+    "transliteration": "mitra",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "मित्र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोस्त",
+    "transliteration": "dost",
+    "english": "Friend",
+    "vietnamese": "Bạn bè",
+    "audio": "दोस्त"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "संदेश",
+    "transliteration": "sandesh",
+    "english": "Message",
+    "vietnamese": "Tin nhắn",
+    "audio": "संदेश"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मैसेज'",
+    "prompt_en": "Choose correct translation for 'मैसेज'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मैसेज'",
+    "text": "मैसेज",
+    "subtext": "message",
+    "answer": "Message",
+    "answer_vi": "Tin nhắn",
+    "options": [
+      "Message",
+      "Friend",
+      "Friend",
+      "Message"
+    ],
+    "options_vi": [
+      "Tin nhắn",
+      "Bạn bè",
+      "Bạn bè",
+      "Tin nhắn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मैसेज",
+        "english": "Message (Tin nhắn)"
+      },
+      {
+        "hindi": "मित्र",
+        "english": "Friend (Bạn bè)"
+      },
+      {
+        "hindi": "दोस्त",
+        "english": "Friend (Bạn bè)"
+      },
+      {
+        "hindi": "संदेश",
+        "english": "Message (Tin nhắn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: फ़ोन.",
+    "simpleRule": "Remember: फ़ोन means Phone (Điện thoại)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फ़ोन",
+    "transliteration": "phone",
+    "english": "Phone",
+    "vietnamese": "Điện thoại",
+    "audio": "फ़ोन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोस्ती",
+    "transliteration": "dostī",
+    "english": "Friendship",
+    "vietnamese": "Tình bạn",
+    "audio": "दोस्ती"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ग्रुप",
+    "transliteration": "group",
+    "english": "Group",
+    "vietnamese": "Nhóm",
+    "audio": "ग्रुप"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "यार",
+    "transliteration": "yaar",
+    "english": "Friend / Buddy",
+    "vietnamese": "Bạn ơi / Bạn bè",
+    "audio": "यार"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'फ़ोन'",
+    "prompt_en": "Choose correct translation for 'फ़ोन'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'फ़ोन'",
+    "text": "फ़ोन",
+    "subtext": "phone",
+    "answer": "Phone",
+    "answer_vi": "Điện thoại",
+    "options": [
+      "Phone",
+      "Friendship",
+      "Group",
+      "Friend / Buddy"
+    ],
+    "options_vi": [
+      "Điện thoại",
+      "Tình bạn",
+      "Nhóm",
+      "Bạn ơi / Bạn bè"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "फ़ोन",
+        "english": "Phone (Điện thoại)"
+      },
+      {
+        "hindi": "दोस्ती",
+        "english": "Friendship (Tình bạn)"
+      },
+      {
+        "hindi": "ग्रुप",
+        "english": "Group (Nhóm)"
+      },
+      {
+        "hindi": "यार",
+        "english": "Friend / Buddy (Bạn ơi / Bạn bè)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मैसेज",
+    "translation_en": "Message",
+    "translation_vi": "Tin nhắn",
+    "options_en": [
+      "Message",
+      "Friend",
+      "Friend",
+      "Message"
+    ],
+    "options_vi": [
+      "Tin nhắn",
+      "Bạn bè",
+      "Bạn bè",
+      "Tin nhắn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Message / Đây là Tin nhắn",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मैसेज",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मैसेज है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Friend / Tôi thấy Bạn bè",
+    "hindiWords": [
+      "मैं",
+      "मित्र",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मित्र देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: मैसेज, यार",
+      "Practiced constructing sentences."
+    ]
+  }
+]

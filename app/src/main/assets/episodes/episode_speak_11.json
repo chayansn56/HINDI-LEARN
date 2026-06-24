@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 11",
+    "description": "Master the vocabulary and grammar for: Speak - Level 11. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: क्या समय हुआ है?.",
+    "simpleRule": "Remember: क्या समय हुआ है? means What time is it? (Mấy giờ rồi?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या समय हुआ है?",
+    "transliteration": "kya samay hua hai?",
+    "english": "What time is it?",
+    "vietnamese": "Mấy giờ rồi?",
+    "audio": "क्या समय हुआ है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हवाबाज़ी",
+    "transliteration": "havabaazi",
+    "english": "Show-off / Bragging",
+    "vietnamese": "Sự khoe khoang",
+    "audio": "हवाबाज़ी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आप कैसे हैं?",
+    "transliteration": "āp kaise haĩ?",
+    "english": "How are you? (Formal)",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "आप कैसे हैं?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'क्या समय हुआ है?'",
+    "prompt_en": "Choose correct translation for 'क्या समय हुआ है?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'क्या समय हुआ है?'",
+    "text": "क्या समय हुआ है?",
+    "subtext": "kya samay hua hai?",
+    "answer": "What time is it?",
+    "answer_vi": "Mấy giờ rồi?",
+    "options": [
+      "What time is it?",
+      "Show-off / Bragging",
+      "To speak",
+      "How are you? (Formal)"
+    ],
+    "options_vi": [
+      "Mấy giờ rồi?",
+      "Sự khoe khoang",
+      "Nói",
+      "Bạn khỏe không? (Lịch sự)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "क्या समय हुआ है?",
+        "english": "What time is it? (Mấy giờ rồi?)"
+      },
+      {
+        "hindi": "हवाबाज़ी",
+        "english": "Show-off / Bragging (Sự khoe khoang)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "आप कैसे हैं?",
+        "english": "How are you? (Formal) (Bạn khỏe không? (Lịch sự))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
+    "options": [
+      "To speak",
+      "To speak",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Nói",
+      "Nói",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "क्या समय हुआ है?",
+    "translation_en": "What time is it?",
+    "translation_vi": "Mấy giờ rồi?",
+    "options_en": [
+      "What time is it?",
+      "Show-off / Bragging",
+      "To speak",
+      "How are you? (Formal)"
+    ],
+    "options_vi": [
+      "Mấy giờ rồi?",
+      "Sự khoe khoang",
+      "Nói",
+      "Bạn khỏe không? (Lịch sự)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a What time is it? / Đây là Mấy giờ rồi?",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "क्या समय हुआ है?",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक क्या समय हुआ है? है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Show-off / Bragging / Tôi thấy Sự khoe khoang",
+    "hindiWords": [
+      "मैं",
+      "हवाबाज़ी",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं हवाबाज़ी देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: क्या समय हुआ है?, बोलना​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

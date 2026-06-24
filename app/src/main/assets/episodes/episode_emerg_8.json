@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 8",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 8. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: डॉक्टर.",
+    "simpleRule": "Remember: डॉक्टर means Doctor (Bác sĩ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "डॉक्टर",
+    "transliteration": "ḍôkṭar",
+    "english": "Doctor",
+    "vietnamese": "Bác sĩ",
+    "audio": "डॉक्टर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद करना",
+    "transliteration": "madad karna",
+    "english": "to help",
+    "vietnamese": "Giúp đỡ",
+    "audio": "मदद करना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हॉस्पिटल",
+    "transliteration": "hospital",
+    "english": "Hospital",
+    "vietnamese": "Bệnh viện",
+    "audio": "हॉस्पिटल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'डॉक्टर'",
+    "prompt_en": "Choose correct translation for 'डॉक्टर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'डॉक्टर'",
+    "text": "डॉक्टर",
+    "subtext": "ḍôkṭar",
+    "answer": "Doctor",
+    "answer_vi": "Bác sĩ",
+    "options": [
+      "Doctor",
+      "to help",
+      "Hospital",
+      "Fire"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Giúp đỡ",
+      "Bệnh viện",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "डॉक्टर",
+        "english": "Doctor (Bác sĩ)"
+      },
+      {
+        "hindi": "मदद करना",
+        "english": "to help (Giúp đỡ)"
+      },
+      {
+        "hindi": "हॉस्पिटल",
+        "english": "Hospital (Bệnh viện)"
+      },
+      {
+        "hindi": "आग​​​​​",
+        "english": "Fire (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मदद कीजिए!.",
+    "simpleRule": "Remember: मदद कीजिए! means Help me! (Giúp tôi với!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद कीजिए!",
+    "transliteration": "madad kījīe!",
+    "english": "Help me!",
+    "vietnamese": "Giúp tôi với!",
+    "audio": "मदद कीजिए!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मदद कीजिए!'",
+    "prompt_en": "Choose correct translation for 'मदद कीजिए!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद कीजिए!'",
+    "text": "मदद कीजिए!",
+    "subtext": "madad kījīe!",
+    "answer": "Help me!",
+    "answer_vi": "Giúp tôi với!",
+    "options": [
+      "Help me!",
+      "Fire",
+      "Fire",
+      "Fire"
+    ],
+    "options_vi": [
+      "Giúp tôi với!",
+      "Lửa",
+      "Lửa",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मदद कीजिए!",
+        "english": "Help me! (Giúp tôi với!)"
+      },
+      {
+        "hindi": "आग​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "आग​​​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "आग",
+        "english": "Fire (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "डॉक्टर",
+    "translation_en": "Doctor",
+    "translation_vi": "Bác sĩ",
+    "options_en": [
+      "Doctor",
+      "to help",
+      "Hospital",
+      "Fire"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Giúp đỡ",
+      "Bệnh viện",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Doctor / Đây là Bác sĩ",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "डॉक्टर",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक डॉक्टर है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see to help / Tôi thấy Giúp đỡ",
+    "hindiWords": [
+      "मैं",
+      "मदद करना",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मदद करना देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: डॉक्टर, आग",
+      "Practiced constructing sentences."
+    ]
+  }
+]

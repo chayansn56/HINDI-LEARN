@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 9",
+    "description": "Master the vocabulary and grammar for: Episode 9. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 9",
+    "title_vi": "Tập 9",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Time (समय).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Thời gian."
+      },
+      {
+        "hindi": "Later, you encounter a Product (उत्पाद).",
+        "translation": "Sau đó, bạn gặp một Sản phẩm."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Time",
+        "isCorrect": true
+      },
+      {
+        "text": "Product",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Time.",
+    "simpleRule": "Remember: Time means समय (Thời gian)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Time",
+    "transliteration": "",
+    "english": "समय",
+    "vietnamese": "Thời gian",
+    "audio": "Time"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Product",
+    "transliteration": "",
+    "english": "उत्पाद",
+    "vietnamese": "Sản phẩm",
+    "audio": "Product"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "This / He / She / It",
+    "transliteration": "",
+    "english": "यह",
+    "vietnamese": "Cái này / Anh ấy / Chị ấy / Nó",
+    "audio": "This / He / She / It"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Time'",
+    "prompt_en": "Choose correct translation for 'Time'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Time'",
+    "text": "Time",
+    "subtext": "",
+    "answer": "समय",
+    "answer_vi": "Thời gian",
+    "options": [
+      "समय",
+      "उत्पाद",
+      "बोलना​​​​​​​",
+      "यह"
+    ],
+    "options_vi": [
+      "Thời gian",
+      "Sản phẩm",
+      "Nói",
+      "Cái này / Anh ấy / Chị ấy / Nó"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Time",
+        "english": "समय (Thời gian)"
+      },
+      {
+        "hindi": "Product",
+        "english": "उत्पाद (Sản phẩm)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "This / He / She / It",
+        "english": "यह (Cái này / Anh ấy / Chị ấy / Nó)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Garden",
+    "transliteration": "",
+    "english": "बग़ीचा​",
+    "vietnamese": "Khu vườn",
+    "audio": "Garden"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Dạy",
+    "options": [
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बग़ीचा​",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Khu vườn",
+      "Khóc",
+      "Biển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Garden",
+        "english": "बग़ीचा​ (Khu vườn)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​ (Biển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "70",
+    "transliteration": "",
+    "english": "७०",
+    "vietnamese": "Bảy mươi",
+    "audio": "70"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​",
+      "बारिश​​​",
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "७०"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Cơn mưa",
+      "Thức dậy",
+      "Bảy mươi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​ (Nghe)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​ (Cơn mưa)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "70",
+        "english": "७० (Bảy mươi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Time",
+    "translation_en": "समय",
+    "translation_vi": "Thời gian",
+    "options_en": [
+      "समय",
+      "उत्पाद",
+      "बोलना​​​​​​​",
+      "यह"
+    ],
+    "options_vi": [
+      "Thời gian",
+      "Sản phẩm",
+      "Nói",
+      "Cái này / Anh ấy / Chị ấy / Nó"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the समय / Tôi thấy Thời gian",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Time"
+    ],
+    "correctHindiSentence": "I see the Time"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a उत्पाद / Tôi muốn Sản phẩm",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Product"
+    ],
+    "correctHindiSentence": "I want a Product"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Time and 70",
+      "Practiced constructing sentences."
+    ]
+  }
+]

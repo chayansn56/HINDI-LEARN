@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 19",
+    "description": "Master the vocabulary and grammar for: Travel - Level 19. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: ध्यान से सुनो।.",
+    "simpleRule": "Remember: ध्यान से सुनो। means Listen carefully. (Nghe cho kỹ nhé.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ध्यान से सुनो।",
+    "transliteration": "dhyaan se suno",
+    "english": "Listen carefully.",
+    "vietnamese": "Nghe cho kỹ nhé.",
+    "audio": "ध्यान से सुनो।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सावधान रहें।",
+    "transliteration": "saavdhaan rahein",
+    "english": "Be careful / Watch out.",
+    "vietnamese": "Hãy cẩn thận.",
+    "audio": "सावधान रहें।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'ध्यान से सुनो।'",
+    "prompt_en": "Choose correct translation for 'ध्यान से सुनो।'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ध्यान से सुनो।'",
+    "text": "ध्यान से सुनो।",
+    "subtext": "dhyaan se suno",
+    "answer": "Listen carefully.",
+    "answer_vi": "Nghe cho kỹ nhé.",
+    "options": [
+      "Listen carefully.",
+      "Be careful / Watch out.",
+      "Journey",
+      "Bathroom"
+    ],
+    "options_vi": [
+      "Nghe cho kỹ nhé.",
+      "Hãy cẩn thận.",
+      "Chuyến đi",
+      "Nhà tắm / Toilet"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "ध्यान से सुनो।",
+        "english": "Listen carefully. (Nghe cho kỹ nhé.)"
+      },
+      {
+        "hindi": "सावधान रहें।",
+        "english": "Be careful / Watch out. (Hãy cẩn thận.)"
+      },
+      {
+        "hindi": "सफ़र",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बारात.",
+    "simpleRule": "Remember: बारात means Groom's wedding procession (Đoàn rước dâu nhà trai)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बारात",
+    "transliteration": "baaraat",
+    "english": "Groom's wedding procession",
+    "vietnamese": "Đoàn rước dâu nhà trai",
+    "audio": "बारात"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट",
+    "transliteration": "ṭikaṭ",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाली कमरा",
+    "transliteration": "khālī kamrā",
+    "english": "Vacant room",
+    "vietnamese": "Phòng trống",
+    "audio": "खाली कमरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बारात'",
+    "prompt_en": "Choose correct translation for 'बारात'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बारात'",
+    "text": "बारात",
+    "subtext": "baaraat",
+    "answer": "Groom's wedding procession",
+    "answer_vi": "Đoàn rước dâu nhà trai",
+    "options": [
+      "Groom's wedding procession",
+      "Ticket",
+      "Vacant room",
+      "Car / Train / Cart"
+    ],
+    "options_vi": [
+      "Đoàn rước dâu nhà trai",
+      "Vé",
+      "Phòng trống",
+      "Xe hơi / Xe lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बारात",
+        "english": "Groom's wedding procession (Đoàn rước dâu nhà trai)"
+      },
+      {
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
+      },
+      {
+        "hindi": "खाली कमरा",
+        "english": "Vacant room (Phòng trống)"
+      },
+      {
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "ध्यान से सुनो।",
+    "translation_en": "Listen carefully.",
+    "translation_vi": "Nghe cho kỹ nhé.",
+    "options_en": [
+      "Listen carefully.",
+      "Be careful / Watch out.",
+      "Journey",
+      "Bathroom"
+    ],
+    "options_vi": [
+      "Nghe cho kỹ nhé.",
+      "Hãy cẩn thận.",
+      "Chuyến đi",
+      "Nhà tắm / Toilet"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Listen carefully. / Đây là Nghe cho kỹ nhé.",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "ध्यान से सुनो।",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक ध्यान से सुनो। है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Be careful / Watch out. / Tôi thấy Hãy cẩn thận.",
+    "hindiWords": [
+      "मैं",
+      "सावधान रहें।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं सावधान रहें। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: ध्यान से सुनो।, गाड़ी",
+      "Practiced constructing sentences."
+    ]
+  }
+]

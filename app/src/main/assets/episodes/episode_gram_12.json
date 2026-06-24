@@ -1,183 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Lesson 12",
-    "description": "Learn key vocabulary and concepts for Gram - Lesson 12. Listen carefully and read along in English and Vietnamese.",
+    "title": "Gram - Level 12",
+    "description": "Master the vocabulary and grammar for: Gram - Level 12. Read the key points carefully.",
     "keyPoints": [
-      "सोना​​​​​​​​​​​​​ (sonā) = Gold / Vàng",
-      "समुद्र​​​ (samudra) = Sea / Ocean / Biển",
-      "नदी​​​​​ (nadī) = River / Con sông"
+      "Learn gram concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 12",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: सोना​​​​​​​​​​​​​ means 'Gold' (Vàng)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​",
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
     "transliteration": "sonā",
-    "english": "Gold",
-    "vietnamese": "Vàng",
-    "audio": "सोना​​​​​​​​​​​​​"
+    "english": "To sleep",
+    "vietnamese": "Ngủ",
+    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "समुद्र​​​",
-    "transliteration": "samudra",
-    "english": "Sea / Ocean",
-    "vietnamese": "Biển",
-    "audio": "समुद्र​​​"
+    "hindi": "करना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "karnā",
+    "english": "To do",
+    "vietnamese": "Làm",
+    "audio": "करना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होंगे",
+    "transliteration": "honge",
+    "english": "will be (masculine plural)",
+    "vietnamese": "Sẽ là (nam số nhiều)",
+    "audio": "होंगे"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सोना​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'सोना​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सोना​​​​​​​​​​​​​'",
-    "text": "सोना​​​​​​​​​​​​​",
-    "subtext": "sonā",
-    "answer": "Gold",
-    "answer_vi": "Vàng",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
     "options": [
-      "Gold",
-      "Sea / Ocean",
-      "River",
-      "to want / wish"
+      "Love (intense)",
+      "To sleep",
+      "To do",
+      "will be (masculine plural)"
     ],
     "options_vi": [
-      "Vàng",
-      "Biển",
-      "Con sông",
-      "Muốn / Ước"
+      "Tình yêu sâu đậm",
+      "Ngủ",
+      "Làm",
+      "Sẽ là (nam số nhiều)"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "नदी​​​​​",
-    "transliteration": "nadī",
-    "english": "River",
-    "vietnamese": "Con sông",
-    "audio": "नदी​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To sleep (Ngủ)"
+      },
+      {
+        "hindi": "करना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To do (Làm)"
+      },
+      {
+        "hindi": "होंगे",
+        "english": "will be (masculine plural) (Sẽ là (nam số nhiều))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सात.",
+    "simpleRule": "Remember: सात means Seven (Số bảy)."
   },
   {
     "type": "Flashcard",
-    "hindi": "चाहना",
-    "transliteration": "chaahna",
-    "english": "to want / wish",
-    "vietnamese": "Muốn / Ước",
-    "audio": "चाहना"
+    "hindi": "सात",
+    "transliteration": "sāt",
+    "english": "Seven",
+    "vietnamese": "Số bảy",
+    "audio": "सात"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाना​​​​​​​​​​​​​​",
+    "transliteration": "banānā",
+    "english": "To make / build",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "बनाना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "khelnā",
+    "english": "To play",
+    "vietnamese": "Chơi",
+    "audio": "खेलना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "jāgnā",
+    "english": "To wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सात'",
+    "prompt_en": "Choose correct translation for 'सात'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सात'",
+    "text": "सात",
+    "subtext": "sāt",
+    "answer": "Seven",
+    "answer_vi": "Số bảy",
+    "options": [
+      "Seven",
+      "To make / build",
+      "To play",
+      "To wake up"
+    ],
+    "options_vi": [
+      "Số bảy",
+      "Chế tạo / Tạo ra",
+      "Chơi",
+      "Thức dậy"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सोना​​​​​​​​​​​​​",
-        "english": "Gold (Vàng)"
+        "hindi": "सात",
+        "english": "Seven (Số bảy)"
       },
       {
-        "hindi": "समुद्र​​​",
-        "english": "Sea / Ocean (Biển)"
+        "hindi": "बनाना​​​​​​​​​​​​​​",
+        "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
-        "hindi": "नदी​​​​​",
-        "english": "River (Con sông)"
+        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​",
+        "english": "To play (Chơi)"
       },
       {
-        "hindi": "चाहना",
-        "english": "to want / wish (Muốn / Ước)"
+        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To wake up (Thức dậy)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "समुद्र​​​",
-    "translation_en": "Sea / Ocean",
-    "translation_vi": "Biển",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
     "options_en": [
-      "to want / wish",
-      "Gold",
-      "River",
-      "Sea / Ocean"
+      "Love (intense)",
+      "To sleep",
+      "To do",
+      "will be (masculine plural)"
     ],
     "options_vi": [
-      "Muốn / Ước",
-      "Vàng",
-      "Con sông",
-      "Biển"
+      "Tình yêu sâu đậm",
+      "Ngủ",
+      "Làm",
+      "Sẽ là (nam số nhiều)"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
     "hindiWords": [
-      "मैं",
-      "लड़का",
-      "हूँ",
-      "लड़की",
+      "यह",
+      "एक",
+      "इश्क़",
       "है"
     ],
-    "correctHindiSentence": "मैं लड़का हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पैसा​​​​​​",
-    "transliteration": "paisā",
-    "english": "Money",
-    "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​",
-    "transliteration": "paisā",
-    "english": "Money",
-    "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "नदी​​​​​",
-        "english": "River (Con sông)"
-      },
-      {
-        "hindi": "चाहना",
-        "english": "to want / wish (Muốn / Ước)"
-      },
-      {
-        "hindi": "पैसा​​​​​​",
-        "english": "Money (Tiền)"
-      },
-      {
-        "hindi": "पैसा​​​​​​​",
-        "english": "Money (Tiền)"
-      }
-    ]
+    "correctHindiSentence": "यह एक इश्क़ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "He is a boy / Cậu ấy là một cậu bé",
+    "englishSentence": "I see To sleep / Tôi thấy Ngủ",
     "hindiWords": [
-      "वह",
-      "लड़का",
-      "है",
-      "हूँ",
-      "वे"
+      "मैं",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "वह लड़का है"
+    "correctHindiSentence": "मैं सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: सोना​​​​​​​​​​​​​, नदी​​​​​, पैसा​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'He is a boy'."
+      "You learned: इश्क़, जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

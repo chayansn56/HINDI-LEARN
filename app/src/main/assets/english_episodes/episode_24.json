@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 24",
+    "description": "Master the vocabulary and grammar for: Episode 24. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 24",
+    "title_vi": "Tập 24",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Iron (लोहा).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Sắt."
+      },
+      {
+        "hindi": "Later, you encounter a Alright / Okay. (ठीक है।).",
+        "translation": "Sau đó, bạn gặp một Được rồi.."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Iron",
+        "isCorrect": true
+      },
+      {
+        "text": "Alright / Okay.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Iron.",
+    "simpleRule": "Remember: Iron means लोहा (Sắt)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Iron",
+    "transliteration": "",
+    "english": "लोहा",
+    "vietnamese": "Sắt",
+    "audio": "Iron"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Alright / Okay.",
+    "transliteration": "",
+    "english": "ठीक है।",
+    "vietnamese": "Được rồi.",
+    "audio": "Alright / Okay."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Holi",
+    "transliteration": "",
+    "english": "होली",
+    "vietnamese": "Lễ hội sắc màu Holi",
+    "audio": "Holi"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't like this.",
+    "transliteration": "",
+    "english": "मुझे यह पसंद नहीं है।",
+    "vietnamese": "Tôi không thích cái này.",
+    "audio": "I don't like this."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Iron'",
+    "prompt_en": "Choose correct translation for 'Iron'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Iron'",
+    "text": "Iron",
+    "subtext": "",
+    "answer": "लोहा",
+    "answer_vi": "Sắt",
+    "options": [
+      "लोहा",
+      "ठीक है।",
+      "होली",
+      "मुझे यह पसंद नहीं है।"
+    ],
+    "options_vi": [
+      "Sắt",
+      "Được rồi.",
+      "Lễ hội sắc màu Holi",
+      "Tôi không thích cái này."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Iron",
+        "english": "लोहा (Sắt)"
+      },
+      {
+        "hindi": "Alright / Okay.",
+        "english": "ठीक है। (Được rồi.)"
+      },
+      {
+        "hindi": "Holi",
+        "english": "होली (Lễ hội sắc màu Holi)"
+      },
+      {
+        "hindi": "I don't like this.",
+        "english": "मुझे यह पसंद नहीं है। (Tôi không thích cái này.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Bathroom.",
+    "simpleRule": "Remember: Bathroom means बाथरूम (Nhà tắm / Toilet)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bathroom",
+    "transliteration": "",
+    "english": "बाथरूम",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "Bathroom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journey",
+    "transliteration": "",
+    "english": "सफ़र​​​​",
+    "vietnamese": "Chuyến đi",
+    "audio": "Journey"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Road",
+    "transliteration": "",
+    "english": "सड़क​​​​​​​​",
+    "vietnamese": "Đường",
+    "audio": "Road"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pen",
+    "transliteration": "",
+    "english": "पेन​​​​​​",
+    "vietnamese": "Bút",
+    "audio": "Pen"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Bathroom'",
+    "prompt_en": "Choose correct translation for 'Bathroom'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Bathroom'",
+    "text": "Bathroom",
+    "subtext": "",
+    "answer": "बाथरूम",
+    "answer_vi": "Nhà tắm / Toilet",
+    "options": [
+      "बाथरूम",
+      "सफ़र​​​​",
+      "सड़क​​​​​​​​",
+      "पेन​​​​​​"
+    ],
+    "options_vi": [
+      "Nhà tắm / Toilet",
+      "Chuyến đi",
+      "Đường",
+      "Bút"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Bathroom",
+        "english": "बाथरूम (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "Journey",
+        "english": "सफ़र​​​​ (Chuyến đi)"
+      },
+      {
+        "hindi": "Road",
+        "english": "सड़क​​​​​​​​ (Đường)"
+      },
+      {
+        "hindi": "Pen",
+        "english": "पेन​​​​​​ (Bút)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Smile.",
+    "simpleRule": "Remember: Smile means मुस्कान (Nụ cười)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Smile",
+    "transliteration": "",
+    "english": "मुस्कान",
+    "vietnamese": "Nụ cười",
+    "audio": "Smile"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Smile'",
+    "prompt_en": "Choose correct translation for 'Smile'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Smile'",
+    "text": "Smile",
+    "subtext": "",
+    "answer": "मुस्कान",
+    "answer_vi": "Nụ cười",
+    "options": [
+      "मुस्कान",
+      "हँसना​​​",
+      "देना​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Nụ cười",
+      "Cười lớn",
+      "Cho / Tặng",
+      "Mua"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Smile",
+        "english": "मुस्कान (Nụ cười)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Iron",
+    "translation_en": "लोहा",
+    "translation_vi": "Sắt",
+    "options_en": [
+      "लोहा",
+      "ठीक है।",
+      "होली",
+      "मुझे यह पसंद नहीं है।"
+    ],
+    "options_vi": [
+      "Sắt",
+      "Được rồi.",
+      "Lễ hội sắc màu Holi",
+      "Tôi không thích cái này."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the लोहा / Tôi thấy Sắt",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Iron"
+    ],
+    "correctHindiSentence": "I see the Iron"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a ठीक है। / Tôi muốn Được rồi.",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Alright / Okay."
+    ],
+    "correctHindiSentence": "I want a Alright / Okay."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Iron and To buy",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 3",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 3. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 3",
+    "description": "Master the vocabulary and grammar for: Travel - Level 3. Read the key points carefully.",
     "keyPoints": [
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​ (calnā) = To walk / move / Đi bộ / Di chuyển",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​ (baiṭhnā) = To sit / Ngồi",
-      "सस्ता (sasta) = Cheap / Rẻ"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 3",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: चलना​​​​​​​​​​​​​​​​​​​​​​​ means 'To walk / move' (Đi bộ / Di chuyển)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सफ़र.",
+    "simpleRule": "Remember: सफ़र means Journey (Chuyến đi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
-    "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "baiṭhnā",
-    "english": "To sit",
-    "vietnamese": "Ngồi",
-    "audio": "बैठना​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सावधान रहें।",
+    "transliteration": "saavdhaan rahein",
+    "english": "Be careful / Watch out.",
+    "vietnamese": "Hãy cẩn thận.",
+    "audio": "सावधान रहें।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'चलना​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'चलना​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'चलना​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "calnā",
-    "answer": "To walk / move",
-    "answer_vi": "Đi bộ / Di chuyển",
+    "prompt": "Translate 'सफ़र'",
+    "prompt_en": "Choose correct translation for 'सफ़र'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र'",
+    "text": "सफ़र",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
     "options": [
-      "Cheap",
-      "How much is it?",
-      "To sit",
-      "To walk / move"
+      "Journey",
+      "Journey",
+      "Be careful / Watch out.",
+      "Journey"
     ],
     "options_vi": [
-      "Rẻ",
-      "Bao nhiêu tiền?",
-      "Ngồi",
-      "Đi bộ / Di chuyển"
+      "Chuyến đi",
+      "Chuyến đi",
+      "Hãy cẩn thận.",
+      "Chuyến đi"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "सस्ता",
-    "transliteration": "sasta",
-    "english": "Cheap",
-    "vietnamese": "Rẻ",
-    "audio": "सस्ता"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सफ़र​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सावधान रहें।",
+        "english": "Be careful / Watch out. (Hãy cẩn thận.)"
+      },
+      {
+        "hindi": "सफ़र​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: थाना.",
+    "simpleRule": "Remember: थाना means Police station (Đồn cảnh sát)."
   },
   {
     "type": "Flashcard",
-    "hindi": "कितना हुआ?",
-    "transliteration": "kitnā huā?",
-    "english": "How much is it?",
-    "vietnamese": "Bao nhiêu tiền?",
-    "audio": "कितना हुआ?"
+    "hindi": "थाना",
+    "transliteration": "thana",
+    "english": "Police station",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "थाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स्टेशन कहाँ है?",
+    "transliteration": "sṭeśan kahā̃ hai?",
+    "english": "Where is the station?",
+    "vietnamese": "Nhà ga ở đâu?",
+    "audio": "स्टेशन कहाँ है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शौचालय",
+    "transliteration": "shauchaalay",
+    "english": "Restroom / Toilet",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "शौचालय"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'थाना'",
+    "prompt_en": "Choose correct translation for 'थाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'थाना'",
+    "text": "थाना",
+    "subtext": "thana",
+    "answer": "Police station",
+    "answer_vi": "Đồn cảnh sát",
+    "options": [
+      "Police station",
+      "Journey",
+      "Where is the station?",
+      "Restroom / Toilet"
+    ],
+    "options_vi": [
+      "Đồn cảnh sát",
+      "Chuyến đi",
+      "Nhà ga ở đâu?",
+      "Nhà vệ sinh"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
+        "hindi": "थाना",
+        "english": "Police station (Đồn cảnh sát)"
       },
       {
-        "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sit (Ngồi)"
+        "hindi": "सफ़र​​​​",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "सस्ता",
-        "english": "Cheap (Rẻ)"
+        "hindi": "स्टेशन कहाँ है?",
+        "english": "Where is the station? (Nhà ga ở đâu?)"
       },
       {
-        "hindi": "कितना हुआ?",
-        "english": "How much is it? (Bao nhiêu tiền?)"
+        "hindi": "शौचालय",
+        "english": "Restroom / Toilet (Nhà vệ sinh)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बैठना​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To sit",
-    "translation_vi": "Ngồi",
+    "audio": "सफ़र",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
     "options_en": [
-      "To walk / move",
-      "To sit",
-      "How much is it?",
-      "Cheap"
+      "Journey",
+      "Journey",
+      "Be careful / Watch out.",
+      "Journey"
     ],
     "options_vi": [
-      "Đi bộ / Di chuyển",
-      "Ngồi",
-      "Bao nhiêu tiền?",
-      "Rẻ"
+      "Chuyến đi",
+      "Chuyến đi",
+      "Hãy cẩn thận.",
+      "Chuyến đi"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
+    "englishSentence": "This is a Journey / Đây là Chuyến đi",
     "hindiWords": [
-      "होटल",
-      "कहाँ",
-      "है",
-      "स्टेशन",
-      "में"
+      "यह",
+      "एक",
+      "सफ़र",
+      "है"
     ],
-    "correctHindiSentence": "होटल कहाँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "वीज़ा",
-    "transliteration": "visa",
-    "english": "Visa",
-    "vietnamese": "Thị thực / Visa",
-    "audio": "वीज़ा"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "सस्ता",
-        "english": "Cheap (Rẻ)"
-      },
-      {
-        "hindi": "कितना हुआ?",
-        "english": "How much is it? (Bao nhiêu tiền?)"
-      },
-      {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "वीज़ा",
-        "english": "Visa (Thị thực / Visa)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सफ़र है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the airport? / Sân bay ở đâu?",
+    "englishSentence": "I see Journey / Tôi thấy Chuyến đi",
     "hindiWords": [
-      "हवाई",
-      "अड्डा",
-      "कहाँ",
-      "है",
-      "होटल",
-      "पर"
+      "मैं",
+      "सफ़र​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "हवाई अड्डा कहाँ है"
+    "correctHindiSentence": "मैं सफ़र​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: चलना​​​​​​​​​​​​​​​​​​​​​​​, सस्ता, चलना​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Where is the airport?'."
+      "You learned: सफ़र, शौचालय",
+      "Practiced constructing sentences."
     ]
   }
 ]

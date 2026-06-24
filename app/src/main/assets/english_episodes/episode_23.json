@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 23",
+    "description": "Master the vocabulary and grammar for: Episode 23. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 23",
+    "title_vi": "Tập 23",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To sit (बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Ngồi."
+      },
+      {
+        "hindi": "Later, you encounter a To speak (बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Nói."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To sit",
+        "isCorrect": true
+      },
+      {
+        "text": "To speak",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To sit.",
+    "simpleRule": "Remember: To sit means बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Garden",
+    "transliteration": "",
+    "english": "बग़ीचा​",
+    "vietnamese": "Khu vườn",
+    "audio": "Garden"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sit'",
+    "prompt_en": "Choose correct translation for 'To sit'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sit'",
+    "text": "To sit",
+    "subtext": "",
+    "answer": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngồi",
+    "options": [
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बग़ीचा​",
+      "लेना​​"
+    ],
+    "options_vi": [
+      "Ngồi",
+      "Nói",
+      "Khu vườn",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Garden",
+        "english": "बग़ीचा​ (Khu vườn)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To open.",
+    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​ (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​​​​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am thirsty.",
+    "transliteration": "",
+    "english": "मुझे प्यास लगी है।",
+    "vietnamese": "Tôi khát.",
+    "audio": "I am thirsty."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To open'",
+    "prompt_en": "Choose correct translation for 'To open'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
+    "text": "To open",
+    "subtext": "",
+    "answer": "खोलना​​​​​​​​​​",
+    "answer_vi": "Mở",
+    "options": [
+      "खोलना​​​​​​​​​​",
+      "गाँव​​​​​​",
+      "मुझे प्यास लगी है।",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Ngôi làng",
+      "Tôi khát.",
+      "Chơi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​​​​​ (Ngôi làng)"
+      },
+      {
+        "hindi": "I am thirsty.",
+        "english": "मुझे प्यास लगी है। (Tôi khát.)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To fool someone.",
+    "simpleRule": "Remember: To fool someone means टोपी पहनाना (Lừa gạt / Xỏ mũi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To fool someone",
+    "transliteration": "",
+    "english": "टोपी पहनाना",
+    "vietnamese": "Lừa gạt / Xỏ mũi",
+    "audio": "To fool someone"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Thursday",
+    "transliteration": "",
+    "english": "गुरुवार",
+    "vietnamese": "Thứ năm",
+    "audio": "Thursday"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To fool someone'",
+    "prompt_en": "Choose correct translation for 'To fool someone'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To fool someone'",
+    "text": "To fool someone",
+    "subtext": "",
+    "answer": "टोपी पहनाना",
+    "answer_vi": "Lừa gạt / Xỏ mũi",
+    "options": [
+      "टोपी पहनाना",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "गुरुवार",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Lừa gạt / Xỏ mũi",
+      "Nói",
+      "Thứ năm",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To fool someone",
+        "english": "टोपी पहनाना (Lừa gạt / Xỏ mũi)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Thursday",
+        "english": "गुरुवार (Thứ năm)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To sit",
+    "translation_en": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Ngồi",
+    "options_en": [
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बग़ीचा​",
+      "लेना​​"
+    ],
+    "options_vi": [
+      "Ngồi",
+      "Nói",
+      "Khu vườn",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Ngồi",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To sit"
+    ],
+    "correctHindiSentence": "I see the To sit"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Nói",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To speak"
+    ],
+    "correctHindiSentence": "I want a To speak"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To sit and To take",
+      "Practiced constructing sentences."
+    ]
+  }
+]

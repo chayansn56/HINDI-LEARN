@@ -25,6 +25,12 @@ data object SplashRoute : NavKey
 @kotlinx.serialization.Serializable
 data object MemoryRoute : NavKey
 
+@kotlinx.serialization.Serializable
+data object LeaderboardRoute : NavKey
+
+@kotlinx.serialization.Serializable
+data object RoleplayRoute : NavKey
+
 @android.annotation.SuppressLint("UnusedCrossfadeTargetStateParameter")
 @Composable
 fun MainNavigation() {
@@ -94,6 +100,12 @@ fun MainNavigation() {
                   onAchievementsSelected = {
                       backStack.add(AchievementsRoute)
                   },
+                  onLeaderboardSelected = {
+                      backStack.add(LeaderboardRoute)
+                  },
+                  onRoleplaySelected = {
+                      backStack.add(RoleplayRoute)
+                  },
                   modifier = Modifier.safeDrawingPadding()
               )
             }
@@ -121,6 +133,10 @@ fun MainNavigation() {
             Crossfade(targetState = true, label = "fade") { _ ->
                 com.example.hindilearn.ui.main.SettingsScreen(
                     onBack = { backStack.removeLastOrNull() },
+                    onCourseSwitched = {
+                        backStack.clear()
+                        backStack.add(SplashRoute)
+                    },
                     modifier = Modifier.safeDrawingPadding()
                 )
             }
@@ -196,6 +212,22 @@ fun MainNavigation() {
         entry<AchievementsRoute> {
             Crossfade(targetState = true, label = "fade") { _ ->
                 com.example.hindilearn.ui.gamified.AchievementsScreen(
+                    onBack = { backStack.removeLastOrNull() },
+                    modifier = Modifier.safeDrawingPadding()
+                )
+            }
+        }
+        entry<LeaderboardRoute> {
+            Crossfade(targetState = true, label = "fade") { _ ->
+                com.example.hindilearn.ui.gamified.LeaderboardScreen(
+                    onBack = { backStack.removeLastOrNull() },
+                    modifier = Modifier.safeDrawingPadding()
+                )
+            }
+        }
+        entry<RoleplayRoute> {
+            Crossfade(targetState = true, label = "fade") { _ ->
+                com.example.hindilearn.ui.gamified.RoleplayScreen(
                     onBack = { backStack.removeLastOrNull() },
                     modifier = Modifier.safeDrawingPadding()
                 )

@@ -1,76 +1,304 @@
 [
   {
     "type": "Introduction",
-    "title": "IT Standup Meetings",
-    "description": "Học các cụm từ phổ biến trong buổi họp giao ban hàng ngày (Daily standup) của dự án phần mềm.",
+    "title": "Family Members",
+    "description": "Master the vocabulary and grammar for: Family Members. Read the key points carefully.",
     "keyPoints": [
-      "Daily standup (Họp giao ban hàng ngày)",
-      "In progress (Đang tiến hành)",
-      "Blockers (Điểm nghẽn/vấn đề cản trở)"
+      "Focus: Family Members"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "The Daily Standup",
-    "title_vi": "Họp giao ban hàng ngày",
-    "paragraphs": [
-      {
-        "hindi": "Welcome to our daily standup.",
-        "translation": "Chào mừng đến với buổi họp giao ban hàng ngày của chúng ta."
-      },
-      {
-        "hindi": "My task is in progress and I have no blockers.",
-        "translation": "Nhiệm vụ của tôi đang được tiến hành và tôi không gặp khó khăn cản trở nào."
-      }
-    ],
-    "question_en": "What does 'in progress' mean?",
-    "question_vi": "Cụm từ 'in progress' có nghĩa là gì?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Father.",
+    "simpleRule": "Remember: Father means पिता (Cha)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Father",
+    "transliteration": "",
+    "english": "पिता",
+    "vietnamese": "Cha",
+    "audio": "Father"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Paternal Grandfather",
+    "transliteration": "",
+    "english": "दादा",
+    "vietnamese": "Ông nội",
+    "audio": "Paternal Grandfather"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sister",
+    "transliteration": "",
+    "english": "बहन",
+    "vietnamese": "Chị / Em gái",
+    "audio": "Sister"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Elder Sister",
+    "transliteration": "",
+    "english": "दीदी",
+    "vietnamese": "Chị gái",
+    "audio": "Elder Sister"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Father'",
+    "prompt_en": "Choose correct translation for 'Father'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Father'",
+    "text": "Father",
+    "subtext": "",
+    "answer": "पिता",
+    "answer_vi": "Cha",
     "options": [
+      "पिता",
+      "दादा",
+      "बहन",
+      "दीदी"
+    ],
+    "options_vi": [
+      "Cha",
+      "Ông nội",
+      "Chị / Em gái",
+      "Chị gái"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "Đang tiến hành",
-        "isCorrect": true
+        "hindi": "Father",
+        "english": "पिता (Cha)"
       },
       {
-        "text": "Đã hoàn thành",
-        "isCorrect": false
+        "hindi": "Paternal Grandfather",
+        "english": "दादा (Ông nội)"
+      },
+      {
+        "hindi": "Sister",
+        "english": "बहन (Chị / Em gái)"
+      },
+      {
+        "hindi": "Elder Sister",
+        "english": "दीदी (Chị gái)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Standup Terminology",
-    "explanation": "Trong các dự án Agile/Scrum, 'daily standup' là cuộc họp ngắn hàng ngày. Bạn sẽ báo cáo công việc 'in progress' (đang làm) và nêu các 'blockers' (vướng mắc) nếu có.",
-    "simpleRule": "Daily standup = Họp giao ban, In progress = Đang làm, Blockers = Điểm nghẽn"
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Daughter-in-law.",
+    "simpleRule": "Remember: Daughter-in-law means बहू (Con dâu / Vợ)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "blockers",
-    "translation": "điểm nghẽn/vấn đề cản trở",
-    "contextSentenceHindi": "Do you have any blockers?",
-    "contextSentenceTranslation": "Bạn có gặp khó khăn cản trở nào không?",
-    "memoryTrick": "Blocker là thứ chặn đường (block) công việc của bạn."
+    "type": "Flashcard",
+    "hindi": "Daughter-in-law",
+    "transliteration": "",
+    "english": "बहू",
+    "vietnamese": "Con dâu / Vợ",
+    "audio": "Daughter-in-law"
   },
   {
-    "type": "Listening",
-    "audio": "My task is in progress.",
-    "translation_en": "My task is in progress.",
-    "options_en": [
-      "My task is in progress.",
-      "I have some blockers.",
-      "The meeting is starting.",
-      "I finished my work."
+    "type": "Flashcard",
+    "hindi": "Daughter",
+    "transliteration": "",
+    "english": "बेटी",
+    "vietnamese": "Con gái (đối với cha mẹ)",
+    "audio": "Daughter"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing / Song",
+    "transliteration": "",
+    "english": "गाना",
+    "vietnamese": "Hát / Bài hát",
+    "audio": "To sing / Song"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Son",
+    "transliteration": "",
+    "english": "बेटा",
+    "vietnamese": "Con trai (đối với cha mẹ)",
+    "audio": "Son"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Daughter-in-law'",
+    "prompt_en": "Choose correct translation for 'Daughter-in-law'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Daughter-in-law'",
+    "text": "Daughter-in-law",
+    "subtext": "",
+    "answer": "बहू",
+    "answer_vi": "Con dâu / Vợ",
+    "options": [
+      "बहू",
+      "बेटी",
+      "गाना",
+      "बेटा"
     ],
-    "translation_vi": "Nhiệm vụ của tôi đang được tiến hành.",
     "options_vi": [
-      "Nhiệm vụ của tôi đang được tiến hành.",
-      "Tôi gặp một số cản trở.",
-      "Cuộc họp đang bắt đầu.",
-      "Tôi đã hoàn thành công việc."
+      "Con dâu / Vợ",
+      "Con gái (đối với cha mẹ)",
+      "Hát / Bài hát",
+      "Con trai (đối với cha mẹ)"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "I have no blockers",
-    "translation": "Tôi không có điểm nghẽn/khó khăn nào"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Daughter-in-law",
+        "english": "बहू (Con dâu / Vợ)"
+      },
+      {
+        "hindi": "Daughter",
+        "english": "बेटी (Con gái (đối với cha mẹ))"
+      },
+      {
+        "hindi": "To sing / Song",
+        "english": "गाना (Hát / Bài hát)"
+      },
+      {
+        "hindi": "Son",
+        "english": "बेटा (Con trai (đối với cha mẹ))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Maternal Grandmother.",
+    "simpleRule": "Remember: Maternal Grandmother means नानी (Bà ngoại)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Maternal Grandmother",
+    "transliteration": "",
+    "english": "नानी",
+    "vietnamese": "Bà ngoại",
+    "audio": "Maternal Grandmother"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Brother / Bro",
+    "transliteration": "",
+    "english": "भैया",
+    "vietnamese": "Người anh em / Anh trai",
+    "audio": "Brother / Bro"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Maternal Grandfather",
+    "transliteration": "",
+    "english": "नाना",
+    "vietnamese": "Ông ngoại",
+    "audio": "Maternal Grandfather"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mother",
+    "transliteration": "",
+    "english": "माँ",
+    "vietnamese": "Mẹ",
+    "audio": "Mother"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Maternal Grandmother'",
+    "prompt_en": "Choose correct translation for 'Maternal Grandmother'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Maternal Grandmother'",
+    "text": "Maternal Grandmother",
+    "subtext": "",
+    "answer": "नानी",
+    "answer_vi": "Bà ngoại",
+    "options": [
+      "नानी",
+      "भैया",
+      "नाना",
+      "माँ"
+    ],
+    "options_vi": [
+      "Bà ngoại",
+      "Người anh em / Anh trai",
+      "Ông ngoại",
+      "Mẹ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Maternal Grandmother",
+        "english": "नानी (Bà ngoại)"
+      },
+      {
+        "hindi": "Brother / Bro",
+        "english": "भैया (Người anh em / Anh trai)"
+      },
+      {
+        "hindi": "Maternal Grandfather",
+        "english": "नाना (Ông ngoại)"
+      },
+      {
+        "hindi": "Mother",
+        "english": "माँ (Mẹ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Father",
+    "translation_en": "पिता",
+    "translation_vi": "Cha",
+    "options_en": [
+      "पिता",
+      "दादा",
+      "बहन",
+      "दीदी"
+    ],
+    "options_vi": [
+      "Cha",
+      "Ông nội",
+      "Chị / Em gái",
+      "Chị gái"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पिता / Tôi thấy Cha",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Father"
+    ],
+    "correctHindiSentence": "I see the Father"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is दादा? / Ông nội ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "the",
+      "Paternal Grandfather"
+    ],
+    "correctHindiSentence": "Where is the Paternal Grandfather"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Father and Mother",
+      "Practiced constructing sentences."
+    ]
   }
 ]

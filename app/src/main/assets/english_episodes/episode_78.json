@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 78",
+    "description": "Master the vocabulary and grammar for: Episode 78. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 78",
+    "title_vi": "Tập 78",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Monday (सोमवार).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Thứ hai."
+      },
+      {
+        "hindi": "Later, you encounter a To listen / hear (सुनना​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Nghe."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Monday",
+        "isCorrect": true
+      },
+      {
+        "text": "To listen / hear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Monday.",
+    "simpleRule": "Remember: Monday means सोमवार (Thứ hai)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Monday",
+    "transliteration": "",
+    "english": "सोमवार",
+    "vietnamese": "Thứ hai",
+    "audio": "Monday"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Expensive",
+    "transliteration": "",
+    "english": "महँगा",
+    "vietnamese": "Đắt đỏ",
+    "audio": "Expensive"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "against",
+    "transliteration": "",
+    "english": "के विरुद्ध",
+    "vietnamese": "Chống lại / Phản đối",
+    "audio": "against"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Monday'",
+    "prompt_en": "Choose correct translation for 'Monday'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Monday'",
+    "text": "Monday",
+    "subtext": "",
+    "answer": "सोमवार",
+    "answer_vi": "Thứ hai",
+    "options": [
+      "सोमवार",
+      "सुनना​​​​​​​​​​​​​​​​​",
+      "महँगा",
+      "के विरुद्ध"
+    ],
+    "options_vi": [
+      "Thứ hai",
+      "Nghe",
+      "Đắt đỏ",
+      "Chống lại / Phản đối"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Monday",
+        "english": "सोमवार (Thứ hai)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Expensive",
+        "english": "महँगा (Đắt đỏ)"
+      },
+      {
+        "hindi": "against",
+        "english": "के विरुद्ध (Chống lại / Phản đối)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To write.",
+    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much is it?",
+    "transliteration": "",
+    "english": "कितना हुआ?",
+    "vietnamese": "Bao nhiêu tiền?",
+    "audio": "How much is it?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Flatbread",
+    "transliteration": "",
+    "english": "रोटी",
+    "vietnamese": "Bánh mì dẹt",
+    "audio": "Flatbread"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To write'",
+    "prompt_en": "Choose correct translation for 'To write'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
+    "text": "To write",
+    "subtext": "",
+    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Viết",
+    "options": [
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "कितना हुआ?",
+      "रोटी",
+      "देना​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Viết",
+      "Bao nhiêu tiền?",
+      "Bánh mì dẹt",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "How much is it?",
+        "english": "कितना हुआ? (Bao nhiêu tiền?)"
+      },
+      {
+        "hindi": "Flatbread",
+        "english": "रोटी (Bánh mì dẹt)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To you / You (formal).",
+    "simpleRule": "Remember: To you / You (formal) means आपको (Cho ngài / Bạn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To you / You (formal)",
+    "transliteration": "",
+    "english": "आपको",
+    "vietnamese": "Cho ngài / Bạn",
+    "audio": "To you / You (formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To you / You (formal)'",
+    "prompt_en": "Choose correct translation for 'To you / You (formal)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To you / You (formal)'",
+    "text": "To you / You (formal)",
+    "subtext": "",
+    "answer": "आपको",
+    "answer_vi": "Cho ngài / Bạn",
+    "options": [
+      "आपको",
+      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देना​"
+    ],
+    "options_vi": [
+      "Cho ngài / Bạn",
+      "Hát",
+      "Nghe",
+      "Cho / Tặng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To you / You (formal)",
+        "english": "आपको (Cho ngài / Bạn)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​ (Cho / Tặng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Monday",
+    "translation_en": "सोमवार",
+    "translation_vi": "Thứ hai",
+    "options_en": [
+      "सोमवार",
+      "सुनना​​​​​​​​​​​​​​​​​",
+      "महँगा",
+      "के विरुद्ध"
+    ],
+    "options_vi": [
+      "Thứ hai",
+      "Nghe",
+      "Đắt đỏ",
+      "Chống lại / Phản đối"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सोमवार / Tôi thấy Thứ hai",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Monday"
+    ],
+    "correctHindiSentence": "I see the Monday"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सुनना​​​​​​​​​​​​​​​​​ / Tôi muốn Nghe",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "I want a To listen / hear"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Monday and To give",
+      "Practiced constructing sentences."
+    ]
+  }
+]

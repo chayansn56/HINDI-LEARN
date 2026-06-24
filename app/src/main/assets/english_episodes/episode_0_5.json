@@ -1,75 +1,75 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Essential Numbers 1-10",
-    "description": "Làm quen với các số từ một đến mười bằng tiếng Anh, rất cần thiết cho việc mua sắm và đếm số lượng.",
-    "keyPoints": [
-      "Đếm từ một đến năm: One, Two, Three, Four, Five",
-      "Đếm từ sáu đến mười: Six, Seven, Eight, Nine, Ten"
-    ]
-  },
-  {
-    "type": "StoryMode",
-    "title_en": "Counting Items",
-    "title_vi": "Đếm số lượng",
-    "paragraphs": [
-      {
-        "hindi": "One, Two, Three, Four, Five.",
-        "translation": "Một, Hai, Ba, Bốn, Năm."
-      },
-      {
-        "hindi": "Six, Seven, Eight, Nine, Ten.",
-        "translation": "Sáu, Bảy, Tám, Chín, Mười."
-      }
-    ],
-    "question_en": "What is the English word for 'Ba'?",
-    "question_vi": "Từ tiếng Anh cho số 'Ba' là gì?",
-    "options": [
-      {
-        "text": "Three",
-        "isCorrect": true
-      },
-      {
-        "text": "Two",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Numbers Pronunciation",
-    "explanation": "Hãy chú ý phát âm âm đuôi của 'Five' (/v/) và 'Eight' (/t/) để người nghe dễ hiểu hơn.",
-    "simpleRule": "One=1, Two=2, Three=3, Four=4, Five=5"
-  },
-  {
-    "type": "VocabularyContext",
-    "word": "Three",
-    "translation": "Ba",
-    "contextSentenceHindi": "Three coffees, please.",
-    "contextSentenceTranslation": "Cho ba ly cà phê, làm ơn.",
-    "memoryTrick": "Three: đặt lưỡi giữa hai răng để phát âm âm 'th'."
-  },
-  {
-    "type": "Listening",
-    "audio": "One, Two, Three",
-    "translation_en": "One, Two, Three",
-    "options_en": [
-      "One, Two, Three",
-      "Four, Five",
-      "Six, Seven",
-      "Eight, Nine, Ten"
-    ],
-    "translation_vi": "Một, Hai, Ba",
-    "options_vi": [
-      "Một, Hai, Ba",
-      "Bốn, Năm",
-      "Sáu, Bảy",
-      "Tám, Chín, Mười"
-    ]
-  },
-  {
-    "type": "Speaking",
-    "hindiPhrase": "One, Two, Three, Four, Five.",
-    "translation": "Một, Hai, Ba, Bốn, Năm."
-  }
-]
+{
+  "id": "episode_0_5",
+  "title": "Word Stress Basics",
+  "description": "Learn how to stress the correct syllable in English words.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "title": "Trọng âm của từ (Word Stress)",
+      "content": "Tiếng Anh không có dấu như tiếng Việt, thay vào đó là trọng âm. Một từ có nhiều âm tiết sẽ có một âm tiết được đọc nhấn mạnh hơn, cao hơn và dài hơn."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Teacher",
+      "english": "Teacher",
+      "vietnamese": "Giáo viên (trọng âm rơi vào âm đầu: TEA-cher)",
+      "audio": "Teacher"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Student",
+      "english": "Student",
+      "vietnamese": "Học sinh (STU-dent)",
+      "audio": "Student"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Trọng âm của từ 'Teacher' rơi vào âm tiết thứ mấy?",
+      "options": ["Thứ nhất", "Thứ hai", "Thứ ba", "Không có trọng âm"],
+      "answer": "Thứ nhất"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Today",
+      "english": "Today",
+      "vietnamese": "Hôm nay (trọng âm âm hai: to-DAY)",
+      "audio": "Today"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Begin",
+      "english": "Begin",
+      "vietnamese": "Bắt đầu (be-GIN)",
+      "audio": "Begin"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Banana",
+      "english": "Banana",
+      "vietnamese": "Quả chuối (ba-NA-na)",
+      "audio": "Banana"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Computer",
+      "english": "Computer",
+      "vietnamese": "Máy tính (com-PU-ter)",
+      "audio": "Computer"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Trọng âm của từ 'Banana' nằm ở âm tiết nào?",
+      "options": ["ba-", "-NA-", "-na", "Không rõ"],
+      "answer": "-NA-"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"hindi": "Teacher", "vietnamese": "Giáo viên"},
+        {"hindi": "Begin", "vietnamese": "Bắt đầu"},
+        {"hindi": "Banana", "vietnamese": "Quả chuối"},
+        {"hindi": "Computer", "vietnamese": "Máy tính"}
+      ]
+    }
+  ]
+}

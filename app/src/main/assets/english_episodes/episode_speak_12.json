@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 12",
+    "description": "Master the vocabulary and grammar for: Speak - Level 12. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: How's it going? / How are you?.",
+    "simpleRule": "Remember: How's it going? / How are you? means क्या हाल है? (Thế nào rồi?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How's it going? / How are you?",
+    "transliteration": "",
+    "english": "क्या हाल है?",
+    "vietnamese": "Thế nào rồi?",
+    "audio": "How's it going? / How are you?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know.",
+    "transliteration": "",
+    "english": "पता नहीं।",
+    "vietnamese": "Tôi không biết.",
+    "audio": "I don't know."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What do you say? / What's up?",
+    "transliteration": "",
+    "english": "क्या बोलता है?",
+    "vietnamese": "Bạn nói gì thế? / Thế nào?",
+    "audio": "What do you say? / What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'How's it going? / How are you?'",
+    "prompt_en": "Choose correct translation for 'How's it going? / How are you?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'How's it going? / How are you?'",
+    "text": "How's it going? / How are you?",
+    "subtext": "",
+    "answer": "क्या हाल है?",
+    "answer_vi": "Thế nào rồi?",
+    "options": [
+      "क्या हाल है?",
+      "पता नहीं।",
+      "क्या बोलता है?",
+      "कापी​​​​​​"
+    ],
+    "options_vi": [
+      "Thế nào rồi?",
+      "Tôi không biết.",
+      "Bạn nói gì thế? / Thế nào?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "How's it going? / How are you?",
+        "english": "क्या हाल है? (Thế nào rồi?)"
+      },
+      {
+        "hindi": "I don't know.",
+        "english": "पता नहीं। (Tôi không biết.)"
+      },
+      {
+        "hindi": "What do you say? / What's up?",
+        "english": "क्या बोलता है? (Bạn nói gì thế? / Thế nào?)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Yes (respectful).",
+    "simpleRule": "Remember: Yes (respectful) means जी हाँ (Vâng (Lịch sự))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes (respectful)",
+    "transliteration": "",
+    "english": "जी हाँ",
+    "vietnamese": "Vâng (Lịch sự)",
+    "audio": "Yes (respectful)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What is the plan?",
+    "transliteration": "",
+    "english": "सीन क्या है?",
+    "vietnamese": "Kế hoạch là gì thế?",
+    "audio": "What is the plan?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where (relative)",
+    "transliteration": "",
+    "english": "जहाँ",
+    "vietnamese": "Nơi mà",
+    "audio": "Where (relative)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How are you? (Formal)",
+    "transliteration": "",
+    "english": "आप कैसे हैं?",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "How are you? (Formal)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yes (respectful)'",
+    "prompt_en": "Choose correct translation for 'Yes (respectful)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yes (respectful)'",
+    "text": "Yes (respectful)",
+    "subtext": "",
+    "answer": "जी हाँ",
+    "answer_vi": "Vâng (Lịch sự)",
+    "options": [
+      "जी हाँ",
+      "सीन क्या है?",
+      "जहाँ",
+      "आप कैसे हैं?"
+    ],
+    "options_vi": [
+      "Vâng (Lịch sự)",
+      "Kế hoạch là gì thế?",
+      "Nơi mà",
+      "Bạn khỏe không? (Lịch sự)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yes (respectful)",
+        "english": "जी हाँ (Vâng (Lịch sự))"
+      },
+      {
+        "hindi": "What is the plan?",
+        "english": "सीन क्या है? (Kế hoạch là gì thế?)"
+      },
+      {
+        "hindi": "Where (relative)",
+        "english": "जहाँ (Nơi mà)"
+      },
+      {
+        "hindi": "How are you? (Formal)",
+        "english": "आप कैसे हैं? (Bạn khỏe không? (Lịch sự))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Reverent hello to Grandma.",
+    "simpleRule": "Remember: Reverent hello to Grandma means प्रणाम दादी जी (Kính chào bà nội kính yêu)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Reverent hello to Grandma",
+    "transliteration": "",
+    "english": "प्रणाम दादी जी",
+    "vietnamese": "Kính chào bà nội kính yêu",
+    "audio": "Reverent hello to Grandma"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friendship",
+    "transliteration": "",
+    "english": "दोस्ती",
+    "vietnamese": "Tình bạn",
+    "audio": "Friendship"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Reverent hello to Grandma'",
+    "prompt_en": "Choose correct translation for 'Reverent hello to Grandma'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Reverent hello to Grandma'",
+    "text": "Reverent hello to Grandma",
+    "subtext": "",
+    "answer": "प्रणाम दादी जी",
+    "answer_vi": "Kính chào bà nội kính yêu",
+    "options": [
+      "प्रणाम दादी जी",
+      "दोस्ती",
+      "कापी​​​​",
+      "बर्फ़​​​​"
+    ],
+    "options_vi": [
+      "Kính chào bà nội kính yêu",
+      "Tình bạn",
+      "Sổ tay",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Reverent hello to Grandma",
+        "english": "प्रणाम दादी जी (Kính chào bà nội kính yêu)"
+      },
+      {
+        "hindi": "Friendship",
+        "english": "दोस्ती (Tình bạn)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No way!",
+    "transliteration": "",
+    "english": "घंटा",
+    "vietnamese": "Không đời nào / Thôi đi",
+    "audio": "No way!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please say it again.",
+    "transliteration": "",
+    "english": "फिर से कहिए।",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "Please say it again."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​",
+      "घंटा",
+      "बर्फ़​​​​​​​​",
+      "फिर से कहिए।"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Không đời nào / Thôi đi",
+      "Tuyết / Đá",
+      "Làm ơn nói lại lần nữa."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "No way!",
+        "english": "घंटा (Không đời nào / Thôi đi)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Please say it again.",
+        "english": "फिर से कहिए। (Làm ơn nói lại lần nữa.)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "How's it going? / How are you?",
+    "translation_en": "क्या हाल है?",
+    "translation_vi": "Thế nào rồi?",
+    "options_en": [
+      "क्या हाल है?",
+      "पता नहीं।",
+      "क्या बोलता है?",
+      "कापी​​​​​​"
+    ],
+    "options_vi": [
+      "Thế nào rồi?",
+      "Tôi không biết.",
+      "Bạn nói gì thế? / Thế nào?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a क्या हाल है? / Nó là một Thế nào rồi?",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "How's it going? / How are you?"
+    ],
+    "correctHindiSentence": "It is a How's it going? / How are you?"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like पता नहीं। / Tôi thích Tôi không biết.",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "I don't know."
+    ],
+    "correctHindiSentence": "I really like I don't know."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: How's it going? / How are you? and Please say it again.",
+      "Practiced constructing sentences."
+    ]
+  }
+]

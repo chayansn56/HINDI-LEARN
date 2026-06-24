@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 9",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 9. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Help.",
+    "simpleRule": "Remember: Help means मदद​​ (Sự giúp đỡ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hospital",
+    "transliteration": "",
+    "english": "अस्पताल",
+    "vietnamese": "Bệnh viện",
+    "audio": "Hospital"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Help'",
+    "prompt_en": "Choose correct translation for 'Help'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Help'",
+    "text": "Help",
+    "subtext": "",
+    "answer": "मदद​​",
+    "answer_vi": "Sự giúp đỡ",
+    "options": [
+      "मदद​​",
+      "अस्पताल",
+      "मदद​​​",
+      "आग​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự giúp đỡ",
+      "Bệnh viện",
+      "Sự giúp đỡ",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Help",
+        "english": "मदद​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Hospital",
+        "english": "अस्पताल (Bệnh viện)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​​​ (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Help.",
+    "simpleRule": "Remember: Help means मदद​​​​​​​​ (Sự giúp đỡ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Doctor",
+    "transliteration": "",
+    "english": "डॉक्टर",
+    "vietnamese": "Bác sĩ",
+    "audio": "Doctor"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police station",
+    "transliteration": "",
+    "english": "थाना",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "Police station"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Help'",
+    "prompt_en": "Choose correct translation for 'Help'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Help'",
+    "text": "Help",
+    "subtext": "",
+    "answer": "मदद​​​​​​​​",
+    "answer_vi": "Sự giúp đỡ",
+    "options": [
+      "मदद​​​​​​​​",
+      "डॉक्टर",
+      "मदद​",
+      "थाना"
+    ],
+    "options_vi": [
+      "Sự giúp đỡ",
+      "Bác sĩ",
+      "Sự giúp đỡ",
+      "Đồn cảnh sát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Doctor",
+        "english": "डॉक्टर (Bác sĩ)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Police station",
+        "english": "थाना (Đồn cảnh sát)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: to help.",
+    "simpleRule": "Remember: to help means मदद करना (Giúp đỡ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to help",
+    "transliteration": "",
+    "english": "मदद करना",
+    "vietnamese": "Giúp đỡ",
+    "audio": "to help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'to help'",
+    "prompt_en": "Choose correct translation for 'to help'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'to help'",
+    "text": "to help",
+    "subtext": "",
+    "answer": "मदद करना",
+    "answer_vi": "Giúp đỡ",
+    "options": [
+      "मदद करना",
+      "मदद​​​​​",
+      "आग​​​​​​",
+      "मदद​​​​"
+    ],
+    "options_vi": [
+      "Giúp đỡ",
+      "Sự giúp đỡ",
+      "Lửa",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "to help",
+        "english": "मदद करना (Giúp đỡ)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​ (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Medicine.",
+    "simpleRule": "Remember: Medicine means दवाई (Thuốc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Medicine",
+    "transliteration": "",
+    "english": "दवाई",
+    "vietnamese": "Thuốc",
+    "audio": "Medicine"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Thank you for helping me.",
+    "transliteration": "",
+    "english": "मेरी मदद करने के लिए धन्यवाद।",
+    "vietnamese": "Cảm ơn vì đã giúp tôi.",
+    "audio": "Thank you for helping me."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Medicine'",
+    "prompt_en": "Choose correct translation for 'Medicine'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Medicine'",
+    "text": "Medicine",
+    "subtext": "",
+    "answer": "दवाई",
+    "answer_vi": "Thuốc",
+    "options": [
+      "दवाई",
+      "आग​​​​​",
+      "मेरी मदद करने के लिए धन्यवाद।",
+      "आग​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thuốc",
+      "Lửa",
+      "Cảm ơn vì đã giúp tôi.",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Medicine",
+        "english": "दवाई (Thuốc)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "Thank you for helping me.",
+        "english": "मेरी मदद करने के लिए धन्यवाद। (Cảm ơn vì đã giúp tôi.)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​​​​​ (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Help",
+    "translation_en": "मदद​​",
+    "translation_vi": "Sự giúp đỡ",
+    "options_en": [
+      "मदद​​",
+      "अस्पताल",
+      "मदद​​​",
+      "आग​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự giúp đỡ",
+      "Bệnh viện",
+      "Sự giúp đỡ",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a मदद​​ / Nó là một Sự giúp đỡ",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Help"
+    ],
+    "correctHindiSentence": "It is a Help"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like अस्पताल / Tôi thích Bệnh viện",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Hospital"
+    ],
+    "correctHindiSentence": "I really like Hospital"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Help and Fire",
+      "Practiced constructing sentences."
+    ]
+  }
+]

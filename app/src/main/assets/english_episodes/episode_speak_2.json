@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 2",
+    "description": "Master the vocabulary and grammar for: Speak - Level 2. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​​​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much is this?",
+    "transliteration": "",
+    "english": "यह कितने का है?",
+    "vietnamese": "Cái này bao nhiêu tiền?",
+    "audio": "How much is this?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​​​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​​​​​​​",
+      "बर्फ़​​​​​​​​",
+      "यह कितने का है?",
+      "कापी​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Tuyết / Đá",
+      "Cái này bao nhiêu tiền?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "How much is this?",
+        "english": "यह कितने का है? (Cái này bao nhiêu tiền?)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: I don't know..",
+    "simpleRule": "Remember: I don't know. means पता नहीं। (Tôi không biết.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know.",
+    "transliteration": "",
+    "english": "पता नहीं।",
+    "vietnamese": "Tôi không biết.",
+    "audio": "I don't know."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to know",
+    "transliteration": "",
+    "english": "जानना",
+    "vietnamese": "Biết",
+    "audio": "to know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes",
+    "transliteration": "",
+    "english": "हाँ",
+    "vietnamese": "Vâng / Có",
+    "audio": "Yes"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What nonsense!",
+    "transliteration": "",
+    "english": "क्या बकवास है!",
+    "vietnamese": "Thật vớ vẩn!",
+    "audio": "What nonsense!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I don't know.'",
+    "prompt_en": "Choose correct translation for 'I don't know.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I don't know.'",
+    "text": "I don't know.",
+    "subtext": "",
+    "answer": "पता नहीं।",
+    "answer_vi": "Tôi không biết.",
+    "options": [
+      "पता नहीं।",
+      "जानना",
+      "हाँ",
+      "क्या बकवास है!"
+    ],
+    "options_vi": [
+      "Tôi không biết.",
+      "Biết",
+      "Vâng / Có",
+      "Thật vớ vẩn!"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I don't know.",
+        "english": "पता नहीं। (Tôi không biết.)"
+      },
+      {
+        "hindi": "to know",
+        "english": "जानना (Biết)"
+      },
+      {
+        "hindi": "Yes",
+        "english": "हाँ (Vâng / Có)"
+      },
+      {
+        "hindi": "What nonsense!",
+        "english": "क्या बकवास है! (Thật vớ vẩn!)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What / [Question Marker]",
+    "transliteration": "",
+    "english": "क्या",
+    "vietnamese": "Cái gì",
+    "audio": "What / [Question Marker]"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What's up?",
+    "transliteration": "",
+    "english": "क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "What's up?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​",
+      "कापी​​​​​​​​",
+      "क्या",
+      "क्या चल रहा है?"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Sổ tay",
+      "Cái gì",
+      "Có chuyện gì thế?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "What / [Question Marker]",
+        "english": "क्या (Cái gì)"
+      },
+      {
+        "hindi": "What's up?",
+        "english": "क्या चल रहा है? (Có chuyện gì thế?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: What does this mean?.",
+    "simpleRule": "Remember: What does this mean? means इसका क्या मतलब है? (Cái này có nghĩa là gì?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What does this mean?",
+    "transliteration": "",
+    "english": "इसका क्या मतलब है?",
+    "vietnamese": "Cái này có nghĩa là gì?",
+    "audio": "What does this mean?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What else is going on? / What's up?",
+    "transliteration": "",
+    "english": "और क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì mới không?",
+    "audio": "What else is going on? / What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Show-off / Bragging",
+    "transliteration": "",
+    "english": "हवाबाज़ी",
+    "vietnamese": "Sự khoe khoang",
+    "audio": "Show-off / Bragging"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What does this mean?'",
+    "prompt_en": "Choose correct translation for 'What does this mean?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What does this mean?'",
+    "text": "What does this mean?",
+    "subtext": "",
+    "answer": "इसका क्या मतलब है?",
+    "answer_vi": "Cái này có nghĩa là gì?",
+    "options": [
+      "इसका क्या मतलब है?",
+      "और क्या चल रहा है?",
+      "हवाबाज़ी",
+      "बर्फ़​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Cái này có nghĩa là gì?",
+      "Có chuyện gì mới không?",
+      "Sự khoe khoang",
+      "Tuyết / Đá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What does this mean?",
+        "english": "इसका क्या मतलब है? (Cái này có nghĩa là gì?)"
+      },
+      {
+        "hindi": "What else is going on? / What's up?",
+        "english": "और क्या चल रहा है? (Có chuyện gì mới không?)"
+      },
+      {
+        "hindi": "Show-off / Bragging",
+        "english": "हवाबाज़ी (Sự khoe khoang)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Notebook",
+    "translation_en": "कापी​​​​​​​​​​​",
+    "translation_vi": "Sổ tay",
+    "options_en": [
+      "कापी​​​​​​​​​​​",
+      "बर्फ़​​​​​​​​",
+      "यह कितने का है?",
+      "कापी​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Tuyết / Đá",
+      "Cái này bao nhiêu tiền?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कापी​​​​​​​​​​​ / Nó là một Sổ tay",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Notebook"
+    ],
+    "correctHindiSentence": "It is a Notebook"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बर्फ़​​​​​​​​ / Tôi thích Tuyết / Đá",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "I really like Snow / Ice"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Notebook and Snow / Ice",
+      "Practiced constructing sentences."
+    ]
+  }
+]

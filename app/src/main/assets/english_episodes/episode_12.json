@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 12",
+    "description": "Master the vocabulary and grammar for: Episode 12. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 12",
+    "title_vi": "Tập 12",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Turn right. (दाएँ मुड़िए।).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Rẽ phải.."
+      },
+      {
+        "hindi": "Later, you encounter a Trust / Belief (विश्वास).",
+        "translation": "Sau đó, bạn gặp một Niềm tin."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Turn right.",
+        "isCorrect": true
+      },
+      {
+        "text": "Trust / Belief",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Turn right..",
+    "simpleRule": "Remember: Turn right. means दाएँ मुड़िए। (Rẽ phải.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Turn right.",
+    "transliteration": "",
+    "english": "दाएँ मुड़िए।",
+    "vietnamese": "Rẽ phải.",
+    "audio": "Turn right."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Trust / Belief",
+    "transliteration": "",
+    "english": "विश्वास",
+    "vietnamese": "Niềm tin",
+    "audio": "Trust / Belief"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Turn right.'",
+    "prompt_en": "Choose correct translation for 'Turn right.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Turn right.'",
+    "text": "Turn right.",
+    "subtext": "",
+    "answer": "दाएँ मुड़िए।",
+    "answer_vi": "Rẽ phải.",
+    "options": [
+      "दाएँ मुड़िए।",
+      "विश्वास",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rẽ phải.",
+      "Niềm tin",
+      "Đi bộ / Di chuyển",
+      "Làm"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Turn right.",
+        "english": "दाएँ मुड़िए। (Rẽ phải.)"
+      },
+      {
+        "hindi": "Trust / Belief",
+        "english": "विश्वास (Niềm tin)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Hello / Greetings.",
+    "simpleRule": "Remember: Hello / Greetings means नमस्ते (Xin chào)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello / Greetings",
+    "transliteration": "",
+    "english": "नमस्ते",
+    "vietnamese": "Xin chào",
+    "audio": "Hello / Greetings"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Message",
+    "transliteration": "",
+    "english": "मैसेज",
+    "vietnamese": "Tin nhắn",
+    "audio": "Message"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pen",
+    "transliteration": "",
+    "english": "पेन​​​​​​​​",
+    "vietnamese": "Bút",
+    "audio": "Pen"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To make / build",
+    "transliteration": "",
+    "english": "बनाना​​​​",
+    "vietnamese": "Chế tạo / Tạo ra",
+    "audio": "To make / build"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Hello / Greetings'",
+    "prompt_en": "Choose correct translation for 'Hello / Greetings'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Hello / Greetings'",
+    "text": "Hello / Greetings",
+    "subtext": "",
+    "answer": "नमस्ते",
+    "answer_vi": "Xin chào",
+    "options": [
+      "नमस्ते",
+      "मैसेज",
+      "पेन​​​​​​​​",
+      "बनाना​​​​"
+    ],
+    "options_vi": [
+      "Xin chào",
+      "Tin nhắn",
+      "Bút",
+      "Chế tạo / Tạo ra"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Hello / Greetings",
+        "english": "नमस्ते (Xin chào)"
+      },
+      {
+        "hindi": "Message",
+        "english": "मैसेज (Tin nhắn)"
+      },
+      {
+        "hindi": "Pen",
+        "english": "पेन​​​​​​​​ (Bút)"
+      },
+      {
+        "hindi": "To make / build",
+        "english": "बनाना​​​​ (Chế tạo / Tạo ra)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Quickly.",
+    "simpleRule": "Remember: Quickly means फटाफट (Nhanh chóng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Quickly",
+    "transliteration": "",
+    "english": "फटाफट",
+    "vietnamese": "Nhanh chóng",
+    "audio": "Quickly"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Quickly'",
+    "prompt_en": "Choose correct translation for 'Quickly'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Quickly'",
+    "text": "Quickly",
+    "subtext": "",
+    "answer": "फटाफट",
+    "answer_vi": "Nhanh chóng",
+    "options": [
+      "फटाफट",
+      "करना",
+      "धोना​​​​​​​​​​",
+      "ताला"
+    ],
+    "options_vi": [
+      "Nhanh chóng",
+      "Làm",
+      "Rửa / Giặt",
+      "Ổ khóa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Quickly",
+        "english": "फटाफट (Nhanh chóng)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना (Làm)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "Lock",
+        "english": "ताला (Ổ khóa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Turn right.",
+    "translation_en": "दाएँ मुड़िए।",
+    "translation_vi": "Rẽ phải.",
+    "options_en": [
+      "दाएँ मुड़िए।",
+      "विश्वास",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Rẽ phải.",
+      "Niềm tin",
+      "Đi bộ / Di chuyển",
+      "Làm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the दाएँ मुड़िए। / Tôi thấy Rẽ phải.",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Turn right."
+    ],
+    "correctHindiSentence": "I see the Turn right."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a विश्वास / Tôi muốn Niềm tin",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Trust / Belief"
+    ],
+    "correctHindiSentence": "I want a Trust / Belief"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Turn right. and Lock",
+      "Practiced constructing sentences."
+    ]
+  }
+]

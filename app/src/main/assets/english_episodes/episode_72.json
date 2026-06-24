@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 72",
+    "description": "Master the vocabulary and grammar for: Episode 72. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 72",
+    "title_vi": "Tập 72",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To read (पढ़ना​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đọc."
+      },
+      {
+        "hindi": "Later, you encounter a To run (दौड़ना​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Chạy."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To read",
+        "isCorrect": true
+      },
+      {
+        "text": "To run",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To read.",
+    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Budget",
+    "transliteration": "",
+    "english": "बजट",
+    "vietnamese": "Ngân sách",
+    "audio": "Budget"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To read'",
+    "prompt_en": "Choose correct translation for 'To read'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
+    "text": "To read",
+    "subtext": "",
+    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़ना​​​​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​",
+      "मदद​​​​​​​​",
+      "बजट"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Chạy",
+      "Sự giúp đỡ",
+      "Ngân sách"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Budget",
+        "english": "बजट (Ngân sách)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Cup.",
+    "simpleRule": "Remember: Cup means प्याला​ (Tách)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cup",
+    "transliteration": "",
+    "english": "प्याला​",
+    "vietnamese": "Tách",
+    "audio": "Cup"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Cup'",
+    "prompt_en": "Choose correct translation for 'Cup'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Cup'",
+    "text": "Cup",
+    "subtext": "",
+    "answer": "प्याला​",
+    "answer_vi": "Tách",
+    "options": [
+      "प्याला​",
+      "सुनना​​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tách",
+      "Nghe",
+      "Hát",
+      "Mua"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Cup",
+        "english": "प्याला​ (Tách)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Office.",
+    "simpleRule": "Remember: Office means दफ़्तर​​​​​​​​​​​ (Văn phòng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Office'",
+    "prompt_en": "Choose correct translation for 'Office'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
+    "text": "Office",
+    "subtext": "",
+    "answer": "दफ़्तर​​​​​​​​​​​",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "दफ़्तर​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना​​​​​​​​​​​​​​​​",
+      "खेलना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Kể / Giải thích",
+      "Nhìn / Xem",
+      "Chơi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​​​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​ (Chơi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To read",
+    "translation_en": "पढ़ना​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Đọc",
+    "options_en": [
+      "पढ़ना​​​​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​",
+      "मदद​​​​​​​​",
+      "बजट"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Chạy",
+      "Sự giúp đỡ",
+      "Ngân sách"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the पढ़ना​​​​​​​​​​​​​​​​​​​ / Tôi thấy Đọc",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To read"
+    ],
+    "correctHindiSentence": "I see the To read"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a दौड़ना​​​​​​​​​​ / Tôi muốn Chạy",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To run"
+    ],
+    "correctHindiSentence": "I want a To run"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To read and To play",
+      "Practiced constructing sentences."
+    ]
+  }
+]

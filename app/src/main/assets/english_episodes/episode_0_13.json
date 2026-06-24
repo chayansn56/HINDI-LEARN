@@ -1,75 +1,304 @@
 [
   {
     "type": "Introduction",
-    "title": "Hotel: Checking In Guests",
-    "description": "Học cách chào đón khách và yêu cầu giấy tờ tùy thân khi làm thủ tục nhận phòng.",
+    "title": "Food & Drink",
+    "description": "Master the vocabulary and grammar for: Food & Drink. Read the key points carefully.",
     "keyPoints": [
-      "Welcome to our hotel (Chào mừng đến với khách sạn của chúng tôi)",
-      "Can I see your passport? (Tôi có thể xem hộ chiếu của bạn không?)"
+      "Focus: Food & Drink"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "Reception Desk",
-    "title_vi": "Quầy lễ tân",
-    "paragraphs": [
-      {
-        "hindi": "Welcome to our hotel.",
-        "translation": "Chào mừng đến với khách sạn của chúng tôi."
-      },
-      {
-        "hindi": "Can I see your passport, please?",
-        "translation": "Tôi có thể xem hộ chiếu của bạn được không?"
-      }
-    ],
-    "question_en": "What document does the receptionist ask for?",
-    "question_vi": "Lễ tân yêu cầu loại giấy tờ nào?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​​​​​​​ (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​​​​​​​",
+    "answer_vi": "Dạy",
     "options": [
+      "sिखाना​​​​​​​​",
+      "sिखाना​​​​​​​",
+      "sिखाना​​​​​",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Dạy",
+      "Dạy",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "Passport",
-        "isCorrect": true
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​ (Dạy)"
       },
       {
-        "text": "Credit card",
-        "isCorrect": false
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Checking In Guests",
-    "explanation": "Khi khách đến, hãy dùng lời chào lịch sự 'Welcome to our hotel' và yêu cầu giấy tờ tùy thân bằng câu 'Can I see your passport?'.",
-    "simpleRule": "Welcome = Chào mừng, Passport = Hộ chiếu"
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​ (Dạy)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "passport",
-    "translation": "hộ chiếu",
-    "contextSentenceHindi": "Can I see your passport?",
-    "contextSentenceTranslation": "Tôi có thể xem hộ chiếu của bạn không?",
-    "memoryTrick": "Passport là thẻ thông hành qua cổng (port) của một quốc gia."
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
   },
   {
-    "type": "Listening",
-    "audio": "Welcome to our hotel.",
-    "translation_en": "Welcome to our hotel.",
-    "options_en": [
-      "Welcome to our hotel.",
-      "Can I see your passport?",
-      "Here is your key.",
-      "Have a nice stay."
+    "type": "Flashcard",
+    "hindi": "To eat / Food",
+    "transliteration": "",
+    "english": "खाना",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "To eat / Food"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tea",
+    "transliteration": "",
+    "english": "चाय",
+    "vietnamese": "Trà",
+    "audio": "Tea"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​",
+    "answer_vi": "Dạy",
+    "options": [
+      "sिखाना​​",
+      "खाना",
+      "चाय",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​"
     ],
-    "translation_vi": "Chào mừng đến với khách sạn của chúng tôi.",
     "options_vi": [
-      "Chào mừng đến với khách sạn của chúng tôi.",
-      "Tôi có thể xem hộ chiếu của bạn không?",
-      "Đây là chìa khóa của bạn.",
-      "Chúc quý khách ở lại vui vẻ."
+      "Dạy",
+      "Ăn / Đồ ăn",
+      "Trà",
+      "Dạy"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "Can I see your passport?",
-    "translation": "Tôi có thể xem hộ chiếu của bạn không?"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​ (Dạy)"
+      },
+      {
+        "hindi": "To eat / Food",
+        "english": "खाना (Ăn / Đồ ăn)"
+      },
+      {
+        "hindi": "Tea",
+        "english": "चाय (Trà)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​​​​​​​​​​​​​​​​ (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Price / Rate",
+    "transliteration": "",
+    "english": "दाम",
+    "vietnamese": "Giá cả",
+    "audio": "Price / Rate"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Milk",
+    "transliteration": "",
+    "english": "दूध",
+    "vietnamese": "Sữa",
+    "audio": "Milk"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Dạy",
+    "options": [
+      "sिखाना​​​​​​​​​​​​​​​​​",
+      "दाम",
+      "दूध",
+      "sिखाना​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Giá cả",
+      "Sữa",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "Price / Rate",
+        "english": "दाम (Giá cả)"
+      },
+      {
+        "hindi": "Milk",
+        "english": "दूध (Sữa)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​ (Dạy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To teach",
+    "translation_en": "sिखाना​​​​​​​​",
+    "translation_vi": "Dạy",
+    "options_en": [
+      "sिखाना​​​​​​​​",
+      "sिखाना​​​​​​​",
+      "sिखाना​​​​​",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Dạy",
+      "Dạy",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the sिखाना​​​​​​​​ / Tôi thấy Dạy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To teach"
+    ],
+    "correctHindiSentence": "I see the To teach"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is sिखाना​​​​​​​? / Dạy ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "the",
+      "To teach"
+    ],
+    "correctHindiSentence": "Where is the To teach"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To teach and To teach",
+      "Practiced constructing sentences."
+    ]
   }
 ]

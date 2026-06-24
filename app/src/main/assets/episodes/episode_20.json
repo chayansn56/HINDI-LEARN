@@ -1,0 +1,139 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 20: AI Tutor Graduation",
+    "description": "Chúc mừng bạn đã hoàn thành khóa học! Hãy ôn tập lại các kiến thức cốt lõi và hướng tới sự trôi chảy.",
+    "keyPoints": [
+      "बधाई हो (badhaai ho): Chúc mừng",
+      "प्रवाह (pravaah): Trôi chảy",
+      "सफलता (safalta): Thành công",
+      "धन्यवाद (dhanyavaad): Cảm ơn"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Lời chúc mừng và cảm ơn trong tiếng Hindi",
+    "explanation": "Khi chúc mừng ai đó, bạn có thể nói 'बधाई हो' (badhaai ho). Để bày tỏ sự trân trọng sau một hành trình học tập, hãy nói 'बहुत-बहुत धन्यवाद' (Xin cảm ơn rất nhiều).",
+    "simpleRule": "बधाई हो! = Chúc mừng! / धन्यवाद = Cảm ơn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बधाई हो",
+    "transliteration": "badhaai ho",
+    "english": "Congratulations",
+    "vietnamese": "Chúc mừng",
+    "audio": "बधाई हो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्रवाह",
+    "transliteration": "pravaah",
+    "english": "Fluency",
+    "vietnamese": "Trôi chảy",
+    "audio": "प्रवाह"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफलता",
+    "transliteration": "safalta",
+    "english": "Success",
+    "vietnamese": "Thành công",
+    "audio": "सफलता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धन्यवाद",
+    "transliteration": "dhanyavaad",
+    "english": "Thank you",
+    "vietnamese": "Cảm ơn",
+    "audio": "धन्यवाद"
+  },
+  {
+    "type": "VocabularyContext",
+    "word": "प्रवाह",
+    "translation": "Fluency / Trôi chảy",
+    "contextSentenceHindi": "आप धाराप्रवाह हिंदी बोलते हैं।",
+    "contextSentenceTranslation": "You speak Hindi fluently. / Bạn nói tiếng Hindi trôi chảy.",
+    "memoryTrick": "Pravaah gần giống như 'pro' - bạn đã trở thành người nói tiếng Hindi cực chuyên nghiệp!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "बधाई हो",
+    "subtext": "badhaai ho",
+    "answer": "Congratulations",
+    "answer_vi": "Chúc mừng",
+    "options": [
+      "Congratulations",
+      "Thank you",
+      "Goodbye",
+      "Please"
+    ],
+    "options_vi": [
+      "Chúc mừng",
+      "Cảm ơn",
+      "Tạm biệt",
+      "Làm ơn"
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सफलता",
+    "translation_en": "Success",
+    "options_en": [
+      "Success",
+      "Failure",
+      "Start",
+      "End"
+    ],
+    "translation_vi": "Thành công",
+    "options_vi": [
+      "Thành công",
+      "Thất bại",
+      "Bắt đầu",
+      "Kết thúc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build: 'Thank you teacher.' / Dịch: 'Cảm ơn thầy/cô.'",
+    "hindiWords": [
+      "शिक्षक",
+      "धन्यवाद",
+      "बहुत"
+    ],
+    "correctHindiSentence": "शिक्षक बहुत धन्यवाद"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the pairs / Ghép các cặp từ",
+    "pairs": [
+      {
+        "hindi": "बधाई हो",
+        "english": "Congratulations (Chúc mừng)"
+      },
+      {
+        "hindi": "प्रवाह",
+        "english": "Fluency (Trôi chảy)"
+      },
+      {
+        "hindi": "सफलता",
+        "english": "Success (Thành công)"
+      },
+      {
+        "hindi": "धन्यवाद",
+        "english": "Thank you (Cảm ơn)"
+      }
+    ]
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Tổng kết bài học",
+    "takeaways": [
+      "Chúc mừng bạn đã hoàn thành chặng đường nâng cấp phản xạ!",
+      "Hãy tự hào vì đã mở khóa sự tự tin lưu loát tiếng Hindi.",
+      "Tiếp tục luyện tập và sử dụng tiếng Hindi trong cuộc sống hàng ngày."
+    ]
+  }
+]

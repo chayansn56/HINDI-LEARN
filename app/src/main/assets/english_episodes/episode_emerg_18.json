@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 18",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Doctor.",
+    "simpleRule": "Remember: Doctor means डॉक्टर (Bác sĩ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Doctor",
+    "transliteration": "",
+    "english": "डॉक्टर",
+    "vietnamese": "Bác sĩ",
+    "audio": "Doctor"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hospital",
+    "transliteration": "",
+    "english": "हॉस्पिटल",
+    "vietnamese": "Bệnh viện",
+    "audio": "Hospital"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hospital",
+    "transliteration": "",
+    "english": "अस्पताल",
+    "vietnamese": "Bệnh viện",
+    "audio": "Hospital"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Doctor'",
+    "prompt_en": "Choose correct translation for 'Doctor'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Doctor'",
+    "text": "Doctor",
+    "subtext": "",
+    "answer": "डॉक्टर",
+    "answer_vi": "Bác sĩ",
+    "options": [
+      "डॉक्टर",
+      "हॉस्पिटल",
+      "मदद",
+      "अस्पताल"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Bệnh viện",
+      "Sự giúp đỡ",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Doctor",
+        "english": "डॉक्टर (Bác sĩ)"
+      },
+      {
+        "hindi": "Hospital",
+        "english": "हॉस्पिटल (Bệnh viện)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Hospital",
+        "english": "अस्पताल (Bệnh viện)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Police.",
+    "simpleRule": "Remember: Police means पुलिस (Cảnh sát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police",
+    "transliteration": "",
+    "english": "पुलिस",
+    "vietnamese": "Cảnh sát",
+    "audio": "Police"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Police'",
+    "prompt_en": "Choose correct translation for 'Police'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Police'",
+    "text": "Police",
+    "subtext": "",
+    "answer": "पुलिस",
+    "answer_vi": "Cảnh sát",
+    "options": [
+      "पुलिस",
+      "आग​​​​​​",
+      "मदद​​​​​​​​",
+      "मदद​​​​​​"
+    ],
+    "options_vi": [
+      "Cảnh sát",
+      "Lửa",
+      "Sự giúp đỡ",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Police",
+        "english": "पुलिस (Cảnh sát)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​​ (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Fire.",
+    "simpleRule": "Remember: Fire means आग​​ (Lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I need help.",
+    "transliteration": "",
+    "english": "मुझे मदद चाहिए।",
+    "vietnamese": "Tôi cần giúp đỡ.",
+    "audio": "I need help."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Fire'",
+    "prompt_en": "Choose correct translation for 'Fire'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Fire'",
+    "text": "Fire",
+    "subtext": "",
+    "answer": "आग​​",
+    "answer_vi": "Lửa",
+    "options": [
+      "आग​​",
+      "मदद​​​​",
+      "मदद​​",
+      "मुझे मदद चाहिए।"
+    ],
+    "options_vi": [
+      "Lửa",
+      "Sự giúp đỡ",
+      "Sự giúp đỡ",
+      "Tôi cần giúp đỡ."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Fire",
+        "english": "आग​​ (Lửa)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "I need help.",
+        "english": "मुझे मदद चाहिए। (Tôi cần giúp đỡ.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Pain.",
+    "simpleRule": "Remember: Pain means दर्द (Đau)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pain",
+    "transliteration": "",
+    "english": "दर्द",
+    "vietnamese": "Đau",
+    "audio": "Pain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to help",
+    "transliteration": "",
+    "english": "मदद करना",
+    "vietnamese": "Giúp đỡ",
+    "audio": "to help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police station",
+    "transliteration": "",
+    "english": "थाना",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "Police station"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Pain'",
+    "prompt_en": "Choose correct translation for 'Pain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Pain'",
+    "text": "Pain",
+    "subtext": "",
+    "answer": "दर्द",
+    "answer_vi": "Đau",
+    "options": [
+      "दर्द",
+      "मदद करना",
+      "मदद​​​",
+      "थाना"
+    ],
+    "options_vi": [
+      "Đau",
+      "Giúp đỡ",
+      "Sự giúp đỡ",
+      "Đồn cảnh sát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Pain",
+        "english": "दर्द (Đau)"
+      },
+      {
+        "hindi": "to help",
+        "english": "मदद करना (Giúp đỡ)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Police station",
+        "english": "थाना (Đồn cảnh sát)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Doctor",
+    "translation_en": "डॉक्टर",
+    "translation_vi": "Bác sĩ",
+    "options_en": [
+      "डॉक्टर",
+      "हॉस्पिटल",
+      "मदद",
+      "अस्पताल"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Bệnh viện",
+      "Sự giúp đỡ",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a डॉक्टर / Nó là một Bác sĩ",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Doctor"
+    ],
+    "correctHindiSentence": "It is a Doctor"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like हॉस्पिटल / Tôi thích Bệnh viện",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Hospital"
+    ],
+    "correctHindiSentence": "I really like Hospital"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Doctor and Police station",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Level 14",
+    "description": "Master the vocabulary and grammar for: Culture - Level 14. Read the key points carefully.",
+    "keyPoints": [
+      "Learn culture concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: त्योहार.",
+    "simpleRule": "Remember: त्योहार means Festival (Lễ hội)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "त्योहार",
+    "transliteration": "tyohaar",
+    "english": "Festival",
+    "vietnamese": "Lễ hội",
+    "audio": "त्योहार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'त्योहार'",
+    "prompt_en": "Choose correct translation for 'त्योहार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'त्योहार'",
+    "text": "त्योहार",
+    "subtext": "tyohaar",
+    "answer": "Festival",
+    "answer_vi": "Lễ hội",
+    "options": [
+      "Festival",
+      "Car / Train / Cart",
+      "Dance",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Lễ hội",
+      "Xe hơi / Xe lửa",
+      "Điệu nhảy",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "त्योहार",
+        "english": "Festival (Lễ hội)"
+      },
+      {
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      },
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: ने.",
+    "simpleRule": "Remember: ने means Agentive particle (Hậu giới từ chỉ tác nhân)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ने",
+    "transliteration": "ne",
+    "english": "Agentive particle",
+    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "audio": "ने"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धर्म",
+    "transliteration": "dharma",
+    "english": "Religion / Duty",
+    "vietnamese": "Tôn giáo / Bổn phận",
+    "audio": "धर्म"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मंदिर",
+    "transliteration": "mandir",
+    "english": "Temple",
+    "vietnamese": "Đền thờ",
+    "audio": "मंदिर"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'ने'",
+    "prompt_en": "Choose correct translation for 'ने'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ने'",
+    "text": "ने",
+    "subtext": "ne",
+    "answer": "Agentive particle",
+    "answer_vi": "Hậu giới từ chỉ tác nhân",
+    "options": [
+      "Agentive particle",
+      "Religion / Duty",
+      "Soil / Earth",
+      "Temple"
+    ],
+    "options_vi": [
+      "Hậu giới từ chỉ tác nhân",
+      "Tôn giáo / Bổn phận",
+      "Đất",
+      "Đền thờ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "ने",
+        "english": "Agentive particle (Hậu giới từ chỉ tác nhân)"
+      },
+      {
+        "hindi": "धर्म",
+        "english": "Religion / Duty (Tôn giáo / Bổn phận)"
+      },
+      {
+        "hindi": "मिट्टी​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "मंदिर",
+        "english": "Temple (Đền thờ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "त्योहार",
+    "translation_en": "Festival",
+    "translation_vi": "Lễ hội",
+    "options_en": [
+      "Festival",
+      "Car / Train / Cart",
+      "Dance",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Lễ hội",
+      "Xe hơi / Xe lửa",
+      "Điệu nhảy",
+      "Đất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Festival / Đây là Lễ hội",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "त्योहार",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक त्योहार है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Car / Train / Cart / Tôi thấy Xe hơi / Xe lửa",
+    "hindiWords": [
+      "मैं",
+      "गाड़ी",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं गाड़ी देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: त्योहार, मंदिर",
+      "Practiced constructing sentences."
+    ]
+  }
+]

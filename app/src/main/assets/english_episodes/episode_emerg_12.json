@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 12",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 12. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Pain.",
+    "simpleRule": "Remember: Pain means दर्द (Đau)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pain",
+    "transliteration": "",
+    "english": "दर्द",
+    "vietnamese": "Đau",
+    "audio": "Pain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Police",
+    "transliteration": "",
+    "english": "पुलिस",
+    "vietnamese": "Cảnh sát",
+    "audio": "Police"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to help",
+    "transliteration": "",
+    "english": "मदद करना",
+    "vietnamese": "Giúp đỡ",
+    "audio": "to help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Pain'",
+    "prompt_en": "Choose correct translation for 'Pain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Pain'",
+    "text": "Pain",
+    "subtext": "",
+    "answer": "दर्द",
+    "answer_vi": "Đau",
+    "options": [
+      "दर्द",
+      "पुलिस",
+      "मदद करना",
+      "आग​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đau",
+      "Cảnh sát",
+      "Giúp đỡ",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Pain",
+        "english": "दर्द (Đau)"
+      },
+      {
+        "hindi": "Police",
+        "english": "पुलिस (Cảnh sát)"
+      },
+      {
+        "hindi": "to help",
+        "english": "मदद करना (Giúp đỡ)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​​​​ (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Fire.",
+    "simpleRule": "Remember: Fire means आग​​​​​​​ (Lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Fire'",
+    "prompt_en": "Choose correct translation for 'Fire'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Fire'",
+    "text": "Fire",
+    "subtext": "",
+    "answer": "आग​​​​​​​",
+    "answer_vi": "Lửa",
+    "options": [
+      "आग​​​​​​​",
+      "आग​",
+      "आग​​​​",
+      "आग​​​​​"
+    ],
+    "options_vi": [
+      "Lửa",
+      "Lửa",
+      "Lửa",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​ (Lửa)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​ (Lửa)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​ (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Hospital.",
+    "simpleRule": "Remember: Hospital means अस्पताल (Bệnh viện)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hospital",
+    "transliteration": "",
+    "english": "अस्पताल",
+    "vietnamese": "Bệnh viện",
+    "audio": "Hospital"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Hospital'",
+    "prompt_en": "Choose correct translation for 'Hospital'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Hospital'",
+    "text": "Hospital",
+    "subtext": "",
+    "answer": "अस्पताल",
+    "answer_vi": "Bệnh viện",
+    "options": [
+      "अस्पताल",
+      "मदद​​​​​​",
+      "मदद​",
+      "मदद​​​​​"
+    ],
+    "options_vi": [
+      "Bệnh viện",
+      "Sự giúp đỡ",
+      "Sự giúp đỡ",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Hospital",
+        "english": "अस्पताल (Bệnh viện)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​ (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Help.",
+    "simpleRule": "Remember: Help means मदद​​ (Sự giúp đỡ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help me!",
+    "transliteration": "",
+    "english": "मदद कीजिए!",
+    "vietnamese": "Giúp tôi với!",
+    "audio": "Help me!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I need help.",
+    "transliteration": "",
+    "english": "मुझे मदद चाहिए।",
+    "vietnamese": "Tôi cần giúp đỡ.",
+    "audio": "I need help."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Medicine",
+    "transliteration": "",
+    "english": "दवाई",
+    "vietnamese": "Thuốc",
+    "audio": "Medicine"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Help'",
+    "prompt_en": "Choose correct translation for 'Help'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Help'",
+    "text": "Help",
+    "subtext": "",
+    "answer": "मदद​​",
+    "answer_vi": "Sự giúp đỡ",
+    "options": [
+      "मदद​​",
+      "मदद कीजिए!",
+      "मुझे मदद चाहिए।",
+      "दवाई"
+    ],
+    "options_vi": [
+      "Sự giúp đỡ",
+      "Giúp tôi với!",
+      "Tôi cần giúp đỡ.",
+      "Thuốc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Help",
+        "english": "मदद​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "Help me!",
+        "english": "मदद कीजिए! (Giúp tôi với!)"
+      },
+      {
+        "hindi": "I need help.",
+        "english": "मुझे मदद चाहिए। (Tôi cần giúp đỡ.)"
+      },
+      {
+        "hindi": "Medicine",
+        "english": "दवाई (Thuốc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Pain",
+    "translation_en": "दर्द",
+    "translation_vi": "Đau",
+    "options_en": [
+      "दर्द",
+      "पुलिस",
+      "मदद करना",
+      "आग​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đau",
+      "Cảnh sát",
+      "Giúp đỡ",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a दर्द / Nó là một Đau",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Pain"
+    ],
+    "correctHindiSentence": "It is a Pain"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like पुलिस / Tôi thích Cảnh sát",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Police"
+    ],
+    "correctHindiSentence": "I really like Police"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Pain and Medicine",
+      "Practiced constructing sentences."
+    ]
+  }
+]

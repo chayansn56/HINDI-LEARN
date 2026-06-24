@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 32",
+    "description": "Master the vocabulary and grammar for: Episode 32. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 32",
+    "title_vi": "Tập 32",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Soil / Earth (मिट्टी​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đất."
+      },
+      {
+        "hindi": "Later, you encounter a To this / him / her (near) (इसे).",
+        "translation": "Sau đó, bạn gặp một Cho người/vật này."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Soil / Earth",
+        "isCorrect": true
+      },
+      {
+        "text": "To this / him / her (near)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Soil / Earth.",
+    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​ (Đất)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soil / Earth",
+    "transliteration": "",
+    "english": "मिट्टी​​​​​",
+    "vietnamese": "Đất",
+    "audio": "Soil / Earth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To this / him / her (near)",
+    "transliteration": "",
+    "english": "इसे",
+    "vietnamese": "Cho người/vật này",
+    "audio": "To this / him / her (near)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Carefree / Cool",
+    "transliteration": "",
+    "english": "बिंदास",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "Carefree / Cool"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Soil / Earth'",
+    "prompt_en": "Choose correct translation for 'Soil / Earth'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
+    "text": "Soil / Earth",
+    "subtext": "",
+    "answer": "मिट्टी​​​​​",
+    "answer_vi": "Đất",
+    "options": [
+      "मिट्टी​​​​​",
+      "इसे",
+      "बिंदास",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đất",
+      "Cho người/vật này",
+      "Sống thoải mái / Vô tư",
+      "Ngủ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Soil / Earth",
+        "english": "मिट्टी​​​​​ (Đất)"
+      },
+      {
+        "hindi": "To this / him / her (near)",
+        "english": "इसे (Cho người/vật này)"
+      },
+      {
+        "hindi": "Carefree / Cool",
+        "english": "बिंदास (Sống thoải mái / Vô tư)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To read.",
+    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Their / His / Her (formal near)",
+    "transliteration": "",
+    "english": "इनका",
+    "vietnamese": "Của họ / Của ngài ấy (gần)",
+    "audio": "Their / His / Her (formal near)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "City",
+    "transliteration": "",
+    "english": "शहर​​​​​",
+    "vietnamese": "Thành phố",
+    "audio": "City"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To read'",
+    "prompt_en": "Choose correct translation for 'To read'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
+    "text": "To read",
+    "subtext": "",
+    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "इनका",
+      "शहर​​​​​"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Nhìn / Xem",
+      "Của họ / Của ngài ấy (gần)",
+      "Thành phố"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "Their / His / Her (formal near)",
+        "english": "इनका (Của họ / Của ngài ấy (gần))"
+      },
+      {
+        "hindi": "City",
+        "english": "शहर​​​​​ (Thành phố)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To play.",
+    "simpleRule": "Remember: To play means खेलना​​​​​​​​​​​​​​​​​​​​​ (Chơi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "transliteration": "",
+    "english": "जूता​​​",
+    "vietnamese": "Giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To play'",
+    "prompt_en": "Choose correct translation for 'To play'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
+    "text": "To play",
+    "subtext": "",
+    "answer": "खेलना​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chơi",
+    "options": [
+      "खेलना​​​​​​​​​​​​​​​​​​​​​",
+      "जूता​​​",
+      "लेना​​​​​​",
+      "बेचना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Giày",
+      "Lấy / Nhận",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Shoe",
+        "english": "जूता​​​ (Giày)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Soil / Earth",
+    "translation_en": "मिट्टी​​​​​",
+    "translation_vi": "Đất",
+    "options_en": [
+      "मिट्टी​​​​​",
+      "इसे",
+      "बिंदास",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đất",
+      "Cho người/vật này",
+      "Sống thoải mái / Vô tư",
+      "Ngủ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the मिट्टी​​​​​ / Tôi thấy Đất",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Soil / Earth"
+    ],
+    "correctHindiSentence": "I see the Soil / Earth"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a इसे / Tôi muốn Cho người/vật này",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To this / him / her (near)"
+    ],
+    "correctHindiSentence": "I want a To this / him / her (near)"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Soil / Earth and To sell",
+      "Practiced constructing sentences."
+    ]
+  }
+]

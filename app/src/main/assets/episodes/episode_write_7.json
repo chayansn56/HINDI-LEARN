@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Write - Lesson 7",
-    "description": "Learn key vocabulary and concepts for Write - Lesson 7. Listen carefully and read along in English and Vietnamese.",
+    "title": "Write - Level 7",
+    "description": "Master the vocabulary and grammar for: Write - Level 7. Read the key points carefully.",
     "keyPoints": [
-      "५ (paanch) = 5 / Năm",
-      "छुट्टी (chuṭṭī) = Holiday / Leave / Kỳ nghỉ / Ngày nghỉ",
-      "लोहा​​​​​​​​ (lohā) = Iron / Sắt"
+      "Learn write concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 7",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: ५ means '5' (Năm)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: खोलना​​​​​​​.",
+    "simpleRule": "Remember: खोलना​​​​​​​ means To open (Mở)."
   },
   {
     "type": "Flashcard",
-    "hindi": "५",
-    "transliteration": "paanch",
-    "english": "5",
-    "vietnamese": "Năm",
-    "audio": "५"
+    "hindi": "खोलना​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "छुट्टी",
-    "transliteration": "chuṭṭī",
-    "english": "Holiday / Leave",
-    "vietnamese": "Kỳ nghỉ / Ngày nghỉ",
-    "audio": "छुट्टी"
+    "hindi": "लिखना​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खोलना​​​​​​​​​​​​​",
+    "transliteration": "kholnā",
+    "english": "To open",
+    "vietnamese": "Mở",
+    "audio": "खोलना​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate '५'",
-    "prompt_en": "Choose the correct translation for '५'",
-    "prompt_vi": "Chọn bản dịch đúng cho '५'",
-    "text": "५",
-    "subtext": "paanch",
-    "answer": "5",
-    "answer_vi": "Năm",
+    "prompt": "Translate 'खोलना​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'खोलना​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खोलना​​​​​​​'",
+    "text": "खोलना​​​​​​​",
+    "subtext": "kholnā",
+    "answer": "To open",
+    "answer_vi": "Mở",
     "options": [
-      "5",
-      "Holiday / Leave",
-      "Iron",
-      "70"
+      "To open",
+      "To write",
+      "To open",
+      "To read"
     ],
     "options_vi": [
-      "Năm",
-      "Kỳ nghỉ / Ngày nghỉ",
-      "Sắt",
-      "Bảy mươi"
+      "Mở",
+      "Viết",
+      "Mở",
+      "Đọc"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "लोहा​​​​​​​​",
-    "transliteration": "lohā",
-    "english": "Iron",
-    "vietnamese": "Sắt",
-    "audio": "लोहा​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "खोलना​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "खोलना​​​​​​​​​​​​​",
+        "english": "To open (Mở)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पढ़ना​​​​​​​​​​​​.",
+    "simpleRule": "Remember: पढ़ना​​​​​​​​​​​​ means To read (Đọc)."
   },
   {
     "type": "Flashcard",
-    "hindi": "७०",
-    "transliteration": "sattar",
-    "english": "70",
-    "vietnamese": "Bảy mươi",
-    "audio": "७०"
+    "hindi": "पढ़ना​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेन​​​​",
+    "transliteration": "pen",
+    "english": "Pen",
+    "vietnamese": "Bút",
+    "audio": "पेन​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पढ़ना​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'पढ़ना​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पढ़ना​​​​​​​​​​​​'",
+    "text": "पढ़ना​​​​​​​​​​​​",
+    "subtext": "paṛhnā",
+    "answer": "To read",
+    "answer_vi": "Đọc",
+    "options": [
+      "To read",
+      "To write",
+      "To write",
+      "Pen"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Viết",
+      "Viết",
+      "Bút"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "५",
-        "english": "5 (Năm)"
+        "hindi": "पढ़ना​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
       },
       {
-        "hindi": "छुट्टी",
-        "english": "Holiday / Leave (Kỳ nghỉ / Ngày nghỉ)"
+        "hindi": "लिखना​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "लोहा​​​​​​​​",
-        "english": "Iron (Sắt)"
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
       },
       {
-        "hindi": "७०",
-        "english": "70 (Bảy mươi)"
+        "hindi": "पेन​​​​",
+        "english": "Pen (Bút)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "छुट्टी",
-    "translation_en": "Holiday / Leave",
-    "translation_vi": "Kỳ nghỉ / Ngày nghỉ",
+    "audio": "खोलना​​​​​​​",
+    "translation_en": "To open",
+    "translation_vi": "Mở",
     "options_en": [
-      "70",
-      "Iron",
-      "Holiday / Leave",
-      "5"
+      "To open",
+      "To write",
+      "To open",
+      "To read"
     ],
     "options_vi": [
-      "Bảy mươi",
-      "Sắt",
-      "Kỳ nghỉ / Ngày nghỉ",
-      "Năm"
+      "Mở",
+      "Viết",
+      "Mở",
+      "Đọc"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This food is spicy / Thức ăn này rất cay",
+    "englishSentence": "This is a To open / Đây là Mở",
     "hindiWords": [
       "यह",
-      "खाना",
-      "तीखा",
-      "है",
-      "स्वादिष्ट",
-      "मीठा"
+      "एक",
+      "खोलना​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "यह खाना तीखा है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "ज्ञानी",
-    "transliteration": "jñānī",
-    "english": "Wise / Scholar",
-    "vietnamese": "Người thông thái",
-    "audio": "ज्ञानी"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "नदी​​​​​​​​​​",
-    "transliteration": "nadī",
-    "english": "River",
-    "vietnamese": "Con sông",
-    "audio": "नदी​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "लोहा​​​​​​​​",
-        "english": "Iron (Sắt)"
-      },
-      {
-        "hindi": "७०",
-        "english": "70 (Bảy mươi)"
-      },
-      {
-        "hindi": "ज्ञानी",
-        "english": "Wise / Scholar (Người thông thái)"
-      },
-      {
-        "hindi": "नदी​​​​​​​​​​",
-        "english": "River (Con sông)"
-      }
-    ]
+    "correctHindiSentence": "यह एक खोलना​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "englishSentence": "I see To write / Tôi thấy Viết",
     "hindiWords": [
-      "आज",
-      "दिवाली",
-      "है",
-      "होली",
-      "ईद"
+      "मैं",
+      "लिखना​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "आज दिवाली है"
+    "correctHindiSentence": "मैं लिखना​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: ५, लोहा​​​​​​​​, ज्ञानी.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Today is Diwali'."
+      "You learned: खोलना​​​​​​​, पेन​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

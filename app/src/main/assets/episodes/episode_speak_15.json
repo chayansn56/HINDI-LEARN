@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 15",
+    "description": "Master the vocabulary and grammar for: Speak - Level 15. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "फिर से कहिए।",
+    "transliteration": "phir se kahiye",
+    "english": "Please say it again.",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "फिर से कहिए।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
+    "options": [
+      "To speak",
+      "Please say it again.",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Nói",
+      "Làm ơn nói lại lần nữa.",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "फिर से कहिए।",
+        "english": "Please say it again. (Làm ơn nói lại lần nữa.)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: कितने.",
+    "simpleRule": "Remember: कितने means How many (Bao nhiêu (số lượng))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कितने",
+    "transliteration": "kitne",
+    "english": "How many",
+    "vietnamese": "Bao nhiêu (số lượng)",
+    "audio": "कितने"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नमस्ते",
+    "transliteration": "namaste",
+    "english": "Hello / Greetings",
+    "vietnamese": "Xin chào",
+    "audio": "नमस्ते"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आप कैसे हैं?",
+    "transliteration": "āp kaise haĩ?",
+    "english": "How are you? (Formal)",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "आप कैसे हैं?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'कितने'",
+    "prompt_en": "Choose correct translation for 'कितने'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'कितने'",
+    "text": "कितने",
+    "subtext": "kitne",
+    "answer": "How many",
+    "answer_vi": "Bao nhiêu (số lượng)",
+    "options": [
+      "How many",
+      "Hello / Greetings",
+      "How are you? (Formal)",
+      "To speak"
+    ],
+    "options_vi": [
+      "Bao nhiêu (số lượng)",
+      "Xin chào",
+      "Bạn khỏe không? (Lịch sự)",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "कितने",
+        "english": "How many (Bao nhiêu (số lượng))"
+      },
+      {
+        "hindi": "नमस्ते",
+        "english": "Hello / Greetings (Xin chào)"
+      },
+      {
+        "hindi": "आप कैसे हैं?",
+        "english": "How are you? (Formal) (Bạn khỏe không? (Lịch sự))"
+      },
+      {
+        "hindi": "बोलना​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To speak",
+    "translation_vi": "Nói",
+    "options_en": [
+      "To speak",
+      "Please say it again.",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Nói",
+      "Làm ơn nói lại lần nữa.",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To speak / Đây là Nói",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक बोलना​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Please say it again. / Tôi thấy Làm ơn nói lại lần nữa.",
+    "hindiWords": [
+      "मैं",
+      "फिर से कहिए।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं फिर से कहिए। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​, बोलना​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

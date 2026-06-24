@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 6",
+    "description": "Master the vocabulary and grammar for: Episode 6. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 6",
+    "title_vi": "Tập 6",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Investment (निवेश).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Sự đầu tư."
+      },
+      {
+        "hindi": "Later, you encounter a To sell (बेचना​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Bán."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Investment",
+        "isCorrect": true
+      },
+      {
+        "text": "To sell",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Investment.",
+    "simpleRule": "Remember: Investment means निवेश (Sự đầu tư)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Investment",
+    "transliteration": "",
+    "english": "निवेश",
+    "vietnamese": "Sự đầu tư",
+    "audio": "Investment"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Investment'",
+    "prompt_en": "Choose correct translation for 'Investment'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Investment'",
+    "text": "Investment",
+    "subtext": "",
+    "answer": "निवेश",
+    "answer_vi": "Sự đầu tư",
+    "options": [
+      "निवेश",
+      "बेचना​​​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự đầu tư",
+      "Bán",
+      "Đứng",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Investment",
+        "english": "निवेश (Sự đầu tư)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​ (Bán)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To work.",
+    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What's up?",
+    "transliteration": "",
+    "english": "क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To work'",
+    "prompt_en": "Choose correct translation for 'To work'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
+    "text": "To work",
+    "subtext": "",
+    "answer": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Làm việc",
+    "options": [
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+      "क्या चल रहा है?",
+      "बेचना​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Đọc",
+      "Có chuyện gì thế?",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "What's up?",
+        "english": "क्या चल रहा है? (Có chuyện gì thế?)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To run.",
+    "simpleRule": "Remember: To run means दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "1",
+    "transliteration": "",
+    "english": "१",
+    "vietnamese": "Một",
+    "audio": "1"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please speak slowly.",
+    "transliteration": "",
+    "english": "कृपया धीरे बोलिए।",
+    "vietnamese": "Làm ơn nói chậm lại.",
+    "audio": "Please speak slowly."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "River",
+    "transliteration": "",
+    "english": "नदी​​​​​",
+    "vietnamese": "Con sông",
+    "audio": "River"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To run'",
+    "prompt_en": "Choose correct translation for 'To run'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
+    "text": "To run",
+    "subtext": "",
+    "answer": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Chạy",
+    "options": [
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "१",
+      "कृपया धीरे बोलिए।",
+      "नदी​​​​​"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Một",
+      "Làm ơn nói chậm lại.",
+      "Con sông"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "1",
+        "english": "१ (Một)"
+      },
+      {
+        "hindi": "Please speak slowly.",
+        "english": "कृपया धीरे बोलिए। (Làm ơn nói chậm lại.)"
+      },
+      {
+        "hindi": "River",
+        "english": "नदी​​​​​ (Con sông)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Investment",
+    "translation_en": "निवेश",
+    "translation_vi": "Sự đầu tư",
+    "options_en": [
+      "निवेश",
+      "बेचना​​​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự đầu tư",
+      "Bán",
+      "Đứng",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the निवेश / Tôi thấy Sự đầu tư",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Investment"
+    ],
+    "correctHindiSentence": "I see the Investment"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बेचना​​​​​​​​​​​​​​​​ / Tôi muốn Bán",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To sell"
+    ],
+    "correctHindiSentence": "I want a To sell"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Investment and River",
+      "Practiced constructing sentences."
+    ]
+  }
+]

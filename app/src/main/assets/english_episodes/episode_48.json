@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 48",
+    "description": "Master the vocabulary and grammar for: Episode 48. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 48",
+    "title_vi": "Tập 48",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To take (लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Lấy / Nhận."
+      },
+      {
+        "hindi": "Later, you encounter a Black (काला).",
+        "translation": "Sau đó, bạn gặp một Màu đen."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To take",
+        "isCorrect": true
+      },
+      {
+        "text": "Black",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To take.",
+    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Black",
+    "transliteration": "",
+    "english": "काला",
+    "vietnamese": "Màu đen",
+    "audio": "Black"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To take'",
+    "prompt_en": "Choose correct translation for 'To take'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
+    "text": "To take",
+    "subtext": "",
+    "answer": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "काला",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Màu đen",
+      "Dạy",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Black",
+        "english": "काला (Màu đen)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Read (root).",
+    "simpleRule": "Remember: Read (root) means पढ़ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Read (root)",
+    "transliteration": "",
+    "english": "पढ़",
+    "vietnamese": "Đọc",
+    "audio": "Read (root)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Read (root)'",
+    "prompt_en": "Choose correct translation for 'Read (root)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Read (root)'",
+    "text": "Read (root)",
+    "subtext": "",
+    "answer": "पढ़",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़",
+      "सोना​​​​​​​​​​​​​​​​​​",
+      "sिखाना​​​​​​​​​​​​​​​​​",
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Ngủ",
+      "Dạy",
+      "Mở"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Read (root)",
+        "english": "पढ़ (Đọc)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Bathroom.",
+    "simpleRule": "Remember: Bathroom means बाथरूम (Nhà tắm / Toilet)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bathroom",
+    "transliteration": "",
+    "english": "बाथरूम",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "Bathroom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​​​​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "City",
+    "transliteration": "",
+    "english": "शहर",
+    "vietnamese": "Thành phố",
+    "audio": "City"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Bathroom'",
+    "prompt_en": "Choose correct translation for 'Bathroom'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Bathroom'",
+    "text": "Bathroom",
+    "subtext": "",
+    "answer": "बाथरूम",
+    "answer_vi": "Nhà tắm / Toilet",
+    "options": [
+      "बाथरूम",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बंद करना​​​​​​",
+      "शहर"
+    ],
+    "options_vi": [
+      "Nhà tắm / Toilet",
+      "Hỏi",
+      "Đóng",
+      "Thành phố"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Bathroom",
+        "english": "बाथरूम (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​​​​​ (Đóng)"
+      },
+      {
+        "hindi": "City",
+        "english": "शहर (Thành phố)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To take",
+    "translation_en": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Lấy / Nhận",
+    "options_en": [
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "काला",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Màu đen",
+      "Dạy",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Lấy / Nhận",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To take"
+    ],
+    "correctHindiSentence": "I see the To take"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a काला / Tôi muốn Màu đen",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Black"
+    ],
+    "correctHindiSentence": "I want a Black"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To take and City",
+      "Practiced constructing sentences."
+    ]
+  }
+]

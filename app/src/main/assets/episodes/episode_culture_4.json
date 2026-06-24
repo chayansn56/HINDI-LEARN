@@ -1,183 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Culture - Lesson 4",
-    "description": "Learn key vocabulary and concepts for Culture - Lesson 4. Listen carefully and read along in English and Vietnamese.",
+    "title": "Culture - Level 4",
+    "description": "Master the vocabulary and grammar for: Culture - Level 4. Read the key points carefully.",
     "keyPoints": [
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (sīkhnā) = To learn / Học",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​ (khelnā) = To play / Chơi",
-      "सपना (sapna) = Dream / Giấc mơ"
+      "Learn culture concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 4",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To learn' (Học)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: नृत्य.",
+    "simpleRule": "Remember: नृत्य means Dance (Điệu nhảy)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sīkhnā",
-    "english": "To learn",
-    "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
   },
   {
     "type": "Flashcard",
-    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "khelnā",
-    "english": "To play",
-    "vietnamese": "Chơi",
-    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "खाना",
+    "transliteration": "khānā",
+    "english": "To eat / Food",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "खाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "sīkhnā",
-    "answer": "To learn",
-    "answer_vi": "Học",
+    "prompt": "Translate 'नृत्य'",
+    "prompt_en": "Choose correct translation for 'नृत्य'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'नृत्य'",
+    "text": "नृत्य",
+    "subtext": "nritya",
+    "answer": "Dance",
+    "answer_vi": "Điệu nhảy",
     "options": [
-      "Dream",
-      "To walk / move",
-      "To play",
-      "To learn"
+      "Dance",
+      "To eat / Food",
+      "Soil / Earth",
+      "Car / Train / Cart"
     ],
     "options_vi": [
-      "Giấc mơ",
-      "Đi bộ / Di chuyển",
-      "Chơi",
-      "Học"
+      "Điệu nhảy",
+      "Ăn / Đồ ăn",
+      "Đất",
+      "Xe hơi / Xe lửa"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "सपना",
-    "transliteration": "sapna",
-    "english": "Dream",
-    "vietnamese": "Giấc mơ",
-    "audio": "सपना"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      },
+      {
+        "hindi": "खाना",
+        "english": "To eat / Food (Ăn / Đồ ăn)"
+      },
+      {
+        "hindi": "मिट्टी​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: ने.",
+    "simpleRule": "Remember: ने means Agentive particle (Hậu giới từ chỉ tác nhân)."
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "ने",
+    "transliteration": "ne",
+    "english": "Agentive particle",
+    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "audio": "ने"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साझेदारी",
+    "transliteration": "sājhedārī",
+    "english": "Partnership",
+    "vietnamese": "Quan hệ đối tác",
+    "audio": "साझेदारी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलो शुरू करते हैं।",
+    "transliteration": "chalo shuru karte hain",
+    "english": "Let's start.",
+    "vietnamese": "Hãy bắt đầu thôi.",
+    "audio": "चलो शुरू करते हैं।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दिल",
+    "transliteration": "dil",
+    "english": "Heart",
+    "vietnamese": "Trái tim",
+    "audio": "दिल"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'ने'",
+    "prompt_en": "Choose correct translation for 'ने'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ने'",
+    "text": "ने",
+    "subtext": "ne",
+    "answer": "Agentive particle",
+    "answer_vi": "Hậu giới từ chỉ tác nhân",
+    "options": [
+      "Agentive particle",
+      "Partnership",
+      "Let's start.",
+      "Heart"
+    ],
+    "options_vi": [
+      "Hậu giới từ chỉ tác nhân",
+      "Quan hệ đối tác",
+      "Hãy bắt đầu thôi.",
+      "Trái tim"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To learn (Học)"
+        "hindi": "ने",
+        "english": "Agentive particle (Hậu giới từ chỉ tác nhân)"
       },
       {
-        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To play (Chơi)"
+        "hindi": "साझेदारी",
+        "english": "Partnership (Quan hệ đối tác)"
       },
       {
-        "hindi": "सपना",
-        "english": "Dream (Giấc mơ)"
+        "hindi": "चलो शुरू करते हैं।",
+        "english": "Let's start. (Hãy bắt đầu thôi.)"
       },
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
+        "hindi": "दिल",
+        "english": "Heart (Trái tim)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To play",
-    "translation_vi": "Chơi",
+    "audio": "नृत्य",
+    "translation_en": "Dance",
+    "translation_vi": "Điệu nhảy",
     "options_en": [
-      "To play",
-      "To learn",
-      "To walk / move",
-      "Dream"
+      "Dance",
+      "To eat / Food",
+      "Soil / Earth",
+      "Car / Train / Cart"
     ],
     "options_vi": [
-      "Chơi",
-      "Học",
-      "Đi bộ / Di chuyển",
-      "Giấc mơ"
+      "Điệu nhảy",
+      "Ăn / Đồ ăn",
+      "Đất",
+      "Xe hơi / Xe lửa"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Today is Diwali / Hôm nay là lễ Diwali",
+    "englishSentence": "This is a Dance / Đây là Điệu nhảy",
     "hindiWords": [
-      "आज",
-      "दिवाली",
-      "है",
-      "होली",
-      "ईद"
+      "यह",
+      "एक",
+      "नृत्य",
+      "है"
     ],
-    "correctHindiSentence": "आज दिवाली है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "bolnā",
-    "english": "To speak",
-    "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "सपना",
-        "english": "Dream (Giấc mơ)"
-      },
-      {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To read (Đọc)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
-      }
-    ]
+    "correctHindiSentence": "यह एक नृत्य है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Diwali is a festival / Diwali là một lễ hội",
+    "englishSentence": "I see To eat / Food / Tôi thấy Ăn / Đồ ăn",
     "hindiWords": [
-      "दिवाली",
-      "त्योहार",
-      "है",
-      "मंदिर",
-      "पूजा"
+      "मैं",
+      "खाना",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "दिवाली त्योहार है"
+    "correctHindiSentence": "मैं खाना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​, सपना, पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Diwali is a festival'."
+      "You learned: नृत्य, दिल",
+      "Practiced constructing sentences."
     ]
   }
 ]

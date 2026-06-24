@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 11",
+    "description": "Master the vocabulary and grammar for: Travel - Level 11. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सफ़र.",
+    "simpleRule": "Remember: सफ़र means Journey (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होटल",
+    "transliteration": "hotel",
+    "english": "Hotel",
+    "vietnamese": "Khách sạn",
+    "audio": "होटल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र'",
+    "prompt_en": "Choose correct translation for 'सफ़र'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र'",
+    "text": "सफ़र",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Hotel",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Khách sạn",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "होटल",
+        "english": "Hotel (Khách sạn)"
+      },
+      {
+        "hindi": "सफ़र​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​​​​​ means Journey (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बस स्टैंड",
+    "transliteration": "bus stand",
+    "english": "Bus stop",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "बस स्टैंड"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​​​​​'",
+    "text": "सफ़र​​​​​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Journey",
+      "Bus stop",
+      "Journey"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Chuyến đi",
+      "Trạm xe buýt",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "बस स्टैंड",
+        "english": "Bus stop (Trạm xe buýt)"
+      },
+      {
+        "hindi": "सफ़र​​",
+        "english": "Journey (Chuyến đi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सफ़र",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
+    "options_en": [
+      "Journey",
+      "Hotel",
+      "Journey",
+      "Journey"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Khách sạn",
+      "Chuyến đi",
+      "Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Journey / Đây là Chuyến đi",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "सफ़र",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक सफ़र है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Hotel / Tôi thấy Khách sạn",
+    "hindiWords": [
+      "मैं",
+      "होटल",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं होटल देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: सफ़र, सफ़र​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

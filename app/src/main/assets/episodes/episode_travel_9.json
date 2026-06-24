@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 9",
+    "description": "Master the vocabulary and grammar for: Travel - Level 9. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: शौचालय.",
+    "simpleRule": "Remember: शौचालय means Restroom / Toilet (Nhà vệ sinh)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शौचालय",
+    "transliteration": "shauchaalay",
+    "english": "Restroom / Toilet",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "शौचालय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाली कमरा",
+    "transliteration": "khālī kamrā",
+    "english": "Vacant room",
+    "vietnamese": "Phòng trống",
+    "audio": "खाली कमरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बस स्टैंड",
+    "transliteration": "bus stand",
+    "english": "Bus stop",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "बस स्टैंड"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बिंदास",
+    "transliteration": "bindaas",
+    "english": "Carefree / Cool",
+    "vietnamese": "Sống thoải mái / Vô tư",
+    "audio": "बिंदास"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'शौचालय'",
+    "prompt_en": "Choose correct translation for 'शौचालय'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'शौचालय'",
+    "text": "शौचालय",
+    "subtext": "shauchaalay",
+    "answer": "Restroom / Toilet",
+    "answer_vi": "Nhà vệ sinh",
+    "options": [
+      "Restroom / Toilet",
+      "Vacant room",
+      "Bus stop",
+      "Carefree / Cool"
+    ],
+    "options_vi": [
+      "Nhà vệ sinh",
+      "Phòng trống",
+      "Trạm xe buýt",
+      "Sống thoải mái / Vô tư"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "शौचालय",
+        "english": "Restroom / Toilet (Nhà vệ sinh)"
+      },
+      {
+        "hindi": "खाली कमरा",
+        "english": "Vacant room (Phòng trống)"
+      },
+      {
+        "hindi": "बस स्टैंड",
+        "english": "Bus stop (Trạm xe buýt)"
+      },
+      {
+        "hindi": "बिंदास",
+        "english": "Carefree / Cool (Sống thoải mái / Vô tư)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: गाड़ी.",
+    "simpleRule": "Remember: गाड़ी means Car / Train / Cart (Xe hơi / Xe lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थाना",
+    "transliteration": "thana",
+    "english": "Police station",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "थाना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'गाड़ी'",
+    "prompt_en": "Choose correct translation for 'गाड़ी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गाड़ी'",
+    "text": "गाड़ी",
+    "subtext": "gāṛī",
+    "answer": "Car / Train / Cart",
+    "answer_vi": "Xe hơi / Xe lửa",
+    "options": [
+      "Car / Train / Cart",
+      "Bathroom",
+      "Journey",
+      "Police station"
+    ],
+    "options_vi": [
+      "Xe hơi / Xe lửa",
+      "Nhà tắm / Toilet",
+      "Chuyến đi",
+      "Đồn cảnh sát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
+      },
+      {
+        "hindi": "सफ़र​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "थाना",
+        "english": "Police station (Đồn cảnh sát)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "शौचालय",
+    "translation_en": "Restroom / Toilet",
+    "translation_vi": "Nhà vệ sinh",
+    "options_en": [
+      "Restroom / Toilet",
+      "Vacant room",
+      "Bus stop",
+      "Carefree / Cool"
+    ],
+    "options_vi": [
+      "Nhà vệ sinh",
+      "Phòng trống",
+      "Trạm xe buýt",
+      "Sống thoải mái / Vô tư"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Restroom / Toilet / Đây là Nhà vệ sinh",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "शौचालय",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक शौचालय है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Vacant room / Tôi thấy Phòng trống",
+    "hindiWords": [
+      "मैं",
+      "खाली कमरा",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं खाली कमरा देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: शौचालय, थाना",
+      "Practiced constructing sentences."
+    ]
+  }
+]

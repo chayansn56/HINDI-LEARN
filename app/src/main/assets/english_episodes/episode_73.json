@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 73",
+    "description": "Master the vocabulary and grammar for: Episode 73. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 73",
+    "title_vi": "Tập 73",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Elder Sister (दीदी).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chị gái."
+      },
+      {
+        "hindi": "Later, you encounter a To take (लेना​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Lấy / Nhận."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Elder Sister",
+        "isCorrect": true
+      },
+      {
+        "text": "To take",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Elder Sister.",
+    "simpleRule": "Remember: Elder Sister means दीदी (Chị gái)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Elder Sister",
+    "transliteration": "",
+    "english": "दीदी",
+    "vietnamese": "Chị gái",
+    "audio": "Elder Sister"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pain",
+    "transliteration": "",
+    "english": "दर्द",
+    "vietnamese": "Đau",
+    "audio": "Pain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Elder Sister'",
+    "prompt_en": "Choose correct translation for 'Elder Sister'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Elder Sister'",
+    "text": "Elder Sister",
+    "subtext": "",
+    "answer": "दीदी",
+    "answer_vi": "Chị gái",
+    "options": [
+      "दीदी",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​",
+      "दर्द",
+      "बैठना​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chị gái",
+      "Lấy / Nhận",
+      "Đau",
+      "Ngồi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Elder Sister",
+        "english": "दीदी (Chị gái)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Pain",
+        "english": "दर्द (Đau)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​ (Ngồi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Greetings (formal)",
+    "transliteration": "",
+    "english": "नमस्कार",
+    "vietnamese": "Xin kính chào (trang trọng)",
+    "audio": "Greetings (formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
+      "नमस्कार",
+      "sिखाना",
+      "पूछना​"
+    ],
+    "options_vi": [
+      "Nói",
+      "Xin kính chào (trang trọng)",
+      "Dạy",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Greetings (formal)",
+        "english": "नमस्कार (Xin kính chào (trang trọng))"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना (Dạy)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "समुद्र​​​​​​​​",
+      "धोना​​​​",
+      "खड़े होना​​​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Biển",
+      "Rửa / Giặt",
+      "Đứng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​​​​ (Biển)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​ (Đứng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Elder Sister",
+    "translation_en": "दीदी",
+    "translation_vi": "Chị gái",
+    "options_en": [
+      "दीदी",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​",
+      "दर्द",
+      "बैठना​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chị gái",
+      "Lấy / Nhận",
+      "Đau",
+      "Ngồi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the दीदी / Tôi thấy Chị gái",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Elder Sister"
+    ],
+    "correctHindiSentence": "I see the Elder Sister"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a लेना​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Lấy / Nhận",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To take"
+    ],
+    "correctHindiSentence": "I want a To take"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Elder Sister and To stand",
+      "Practiced constructing sentences."
+    ]
+  }
+]

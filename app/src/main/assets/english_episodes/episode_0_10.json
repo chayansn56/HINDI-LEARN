@@ -1,75 +1,304 @@
 [
   {
     "type": "Introduction",
-    "title": "Emergency Phrases",
-    "description": "Các cụm từ khẩn cấp cực kỳ quan trọng để kêu cứu hoặc yêu cầu gọi bác sĩ khi gặp sự cố.",
+    "title": "Episode 10",
+    "description": "Master the vocabulary and grammar for: Episode 10. Read the key points carefully.",
     "keyPoints": [
-      "Kêu cứu khẩn cấp: 'Help!'",
-      "Yêu cầu y tế: 'Call a doctor.'"
+      "Foundation Practice"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "Emergency Situations",
-    "title_vi": "Tình huống khẩn cấp",
-    "paragraphs": [
-      {
-        "hindi": "Help!",
-        "translation": "Cứu với!"
-      },
-      {
-        "hindi": "Call a doctor.",
-        "translation": "Gọi bác sĩ."
-      }
-    ],
-    "question_en": "What is the phrase used to ask for medical assistance?",
-    "question_vi": "Cụm từ nào dùng để yêu cầu trợ giúp y tế?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To clean.",
+    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "They / Those",
+    "transliteration": "",
+    "english": "वे",
+    "vietnamese": "Họ / Những cái kia",
+    "audio": "They / Those"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To clean'",
+    "prompt_en": "Choose correct translation for 'To clean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To clean'",
+    "text": "To clean",
+    "subtext": "",
+    "answer": "साफ करना​​​​​​​​​​​​​​​",
+    "answer_vi": "Dọn dẹp / Lau chùi",
     "options": [
+      "साफ करना​​​​​​​​​​​​​​​",
+      "गाँव​",
+      "वे",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dọn dẹp / Lau chùi",
+      "Ngôi làng",
+      "Họ / Những cái kia",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "Call a doctor.",
-        "isCorrect": true
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
       },
       {
-        "text": "Help!",
-        "isCorrect": false
+        "hindi": "Village",
+        "english": "गाँव​ (Ngôi làng)"
+      },
+      {
+        "hindi": "They / Those",
+        "english": "वे (Họ / Những cái kia)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Emergency Calls",
-    "explanation": "Trong tình huống khẩn cấp, hét to 'Help!' để thu hút sự chú ý và 'Call a doctor' nếu cần sự trợ giúp y tế khẩn cấp.",
-    "simpleRule": "Help! = Cứu tôi với! / Call a doctor = Gọi bác sĩ"
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: River.",
+    "simpleRule": "Remember: River means नदी​​​​​​​​​​ (Con sông)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "doctor",
-    "translation": "bác sĩ",
-    "contextSentenceHindi": "Call a doctor.",
-    "contextSentenceTranslation": "Gọi bác sĩ.",
-    "memoryTrick": "Doc-tor. Dễ nhớ đúng không nào?"
+    "type": "Flashcard",
+    "hindi": "River",
+    "transliteration": "",
+    "english": "नदी​​​​​​​​​​",
+    "vietnamese": "Con sông",
+    "audio": "River"
   },
   {
-    "type": "Listening",
-    "audio": "Call a doctor.",
-    "translation_en": "Call a doctor.",
-    "options_en": [
-      "Call a doctor.",
-      "Help!",
-      "How are you?",
-      "Straight ahead."
+    "type": "Flashcard",
+    "hindi": "Fire",
+    "transliteration": "",
+    "english": "आग​​​​​​​​​​",
+    "vietnamese": "Lửa",
+    "audio": "Fire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To them / him / her (formal)",
+    "transliteration": "",
+    "english": "उन्हें",
+    "vietnamese": "Cho họ / Cho ngài ấy",
+    "audio": "To them / him / her (formal)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'River'",
+    "prompt_en": "Choose correct translation for 'River'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'River'",
+    "text": "River",
+    "subtext": "",
+    "answer": "नदी​​​​​​​​​​",
+    "answer_vi": "Con sông",
+    "options": [
+      "नदी​​​​​​​​​​",
+      "आग​​​​​​​​​​",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "उन्हें"
     ],
-    "translation_vi": "Gọi bác sĩ.",
     "options_vi": [
-      "Gọi bác sĩ.",
-      "Cứu với!",
-      "Bạn khỏe không?",
-      "Đi thẳng."
+      "Con sông",
+      "Lửa",
+      "Nhìn / Xem",
+      "Cho họ / Cho ngài ấy"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "Call a doctor.",
-    "translation": "Gọi bác sĩ."
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "River",
+        "english": "नदी​​​​​​​​​​ (Con sông)"
+      },
+      {
+        "hindi": "Fire",
+        "english": "आग​​​​​​​​​​ (Lửa)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To them / him / her (formal)",
+        "english": "उन्हें (Cho họ / Cho ngài ấy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: When.",
+    "simpleRule": "Remember: When means कब (Khi nào)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When",
+    "transliteration": "",
+    "english": "कब",
+    "vietnamese": "Khi nào",
+    "audio": "When"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Trouble / Mess",
+    "transliteration": "",
+    "english": "लोचा",
+    "vietnamese": "Rắc rối / Hỗn loạn",
+    "audio": "Trouble / Mess"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "in front of / opposite",
+    "transliteration": "",
+    "english": "के सामने",
+    "vietnamese": "Trước / Đối diện",
+    "audio": "in front of / opposite"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'When'",
+    "prompt_en": "Choose correct translation for 'When'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'When'",
+    "text": "When",
+    "subtext": "",
+    "answer": "कब",
+    "answer_vi": "Khi nào",
+    "options": [
+      "कब",
+      "लोचा",
+      "के सामने",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Khi nào",
+      "Rắc rối / Hỗn loạn",
+      "Trước / Đối diện",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "When",
+        "english": "कब (Khi nào)"
+      },
+      {
+        "hindi": "Trouble / Mess",
+        "english": "लोचा (Rắc rối / Hỗn loạn)"
+      },
+      {
+        "hindi": "in front of / opposite",
+        "english": "के सामने (Trước / Đối diện)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To clean",
+    "translation_en": "साफ करना​​​​​​​​​​​​​​​",
+    "translation_vi": "Dọn dẹp / Lau chùi",
+    "options_en": [
+      "साफ करना​​​​​​​​​​​​​​​",
+      "गाँव​",
+      "वे",
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Dọn dẹp / Lau chùi",
+      "Ngôi làng",
+      "Họ / Những cái kia",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a साफ करना​​​​​​​​​​​​​​​ / Tôi có một Dọn dẹp / Lau chùi",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "To clean"
+    ],
+    "correctHindiSentence": "I have a To clean"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a गाँव​ / Đây là một Ngôi làng",
+    "hindiWords": [
+      "This",
+      "is",
+      "a",
+      "Village"
+    ],
+    "correctHindiSentence": "This is a Village"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To clean and To see / watch",
+      "Practiced constructing sentences."
+    ]
   }
 ]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 4",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 4. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दवाई.",
+    "simpleRule": "Remember: दवाई means Medicine (Thuốc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दवाई",
+    "transliteration": "dawai",
+    "english": "Medicine",
+    "vietnamese": "Thuốc",
+    "audio": "दवाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हॉस्पिटल",
+    "transliteration": "hospital",
+    "english": "Hospital",
+    "vietnamese": "Bệnh viện",
+    "audio": "हॉस्पिटल"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दवाई'",
+    "prompt_en": "Choose correct translation for 'दवाई'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दवाई'",
+    "text": "दवाई",
+    "subtext": "dawai",
+    "answer": "Medicine",
+    "answer_vi": "Thuốc",
+    "options": [
+      "Medicine",
+      "Fire",
+      "Help",
+      "Hospital"
+    ],
+    "options_vi": [
+      "Thuốc",
+      "Lửa",
+      "Sự giúp đỡ",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दवाई",
+        "english": "Medicine (Thuốc)"
+      },
+      {
+        "hindi": "आग​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मदद​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "हॉस्पिटल",
+        "english": "Hospital (Bệnh viện)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: डॉक्टर.",
+    "simpleRule": "Remember: डॉक्टर means Doctor (Bác sĩ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "डॉक्टर",
+    "transliteration": "ḍôkṭar",
+    "english": "Doctor",
+    "vietnamese": "Bác sĩ",
+    "audio": "डॉक्टर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'डॉक्टर'",
+    "prompt_en": "Choose correct translation for 'डॉक्टर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'डॉक्टर'",
+    "text": "डॉक्टर",
+    "subtext": "ḍôkṭar",
+    "answer": "Doctor",
+    "answer_vi": "Bác sĩ",
+    "options": [
+      "Doctor",
+      "Help",
+      "Fire",
+      "Help"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Sự giúp đỡ",
+      "Lửa",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "डॉक्टर",
+        "english": "Doctor (Bác sĩ)"
+      },
+      {
+        "hindi": "मदद​​​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "आग",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मदद​​",
+        "english": "Help (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दवाई",
+    "translation_en": "Medicine",
+    "translation_vi": "Thuốc",
+    "options_en": [
+      "Medicine",
+      "Fire",
+      "Help",
+      "Hospital"
+    ],
+    "options_vi": [
+      "Thuốc",
+      "Lửa",
+      "Sự giúp đỡ",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Medicine / Đây là Thuốc",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "दवाई",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक दवाई है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Fire / Tôi thấy Lửa",
+    "hindiWords": [
+      "मैं",
+      "आग​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं आग​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: दवाई, मदद​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

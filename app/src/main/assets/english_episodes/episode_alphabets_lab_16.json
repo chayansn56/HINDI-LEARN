@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 16",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 16. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tuesday",
+    "transliteration": "",
+    "english": "मंगलवार",
+    "vietnamese": "Thứ ba",
+    "audio": "Tuesday"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloth / Dress",
+    "transliteration": "",
+    "english": "कपड़ा",
+    "vietnamese": "Quần áo",
+    "audio": "Cloth / Dress"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​​​",
+      "मंगलवार",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "कपड़ा"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Thứ ba",
+      "Đi bộ / Di chuyển",
+      "Quần áo"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Tuesday",
+        "english": "मंगलवार (Thứ ba)"
+      },
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "Cloth / Dress",
+        "english": "कपड़ा (Quần áo)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Sea / Ocean.",
+    "simpleRule": "Remember: Sea / Ocean means समुद्र (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Brown",
+    "transliteration": "",
+    "english": "भूरा",
+    "vietnamese": "Màu nâu",
+    "audio": "Brown"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sea / Ocean'",
+    "prompt_en": "Choose correct translation for 'Sea / Ocean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
+    "text": "Sea / Ocean",
+    "subtext": "",
+    "answer": "समुद्र",
+    "answer_vi": "Biển",
+    "options": [
+      "समुद्र",
+      "भूरा",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Biển",
+      "Màu nâu",
+      "Kể / Giải thích",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र (Biển)"
+      },
+      {
+        "hindi": "Brown",
+        "english": "भूरा (Màu nâu)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To learn.",
+    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pain",
+    "transliteration": "",
+    "english": "दर्द",
+    "vietnamese": "Đau",
+    "audio": "Pain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To learn'",
+    "prompt_en": "Choose correct translation for 'To learn'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
+    "text": "To learn",
+    "subtext": "",
+    "answer": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Học",
+    "options": [
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "दफ़्तर​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​",
+      "दर्द"
+    ],
+    "options_vi": [
+      "Học",
+      "Văn phòng",
+      "Viết",
+      "Đau"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "Pain",
+        "english": "दर्द (Đau)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To see / watch.",
+    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Daughter-in-law",
+    "transliteration": "",
+    "english": "बहू",
+    "vietnamese": "Con dâu / Vợ",
+    "audio": "Daughter-in-law"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Heart",
+    "transliteration": "",
+    "english": "दिल",
+    "vietnamese": "Trái tim",
+    "audio": "Heart"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To see / watch'",
+    "prompt_en": "Choose correct translation for 'To see / watch'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
+    "text": "To see / watch",
+    "subtext": "",
+    "answer": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​",
+      "बहू",
+      "दिल"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Đọc",
+      "Con dâu / Vợ",
+      "Trái tim"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "Daughter-in-law",
+        "english": "बहू (Con dâu / Vợ)"
+      },
+      {
+        "hindi": "Heart",
+        "english": "दिल (Trái tim)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Snow / Ice",
+    "translation_en": "बर्फ़​​​​​​​​",
+    "translation_vi": "Tuyết / Đá",
+    "options_en": [
+      "बर्फ़​​​​​​​​",
+      "मंगलवार",
+      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "कपड़ा"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Thứ ba",
+      "Đi bộ / Di chuyển",
+      "Quần áo"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a बर्फ़​​​​​​​​ / Nó là một Tuyết / Đá",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "It is a Snow / Ice"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like मंगलवार / Tôi thích Thứ ba",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Tuesday"
+    ],
+    "correctHindiSentence": "I really like Tuesday"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Snow / Ice and Heart",
+      "Practiced constructing sentences."
+    ]
+  }
+]

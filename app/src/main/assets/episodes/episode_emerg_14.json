@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 14",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 14. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दवाई.",
+    "simpleRule": "Remember: दवाई means Medicine (Thuốc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दवाई",
+    "transliteration": "dawai",
+    "english": "Medicine",
+    "vietnamese": "Thuốc",
+    "audio": "दवाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दवाई'",
+    "prompt_en": "Choose correct translation for 'दवाई'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दवाई'",
+    "text": "दवाई",
+    "subtext": "dawai",
+    "answer": "Medicine",
+    "answer_vi": "Thuốc",
+    "options": [
+      "Medicine",
+      "Help",
+      "Fire",
+      "Help"
+    ],
+    "options_vi": [
+      "Thuốc",
+      "Sự giúp đỡ",
+      "Lửa",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दवाई",
+        "english": "Medicine (Thuốc)"
+      },
+      {
+        "hindi": "मदद​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "आग​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मदद​​​",
+        "english": "Help (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मदद करना.",
+    "simpleRule": "Remember: मदद करना means to help (Giúp đỡ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद करना",
+    "transliteration": "madad karna",
+    "english": "to help",
+    "vietnamese": "Giúp đỡ",
+    "audio": "मदद करना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अस्पताल",
+    "transliteration": "aspataal",
+    "english": "Hospital",
+    "vietnamese": "Bệnh viện",
+    "audio": "अस्पताल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मदद करना'",
+    "prompt_en": "Choose correct translation for 'मदद करना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद करना'",
+    "text": "मदद करना",
+    "subtext": "madad karna",
+    "answer": "to help",
+    "answer_vi": "Giúp đỡ",
+    "options": [
+      "to help",
+      "Help",
+      "Hospital",
+      "Fire"
+    ],
+    "options_vi": [
+      "Giúp đỡ",
+      "Sự giúp đỡ",
+      "Bệnh viện",
+      "Lửa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मदद करना",
+        "english": "to help (Giúp đỡ)"
+      },
+      {
+        "hindi": "मदद​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "अस्पताल",
+        "english": "Hospital (Bệnh viện)"
+      },
+      {
+        "hindi": "आग​​​​​",
+        "english": "Fire (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दवाई",
+    "translation_en": "Medicine",
+    "translation_vi": "Thuốc",
+    "options_en": [
+      "Medicine",
+      "Help",
+      "Fire",
+      "Help"
+    ],
+    "options_vi": [
+      "Thuốc",
+      "Sự giúp đỡ",
+      "Lửa",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Medicine / Đây là Thuốc",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "दवाई",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक दवाई है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Help / Tôi thấy Sự giúp đỡ",
+    "hindiWords": [
+      "मैं",
+      "मदद​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मदद​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: दवाई, आग​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

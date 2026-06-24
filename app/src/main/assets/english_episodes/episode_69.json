@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 69",
+    "description": "Master the vocabulary and grammar for: Episode 69. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 69",
+    "title_vi": "Tập 69",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To eat / Food (खाना).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Ăn / Đồ ăn."
+      },
+      {
+        "hindi": "Later, you encounter a Help (मदद​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Sự giúp đỡ."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To eat / Food",
+        "isCorrect": true
+      },
+      {
+        "text": "Help",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To eat / Food.",
+    "simpleRule": "Remember: To eat / Food means खाना (Ăn / Đồ ăn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To eat / Food",
+    "transliteration": "",
+    "english": "खाना",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "To eat / Food"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​​​​​​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "inside of",
+    "transliteration": "",
+    "english": "के अंदर",
+    "vietnamese": "Bên trong của",
+    "audio": "inside of"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To eat / Food'",
+    "prompt_en": "Choose correct translation for 'To eat / Food'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To eat / Food'",
+    "text": "To eat / Food",
+    "subtext": "",
+    "answer": "खाना",
+    "answer_vi": "Ăn / Đồ ăn",
+    "options": [
+      "खाना",
+      "मदद​​​​​​​​",
+      "के अंदर",
+      "बादल​​​​"
+    ],
+    "options_vi": [
+      "Ăn / Đồ ăn",
+      "Sự giúp đỡ",
+      "Bên trong của",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To eat / Food",
+        "english": "खाना (Ăn / Đồ ăn)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "inside of",
+        "english": "के अंदर (Bên trong của)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​​ (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To stand.",
+    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​ (Đứng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "were (masculine plural)",
+    "transliteration": "",
+    "english": "थे",
+    "vietnamese": "Đã là (nam số nhiều)",
+    "audio": "were (masculine plural)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Do you remember?",
+    "transliteration": "",
+    "english": "क्या आपको याद है?",
+    "vietnamese": "Bạn có nhớ không?",
+    "audio": "Do you remember?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To stand'",
+    "prompt_en": "Choose correct translation for 'To stand'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
+    "text": "To stand",
+    "subtext": "",
+    "answer": "खड़े होना​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đứng",
+    "options": [
+      "खड़े होना​​​​​​​​​​​​​​​​",
+      "थे",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "क्या आपको याद है?"
+    ],
+    "options_vi": [
+      "Đứng",
+      "Đã là (nam số nhiều)",
+      "Chạy",
+      "Bạn có nhớ không?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "were (masculine plural)",
+        "english": "थे (Đã là (nam số nhiều))"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "Do you remember?",
+        "english": "क्या आपको याद है? (Bạn có nhớ không?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​​​​​ (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "My (feminine)",
+    "transliteration": "",
+    "english": "मेरी",
+    "vietnamese": "Của tôi (giống cái)",
+    "audio": "My (feminine)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​​​​​",
+    "answer_vi": "Dạy",
+    "options": [
+      "sिखाना​​​​​​",
+      "साफ करना​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मेरी"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Dọn dẹp / Lau chùi",
+      "Nói",
+      "Của tôi (giống cái)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "My (feminine)",
+        "english": "मेरी (Của tôi (giống cái))"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To eat / Food",
+    "translation_en": "खाना",
+    "translation_vi": "Ăn / Đồ ăn",
+    "options_en": [
+      "खाना",
+      "मदद​​​​​​​​",
+      "के अंदर",
+      "बादल​​​​"
+    ],
+    "options_vi": [
+      "Ăn / Đồ ăn",
+      "Sự giúp đỡ",
+      "Bên trong của",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the खाना / Tôi thấy Ăn / Đồ ăn",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To eat / Food"
+    ],
+    "correctHindiSentence": "I see the To eat / Food"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a मदद​​​​​​​​ / Tôi muốn Sự giúp đỡ",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Help"
+    ],
+    "correctHindiSentence": "I want a Help"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To eat / Food and My (feminine)",
+      "Practiced constructing sentences."
+    ]
+  }
+]

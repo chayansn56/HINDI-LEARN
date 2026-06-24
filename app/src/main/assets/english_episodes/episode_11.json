@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 11",
+    "description": "Master the vocabulary and grammar for: Episode 11. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 11",
+    "title_vi": "Tập 11",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To work (काम करना​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Làm việc."
+      },
+      {
+        "hindi": "Later, you encounter a To play (खेलना​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Chơi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To work",
+        "isCorrect": true
+      },
+      {
+        "text": "To play",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To work.",
+    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To work'",
+    "prompt_en": "Choose correct translation for 'To work'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
+    "text": "To work",
+    "subtext": "",
+    "answer": "काम करना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Làm việc",
+    "options": [
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​​​​​"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Chơi",
+      "Chạy",
+      "Mua"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​ (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To do.",
+    "simpleRule": "Remember: To do means करना​​​​​​​​​​​​ (Làm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Auspicious necklace",
+    "transliteration": "",
+    "english": "मंगलसूत्र",
+    "vietnamese": "Dây chuyền cưới Mangalsutra",
+    "audio": "Auspicious necklace"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To do'",
+    "prompt_en": "Choose correct translation for 'To do'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
+    "text": "To do",
+    "subtext": "",
+    "answer": "करना​​​​​​​​​​​​",
+    "answer_vi": "Làm",
+    "options": [
+      "करना​​​​​​​​​​​​",
+      "मंगलसूत्र",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Làm",
+      "Dây chuyền cưới Mangalsutra",
+      "Ngủ",
+      "Đóng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​ (Làm)"
+      },
+      {
+        "hindi": "Auspicious necklace",
+        "english": "मंगलसूत्र (Dây chuyền cưới Mangalsutra)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To take.",
+    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloth / Dress",
+    "transliteration": "",
+    "english": "कपड़ा​​",
+    "vietnamese": "Quần áo",
+    "audio": "Cloth / Dress"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To take'",
+    "prompt_en": "Choose correct translation for 'To take'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
+    "text": "To take",
+    "subtext": "",
+    "answer": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Lấy / Nhận",
+    "options": [
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "कपड़ा​​",
+      "साफ करना​​​​​​​​​​​​​​",
+      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Lấy / Nhận",
+      "Quần áo",
+      "Dọn dẹp / Lau chùi",
+      "Nhìn / Xem"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Cloth / Dress",
+        "english": "कपड़ा​​ (Quần áo)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To work",
+    "translation_en": "काम करना​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Làm việc",
+    "options_en": [
+      "काम करना​​​​​​​​​​​​​​​​​​​​​​",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना​​​​​​"
+    ],
+    "options_vi": [
+      "Làm việc",
+      "Chơi",
+      "Chạy",
+      "Mua"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the काम करना​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Làm việc",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To work"
+    ],
+    "correctHindiSentence": "I see the To work"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a खेलना​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Chơi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To play"
+    ],
+    "correctHindiSentence": "I want a To play"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To work and To see / watch",
+      "Practiced constructing sentences."
+    ]
+  }
+]

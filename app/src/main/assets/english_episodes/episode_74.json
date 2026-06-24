@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 74",
+    "description": "Master the vocabulary and grammar for: Episode 74. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 74",
+    "title_vi": "Tập 74",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To tell / explain (बताना​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Kể / Giải thích."
+      },
+      {
+        "hindi": "Later, you encounter a To sing (गाना​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Hát."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To tell / explain",
+        "isCorrect": true
+      },
+      {
+        "text": "To sing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To tell / explain.",
+    "simpleRule": "Remember: To tell / explain means बताना​​​​​​​​​​​​​ (Kể / Giải thích)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to begin to / to feel",
+    "transliteration": "",
+    "english": "लगना",
+    "vietnamese": "Bắt đầu / Cảm thấy",
+    "audio": "to begin to / to feel"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To tell / explain'",
+    "prompt_en": "Choose correct translation for 'To tell / explain'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To tell / explain'",
+    "text": "To tell / explain",
+    "subtext": "",
+    "answer": "बताना​​​​​​​​​​​​​",
+    "answer_vi": "Kể / Giải thích",
+    "options": [
+      "बताना​​​​​​​​​​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लगना"
+    ],
+    "options_vi": [
+      "Kể / Giải thích",
+      "Hát",
+      "Lấy / Nhận",
+      "Bắt đầu / Cảm thấy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "to begin to / to feel",
+        "english": "लगना (Bắt đầu / Cảm thấy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Thursday.",
+    "simpleRule": "Remember: Thursday means गुरुवार (Thứ năm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Thursday",
+    "transliteration": "",
+    "english": "गुरुवार",
+    "vietnamese": "Thứ năm",
+    "audio": "Thursday"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hey!",
+    "transliteration": "",
+    "english": "ओये",
+    "vietnamese": "Này!",
+    "audio": "Hey!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Air / Wind",
+    "transliteration": "",
+    "english": "हवा",
+    "vietnamese": "Không khí / Gió",
+    "audio": "Air / Wind"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "were (masculine plural)",
+    "transliteration": "",
+    "english": "थे",
+    "vietnamese": "Đã là (nam số nhiều)",
+    "audio": "were (masculine plural)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Thursday'",
+    "prompt_en": "Choose correct translation for 'Thursday'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Thursday'",
+    "text": "Thursday",
+    "subtext": "",
+    "answer": "गुरुवार",
+    "answer_vi": "Thứ năm",
+    "options": [
+      "गुरुवार",
+      "ओये",
+      "हवा",
+      "थे"
+    ],
+    "options_vi": [
+      "Thứ năm",
+      "Này!",
+      "Không khí / Gió",
+      "Đã là (nam số nhiều)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Thursday",
+        "english": "गुरुवार (Thứ năm)"
+      },
+      {
+        "hindi": "Hey!",
+        "english": "ओये (Này!)"
+      },
+      {
+        "hindi": "Air / Wind",
+        "english": "हवा (Không khí / Gió)"
+      },
+      {
+        "hindi": "were (masculine plural)",
+        "english": "थे (Đã là (nam số nhiều))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: to have to / obligation.",
+    "simpleRule": "Remember: to have to / obligation means पड़ना (Phải / Bắt buộc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to have to / obligation",
+    "transliteration": "",
+    "english": "पड़ना",
+    "vietnamese": "Phải / Bắt buộc",
+    "audio": "to have to / obligation"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Are you joking?",
+    "transliteration": "",
+    "english": "मज़ाक कर रहे हो क्या?",
+    "vietnamese": "Bạn đùa à?",
+    "audio": "Are you joking?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'to have to / obligation'",
+    "prompt_en": "Choose correct translation for 'to have to / obligation'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'to have to / obligation'",
+    "text": "to have to / obligation",
+    "subtext": "",
+    "answer": "पड़ना",
+    "answer_vi": "Phải / Bắt buộc",
+    "options": [
+      "पड़ना",
+      "मज़ाक कर रहे हो क्या?",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "धोना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Phải / Bắt buộc",
+      "Bạn đùa à?",
+      "Dạy",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "to have to / obligation",
+        "english": "पड़ना (Phải / Bắt buộc)"
+      },
+      {
+        "hindi": "Are you joking?",
+        "english": "मज़ाक कर रहे हो क्या? (Bạn đùa à?)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To tell / explain",
+    "translation_en": "बताना​​​​​​​​​​​​​",
+    "translation_vi": "Kể / Giải thích",
+    "options_en": [
+      "बताना​​​​​​​​​​​​​",
+      "गाना​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लगना"
+    ],
+    "options_vi": [
+      "Kể / Giải thích",
+      "Hát",
+      "Lấy / Nhận",
+      "Bắt đầu / Cảm thấy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बताना​​​​​​​​​​​​​ / Tôi thấy Kể / Giải thích",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To tell / explain"
+    ],
+    "correctHindiSentence": "I see the To tell / explain"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To sing"
+    ],
+    "correctHindiSentence": "I want a To sing"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To tell / explain and To wash",
+      "Practiced constructing sentences."
+    ]
+  }
+]

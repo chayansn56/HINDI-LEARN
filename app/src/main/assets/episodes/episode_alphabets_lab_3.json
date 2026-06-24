@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 3",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 3. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: sिखाना​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: sिखाना​​​​​​​​​​​​​​​​​​ means To teach (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sikhānā",
+    "english": "To teach",
+    "vietnamese": "Dạy",
+    "audio": "sिखाना​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sīkhnā",
+    "english": "To learn",
+    "vietnamese": "Học",
+    "audio": "सीखना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'sिखाना​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'sिखाना​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​​​​​​​​​​​​​​​​​​'",
+    "text": "sिखाना​​​​​​​​​​​​​​​​​​",
+    "subtext": "sikhānā",
+    "answer": "To teach",
+    "answer_vi": "Dạy",
+    "options": [
+      "To teach",
+      "To write",
+      "To ask",
+      "To learn"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Viết",
+      "Hỏi",
+      "Học"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​",
+        "english": "To teach (Dạy)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      },
+      {
+        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​",
+        "english": "To ask (Hỏi)"
+      },
+      {
+        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​",
+        "english": "To learn (Học)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: साफ करना​​​​​.",
+    "simpleRule": "Remember: साफ करना​​​​​ means To clean (Dọn dẹp / Lau chùi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साफ करना​​​​​",
+    "transliteration": "sāf karnā",
+    "english": "To clean",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "साफ करना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "calnā",
+    "english": "To walk / move",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना​​​​​​​​​​​​​​​",
+    "transliteration": "lenā",
+    "english": "To take",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "लेना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'साफ करना​​​​​'",
+    "prompt_en": "Choose correct translation for 'साफ करना​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'साफ करना​​​​​'",
+    "text": "साफ करना​​​​​",
+    "subtext": "sāf karnā",
+    "answer": "To clean",
+    "answer_vi": "Dọn dẹp / Lau chùi",
+    "options": [
+      "To clean",
+      "To walk / move",
+      "To speak",
+      "To take"
+    ],
+    "options_vi": [
+      "Dọn dẹp / Lau chùi",
+      "Đi bộ / Di chuyển",
+      "Nói",
+      "Lấy / Nhận"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "साफ करना​​​​​",
+        "english": "To clean (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To walk / move (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "लेना​​​​​​​​​​​​​​​",
+        "english": "To take (Lấy / Nhận)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "sिखाना​​​​​​​​​​​​​​​​​​",
+    "translation_en": "To teach",
+    "translation_vi": "Dạy",
+    "options_en": [
+      "To teach",
+      "To write",
+      "To ask",
+      "To learn"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Viết",
+      "Hỏi",
+      "Học"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a To teach / Đây là Dạy",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "sिखाना​​​​​​​​​​​​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक sिखाना​​​​​​​​​​​​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To write / Tôi thấy Viết",
+    "hindiWords": [
+      "मैं",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: sिखाना​​​​​​​​​​​​​​​​​​, लेना​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

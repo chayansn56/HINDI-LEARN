@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 16",
+    "description": "Master the vocabulary and grammar for: Speak - Level 16. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please say it again.",
+    "transliteration": "",
+    "english": "फिर से कहिए।",
+    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "audio": "Please say it again."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No problem / It's okay.",
+    "transliteration": "",
+    "english": "कोई बात नहीं।",
+    "vietnamese": "Không sao đâu.",
+    "audio": "No problem / It's okay."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​",
+      "फिर से कहिए।",
+      "कापी​​​​​​​​​",
+      "कोई बात नहीं।"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Làm ơn nói lại lần nữa.",
+      "Sổ tay",
+      "Không sao đâu."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Please say it again.",
+        "english": "फिर से कहिए। (Làm ơn nói lại lần nữa.)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "No problem / It's okay.",
+        "english": "कोई बात नहीं। (Không sao đâu.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Now.",
+    "simpleRule": "Remember: Now means अब (Bây giờ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Now",
+    "transliteration": "",
+    "english": "अब",
+    "vietnamese": "Bây giờ",
+    "audio": "Now"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When",
+    "transliteration": "",
+    "english": "कब",
+    "vietnamese": "Khi nào",
+    "audio": "When"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Knowledge",
+    "transliteration": "",
+    "english": "विद्या",
+    "vietnamese": "Kiến thức",
+    "audio": "Knowledge"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Now'",
+    "prompt_en": "Choose correct translation for 'Now'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Now'",
+    "text": "Now",
+    "subtext": "",
+    "answer": "अब",
+    "answer_vi": "Bây giờ",
+    "options": [
+      "अब",
+      "कब",
+      "कापी​​​​​​",
+      "विद्या"
+    ],
+    "options_vi": [
+      "Bây giờ",
+      "Khi nào",
+      "Sổ tay",
+      "Kiến thức"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Now",
+        "english": "अब (Bây giờ)"
+      },
+      {
+        "hindi": "When",
+        "english": "कब (Khi nào)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Knowledge",
+        "english": "विद्या (Kiến thức)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: I don't know..",
+    "simpleRule": "Remember: I don't know. means पता नहीं। (Tôi không biết.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know.",
+    "transliteration": "",
+    "english": "पता नहीं।",
+    "vietnamese": "Tôi không biết.",
+    "audio": "I don't know."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, I am ready.",
+    "transliteration": "",
+    "english": "हाँ, मैं तैयार हूँ।",
+    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "audio": "Yes, I am ready."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello, how are you?",
+    "transliteration": "",
+    "english": "नमस्ते, आप कैसे हैं?",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "Hello, how are you?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I don't know.'",
+    "prompt_en": "Choose correct translation for 'I don't know.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I don't know.'",
+    "text": "I don't know.",
+    "subtext": "",
+    "answer": "पता नहीं।",
+    "answer_vi": "Tôi không biết.",
+    "options": [
+      "पता नहीं।",
+      "हाँ, मैं तैयार हूँ।",
+      "बर्फ़​",
+      "नमस्ते, आप कैसे हैं?"
+    ],
+    "options_vi": [
+      "Tôi không biết.",
+      "Vâng, tôi sẵn sàng rồi.",
+      "Tuyết / Đá",
+      "Xin chào, bạn khỏe không?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I don't know.",
+        "english": "पता नहीं। (Tôi không biết.)"
+      },
+      {
+        "hindi": "Yes, I am ready.",
+        "english": "हाँ, मैं तैयार हूँ। (Vâng, tôi sẵn sàng rồi.)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Hello, how are you?",
+        "english": "नमस्ते, आप कैसे हैं? (Xin chào, bạn khỏe không?)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Yes, I am sure..",
+    "simpleRule": "Remember: Yes, I am sure. means हाँ, मुझे यकीन है। (Vâng, tôi chắc chắn.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, I am sure.",
+    "transliteration": "",
+    "english": "हाँ, मुझे यकीन है।",
+    "vietnamese": "Vâng, tôi chắc chắn.",
+    "audio": "Yes, I am sure."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "When (relative)",
+    "transliteration": "",
+    "english": "जब",
+    "vietnamese": "Khi mà",
+    "audio": "When (relative)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "to know",
+    "transliteration": "",
+    "english": "जानना",
+    "vietnamese": "Biết",
+    "audio": "to know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What / [Question Marker]",
+    "transliteration": "",
+    "english": "क्या",
+    "vietnamese": "Cái gì",
+    "audio": "What / [Question Marker]"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yes, I am sure.'",
+    "prompt_en": "Choose correct translation for 'Yes, I am sure.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yes, I am sure.'",
+    "text": "Yes, I am sure.",
+    "subtext": "",
+    "answer": "हाँ, मुझे यकीन है।",
+    "answer_vi": "Vâng, tôi chắc chắn.",
+    "options": [
+      "हाँ, मुझे यकीन है।",
+      "जब",
+      "जानना",
+      "क्या"
+    ],
+    "options_vi": [
+      "Vâng, tôi chắc chắn.",
+      "Khi mà",
+      "Biết",
+      "Cái gì"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yes, I am sure.",
+        "english": "हाँ, मुझे यकीन है। (Vâng, tôi chắc chắn.)"
+      },
+      {
+        "hindi": "When (relative)",
+        "english": "जब (Khi mà)"
+      },
+      {
+        "hindi": "to know",
+        "english": "जानना (Biết)"
+      },
+      {
+        "hindi": "What / [Question Marker]",
+        "english": "क्या (Cái gì)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Snow / Ice",
+    "translation_en": "बर्फ़​​​​​​",
+    "translation_vi": "Tuyết / Đá",
+    "options_en": [
+      "बर्फ़​​​​​​",
+      "फिर से कहिए।",
+      "कापी​​​​​​​​​",
+      "कोई बात नहीं।"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Làm ơn nói lại lần nữa.",
+      "Sổ tay",
+      "Không sao đâu."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a बर्फ़​​​​​​ / Nó là một Tuyết / Đá",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "It is a Snow / Ice"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like फिर से कहिए। / Tôi thích Làm ơn nói lại lần nữa.",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Please say it again."
+    ],
+    "correctHindiSentence": "I really like Please say it again."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Snow / Ice and What / [Question Marker]",
+      "Practiced constructing sentences."
+    ]
+  }
+]

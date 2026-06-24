@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Lesson 4",
-    "description": "Learn key vocabulary and concepts for Gram - Lesson 4. Listen carefully and read along in English and Vietnamese.",
+    "title": "Gram - Level 4",
+    "description": "Master the vocabulary and grammar for: Gram - Level 4. Read the key points carefully.",
     "keyPoints": [
-      "आना (aana) = to come / Đến",
-      "कपड़ा​​ (kapṛā) = Cloth / Dress / Quần áo",
-      "जूता​​​​​​ (jūtā) = Shoe / Giày"
+      "Learn gram concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 4",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: आना means 'to come' (Đến)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: इश्क़.",
+    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
   },
   {
     "type": "Flashcard",
-    "hindi": "आना",
-    "transliteration": "aana",
-    "english": "to come",
-    "vietnamese": "Đến",
-    "audio": "आना"
+    "hindi": "इश्क़",
+    "transliteration": "ishq",
+    "english": "Love (intense)",
+    "vietnamese": "Tình yêu sâu đậm",
+    "audio": "इश्क़"
   },
   {
     "type": "Flashcard",
-    "hindi": "कपड़ा​​",
-    "transliteration": "kapṛā",
-    "english": "Cloth / Dress",
-    "vietnamese": "Quần áo",
-    "audio": "कपड़ा​​"
+    "hindi": "सुनना​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​​​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'आना'",
-    "prompt_en": "Choose the correct translation for 'आना'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'आना'",
-    "text": "आना",
-    "subtext": "aana",
-    "answer": "to come",
-    "answer_vi": "Đến",
+    "prompt": "Translate 'इश्क़'",
+    "prompt_en": "Choose correct translation for 'इश्क़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
+    "text": "इश्क़",
+    "subtext": "ishq",
+    "answer": "Love (intense)",
+    "answer_vi": "Tình yêu sâu đậm",
     "options": [
-      "to come",
-      "Shoe",
-      "Cloth / Dress",
-      "Office"
+      "Love (intense)",
+      "To listen / hear",
+      "Cloud",
+      "Fire"
     ],
     "options_vi": [
-      "Đến",
-      "Giày",
-      "Quần áo",
-      "Văn phòng"
+      "Tình yêu sâu đậm",
+      "Nghe",
+      "Đám mây",
+      "Lửa"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "जूता​​​​​​",
-    "transliteration": "jūtā",
-    "english": "Shoe",
-    "vietnamese": "Giày",
-    "audio": "जूता​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "इश्क़",
+        "english": "Love (intense) (Tình yêu sâu đậm)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "बादल​​​​​​​​​",
+        "english": "Cloud (Đám mây)"
+      },
+      {
+        "hindi": "आग​​​​​​​",
+        "english": "Fire (Lửa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To close (Đóng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​",
-    "transliteration": "daftar",
-    "english": "Office",
-    "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​"
+    "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "band karnā",
+    "english": "To close",
+    "vietnamese": "Đóng",
+    "audio": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तीर्थयात्रा",
+    "transliteration": "teerthyaatra",
+    "english": "Pilgrimage",
+    "vietnamese": "Cuộc hành hương",
+    "audio": "तीर्थयात्रा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बैठना​​​​​​​​​​​",
+    "transliteration": "baiṭhnā",
+    "english": "To sit",
+    "vietnamese": "Ngồi",
+    "audio": "बैठना​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "ronā",
+    "english": "To cry",
+    "vietnamese": "Khóc",
+    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "band karnā",
+    "answer": "To close",
+    "answer_vi": "Đóng",
+    "options": [
+      "To close",
+      "Pilgrimage",
+      "To sit",
+      "To cry"
+    ],
+    "options_vi": [
+      "Đóng",
+      "Cuộc hành hương",
+      "Ngồi",
+      "Khóc"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "आना",
-        "english": "to come (Đến)"
+        "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To close (Đóng)"
       },
       {
-        "hindi": "कपड़ा​​",
-        "english": "Cloth / Dress (Quần áo)"
+        "hindi": "तीर्थयात्रा",
+        "english": "Pilgrimage (Cuộc hành hương)"
       },
       {
-        "hindi": "जूता​​​​​​",
-        "english": "Shoe (Giày)"
+        "hindi": "बैठना​​​​​​​​​​​",
+        "english": "To sit (Ngồi)"
       },
       {
-        "hindi": "दफ़्तर​​​",
-        "english": "Office (Văn phòng)"
+        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To cry (Khóc)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "कपड़ा​​",
-    "translation_en": "Cloth / Dress",
-    "translation_vi": "Quần áo",
+    "audio": "इश्क़",
+    "translation_en": "Love (intense)",
+    "translation_vi": "Tình yêu sâu đậm",
     "options_en": [
-      "Cloth / Dress",
-      "Shoe",
-      "Office",
-      "to come"
+      "Love (intense)",
+      "To listen / hear",
+      "Cloud",
+      "Fire"
     ],
     "options_vi": [
-      "Quần áo",
-      "Giày",
-      "Văn phòng",
-      "Đến"
+      "Tình yêu sâu đậm",
+      "Nghe",
+      "Đám mây",
+      "Lửa"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I drink water / Tôi uống nước",
+    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
     "hindiWords": [
-      "मैं",
-      "पानी",
-      "पीता",
-      "हूँ",
-      "दूध",
+      "यह",
+      "एक",
+      "इश्क़",
       "है"
     ],
-    "correctHindiSentence": "मैं पानी पीता हूँ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "तारा​​​​",
-    "transliteration": "tārā",
-    "english": "Star",
-    "vietnamese": "Ngôi sao",
-    "audio": "तारा​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पैसा​​​​​",
-    "transliteration": "paisā",
-    "english": "Money",
-    "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "जूता​​​​​​",
-        "english": "Shoe (Giày)"
-      },
-      {
-        "hindi": "दफ़्तर​​​",
-        "english": "Office (Văn phòng)"
-      },
-      {
-        "hindi": "तारा​​​​",
-        "english": "Star (Ngôi sao)"
-      },
-      {
-        "hindi": "पैसा​​​​​",
-        "english": "Money (Tiền)"
-      }
-    ]
+    "correctHindiSentence": "यह एक इश्क़ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "He is a boy / Cậu ấy là một cậu bé",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
-      "वह",
-      "लड़का",
-      "है",
-      "हूँ",
-      "वे"
+      "मैं",
+      "सुनना​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "वह लड़का है"
+    "correctHindiSentence": "मैं सुनना​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: आना, जूता​​​​​​, तारा​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'He is a boy'."
+      "You learned: इश्क़, रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

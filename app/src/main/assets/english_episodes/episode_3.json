@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 3",
+    "description": "Master the vocabulary and grammar for: Episode 3. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 3",
+    "title_vi": "Tập 3",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To run (दौड़ना​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Chạy."
+      },
+      {
+        "hindi": "Later, you encounter a To close (बंद करना​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Đóng."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To run",
+        "isCorrect": true
+      },
+      {
+        "text": "To close",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To run.",
+    "simpleRule": "Remember: To run means दौड़ना​​​​​​​​​​​ (Chạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​​​​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To run'",
+    "prompt_en": "Choose correct translation for 'To run'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
+    "text": "To run",
+    "subtext": "",
+    "answer": "दौड़ना​​​​​​​​​​​",
+    "answer_vi": "Chạy",
+    "options": [
+      "दौड़ना​​​​​​​​​​​",
+      "बंद करना​​​​​​",
+      "खेलना​​​​​",
+      "समुद्र​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Đóng",
+      "Chơi",
+      "Biển"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​​​​​ (Đóng)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​​​​​ (Biển)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To sleep.",
+    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​ (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Henna / Mehndi",
+    "transliteration": "",
+    "english": "मेहंदी",
+    "vietnamese": "Nghệ thuật vẽ Henna",
+    "audio": "Henna / Mehndi"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "One",
+    "transliteration": "",
+    "english": "एक",
+    "vietnamese": "Số một",
+    "audio": "One"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sleep'",
+    "prompt_en": "Choose correct translation for 'To sleep'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
+    "text": "To sleep",
+    "subtext": "",
+    "answer": "सोना​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngủ",
+    "options": [
+      "सोना​​​​​​​​​​​​​​​​",
+      "लिखना​",
+      "मेहंदी",
+      "एक"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Viết",
+      "Nghệ thuật vẽ Henna",
+      "Số một"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​ (Viết)"
+      },
+      {
+        "hindi": "Henna / Mehndi",
+        "english": "मेहंदी (Nghệ thuật vẽ Henna)"
+      },
+      {
+        "hindi": "One",
+        "english": "एक (Số một)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To sit.",
+    "simpleRule": "Remember: To sit means बैठना​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To see / watch",
+    "transliteration": "",
+    "english": "देखना​​​​​​​​​​​",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "To see / watch"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sit'",
+    "prompt_en": "Choose correct translation for 'To sit'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sit'",
+    "text": "To sit",
+    "subtext": "",
+    "answer": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngồi",
+    "options": [
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना​​​​​​​​​​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngồi",
+      "Nghe",
+      "Nhìn / Xem",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To see / watch",
+        "english": "देखना​​​​​​​​​​​ (Nhìn / Xem)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To run",
+    "translation_en": "दौड़ना​​​​​​​​​​​",
+    "translation_vi": "Chạy",
+    "options_en": [
+      "दौड़ना​​​​​​​​​​​",
+      "बंद करना​​​​​​",
+      "खेलना​​​​​",
+      "समुद्र​​​​​​​​"
+    ],
+    "options_vi": [
+      "Chạy",
+      "Đóng",
+      "Chơi",
+      "Biển"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the दौड़ना​​​​​​​​​​​ / Tôi thấy Chạy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To run"
+    ],
+    "correctHindiSentence": "I see the To run"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a बंद करना​​​​​​ / Tôi muốn Đóng",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To close"
+    ],
+    "correctHindiSentence": "I want a To close"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To run and To speak",
+      "Practiced constructing sentences."
+    ]
+  }
+]

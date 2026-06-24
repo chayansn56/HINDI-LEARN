@@ -1,75 +1,304 @@
 [
   {
     "type": "Introduction",
-    "title": "Expressing Likes",
-    "description": "Tìm hiểu cách nói rằng bạn thích một thứ gì đó và hỏi xem người khác có thích trà hay không.",
+    "title": "Episode 7",
+    "description": "Master the vocabulary and grammar for: Episode 7. Read the key points carefully.",
     "keyPoints": [
-      "Bày tỏ sở thích: 'I like this.'",
-      "Hỏi sở thích: 'Do you like tea?'"
+      "Foundation Practice"
     ]
   },
   {
-    "type": "StoryMode",
-    "title_en": "Expressing Likes",
-    "title_vi": "Bày tỏ sở thích",
-    "paragraphs": [
-      {
-        "hindi": "I like this.",
-        "translation": "Tôi thích cái này."
-      },
-      {
-        "hindi": "Do you like tea?",
-        "translation": "Bạn có thích trà không?"
-      }
-    ],
-    "question_en": "What is the translation for 'Do you like tea?'",
-    "question_vi": "Dịch nghĩa của câu 'Do you like tea?' là gì?",
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To open.",
+    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Road",
+    "transliteration": "",
+    "english": "सड़क​​​​",
+    "vietnamese": "Đường",
+    "audio": "Road"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "The weather is very nice.",
+    "transliteration": "",
+    "english": "मौसम बहुत अच्छा है।",
+    "vietnamese": "Thời tiết rất đẹp.",
+    "audio": "The weather is very nice."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To open'",
+    "prompt_en": "Choose correct translation for 'To open'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
+    "text": "To open",
+    "subtext": "",
+    "answer": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Mở",
     "options": [
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सड़क​​​​",
+      "मौसम बहुत अच्छा है।",
+      "sिखाना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Đường",
+      "Thời tiết rất đẹp.",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
       {
-        "text": "Bạn có thích trà không?",
-        "isCorrect": true
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
       },
       {
-        "text": "Tôi thích cái này.",
-        "isCorrect": false
+        "hindi": "Road",
+        "english": "सड़क​​​​ (Đường)"
+      },
+      {
+        "hindi": "The weather is very nice.",
+        "english": "मौसम बहुत अच्छा है। (Thời tiết rất đẹp.)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​ (Dạy)"
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Expressing and Asking Likes",
-    "explanation": "Dùng 'I like [vật]' để nói mình thích và 'Do you like [vật]?' để hỏi đối phương có thích hay không.",
-    "simpleRule": "I like... = Tôi thích... / Do you like...? = Bạn có thích... không?"
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To stand.",
+    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​ (Đứng)."
   },
   {
-    "type": "VocabularyContext",
-    "word": "like",
-    "translation": "thích",
-    "contextSentenceHindi": "I like this.",
-    "contextSentenceTranslation": "Tôi thích cái này.",
-    "memoryTrick": "Like: phát âm âm 'k' nhẹ ở cuối từ."
+    "type": "Flashcard",
+    "hindi": "To stand",
+    "transliteration": "",
+    "english": "खड़े होना​​​​​​​​​",
+    "vietnamese": "Đứng",
+    "audio": "To stand"
   },
   {
-    "type": "Listening",
-    "audio": "Do you like tea?",
-    "translation_en": "Do you like tea?",
-    "options_en": [
-      "Do you like tea?",
-      "I like this.",
-      "Coffee, please",
-      "Thank you"
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "12",
+    "transliteration": "",
+    "english": "१२",
+    "vietnamese": "Mười hai",
+    "audio": "12"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To cry",
+    "transliteration": "",
+    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Khóc",
+    "audio": "To cry"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To stand'",
+    "prompt_en": "Choose correct translation for 'To stand'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
+    "text": "To stand",
+    "subtext": "",
+    "answer": "खड़े होना​​​​​​​​​",
+    "answer_vi": "Đứng",
+    "options": [
+      "खड़े होना​​​​​​​​​",
+      "बताना​​​​​",
+      "१२",
+      "रोना​​​​​​​​​​​​​​​​​​​​​​"
     ],
-    "translation_vi": "Bạn có thích trà không?",
     "options_vi": [
-      "Bạn có thích trà không?",
-      "Tôi thích cái này.",
-      "Cho cà phê, làm ơn",
-      "Cảm ơn"
+      "Đứng",
+      "Kể / Giải thích",
+      "Mười hai",
+      "Khóc"
     ]
   },
   {
-    "type": "Speaking",
-    "hindiPhrase": "I like this.",
-    "translation": "Tôi thích cái này."
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To stand",
+        "english": "खड़े होना​​​​​​​​​ (Đứng)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "12",
+        "english": "१२ (Mười hai)"
+      },
+      {
+        "hindi": "To cry",
+        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To sing.",
+    "simpleRule": "Remember: To sing means गाना​​​​​​​​​​​​ (Hát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "One's own (reflexive)",
+    "transliteration": "",
+    "english": "अपना",
+    "vietnamese": "Của bản thân mình",
+    "audio": "One's own (reflexive)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Silver",
+    "transliteration": "",
+    "english": "चाँदी​",
+    "vietnamese": "Bạc",
+    "audio": "Silver"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sing'",
+    "prompt_en": "Choose correct translation for 'To sing'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
+    "text": "To sing",
+    "subtext": "",
+    "answer": "गाना​​​​​​​​​​​​",
+    "answer_vi": "Hát",
+    "options": [
+      "गाना​​​​​​​​​​​​",
+      "अपना",
+      "चाँदी​",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hát",
+      "Của bản thân mình",
+      "Bạc",
+      "Đọc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "One's own (reflexive)",
+        "english": "अपना (Của bản thân mình)"
+      },
+      {
+        "hindi": "Silver",
+        "english": "चाँदी​ (Bạc)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To open",
+    "translation_en": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Mở",
+    "options_en": [
+      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सड़क​​​​",
+      "मौसम बहुत अच्छा है।",
+      "sिखाना​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Mở",
+      "Đường",
+      "Thời tiết rất đẹp.",
+      "Dạy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I have a खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi có một Mở",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "To open"
+    ],
+    "correctHindiSentence": "I have a To open"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a सड़क​​​​ / Đây là một Đường",
+    "hindiWords": [
+      "This",
+      "is",
+      "a",
+      "Road"
+    ],
+    "correctHindiSentence": "This is a Road"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To open and To read",
+      "Practiced constructing sentences."
+    ]
   }
 ]

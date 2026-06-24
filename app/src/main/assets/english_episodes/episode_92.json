@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 92",
+    "description": "Master the vocabulary and grammar for: Episode 92. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 92",
+    "title_vi": "Tập 92",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To walk / move (चलना​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đi bộ / Di chuyển."
+      },
+      {
+        "hindi": "Later, you encounter a Country (देश​).",
+        "translation": "Sau đó, bạn gặp một Đất nước."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To walk / move",
+        "isCorrect": true
+      },
+      {
+        "text": "Country",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To walk / move.",
+    "simpleRule": "Remember: To walk / move means चलना​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Country",
+    "transliteration": "",
+    "english": "देश​",
+    "vietnamese": "Đất nước",
+    "audio": "Country"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What else is going on? / What's up?",
+    "transliteration": "",
+    "english": "और क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì mới không?",
+    "audio": "What else is going on? / What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cloud",
+    "transliteration": "",
+    "english": "बादल​​​",
+    "vietnamese": "Đám mây",
+    "audio": "Cloud"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To walk / move'",
+    "prompt_en": "Choose correct translation for 'To walk / move'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
+    "text": "To walk / move",
+    "subtext": "",
+    "answer": "चलना​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đi bộ / Di chuyển",
+    "options": [
+      "चलना​​​​​​​​​​​​​​​​​​​​",
+      "देश​",
+      "और क्या चल रहा है?",
+      "बादल​​​"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Đất nước",
+      "Có chuyện gì mới không?",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "Country",
+        "english": "देश​ (Đất nước)"
+      },
+      {
+        "hindi": "What else is going on? / What's up?",
+        "english": "और क्या चल रहा है? (Có chuyện gì mới không?)"
+      },
+      {
+        "hindi": "Cloud",
+        "english": "बादल​​​ (Đám mây)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: World.",
+    "simpleRule": "Remember: World means दुनया​​​​ (Thế giới)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "World",
+    "transliteration": "",
+    "english": "दुनया​​​​",
+    "vietnamese": "Thế giới",
+    "audio": "World"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "are",
+    "transliteration": "",
+    "english": "हैं",
+    "vietnamese": "Là (số nhiều)",
+    "audio": "are"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Luggage / Stuff",
+    "transliteration": "",
+    "english": "सामान",
+    "vietnamese": "Hành lý",
+    "audio": "Luggage / Stuff"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'World'",
+    "prompt_en": "Choose correct translation for 'World'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'World'",
+    "text": "World",
+    "subtext": "",
+    "answer": "दुनया​​​​",
+    "answer_vi": "Thế giới",
+    "options": [
+      "दुनया​​​​",
+      "खोलना​​​​​​​​​​​​​",
+      "हैं",
+      "सामान"
+    ],
+    "options_vi": [
+      "Thế giới",
+      "Mở",
+      "Là (số nhiều)",
+      "Hành lý"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "World",
+        "english": "दुनया​​​​ (Thế giới)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "are",
+        "english": "हैं (Là (số nhiều))"
+      },
+      {
+        "hindi": "Luggage / Stuff",
+        "english": "सामान (Hành lý)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Also / Too.",
+    "simpleRule": "Remember: Also / Too means भी (Cũng vậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Also / Too",
+    "transliteration": "",
+    "english": "भी",
+    "vietnamese": "Cũng vậy",
+    "audio": "Also / Too"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "World",
+    "transliteration": "",
+    "english": "दुनया​​​​​​",
+    "vietnamese": "Thế giới",
+    "audio": "World"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Also / Too'",
+    "prompt_en": "Choose correct translation for 'Also / Too'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Also / Too'",
+    "text": "Also / Too",
+    "subtext": "",
+    "answer": "भी",
+    "answer_vi": "Cũng vậy",
+    "options": [
+      "भी",
+      "दुनया​​​​​​",
+      "पूछना",
+      "करना​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Cũng vậy",
+      "Thế giới",
+      "Hỏi",
+      "Làm"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Also / Too",
+        "english": "भी (Cũng vậy)"
+      },
+      {
+        "hindi": "World",
+        "english": "दुनया​​​​​​ (Thế giới)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना (Hỏi)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To walk / move",
+    "translation_en": "चलना​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Đi bộ / Di chuyển",
+    "options_en": [
+      "चलना​​​​​​​​​​​​​​​​​​​​",
+      "देश​",
+      "और क्या चल रहा है?",
+      "बादल​​​"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Đất nước",
+      "Có chuyện gì mới không?",
+      "Đám mây"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the चलना​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Đi bộ / Di chuyển",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To walk / move"
+    ],
+    "correctHindiSentence": "I see the To walk / move"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a देश​ / Tôi muốn Đất nước",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Country"
+    ],
+    "correctHindiSentence": "I want a Country"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To walk / move and To do",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 10",
+    "description": "Master the vocabulary and grammar for: Speak - Level 10. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much is it?",
+    "transliteration": "",
+    "english": "कितना हुआ?",
+    "vietnamese": "Bao nhiêu tiền?",
+    "audio": "How much is it?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​",
+      "कापी",
+      "कितना हुआ?",
+      "कापी​"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Sổ tay",
+      "Bao nhiêu tiền?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी (Sổ tay)"
+      },
+      {
+        "hindi": "How much is it?",
+        "english": "कितना हुआ? (Bao nhiêu tiền?)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​ (Sổ tay)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Yes, absolutely..",
+    "simpleRule": "Remember: Yes, absolutely. means हाँ, बिल्कुल। (Vâng, hoàn toàn đồng ý.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes, absolutely.",
+    "transliteration": "",
+    "english": "हाँ, बिल्कुल।",
+    "vietnamese": "Vâng, hoàn toàn đồng ý.",
+    "audio": "Yes, absolutely."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nonsense / Rubbish",
+    "transliteration": "",
+    "english": "बकवास",
+    "vietnamese": "Vớ vẩn",
+    "audio": "Nonsense / Rubbish"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Yes, absolutely.'",
+    "prompt_en": "Choose correct translation for 'Yes, absolutely.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Yes, absolutely.'",
+    "text": "Yes, absolutely.",
+    "subtext": "",
+    "answer": "हाँ, बिल्कुल।",
+    "answer_vi": "Vâng, hoàn toàn đồng ý.",
+    "options": [
+      "हाँ, बिल्कुल।",
+      "कापी​​​​​",
+      "कापी​​",
+      "बकवास"
+    ],
+    "options_vi": [
+      "Vâng, hoàn toàn đồng ý.",
+      "Sổ tay",
+      "Sổ tay",
+      "Vớ vẩn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Yes, absolutely.",
+        "english": "हाँ, बिल्कुल। (Vâng, hoàn toàn đồng ý.)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Nonsense / Rubbish",
+        "english": "बकवास (Vớ vẩn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Snow / Ice.",
+    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​ (Tuyết / Đá)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friend / Buddy",
+    "transliteration": "",
+    "english": "यार",
+    "vietnamese": "Bạn ơi / Bạn bè",
+    "audio": "Friend / Buddy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friend",
+    "transliteration": "",
+    "english": "दोस्त",
+    "vietnamese": "Bạn bè",
+    "audio": "Friend"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No (respectful)",
+    "transliteration": "",
+    "english": "जी नहीं",
+    "vietnamese": "Không (Lịch sự)",
+    "audio": "No (respectful)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Snow / Ice'",
+    "prompt_en": "Choose correct translation for 'Snow / Ice'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
+    "text": "Snow / Ice",
+    "subtext": "",
+    "answer": "बर्फ़​​​​​​​​",
+    "answer_vi": "Tuyết / Đá",
+    "options": [
+      "बर्फ़​​​​​​​​",
+      "यार",
+      "दोस्त",
+      "जी नहीं"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Bạn ơi / Bạn bè",
+      "Bạn bè",
+      "Không (Lịch sự)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Friend / Buddy",
+        "english": "यार (Bạn ơi / Bạn bè)"
+      },
+      {
+        "hindi": "Friend",
+        "english": "दोस्त (Bạn bè)"
+      },
+      {
+        "hindi": "No (respectful)",
+        "english": "जी नहीं (Không (Lịch sự))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Name",
+    "transliteration": "",
+    "english": "नाम",
+    "vietnamese": "Tên",
+    "audio": "Name"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What's up?",
+    "transliteration": "",
+    "english": "क्या चल रहा है?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "What's up?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How sad!",
+    "transliteration": "",
+    "english": "कितना दुखद है!",
+    "vietnamese": "Thật là buồn!",
+    "audio": "How sad!"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​",
+      "नाम",
+      "क्या चल रहा है?",
+      "कितना दुखद है!"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Tên",
+      "Có chuyện gì thế?",
+      "Thật là buồn!"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Name",
+        "english": "नाम (Tên)"
+      },
+      {
+        "hindi": "What's up?",
+        "english": "क्या चल रहा है? (Có chuyện gì thế?)"
+      },
+      {
+        "hindi": "How sad!",
+        "english": "कितना दुखद है! (Thật là buồn!)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Snow / Ice",
+    "translation_en": "बर्फ़​​​",
+    "translation_vi": "Tuyết / Đá",
+    "options_en": [
+      "बर्फ़​​​",
+      "कापी",
+      "कितना हुआ?",
+      "कापी​"
+    ],
+    "options_vi": [
+      "Tuyết / Đá",
+      "Sổ tay",
+      "Bao nhiêu tiền?",
+      "Sổ tay"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a बर्फ़​​​ / Nó là một Tuyết / Đá",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Snow / Ice"
+    ],
+    "correctHindiSentence": "It is a Snow / Ice"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like कापी / Tôi thích Sổ tay",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Notebook"
+    ],
+    "correctHindiSentence": "I really like Notebook"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Snow / Ice and How sad!",
+      "Practiced constructing sentences."
+    ]
+  }
+]

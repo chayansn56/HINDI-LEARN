@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 41",
+    "description": "Master the vocabulary and grammar for: Episode 41. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 41",
+    "title_vi": "Tập 41",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To sleep (सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Ngủ."
+      },
+      {
+        "hindi": "Later, you encounter a Be happy! (blessing) (खुश रहो!).",
+        "translation": "Sau đó, bạn gặp một Hãy luôn vui vẻ nhé!."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To sleep",
+        "isCorrect": true
+      },
+      {
+        "text": "Be happy! (blessing)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To sleep.",
+    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Be happy! (blessing)",
+    "transliteration": "",
+    "english": "खुश रहो!",
+    "vietnamese": "Hãy luôn vui vẻ nhé!",
+    "audio": "Be happy! (blessing)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "City",
+    "transliteration": "",
+    "english": "शहर",
+    "vietnamese": "Thành phố",
+    "audio": "City"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sleep'",
+    "prompt_en": "Choose correct translation for 'To sleep'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
+    "text": "To sleep",
+    "subtext": "",
+    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Ngủ",
+    "options": [
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खुश रहो!",
+      "शहर",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Hãy luôn vui vẻ nhé!",
+      "Thành phố",
+      "Làm"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "Be happy! (blessing)",
+        "english": "खुश रहो! (Hãy luôn vui vẻ nhé!)"
+      },
+      {
+        "hindi": "City",
+        "english": "शहर (Thành phố)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Sea / Ocean.",
+    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​ (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Conspiracy",
+    "transliteration": "",
+    "english": "षड्यंत्र",
+    "vietnamese": "Âm mưu",
+    "audio": "Conspiracy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where",
+    "transliteration": "",
+    "english": "कहाँ",
+    "vietnamese": "Ở đâu",
+    "audio": "Where"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Myself / Yourself / Himself (formal)",
+    "transliteration": "",
+    "english": "स्वयं",
+    "vietnamese": "Tự bản thân",
+    "audio": "Myself / Yourself / Himself (formal)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sea / Ocean'",
+    "prompt_en": "Choose correct translation for 'Sea / Ocean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
+    "text": "Sea / Ocean",
+    "subtext": "",
+    "answer": "समुद्र​​​",
+    "answer_vi": "Biển",
+    "options": [
+      "समुद्र​​​",
+      "षड्यंत्र",
+      "कहाँ",
+      "स्वयं"
+    ],
+    "options_vi": [
+      "Biển",
+      "Âm mưu",
+      "Ở đâu",
+      "Tự bản thân"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​ (Biển)"
+      },
+      {
+        "hindi": "Conspiracy",
+        "english": "षड्यंत्र (Âm mưu)"
+      },
+      {
+        "hindi": "Where",
+        "english": "कहाँ (Ở đâu)"
+      },
+      {
+        "hindi": "Myself / Yourself / Himself (formal)",
+        "english": "स्वयं (Tự bản thân)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To me / Me.",
+    "simpleRule": "Remember: To me / Me means मुझे (Cho tôi / Tôi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To me / Me",
+    "transliteration": "",
+    "english": "मुझे",
+    "vietnamese": "Cho tôi / Tôi",
+    "audio": "To me / Me"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "You (intimate)",
+    "transliteration": "",
+    "english": "तू",
+    "vietnamese": "Mày / Em",
+    "audio": "You (intimate)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To me / Me'",
+    "prompt_en": "Choose correct translation for 'To me / Me'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To me / Me'",
+    "text": "To me / Me",
+    "subtext": "",
+    "answer": "मुझे",
+    "answer_vi": "Cho tôi / Tôi",
+    "options": [
+      "मुझे",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "तू",
+      "जागना​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Cho tôi / Tôi",
+      "Nói",
+      "Mày / Em",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To me / Me",
+        "english": "मुझे (Cho tôi / Tôi)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "You (intimate)",
+        "english": "तू (Mày / Em)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​ (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To sleep",
+    "translation_en": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Ngủ",
+    "options_en": [
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खुश रहो!",
+      "शहर",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Hãy luôn vui vẻ nhé!",
+      "Thành phố",
+      "Làm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Ngủ",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To sleep"
+    ],
+    "correctHindiSentence": "I see the To sleep"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a खुश रहो! / Tôi muốn Hãy luôn vui vẻ nhé!",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Be happy! (blessing)"
+    ],
+    "correctHindiSentence": "I want a Be happy! (blessing)"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To sleep and To wake up",
+      "Practiced constructing sentences."
+    ]
+  }
+]

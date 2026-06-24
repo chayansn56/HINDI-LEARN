@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 39",
+    "description": "Master the vocabulary and grammar for: Episode 39. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 39",
+    "title_vi": "Tập 39",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To sleep (सोना​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Ngủ."
+      },
+      {
+        "hindi": "Later, you encounter a Worship Ritual (पूजा).",
+        "translation": "Sau đó, bạn gặp một Nghi lễ thờ cúng."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To sleep",
+        "isCorrect": true
+      },
+      {
+        "text": "Worship Ritual",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To sleep.",
+    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​ (Ngủ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Worship Ritual",
+    "transliteration": "",
+    "english": "पूजा",
+    "vietnamese": "Nghi lễ thờ cúng",
+    "audio": "Worship Ritual"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Block (user)",
+    "transliteration": "",
+    "english": "ब्लॉक",
+    "vietnamese": "Chặn (người dùng)",
+    "audio": "Block (user)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sleep'",
+    "prompt_en": "Choose correct translation for 'To sleep'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
+    "text": "To sleep",
+    "subtext": "",
+    "answer": "सोना​​​​​​​​​",
+    "answer_vi": "Ngủ",
+    "options": [
+      "सोना​​​​​​​​​",
+      "पूजा",
+      "बेचना​​​",
+      "ब्लॉक"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Nghi lễ thờ cúng",
+      "Bán",
+      "Chặn (người dùng)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "Worship Ritual",
+        "english": "पूजा (Nghi lễ thờ cúng)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​ (Bán)"
+      },
+      {
+        "hindi": "Block (user)",
+        "english": "ब्लॉक (Chặn (người dùng))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Hey!.",
+    "simpleRule": "Remember: Hey! means ओये (Này!)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hey!",
+    "transliteration": "",
+    "english": "ओये",
+    "vietnamese": "Này!",
+    "audio": "Hey!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Silver",
+    "transliteration": "",
+    "english": "चाँदी​​​​​​​​​",
+    "vietnamese": "Bạc",
+    "audio": "Silver"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "From us / With us",
+    "transliteration": "",
+    "english": "हमसे",
+    "vietnamese": "Từ chúng tôi / Với chúng tôi",
+    "audio": "From us / With us"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Success",
+    "transliteration": "",
+    "english": "सफलता",
+    "vietnamese": "Sự thành công",
+    "audio": "Success"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Hey!'",
+    "prompt_en": "Choose correct translation for 'Hey!'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Hey!'",
+    "text": "Hey!",
+    "subtext": "",
+    "answer": "ओये",
+    "answer_vi": "Này!",
+    "options": [
+      "ओये",
+      "चाँदी​​​​​​​​​",
+      "हमसे",
+      "सफलता"
+    ],
+    "options_vi": [
+      "Này!",
+      "Bạc",
+      "Từ chúng tôi / Với chúng tôi",
+      "Sự thành công"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Hey!",
+        "english": "ओये (Này!)"
+      },
+      {
+        "hindi": "Silver",
+        "english": "चाँदी​​​​​​​​​ (Bạc)"
+      },
+      {
+        "hindi": "From us / With us",
+        "english": "हमसे (Từ chúng tôi / Với chúng tôi)"
+      },
+      {
+        "hindi": "Success",
+        "english": "सफलता (Sự thành công)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: 80.",
+    "simpleRule": "Remember: 80 means ८० (Tám mươi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "80",
+    "transliteration": "",
+    "english": "८०",
+    "vietnamese": "Tám mươi",
+    "audio": "80"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "were (feminine plural)",
+    "transliteration": "",
+    "english": "थीं",
+    "vietnamese": "Đã là (nữ số nhiều)",
+    "audio": "were (feminine plural)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate '80'",
+    "prompt_en": "Choose correct translation for '80'",
+    "prompt_vi": "Chọn bản dịch đúng cho '80'",
+    "text": "80",
+    "subtext": "",
+    "answer": "८०",
+    "answer_vi": "Tám mươi",
+    "options": [
+      "८०",
+      "पूछना​​​​​​​​​​​​",
+      "खेलना​​​​​​​​​",
+      "थीं"
+    ],
+    "options_vi": [
+      "Tám mươi",
+      "Hỏi",
+      "Chơi",
+      "Đã là (nữ số nhiều)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "80",
+        "english": "८० (Tám mươi)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​ (Chơi)"
+      },
+      {
+        "hindi": "were (feminine plural)",
+        "english": "थीं (Đã là (nữ số nhiều))"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To sleep",
+    "translation_en": "सोना​​​​​​​​​",
+    "translation_vi": "Ngủ",
+    "options_en": [
+      "सोना​​​​​​​​​",
+      "पूजा",
+      "बेचना​​​",
+      "ब्लॉक"
+    ],
+    "options_vi": [
+      "Ngủ",
+      "Nghi lễ thờ cúng",
+      "Bán",
+      "Chặn (người dùng)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the सोना​​​​​​​​​ / Tôi thấy Ngủ",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To sleep"
+    ],
+    "correctHindiSentence": "I see the To sleep"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a पूजा / Tôi muốn Nghi lễ thờ cúng",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Worship Ritual"
+    ],
+    "correctHindiSentence": "I want a Worship Ritual"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To sleep and were (feminine plural)",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 86",
+    "description": "Master the vocabulary and grammar for: Episode 86. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 86",
+    "title_vi": "Tập 86",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Sea / Ocean (समुद्र​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Biển."
+      },
+      {
+        "hindi": "Later, you encounter a To clean (साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Dọn dẹp / Lau chùi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Sea / Ocean",
+        "isCorrect": true
+      },
+      {
+        "text": "To clean",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Sea / Ocean.",
+    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​ (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To take",
+    "transliteration": "",
+    "english": "लेना​​​​​",
+    "vietnamese": "Lấy / Nhận",
+    "audio": "To take"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Who",
+    "transliteration": "",
+    "english": "कौन",
+    "vietnamese": "Ai",
+    "audio": "Who"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sea / Ocean'",
+    "prompt_en": "Choose correct translation for 'Sea / Ocean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
+    "text": "Sea / Ocean",
+    "subtext": "",
+    "answer": "समुद्र​​​",
+    "answer_vi": "Biển",
+    "options": [
+      "समुद्र​​​",
+      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​",
+      "कौन"
+    ],
+    "options_vi": [
+      "Biển",
+      "Dọn dẹp / Lau chùi",
+      "Lấy / Nhận",
+      "Ai"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​ (Biển)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To take",
+        "english": "लेना​​​​​ (Lấy / Nhận)"
+      },
+      {
+        "hindi": "Who",
+        "english": "कौन (Ai)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना",
+      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​",
+      "धोना​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Dạy",
+      "Kể / Giải thích",
+      "Rửa / Giặt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना (Hỏi)"
+      },
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​ (Kể / Giải thích)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: What a shame..",
+    "simpleRule": "Remember: What a shame. means शर्म की बात है। (Thật đáng hổ thẹn.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What a shame.",
+    "transliteration": "",
+    "english": "शर्म की बात है।",
+    "vietnamese": "Thật đáng hổ thẹn.",
+    "audio": "What a shame."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know.",
+    "transliteration": "",
+    "english": "पता नहीं।",
+    "vietnamese": "Tôi không biết.",
+    "audio": "I don't know."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'What a shame.'",
+    "prompt_en": "Choose correct translation for 'What a shame.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'What a shame.'",
+    "text": "What a shame.",
+    "subtext": "",
+    "answer": "शर्म की बात है।",
+    "answer_vi": "Thật đáng hổ thẹn.",
+    "options": [
+      "शर्म की बात है।",
+      "सुनना​​​",
+      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पता नहीं।"
+    ],
+    "options_vi": [
+      "Thật đáng hổ thẹn.",
+      "Nghe",
+      "Mua",
+      "Tôi không biết."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "What a shame.",
+        "english": "शर्म की बात है। (Thật đáng hổ thẹn.)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​ (Nghe)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+      },
+      {
+        "hindi": "I don't know.",
+        "english": "पता नहीं। (Tôi không biết.)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Sea / Ocean",
+    "translation_en": "समुद्र​​​",
+    "translation_vi": "Biển",
+    "options_en": [
+      "समुद्र​​​",
+      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना​​​​​",
+      "कौन"
+    ],
+    "options_vi": [
+      "Biển",
+      "Dọn dẹp / Lau chùi",
+      "Lấy / Nhận",
+      "Ai"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the समुद्र​​​ / Tôi thấy Biển",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Sea / Ocean"
+    ],
+    "correctHindiSentence": "I see the Sea / Ocean"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Dọn dẹp / Lau chùi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To clean"
+    ],
+    "correctHindiSentence": "I want a To clean"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Sea / Ocean and I don't know.",
+      "Practiced constructing sentences."
+    ]
+  }
+]

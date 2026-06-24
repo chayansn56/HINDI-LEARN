@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Travel - Level 18",
+    "description": "Master the vocabulary and grammar for: Travel - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn travel concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​ means Journey (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सावधान रहें।",
+    "transliteration": "saavdhaan rahein",
+    "english": "Be careful / Watch out.",
+    "vietnamese": "Hãy cẩn thận.",
+    "audio": "सावधान रहें।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाली कमरा",
+    "transliteration": "khālī kamrā",
+    "english": "Vacant room",
+    "vietnamese": "Phòng trống",
+    "audio": "खाली कमरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "थाना",
+    "transliteration": "thana",
+    "english": "Police station",
+    "vietnamese": "Đồn cảnh sát",
+    "audio": "थाना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​'",
+    "text": "सफ़र​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Be careful / Watch out.",
+      "Vacant room",
+      "Police station"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Hãy cẩn thận.",
+      "Phòng trống",
+      "Đồn cảnh sát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "सावधान रहें।",
+        "english": "Be careful / Watch out. (Hãy cẩn thận.)"
+      },
+      {
+        "hindi": "खाली कमरा",
+        "english": "Vacant room (Phòng trống)"
+      },
+      {
+        "hindi": "थाना",
+        "english": "Police station (Đồn cảnh sát)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​​​​​​ means Journey (Chuyến đi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र​​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व्यापार",
+    "transliteration": "vyaapaar",
+    "english": "Business / Trade",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "व्यापार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दुल्हा",
+    "transliteration": "dulha",
+    "english": "Groom",
+    "vietnamese": "Chú rể",
+    "audio": "दुल्हा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​​​​​​'",
+    "text": "सफ़र​​​​​​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Business / Trade",
+      "Groom",
+      "Bathroom"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Kinh doanh / Thương mại",
+      "Chú rể",
+      "Nhà tắm / Toilet"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "व्यापार",
+        "english": "Business / Trade (Kinh doanh / Thương mại)"
+      },
+      {
+        "hindi": "दुल्हा",
+        "english": "Groom (Chú rể)"
+      },
+      {
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "सफ़र​​​​​",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
+    "options_en": [
+      "Journey",
+      "Be careful / Watch out.",
+      "Vacant room",
+      "Police station"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Hãy cẩn thận.",
+      "Phòng trống",
+      "Đồn cảnh sát"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Journey / Đây là Chuyến đi",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "सफ़र​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक सफ़र​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Be careful / Watch out. / Tôi thấy Hãy cẩn thận.",
+    "hindiWords": [
+      "मैं",
+      "सावधान रहें।",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं सावधान रहें। देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: सफ़र​​​​​, बाथरूम",
+      "Practiced constructing sentences."
+    ]
+  }
+]

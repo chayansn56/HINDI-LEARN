@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 44",
+    "description": "Master the vocabulary and grammar for: Episode 44. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 44",
+    "title_vi": "Tập 44",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Crow (कौआ).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Con quạ."
+      },
+      {
+        "hindi": "Later, you encounter a Silver (चाँदी).",
+        "translation": "Sau đó, bạn gặp một Bạc."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Crow",
+        "isCorrect": true
+      },
+      {
+        "text": "Silver",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Crow.",
+    "simpleRule": "Remember: Crow means कौआ (Con quạ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Crow",
+    "transliteration": "",
+    "english": "कौआ",
+    "vietnamese": "Con quạ",
+    "audio": "Crow"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Silver",
+    "transliteration": "",
+    "english": "चाँदी",
+    "vietnamese": "Bạc",
+    "audio": "Silver"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Crow'",
+    "prompt_en": "Choose correct translation for 'Crow'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Crow'",
+    "text": "Crow",
+    "subtext": "",
+    "answer": "कौआ",
+    "answer_vi": "Con quạ",
+    "options": [
+      "कौआ",
+      "चाँदी",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Con quạ",
+      "Bạc",
+      "Viết",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Crow",
+        "english": "कौआ (Con quạ)"
+      },
+      {
+        "hindi": "Silver",
+        "english": "चाँदी (Bạc)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Lock.",
+    "simpleRule": "Remember: Lock means ताला​​​​​ (Ổ khóa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​​​​​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Restroom / Toilet",
+    "transliteration": "",
+    "english": "शौचालय",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "Restroom / Toilet"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Country",
+    "transliteration": "",
+    "english": "देश​​​​​",
+    "vietnamese": "Đất nước",
+    "audio": "Country"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yes",
+    "transliteration": "",
+    "english": "हाँ",
+    "vietnamese": "Vâng / Có",
+    "audio": "Yes"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Lock'",
+    "prompt_en": "Choose correct translation for 'Lock'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
+    "text": "Lock",
+    "subtext": "",
+    "answer": "ताला​​​​​",
+    "answer_vi": "Ổ khóa",
+    "options": [
+      "ताला​​​​​",
+      "शौचालय",
+      "देश​​​​​",
+      "हाँ"
+    ],
+    "options_vi": [
+      "Ổ khóa",
+      "Nhà vệ sinh",
+      "Đất nước",
+      "Vâng / Có"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Lock",
+        "english": "ताला​​​​​ (Ổ khóa)"
+      },
+      {
+        "hindi": "Restroom / Toilet",
+        "english": "शौचालय (Nhà vệ sinh)"
+      },
+      {
+        "hindi": "Country",
+        "english": "देश​​​​​ (Đất nước)"
+      },
+      {
+        "hindi": "Yes",
+        "english": "हाँ (Vâng / Có)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Spoon.",
+    "simpleRule": "Remember: Spoon means चम्मच​​ (Thìa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Spoon",
+    "transliteration": "",
+    "english": "चम्मच​​",
+    "vietnamese": "Thìa",
+    "audio": "Spoon"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Touching feet for blessings",
+    "transliteration": "",
+    "english": "चरण स्पर्श",
+    "vietnamese": "Chạm chân xin phước lành",
+    "audio": "Touching feet for blessings"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Auspicious necklace",
+    "transliteration": "",
+    "english": "मंगलसूत्र",
+    "vietnamese": "Dây chuyền cưới Mangalsutra",
+    "audio": "Auspicious necklace"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Spoon'",
+    "prompt_en": "Choose correct translation for 'Spoon'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Spoon'",
+    "text": "Spoon",
+    "subtext": "",
+    "answer": "चम्मच​​",
+    "answer_vi": "Thìa",
+    "options": [
+      "चम्मच​​",
+      "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
+      "चरण स्पर्श",
+      "मंगलसूत्र"
+    ],
+    "options_vi": [
+      "Thìa",
+      "Nói",
+      "Chạm chân xin phước lành",
+      "Dây chuyền cưới Mangalsutra"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Spoon",
+        "english": "चम्मच​​ (Thìa)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "Touching feet for blessings",
+        "english": "चरण स्पर्श (Chạm chân xin phước lành)"
+      },
+      {
+        "hindi": "Auspicious necklace",
+        "english": "मंगलसूत्र (Dây chuyền cưới Mangalsutra)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Crow",
+    "translation_en": "कौआ",
+    "translation_vi": "Con quạ",
+    "options_en": [
+      "कौआ",
+      "चाँदी",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Con quạ",
+      "Bạc",
+      "Viết",
+      "Bán"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the कौआ / Tôi thấy Con quạ",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Crow"
+    ],
+    "correctHindiSentence": "I see the Crow"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a चाँदी / Tôi muốn Bạc",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Silver"
+    ],
+    "correctHindiSentence": "I want a Silver"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Crow and Auspicious necklace",
+      "Practiced constructing sentences."
+    ]
+  }
+]

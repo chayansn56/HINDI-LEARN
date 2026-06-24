@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Business - Lesson 5",
-    "description": "Learn key vocabulary and concepts for Business - Lesson 5. Listen carefully and read along in English and Vietnamese.",
+    "title": "Business - Level 5",
+    "description": "Master the vocabulary and grammar for: Business - Level 5. Read the key points carefully.",
     "keyPoints": [
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​ (sunnā) = To listen / hear / Nghe",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​ (sikhānā) = To teach / Dạy",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (sunnā) = To listen / hear / Nghe"
+      "Learn business concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 5",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​ means 'To listen / hear' (Nghe)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: पैसा​​​​​​​​​​​.",
+    "simpleRule": "Remember: पैसा​​​​​​​​​​​ means Money (Tiền)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sunnā",
-    "english": "To listen / hear",
-    "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "पैसा​​​​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sikhānā",
-    "english": "To teach",
-    "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "दफ़्तर​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "sunnā",
-    "answer": "To listen / hear",
-    "answer_vi": "Nghe",
+    "prompt": "Translate 'पैसा​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'पैसा​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पैसा​​​​​​​​​​​'",
+    "text": "पैसा​​​​​​​​​​​",
+    "subtext": "paisā",
+    "answer": "Money",
+    "answer_vi": "Tiền",
     "options": [
-      "To teach",
+      "Money",
       "Office",
-      "To listen / hear",
-      "Job / Employment"
+      "Money",
+      "Office"
     ],
     "options_vi": [
-      "Dạy",
-      "Văn phòng làm việc",
-      "Nghe",
-      "Công ăn việc làm"
+      "Tiền",
+      "Văn phòng",
+      "Tiền",
+      "Văn phòng"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sunnā",
-    "english": "To listen / hear",
-    "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पैसा​​​​​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "दफ़्तर​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "दफ़्तर​​​",
+        "english": "Office (Văn phòng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: दफ़्तर​​​​​​​​​​.",
+    "simpleRule": "Remember: दफ़्तर​​​​​​​​​​ means Office (Văn phòng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "नौकरी",
-    "transliteration": "naukri",
-    "english": "Job / Employment",
-    "vietnamese": "Công ăn việc làm",
-    "audio": "नौकरी"
+    "hindi": "दफ़्तर​​​​​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा",
+    "transliteration": "paisā",
+    "english": "Money / Paisa",
+    "vietnamese": "Tiền xu / Tiền",
+    "audio": "पैसा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मूल्य",
+    "transliteration": "moolya",
+    "english": "Value / Price",
+    "vietnamese": "Giá trị",
+    "audio": "मूल्य"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दफ़्तर​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​​​​​​​'",
+    "text": "दफ़्तर​​​​​​​​​​",
+    "subtext": "daftar",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "Office",
+      "Money / Paisa",
+      "Money",
+      "Value / Price"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Tiền xu / Tiền",
+      "Tiền",
+      "Giá trị"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
+        "hindi": "दफ़्तर​​​​​​​​​​",
+        "english": "Office (Văn phòng)"
       },
       {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
+        "hindi": "पैसा",
+        "english": "Money / Paisa (Tiền xu / Tiền)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
+        "hindi": "पैसा​​",
+        "english": "Money (Tiền)"
       },
       {
-        "hindi": "नौकरी",
-        "english": "Job / Employment (Công ăn việc làm)"
+        "hindi": "मूल्य",
+        "english": "Value / Price (Giá trị)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To teach",
-    "translation_vi": "Dạy",
+    "audio": "पैसा​​​​​​​​​​​",
+    "translation_en": "Money",
+    "translation_vi": "Tiền",
     "options_en": [
-      "To listen / hear",
-      "To teach",
-      "To listen / hear",
-      "Job / Employment"
+      "Money",
+      "Office",
+      "Money",
+      "Office"
     ],
     "options_vi": [
-      "Nghe",
-      "Dạy",
-      "Nghe",
-      "Công ăn việc làm"
+      "Tiền",
+      "Văn phòng",
+      "Tiền",
+      "Văn phòng"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Sign this paper / Ký vào tờ giấy này",
+    "englishSentence": "This is a Money / Đây là Tiền",
     "hindiWords": [
-      "कागज़",
-      "पर",
-      "हस्ताक्षर",
-      "करें",
-      "कमरा",
-      "लिखना"
+      "यह",
+      "एक",
+      "पैसा​​​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "कागज़ पर हस्ताक्षर करें"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sunnā",
-    "english": "To listen / hear",
-    "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "कार्यालय",
-    "transliteration": "kāryālay",
-    "english": "Office",
-    "vietnamese": "Văn phòng làm việc",
-    "audio": "कार्यालय"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "नौकरी",
-        "english": "Job / Employment (Công ăn việc làm)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "कार्यालय",
-        "english": "Office (Văn phòng làm việc)"
-      }
-    ]
+    "correctHindiSentence": "यह एक पैसा​​​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the office? / Văn phòng ở đâu?",
+    "englishSentence": "I see Office / Tôi thấy Văn phòng",
     "hindiWords": [
-      "दफ़्तर",
-      "कहाँ",
-      "है",
-      "कमरा",
-      "में"
+      "मैं",
+      "दफ़्तर​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "दफ़्तर कहाँ है"
+    "correctHindiSentence": "मैं दफ़्तर​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Where is the office?'."
+      "You learned: पैसा​​​​​​​​​​​, मूल्य",
+      "Practiced constructing sentences."
     ]
   }
 ]

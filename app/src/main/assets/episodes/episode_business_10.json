@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Business - Level 10",
+    "description": "Master the vocabulary and grammar for: Business - Level 10. Read the key points carefully.",
+    "keyPoints": [
+      "Learn business concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: दफ़्तर​​​​​​.",
+    "simpleRule": "Remember: दफ़्तर​​​​​​ means Office (Văn phòng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नौकरी",
+    "transliteration": "naukri",
+    "english": "Job / Employment",
+    "vietnamese": "Công ăn việc làm",
+    "audio": "नौकरी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दफ़्तर​​​​​​'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​​​'",
+    "text": "दफ़्तर​​​​​​",
+    "subtext": "daftar",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "Office",
+      "Job / Employment",
+      "Money",
+      "Money"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Công ăn việc làm",
+      "Tiền",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दफ़्तर​​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "नौकरी",
+        "english": "Job / Employment (Công ăn việc làm)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​​​​​",
+        "english": "Money (Tiền)"
+      },
+      {
+        "hindi": "पैसा​​​​​​​",
+        "english": "Money (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: रुपया.",
+    "simpleRule": "Remember: रुपया means Rupee / Money (Đồng rupee / Tiền)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रुपया",
+    "transliteration": "rupayā",
+    "english": "Rupee / Money",
+    "vietnamese": "Đồng rupee / Tiền",
+    "audio": "रुपया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बैठक",
+    "transliteration": "baiṭhak",
+    "english": "Meeting",
+    "vietnamese": "Cuộc họp",
+    "audio": "बैठक"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दफ़्तर​​​​​​​​​​​",
+    "transliteration": "daftar",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "दफ़्तर​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैसा​​​​​",
+    "transliteration": "paisā",
+    "english": "Money",
+    "vietnamese": "Tiền",
+    "audio": "पैसा​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'रुपया'",
+    "prompt_en": "Choose correct translation for 'रुपया'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'रुपया'",
+    "text": "रुपया",
+    "subtext": "rupayā",
+    "answer": "Rupee / Money",
+    "answer_vi": "Đồng rupee / Tiền",
+    "options": [
+      "Rupee / Money",
+      "Meeting",
+      "Office",
+      "Money"
+    ],
+    "options_vi": [
+      "Đồng rupee / Tiền",
+      "Cuộc họp",
+      "Văn phòng",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "रुपया",
+        "english": "Rupee / Money (Đồng rupee / Tiền)"
+      },
+      {
+        "hindi": "बैठक",
+        "english": "Meeting (Cuộc họp)"
+      },
+      {
+        "hindi": "दफ़्तर​​​​​​​​​​​",
+        "english": "Office (Văn phòng)"
+      },
+      {
+        "hindi": "पैसा​​​​​",
+        "english": "Money (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दफ़्तर​​​​​​",
+    "translation_en": "Office",
+    "translation_vi": "Văn phòng",
+    "options_en": [
+      "Office",
+      "Job / Employment",
+      "Money",
+      "Money"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Công ăn việc làm",
+      "Tiền",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Office / Đây là Văn phòng",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "दफ़्तर​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक दफ़्तर​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Job / Employment / Tôi thấy Công ăn việc làm",
+    "hindiWords": [
+      "मैं",
+      "नौकरी",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं नौकरी देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: दफ़्तर​​​​​​, पैसा​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 18",
+    "description": "Master the vocabulary and grammar for: Episode 18. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 18",
+    "title_vi": "Tập 18",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To speak (बोलना​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Nói."
+      },
+      {
+        "hindi": "Later, you encounter a To clean (साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Dọn dẹp / Lau chùi."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To speak",
+        "isCorrect": true
+      },
+      {
+        "text": "To clean",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To speak.",
+    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​ (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To clean",
+    "transliteration": "",
+    "english": "साफ करना​​​​​​​​​​​",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "To clean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Please wait a minute.",
+    "transliteration": "",
+    "english": "एक मिनट रुकिए।",
+    "vietnamese": "Làm ơn đợi một phút.",
+    "audio": "Please wait a minute."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To speak'",
+    "prompt_en": "Choose correct translation for 'To speak'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
+    "text": "To speak",
+    "subtext": "",
+    "answer": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nói",
+    "options": [
+      "बोलना​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​",
+      "एक मिनट रुकिए।"
+    ],
+    "options_vi": [
+      "Nói",
+      "Dọn dẹp / Lau chùi",
+      "Dọn dẹp / Lau chùi",
+      "Làm ơn đợi một phút."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To speak",
+        "english": "बोलना​​​​​​​​​​​​​​​​​​​ (Nói)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "To clean",
+        "english": "साफ करना​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "Please wait a minute.",
+        "english": "एक मिनट रुकिए। (Làm ơn đợi một phút.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: World.",
+    "simpleRule": "Remember: World means दुनया​ (Thế giới)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "World",
+    "transliteration": "",
+    "english": "दुनया​",
+    "vietnamese": "Thế giới",
+    "audio": "World"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To them / him / her (formal near)",
+    "transliteration": "",
+    "english": "इनन्हें",
+    "vietnamese": "Cho họ / Cho ngài ấy (gần)",
+    "audio": "To them / him / her (formal near)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'World'",
+    "prompt_en": "Choose correct translation for 'World'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'World'",
+    "text": "World",
+    "subtext": "",
+    "answer": "दुनया​",
+    "answer_vi": "Thế giới",
+    "options": [
+      "दुनया​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​",
+      "इनन्हें",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thế giới",
+      "Chạy",
+      "Cho họ / Cho ngài ấy (gần)",
+      "Ngồi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "World",
+        "english": "दुनया​ (Thế giới)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "To them / him / her (formal near)",
+        "english": "इनन्हें (Cho họ / Cho ngài ấy (gần))"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To sing.",
+    "simpleRule": "Remember: To sing means गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sing",
+    "transliteration": "",
+    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hát",
+    "audio": "To sing"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To sing'",
+    "prompt_en": "Choose correct translation for 'To sing'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
+    "text": "To sing",
+    "subtext": "",
+    "answer": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hát",
+    "options": [
+      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पूछना​​​​​​​​​​​​​​​​​​​​",
+      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पूछना​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hát",
+      "Hỏi",
+      "Cho / Tặng",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To sing",
+        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To speak",
+    "translation_en": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Nói",
+    "options_en": [
+      "बोलना​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "साफ करना​​​​​​​​​​​",
+      "एक मिनट रुकिए।"
+    ],
+    "options_vi": [
+      "Nói",
+      "Dọn dẹp / Lau chùi",
+      "Dọn dẹp / Lau chùi",
+      "Làm ơn đợi một phút."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the बोलना​​​​​​​​​​​​​​​​​​​ / Tôi thấy Nói",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To speak"
+    ],
+    "correctHindiSentence": "I see the To speak"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Dọn dẹp / Lau chùi",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To clean"
+    ],
+    "correctHindiSentence": "I want a To clean"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To speak and To ask",
+      "Practiced constructing sentences."
+    ]
+  }
+]

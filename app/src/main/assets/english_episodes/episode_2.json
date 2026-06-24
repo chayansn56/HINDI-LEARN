@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 2",
+    "description": "Master the vocabulary and grammar for: Episode 2. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 2",
+    "title_vi": "Tập 2",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Product (उत्पाद).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Sản phẩm."
+      },
+      {
+        "hindi": "Later, you encounter a To do (करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Làm."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Product",
+        "isCorrect": true
+      },
+      {
+        "text": "To do",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Product.",
+    "simpleRule": "Remember: Product means उत्पाद (Sản phẩm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Product",
+    "transliteration": "",
+    "english": "उत्पाद",
+    "vietnamese": "Sản phẩm",
+    "audio": "Product"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To do",
+    "transliteration": "",
+    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Làm",
+    "audio": "To do"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help",
+    "transliteration": "",
+    "english": "मदद​​",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "Help"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Product'",
+    "prompt_en": "Choose correct translation for 'Product'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Product'",
+    "text": "Product",
+    "subtext": "",
+    "answer": "उत्पाद",
+    "answer_vi": "Sản phẩm",
+    "options": [
+      "उत्पाद",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मदद​​"
+    ],
+    "options_vi": [
+      "Sản phẩm",
+      "Làm",
+      "Viết",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Product",
+        "english": "उत्पाद (Sản phẩm)"
+      },
+      {
+        "hindi": "To do",
+        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "Help",
+        "english": "मदद​​ (Sự giúp đỡ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To laugh.",
+    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Path / Way",
+    "transliteration": "",
+    "english": "रास्ता​​​​​​​​",
+    "vietnamese": "Đường đi",
+    "audio": "Path / Way"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Laddu",
+    "transliteration": "",
+    "english": "लड्डू",
+    "vietnamese": "Bánh Laddu tròn",
+    "audio": "Laddu"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To buy",
+    "transliteration": "",
+    "english": "खरीदना",
+    "vietnamese": "Mua",
+    "audio": "To buy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To laugh'",
+    "prompt_en": "Choose correct translation for 'To laugh'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
+    "text": "To laugh",
+    "subtext": "",
+    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​",
+      "रास्ता​​​​​​​​",
+      "लड्डू",
+      "खरीदना"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Đường đi",
+      "Bánh Laddu tròn",
+      "Mua"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "Path / Way",
+        "english": "रास्ता​​​​​​​​ (Đường đi)"
+      },
+      {
+        "hindi": "Laddu",
+        "english": "लड्डू (Bánh Laddu tròn)"
+      },
+      {
+        "hindi": "To buy",
+        "english": "खरीदना (Mua)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Myself / Yourself / Himself (formal).",
+    "simpleRule": "Remember: Myself / Yourself / Himself (formal) means स्वयं (Tự bản thân)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Myself / Yourself / Himself (formal)",
+    "transliteration": "",
+    "english": "स्वयं",
+    "vietnamese": "Tự bản thân",
+    "audio": "Myself / Yourself / Himself (formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​​​​​​​​​​​​​​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To tell / explain",
+    "transliteration": "",
+    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Kể / Giải thích",
+    "audio": "To tell / explain"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Myself / Yourself / Himself (formal)'",
+    "prompt_en": "Choose correct translation for 'Myself / Yourself / Himself (formal)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Myself / Yourself / Himself (formal)'",
+    "text": "Myself / Yourself / Himself (formal)",
+    "subtext": "",
+    "answer": "स्वयं",
+    "answer_vi": "Tự bản thân",
+    "options": [
+      "स्वयं",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "काम करना​​​​​​​​​​​​​​",
+      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Tự bản thân",
+      "Cười lớn",
+      "Làm việc",
+      "Kể / Giải thích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Myself / Yourself / Himself (formal)",
+        "english": "स्वयं (Tự bản thân)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​​​​​​​​​​​​​​ (Làm việc)"
+      },
+      {
+        "hindi": "To tell / explain",
+        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Product",
+    "translation_en": "उत्पाद",
+    "translation_vi": "Sản phẩm",
+    "options_en": [
+      "उत्पाद",
+      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "मदद​​"
+    ],
+    "options_vi": [
+      "Sản phẩm",
+      "Làm",
+      "Viết",
+      "Sự giúp đỡ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the उत्पाद / Tôi thấy Sản phẩm",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Product"
+    ],
+    "correctHindiSentence": "I see the Product"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Làm",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To do"
+    ],
+    "correctHindiSentence": "I want a To do"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Product and To tell / explain",
+      "Practiced constructing sentences."
+    ]
+  }
+]

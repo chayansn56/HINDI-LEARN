@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 13",
+    "description": "Master the vocabulary and grammar for: Speak - Level 13. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: क्या चल रहा है?.",
+    "simpleRule": "Remember: क्या चल रहा है? means What's up? (Có chuyện gì thế?)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्या चल रहा है?",
+    "transliteration": "kya chal raha hai?",
+    "english": "What's up?",
+    "vietnamese": "Có chuyện gì thế?",
+    "audio": "क्या चल रहा है?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'क्या चल रहा है?'",
+    "prompt_en": "Choose correct translation for 'क्या चल रहा है?'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'क्या चल रहा है?'",
+    "text": "क्या चल रहा है?",
+    "subtext": "kya chal raha hai?",
+    "answer": "What's up?",
+    "answer_vi": "Có chuyện gì thế?",
+    "options": [
+      "What's up?",
+      "To speak",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Có chuyện gì thế?",
+      "Nói",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "क्या चल रहा है?",
+        "english": "What's up? (Có chuyện gì thế?)"
+      },
+      {
+        "hindi": "बोलना​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: प्रणाम दादी जी.",
+    "simpleRule": "Remember: प्रणाम दादी जी means Reverent hello to Grandma (Kính chào bà nội kính yêu)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्रणाम दादी जी",
+    "transliteration": "pranam dadi ji",
+    "english": "Reverent hello to Grandma",
+    "vietnamese": "Kính chào bà nội kính yêu",
+    "audio": "प्रणाम दादी जी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जब",
+    "transliteration": "jab",
+    "english": "When (relative)",
+    "vietnamese": "Khi mà",
+    "audio": "जब"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'प्रणाम दादी जी'",
+    "prompt_en": "Choose correct translation for 'प्रणाम दादी जी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'प्रणाम दादी जी'",
+    "text": "प्रणाम दादी जी",
+    "subtext": "pranam dadi ji",
+    "answer": "Reverent hello to Grandma",
+    "answer_vi": "Kính chào bà nội kính yêu",
+    "options": [
+      "Reverent hello to Grandma",
+      "When (relative)",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Kính chào bà nội kính yêu",
+      "Khi mà",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "प्रणाम दादी जी",
+        "english": "Reverent hello to Grandma (Kính chào bà nội kính yêu)"
+      },
+      {
+        "hindi": "जब",
+        "english": "When (relative) (Khi mà)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "क्या चल रहा है?",
+    "translation_en": "What's up?",
+    "translation_vi": "Có chuyện gì thế?",
+    "options_en": [
+      "What's up?",
+      "To speak",
+      "To speak",
+      "To speak"
+    ],
+    "options_vi": [
+      "Có chuyện gì thế?",
+      "Nói",
+      "Nói",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a What's up? / Đây là Có chuyện gì thế?",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "क्या चल रहा है?",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक क्या चल रहा है? है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
+    "hindiWords": [
+      "मैं",
+      "बोलना​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं बोलना​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: क्या चल रहा है?, बोलना​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

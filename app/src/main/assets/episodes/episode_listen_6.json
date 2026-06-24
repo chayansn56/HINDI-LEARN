@@ -1,185 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Listen - Lesson 6",
-    "description": "Learn key vocabulary and concepts for Listen - Lesson 6. Listen carefully and read along in English and Vietnamese.",
+    "title": "Listen - Level 6",
+    "description": "Master the vocabulary and grammar for: Listen - Level 6. Read the key points carefully.",
     "keyPoints": [
-      "बुखार (bukhaar) = Fever / Sốt",
-      "पूछना​​​​​​​​​​​​ (pūchnā) = To ask / Hỏi",
-      "sिखाना​​​​​​​​​​​ (sikhānā) = To teach / Dạy"
+      "Learn listen concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 6",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बुखार means 'Fever' (Sốt)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: ज़ोर से बोलिए।.",
+    "simpleRule": "Remember: ज़ोर से बोलिए। means Speak louder. (Nói to lên.)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बुखार",
-    "transliteration": "bukhaar",
-    "english": "Fever",
-    "vietnamese": "Sốt",
-    "audio": "बुखार"
+    "hindi": "ज़ोर से बोलिए।",
+    "transliteration": "zor se boliye",
+    "english": "Speak louder.",
+    "vietnamese": "Nói to lên.",
+    "audio": "ज़ोर से बोलिए।"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बुखार'",
-    "prompt_en": "Choose the correct translation for 'बुखार'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बुखार'",
-    "text": "बुखार",
-    "subtext": "bukhaar",
-    "answer": "Fever",
-    "answer_vi": "Sốt",
+    "prompt": "Translate 'ज़ोर से बोलिए।'",
+    "prompt_en": "Choose correct translation for 'ज़ोर से बोलिए।'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ज़ोर से बोलिए।'",
+    "text": "ज़ोर से बोलिए।",
+    "subtext": "zor se boliye",
+    "answer": "Speak louder.",
+    "answer_vi": "Nói to lên.",
     "options": [
-      "Isn't it?",
-      "To ask",
-      "To teach",
-      "Fever"
+      "Speak louder.",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
-      "Phải không?",
-      "Hỏi",
-      "Dạy",
-      "Sốt"
+      "Nói to lên.",
+      "Nghe",
+      "Nghe",
+      "Nghe"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​",
-    "transliteration": "sikhānā",
-    "english": "To teach",
-    "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "ज़ोर से बोलिए।",
+        "english": "Speak louder. (Nói to lên.)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना",
+        "english": "To listen / hear (Nghe)"
+      },
+      {
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "ना",
-    "transliteration": "nā",
-    "english": "Isn't it?",
-    "vietnamese": "Phải không?",
-    "audio": "ना"
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल​​​​",
+    "transliteration": "bādal",
+    "english": "Cloud",
+    "vietnamese": "Đám mây",
+    "audio": "बादल​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "sunnā",
+    "english": "To listen / hear",
+    "vietnamese": "Nghe",
+    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "sunnā",
+    "answer": "To listen / hear",
+    "answer_vi": "Nghe",
+    "options": [
+      "To listen / hear",
+      "To listen / hear",
+      "Cloud",
+      "To listen / hear"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Đám mây",
+      "Nghe"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बुखार",
-        "english": "Fever (Sốt)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "पूछना​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
+        "hindi": "सुनना​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "sिखाना​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
+        "hindi": "बादल​​​​",
+        "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "ना",
-        "english": "Isn't it? (Phải không?)"
+        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "पूछना​​​​​​​​​​​​",
-    "translation_en": "To ask",
-    "translation_vi": "Hỏi",
+    "audio": "ज़ोर से बोलिए।",
+    "translation_en": "Speak louder.",
+    "translation_vi": "Nói to lên.",
     "options_en": [
-      "Fever",
-      "To ask",
-      "To teach",
-      "Isn't it?"
+      "Speak louder.",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
-      "Sốt",
-      "Hỏi",
-      "Dạy",
-      "Phải không?"
+      "Nói to lên.",
+      "Nghe",
+      "Nghe",
+      "Nghe"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "This is a Speak louder. / Đây là Nói to lên.",
     "hindiWords": [
       "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "एक",
+      "ज़ोर से बोलिए।",
+      "है"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​​​​​",
-    "transliteration": "dekhnā",
-    "english": "To see / watch",
-    "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​",
-    "transliteration": "likhnā",
-    "english": "To write",
-    "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "sिखाना​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
-      },
-      {
-        "hindi": "ना",
-        "english": "Isn't it? (Phải không?)"
-      },
-      {
-        "hindi": "देखना​​​​​​​​​​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
-      },
-      {
-        "hindi": "लिखना​​​​​​​​​​​​",
-        "english": "To write (Viết)"
-      }
-    ]
+    "correctHindiSentence": "यह एक ज़ोर से बोलिए। है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This water is clean / Nước này sạch",
+    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
-      "यह",
-      "पानी",
-      "साफ़",
-      "है",
-      "दूध",
-      "गंदा"
+      "मैं",
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "यह पानी साफ़ है"
+    "correctHindiSentence": "मैं सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बुखार, sिखाना​​​​​​​​​​​, देखना​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'This water is clean'."
+      "You learned: ज़ोर से बोलिए।, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
     ]
   }
 ]

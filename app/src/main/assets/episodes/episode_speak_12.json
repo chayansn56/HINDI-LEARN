@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 12",
+    "description": "Master the vocabulary and grammar for: Speak - Level 12. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: क्यों.",
+    "simpleRule": "Remember: क्यों means Why (Tại sao)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "क्यों",
+    "transliteration": "kyon",
+    "english": "Why",
+    "vietnamese": "Tại sao",
+    "audio": "क्यों"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कैसे",
+    "transliteration": "kaise",
+    "english": "How",
+    "vietnamese": "Như thế nào",
+    "audio": "कैसे"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'क्यों'",
+    "prompt_en": "Choose correct translation for 'क्यों'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'क्यों'",
+    "text": "क्यों",
+    "subtext": "kyon",
+    "answer": "Why",
+    "answer_vi": "Tại sao",
+    "options": [
+      "Why",
+      "To speak",
+      "How",
+      "To speak"
+    ],
+    "options_vi": [
+      "Tại sao",
+      "Nói",
+      "Như thế nào",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "क्यों",
+        "english": "Why (Tại sao)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "कैसे",
+        "english": "How (Như thế nào)"
+      },
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कितने",
+    "transliteration": "kitne",
+    "english": "How many",
+    "vietnamese": "Bao nhiêu (số lượng)",
+    "audio": "कितने"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना​",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नमस्ते, आप कैसे हैं?",
+    "transliteration": "namaste, aap kaise hain?",
+    "english": "Hello, how are you?",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "नमस्ते, आप कैसे हैं?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "bolnā",
+    "answer": "To speak",
+    "answer_vi": "Nói",
+    "options": [
+      "To speak",
+      "How many",
+      "To speak",
+      "Hello, how are you?"
+    ],
+    "options_vi": [
+      "Nói",
+      "Bao nhiêu (số lượng)",
+      "Nói",
+      "Xin chào, bạn khỏe không?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "कितने",
+        "english": "How many (Bao nhiêu (số lượng))"
+      },
+      {
+        "hindi": "बोलना​",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "नमस्ते, आप कैसे हैं?",
+        "english": "Hello, how are you? (Xin chào, bạn khỏe không?)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "क्यों",
+    "translation_en": "Why",
+    "translation_vi": "Tại sao",
+    "options_en": [
+      "Why",
+      "To speak",
+      "How",
+      "To speak"
+    ],
+    "options_vi": [
+      "Tại sao",
+      "Nói",
+      "Như thế nào",
+      "Nói"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Why / Đây là Tại sao",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "क्यों",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक क्यों है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see To speak / Tôi thấy Nói",
+    "hindiWords": [
+      "मैं",
+      "बोलना​​​​​​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं बोलना​​​​​​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: क्यों, नमस्ते, आप कैसे हैं?",
+      "Practiced constructing sentences."
+    ]
+  }
+]

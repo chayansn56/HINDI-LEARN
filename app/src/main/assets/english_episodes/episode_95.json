@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 95",
+    "description": "Master the vocabulary and grammar for: Episode 95. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 95",
+    "title_vi": "Tập 95",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Failure (असफलता).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Sự thất bại."
+      },
+      {
+        "hindi": "Later, you encounter a To sleep (सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Ngủ."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Failure",
+        "isCorrect": true
+      },
+      {
+        "text": "To sleep",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Failure.",
+    "simpleRule": "Remember: Failure means असफलता (Sự thất bại)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Failure",
+    "transliteration": "",
+    "english": "असफलता",
+    "vietnamese": "Sự thất bại",
+    "audio": "Failure"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sleep",
+    "transliteration": "",
+    "english": "सोना​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngủ",
+    "audio": "To sleep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sell",
+    "transliteration": "",
+    "english": "बेचना​​​​​​​​​​​​",
+    "vietnamese": "Bán",
+    "audio": "To sell"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Failure'",
+    "prompt_en": "Choose correct translation for 'Failure'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Failure'",
+    "text": "Failure",
+    "subtext": "",
+    "answer": "असफलता",
+    "answer_vi": "Sự thất bại",
+    "options": [
+      "असफलता",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​",
+      "बेचना​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự thất bại",
+      "Ngủ",
+      "Ngủ",
+      "Bán"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Failure",
+        "english": "असफलता (Sự thất bại)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To sleep",
+        "english": "सोना​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+      },
+      {
+        "hindi": "To sell",
+        "english": "बेचना​​​​​​​​​​​​ (Bán)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To open.",
+    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​​ (Mở)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "River",
+    "transliteration": "",
+    "english": "नदी​​​​​​​​​",
+    "vietnamese": "Con sông",
+    "audio": "River"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "And / More",
+    "transliteration": "",
+    "english": "और",
+    "vietnamese": "Và / Thêm nữa",
+    "audio": "And / More"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom (relative plural)",
+    "transliteration": "",
+    "english": "जिन्हें",
+    "vietnamese": "Người mà (số nhiều)",
+    "audio": "Whom (relative plural)"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To open'",
+    "prompt_en": "Choose correct translation for 'To open'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
+    "text": "To open",
+    "subtext": "",
+    "answer": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Mở",
+    "options": [
+      "खोलना​​​​​​​​​​​​​​​​​​​​",
+      "नदी​​​​​​​​​",
+      "और",
+      "जिन्हें"
+    ],
+    "options_vi": [
+      "Mở",
+      "Con sông",
+      "Và / Thêm nữa",
+      "Người mà (số nhiều)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "River",
+        "english": "नदी​​​​​​​​​ (Con sông)"
+      },
+      {
+        "hindi": "And / More",
+        "english": "और (Và / Thêm nữa)"
+      },
+      {
+        "hindi": "Whom (relative plural)",
+        "english": "जिन्हें (Người mà (số nhiều))"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Business / Trade.",
+    "simpleRule": "Remember: Business / Trade means व्यापार (Kinh doanh / Thương mại)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Business / Trade",
+    "transliteration": "",
+    "english": "व्यापार",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "Business / Trade"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To close",
+    "transliteration": "",
+    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đóng",
+    "audio": "To close"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Business / Trade'",
+    "prompt_en": "Choose correct translation for 'Business / Trade'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Business / Trade'",
+    "text": "Business / Trade",
+    "subtext": "",
+    "answer": "व्यापार",
+    "answer_vi": "Kinh doanh / Thương mại",
+    "options": [
+      "व्यापार",
+      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Kinh doanh / Thương mại",
+      "Đóng",
+      "Cười lớn",
+      "Ngồi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Business / Trade",
+        "english": "व्यापार (Kinh doanh / Thương mại)"
+      },
+      {
+        "hindi": "To close",
+        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Failure",
+    "translation_en": "असफलता",
+    "translation_vi": "Sự thất bại",
+    "options_en": [
+      "असफलता",
+      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना​​​​​​​​​​​​​​​​​​​",
+      "बेचना​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Sự thất bại",
+      "Ngủ",
+      "Ngủ",
+      "Bán"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the असफलता / Tôi thấy Sự thất bại",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Failure"
+    ],
+    "correctHindiSentence": "I see the Failure"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Ngủ",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To sleep"
+    ],
+    "correctHindiSentence": "I want a To sleep"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Failure and To sit",
+      "Practiced constructing sentences."
+    ]
+  }
+]

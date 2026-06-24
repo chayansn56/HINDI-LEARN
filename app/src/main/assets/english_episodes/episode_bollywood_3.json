@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Bollywood - Level 3",
+    "description": "Master the vocabulary and grammar for: Bollywood - Level 3. Read the key points carefully.",
+    "keyPoints": [
+      "Learn bollywood concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Star.",
+    "simpleRule": "Remember: Star means तारा​​​​ (Ngôi sao)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "सितारा",
+    "vietnamese": "Ngôi sao điện ảnh",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Star'",
+    "prompt_en": "Choose correct translation for 'Star'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
+    "text": "Star",
+    "subtext": "",
+    "answer": "तारा​​​​",
+    "answer_vi": "Ngôi sao",
+    "options": [
+      "तारा​​​​",
+      "तारा​​​​​​​​​",
+      "सितारा",
+      "तारा​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngôi sao",
+      "Ngôi sao",
+      "Ngôi sao điện ảnh",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "सितारा (Ngôi sao điện ảnh)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​​​ (Ngôi sao)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Romance.",
+    "simpleRule": "Remember: Romance means रोमांस (Sự lãng mạn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Romance",
+    "transliteration": "",
+    "english": "रोमांस",
+    "vietnamese": "Sự lãng mạn",
+    "audio": "Romance"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Romance'",
+    "prompt_en": "Choose correct translation for 'Romance'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Romance'",
+    "text": "Romance",
+    "subtext": "",
+    "answer": "रोमांस",
+    "answer_vi": "Sự lãng mạn",
+    "options": [
+      "रोमांस",
+      "तारा​​​​​",
+      "तारा​​​​​​",
+      "तारा"
+    ],
+    "options_vi": [
+      "Sự lãng mạn",
+      "Ngôi sao",
+      "Ngôi sao",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Romance",
+        "english": "रोमांस (Sự lãng mạn)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा (Ngôi sao)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Actress.",
+    "simpleRule": "Remember: Actress means अभिनेत्री (Nữ diễn viên)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Actress",
+    "transliteration": "",
+    "english": "अभिनेत्री",
+    "vietnamese": "Nữ diễn viên",
+    "audio": "Actress"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hero",
+    "transliteration": "",
+    "english": "हीरो",
+    "vietnamese": "Nam chính / Anh hùng",
+    "audio": "Hero"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dance",
+    "transliteration": "",
+    "english": "नृत्य",
+    "vietnamese": "Điệu nhảy",
+    "audio": "Dance"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Actress'",
+    "prompt_en": "Choose correct translation for 'Actress'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Actress'",
+    "text": "Actress",
+    "subtext": "",
+    "answer": "अभिनेत्री",
+    "answer_vi": "Nữ diễn viên",
+    "options": [
+      "अभिनेत्री",
+      "तारा​​​​​​​​​​​​",
+      "हीरो",
+      "नृत्य"
+    ],
+    "options_vi": [
+      "Nữ diễn viên",
+      "Ngôi sao",
+      "Nam chính / Anh hùng",
+      "Điệu nhảy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Actress",
+        "english": "अभिनेत्री (Nữ diễn viên)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Hero",
+        "english": "हीरो (Nam chính / Anh hùng)"
+      },
+      {
+        "hindi": "Dance",
+        "english": "नृत्य (Điệu nhảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Star.",
+    "simpleRule": "Remember: Star means तारा​​​​​​​​​​ (Ngôi sao)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Star",
+    "transliteration": "",
+    "english": "तारा​​​​​​​​",
+    "vietnamese": "Ngôi sao",
+    "audio": "Star"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Star'",
+    "prompt_en": "Choose correct translation for 'Star'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
+    "text": "Star",
+    "subtext": "",
+    "answer": "तारा​​​​​​​​​​",
+    "answer_vi": "Ngôi sao",
+    "options": [
+      "तारा​​​​​​​​​​",
+      "तारा​​​​​​​",
+      "तारा​​",
+      "तारा​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngôi sao",
+      "Ngôi sao",
+      "Ngôi sao",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​ (Ngôi sao)"
+      },
+      {
+        "hindi": "Star",
+        "english": "तारा​​​​​​​​ (Ngôi sao)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Star",
+    "translation_en": "तारा​​​​",
+    "translation_vi": "Ngôi sao",
+    "options_en": [
+      "तारा​​​​",
+      "तारा​​​​​​​​​",
+      "सितारा",
+      "तारा​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Ngôi sao",
+      "Ngôi sao",
+      "Ngôi sao điện ảnh",
+      "Ngôi sao"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a तारा​​​​ / Nó là một Ngôi sao",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "Star"
+    ],
+    "correctHindiSentence": "It is a Star"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like तारा​​​​​​​​​ / Tôi thích Ngôi sao",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Star"
+    ],
+    "correctHindiSentence": "I really like Star"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Star and Star",
+      "Practiced constructing sentences."
+    ]
+  }
+]

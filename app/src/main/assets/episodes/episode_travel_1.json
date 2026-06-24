@@ -1,184 +1,222 @@
 [
   {
     "type": "Introduction",
-    "title": "Travel - Lesson 1",
-    "description": "Learn key vocabulary and concepts for Travel - Lesson 1. Listen carefully and read along in English and Vietnamese.",
+    "title": "Travel - Level 1",
+    "description": "Master the vocabulary and grammar for: Travel - Level 1. Read the key points carefully.",
     "keyPoints": [
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​ (baiṭhnā) = To sit / Ngồi",
-      "काम करना​​​​​​​​​​​​​​​​​​​ (kām karnā) = To work / Làm việc",
-      "खोलना​​​​​​​​​​​​​​​​ (kholnā) = To open / Mở"
+      "Learn travel concepts."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Vocabulary & Grammar - Part 1",
-    "explanation": "Focus on speaking and writing these essential terms carefully. Pay attention to gender endings and postpositions.",
-    "simpleRule": "Remember: बैठना​​​​​​​​​​​​​​​​​​​​​​​​ means 'To sit' (Ngồi)."
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: सफ़र​​​​​​​​​.",
+    "simpleRule": "Remember: सफ़र​​​​​​​​​ means Journey (Chuyến đi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "baiṭhnā",
-    "english": "To sit",
-    "vietnamese": "Ngồi",
-    "audio": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "सफ़र​​​​​​​​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​​​​​​​​"
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kām karnā",
-    "english": "To work",
-    "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​"
+    "hindi": "बस स्टैंड",
+    "transliteration": "bus stand",
+    "english": "Bus stop",
+    "vietnamese": "Trạm xe buýt",
+    "audio": "बस स्टैंड"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सावधान रहें।",
+    "transliteration": "saavdhaan rahein",
+    "english": "Be careful / Watch out.",
+    "vietnamese": "Hãy cẩn thận.",
+    "audio": "सावधान रहें।"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व्यापार",
+    "transliteration": "vyaapaar",
+    "english": "Business / Trade",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "व्यापार"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बैठना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose the correct translation for 'बैठना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बैठना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "baiṭhnā",
-    "answer": "To sit",
-    "answer_vi": "Ngồi",
+    "prompt": "Translate 'सफ़र​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​​​​​​​​'",
+    "text": "सफ़र​​​​​​​​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
     "options": [
-      "To work",
-      "To sit",
-      "To open",
-      "Turn left."
+      "Journey",
+      "Bus stop",
+      "Be careful / Watch out.",
+      "Business / Trade"
     ],
     "options_vi": [
-      "Làm việc",
-      "Ngồi",
-      "Mở",
-      "Rẽ trái."
+      "Chuyến đi",
+      "Trạm xe buýt",
+      "Hãy cẩn thận.",
+      "Kinh doanh / Thương mại"
     ]
   },
   {
-    "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​​​​​​​​​​",
-    "transliteration": "kholnā",
-    "english": "To open",
-    "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​​​​​​​​​​"
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "सफ़र​​​​​​​​​",
+        "english": "Journey (Chuyến đi)"
+      },
+      {
+        "hindi": "बस स्टैंड",
+        "english": "Bus stop (Trạm xe buýt)"
+      },
+      {
+        "hindi": "सावधान रहें।",
+        "english": "Be careful / Watch out. (Hãy cẩn thận.)"
+      },
+      {
+        "hindi": "व्यापार",
+        "english": "Business / Trade (Kinh doanh / Thương mại)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: सफ़र​​.",
+    "simpleRule": "Remember: सफ़र​​ means Journey (Chuyến đi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बाएँ मुड़िए।",
-    "transliteration": "bāẽ muṛie.",
-    "english": "Turn left.",
-    "vietnamese": "Rẽ trái.",
-    "audio": "बाएँ मुड़िए।"
+    "hindi": "सफ़र​​",
+    "transliteration": "safar",
+    "english": "Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शौचालय",
+    "transliteration": "shauchaalay",
+    "english": "Restroom / Toilet",
+    "vietnamese": "Nhà vệ sinh",
+    "audio": "शौचालय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट",
+    "transliteration": "ṭikaṭ",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाथरूम",
+    "transliteration": "bathroom",
+    "english": "Bathroom",
+    "vietnamese": "Nhà tắm / Toilet",
+    "audio": "बाथरूम"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'सफ़र​​'",
+    "prompt_en": "Choose correct translation for 'सफ़र​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सफ़र​​'",
+    "text": "सफ़र​​",
+    "subtext": "safar",
+    "answer": "Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Journey",
+      "Restroom / Toilet",
+      "Ticket",
+      "Bathroom"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Nhà vệ sinh",
+      "Vé",
+      "Nhà tắm / Toilet"
+    ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match the Hindi words with their meanings",
+    "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sit (Ngồi)"
+        "hindi": "सफ़र​​",
+        "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​",
-        "english": "To work (Làm việc)"
+        "hindi": "शौचालय",
+        "english": "Restroom / Toilet (Nhà vệ sinh)"
       },
       {
-        "hindi": "खोलना​​​​​​​​​​​​​​​​",
-        "english": "To open (Mở)"
+        "hindi": "टिकट",
+        "english": "Ticket (Vé)"
       },
       {
-        "hindi": "बाएँ मुड़िए।",
-        "english": "Turn left. (Rẽ trái.)"
+        "hindi": "बाथरूम",
+        "english": "Bathroom (Nhà tắm / Toilet)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To work",
-    "translation_vi": "Làm việc",
+    "audio": "सफ़र​​​​​​​​​",
+    "translation_en": "Journey",
+    "translation_vi": "Chuyến đi",
     "options_en": [
-      "Turn left.",
-      "To sit",
-      "To open",
-      "To work"
+      "Journey",
+      "Bus stop",
+      "Be careful / Watch out.",
+      "Business / Trade"
     ],
     "options_vi": [
-      "Rẽ trái.",
-      "Ngồi",
-      "Mở",
-      "Làm việc"
+      "Chuyến đi",
+      "Trạm xe buýt",
+      "Hãy cẩn thận.",
+      "Kinh doanh / Thương mại"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel? / Khách sạn ở đâu?",
+    "englishSentence": "This is a Journey / Đây là Chuyến đi",
     "hindiWords": [
-      "होटल",
-      "कहाँ",
-      "है",
-      "स्टेशन",
-      "में"
+      "यह",
+      "एक",
+      "सफ़र​​​​​​​​​",
+      "है"
     ],
-    "correctHindiSentence": "होटल कहाँ है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sāf karnā",
-    "english": "To clean",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the words to proceed",
-    "pairs": [
-      {
-        "hindi": "खोलना​​​​​​​​​​​​​​​​",
-        "english": "To open (Mở)"
-      },
-      {
-        "hindi": "बाएँ मुड़िए।",
-        "english": "Turn left. (Rẽ trái.)"
-      },
-      {
-        "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​",
-        "english": "To clean (Dọn dẹp / Lau chùi)"
-      },
-      {
-        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To cry (Khóc)"
-      }
-    ]
+    "correctHindiSentence": "यह एक सफ़र​​​​​​​​​ है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Please reduce the price / Làm ơn giảm giá đi",
+    "englishSentence": "I see Bus stop / Tôi thấy Trạm xe buýt",
     "hindiWords": [
-      "कृपया",
-      "दाम",
-      "कम",
-      "करो",
-      "ज्यादा",
-      "पैसे"
+      "मैं",
+      "बस स्टैंड",
+      "देखता",
+      "हूँ"
     ],
-    "correctHindiSentence": "कृपया दाम कम करो"
+    "correctHindiSentence": "मैं बस स्टैंड देखता हूँ"
   },
   {
     "type": "RevisionSummary",
-    "title": "Lesson Summary",
+    "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned basic vocabulary terms: बैठना​​​​​​​​​​​​​​​​​​​​​​​​, खोलना​​​​​​​​​​​​​​​​, साफ करना​​​​​​​​​​​​​​​​​​​.",
-      "You completed interactive listening and matching drills.",
-      "You practiced word ordering for the sentence: 'Please reduce the price'."
+      "You learned: सफ़र​​​​​​​​​, बाथरूम",
+      "Practiced constructing sentences."
     ]
   }
 ]

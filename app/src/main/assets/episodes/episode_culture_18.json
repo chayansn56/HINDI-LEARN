@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Level 18",
+    "description": "Master the vocabulary and grammar for: Culture - Level 18. Read the key points carefully.",
+    "keyPoints": [
+      "Learn culture concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मंदिर.",
+    "simpleRule": "Remember: मंदिर means Temple (Đền thờ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मंदिर",
+    "transliteration": "mandir",
+    "english": "Temple",
+    "vietnamese": "Đền thờ",
+    "audio": "मंदिर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नच बलिए",
+    "transliteration": "nac balie",
+    "english": "Dance, my love",
+    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "audio": "नच बलिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाना",
+    "transliteration": "khānā",
+    "english": "To eat / Food",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "खाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलो शुरू करते हैं।",
+    "transliteration": "chalo shuru karte hain",
+    "english": "Let's start.",
+    "vietnamese": "Hãy bắt đầu thôi.",
+    "audio": "चलो शुरू करते हैं।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मंदिर'",
+    "prompt_en": "Choose correct translation for 'मंदिर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मंदिर'",
+    "text": "मंदिर",
+    "subtext": "mandir",
+    "answer": "Temple",
+    "answer_vi": "Đền thờ",
+    "options": [
+      "Temple",
+      "Dance, my love",
+      "To eat / Food",
+      "Let's start."
+    ],
+    "options_vi": [
+      "Đền thờ",
+      "Nhảy đi tình yêu của tôi",
+      "Ăn / Đồ ăn",
+      "Hãy bắt đầu thôi."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मंदिर",
+        "english": "Temple (Đền thờ)"
+      },
+      {
+        "hindi": "नच बलिए",
+        "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
+      },
+      {
+        "hindi": "खाना",
+        "english": "To eat / Food (Ăn / Đồ ăn)"
+      },
+      {
+        "hindi": "चलो शुरू करते हैं।",
+        "english": "Let's start. (Hãy bắt đầu thôi.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मिट्टी​​.",
+    "simpleRule": "Remember: मिट्टी​​ means Soil / Earth (Đất)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साझेदारी",
+    "transliteration": "sājhedārī",
+    "english": "Partnership",
+    "vietnamese": "Quan hệ đối tác",
+    "audio": "साझेदारी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाड़ी",
+    "transliteration": "gāṛī",
+    "english": "Car / Train / Cart",
+    "vietnamese": "Xe hơi / Xe lửa",
+    "audio": "गाड़ी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "त्योहार",
+    "transliteration": "tyohaar",
+    "english": "Festival",
+    "vietnamese": "Lễ hội",
+    "audio": "त्योहार"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मिट्टी​​'",
+    "prompt_en": "Choose correct translation for 'मिट्टी​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​'",
+    "text": "मिट्टी​​",
+    "subtext": "miṭṭī",
+    "answer": "Soil / Earth",
+    "answer_vi": "Đất",
+    "options": [
+      "Soil / Earth",
+      "Partnership",
+      "Car / Train / Cart",
+      "Festival"
+    ],
+    "options_vi": [
+      "Đất",
+      "Quan hệ đối tác",
+      "Xe hơi / Xe lửa",
+      "Lễ hội"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "साझेदारी",
+        "english": "Partnership (Quan hệ đối tác)"
+      },
+      {
+        "hindi": "गाड़ी",
+        "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
+      },
+      {
+        "hindi": "त्योहार",
+        "english": "Festival (Lễ hội)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मंदिर",
+    "translation_en": "Temple",
+    "translation_vi": "Đền thờ",
+    "options_en": [
+      "Temple",
+      "Dance, my love",
+      "To eat / Food",
+      "Let's start."
+    ],
+    "options_vi": [
+      "Đền thờ",
+      "Nhảy đi tình yêu của tôi",
+      "Ăn / Đồ ăn",
+      "Hãy bắt đầu thôi."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Temple / Đây là Đền thờ",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मंदिर",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मंदिर है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Dance, my love / Tôi thấy Nhảy đi tình yêu của tôi",
+    "hindiWords": [
+      "मैं",
+      "नच बलिए",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं नच बलिए देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: मंदिर, त्योहार",
+      "Practiced constructing sentences."
+    ]
+  }
+]

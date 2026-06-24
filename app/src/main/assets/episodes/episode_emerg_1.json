@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Emerg - Level 1",
+    "description": "Master the vocabulary and grammar for: Emerg - Level 1. Read the key points carefully.",
+    "keyPoints": [
+      "Learn emerg concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मदद​​​​​​​.",
+    "simpleRule": "Remember: मदद​​​​​​​ means Help (Sự giúp đỡ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मदद​​​​​​​",
+    "transliteration": "madad",
+    "english": "Help",
+    "vietnamese": "Sự giúp đỡ",
+    "audio": "मदद​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दवाई",
+    "transliteration": "dawai",
+    "english": "Medicine",
+    "vietnamese": "Thuốc",
+    "audio": "दवाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अस्पताल",
+    "transliteration": "aspataal",
+    "english": "Hospital",
+    "vietnamese": "Bệnh viện",
+    "audio": "अस्पताल"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मदद​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'मदद​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद​​​​​​​'",
+    "text": "मदद​​​​​​​",
+    "subtext": "madad",
+    "answer": "Help",
+    "answer_vi": "Sự giúp đỡ",
+    "options": [
+      "Help",
+      "Medicine",
+      "Fire",
+      "Hospital"
+    ],
+    "options_vi": [
+      "Sự giúp đỡ",
+      "Thuốc",
+      "Lửa",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मदद​​​​​​​",
+        "english": "Help (Sự giúp đỡ)"
+      },
+      {
+        "hindi": "दवाई",
+        "english": "Medicine (Thuốc)"
+      },
+      {
+        "hindi": "आग​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "अस्पताल",
+        "english": "Hospital (Bệnh viện)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: आग​​​​​.",
+    "simpleRule": "Remember: आग​​​​​ means Fire (Lửa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आग​​​​",
+    "transliteration": "āg",
+    "english": "Fire",
+    "vietnamese": "Lửa",
+    "audio": "आग​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुझे मदद चाहिए।",
+    "transliteration": "mujhe madad chaahie",
+    "english": "I need help.",
+    "vietnamese": "Tôi cần giúp đỡ.",
+    "audio": "मुझे मदद चाहिए।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'आग​​​​​'",
+    "prompt_en": "Choose correct translation for 'आग​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​​​​'",
+    "text": "आग​​​​​",
+    "subtext": "āg",
+    "answer": "Fire",
+    "answer_vi": "Lửa",
+    "options": [
+      "Fire",
+      "Fire",
+      "Fire",
+      "I need help."
+    ],
+    "options_vi": [
+      "Lửa",
+      "Lửa",
+      "Lửa",
+      "Tôi cần giúp đỡ."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "आग​​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "आग​​​​​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "आग​​​​",
+        "english": "Fire (Lửa)"
+      },
+      {
+        "hindi": "मुझे मदद चाहिए।",
+        "english": "I need help. (Tôi cần giúp đỡ.)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मदद​​​​​​​",
+    "translation_en": "Help",
+    "translation_vi": "Sự giúp đỡ",
+    "options_en": [
+      "Help",
+      "Medicine",
+      "Fire",
+      "Hospital"
+    ],
+    "options_vi": [
+      "Sự giúp đỡ",
+      "Thuốc",
+      "Lửa",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Help / Đây là Sự giúp đỡ",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मदद​​​​​​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मदद​​​​​​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Medicine / Tôi thấy Thuốc",
+    "hindiWords": [
+      "मैं",
+      "दवाई",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं दवाई देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: मदद​​​​​​​, मुझे मदद चाहिए।",
+      "Practiced constructing sentences."
+    ]
+  }
+]

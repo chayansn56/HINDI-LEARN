@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 10",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 10. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To read.",
+    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rain",
+    "transliteration": "",
+    "english": "बारिश​​​",
+    "vietnamese": "Cơn mưa",
+    "audio": "Rain"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cinema / Theater",
+    "transliteration": "",
+    "english": "सिनेमा",
+    "vietnamese": "Điện ảnh",
+    "audio": "Cinema / Theater"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To read'",
+    "prompt_en": "Choose correct translation for 'To read'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
+    "text": "To read",
+    "subtext": "",
+    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Đọc",
+    "options": [
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बारिश​​​",
+      "धोना​​​​​",
+      "सिनेमा"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Cơn mưa",
+      "Rửa / Giặt",
+      "Điện ảnh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "Rain",
+        "english": "बारिश​​​ (Cơn mưa)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "Cinema / Theater",
+        "english": "सिनेमा (Điện ảnh)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Office.",
+    "simpleRule": "Remember: Office means दफ़्तर​​​​​​ (Văn phòng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Office",
+    "transliteration": "",
+    "english": "दफ़्तर​​​​​​",
+    "vietnamese": "Văn phòng",
+    "audio": "Office"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "under / below",
+    "transliteration": "",
+    "english": "के नीचे",
+    "vietnamese": "Dưới / Phía dưới",
+    "audio": "under / below"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Train station",
+    "transliteration": "",
+    "english": "रेलवे स्टेशन",
+    "vietnamese": "Ga tàu hỏa",
+    "audio": "Train station"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Office'",
+    "prompt_en": "Choose correct translation for 'Office'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
+    "text": "Office",
+    "subtext": "",
+    "answer": "दफ़्तर​​​​​​",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "दफ़्तर​​​​​​",
+      "के नीचे",
+      "जागना​​​​​​​​​​​",
+      "रेलवे स्टेशन"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Dưới / Phía dưới",
+      "Thức dậy",
+      "Ga tàu hỏa"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Office",
+        "english": "दफ़्तर​​​​​​ (Văn phòng)"
+      },
+      {
+        "hindi": "under / below",
+        "english": "के नीचे (Dưới / Phía dưới)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "Train station",
+        "english": "रेलवे स्टेशन (Ga tàu hỏa)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tea",
+    "transliteration": "",
+    "english": "चाय",
+    "vietnamese": "Trà",
+    "audio": "Tea"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cup",
+    "transliteration": "",
+    "english": "प्याला​",
+    "vietnamese": "Tách",
+    "audio": "Cup"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​",
+      "चाय",
+      "प्याला​",
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Trà",
+      "Tách",
+      "Cười lớn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Tea",
+        "english": "चाय (Trà)"
+      },
+      {
+        "hindi": "Cup",
+        "english": "प्याला​ (Tách)"
+      },
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To ask.",
+    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Stomach",
+    "transliteration": "",
+    "english": "पेट",
+    "vietnamese": "Bụng",
+    "audio": "Stomach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To ask'",
+    "prompt_en": "Choose correct translation for 'To ask'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
+    "text": "To ask",
+    "subtext": "",
+    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Hỏi",
+    "options": [
+      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बर्फ़​​​​",
+      "पेट",
+      "सुनना"
+    ],
+    "options_vi": [
+      "Hỏi",
+      "Tuyết / Đá",
+      "Bụng",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Stomach",
+        "english": "पेट (Bụng)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To read",
+    "translation_en": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_vi": "Đọc",
+    "options_en": [
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बारिश​​​",
+      "धोना​​​​​",
+      "सिनेमा"
+    ],
+    "options_vi": [
+      "Đọc",
+      "Cơn mưa",
+      "Rửa / Giặt",
+      "Điện ảnh"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Đọc",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "To read"
+    ],
+    "correctHindiSentence": "It is a To read"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like बारिश​​​ / Tôi thích Cơn mưa",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Rain"
+    ],
+    "correctHindiSentence": "I really like Rain"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To read and To listen / hear",
+      "Practiced constructing sentences."
+    ]
+  }
+]

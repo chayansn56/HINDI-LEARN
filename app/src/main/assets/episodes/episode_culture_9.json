@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Culture - Level 9",
+    "description": "Master the vocabulary and grammar for: Culture - Level 9. Read the key points carefully.",
+    "keyPoints": [
+      "Learn culture concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: मिट्टी​​.",
+    "simpleRule": "Remember: मिट्टी​​ means Soil / Earth (Đất)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "त्योहार",
+    "transliteration": "tyohaar",
+    "english": "Festival",
+    "vietnamese": "Lễ hội",
+    "audio": "त्योहार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चलो शुरू करते हैं।",
+    "transliteration": "chalo shuru karte hain",
+    "english": "Let's start.",
+    "vietnamese": "Hãy bắt đầu thôi.",
+    "audio": "चलो शुरू करते हैं।"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मिट्टी​​'",
+    "prompt_en": "Choose correct translation for 'मिट्टी​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​'",
+    "text": "मिट्टी​​",
+    "subtext": "miṭṭī",
+    "answer": "Soil / Earth",
+    "answer_vi": "Đất",
+    "options": [
+      "Soil / Earth",
+      "Soil / Earth",
+      "Festival",
+      "Let's start."
+    ],
+    "options_vi": [
+      "Đất",
+      "Đất",
+      "Lễ hội",
+      "Hãy bắt đầu thôi."
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मिट्टी​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "मिट्टी​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "त्योहार",
+        "english": "Festival (Lễ hội)"
+      },
+      {
+        "hindi": "चलो शुरू करते हैं।",
+        "english": "Let's start. (Hãy bắt đầu thôi.)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: मिट्टी​​​​​.",
+    "simpleRule": "Remember: मिट्टी​​​​​ means Soil / Earth (Đất)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नृत्य",
+    "transliteration": "nritya",
+    "english": "Dance",
+    "vietnamese": "Điệu nhảy",
+    "audio": "नृत्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खाना",
+    "transliteration": "khānā",
+    "english": "To eat / Food",
+    "vietnamese": "Ăn / Đồ ăn",
+    "audio": "खाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'मिट्टी​​​​​'",
+    "prompt_en": "Choose correct translation for 'मिट्टी​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​​​​'",
+    "text": "मिट्टी​​​​​",
+    "subtext": "miṭṭī",
+    "answer": "Soil / Earth",
+    "answer_vi": "Đất",
+    "options": [
+      "Soil / Earth",
+      "Dance",
+      "To eat / Food",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Đất",
+      "Điệu nhảy",
+      "Ăn / Đồ ăn",
+      "Đất"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "मिट्टी​​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "नृत्य",
+        "english": "Dance (Điệu nhảy)"
+      },
+      {
+        "hindi": "खाना",
+        "english": "To eat / Food (Ăn / Đồ ăn)"
+      },
+      {
+        "hindi": "मिट्टी​",
+        "english": "Soil / Earth (Đất)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मिट्टी​​",
+    "translation_en": "Soil / Earth",
+    "translation_vi": "Đất",
+    "options_en": [
+      "Soil / Earth",
+      "Soil / Earth",
+      "Festival",
+      "Let's start."
+    ],
+    "options_vi": [
+      "Đất",
+      "Đất",
+      "Lễ hội",
+      "Hãy bắt đầu thôi."
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Soil / Earth / Đây là Đất",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "मिट्टी​​",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक मिट्टी​​ है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Soil / Earth / Tôi thấy Đất",
+    "hindiWords": [
+      "मैं",
+      "मिट्टी​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं मिट्टी​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: मिट्टी​​, मिट्टी​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

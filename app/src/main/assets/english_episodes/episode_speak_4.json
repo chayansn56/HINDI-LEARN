@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Speak - Level 4",
+    "description": "Master the vocabulary and grammar for: Speak - Level 4. Read the key points carefully.",
+    "keyPoints": [
+      "Learn speak concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: No doubt..",
+    "simpleRule": "Remember: No doubt. means कोई शक नहीं। (Không còn nghi ngờ gì nữa.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No doubt.",
+    "transliteration": "",
+    "english": "कोई शक नहीं।",
+    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "audio": "No doubt."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whose (singular)",
+    "transliteration": "",
+    "english": "किसका",
+    "vietnamese": "Của ai",
+    "audio": "Whose (singular)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What a shame.",
+    "transliteration": "",
+    "english": "शर्म की बात है।",
+    "vietnamese": "Thật đáng hổ thẹn.",
+    "audio": "What a shame."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where",
+    "transliteration": "",
+    "english": "कहाँ",
+    "vietnamese": "Ở đâu",
+    "audio": "Where"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'No doubt.'",
+    "prompt_en": "Choose correct translation for 'No doubt.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'No doubt.'",
+    "text": "No doubt.",
+    "subtext": "",
+    "answer": "कोई शक नहीं।",
+    "answer_vi": "Không còn nghi ngờ gì nữa.",
+    "options": [
+      "कोई शक नहीं।",
+      "किसका",
+      "शर्म की बात है।",
+      "कहाँ"
+    ],
+    "options_vi": [
+      "Không còn nghi ngờ gì nữa.",
+      "Của ai",
+      "Thật đáng hổ thẹn.",
+      "Ở đâu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "No doubt.",
+        "english": "कोई शक नहीं। (Không còn nghi ngờ gì nữa.)"
+      },
+      {
+        "hindi": "Whose (singular)",
+        "english": "किसका (Của ai)"
+      },
+      {
+        "hindi": "What a shame.",
+        "english": "शर्म की बात है। (Thật đáng hổ thẹn.)"
+      },
+      {
+        "hindi": "Where",
+        "english": "कहाँ (Ở đâu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: No problem, it happens..",
+    "simpleRule": "Remember: No problem, it happens. means कोई बात नहीं, चलता है। (Không sao đâu, chuyện thường thôi.)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "No problem, it happens.",
+    "transliteration": "",
+    "english": "कोई बात नहीं, चलता है।",
+    "vietnamese": "Không sao đâu, chuyện thường thôi.",
+    "audio": "No problem, it happens."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Snow / Ice",
+    "transliteration": "",
+    "english": "बर्फ़​​​​​​​​",
+    "vietnamese": "Tuyết / Đá",
+    "audio": "Snow / Ice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Name",
+    "transliteration": "",
+    "english": "नाम",
+    "vietnamese": "Tên",
+    "audio": "Name"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Enough / Stop",
+    "transliteration": "",
+    "english": "बस",
+    "vietnamese": "Đủ rồi / Thôi",
+    "audio": "Enough / Stop"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'No problem, it happens.'",
+    "prompt_en": "Choose correct translation for 'No problem, it happens.'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'No problem, it happens.'",
+    "text": "No problem, it happens.",
+    "subtext": "",
+    "answer": "कोई बात नहीं, चलता है।",
+    "answer_vi": "Không sao đâu, chuyện thường thôi.",
+    "options": [
+      "कोई बात नहीं, चलता है।",
+      "बर्फ़​​​​​​​​",
+      "नाम",
+      "बस"
+    ],
+    "options_vi": [
+      "Không sao đâu, chuyện thường thôi.",
+      "Tuyết / Đá",
+      "Tên",
+      "Đủ rồi / Thôi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "No problem, it happens.",
+        "english": "कोई बात नहीं, चलता है। (Không sao đâu, chuyện thường thôi.)"
+      },
+      {
+        "hindi": "Snow / Ice",
+        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+      },
+      {
+        "hindi": "Name",
+        "english": "नाम (Tên)"
+      },
+      {
+        "hindi": "Enough / Stop",
+        "english": "बस (Đủ rồi / Thôi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: I don't know.",
+    "simpleRule": "Remember: I don't know means मुझे नहीं मालूम (Tôi không biết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't know",
+    "transliteration": "",
+    "english": "मुझे नहीं मालूम",
+    "vietnamese": "Tôi không biết",
+    "audio": "I don't know"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Friend",
+    "transliteration": "",
+    "english": "मित्र",
+    "vietnamese": "Bạn bè",
+    "audio": "Friend"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nose",
+    "transliteration": "",
+    "english": "नाक",
+    "vietnamese": "Mũi",
+    "audio": "Nose"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Right now",
+    "transliteration": "",
+    "english": "अभी",
+    "vietnamese": "Ngay bây giờ",
+    "audio": "Right now"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'I don't know'",
+    "prompt_en": "Choose correct translation for 'I don't know'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'I don't know'",
+    "text": "I don't know",
+    "subtext": "",
+    "answer": "मुझे नहीं मालूम",
+    "answer_vi": "Tôi không biết",
+    "options": [
+      "मुझे नहीं मालूम",
+      "मित्र",
+      "नाक",
+      "अभी"
+    ],
+    "options_vi": [
+      "Tôi không biết",
+      "Bạn bè",
+      "Mũi",
+      "Ngay bây giờ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "I don't know",
+        "english": "मुझे नहीं मालूम (Tôi không biết)"
+      },
+      {
+        "hindi": "Friend",
+        "english": "मित्र (Bạn bè)"
+      },
+      {
+        "hindi": "Nose",
+        "english": "नाक (Mũi)"
+      },
+      {
+        "hindi": "Right now",
+        "english": "अभी (Ngay bây giờ)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: Notebook.",
+    "simpleRule": "Remember: Notebook means कापी​​​​​​​​ (Sổ tay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​​​​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Notebook",
+    "transliteration": "",
+    "english": "कापी​​​",
+    "vietnamese": "Sổ tay",
+    "audio": "Notebook"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Eyes",
+    "transliteration": "",
+    "english": "आँखें",
+    "vietnamese": "Đôi mắt",
+    "audio": "Eyes"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How's it going? / How are you?",
+    "transliteration": "",
+    "english": "क्या हाल है?",
+    "vietnamese": "Thế nào rồi?",
+    "audio": "How's it going? / How are you?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Notebook'",
+    "prompt_en": "Choose correct translation for 'Notebook'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
+    "text": "Notebook",
+    "subtext": "",
+    "answer": "कापी​​​​​​​​",
+    "answer_vi": "Sổ tay",
+    "options": [
+      "कापी​​​​​​​​",
+      "कापी​​​",
+      "आँखें",
+      "क्या हाल है?"
+    ],
+    "options_vi": [
+      "Sổ tay",
+      "Sổ tay",
+      "Đôi mắt",
+      "Thế nào rồi?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​​​​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Notebook",
+        "english": "कापी​​​ (Sổ tay)"
+      },
+      {
+        "hindi": "Eyes",
+        "english": "आँखें (Đôi mắt)"
+      },
+      {
+        "hindi": "How's it going? / How are you?",
+        "english": "क्या हाल है? (Thế nào rồi?)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "No doubt.",
+    "translation_en": "कोई शक नहीं।",
+    "translation_vi": "Không còn nghi ngờ gì nữa.",
+    "options_en": [
+      "कोई शक नहीं।",
+      "किसका",
+      "शर्म की बात है।",
+      "कहाँ"
+    ],
+    "options_vi": [
+      "Không còn nghi ngờ gì nữa.",
+      "Của ai",
+      "Thật đáng hổ thẹn.",
+      "Ở đâu"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a कोई शक नहीं। / Nó là một Không còn nghi ngờ gì nữa.",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "No doubt."
+    ],
+    "correctHindiSentence": "It is a No doubt."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like किसका / Tôi thích Của ai",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "Whose (singular)"
+    ],
+    "correctHindiSentence": "I really like Whose (singular)"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: No doubt. and How's it going? / How are you?",
+      "Practiced constructing sentences."
+    ]
+  }
+]

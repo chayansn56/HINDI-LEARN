@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Numbers_lab - Level 15",
+    "description": "Master the vocabulary and grammar for: Numbers_lab - Level 15. Read the key points carefully.",
+    "keyPoints": [
+      "Learn numbers_lab concepts in depth."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​​​",
+      "सुनना​​​​​​",
+      "सुनना​​​​​​​​",
+      "पैसा​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nghe",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​ (Tiền)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: Three.",
+    "simpleRule": "Remember: Three means तीन (Số ba)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Three",
+    "transliteration": "",
+    "english": "तीन",
+    "vietnamese": "Số ba",
+    "audio": "Three"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Two",
+    "transliteration": "",
+    "english": "दो",
+    "vietnamese": "Số hai",
+    "audio": "Two"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Three'",
+    "prompt_en": "Choose correct translation for 'Three'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Three'",
+    "text": "Three",
+    "subtext": "",
+    "answer": "तीन",
+    "answer_vi": "Số ba",
+    "options": [
+      "तीन",
+      "सुनना​​​​​​​​​​​​​​​​",
+      "दो",
+      "सुनना​"
+    ],
+    "options_vi": [
+      "Số ba",
+      "Nghe",
+      "Số hai",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Three",
+        "english": "तीन (Số ba)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Two",
+        "english": "दो (Số hai)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Rupee / Money.",
+    "simpleRule": "Remember: Rupee / Money means रुपया (Đồng rupee / Tiền)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rupee / Money",
+    "transliteration": "",
+    "english": "रुपया",
+    "vietnamese": "Đồng rupee / Tiền",
+    "audio": "Rupee / Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Rupee / Money'",
+    "prompt_en": "Choose correct translation for 'Rupee / Money'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Rupee / Money'",
+    "text": "Rupee / Money",
+    "subtext": "",
+    "answer": "रुपया",
+    "answer_vi": "Đồng rupee / Tiền",
+    "options": [
+      "रुपया",
+      "सुनना​​​​​​​​​​​​​​​​​​​​",
+      "पैसा​​​​​​​​",
+      "सुनना​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Đồng rupee / Tiền",
+      "Nghe",
+      "Tiền",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Rupee / Money",
+        "english": "रुपया (Đồng rupee / Tiền)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​​​​ (Tiền)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set D",
+    "explanation": "Understand the usage and roots of: To listen / hear.",
+    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Money",
+    "transliteration": "",
+    "english": "पैसा​​​​​​​​​​​​",
+    "vietnamese": "Tiền",
+    "audio": "Money"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Phone",
+    "transliteration": "",
+    "english": "फ़ोन",
+    "vietnamese": "Điện thoại",
+    "audio": "Phone"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To listen / hear'",
+    "prompt_en": "Choose correct translation for 'To listen / hear'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
+    "text": "To listen / hear",
+    "subtext": "",
+    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Nghe",
+    "options": [
+      "सुनना​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना​​",
+      "पैसा​​​​​​​​​​​​",
+      "फ़ोन"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Tiền",
+      "Điện thoại"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​ (Nghe)"
+      },
+      {
+        "hindi": "Money",
+        "english": "पैसा​​​​​​​​​​​​ (Tiền)"
+      },
+      {
+        "hindi": "Phone",
+        "english": "फ़ोन (Điện thoại)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To listen / hear",
+    "translation_en": "सुनना​​​​​​​​​​​​",
+    "translation_vi": "Nghe",
+    "options_en": [
+      "सुनना​​​​​​​​​​​​",
+      "सुनना​​​​​​",
+      "सुनना​​​​​​​​",
+      "पैसा​​"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nghe",
+      "Nghe",
+      "Tiền"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is a सुनना​​​​​​​​​​​​ / Nó là một Nghe",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "It is a To listen / hear"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like सुनना​​​​​​ / Tôi thích Nghe",
+    "hindiWords": [
+      "I",
+      "really",
+      "like",
+      "To listen / hear"
+    ],
+    "correctHindiSentence": "I really like To listen / hear"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To listen / hear and Phone",
+      "Practiced constructing sentences."
+    ]
+  }
+]

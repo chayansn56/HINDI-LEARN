@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 45",
+    "description": "Master the vocabulary and grammar for: Episode 45. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 45",
+    "title_vi": "Tập 45",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To walk / move (चलना​​​​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Đi bộ / Di chuyển."
+      },
+      {
+        "hindi": "Later, you encounter a I am fine, thank you. (मैं ठीक हूँ, धन्यवाद।).",
+        "translation": "Sau đó, bạn gặp một Tôi khỏe, cảm ơn.."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To walk / move",
+        "isCorrect": true
+      },
+      {
+        "text": "I am fine, thank you.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To walk / move.",
+    "simpleRule": "Remember: To walk / move means चलना​​​​​​​ (Đi bộ / Di chuyển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To walk / move",
+    "transliteration": "",
+    "english": "चलना​​​​​​​",
+    "vietnamese": "Đi bộ / Di chuyển",
+    "audio": "To walk / move"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am fine, thank you.",
+    "transliteration": "",
+    "english": "मैं ठीक हूँ, धन्यवाद।",
+    "vietnamese": "Tôi khỏe, cảm ơn.",
+    "audio": "I am fine, thank you."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To read",
+    "transliteration": "",
+    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Đọc",
+    "audio": "To read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To walk / move'",
+    "prompt_en": "Choose correct translation for 'To walk / move'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
+    "text": "To walk / move",
+    "subtext": "",
+    "answer": "चलना​​​​​​​",
+    "answer_vi": "Đi bộ / Di chuyển",
+    "options": [
+      "चलना​​​​​​​",
+      "मैं ठीक हूँ, धन्यवाद।",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Tôi khỏe, cảm ơn.",
+      "Đọc",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To walk / move",
+        "english": "चलना​​​​​​​ (Đi bộ / Di chuyển)"
+      },
+      {
+        "hindi": "I am fine, thank you.",
+        "english": "मैं ठीक हूँ, धन्यवाद। (Tôi khỏe, cảm ơn.)"
+      },
+      {
+        "hindi": "To read",
+        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​ (Thức dậy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: How are you? (Formal).",
+    "simpleRule": "Remember: How are you? (Formal) means आप कैसे हैं? (Bạn khỏe không? (Lịch sự))."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How are you? (Formal)",
+    "transliteration": "",
+    "english": "आप कैसे हैं?",
+    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "audio": "How are you? (Formal)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Lock",
+    "transliteration": "",
+    "english": "ताला​​​​​​",
+    "vietnamese": "Ổ khóa",
+    "audio": "Lock"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To ask",
+    "transliteration": "",
+    "english": "पूछना​​​​​​​​​​​​",
+    "vietnamese": "Hỏi",
+    "audio": "To ask"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'How are you? (Formal)'",
+    "prompt_en": "Choose correct translation for 'How are you? (Formal)'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'How are you? (Formal)'",
+    "text": "How are you? (Formal)",
+    "subtext": "",
+    "answer": "आप कैसे हैं?",
+    "answer_vi": "Bạn khỏe không? (Lịch sự)",
+    "options": [
+      "आप कैसे हैं?",
+      "ताला​​​​​​",
+      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "पूछना​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Bạn khỏe không? (Lịch sự)",
+      "Ổ khóa",
+      "Cho / Tặng",
+      "Hỏi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "How are you? (Formal)",
+        "english": "आप कैसे हैं? (Bạn khỏe không? (Lịch sự))"
+      },
+      {
+        "hindi": "Lock",
+        "english": "ताला​​​​​​ (Ổ khóa)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To ask",
+        "english": "पूछना​​​​​​​​​​​​ (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: Sea / Ocean.",
+    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​​ (Biển)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sea / Ocean",
+    "transliteration": "",
+    "english": "समुद्र​​​​",
+    "vietnamese": "Biển",
+    "audio": "Sea / Ocean"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Whom / To whom",
+    "transliteration": "",
+    "english": "किसे",
+    "vietnamese": "Ai / Cho ai",
+    "audio": "Whom / To whom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Who / Which (relative)",
+    "transliteration": "",
+    "english": "जो",
+    "vietnamese": "Người/Vật mà",
+    "audio": "Who / Which (relative)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To listen / hear",
+    "transliteration": "",
+    "english": "सुनना​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Nghe",
+    "audio": "To listen / hear"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Sea / Ocean'",
+    "prompt_en": "Choose correct translation for 'Sea / Ocean'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
+    "text": "Sea / Ocean",
+    "subtext": "",
+    "answer": "समुद्र​​​​",
+    "answer_vi": "Biển",
+    "options": [
+      "समुद्र​​​​",
+      "किसे",
+      "जो",
+      "सुनना​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Biển",
+      "Ai / Cho ai",
+      "Người/Vật mà",
+      "Nghe"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Sea / Ocean",
+        "english": "समुद्र​​​​ (Biển)"
+      },
+      {
+        "hindi": "Whom / To whom",
+        "english": "किसे (Ai / Cho ai)"
+      },
+      {
+        "hindi": "Who / Which (relative)",
+        "english": "जो (Người/Vật mà)"
+      },
+      {
+        "hindi": "To listen / hear",
+        "english": "सुनना​​​​​​​​​​​​​​​​​​ (Nghe)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To walk / move",
+    "translation_en": "चलना​​​​​​​",
+    "translation_vi": "Đi bộ / Di chuyển",
+    "options_en": [
+      "चलना​​​​​​​",
+      "मैं ठीक हूँ, धन्यवाद।",
+      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​"
+    ],
+    "options_vi": [
+      "Đi bộ / Di chuyển",
+      "Tôi khỏe, cảm ơn.",
+      "Đọc",
+      "Thức dậy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the चलना​​​​​​​ / Tôi thấy Đi bộ / Di chuyển",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To walk / move"
+    ],
+    "correctHindiSentence": "I see the To walk / move"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a मैं ठीक हूँ, धन्यवाद। / Tôi muốn Tôi khỏe, cảm ơn.",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "I am fine, thank you."
+    ],
+    "correctHindiSentence": "I want a I am fine, thank you."
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To walk / move and To listen / hear",
+      "Practiced constructing sentences."
+    ]
+  }
+]

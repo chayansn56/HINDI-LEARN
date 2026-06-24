@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Alphabets_lab - Level 16",
+    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 16. Read the key points carefully.",
+    "keyPoints": [
+      "Learn alphabets_lab concepts."
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बिल्ली.",
+    "simpleRule": "Remember: बिल्ली means Cat (Con mèo)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बिल्ली",
+    "transliteration": "billī",
+    "english": "Cat",
+    "vietnamese": "Con mèo",
+    "audio": "बिल्ली"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रास्ता​​​",
+    "transliteration": "rāstā",
+    "english": "Path / Way",
+    "vietnamese": "Đường đi",
+    "audio": "रास्ता​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बोलना",
+    "transliteration": "bolnā",
+    "english": "To speak",
+    "vietnamese": "Nói",
+    "audio": "बोलना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "याद करना",
+    "transliteration": "yaad karna",
+    "english": "to remember / study",
+    "vietnamese": "Nhớ / Học thuộc lòng",
+    "audio": "याद करना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बिल्ली'",
+    "prompt_en": "Choose correct translation for 'बिल्ली'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बिल्ली'",
+    "text": "बिल्ली",
+    "subtext": "billī",
+    "answer": "Cat",
+    "answer_vi": "Con mèo",
+    "options": [
+      "Cat",
+      "Path / Way",
+      "To speak",
+      "to remember / study"
+    ],
+    "options_vi": [
+      "Con mèo",
+      "Đường đi",
+      "Nói",
+      "Nhớ / Học thuộc lòng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बिल्ली",
+        "english": "Cat (Con mèo)"
+      },
+      {
+        "hindi": "रास्ता​​​",
+        "english": "Path / Way (Đường đi)"
+      },
+      {
+        "hindi": "बोलना",
+        "english": "To speak (Nói)"
+      },
+      {
+        "hindi": "याद करना",
+        "english": "to remember / study (Nhớ / Học thuộc lòng)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
+    "simpleRule": "Remember: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To see / watch (Nhìn / Xem)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "dekhnā",
+    "english": "To see / watch",
+    "vietnamese": "Nhìn / Xem",
+    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दर",
+    "transliteration": "dar",
+    "english": "Rate / Door",
+    "vietnamese": "Tỷ lệ / Cửa",
+    "audio": "दर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "साफ करना​​​​​​​​​​​​​​",
+    "transliteration": "sāf karnā",
+    "english": "To clean",
+    "vietnamese": "Dọn dẹp / Lau chùi",
+    "audio": "साफ करना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​",
+    "transliteration": "likhnā",
+    "english": "To write",
+    "vietnamese": "Viết",
+    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_en": "Choose correct translation for 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
+    "text": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "subtext": "dekhnā",
+    "answer": "To see / watch",
+    "answer_vi": "Nhìn / Xem",
+    "options": [
+      "To see / watch",
+      "Rate / Door",
+      "To clean",
+      "To write"
+    ],
+    "options_vi": [
+      "Nhìn / Xem",
+      "Tỷ lệ / Cửa",
+      "Dọn dẹp / Lau chùi",
+      "Viết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To see / watch (Nhìn / Xem)"
+      },
+      {
+        "hindi": "दर",
+        "english": "Rate / Door (Tỷ lệ / Cửa)"
+      },
+      {
+        "hindi": "साफ करना​​​​​​​​​​​​​​",
+        "english": "To clean (Dọn dẹp / Lau chùi)"
+      },
+      {
+        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​",
+        "english": "To write (Viết)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "बिल्ली",
+    "translation_en": "Cat",
+    "translation_vi": "Con mèo",
+    "options_en": [
+      "Cat",
+      "Path / Way",
+      "To speak",
+      "to remember / study"
+    ],
+    "options_vi": [
+      "Con mèo",
+      "Đường đi",
+      "Nói",
+      "Nhớ / Học thuộc lòng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a Cat / Đây là Con mèo",
+    "hindiWords": [
+      "यह",
+      "एक",
+      "बिल्ली",
+      "है"
+    ],
+    "correctHindiSentence": "यह एक बिल्ली है"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see Path / Way / Tôi thấy Đường đi",
+    "hindiWords": [
+      "मैं",
+      "रास्ता​​​",
+      "देखता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं रास्ता​​​ देखता हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: बिल्ली, लिखना​​​​​​​​​​​​​​​​​​​​​​",
+      "Practiced constructing sentences."
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 57",
+    "description": "Master the vocabulary and grammar for: Episode 57. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 57",
+    "title_vi": "Tập 57",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a To teach (sिखाना​​​​).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Dạy."
+      },
+      {
+        "hindi": "Later, you encounter a To write (लिखना​​​​​​​​​).",
+        "translation": "Sau đó, bạn gặp một Viết."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "To teach",
+        "isCorrect": true
+      },
+      {
+        "text": "To write",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: To teach.",
+    "simpleRule": "Remember: To teach means sिखाना​​​​ (Dạy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To teach",
+    "transliteration": "",
+    "english": "sिखाना​​​​",
+    "vietnamese": "Dạy",
+    "audio": "To teach"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To open",
+    "transliteration": "",
+    "english": "खोलना​​​​​​​​​​​​​​​",
+    "vietnamese": "Mở",
+    "audio": "To open"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To work",
+    "transliteration": "",
+    "english": "काम करना​",
+    "vietnamese": "Làm việc",
+    "audio": "To work"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To teach'",
+    "prompt_en": "Choose correct translation for 'To teach'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
+    "text": "To teach",
+    "subtext": "",
+    "answer": "sिखाना​​​​",
+    "answer_vi": "Dạy",
+    "options": [
+      "sिखाना​​​​",
+      "लिखना​​​​​​​​​",
+      "खोलना​​​​​​​​​​​​​​​",
+      "काम करना​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Viết",
+      "Mở",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To teach",
+        "english": "sिखाना​​​​ (Dạy)"
+      },
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To open",
+        "english": "खोलना​​​​​​​​​​​​​​​ (Mở)"
+      },
+      {
+        "hindi": "To work",
+        "english": "काम करना​ (Làm việc)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To laugh.",
+    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To laugh",
+    "transliteration": "",
+    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Cười lớn",
+    "audio": "To laugh"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Village",
+    "transliteration": "",
+    "english": "गाँव​​​​​​​",
+    "vietnamese": "Ngôi làng",
+    "audio": "Village"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To run",
+    "transliteration": "",
+    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chạy",
+    "audio": "To run"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Flatbread",
+    "transliteration": "",
+    "english": "रोटी",
+    "vietnamese": "Bánh mì dẹt",
+    "audio": "Flatbread"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To laugh'",
+    "prompt_en": "Choose correct translation for 'To laugh'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
+    "text": "To laugh",
+    "subtext": "",
+    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Cười lớn",
+    "options": [
+      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "गाँव​​​​​​​",
+      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "रोटी"
+    ],
+    "options_vi": [
+      "Cười lớn",
+      "Ngôi làng",
+      "Chạy",
+      "Bánh mì dẹt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To laugh",
+        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+      },
+      {
+        "hindi": "Village",
+        "english": "गाँव​​​​​​​ (Ngôi làng)"
+      },
+      {
+        "hindi": "To run",
+        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+      },
+      {
+        "hindi": "Flatbread",
+        "english": "रोटी (Bánh mì dẹt)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To write.",
+    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To write",
+    "transliteration": "",
+    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Viết",
+    "audio": "To write"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To give",
+    "transliteration": "",
+    "english": "देना​​​​​​​​​​",
+    "vietnamese": "Cho / Tặng",
+    "audio": "To give"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To play",
+    "transliteration": "",
+    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Chơi",
+    "audio": "To play"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To write'",
+    "prompt_en": "Choose correct translation for 'To write'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
+    "text": "To write",
+    "subtext": "",
+    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Viết",
+    "options": [
+      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना​​​​​​​​​​​​​​​​​​​​​​",
+      "देना​​​​​​​​​​",
+      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Viết",
+      "Ngồi",
+      "Cho / Tặng",
+      "Chơi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To write",
+        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+      },
+      {
+        "hindi": "To give",
+        "english": "देना​​​​​​​​​​ (Cho / Tặng)"
+      },
+      {
+        "hindi": "To play",
+        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "To teach",
+    "translation_en": "sिखाना​​​​",
+    "translation_vi": "Dạy",
+    "options_en": [
+      "sिखाना​​​​",
+      "लिखना​​​​​​​​​",
+      "खोलना​​​​​​​​​​​​​​​",
+      "काम करना​"
+    ],
+    "options_vi": [
+      "Dạy",
+      "Viết",
+      "Mở",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the sिखाना​​​​ / Tôi thấy Dạy",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "To teach"
+    ],
+    "correctHindiSentence": "I see the To teach"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a लिखना​​​​​​​​​ / Tôi muốn Viết",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "To write"
+    ],
+    "correctHindiSentence": "I want a To write"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: To teach and To play",
+      "Practiced constructing sentences."
+    ]
+  }
+]

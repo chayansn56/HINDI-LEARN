@@ -1,0 +1,331 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Episode 35",
+    "description": "Master the vocabulary and grammar for: Episode 35. Read the key points carefully.",
+    "keyPoints": [
+      "Story Practice & Vocabulary Expansion"
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Episode 35",
+    "title_vi": "Tập 35",
+    "paragraphs": [
+      {
+        "hindi": "You arrive at the new city. You see a Internet / Net (नेट).",
+        "translation": "Bạn đến thành phố mới. Bạn thấy một Mạng internet."
+      },
+      {
+        "hindi": "Later, you encounter a Behind / Backward (पीछे).",
+        "translation": "Sau đó, bạn gặp một Phía sau."
+      }
+    ],
+    "question_en": "What did you see first?",
+    "question_vi": "Bạn thấy gì đầu tiên?",
+    "options": [
+      {
+        "text": "Internet / Net",
+        "isCorrect": true
+      },
+      {
+        "text": "Behind / Backward",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set A",
+    "explanation": "Understand the usage and roots of: Internet / Net.",
+    "simpleRule": "Remember: Internet / Net means नेट (Mạng internet)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Internet / Net",
+    "transliteration": "",
+    "english": "नेट",
+    "vietnamese": "Mạng internet",
+    "audio": "Internet / Net"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Behind / Backward",
+    "transliteration": "",
+    "english": "पीछे",
+    "vietnamese": "Phía sau",
+    "audio": "Behind / Backward"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "This is very easy.",
+    "transliteration": "",
+    "english": "यह बहुत आसान है।",
+    "vietnamese": "Cái này rất dễ.",
+    "audio": "This is very easy."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Why",
+    "transliteration": "",
+    "english": "क्यों",
+    "vietnamese": "Tại sao",
+    "audio": "Why"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'Internet / Net'",
+    "prompt_en": "Choose correct translation for 'Internet / Net'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'Internet / Net'",
+    "text": "Internet / Net",
+    "subtext": "",
+    "answer": "नेट",
+    "answer_vi": "Mạng internet",
+    "options": [
+      "नेट",
+      "पीछे",
+      "यह बहुत आसान है।",
+      "क्यों"
+    ],
+    "options_vi": [
+      "Mạng internet",
+      "Phía sau",
+      "Cái này rất dễ.",
+      "Tại sao"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "Internet / Net",
+        "english": "नेट (Mạng internet)"
+      },
+      {
+        "hindi": "Behind / Backward",
+        "english": "पीछे (Phía sau)"
+      },
+      {
+        "hindi": "This is very easy.",
+        "english": "यह बहुत आसान है। (Cái này rất dễ.)"
+      },
+      {
+        "hindi": "Why",
+        "english": "क्यों (Tại sao)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set B",
+    "explanation": "Understand the usage and roots of: To learn.",
+    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To learn",
+    "transliteration": "",
+    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Học",
+    "audio": "To learn"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello, how are you?",
+    "transliteration": "",
+    "english": "नमस्ते, आप कैसे हैं?",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "Hello, how are you?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mouth",
+    "transliteration": "",
+    "english": "मुँह",
+    "vietnamese": "Miệng",
+    "audio": "Mouth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To speak",
+    "transliteration": "",
+    "english": "बोलना",
+    "vietnamese": "Nói",
+    "audio": "To speak"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To learn'",
+    "prompt_en": "Choose correct translation for 'To learn'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
+    "text": "To learn",
+    "subtext": "",
+    "answer": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer_vi": "Học",
+    "options": [
+      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "नमस्ते, आप कैसे हैं?",
+      "मुँह",
+      "बोलना"
+    ],
+    "options_vi": [
+      "Học",
+      "Xin chào, bạn khỏe không?",
+      "Miệng",
+      "Nói"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To learn",
+        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+      },
+      {
+        "hindi": "Hello, how are you?",
+        "english": "नमस्ते, आप कैसे हैं? (Xin chào, bạn khỏe không?)"
+      },
+      {
+        "hindi": "Mouth",
+        "english": "मुँह (Miệng)"
+      },
+      {
+        "hindi": "To speak",
+        "english": "बोलना (Nói)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Vocabulary - Set C",
+    "explanation": "Understand the usage and roots of: To wake up.",
+    "simpleRule": "Remember: To wake up means जागना​​​​​​​​ (Thức dậy)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wash",
+    "transliteration": "",
+    "english": "धोना​​​​​​​​​​​​​​​​​​​​​",
+    "vietnamese": "Rửa / Giặt",
+    "audio": "To wash"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To wake up",
+    "transliteration": "",
+    "english": "जागना​​​​​​​​​​​​​",
+    "vietnamese": "Thức dậy",
+    "audio": "To wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To sit",
+    "transliteration": "",
+    "english": "बैठना​​​​​​​​​​​​",
+    "vietnamese": "Ngồi",
+    "audio": "To sit"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'To wake up'",
+    "prompt_en": "Choose correct translation for 'To wake up'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
+    "text": "To wake up",
+    "subtext": "",
+    "answer": "जागना​​​​​​​​",
+    "answer_vi": "Thức dậy",
+    "options": [
+      "जागना​​​​​​​​",
+      "धोना​​​​​​​​​​​​​​​​​​​​​",
+      "जागना​​​​​​​​​​​​​",
+      "बैठना​​​​​​​​​​​​"
+    ],
+    "options_vi": [
+      "Thức dậy",
+      "Rửa / Giặt",
+      "Thức dậy",
+      "Ngồi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To wash",
+        "english": "धोना​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+      },
+      {
+        "hindi": "To wake up",
+        "english": "जागना​​​​​​​​​​​​​ (Thức dậy)"
+      },
+      {
+        "hindi": "To sit",
+        "english": "बैठना​​​​​​​​​​​​ (Ngồi)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "Internet / Net",
+    "translation_en": "नेट",
+    "translation_vi": "Mạng internet",
+    "options_en": [
+      "नेट",
+      "पीछे",
+      "यह बहुत आसान है।",
+      "क्यों"
+    ],
+    "options_vi": [
+      "Mạng internet",
+      "Phía sau",
+      "Cái này rất dễ.",
+      "Tại sao"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I see the नेट / Tôi thấy Mạng internet",
+    "hindiWords": [
+      "I",
+      "see",
+      "the",
+      "Internet / Net"
+    ],
+    "correctHindiSentence": "I see the Internet / Net"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I want a पीछे / Tôi muốn Phía sau",
+    "hindiWords": [
+      "I",
+      "want",
+      "a",
+      "Behind / Backward"
+    ],
+    "correctHindiSentence": "I want a Behind / Backward"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: Internet / Net and To sit",
+      "Practiced constructing sentences."
+    ]
+  }
+]
