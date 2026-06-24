@@ -1,0 +1,101 @@
+{
+    "title": "Colors",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Red",
+            "translation": "Màu đỏ",
+            "audio": "Red"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Blue",
+            "translation": "Màu xanh dương",
+            "audio": "Blue"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "The sky is blue.",
+            "translation": "Bầu trời màu xanh dương.",
+            "audio": "The sky is blue"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Yellow",
+            "translation": "Màu vàng",
+            "options": [
+                "Màu vàng",
+                "Màu tím",
+                "Màu đen",
+                "Màu trắng"
+            ],
+            "correctAnswer": "Màu vàng",
+            "audio": "Yellow"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Green",
+            "translation": "Màu xanh lá cây",
+            "options": [
+                "Màu xanh lá cây",
+                "Màu cam",
+                "Màu hồng",
+                "Màu xám"
+            ],
+            "correctAnswer": "Màu xanh lá cây",
+            "audio": "Green"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Black",
+                    "translation": "Màu đen"
+                },
+                {
+                    "hindi": "White",
+                    "translation": "Màu trắng"
+                },
+                {
+                    "hindi": "Pink",
+                    "translation": "Màu hồng"
+                },
+                {
+                    "hindi": "Purple",
+                    "translation": "Màu tím"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Orange",
+            "translation": "Màu cam",
+            "audio": "Orange"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Brown",
+            "translation": "Màu nâu",
+            "audio": "Brown"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Grey",
+            "translation": "Màu xám",
+            "options": [
+                "Màu xám",
+                "Màu đỏ",
+                "Màu vàng",
+                "Màu đen"
+            ],
+            "correctAnswer": "Màu xám",
+            "audio": "Grey"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "An apple is red.",
+            "translation": "Quả táo màu đỏ.",
+            "audio": "An apple is red"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Concierge",
+  "nodes": [
+    {"type": "Flashcard", "hindi": "Recommendation", "english": "Sự giới thiệu / Gợi ý", "audio": "Recommendation"},
+    {"type": "Flashcard", "hindi": "Direction", "english": "Phương hướng", "audio": "Direction"},
+    {"type": "Flashcard", "hindi": "Shuttle", "english": "Xe đưa đón", "audio": "Shuttle"},
+    {"type": "Flashcard", "hindi": "Attraction", "english": "Điểm tham quan", "audio": "Attraction"},
+    {"type": "MultipleChoice", "hindi": "Can I help you with your bags?", "english": "Tôi có thể giúp bạn xách hành lý không?", "audio": "Can I help you with your bags?", "options": ["Tôi có thể giúp bạn xách hành lý không?", "Hành lý của bạn đâu?", "Cái này nặng quá.", "Tôi cần dọn dẹp phòng."], "answer": "Tôi có thể giúp bạn xách hành lý không?"},
+    {"type": "MultipleChoice", "hindi": "I can book a taxi for you.", "english": "Tôi có thể đặt taxi cho bạn.", "audio": "I can book a taxi for you.", "options": ["Tôi có thể đặt taxi cho bạn.", "Bạn muốn đi xe buýt không?", "Sân bay ở đâu?", "Giá vé là bao nhiêu?"], "answer": "Tôi có thể đặt taxi cho bạn."},
+    {"type": "MatchPairs", "pairs": [
+      {"hindi": "Theater", "english": "Nhà hát", "audio": "Theater"},
+      {"hindi": "Museum", "english": "Bảo tàng", "audio": "Museum"},
+      {"hindi": "Exhibition", "english": "Triển lãm", "audio": "Exhibition"},
+      {"hindi": "Map", "english": "Bản đồ", "audio": "Map"}
+    ]},
+    {"type": "Flashcard", "hindi": "Arrange", "english": "Sắp xếp", "audio": "Arrange"},
+    {"type": "Flashcard", "hindi": "Assist", "english": "Hỗ trợ", "audio": "Assist"},
+    {"type": "MultipleChoice", "hindi": "Have a wonderful evening.", "english": "Chúc quý khách một buổi tối tuyệt vời.", "audio": "Have a wonderful evening.", "options": ["Chúc quý khách một buổi tối tuyệt vời.", "Hẹn gặp lại sáng mai.", "Ngủ ngon nhé.", "Chào mừng trở lại."], "answer": "Chúc quý khách một buổi tối tuyệt vời."}
+  ]
+}

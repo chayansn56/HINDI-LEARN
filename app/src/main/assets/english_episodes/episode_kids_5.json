@@ -1,0 +1,101 @@
+{
+    "title": "Cartoons",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Animation",
+            "translation": "Hoạt hình",
+            "audio": "Animation"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Character",
+            "translation": "Nhân vật",
+            "audio": "Character"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "I watch cartoons.",
+            "translation": "Tôi xem phim hoạt hình.",
+            "audio": "I watch cartoons"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Hero",
+            "translation": "Anh hùng",
+            "options": [
+                "Anh hùng",
+                "Kẻ ác",
+                "Công chúa",
+                "Hoàng tử"
+            ],
+            "correctAnswer": "Anh hùng",
+            "audio": "Hero"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Magic",
+            "translation": "Phép thuật",
+            "options": [
+                "Phép thuật",
+                "Khoa học",
+                "Lịch sử",
+                "Âm nhạc"
+            ],
+            "correctAnswer": "Phép thuật",
+            "audio": "Magic"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Princess",
+                    "translation": "Công chúa"
+                },
+                {
+                    "hindi": "Villain",
+                    "translation": "Kẻ ác"
+                },
+                {
+                    "hindi": "Story",
+                    "translation": "Câu chuyện"
+                },
+                {
+                    "hindi": "Funny",
+                    "translation": "Vui nhộn"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Castle",
+            "translation": "Lâu đài",
+            "audio": "Castle"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Dragon",
+            "translation": "Con rồng",
+            "audio": "Dragon"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Adventure",
+            "translation": "Cuộc phiêu lưu",
+            "options": [
+                "Cuộc phiêu lưu",
+                "Ngủ",
+                "Học tập",
+                "Làm việc"
+            ],
+            "correctAnswer": "Cuộc phiêu lưu",
+            "audio": "Adventure"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "A funny story.",
+            "translation": "Một câu chuyện vui nhộn.",
+            "audio": "A funny story"
+        }
+    ]
+}

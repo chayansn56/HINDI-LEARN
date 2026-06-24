@@ -1,0 +1,101 @@
+{
+    "title": "Academic Vocabulary",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Analyze",
+            "translation": "Phân tích",
+            "audio": "Analyze"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Significant",
+            "translation": "Đáng kể",
+            "audio": "Significant"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "However",
+            "translation": "Tuy nhiên - Dùng để chỉ sự tương phản.",
+            "audio": "However"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Approach",
+            "translation": "Phương pháp",
+            "options": [
+                "Phương pháp",
+                "Kết quả",
+                "Vấn đề",
+                "Câu hỏi"
+            ],
+            "correctAnswer": "Phương pháp",
+            "audio": "Approach"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Establish",
+            "translation": "Thành lập",
+            "options": [
+                "Thành lập",
+                "Phá hủy",
+                "Thay đổi",
+                "Chấp nhận"
+            ],
+            "correctAnswer": "Thành lập",
+            "audio": "Establish"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Concept",
+                    "translation": "Khái niệm"
+                },
+                {
+                    "hindi": "Context",
+                    "translation": "Bối cảnh"
+                },
+                {
+                    "hindi": "Define",
+                    "translation": "Định nghĩa"
+                },
+                {
+                    "hindi": "Derive",
+                    "translation": "Bắt nguồn từ"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Estimate",
+            "translation": "Ước tính",
+            "audio": "Estimate"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Evident",
+            "translation": "Hiển nhiên",
+            "audio": "Evident"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Factor",
+            "translation": "Yếu tố",
+            "options": [
+                "Yếu tố",
+                "Lý thuyết",
+                "Bằng chứng",
+                "Hậu quả"
+            ],
+            "correctAnswer": "Yếu tố",
+            "audio": "Factor"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "Furthermore",
+            "translation": "Hơn nữa - Dùng để thêm thông tin.",
+            "audio": "Furthermore"
+        }
+    ]
+}

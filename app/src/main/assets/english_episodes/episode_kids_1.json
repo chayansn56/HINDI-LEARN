@@ -1,0 +1,101 @@
+{
+    "title": "Animals",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Dog",
+            "translation": "Con chó",
+            "audio": "Dog"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Cat",
+            "translation": "Con mèo",
+            "audio": "Cat"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "A dog barks.",
+            "translation": "Con chó sủa.",
+            "audio": "A dog barks"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Elephant",
+            "translation": "Con voi",
+            "options": [
+                "Con voi",
+                "Con kiến",
+                "Con khỉ",
+                "Con sư tử"
+            ],
+            "correctAnswer": "Con voi",
+            "audio": "Elephant"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Monkey",
+            "translation": "Con khỉ",
+            "options": [
+                "Con khỉ",
+                "Con ngựa",
+                "Con heo",
+                "Con gà"
+            ],
+            "correctAnswer": "Con khỉ",
+            "audio": "Monkey"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Lion",
+                    "translation": "Con sư tử"
+                },
+                {
+                    "hindi": "Tiger",
+                    "translation": "Con hổ"
+                },
+                {
+                    "hindi": "Bear",
+                    "translation": "Con gấu"
+                },
+                {
+                    "hindi": "Rabbit",
+                    "translation": "Con thỏ"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Bird",
+            "translation": "Con chim",
+            "audio": "Bird"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Fish",
+            "translation": "Con cá",
+            "audio": "Fish"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Horse",
+            "translation": "Con ngựa",
+            "options": [
+                "Con ngựa",
+                "Con bò",
+                "Con cừu",
+                "Con dê"
+            ],
+            "correctAnswer": "Con ngựa",
+            "audio": "Horse"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "A cat meows.",
+            "translation": "Con mèo kêu meo meo.",
+            "audio": "A cat meows"
+        }
+    ]
+}

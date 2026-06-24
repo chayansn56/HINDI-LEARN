@@ -1,0 +1,20 @@
+{
+  "title": "Restaurant Service",
+  "nodes": [
+    {"type": "Flashcard", "hindi": "Menu", "english": "Thực đơn", "audio": "Menu"},
+    {"type": "Flashcard", "hindi": "Appetizer", "english": "Món khai vị", "audio": "Appetizer"},
+    {"type": "Flashcard", "hindi": "Main course", "english": "Món chính", "audio": "Main course"},
+    {"type": "Flashcard", "hindi": "Dessert", "english": "Món tráng miệng", "audio": "Dessert"},
+    {"type": "MultipleChoice", "hindi": "Are you ready to order?", "english": "Quý khách đã sẵn sàng gọi món chưa?", "audio": "Are you ready to order?", "options": ["Quý khách đã sẵn sàng gọi món chưa?", "Quý khách muốn tính tiền?", "Quý khách uống gì?", "Món này ngon không?"], "answer": "Quý khách đã sẵn sàng gọi món chưa?"},
+    {"type": "MultipleChoice", "hindi": "Can I get you anything to drink?", "english": "Tôi có thể mang cho quý khách đồ uống gì không?", "audio": "Can I get you anything to drink?", "options": ["Tôi có thể mang cho quý khách đồ uống gì không?", "Quý khách muốn món tráng miệng không?", "Quý khách đã dùng xong chưa?", "Quý khách cần thêm khăn không?"], "answer": "Tôi có thể mang cho quý khách đồ uống gì không?"},
+    {"type": "MatchPairs", "pairs": [
+      {"hindi": "Bill", "english": "Hóa đơn", "audio": "Bill"},
+      {"hindi": "Tip", "english": "Tiền boa", "audio": "Tip"},
+      {"hindi": "Napkin", "english": "Khăn ăn", "audio": "Napkin"},
+      {"hindi": "Cutlery", "english": "Dao kéo", "audio": "Cutlery"}
+    ]},
+    {"type": "Flashcard", "hindi": "Spicy", "english": "Cay", "audio": "Spicy"},
+    {"type": "Flashcard", "hindi": "Vegetarian", "english": "Ăn chay", "audio": "Vegetarian"},
+    {"type": "MultipleChoice", "hindi": "Here is your bill.", "english": "Đây là hóa đơn của quý khách.", "audio": "Here is your bill.", "options": ["Đây là hóa đơn của quý khách.", "Của bạn đây.", "Xin chào.", "Mời quý khách dùng."], "answer": "Đây là hóa đơn của quý khách."}
+  ]
+}

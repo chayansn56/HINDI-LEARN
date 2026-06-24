@@ -1,0 +1,65 @@
+{
+  "title": "Agile Meetings",
+  "description": "Vocabulary and phrases used during Agile and Scrum ceremonies.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "content": "Trong quy trình Agile, có nhiều cuộc họp định kỳ. Việc biết tên và cách giao tiếp trong các cuộc họp này giúp bạn làm việc hiệu quả hơn."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Daily Stand-up",
+      "translation": "Họp giao ban hằng ngày (khoảng 15 phút)",
+      "audio": "daily stand up"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Sprint Planning",
+      "translation": "Họp lập kế hoạch Sprint",
+      "audio": "sprint planning"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Retrospective",
+      "translation": "Họp nhìn lại (rút kinh nghiệm sau Sprint)",
+      "audio": "retrospective"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Blocker",
+      "translation": "Vấn đề cản trở công việc",
+      "audio": "blocker"
+    },
+    {
+      "type": "TeachRule",
+      "content": "Khi báo cáo trong Stand-up, hãy nói ngắn gọn: What I did yesterday, what I will do today, and any blockers."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Backlog",
+      "translation": "Danh sách các công việc cần làm",
+      "audio": "backlog"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Trong cuộc họp 'Daily Stand-up', bạn thường KHÔNG báo cáo điều gì?",
+      "options": ["Việc đã làm hôm qua", "Việc sẽ làm hôm nay", "Các vấn đề cản trở (Blockers)", "Chi tiết kỹ thuật sâu để sửa lỗi"],
+      "correctAnswer": "Chi tiết kỹ thuật sâu để sửa lỗi"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Thuật ngữ nào dùng để chỉ vấn đề làm bạn không thể tiếp tục công việc?",
+      "options": ["Blocker", "Backlog", "Sprint", "Task"],
+      "correctAnswer": "Blocker"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"left": "Sprint Planning", "right": "Lập kế hoạch Sprint"},
+        {"left": "Retrospective", "right": "Họp rút kinh nghiệm"},
+        {"left": "Blocker", "right": "Vấn đề cản trở"},
+        {"left": "Backlog", "right": "Danh sách công việc"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Bug Reports",
+  "description": "How to effectively document and describe software issues in English.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "content": "Một báo cáo lỗi (Bug Report) tốt cần chỉ rõ được môi trường, các bước để tái tạo lỗi (steps to reproduce) và kết quả mong muốn."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Steps to reproduce",
+      "translation": "Các bước để tái tạo lỗi",
+      "audio": "steps to reproduce"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Expected behavior",
+      "translation": "Kết quả mong muốn / Hành vi dự kiến",
+      "audio": "expected behavior"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Actual behavior",
+      "translation": "Hành vi thực tế (lỗi đang xảy ra)",
+      "audio": "actual behavior"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Crash",
+      "translation": "Sự cố văng ứng dụng / sập hệ thống",
+      "audio": "crash"
+    },
+    {
+      "type": "TeachRule",
+      "content": "Cung cấp thêm ảnh chụp màn hình (screenshot) hoặc bản ghi màn hình (screen recording) giúp lập trình viên hiểu lỗi nhanh hơn."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Workaround",
+      "translation": "Cách giải quyết tạm thời",
+      "audio": "workaround"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Phần nào trong Bug Report mô tả những gì hệ thống NÊN làm nếu hoạt động đúng?",
+      "options": ["Steps to reproduce", "Actual behavior", "Expected behavior", "Workaround"],
+      "correctAnswer": "Expected behavior"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Thuật ngữ nào dùng để chỉ ứng dụng bị đóng đột ngột do lỗi nghiêm trọng?",
+      "options": ["Workaround", "Crash", "Lag", "Typo"],
+      "correctAnswer": "Crash"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"left": "Expected behavior", "right": "Kết quả mong muốn"},
+        {"left": "Actual behavior", "right": "Hành vi thực tế"},
+        {"left": "Crash", "right": "Sập ứng dụng"},
+        {"left": "Workaround", "right": "Cách giải quyết tạm thời"}
+      ]
+    }
+  ]
+}

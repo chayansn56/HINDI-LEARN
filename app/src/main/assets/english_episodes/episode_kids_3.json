@@ -1,0 +1,101 @@
+{
+    "title": "Toys",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Doll",
+            "translation": "Búp bê",
+            "audio": "Doll"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Ball",
+            "translation": "Quả bóng",
+            "audio": "Ball"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "I play with a ball.",
+            "translation": "Tôi chơi với quả bóng.",
+            "audio": "I play with a ball"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Car",
+            "translation": "Xe hơi đồ chơi",
+            "options": [
+                "Xe hơi đồ chơi",
+                "Máy bay",
+                "Tàu hỏa",
+                "Thuyền"
+            ],
+            "correctAnswer": "Xe hơi đồ chơi",
+            "audio": "Car"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Kite",
+            "translation": "Cái diều",
+            "options": [
+                "Cái diều",
+                "Khối xếp hình",
+                "Gấu bông",
+                "Búp bê"
+            ],
+            "correctAnswer": "Cái diều",
+            "audio": "Kite"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Teddy bear",
+                    "translation": "Gấu bông"
+                },
+                {
+                    "hindi": "Train",
+                    "translation": "Tàu hỏa"
+                },
+                {
+                    "hindi": "Blocks",
+                    "translation": "Khối xếp hình"
+                },
+                {
+                    "hindi": "Robot",
+                    "translation": "Người máy"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Puzzle",
+            "translation": "Trò chơi ghép hình",
+            "audio": "Puzzle"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Yo-yo",
+            "translation": "Con quay yo-yo",
+            "audio": "Yo-yo"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Action figure",
+            "translation": "Nhân vật hành động",
+            "options": [
+                "Nhân vật hành động",
+                "Búp bê",
+                "Cái diều",
+                "Xe đạp"
+            ],
+            "correctAnswer": "Nhân vật hành động",
+            "audio": "Action figure"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "Fly a kite.",
+            "translation": "Thả diều.",
+            "audio": "Fly a kite"
+        }
+    ]
+}

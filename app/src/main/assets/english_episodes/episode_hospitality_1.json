@@ -1,0 +1,20 @@
+{
+  "title": "Hotel Reception",
+  "nodes": [
+    {"type": "Flashcard", "hindi": "Reservation", "english": "Đặt trước", "audio": "Reservation"},
+    {"type": "Flashcard", "hindi": "Check-in", "english": "Nhận phòng", "audio": "Check-in"},
+    {"type": "Flashcard", "hindi": "Check-out", "english": "Trả phòng", "audio": "Check-out"},
+    {"type": "Flashcard", "hindi": "Key card", "english": "Thẻ từ", "audio": "Key card"},
+    {"type": "MultipleChoice", "hindi": "I have a reservation.", "english": "Tôi có đặt trước.", "audio": "I have a reservation.", "options": ["Tôi có đặt trước.", "Tôi muốn trả phòng.", "Tôi cần dọn phòng.", "Tôi muốn đổi phòng."], "answer": "Tôi có đặt trước."},
+    {"type": "MultipleChoice", "hindi": "Could I have your passport, please?", "english": "Vui lòng cho tôi mượn hộ chiếu của bạn?", "audio": "Could I have your passport, please?", "options": ["Vui lòng cho tôi mượn hộ chiếu của bạn?", "Cho tôi xem thẻ tín dụng?", "Phòng của bạn ở đâu?", "Bạn đã đặt trước chưa?"], "answer": "Vui lòng cho tôi mượn hộ chiếu của bạn?"},
+    {"type": "MatchPairs", "pairs": [
+      {"hindi": "Luggage", "english": "Hành lý", "audio": "Luggage"},
+      {"hindi": "Elevator", "english": "Thang máy", "audio": "Elevator"},
+      {"hindi": "Deposit", "english": "Tiền đặt cọc", "audio": "Deposit"},
+      {"hindi": "Reception", "english": "Quầy lễ tân", "audio": "Reception"}
+    ]},
+    {"type": "Flashcard", "hindi": "Available", "english": "Có sẵn / Trống", "audio": "Available"},
+    {"type": "Flashcard", "hindi": "Fully booked", "english": "Kín phòng", "audio": "Fully booked"},
+    {"type": "MultipleChoice", "hindi": "Enjoy your stay.", "english": "Chúc quý khách có một kỳ nghỉ vui vẻ.", "audio": "Enjoy your stay.", "options": ["Chúc quý khách có một kỳ nghỉ vui vẻ.", "Chúc ngon miệng.", "Hẹn gặp lại.", "Xin cảm ơn."], "answer": "Chúc quý khách có một kỳ nghỉ vui vẻ."}
+  ]
+}

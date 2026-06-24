@@ -1,0 +1,71 @@
+{
+  "title": "Software Terms",
+  "description": "Essential terminology used in software engineering.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "content": "Thuật ngữ tiếng Anh trong lĩnh vực phần mềm (Software Engineering) rất quan trọng khi làm việc trong ngành IT để giao tiếp chính xác với đồng nghiệp."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Deployment",
+      "translation": "Triển khai (phần mềm)",
+      "audio": "deployment"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Framework",
+      "translation": "Khung làm việc / Nền tảng lập trình",
+      "audio": "framework"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Database",
+      "translation": "Cơ sở dữ liệu",
+      "audio": "database"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Frontend",
+      "translation": "Lập trình giao diện người dùng",
+      "audio": "frontend"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Backend",
+      "translation": "Lập trình hệ thống máy chủ",
+      "audio": "backend"
+    },
+    {
+      "type": "TeachRule",
+      "content": "Nắm vững các thuật ngữ về môi trường máy chủ và cơ sở hạ tầng (Infrastructure) cũng cần thiết."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "API (Application Programming Interface)",
+      "translation": "Giao diện lập trình ứng dụng",
+      "audio": "API"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Thuật ngữ nào dùng để chỉ phần giao diện người dùng của một ứng dụng?",
+      "options": ["Frontend", "Backend", "Database", "API"],
+      "correctAnswer": "Frontend"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "'Deployment' trong ngành IT có nghĩa là gì?",
+      "options": ["Xóa mã nguồn", "Triển khai phần mềm", "Sửa lỗi", "Giao diện"],
+      "correctAnswer": "Triển khai phần mềm"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"left": "Frontend", "right": "Giao diện người dùng"},
+        {"left": "Backend", "right": "Hệ thống máy chủ"},
+        {"left": "Database", "right": "Cơ sở dữ liệu"},
+        {"left": "Deployment", "right": "Triển khai"}
+      ]
+    }
+  ]
+}

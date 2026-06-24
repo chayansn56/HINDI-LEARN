@@ -1,0 +1,101 @@
+{
+    "title": "Speaking Part 1",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Hometown",
+            "translation": "Quê hương",
+            "audio": "Hometown"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Hobby",
+            "translation": "Sở thích",
+            "audio": "Hobby"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "I enjoy...",
+            "translation": "Tôi thích... - Dùng để nói về sở thích.",
+            "audio": "I enjoy"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Routine",
+            "translation": "Thói quen hàng ngày",
+            "options": [
+                "Thói quen hàng ngày",
+                "Công việc",
+                "Học tập",
+                "Nghỉ ngơi"
+            ],
+            "correctAnswer": "Thói quen hàng ngày",
+            "audio": "Routine"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Neighbourhood",
+            "translation": "Khu vực lân cận",
+            "options": [
+                "Khu vực lân cận",
+                "Thành phố",
+                "Quốc gia",
+                "Làng quê"
+            ],
+            "correctAnswer": "Khu vực lân cận",
+            "audio": "Neighbourhood"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Accommodation",
+                    "translation": "Chỗ ở"
+                },
+                {
+                    "hindi": "Transportation",
+                    "translation": "Giao thông"
+                },
+                {
+                    "hindi": "Occupation",
+                    "translation": "Nghề nghiệp"
+                },
+                {
+                    "hindi": "Entertainment",
+                    "translation": "Giải trí"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Free time",
+            "translation": "Thời gian rảnh",
+            "audio": "Free time"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Weather",
+            "translation": "Thời tiết",
+            "audio": "Weather"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Holiday",
+            "translation": "Kỳ nghỉ",
+            "options": [
+                "Kỳ nghỉ",
+                "Làm việc",
+                "Trường học",
+                "Kỳ thi"
+            ],
+            "correctAnswer": "Kỳ nghỉ",
+            "audio": "Holiday"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "Actually",
+            "translation": "Thực ra - Dùng để làm mềm câu trả lời hoặc thêm chi tiết.",
+            "audio": "Actually"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Speaking Part 2",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Describe",
+            "translation": "Miêu tả",
+            "audio": "Describe"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Experience",
+            "translation": "Kinh nghiệm/Trải nghiệm",
+            "audio": "Experience"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "I would like to talk about",
+            "translation": "Tôi muốn nói về... - Cách mở đầu bài nói.",
+            "audio": "I would like to talk about"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Memorable",
+            "translation": "Đáng nhớ",
+            "options": [
+                "Đáng nhớ",
+                "Buồn chán",
+                "Bình thường",
+                "Tệ hại"
+            ],
+            "correctAnswer": "Đáng nhớ",
+            "audio": "Memorable"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Influence",
+            "translation": "Ảnh hưởng",
+            "options": [
+                "Ảnh hưởng",
+                "Nguyên nhân",
+                "Kết quả",
+                "Tác dụng"
+            ],
+            "correctAnswer": "Ảnh hưởng",
+            "audio": "Influence"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Opportunity",
+                    "translation": "Cơ hội"
+                },
+                {
+                    "hindi": "Challenge",
+                    "translation": "Thử thách"
+                },
+                {
+                    "hindi": "Achievement",
+                    "translation": "Thành tựu"
+                },
+                {
+                    "hindi": "Motivation",
+                    "translation": "Động lực"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Inspire",
+            "translation": "Truyền cảm hứng",
+            "audio": "Inspire"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Overcome",
+            "translation": "Vượt qua",
+            "audio": "Overcome"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Fascinating",
+            "translation": "Hấp dẫn",
+            "options": [
+                "Hấp dẫn",
+                "Tẻ nhạt",
+                "Sợ hãi",
+                "Buồn bã"
+            ],
+            "correctAnswer": "Hấp dẫn",
+            "audio": "Fascinating"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "Looking back",
+            "translation": "Nhìn lại - Dùng để phản ánh về quá khứ.",
+            "audio": "Looking back"
+        }
+    ]
+}

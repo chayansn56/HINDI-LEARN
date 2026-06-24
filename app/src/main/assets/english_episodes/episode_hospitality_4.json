@@ -1,0 +1,20 @@
+{
+  "title": "Handling Complaints",
+  "nodes": [
+    {"type": "Flashcard", "hindi": "Complaint", "english": "Lời phàn nàn", "audio": "Complaint"},
+    {"type": "Flashcard", "hindi": "Apologize", "english": "Xin lỗi", "audio": "Apologize"},
+    {"type": "Flashcard", "hindi": "Issue", "english": "Vấn đề", "audio": "Issue"},
+    {"type": "Flashcard", "hindi": "Solution", "english": "Giải pháp", "audio": "Solution"},
+    {"type": "MultipleChoice", "hindi": "I sincerely apologize for the inconvenience.", "english": "Tôi chân thành xin lỗi vì sự bất tiện này.", "audio": "I sincerely apologize for the inconvenience.", "options": ["Tôi chân thành xin lỗi vì sự bất tiện này.", "Đó không phải lỗi của tôi.", "Vui lòng đợi một lát.", "Tôi sẽ kiểm tra lại."], "answer": "Tôi chân thành xin lỗi vì sự bất tiện này."},
+    {"type": "MultipleChoice", "hindi": "Let me see what I can do.", "english": "Để tôi xem tôi có thể làm gì.", "audio": "Let me see what I can do.", "options": ["Để tôi xem tôi có thể làm gì.", "Tôi không biết.", "Cái này khó giải quyết.", "Xin vui lòng bình tĩnh."], "answer": "Để tôi xem tôi có thể làm gì."},
+    {"type": "MatchPairs", "pairs": [
+      {"hindi": "Refund", "english": "Hoàn tiền", "audio": "Refund"},
+      {"hindi": "Compensate", "english": "Đền bù", "audio": "Compensate"},
+      {"hindi": "Investigate", "english": "Điều tra / Xem xét", "audio": "Investigate"},
+      {"hindi": "Feedback", "english": "Phản hồi", "audio": "Feedback"}
+    ]},
+    {"type": "Flashcard", "hindi": "Unacceptable", "english": "Không thể chấp nhận", "audio": "Unacceptable"},
+    {"type": "Flashcard", "hindi": "Resolve", "english": "Giải quyết", "audio": "Resolve"},
+    {"type": "MultipleChoice", "hindi": "Thank you for bringing this to our attention.", "english": "Cảm ơn bạn đã phản ánh điều này với chúng tôi.", "audio": "Thank you for bringing this to our attention.", "options": ["Cảm ơn bạn đã phản ánh điều này với chúng tôi.", "Bạn đang nói gì vậy?", "Tôi sẽ gọi người quản lý.", "Vấn đề đã được xử lý."], "answer": "Cảm ơn bạn đã phản ánh điều này với chúng tôi."}
+  ]
+}

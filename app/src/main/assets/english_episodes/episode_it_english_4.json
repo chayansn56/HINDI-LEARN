@@ -1,0 +1,65 @@
+{
+  "title": "Tech Presentations",
+  "description": "Vocabulary to confidently present technical concepts to an audience.",
+  "nodes": [
+    {
+      "type": "TeachRule",
+      "content": "Khi thuyết trình về công nghệ, bạn cần có những cụm từ để giới thiệu, chuyển ý và giải thích các khái niệm kỹ thuật phức tạp."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Architecture",
+      "translation": "Kiến trúc (phần mềm/hệ thống)",
+      "audio": "architecture"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Scalability",
+      "translation": "Khả năng mở rộng (của hệ thống)",
+      "audio": "scalability"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Let me demonstrate",
+      "translation": "Để tôi trình bày / biểu diễn thử",
+      "audio": "let me demonstrate"
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Bottleneck",
+      "translation": "Nút thắt cổ chai / Điểm nghẽn hiệu suất",
+      "audio": "bottleneck"
+    },
+    {
+      "type": "TeachRule",
+      "content": "Để kết luận, bạn có thể nói 'To sum up...' hoặc 'In conclusion...'."
+    },
+    {
+      "type": "Flashcard",
+      "hindi": "Performance optimization",
+      "translation": "Tối ưu hóa hiệu suất",
+      "audio": "performance optimization"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Thuật ngữ nào chỉ khả năng một hệ thống có thể xử lý lượng tải lớn hơn trong tương lai?",
+      "options": ["Architecture", "Bottleneck", "Scalability", "Typo"],
+      "correctAnswer": "Scalability"
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "Cụm từ 'Let me demonstrate' thường được dùng khi nào?",
+      "options": ["Kết thúc bài", "Khi muốn chiếu video", "Khi muốn biểu diễn một tính năng thực tế", "Khi hỏi ý kiến"],
+      "correctAnswer": "Khi muốn biểu diễn một tính năng thực tế"
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {"left": "Architecture", "right": "Kiến trúc hệ thống"},
+        {"left": "Scalability", "right": "Khả năng mở rộng"},
+        {"left": "Bottleneck", "right": "Điểm nghẽn hiệu suất"},
+        {"left": "Demonstrate", "right": "Biểu diễn / Trình bày"}
+      ]
+    }
+  ]
+}

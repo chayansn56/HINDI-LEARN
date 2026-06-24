@@ -1,0 +1,20 @@
+{
+  "title": "Tour Guiding",
+  "nodes": [
+    {"type": "Flashcard", "hindi": "Itinerary", "english": "Lịch trình", "audio": "Itinerary"},
+    {"type": "Flashcard", "hindi": "Sightseeing", "english": "Ngắm cảnh", "audio": "Sightseeing"},
+    {"type": "Flashcard", "hindi": "Landmark", "english": "Địa danh", "audio": "Landmark"},
+    {"type": "Flashcard", "hindi": "Souvenir", "english": "Quà lưu niệm", "audio": "Souvenir"},
+    {"type": "MultipleChoice", "hindi": "Please gather here at 10 AM.", "english": "Vui lòng tập trung tại đây lúc 10 giờ sáng.", "audio": "Please gather here at 10 AM.", "options": ["Vui lòng tập trung tại đây lúc 10 giờ sáng.", "Chúng ta sẽ rời đi lúc 10 giờ.", "Xe buýt đến lúc 10 giờ.", "Buổi biểu diễn bắt đầu lúc 10 giờ."], "answer": "Vui lòng tập trung tại đây lúc 10 giờ sáng."},
+    {"type": "MultipleChoice", "hindi": "Stay close to the group.", "english": "Hãy bám sát đoàn.", "audio": "Stay close to the group.", "options": ["Hãy bám sát đoàn.", "Đừng đi lạc.", "Xin chú ý lắng nghe.", "Nhìn sang bên phải."], "answer": "Hãy bám sát đoàn."},
+    {"type": "MatchPairs", "pairs": [
+      {"hindi": "Guide", "english": "Hướng dẫn viên", "audio": "Guide"},
+      {"hindi": "Tour bus", "english": "Xe buýt du lịch", "audio": "Tour bus"},
+      {"hindi": "Ticket", "english": "Vé", "audio": "Ticket"},
+      {"hindi": "Map", "english": "Bản đồ", "audio": "Map"}
+    ]},
+    {"type": "Flashcard", "hindi": "Historic", "english": "Mang tính lịch sử", "audio": "Historic"},
+    {"type": "Flashcard", "hindi": "Fascinating", "english": "Hấp dẫn", "audio": "Fascinating"},
+    {"type": "MultipleChoice", "hindi": "Take your time to look around.", "english": "Cứ từ từ tham quan nhé.", "audio": "Take your time to look around.", "options": ["Cứ từ từ tham quan nhé.", "Nhanh lên nào.", "Cấm chụp ảnh.", "Hãy đi theo tôi."], "answer": "Cứ từ từ tham quan nhé."}
+  ]
+}

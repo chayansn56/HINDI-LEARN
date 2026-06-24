@@ -1,0 +1,101 @@
+{
+    "title": "Essay Structures",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Introduction",
+            "translation": "Mở bài",
+            "audio": "Introduction"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Conclusion",
+            "translation": "Kết luận",
+            "audio": "Conclusion"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "Thesis statement",
+            "translation": "Câu luận điểm - Nêu rõ quan điểm của người viết.",
+            "audio": "Thesis statement"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Paragraph",
+            "translation": "Đoạn văn",
+            "options": [
+                "Đoạn văn",
+                "Từ vựng",
+                "Câu",
+                "Ngữ pháp"
+            ],
+            "correctAnswer": "Đoạn văn",
+            "audio": "Paragraph"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Topic sentence",
+            "translation": "Câu chủ đề",
+            "options": [
+                "Câu chủ đề",
+                "Câu kết luận",
+                "Câu hỏi",
+                "Câu cảm thán"
+            ],
+            "correctAnswer": "Câu chủ đề",
+            "audio": "Topic sentence"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Supporting idea",
+                    "translation": "Ý bổ trợ"
+                },
+                {
+                    "hindi": "Example",
+                    "translation": "Ví dụ"
+                },
+                {
+                    "hindi": "Summary",
+                    "translation": "Tóm tắt"
+                },
+                {
+                    "hindi": "Body paragraph",
+                    "translation": "Đoạn thân bài"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Transition",
+            "translation": "Sự chuyển tiếp",
+            "audio": "Transition"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Argument",
+            "translation": "Lập luận",
+            "audio": "Argument"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Evidence",
+            "translation": "Bằng chứng",
+            "options": [
+                "Bằng chứng",
+                "Ý kiến",
+                "Lý do",
+                "Vấn đề"
+            ],
+            "correctAnswer": "Bằng chứng",
+            "audio": "Evidence"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "To conclude",
+            "translation": "Tóm lại - Dùng để bắt đầu phần kết luận.",
+            "audio": "To conclude"
+        }
+    ]
+}

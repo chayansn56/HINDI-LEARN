@@ -1,0 +1,101 @@
+{
+    "title": "Speaking Part 3",
+    "nodes": [
+        {
+            "type": "Flashcard",
+            "hindi": "Society",
+            "translation": "Xã hội",
+            "audio": "Society"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Generation",
+            "translation": "Thế hệ",
+            "audio": "Generation"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "In my opinion",
+            "translation": "Theo ý kiến của tôi - Để đưa ra quan điểm cá nhân.",
+            "audio": "In my opinion"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Consequence",
+            "translation": "Hậu quả",
+            "options": [
+                "Hậu quả",
+                "Lợi ích",
+                "Nguyên nhân",
+                "Lý do"
+            ],
+            "correctAnswer": "Hậu quả",
+            "audio": "Consequence"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Tendency",
+            "translation": "Xu hướng",
+            "options": [
+                "Xu hướng",
+                "Sự thật",
+                "Luật lệ",
+                "Quyết định"
+            ],
+            "correctAnswer": "Xu hướng",
+            "audio": "Tendency"
+        },
+        {
+            "type": "MatchPairs",
+            "pairs": [
+                {
+                    "hindi": "Advantage",
+                    "translation": "Lợi thế"
+                },
+                {
+                    "hindi": "Disadvantage",
+                    "translation": "Bất lợi"
+                },
+                {
+                    "hindi": "Impact",
+                    "translation": "Tác động"
+                },
+                {
+                    "hindi": "Development",
+                    "translation": "Sự phát triển"
+                }
+            ]
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Perspective",
+            "translation": "Góc nhìn/Quan điểm",
+            "audio": "Perspective"
+        },
+        {
+            "type": "Flashcard",
+            "hindi": "Global",
+            "translation": "Toàn cầu",
+            "audio": "Global"
+        },
+        {
+            "type": "MultipleChoice",
+            "hindi": "Crucial",
+            "translation": "Quan trọng",
+            "options": [
+                "Quan trọng",
+                "Không cần thiết",
+                "Bình thường",
+                "Nhỏ bé"
+            ],
+            "correctAnswer": "Quan trọng",
+            "audio": "Crucial"
+        },
+        {
+            "type": "TeachRules",
+            "hindi": "It is widely believed that",
+            "translation": "Nhiều người tin rằng - Để nêu quan điểm chung.",
+            "audio": "It is widely believed that"
+        }
+    ]
+}
