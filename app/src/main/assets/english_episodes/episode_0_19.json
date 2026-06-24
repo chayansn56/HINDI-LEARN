@@ -1,304 +1,128 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Episode 19",
-    "description": "Master the vocabulary and grammar for: Episode 19. Read the key points carefully.",
-    "keyPoints": [
-      "Foundation Practice"
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Yes.",
-    "simpleRule": "Remember: Yes means हाँ (Vâng / Có)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Yes",
-    "transliteration": "",
-    "english": "हाँ",
-    "vietnamese": "Vâng / Có",
-    "audio": "Yes"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To run",
-    "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​",
-    "vietnamese": "Chạy",
-    "audio": "To run"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To sing",
-    "transliteration": "",
-    "english": "गाना​​​​​​​​​​​",
-    "vietnamese": "Hát",
-    "audio": "To sing"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Yes'",
-    "prompt_en": "Choose correct translation for 'Yes'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Yes'",
-    "text": "Yes",
-    "subtext": "",
-    "answer": "हाँ",
-    "answer_vi": "Vâng / Có",
-    "options": [
-      "हाँ",
-      "दौड़ना​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Vâng / Có",
-      "Chạy",
-      "Hát",
-      "Nghe"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Yes",
-        "english": "हाँ (Vâng / Có)"
-      },
-      {
-        "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​ (Chạy)"
-      },
-      {
-        "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​ (Hát)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: To close.",
-    "simpleRule": "Remember: To close means बंद करना​​​​​​​​​​​​​​​​​​​​​​ (Đóng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To close",
-    "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
-    "audio": "To close"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To learn",
-    "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
-    "audio": "To learn"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To buy",
-    "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
-    "audio": "To buy"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "10",
-    "transliteration": "",
-    "english": "१०",
-    "vietnamese": "Mười",
-    "audio": "10"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To close'",
-    "prompt_en": "Choose correct translation for 'To close'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To close'",
-    "text": "To close",
-    "subtext": "",
-    "answer": "बंद करना​​​​​​​​​​​​​​​​​​​​​​",
-    "answer_vi": "Đóng",
-    "options": [
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​​​​​​​​​​​​​",
-      "१०"
-    ],
-    "options_vi": [
-      "Đóng",
-      "Học",
-      "Mua",
-      "Mười"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​ (Mua)"
-      },
-      {
-        "hindi": "10",
-        "english": "१० (Mười)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: To laugh.",
-    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To laugh",
-    "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
-    "audio": "To laugh"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To play",
-    "transliteration": "",
-    "english": "खेलना​​​​​​​​",
-    "vietnamese": "Chơi",
-    "audio": "To play"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Money / Paisa",
-    "transliteration": "",
-    "english": "पैसा",
-    "vietnamese": "Tiền xu / Tiền",
-    "audio": "Money / Paisa"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Tuesday",
-    "transliteration": "",
-    "english": "मंगलवार",
-    "vietnamese": "Thứ ba",
-    "audio": "Tuesday"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To laugh'",
-    "prompt_en": "Choose correct translation for 'To laugh'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
-    "text": "To laugh",
-    "subtext": "",
-    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​​",
-    "answer_vi": "Cười lớn",
-    "options": [
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​",
-      "खेलना​​​​​​​​",
-      "पैसा",
-      "मंगलवार"
-    ],
-    "options_vi": [
-      "Cười lớn",
-      "Chơi",
-      "Tiền xu / Tiền",
-      "Thứ ba"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
-      },
-      {
-        "hindi": "To play",
-        "english": "खेलना​​​​​​​​ (Chơi)"
-      },
-      {
-        "hindi": "Money / Paisa",
-        "english": "पैसा (Tiền xu / Tiền)"
-      },
-      {
-        "hindi": "Tuesday",
-        "english": "मंगलवार (Thứ ba)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Yes",
-    "translation_en": "हाँ",
-    "translation_vi": "Vâng / Có",
-    "options_en": [
-      "हाँ",
-      "दौड़ना​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Vâng / Có",
-      "Chạy",
-      "Hát",
-      "Nghe"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have a हाँ / Tôi có một Vâng / Có",
-    "hindiWords": [
-      "I",
-      "have",
-      "a",
-      "Yes"
-    ],
-    "correctHindiSentence": "I have a Yes"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a दौड़ना​​​​​​​​​​​ / Đây là một Chạy",
-    "hindiWords": [
-      "This",
-      "is",
-      "a",
-      "To run"
-    ],
-    "correctHindiSentence": "This is a To run"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Yes and Tuesday",
-      "Practiced constructing sentences."
-    ]
-  }
-]
+{
+  "id": "episode_0_19",
+  "title": "Days & Months",
+  "nodes": [
+    {
+      "type": "TeachRules",
+      "title": "Days & Months",
+      "explanation": "Learn the days of the week and months of the year."
+    },
+    {
+      "type": "Flashcards",
+      "items": [
+        {
+          "hindi": "Monday",
+          "translation": "Thứ hai",
+          "audio": "Monday"
+        },
+        {
+          "hindi": "Tuesday",
+          "translation": "Thứ ba",
+          "audio": "Tuesday"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "What is 'Monday' in Vietnamese?",
+      "options": [
+        "Thứ ba",
+        "Thứ hai",
+        "Thứ tư",
+        "Chủ nhật"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {
+          "hindi": "Monday",
+          "translation": "Thứ hai"
+        },
+        {
+          "hindi": "Tuesday",
+          "translation": "Thứ ba"
+        }
+      ]
+    },
+    {
+      "type": "Flashcards",
+      "items": [
+        {
+          "hindi": "January",
+          "translation": "Tháng một",
+          "audio": "January"
+        },
+        {
+          "hindi": "February",
+          "translation": "Tháng hai",
+          "audio": "February"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "What is 'January' in Vietnamese?",
+      "options": [
+        "Thứ hai",
+        "Thứ ba",
+        "Tháng một",
+        "Tháng hai"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {
+          "hindi": "January",
+          "translation": "Tháng một"
+        },
+        {
+          "hindi": "February",
+          "translation": "Tháng hai"
+        }
+      ]
+    },
+    {
+      "type": "Flashcards",
+      "items": [
+        {
+          "hindi": "March",
+          "translation": "Tháng ba",
+          "audio": "March"
+        },
+        {
+          "hindi": "April",
+          "translation": "Tháng tư",
+          "audio": "April"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "What is 'April' in Vietnamese?",
+      "options": [
+        "Tháng một",
+        "Tháng hai",
+        "Tháng ba",
+        "Tháng tư"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {
+          "hindi": "March",
+          "translation": "Tháng ba"
+        },
+        {
+          "hindi": "April",
+          "translation": "Tháng tư"
+        }
+      ]
+    }
+  ]
+}

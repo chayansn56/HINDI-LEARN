@@ -1,304 +1,116 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Episode 30",
-    "description": "Master the vocabulary and grammar for: Episode 30. Read the key points carefully.",
-    "keyPoints": [
-      "Foundation Practice"
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Cloth / Dress.",
-    "simpleRule": "Remember: Cloth / Dress means कपड़ा​ (Quần áo)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Cloth / Dress",
-    "transliteration": "",
-    "english": "कपड़ा​",
-    "vietnamese": "Quần áo",
-    "audio": "Cloth / Dress"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To read",
-    "transliteration": "",
-    "english": "पढ़ना​​​​​​​​",
-    "vietnamese": "Đọc",
-    "audio": "To read"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To close",
-    "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
-    "audio": "To close"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Ticket",
-    "transliteration": "",
-    "english": "टिकट",
-    "vietnamese": "Vé",
-    "audio": "Ticket"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Cloth / Dress'",
-    "prompt_en": "Choose correct translation for 'Cloth / Dress'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Cloth / Dress'",
-    "text": "Cloth / Dress",
-    "subtext": "",
-    "answer": "कपड़ा​",
-    "answer_vi": "Quần áo",
-    "options": [
-      "कपड़ा​",
-      "पढ़ना​​​​​​​​",
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "टिकट"
-    ],
-    "options_vi": [
-      "Quần áo",
-      "Đọc",
-      "Đóng",
-      "Vé"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Cloth / Dress",
-        "english": "कपड़ा​ (Quần áo)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
-      },
-      {
-        "hindi": "Ticket",
-        "english": "टिकट (Vé)"
+{
+  "id": "episode_0_30",
+  "title": "Foundation Final Exam",
+  "description": "Test your knowledge of the entire Foundation Phase.",
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "MultipleChoice",
+      "hindi": "I was sleeping",
+      "english": "Tôi đang ngủ",
+      "options": [
+        "Tôi đang ngủ",
+        "Tôi đã ngủ",
+        "Tôi sẽ ngủ"
+      ],
+      "audio": "I was sleeping"
+    },
+    {
+      "id": "n2",
+      "type": "MultipleChoice",
+      "hindi": "She will help",
+      "english": "Cô ấy sẽ giúp",
+      "options": [
+        "Cô ấy sẽ giúp",
+        "Cô ấy có thể giúp",
+        "Cô ấy đang giúp"
+      ],
+      "audio": "She will help"
+    },
+    {
+      "id": "n3",
+      "type": "MultipleChoice",
+      "hindi": "We are going to eat",
+      "english": "Chúng tôi sẽ ăn",
+      "options": [
+        "Chúng tôi sẽ ăn",
+        "Chúng tôi đã ăn",
+        "Chúng tôi đang ăn"
+      ],
+      "audio": "We are going to eat"
+    },
+    {
+      "id": "n4",
+      "type": "MultipleChoice",
+      "hindi": "You should go",
+      "english": "Bạn nên đi",
+      "options": [
+        "Bạn nên đi",
+        "Bạn phải đi",
+        "Bạn có thể đi"
+      ],
+      "audio": "You should go"
+    },
+    {
+      "id": "n5",
+      "type": "MatchPairs",
+      "pairs": {
+        "I was running": "Tôi đang chạy",
+        "She will win": "Cô ấy sẽ thắng",
+        "We must go": "Chúng ta phải đi",
+        "He could help": "Anh ấy đã có thể giúp"
       }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​​​​​ (Lửa)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Fire",
-    "transliteration": "",
-    "english": "आग​​​​​​​​​​",
-    "vietnamese": "Lửa",
-    "audio": "Fire"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Daughter",
-    "transliteration": "",
-    "english": "बेटी",
-    "vietnamese": "Con gái (đối với cha mẹ)",
-    "audio": "Daughter"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To wash",
-    "transliteration": "",
-    "english": "धोना​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
-    "audio": "To wash"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To clean",
-    "transliteration": "",
-    "english": "साफ करना​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "To clean"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Fire'",
-    "prompt_en": "Choose correct translation for 'Fire'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Fire'",
-    "text": "Fire",
-    "subtext": "",
-    "answer": "आग​​​​​​​​​​",
-    "answer_vi": "Lửa",
-    "options": [
-      "आग​​​​​​​​​​",
-      "बेटी",
-      "धोना​​​​​​​​​​",
-      "साफ करना​​​​​​​"
-    ],
-    "options_vi": [
-      "Lửa",
-      "Con gái (đối với cha mẹ)",
-      "Rửa / Giặt",
-      "Dọn dẹp / Lau chùi"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Daughter",
-        "english": "बेटी (Con gái (đối với cha mẹ))"
-      },
-      {
-        "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​ (Rửa / Giặt)"
-      },
-      {
-        "hindi": "To clean",
-        "english": "साफ करना​​​​​​​ (Dọn dẹp / Lau chùi)"
+    },
+    {
+      "id": "n6",
+      "type": "MultipleChoice",
+      "hindi": "They will come",
+      "english": "Họ sẽ đến",
+      "options": [
+        "Họ sẽ đến",
+        "Họ đã đến",
+        "Họ đang đến"
+      ],
+      "audio": "They will come"
+    },
+    {
+      "id": "n7",
+      "type": "MultipleChoice",
+      "hindi": "I can swim",
+      "english": "Tôi có thể bơi",
+      "options": [
+        "Tôi có thể bơi",
+        "Tôi nên bơi",
+        "Tôi phải bơi"
+      ],
+      "audio": "I can swim"
+    },
+    {
+      "id": "n8",
+      "type": "MultipleChoice",
+      "hindi": "Are you going to go?",
+      "english": "Bạn sẽ đi chứ?",
+      "options": [
+        "Bạn sẽ đi chứ?",
+        "Bạn đã đi chưa?",
+        "Bạn đang đi à?"
+      ],
+      "audio": "Are you going to go?"
+    },
+    {
+      "id": "n9",
+      "type": "MatchPairs",
+      "pairs": {
+        "I won't forget": "Tôi sẽ không quên",
+        "Are you going to study?": "Bạn sẽ học chứ?",
+        "You should sleep": "Bạn nên ngủ",
+        "They weren't running": "Họ không đang chạy"
       }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: To sell.",
-    "simpleRule": "Remember: To sell means बेचना​​​​​​​​​​​​​​​​​​​ (Bán)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To sell",
-    "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
-    "audio": "To sell"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To write",
-    "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
-    "audio": "To write"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To ask",
-    "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
-    "audio": "To ask"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "It is clean.",
-    "transliteration": "",
-    "english": "यह साफ़ है।",
-    "vietnamese": "Nó sạch sẽ.",
-    "audio": "It is clean."
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To sell'",
-    "prompt_en": "Choose correct translation for 'To sell'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To sell'",
-    "text": "To sell",
-    "subtext": "",
-    "answer": "बेचना​​​​​​​​​​​​​​​​​​​",
-    "answer_vi": "Bán",
-    "options": [
-      "बेचना​​​​​​​​​​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "यह साफ़ है।"
-    ],
-    "options_vi": [
-      "Bán",
-      "Viết",
-      "Hỏi",
-      "Nó sạch sẽ."
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​​​ (Bán)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
-      },
-      {
-        "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
-      },
-      {
-        "hindi": "It is clean.",
-        "english": "यह साफ़ है। (Nó sạch sẽ.)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Cloth / Dress",
-    "translation_en": "कपड़ा​",
-    "translation_vi": "Quần áo",
-    "options_en": [
-      "कपड़ा​",
-      "पढ़ना​​​​​​​​",
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "टिकट"
-    ],
-    "options_vi": [
-      "Quần áo",
-      "Đọc",
-      "Đóng",
-      "Vé"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have a कपड़ा​ / Tôi có một Quần áo",
-    "hindiWords": [
-      "I",
-      "have",
-      "a",
-      "Cloth / Dress"
-    ],
-    "correctHindiSentence": "I have a Cloth / Dress"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a पढ़ना​​​​​​​​ / Đây là một Đọc",
-    "hindiWords": [
-      "This",
-      "is",
-      "a",
-      "To read"
-    ],
-    "correctHindiSentence": "This is a To read"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Cloth / Dress and It is clean.",
-      "Practiced constructing sentences."
-    ]
-  }
-]
+    },
+    {
+      "id": "n10",
+      "type": "TeachRule",
+      "content": "Congratulations! You have completed the Foundation Phase!"
+    }
+  ]
+}

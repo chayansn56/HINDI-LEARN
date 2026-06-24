@@ -1,304 +1,128 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Adjectives: Opposites",
-    "description": "Master the vocabulary and grammar for: Adjectives: Opposites. Read the key points carefully.",
-    "keyPoints": [
-      "Focus: Adjectives: Opposites"
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Okay / Good.",
-    "simpleRule": "Remember: Okay / Good means अच्छा (Tốt / Được rồi)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Okay / Good",
-    "transliteration": "",
-    "english": "अच्छा",
-    "vietnamese": "Tốt / Được rồi",
-    "audio": "Okay / Good"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Good / Kind",
-    "transliteration": "",
-    "english": "भला",
-    "vietnamese": "Tốt bụng",
-    "audio": "Good / Kind"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Good morning",
-    "transliteration": "",
-    "english": "सुप्रभात",
-    "vietnamese": "Chào buổi sáng",
-    "audio": "Good morning"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Good night",
-    "transliteration": "",
-    "english": "शुभ रात्रि",
-    "vietnamese": "Chúc ngủ ngon",
-    "audio": "Good night"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Okay / Good'",
-    "prompt_en": "Choose correct translation for 'Okay / Good'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Okay / Good'",
-    "text": "Okay / Good",
-    "subtext": "",
-    "answer": "अच्छा",
-    "answer_vi": "Tốt / Được rồi",
-    "options": [
-      "अच्छा",
-      "भला",
-      "सुप्रभात",
-      "शुभ रात्रि"
-    ],
-    "options_vi": [
-      "Tốt / Được rồi",
-      "Tốt bụng",
-      "Chào buổi sáng",
-      "Chúc ngủ ngon"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Okay / Good",
-        "english": "अच्छा (Tốt / Được rồi)"
-      },
-      {
-        "hindi": "Good / Kind",
-        "english": "भला (Tốt bụng)"
-      },
-      {
-        "hindi": "Good morning",
-        "english": "सुप्रभात (Chào buổi sáng)"
-      },
-      {
-        "hindi": "Good night",
-        "english": "शुभ रात्रि (Chúc ngủ ngon)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: Goodbye.",
-    "simpleRule": "Remember: Goodbye means अलविदा (Tạm biệt)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Goodbye",
-    "transliteration": "",
-    "english": "अलविदा",
-    "vietnamese": "Tạm biệt",
-    "audio": "Goodbye"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Please speak slowly.",
-    "transliteration": "",
-    "english": "कृपया धीरे बोलिए।",
-    "vietnamese": "Làm ơn nói chậm lại.",
-    "audio": "Please speak slowly."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excellent! / Very good!",
-    "transliteration": "",
-    "english": "बहुत बढ़िया!",
-    "vietnamese": "Rất tuyệt!",
-    "audio": "Excellent! / Very good!"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "All good.",
-    "transliteration": "",
-    "english": "सब बढ़िया।",
-    "vietnamese": "Mọi thứ đều tốt.",
-    "audio": "All good."
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Goodbye'",
-    "prompt_en": "Choose correct translation for 'Goodbye'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Goodbye'",
-    "text": "Goodbye",
-    "subtext": "",
-    "answer": "अलविदा",
-    "answer_vi": "Tạm biệt",
-    "options": [
-      "अलविदा",
-      "कृपया धीरे बोलिए।",
-      "बहुत बढ़िया!",
-      "सब बढ़िया।"
-    ],
-    "options_vi": [
-      "Tạm biệt",
-      "Làm ơn nói chậm lại.",
-      "Rất tuyệt!",
-      "Mọi thứ đều tốt."
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Goodbye",
-        "english": "अलविदा (Tạm biệt)"
-      },
-      {
-        "hindi": "Please speak slowly.",
-        "english": "कृपया धीरे बोलिए। (Làm ơn nói chậm lại.)"
-      },
-      {
-        "hindi": "Excellent! / Very good!",
-        "english": "बहुत बढ़िया! (Rất tuyệt!)"
-      },
-      {
-        "hindi": "All good.",
-        "english": "सब बढ़िया। (Mọi thứ đều tốt.)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: Be happy! (blessing).",
-    "simpleRule": "Remember: Be happy! (blessing) means खुश रहो! (Hãy luôn vui vẻ nhé!)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Be happy! (blessing)",
-    "transliteration": "",
-    "english": "खुश रहो!",
-    "vietnamese": "Hãy luôn vui vẻ nhé!",
-    "audio": "Be happy! (blessing)"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How sad!",
-    "transliteration": "",
-    "english": "कितना दुखद है!",
-    "vietnamese": "Thật là buồn!",
-    "audio": "How sad!"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Journey",
-    "transliteration": "",
-    "english": "सफ़र",
-    "vietnamese": "Chuyến đi",
-    "audio": "Journey"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Be happy! (blessing)'",
-    "prompt_en": "Choose correct translation for 'Be happy! (blessing)'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Be happy! (blessing)'",
-    "text": "Be happy! (blessing)",
-    "subtext": "",
-    "answer": "खुश रहो!",
-    "answer_vi": "Hãy luôn vui vẻ nhé!",
-    "options": [
-      "खुश रहो!",
-      "कितना दुखद है!",
-      "सफ़र",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Hãy luôn vui vẻ nhé!",
-      "Thật là buồn!",
-      "Chuyến đi",
-      "Nghe"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Be happy! (blessing)",
-        "english": "खुश रहो! (Hãy luôn vui vẻ nhé!)"
-      },
-      {
-        "hindi": "How sad!",
-        "english": "कितना दुखद है! (Thật là buồn!)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र (Chuyến đi)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Okay / Good",
-    "translation_en": "अच्छा",
-    "translation_vi": "Tốt / Được rồi",
-    "options_en": [
-      "अच्छा",
-      "भला",
-      "सुप्रभात",
-      "शुभ रात्रि"
-    ],
-    "options_vi": [
-      "Tốt / Được rồi",
-      "Tốt bụng",
-      "Chào buổi sáng",
-      "Chúc ngủ ngon"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see the अच्छा / Tôi thấy Tốt / Được rồi",
-    "hindiWords": [
-      "I",
-      "see",
-      "the",
-      "Okay / Good"
-    ],
-    "correctHindiSentence": "I see the Okay / Good"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Where is भला? / Tốt bụng ở đâu?",
-    "hindiWords": [
-      "Where",
-      "is",
-      "the",
-      "Good / Kind"
-    ],
-    "correctHindiSentence": "Where is the Good / Kind"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Okay / Good and To listen / hear",
-      "Practiced constructing sentences."
-    ]
-  }
-]
+{
+  "id": "episode_0_21",
+  "title": "Adjectives: Opposites",
+  "nodes": [
+    {
+      "type": "TeachRules",
+      "title": "Adjectives: Opposites",
+      "explanation": "Learn opposite adjectives."
+    },
+    {
+      "type": "Flashcards",
+      "items": [
+        {
+          "hindi": "Big",
+          "translation": "Lớn",
+          "audio": "Big"
+        },
+        {
+          "hindi": "Small",
+          "translation": "Nhỏ",
+          "audio": "Small"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "What is 'Small' in Vietnamese?",
+      "options": [
+        "Lớn",
+        "Nóng",
+        "Lạnh",
+        "Nhỏ"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {
+          "hindi": "Big",
+          "translation": "Lớn"
+        },
+        {
+          "hindi": "Small",
+          "translation": "Nhỏ"
+        }
+      ]
+    },
+    {
+      "type": "Flashcards",
+      "items": [
+        {
+          "hindi": "Hot",
+          "translation": "Nóng",
+          "audio": "Hot"
+        },
+        {
+          "hindi": "Cold",
+          "translation": "Lạnh",
+          "audio": "Cold"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "What is 'Hot' in Vietnamese?",
+      "options": [
+        "Lớn",
+        "Nhỏ",
+        "Nóng",
+        "Lạnh"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {
+          "hindi": "Hot",
+          "translation": "Nóng"
+        },
+        {
+          "hindi": "Cold",
+          "translation": "Lạnh"
+        }
+      ]
+    },
+    {
+      "type": "Flashcards",
+      "items": [
+        {
+          "hindi": "Fast",
+          "translation": "Nhanh",
+          "audio": "Fast"
+        },
+        {
+          "hindi": "Slow",
+          "translation": "Chậm",
+          "audio": "Slow"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "question": "What is 'Slow' in Vietnamese?",
+      "options": [
+        "Nhanh",
+        "Chậm",
+        "Nóng",
+        "Lạnh"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "type": "MatchPairs",
+      "pairs": [
+        {
+          "hindi": "Fast",
+          "translation": "Nhanh"
+        },
+        {
+          "hindi": "Slow",
+          "translation": "Chậm"
+        }
+      ]
+    }
+  ]
+}

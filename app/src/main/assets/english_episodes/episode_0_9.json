@@ -1,54 +1,15 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Numbers 20-100",
-    "description": "Master the vocabulary and grammar for: Numbers 20-100. Read the key points carefully.",
-    "keyPoints": [
-      "Focus: Numbers 20-100"
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Sixty.",
-    "simpleRule": "Remember: Sixty means साठ (Sáu mươi)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Sixty",
-    "transliteration": "",
-    "english": "साठ",
-    "vietnamese": "Sáu mươi",
-    "audio": "Sixty"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see the साठ / Tôi thấy Sáu mươi",
-    "hindiWords": [
-      "I",
-      "see",
-      "the",
-      "Sixty"
-    ],
-    "correctHindiSentence": "I see the Sixty"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Where is साठ? / Sáu mươi ở đâu?",
-    "hindiWords": [
-      "Where",
-      "is",
-      "the",
-      "Sixty"
-    ],
-    "correctHindiSentence": "Where is the Sixty"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Sixty and Sixty",
-      "Practiced constructing sentences."
-    ]
-  }
-]
+{
+  "title": "Numbers 1-100",
+  "nodes": [
+    {"type": "TeachRule", "title": "Numbers", "rule": "Học số đếm cơ bản trong tiếng Anh."},
+    {"type": "Flashcard", "hindi": "One", "english": "Một", "audio": "one"},
+    {"type": "Flashcard", "hindi": "Two", "english": "Hai", "audio": "two"},
+    {"type": "Flashcard", "hindi": "Three", "english": "Ba", "audio": "three"},
+    {"type": "MultipleChoice", "hindi": "One", "options": ["Một", "Hai", "Ba", "Bốn"], "answer": "Một", "audio": "one"},
+    {"type": "Flashcard", "hindi": "Ten", "english": "Mười", "audio": "ten"},
+    {"type": "Flashcard", "hindi": "Twenty", "english": "Hai mươi", "audio": "twenty"},
+    {"type": "MultipleChoice", "hindi": "Ten", "options": ["Năm", "Mười", "Hai mươi", "Một trăm"], "answer": "Mười", "audio": "ten"},
+    {"type": "Flashcard", "hindi": "One hundred", "english": "Một trăm", "audio": "one_hundred"},
+    {"type": "MatchPairs", "pairs": [{"hindi": "Two", "english": "Hai"}, {"hindi": "Three", "english": "Ba"}, {"hindi": "Twenty", "english": "Hai mươi"}, {"hindi": "One hundred", "english": "Một trăm"}]}
+  ]
+}

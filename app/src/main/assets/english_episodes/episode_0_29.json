@@ -1,304 +1,91 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Episode 29",
-    "description": "Master the vocabulary and grammar for: Episode 29. Read the key points carefully.",
-    "keyPoints": [
-      "Foundation Practice"
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Shopkeeper.",
-    "simpleRule": "Remember: Shopkeeper means दुकानदार (Chủ cửa hàng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Shopkeeper",
-    "transliteration": "",
-    "english": "दुकानदार",
-    "vietnamese": "Chủ cửa hàng",
-    "audio": "Shopkeeper"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To clean",
-    "transliteration": "",
-    "english": "साफ करना​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "To clean"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To make / build",
-    "transliteration": "",
-    "english": "बनाना​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "To make / build"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Gold",
-    "transliteration": "",
-    "english": "सोना",
-    "vietnamese": "Vàng",
-    "audio": "Gold"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Shopkeeper'",
-    "prompt_en": "Choose correct translation for 'Shopkeeper'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Shopkeeper'",
-    "text": "Shopkeeper",
-    "subtext": "",
-    "answer": "दुकानदार",
-    "answer_vi": "Chủ cửa hàng",
-    "options": [
-      "दुकानदार",
-      "साफ करना​",
-      "बनाना​​​​​",
-      "सोना"
-    ],
-    "options_vi": [
-      "Chủ cửa hàng",
-      "Dọn dẹp / Lau chùi",
-      "Chế tạo / Tạo ra",
-      "Vàng"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Shopkeeper",
-        "english": "दुकानदार (Chủ cửa hàng)"
-      },
-      {
-        "hindi": "To clean",
-        "english": "साफ करना​ (Dọn dẹp / Lau chùi)"
-      },
-      {
-        "hindi": "To make / build",
-        "english": "बनाना​​​​​ (Chế tạo / Tạo ra)"
-      },
-      {
-        "hindi": "Gold",
-        "english": "सोना (Vàng)"
+{
+  "id": "episode_0_29",
+  "title": "Modal Verbs",
+  "description": "Learn to use can, could, should, and must.",
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "TeachRule",
+      "content": "Modal verbs add meaning like ability, obligation, or advice. 'can' = có thể, 'must' = phải, 'should' = nên."
+    },
+    {
+      "id": "n2",
+      "type": "Flashcard",
+      "hindi": "I can swim",
+      "english": "Tôi có thể bơi",
+      "audio": "I can swim"
+    },
+    {
+      "id": "n3",
+      "type": "Flashcard",
+      "hindi": "You should go",
+      "english": "Bạn nên đi",
+      "audio": "You should go"
+    },
+    {
+      "id": "n4",
+      "type": "Flashcard",
+      "hindi": "We must study",
+      "english": "Chúng ta phải học",
+      "audio": "We must study"
+    },
+    {
+      "id": "n5",
+      "type": "MultipleChoice",
+      "hindi": "She can help",
+      "english": "Cô ấy có thể giúp",
+      "options": [
+        "Cô ấy có thể giúp",
+        "Cô ấy phải giúp",
+        "Cô ấy nên giúp"
+      ],
+      "audio": "She can help"
+    },
+    {
+      "id": "n6",
+      "type": "MultipleChoice",
+      "hindi": "He should sleep",
+      "english": "Anh ấy nên ngủ",
+      "options": [
+        "Anh ấy nên ngủ",
+        "Anh ấy có thể ngủ",
+        "Anh ấy phải ngủ"
+      ],
+      "audio": "He should sleep"
+    },
+    {
+      "id": "n7",
+      "type": "MatchPairs",
+      "pairs": {
+        "I can swim": "Tôi có thể bơi",
+        "You should go": "Bạn nên đi",
+        "We must study": "Chúng ta phải học",
+        "They can win": "Họ có thể thắng"
       }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: Hotel.",
-    "simpleRule": "Remember: Hotel means होटल (Khách sạn)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Hotel",
-    "transliteration": "",
-    "english": "होटल",
-    "vietnamese": "Khách sạn",
-    "audio": "Hotel"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "As / Like / For example",
-    "transliteration": "",
-    "english": "जैसे",
-    "vietnamese": "Như là / Ví dụ",
-    "audio": "As / Like / For example"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To open",
-    "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
-    "audio": "To open"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To do",
-    "transliteration": "",
-    "english": "करना​​​​​​​​​​",
-    "vietnamese": "Làm",
-    "audio": "To do"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Hotel'",
-    "prompt_en": "Choose correct translation for 'Hotel'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Hotel'",
-    "text": "Hotel",
-    "subtext": "",
-    "answer": "होटल",
-    "answer_vi": "Khách sạn",
-    "options": [
-      "होटल",
-      "जैसे",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "करना​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Khách sạn",
-      "Như là / Ví dụ",
-      "Mở",
-      "Làm"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Hotel",
-        "english": "होटल (Khách sạn)"
-      },
-      {
-        "hindi": "As / Like / For example",
-        "english": "जैसे (Như là / Ví dụ)"
-      },
-      {
-        "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
-      },
-      {
-        "hindi": "To do",
-        "english": "करना​​​​​​​​​​ (Làm)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​​​​ (Đám mây)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Cloud",
-    "transliteration": "",
-    "english": "बादल​​​​​​​​​",
-    "vietnamese": "Đám mây",
-    "audio": "Cloud"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To open",
-    "transliteration": "",
-    "english": "खोलना​​​",
-    "vietnamese": "Mở",
-    "audio": "To open"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Silver",
-    "transliteration": "",
-    "english": "चाँदी​​​",
-    "vietnamese": "Bạc",
-    "audio": "Silver"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Ticket counter",
-    "transliteration": "",
-    "english": "टिकट काउंटर",
-    "vietnamese": "Quầy bán vé",
-    "audio": "Ticket counter"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Cloud'",
-    "prompt_en": "Choose correct translation for 'Cloud'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
-    "text": "Cloud",
-    "subtext": "",
-    "answer": "बादल​​​​​​​​​",
-    "answer_vi": "Đám mây",
-    "options": [
-      "बादल​​​​​​​​​",
-      "खोलना​​​",
-      "चाँदी​​​",
-      "टिकट काउंटर"
-    ],
-    "options_vi": [
-      "Đám mây",
-      "Mở",
-      "Bạc",
-      "Quầy bán vé"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Cloud",
-        "english": "बादल​​​​​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "To open",
-        "english": "खोलना​​​ (Mở)"
-      },
-      {
-        "hindi": "Silver",
-        "english": "चाँदी​​​ (Bạc)"
-      },
-      {
-        "hindi": "Ticket counter",
-        "english": "टिकट काउंटर (Quầy bán vé)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Shopkeeper",
-    "translation_en": "दुकानदार",
-    "translation_vi": "Chủ cửa hàng",
-    "options_en": [
-      "दुकानदार",
-      "साफ करना​",
-      "बनाना​​​​​",
-      "सोना"
-    ],
-    "options_vi": [
-      "Chủ cửa hàng",
-      "Dọn dẹp / Lau chùi",
-      "Chế tạo / Tạo ra",
-      "Vàng"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have a दुकानदार / Tôi có một Chủ cửa hàng",
-    "hindiWords": [
-      "I",
-      "have",
-      "a",
-      "Shopkeeper"
-    ],
-    "correctHindiSentence": "I have a Shopkeeper"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a साफ करना​ / Đây là một Dọn dẹp / Lau chùi",
-    "hindiWords": [
-      "This",
-      "is",
-      "a",
-      "To clean"
-    ],
-    "correctHindiSentence": "This is a To clean"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Shopkeeper and Ticket counter",
-      "Practiced constructing sentences."
-    ]
-  }
-]
+    },
+    {
+      "id": "n8",
+      "type": "TeachRule",
+      "content": "'Could' is used for past ability or polite requests. Example: Could you help me? (Bạn có thể giúp tôi không?)"
+    },
+    {
+      "id": "n9",
+      "type": "Flashcard",
+      "hindi": "Could you help me?",
+      "english": "Bạn có thể giúp tôi không?",
+      "audio": "Could you help me?"
+    },
+    {
+      "id": "n10",
+      "type": "MultipleChoice",
+      "hindi": "I could swim",
+      "english": "Tôi đã có thể bơi",
+      "options": [
+        "Tôi đã có thể bơi",
+        "Tôi có thể bơi",
+        "Tôi sẽ bơi"
+      ],
+      "audio": "I could swim"
+    }
+  ]
+}

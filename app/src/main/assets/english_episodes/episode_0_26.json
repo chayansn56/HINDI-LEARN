@@ -1,304 +1,91 @@
-[
-  {
-    "type": "Introduction",
-    "title": "Episode 26",
-    "description": "Master the vocabulary and grammar for: Episode 26. Read the key points carefully.",
-    "keyPoints": [
-      "Foundation Practice"
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: To sing.",
-    "simpleRule": "Remember: To sing means गाना​​​​​​​​​​​ (Hát)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To sing",
-    "transliteration": "",
-    "english": "गाना​​​​​​​​​​​",
-    "vietnamese": "Hát",
-    "audio": "To sing"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To tell / explain",
-    "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "To tell / explain"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Love",
-    "transliteration": "",
-    "english": "प्यार",
-    "vietnamese": "Tình yêu",
-    "audio": "Love"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To speak",
-    "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
-    "audio": "To speak"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To sing'",
-    "prompt_en": "Choose correct translation for 'To sing'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
-    "text": "To sing",
-    "subtext": "",
-    "answer": "गाना​​​​​​​​​​​",
-    "answer_vi": "Hát",
-    "options": [
-      "गाना​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​",
-      "प्यार",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Hát",
-      "Kể / Giải thích",
-      "Tình yêu",
-      "Nói"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​ (Hát)"
-      },
-      {
-        "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
-      },
-      {
-        "hindi": "Love",
-        "english": "प्यार (Tình yêu)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+{
+  "id": "episode_0_26",
+  "title": "Past Continuous",
+  "description": "Learn to talk about actions happening in the past.",
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "TeachRule",
+      "content": "To talk about an action that was happening at a specific time in the past, use 'was/were + verb-ing'.\nExample: 'I was sleeping' (Tôi đang ngủ)."
+    },
+    {
+      "id": "n2",
+      "type": "Flashcard",
+      "hindi": "I was sleeping",
+      "english": "Tôi đang ngủ",
+      "audio": "I was sleeping"
+    },
+    {
+      "id": "n3",
+      "type": "Flashcard",
+      "hindi": "They were playing",
+      "english": "Họ đang chơi",
+      "audio": "They were playing"
+    },
+    {
+      "id": "n4",
+      "type": "Flashcard",
+      "hindi": "She was reading",
+      "english": "Cô ấy đang đọc",
+      "audio": "She was reading"
+    },
+    {
+      "id": "n5",
+      "type": "MultipleChoice",
+      "hindi": "I was eating",
+      "english": "Tôi đang ăn",
+      "options": [
+        "Tôi đang ăn",
+        "Tôi đã ăn",
+        "Tôi sẽ ăn"
+      ],
+      "audio": "I was eating"
+    },
+    {
+      "id": "n6",
+      "type": "MultipleChoice",
+      "hindi": "We were working",
+      "english": "Chúng tôi đang làm việc",
+      "options": [
+        "Chúng tôi đang làm việc",
+        "Họ đang làm việc",
+        "Tôi đang làm việc"
+      ],
+      "audio": "We were working"
+    },
+    {
+      "id": "n7",
+      "type": "MatchPairs",
+      "pairs": {
+        "I was sleeping": "Tôi đang ngủ",
+        "She was reading": "Cô ấy đang đọc",
+        "They were playing": "Họ đang chơi",
+        "He was eating": "Anh ấy đang ăn"
       }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: To laugh.",
-    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To laugh",
-    "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
-    "audio": "To laugh"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To ask",
-    "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
-    "audio": "To ask"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Betrayal / Deceit",
-    "transliteration": "",
-    "english": "धोखा",
-    "vietnamese": "Sự phản bội",
-    "audio": "Betrayal / Deceit"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To run",
-    "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
-    "audio": "To run"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To laugh'",
-    "prompt_en": "Choose correct translation for 'To laugh'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
-    "text": "To laugh",
-    "subtext": "",
-    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "answer_vi": "Cười lớn",
-    "options": [
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "धोखा",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Cười lớn",
-      "Hỏi",
-      "Sự phản bội",
-      "Chạy"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
-      },
-      {
-        "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
-      },
-      {
-        "hindi": "Betrayal / Deceit",
-        "english": "धोखा (Sự phản bội)"
-      },
-      {
-        "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: To do.",
-    "simpleRule": "Remember: To do means करना​​​ (Làm)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To do",
-    "transliteration": "",
-    "english": "करना​​​",
-    "vietnamese": "Làm",
-    "audio": "To do"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "City",
-    "transliteration": "",
-    "english": "शहर​​​​​​​​​",
-    "vietnamese": "Thành phố",
-    "audio": "City"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To laugh",
-    "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
-    "audio": "To laugh"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To tell / explain",
-    "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "To tell / explain"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To do'",
-    "prompt_en": "Choose correct translation for 'To do'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
-    "text": "To do",
-    "subtext": "",
-    "answer": "करना​​​",
-    "answer_vi": "Làm",
-    "options": [
-      "करना​​​",
-      "शहर​​​​​​​​​",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Làm",
-      "Thành phố",
-      "Cười lớn",
-      "Kể / Giải thích"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To do",
-        "english": "करना​​​ (Làm)"
-      },
-      {
-        "hindi": "City",
-        "english": "शहर​​​​​​​​​ (Thành phố)"
-      },
-      {
-        "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
-      },
-      {
-        "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "To sing",
-    "translation_en": "गाना​​​​​​​​​​​",
-    "translation_vi": "Hát",
-    "options_en": [
-      "गाना​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​",
-      "प्यार",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Hát",
-      "Kể / Giải thích",
-      "Tình yêu",
-      "Nói"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have a गाना​​​​​​​​​​​ / Tôi có một Hát",
-    "hindiWords": [
-      "I",
-      "have",
-      "a",
-      "To sing"
-    ],
-    "correctHindiSentence": "I have a To sing"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a बताना​​​​​​​​​​​​​​​​​​​​​ / Đây là một Kể / Giải thích",
-    "hindiWords": [
-      "This",
-      "is",
-      "a",
-      "To tell / explain"
-    ],
-    "correctHindiSentence": "This is a To tell / explain"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: To sing and To tell / explain",
-      "Practiced constructing sentences."
-    ]
-  }
-]
+    },
+    {
+      "id": "n8",
+      "type": "TeachRule",
+      "content": "Negative (was not/were not). Example: I wasn't sleeping (Tôi không đang ngủ)."
+    },
+    {
+      "id": "n9",
+      "type": "Flashcard",
+      "hindi": "I wasn't listening",
+      "english": "Tôi không đang nghe",
+      "audio": "I wasn't listening"
+    },
+    {
+      "id": "n10",
+      "type": "MultipleChoice",
+      "hindi": "They weren't running",
+      "english": "Họ không đang chạy",
+      "options": [
+        "Họ không đang chạy",
+        "Họ đang chạy",
+        "Họ đã chạy"
+      ],
+      "audio": "They weren't running"
+    }
+  ]
+}
