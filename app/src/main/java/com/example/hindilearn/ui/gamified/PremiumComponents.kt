@@ -33,18 +33,17 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
         "LIGHT" -> false
         else -> isSystemInDarkTheme()
     }
-    val isEnglishCourse = com.example.hindilearn.data.UserManager.progress.selectedCourse == "ENGLISH"
     val infiniteTransition = rememberInfiniteTransition(label = "bg")
     val color1 by infiniteTransition.animateColor(
         initialValue = if (isDark) {
-            Color(0xFF0A192F) // Deep Midnight Navy
+            Color(0xFF0C1D3A) // Deep Brand Blue-Navy
         } else {
-            if (isEnglishCourse) EnglishSky else WarmIvory
+            Color(0xFFEBF3FC) // Very soft Aqua Sky Blue
         },
         targetValue = if (isDark) {
-            Color(0xFF070F1E) // Even darker Navy
+            Color(0xFF061022) // Darker Brand Midnight
         } else {
-            Color(0xFFFFFDF7) // Soft White/Cream
+            Color(0xFFF7FAFD) // Pure water white
         },
         animationSpec = infiniteRepeatable(
             animation = tween(4000, easing = LinearEasing),
@@ -54,14 +53,14 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
     )
     val color2 by infiniteTransition.animateColor(
         initialValue = if (isDark) {
-            Color(0xFF0F172A) // Dark Slate Navy
+            Color(0xFF132A52) // Dark Navy Blue
         } else {
-            if (isEnglishCourse) EnglishSky.copy(alpha = 0.5f) else Color(0xFFFFF1F1).copy(alpha = 0.5f)
+            Color(0xFFD4E6FA) // Soft watercolor Aqua Blue
         },
         targetValue = if (isDark) {
-            Color(0xFF1E293B) // Medium Slate Blue (Navy-adjacent)
+            Color(0xFF1E3F79) // Lighter blue accent
         } else {
-            DeepSaffron.copy(alpha = 0.08f) // Accent Saffron
+            Color(0xFFFFFBF0) // Subtle gold undertone from tag line
         },
         animationSpec = infiniteRepeatable(
             animation = tween(5000, easing = LinearEasing),
@@ -81,7 +80,7 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
             // Optional watermark
             Text(
                 "VIETANA",
-                color = if (isDark) DeepSaffron.copy(alpha = 0.03f) else DeepSaffron.copy(alpha = 0.05f),
+                color = if (isDark) VietanaBlue.copy(alpha = 0.04f) else VietanaBlue.copy(alpha = 0.06f),
                 style = MaterialTheme.typography.displayLarge.copy(fontWeight = FontWeight.Black),
                 modifier = Modifier.align(Alignment.Center)
             )
