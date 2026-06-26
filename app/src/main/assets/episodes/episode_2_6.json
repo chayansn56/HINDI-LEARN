@@ -1,0 +1,229 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 36: Postpositions & Case Endings",
+    "description": "Master vocabulary and expressions for Lesson 36: Postpositions & Case Endings.",
+    "keyPoints": [
+      "Learn के लिए and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के लिए",
+    "transliteration": "ke liye",
+    "english": "For",
+    "vietnamese": "Cho / Dành cho",
+    "audio": "के लिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के साथ",
+    "transliteration": "ke saath",
+    "english": "With",
+    "vietnamese": "Với / Cùng với",
+    "audio": "के साथ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के पास",
+    "transliteration": "ke paas",
+    "english": "Near / Has",
+    "vietnamese": "Gần / Có",
+    "audio": "के पास"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के बाद",
+    "transliteration": "ke baad",
+    "english": "After",
+    "vietnamese": "Sau khi / Sau đó",
+    "audio": "के बाद"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "के पहले",
+    "transliteration": "ke pehle",
+    "english": "Before",
+    "vietnamese": "Trước khi",
+    "audio": "के पहले"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "के लिए",
+    "text": "के लिए",
+    "subtext": "",
+    "answer": "For",
+    "answer_vi": "Cho / Dành cho",
+    "options": [
+      "For",
+      "With",
+      "Near / Has",
+      "After"
+    ],
+    "options_en": [
+      "For",
+      "With",
+      "Near / Has",
+      "After"
+    ],
+    "options_vi": [
+      "Cho / Dành cho",
+      "Với / Cùng với",
+      "Gần / Có",
+      "Sau khi / Sau đó"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "के साथ",
+    "text": "के साथ",
+    "subtext": "",
+    "answer": "With",
+    "answer_vi": "Với / Cùng với",
+    "options": [
+      "With",
+      "For",
+      "Near / Has",
+      "After"
+    ],
+    "options_en": [
+      "With",
+      "For",
+      "Near / Has",
+      "After"
+    ],
+    "options_vi": [
+      "Với / Cùng với",
+      "Cho / Dành cho",
+      "Gần / Có",
+      "Sau khi / Sau đó"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "के पास",
+    "text": "के पास",
+    "subtext": "",
+    "answer": "Near / Has",
+    "answer_vi": "Gần / Có",
+    "options": [
+      "Near / Has",
+      "For",
+      "With",
+      "After"
+    ],
+    "options_en": [
+      "Near / Has",
+      "For",
+      "With",
+      "After"
+    ],
+    "options_vi": [
+      "Gần / Có",
+      "Cho / Dành cho",
+      "Với / Cùng với",
+      "Sau khi / Sau đó"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "के बाद",
+    "text": "के बाद",
+    "subtext": "",
+    "answer": "After",
+    "answer_vi": "Sau khi / Sau đó",
+    "options": [
+      "After",
+      "For",
+      "With",
+      "Near / Has"
+    ],
+    "options_en": [
+      "After",
+      "For",
+      "With",
+      "Near / Has"
+    ],
+    "options_vi": [
+      "Sau khi / Sau đó",
+      "Cho / Dành cho",
+      "Với / Cùng với",
+      "Gần / Có"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "के पहले",
+    "text": "के पहले",
+    "subtext": "",
+    "answer": "Before",
+    "answer_vi": "Trước khi",
+    "options": [
+      "Before",
+      "For",
+      "With",
+      "Near / Has"
+    ],
+    "options_en": [
+      "Before",
+      "For",
+      "With",
+      "Near / Has"
+    ],
+    "options_vi": [
+      "Trước khi",
+      "Cho / Dành cho",
+      "Với / Cùng với",
+      "Gần / Có"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This tea is for you.",
+    "hindiWords": [
+      "लिए",
+      "चाय",
+      "है",
+      "आपके",
+      "यह"
+    ],
+    "correctHindiSentence": "यह चाय आपके लिए है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "के लिए",
+        "english": "For"
+      },
+      {
+        "hindi": "के साथ",
+        "english": "With"
+      },
+      {
+        "hindi": "के पास",
+        "english": "Near / Has"
+      },
+      {
+        "hindi": "के बाद",
+        "english": "After"
+      }
+    ]
+  }
+]

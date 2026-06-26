@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 45: Graduation Review",
+    "description": "Master vocabulary and expressions for Lesson 45: Graduation Review.",
+    "keyPoints": [
+      "Learn सफलता and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफलता",
+    "transliteration": "safalta",
+    "english": "Success",
+    "vietnamese": "Sự thành công",
+    "audio": "सफलता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बधाई",
+    "transliteration": "badhaai",
+    "english": "Congratulations",
+    "vietnamese": "Chúc mừng",
+    "audio": "बधाई"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "धाराप्रवाह",
+    "transliteration": "dhaarapravaah",
+    "english": "Fluent / Fluency",
+    "vietnamese": "Trôi chảy",
+    "audio": "धाराप्रवाह"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स्तर",
+    "transliteration": "star",
+    "english": "Level",
+    "vietnamese": "Cấp độ",
+    "audio": "स्तर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूरा",
+    "transliteration": "poora",
+    "english": "Complete / Finished",
+    "vietnamese": "Hoàn thành",
+    "audio": "पूरा"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सफलता",
+    "text": "सफलता",
+    "subtext": "",
+    "answer": "Success",
+    "answer_vi": "Sự thành công",
+    "options": [
+      "Success",
+      "Congratulations",
+      "Fluent / Fluency",
+      "Level"
+    ],
+    "options_en": [
+      "Success",
+      "Congratulations",
+      "Fluent / Fluency",
+      "Level"
+    ],
+    "options_vi": [
+      "Sự thành công",
+      "Chúc mừng",
+      "Trôi chảy",
+      "Cấp độ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बधाई",
+    "text": "बधाई",
+    "subtext": "",
+    "answer": "Congratulations",
+    "answer_vi": "Chúc mừng",
+    "options": [
+      "Congratulations",
+      "Success",
+      "Fluent / Fluency",
+      "Level"
+    ],
+    "options_en": [
+      "Congratulations",
+      "Success",
+      "Fluent / Fluency",
+      "Level"
+    ],
+    "options_vi": [
+      "Chúc mừng",
+      "Sự thành công",
+      "Trôi chảy",
+      "Cấp độ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "धाराप्रवाह",
+    "text": "धाराप्रवाह",
+    "subtext": "",
+    "answer": "Fluent / Fluency",
+    "answer_vi": "Trôi chảy",
+    "options": [
+      "Fluent / Fluency",
+      "Success",
+      "Congratulations",
+      "Level"
+    ],
+    "options_en": [
+      "Fluent / Fluency",
+      "Success",
+      "Congratulations",
+      "Level"
+    ],
+    "options_vi": [
+      "Trôi chảy",
+      "Sự thành công",
+      "Chúc mừng",
+      "Cấp độ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "स्तर",
+    "text": "स्तर",
+    "subtext": "",
+    "answer": "Level",
+    "answer_vi": "Cấp độ",
+    "options": [
+      "Level",
+      "Success",
+      "Congratulations",
+      "Fluent / Fluency"
+    ],
+    "options_en": [
+      "Level",
+      "Success",
+      "Congratulations",
+      "Fluent / Fluency"
+    ],
+    "options_vi": [
+      "Cấp độ",
+      "Sự thành công",
+      "Chúc mừng",
+      "Trôi chảy"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पूरा",
+    "text": "पूरा",
+    "subtext": "",
+    "answer": "Complete / Finished",
+    "answer_vi": "Hoàn thành",
+    "options": [
+      "Complete / Finished",
+      "Success",
+      "Congratulations",
+      "Fluent / Fluency"
+    ],
+    "options_en": [
+      "Complete / Finished",
+      "Success",
+      "Congratulations",
+      "Fluent / Fluency"
+    ],
+    "options_vi": [
+      "Hoàn thành",
+      "Sự thành công",
+      "Chúc mừng",
+      "Trôi chảy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Congratulations on your success.",
+    "hindiWords": [
+      "बधाई",
+      "सफलता",
+      "पर",
+      "आपकी"
+    ],
+    "correctHindiSentence": "आपकी सफलता पर बधाई"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "सफलता",
+        "english": "Success"
+      },
+      {
+        "hindi": "बधाई",
+        "english": "Congratulations"
+      },
+      {
+        "hindi": "धाराप्रवाह",
+        "english": "Fluent / Fluency"
+      },
+      {
+        "hindi": "स्तर",
+        "english": "Level"
+      }
+    ]
+  }
+]

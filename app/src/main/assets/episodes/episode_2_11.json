@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 41: Illness & Doctor",
+    "description": "Master vocabulary and expressions for Lesson 41: Illness & Doctor.",
+    "keyPoints": [
+      "Learn बीमार and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बीमार",
+    "transliteration": "bimar",
+    "english": "Sick / Ill",
+    "vietnamese": "Ốm / Bệnh",
+    "audio": "बीमार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दर्द",
+    "transliteration": "dard",
+    "english": "Pain",
+    "vietnamese": "Đau",
+    "audio": "दर्द"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दवा",
+    "transliteration": "dava",
+    "english": "Medicine",
+    "vietnamese": "Thuốc",
+    "audio": "दवा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अस्पताल",
+    "transliteration": "aspatal",
+    "english": "Hospital",
+    "vietnamese": "Bệnh viện",
+    "audio": "अस्पताल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "डॉक्टर",
+    "transliteration": "doctor",
+    "english": "Doctor",
+    "vietnamese": "Bác sĩ",
+    "audio": "डॉक्टर"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बीमार",
+    "text": "बीमार",
+    "subtext": "",
+    "answer": "Sick / Ill",
+    "answer_vi": "Ốm / Bệnh",
+    "options": [
+      "Sick / Ill",
+      "Pain",
+      "Medicine",
+      "Hospital"
+    ],
+    "options_en": [
+      "Sick / Ill",
+      "Pain",
+      "Medicine",
+      "Hospital"
+    ],
+    "options_vi": [
+      "Ốm / Bệnh",
+      "Đau",
+      "Thuốc",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दर्द",
+    "text": "दर्द",
+    "subtext": "",
+    "answer": "Pain",
+    "answer_vi": "Đau",
+    "options": [
+      "Pain",
+      "Sick / Ill",
+      "Medicine",
+      "Hospital"
+    ],
+    "options_en": [
+      "Pain",
+      "Sick / Ill",
+      "Medicine",
+      "Hospital"
+    ],
+    "options_vi": [
+      "Đau",
+      "Ốm / Bệnh",
+      "Thuốc",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दवा",
+    "text": "दवा",
+    "subtext": "",
+    "answer": "Medicine",
+    "answer_vi": "Thuốc",
+    "options": [
+      "Medicine",
+      "Sick / Ill",
+      "Pain",
+      "Hospital"
+    ],
+    "options_en": [
+      "Medicine",
+      "Sick / Ill",
+      "Pain",
+      "Hospital"
+    ],
+    "options_vi": [
+      "Thuốc",
+      "Ốm / Bệnh",
+      "Đau",
+      "Bệnh viện"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "अस्पताल",
+    "text": "अस्पताल",
+    "subtext": "",
+    "answer": "Hospital",
+    "answer_vi": "Bệnh viện",
+    "options": [
+      "Hospital",
+      "Sick / Ill",
+      "Pain",
+      "Medicine"
+    ],
+    "options_en": [
+      "Hospital",
+      "Sick / Ill",
+      "Pain",
+      "Medicine"
+    ],
+    "options_vi": [
+      "Bệnh viện",
+      "Ốm / Bệnh",
+      "Đau",
+      "Thuốc"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "डॉक्टर",
+    "text": "डॉक्टर",
+    "subtext": "",
+    "answer": "Doctor",
+    "answer_vi": "Bác sĩ",
+    "options": [
+      "Doctor",
+      "Sick / Ill",
+      "Pain",
+      "Medicine"
+    ],
+    "options_en": [
+      "Doctor",
+      "Sick / Ill",
+      "Pain",
+      "Medicine"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Ốm / Bệnh",
+      "Đau",
+      "Thuốc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I am sick today.",
+    "hindiWords": [
+      "बीमार",
+      "हूँ",
+      "आज",
+      "मैं"
+    ],
+    "correctHindiSentence": "मैं आज बीमार हूँ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "बीमार",
+        "english": "Sick / Ill"
+      },
+      {
+        "hindi": "दर्द",
+        "english": "Pain"
+      },
+      {
+        "hindi": "दवा",
+        "english": "Medicine"
+      },
+      {
+        "hindi": "अस्पताल",
+        "english": "Hospital"
+      }
+    ]
+  }
+]

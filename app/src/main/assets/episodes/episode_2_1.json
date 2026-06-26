@@ -1,0 +1,266 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 31: Advanced Family & Relationships",
+    "description": "Master vocabulary and expressions for Lesson 31: Advanced Family & Relationships.",
+    "keyPoints": [
+      "Learn चाचा and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाचा",
+    "transliteration": "chacha",
+    "english": "Paternal Uncle",
+    "vietnamese": "Chú (bên nội)",
+    "audio": "चाचा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाची",
+    "transliteration": "chaachi",
+    "english": "Paternal Aunt",
+    "vietnamese": "Thím (bên nội)",
+    "audio": "चाची"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मामा",
+    "transliteration": "mama",
+    "english": "Maternal Uncle",
+    "vietnamese": "Cậu (bên ngoại)",
+    "audio": "मामा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मामी",
+    "transliteration": "mami",
+    "english": "Maternal Aunt",
+    "vietnamese": "Mợ (bên ngoại)",
+    "audio": "मामी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ससुर",
+    "transliteration": "sasur",
+    "english": "Father-in-law",
+    "vietnamese": "Bố chồng / Bố vợ",
+    "audio": "ससुर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सास",
+    "transliteration": "saas",
+    "english": "Mother-in-law",
+    "vietnamese": "Mẹ chồng / Mẹ vợ",
+    "audio": "सास"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चाचा",
+    "text": "चाचा",
+    "subtext": "",
+    "answer": "Paternal Uncle",
+    "answer_vi": "Chú (bên nội)",
+    "options": [
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle",
+      "Maternal Aunt"
+    ],
+    "options_en": [
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle",
+      "Maternal Aunt"
+    ],
+    "options_vi": [
+      "Chú (bên nội)",
+      "Thím (bên nội)",
+      "Cậu (bên ngoại)",
+      "Mợ (bên ngoại)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चाची",
+    "text": "चाची",
+    "subtext": "",
+    "answer": "Paternal Aunt",
+    "answer_vi": "Thím (bên nội)",
+    "options": [
+      "Paternal Aunt",
+      "Paternal Uncle",
+      "Maternal Uncle",
+      "Maternal Aunt"
+    ],
+    "options_en": [
+      "Paternal Aunt",
+      "Paternal Uncle",
+      "Maternal Uncle",
+      "Maternal Aunt"
+    ],
+    "options_vi": [
+      "Thím (bên nội)",
+      "Chú (bên nội)",
+      "Cậu (bên ngoại)",
+      "Mợ (bên ngoại)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मामा",
+    "text": "मामा",
+    "subtext": "",
+    "answer": "Maternal Uncle",
+    "answer_vi": "Cậu (bên ngoại)",
+    "options": [
+      "Maternal Uncle",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Aunt"
+    ],
+    "options_en": [
+      "Maternal Uncle",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Aunt"
+    ],
+    "options_vi": [
+      "Cậu (bên ngoại)",
+      "Chú (bên nội)",
+      "Thím (bên nội)",
+      "Mợ (bên ngoại)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मामी",
+    "text": "मामी",
+    "subtext": "",
+    "answer": "Maternal Aunt",
+    "answer_vi": "Mợ (bên ngoại)",
+    "options": [
+      "Maternal Aunt",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle"
+    ],
+    "options_en": [
+      "Maternal Aunt",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle"
+    ],
+    "options_vi": [
+      "Mợ (bên ngoại)",
+      "Chú (bên nội)",
+      "Thím (bên nội)",
+      "Cậu (bên ngoại)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ससुर",
+    "text": "ससुर",
+    "subtext": "",
+    "answer": "Father-in-law",
+    "answer_vi": "Bố chồng / Bố vợ",
+    "options": [
+      "Father-in-law",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle"
+    ],
+    "options_en": [
+      "Father-in-law",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle"
+    ],
+    "options_vi": [
+      "Bố chồng / Bố vợ",
+      "Chú (bên nội)",
+      "Thím (bên nội)",
+      "Cậu (bên ngoại)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सास",
+    "text": "सास",
+    "subtext": "",
+    "answer": "Mother-in-law",
+    "answer_vi": "Mẹ chồng / Mẹ vợ",
+    "options": [
+      "Mother-in-law",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle"
+    ],
+    "options_en": [
+      "Mother-in-law",
+      "Paternal Uncle",
+      "Paternal Aunt",
+      "Maternal Uncle"
+    ],
+    "options_vi": [
+      "Mẹ chồng / Mẹ vợ",
+      "Chú (bên nội)",
+      "Thím (bên nội)",
+      "Cậu (bên ngoại)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "My maternal uncle is coming.",
+    "hindiWords": [
+      "मामा",
+      "आ",
+      "रहे",
+      "हैं",
+      "मेरे"
+    ],
+    "correctHindiSentence": "मेरे मामा आ रहे हैं"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "चाचा",
+        "english": "Paternal Uncle"
+      },
+      {
+        "hindi": "चाची",
+        "english": "Paternal Aunt"
+      },
+      {
+        "hindi": "मामा",
+        "english": "Maternal Uncle"
+      },
+      {
+        "hindi": "मामी",
+        "english": "Maternal Aunt"
+      }
+    ]
+  }
+]

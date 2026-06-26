@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 40: Shopping & Prices",
+    "description": "Master vocabulary and expressions for Lesson 40: Shopping & Prices.",
+    "keyPoints": [
+      "Learn महँगा and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "महँगा",
+    "transliteration": "mehnga",
+    "english": "Expensive",
+    "vietnamese": "Đắt / Mắc",
+    "audio": "महँगा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सस्ता",
+    "transliteration": "sasta",
+    "english": "Cheap",
+    "vietnamese": "Rẻ",
+    "audio": "सस्ता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दाम",
+    "transliteration": "daam",
+    "english": "Price / Cost",
+    "vietnamese": "Giá cả",
+    "audio": "दाम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "छूट",
+    "transliteration": "chhoot",
+    "english": "Discount",
+    "vietnamese": "Giảm giá",
+    "audio": "छूट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खरीदना",
+    "transliteration": "kharidna",
+    "english": "To buy",
+    "vietnamese": "Mua",
+    "audio": "खरीदना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "महँगा",
+    "text": "महँगा",
+    "subtext": "",
+    "answer": "Expensive",
+    "answer_vi": "Đắt / Mắc",
+    "options": [
+      "Expensive",
+      "Cheap",
+      "Price / Cost",
+      "Discount"
+    ],
+    "options_en": [
+      "Expensive",
+      "Cheap",
+      "Price / Cost",
+      "Discount"
+    ],
+    "options_vi": [
+      "Đắt / Mắc",
+      "Rẻ",
+      "Giá cả",
+      "Giảm giá"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सस्ता",
+    "text": "सस्ता",
+    "subtext": "",
+    "answer": "Cheap",
+    "answer_vi": "Rẻ",
+    "options": [
+      "Cheap",
+      "Expensive",
+      "Price / Cost",
+      "Discount"
+    ],
+    "options_en": [
+      "Cheap",
+      "Expensive",
+      "Price / Cost",
+      "Discount"
+    ],
+    "options_vi": [
+      "Rẻ",
+      "Đắt / Mắc",
+      "Giá cả",
+      "Giảm giá"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दाम",
+    "text": "दाम",
+    "subtext": "",
+    "answer": "Price / Cost",
+    "answer_vi": "Giá cả",
+    "options": [
+      "Price / Cost",
+      "Expensive",
+      "Cheap",
+      "Discount"
+    ],
+    "options_en": [
+      "Price / Cost",
+      "Expensive",
+      "Cheap",
+      "Discount"
+    ],
+    "options_vi": [
+      "Giá cả",
+      "Đắt / Mắc",
+      "Rẻ",
+      "Giảm giá"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "छूट",
+    "text": "छूट",
+    "subtext": "",
+    "answer": "Discount",
+    "answer_vi": "Giảm giá",
+    "options": [
+      "Discount",
+      "Expensive",
+      "Cheap",
+      "Price / Cost"
+    ],
+    "options_en": [
+      "Discount",
+      "Expensive",
+      "Cheap",
+      "Price / Cost"
+    ],
+    "options_vi": [
+      "Giảm giá",
+      "Đắt / Mắc",
+      "Rẻ",
+      "Giá cả"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "खरीदना",
+    "text": "खरीदना",
+    "subtext": "",
+    "answer": "To buy",
+    "answer_vi": "Mua",
+    "options": [
+      "To buy",
+      "Expensive",
+      "Cheap",
+      "Price / Cost"
+    ],
+    "options_en": [
+      "To buy",
+      "Expensive",
+      "Cheap",
+      "Price / Cost"
+    ],
+    "options_vi": [
+      "Mua",
+      "Đắt / Mắc",
+      "Rẻ",
+      "Giá cả"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This book is cheap.",
+    "hindiWords": [
+      "सस्ती",
+      "है",
+      "किताब",
+      "यह"
+    ],
+    "correctHindiSentence": "यह किताब सस्ती है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "महँगा",
+        "english": "Expensive"
+      },
+      {
+        "hindi": "सस्ता",
+        "english": "Cheap"
+      },
+      {
+        "hindi": "दाम",
+        "english": "Price / Cost"
+      },
+      {
+        "hindi": "छूट",
+        "english": "Discount"
+      }
+    ]
+  }
+]

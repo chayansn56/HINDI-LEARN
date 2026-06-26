@@ -406,6 +406,33 @@ object GamifiedCurriculum {
             )
         }
 
+        val p2Titles = listOf(
+            "Advanced Family & Relationships", "Social Small Talk & Hobbies", "Present Continuous Tense",
+            "Simple Past Tense (Habitual)", "Simple Future Tense", "Postpositions & Case Endings",
+            "Train Journey & Station", "Indian Spices & Tastes", "Weather & Climate",
+            "Shopping & Prices", "Illness & Doctor", "Time & Appointments",
+            "Emergency Situations", "Local Directions", "Graduation Review"
+        )
+        val p2Descs = listOf(
+            "Learn chacha, chachi, mama, mami and complex structures.", "Talk about interests, music, stories and favorites.", "Express actions happening right now.",
+            "Describe habits in the past.", "Form future plans and meetups.", "Use intermediate postpositions like for and with.",
+            "Navigate train systems and purchase tickets.", "Learn spice names and tastes.", "Discuss weather, seasons, rain and heat.",
+            "Bargain, negotiate prices and buy goods.", "Explain symptoms, visit doctors and pharmacies.", "Schedule meetings and afternoon times.",
+            "Report theft, call ambulance or ask for help.", "Use left, right, straight and turn commands.", "Review intermediate Hindi and graduate."
+        )
+
+        val p2Episodes = (1..15).map { i ->
+            Episode(
+                id = "episode_2_$i",
+                title = p2Titles[i - 1],
+                synopsis = p2Descs[i - 1],
+                type = "FOUNDATION",
+                confidenceMessage = "You completed ${p2Titles[i - 1]}!",
+                achievements = listOf("Learn ${p2Titles[i - 1]}"),
+                isLocked = false
+            )
+        }
+
         val specialBlueprints = listOf(
             Triple("pron", "Pronunciation Lab", listOf("Aspirated vs Unaspirated", "Retroflex vs Dental", "Nasal Sounds", "The Schwa Deletion Rule", "R, L, V, and SH Sounds", "Conjunct Consonants", "Question Intonation & Emotion", "Minimal Pairs Challenge", "Intonation in Statements", "Pronunciation Review & Test", "Geminate Consonants", "Word Stress Patterns", "Perso-Arabic Sounds", "Vowel Lengthening", "Connected Speech Flow")),
             Triple("speak", "Speaking", listOf("Greetings & Farewells", "Introducing Yourself", "Being Polite", "Question Words", "At a Restaurant", "Shopping & Bargaining", "Formal vs Informal (Aap/Tum)", "Expressing Feelings", "Making Plans", "Phone & Emergency", "Ordering Food Online", "Advanced Conversations", "Asking for Opinions", "Talking about Hobbies", "Making Excuses", "Arranging a Meeting", "Giving Directions")),
@@ -456,6 +483,7 @@ object GamifiedCurriculum {
         val coreSeasons = listOf(
             Season("phase_0", "Phase 0: Foundation Academy", "The most important phase. Learn the building blocks.", p0Episodes),
             Season("phase_1", "Phase 1: Elementary Academy", "Learn real-world vocabulary, numbers, and navigation.", p1Episodes),
+            Season("phase_2", "Phase 2: Path to Fluency", "Master intermediate grammar and social conversations.", p2Episodes),
             Season("season_1", "Season 1: Arrival in India", "John navigates his first days.", s1Episodes),
             Season("season_2", "Season 2: Living in India", "Daily life, hobbies, and mistakes.", s2Episodes),
             Season("season_3", "Season 3: Friendship", "Deepening bonds and inside jokes.", s3Episodes),

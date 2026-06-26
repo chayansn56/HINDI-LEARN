@@ -1,0 +1,265 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 38: Indian Spices & Tastes",
+    "description": "Master vocabulary and expressions for Lesson 38: Indian Spices & Tastes.",
+    "keyPoints": [
+      "Learn मसाला and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मसाला",
+    "transliteration": "masala",
+    "english": "Spice / Spices",
+    "vietnamese": "Gia vị",
+    "audio": "मसाला"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हल्दी",
+    "transliteration": "haldi",
+    "english": "Turmeric",
+    "vietnamese": "Nghệ",
+    "audio": "हल्दी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जीरा",
+    "transliteration": "jeera",
+    "english": "Cumin",
+    "vietnamese": "Thì là",
+    "audio": "जीरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तीखा",
+    "transliteration": "teekha",
+    "english": "Spicy",
+    "vietnamese": "Cay",
+    "audio": "तीखा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मीठा",
+    "transliteration": "meetha",
+    "english": "Sweet",
+    "vietnamese": "Ngọt",
+    "audio": "मीठा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नमकीन",
+    "transliteration": "namkeen",
+    "english": "Salty / Savory",
+    "vietnamese": "Mặn",
+    "audio": "नमकीन"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मसाला",
+    "text": "मसाला",
+    "subtext": "",
+    "answer": "Spice / Spices",
+    "answer_vi": "Gia vị",
+    "options": [
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin",
+      "Spicy"
+    ],
+    "options_en": [
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin",
+      "Spicy"
+    ],
+    "options_vi": [
+      "Gia vị",
+      "Nghệ",
+      "Thì là",
+      "Cay"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "हल्दी",
+    "text": "हल्दी",
+    "subtext": "",
+    "answer": "Turmeric",
+    "answer_vi": "Nghệ",
+    "options": [
+      "Turmeric",
+      "Spice / Spices",
+      "Cumin",
+      "Spicy"
+    ],
+    "options_en": [
+      "Turmeric",
+      "Spice / Spices",
+      "Cumin",
+      "Spicy"
+    ],
+    "options_vi": [
+      "Nghệ",
+      "Gia vị",
+      "Thì là",
+      "Cay"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "जीरा",
+    "text": "जीरा",
+    "subtext": "",
+    "answer": "Cumin",
+    "answer_vi": "Thì là",
+    "options": [
+      "Cumin",
+      "Spice / Spices",
+      "Turmeric",
+      "Spicy"
+    ],
+    "options_en": [
+      "Cumin",
+      "Spice / Spices",
+      "Turmeric",
+      "Spicy"
+    ],
+    "options_vi": [
+      "Thì là",
+      "Gia vị",
+      "Nghệ",
+      "Cay"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "तीखा",
+    "text": "तीखा",
+    "subtext": "",
+    "answer": "Spicy",
+    "answer_vi": "Cay",
+    "options": [
+      "Spicy",
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin"
+    ],
+    "options_en": [
+      "Spicy",
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin"
+    ],
+    "options_vi": [
+      "Cay",
+      "Gia vị",
+      "Nghệ",
+      "Thì là"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मीठा",
+    "text": "मीठा",
+    "subtext": "",
+    "answer": "Sweet",
+    "answer_vi": "Ngọt",
+    "options": [
+      "Sweet",
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin"
+    ],
+    "options_en": [
+      "Sweet",
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin"
+    ],
+    "options_vi": [
+      "Ngọt",
+      "Gia vị",
+      "Nghệ",
+      "Thì là"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "नमकीन",
+    "text": "नमकीन",
+    "subtext": "",
+    "answer": "Salty / Savory",
+    "answer_vi": "Mặn",
+    "options": [
+      "Salty / Savory",
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin"
+    ],
+    "options_en": [
+      "Salty / Savory",
+      "Spice / Spices",
+      "Turmeric",
+      "Cumin"
+    ],
+    "options_vi": [
+      "Mặn",
+      "Gia vị",
+      "Nghệ",
+      "Thì là"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This dish is spicy.",
+    "hindiWords": [
+      "तीखा",
+      "है",
+      "यह",
+      "खाना"
+    ],
+    "correctHindiSentence": "यह खाना तीखा है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "मसाला",
+        "english": "Spice / Spices"
+      },
+      {
+        "hindi": "हल्दी",
+        "english": "Turmeric"
+      },
+      {
+        "hindi": "जीरा",
+        "english": "Cumin"
+      },
+      {
+        "hindi": "तीखा",
+        "english": "Spicy"
+      }
+    ]
+  }
+]

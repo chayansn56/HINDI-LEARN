@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 42: Time & Appointments",
+    "description": "Master vocabulary and expressions for Lesson 42: Time & Appointments.",
+    "keyPoints": [
+      "Learn दोपहर and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दोपहर",
+    "transliteration": "dopahar",
+    "english": "Afternoon",
+    "vietnamese": "Buổi trưa / Buổi chiều",
+    "audio": "दोपहर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुलाकात",
+    "transliteration": "mulakat",
+    "english": "Meeting",
+    "vietnamese": "Cuộc gặp gỡ",
+    "audio": "मुलाकात"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हफ़्ता",
+    "transliteration": "hafta",
+    "english": "Week",
+    "vietnamese": "Tuần",
+    "audio": "हफ़्ता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समय",
+    "transliteration": "samay",
+    "english": "Time",
+    "vietnamese": "Thời gian",
+    "audio": "समय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बजे",
+    "transliteration": "baje",
+    "english": "O'clock",
+    "vietnamese": "Giờ (đúng)",
+    "audio": "बजे"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दोपहर",
+    "text": "दोपहर",
+    "subtext": "",
+    "answer": "Afternoon",
+    "answer_vi": "Buổi trưa / Buổi chiều",
+    "options": [
+      "Afternoon",
+      "Meeting",
+      "Week",
+      "Time"
+    ],
+    "options_en": [
+      "Afternoon",
+      "Meeting",
+      "Week",
+      "Time"
+    ],
+    "options_vi": [
+      "Buổi trưa / Buổi chiều",
+      "Cuộc gặp gỡ",
+      "Tuần",
+      "Thời gian"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मुलाकात",
+    "text": "मुलाकात",
+    "subtext": "",
+    "answer": "Meeting",
+    "answer_vi": "Cuộc gặp gỡ",
+    "options": [
+      "Meeting",
+      "Afternoon",
+      "Week",
+      "Time"
+    ],
+    "options_en": [
+      "Meeting",
+      "Afternoon",
+      "Week",
+      "Time"
+    ],
+    "options_vi": [
+      "Cuộc gặp gỡ",
+      "Buổi trưa / Buổi chiều",
+      "Tuần",
+      "Thời gian"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "हफ़्ता",
+    "text": "हफ़्ता",
+    "subtext": "",
+    "answer": "Week",
+    "answer_vi": "Tuần",
+    "options": [
+      "Week",
+      "Afternoon",
+      "Meeting",
+      "Time"
+    ],
+    "options_en": [
+      "Week",
+      "Afternoon",
+      "Meeting",
+      "Time"
+    ],
+    "options_vi": [
+      "Tuần",
+      "Buổi trưa / Buổi chiều",
+      "Cuộc gặp gỡ",
+      "Thời gian"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "समय",
+    "text": "समय",
+    "subtext": "",
+    "answer": "Time",
+    "answer_vi": "Thời gian",
+    "options": [
+      "Time",
+      "Afternoon",
+      "Meeting",
+      "Week"
+    ],
+    "options_en": [
+      "Time",
+      "Afternoon",
+      "Meeting",
+      "Week"
+    ],
+    "options_vi": [
+      "Thời gian",
+      "Buổi trưa / Buổi chiều",
+      "Cuộc gặp gỡ",
+      "Tuần"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बजे",
+    "text": "बजे",
+    "subtext": "",
+    "answer": "O'clock",
+    "answer_vi": "Giờ (đúng)",
+    "options": [
+      "O'clock",
+      "Afternoon",
+      "Meeting",
+      "Week"
+    ],
+    "options_en": [
+      "O'clock",
+      "Afternoon",
+      "Meeting",
+      "Week"
+    ],
+    "options_vi": [
+      "Giờ (đúng)",
+      "Buổi trưa / Buổi chiều",
+      "Cuộc gặp gỡ",
+      "Tuần"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Meeting is at two o'clock.",
+    "hindiWords": [
+      "बजे",
+      "मुलाकात",
+      "है",
+      "दो"
+    ],
+    "correctHindiSentence": "मुलाकात दो बजे है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "दोपहर",
+        "english": "Afternoon"
+      },
+      {
+        "hindi": "मुलाकात",
+        "english": "Meeting"
+      },
+      {
+        "hindi": "हफ़्ता",
+        "english": "Week"
+      },
+      {
+        "hindi": "समय",
+        "english": "Time"
+      }
+    ]
+  }
+]

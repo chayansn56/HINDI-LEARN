@@ -1,0 +1,229 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 39: Weather & Climate",
+    "description": "Master vocabulary and expressions for Lesson 39: Weather & Climate.",
+    "keyPoints": [
+      "Learn मौसम and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मौसम",
+    "transliteration": "mausam",
+    "english": "Weather / Season",
+    "vietnamese": "Thời tiết / Mùa",
+    "audio": "मौसम"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बारिश",
+    "transliteration": "barish",
+    "english": "Rain",
+    "vietnamese": "Mưa",
+    "audio": "बारिश"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गर्मी",
+    "transliteration": "garmi",
+    "english": "Heat / Summer",
+    "vietnamese": "Nóng / Mùa hè",
+    "audio": "गर्मी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सर्दी",
+    "transliteration": "sardi",
+    "english": "Cold / Winter",
+    "vietnamese": "Lạnh / Mùa đông",
+    "audio": "सर्दी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बादल",
+    "transliteration": "baadal",
+    "english": "Cloud",
+    "vietnamese": "Mây",
+    "audio": "बादल"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मौसम",
+    "text": "मौसम",
+    "subtext": "",
+    "answer": "Weather / Season",
+    "answer_vi": "Thời tiết / Mùa",
+    "options": [
+      "Weather / Season",
+      "Rain",
+      "Heat / Summer",
+      "Cold / Winter"
+    ],
+    "options_en": [
+      "Weather / Season",
+      "Rain",
+      "Heat / Summer",
+      "Cold / Winter"
+    ],
+    "options_vi": [
+      "Thời tiết / Mùa",
+      "Mưa",
+      "Nóng / Mùa hè",
+      "Lạnh / Mùa đông"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बारिश",
+    "text": "बारिश",
+    "subtext": "",
+    "answer": "Rain",
+    "answer_vi": "Mưa",
+    "options": [
+      "Rain",
+      "Weather / Season",
+      "Heat / Summer",
+      "Cold / Winter"
+    ],
+    "options_en": [
+      "Rain",
+      "Weather / Season",
+      "Heat / Summer",
+      "Cold / Winter"
+    ],
+    "options_vi": [
+      "Mưa",
+      "Thời tiết / Mùa",
+      "Nóng / Mùa hè",
+      "Lạnh / Mùa đông"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "गर्मी",
+    "text": "गर्मी",
+    "subtext": "",
+    "answer": "Heat / Summer",
+    "answer_vi": "Nóng / Mùa hè",
+    "options": [
+      "Heat / Summer",
+      "Weather / Season",
+      "Rain",
+      "Cold / Winter"
+    ],
+    "options_en": [
+      "Heat / Summer",
+      "Weather / Season",
+      "Rain",
+      "Cold / Winter"
+    ],
+    "options_vi": [
+      "Nóng / Mùa hè",
+      "Thời tiết / Mùa",
+      "Mưa",
+      "Lạnh / Mùa đông"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सर्दी",
+    "text": "सर्दी",
+    "subtext": "",
+    "answer": "Cold / Winter",
+    "answer_vi": "Lạnh / Mùa đông",
+    "options": [
+      "Cold / Winter",
+      "Weather / Season",
+      "Rain",
+      "Heat / Summer"
+    ],
+    "options_en": [
+      "Cold / Winter",
+      "Weather / Season",
+      "Rain",
+      "Heat / Summer"
+    ],
+    "options_vi": [
+      "Lạnh / Mùa đông",
+      "Thời tiết / Mùa",
+      "Mưa",
+      "Nóng / Mùa hè"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बादल",
+    "text": "बादल",
+    "subtext": "",
+    "answer": "Cloud",
+    "answer_vi": "Mây",
+    "options": [
+      "Cloud",
+      "Weather / Season",
+      "Rain",
+      "Heat / Summer"
+    ],
+    "options_en": [
+      "Cloud",
+      "Weather / Season",
+      "Rain",
+      "Heat / Summer"
+    ],
+    "options_vi": [
+      "Mây",
+      "Thời tiết / Mùa",
+      "Mưa",
+      "Nóng / Mùa hè"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "It is raining today.",
+    "hindiWords": [
+      "बारिश",
+      "रही",
+      "है",
+      "आज",
+      "हो"
+    ],
+    "correctHindiSentence": "आज बारिश हो रही है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "मौसम",
+        "english": "Weather / Season"
+      },
+      {
+        "hindi": "बारिश",
+        "english": "Rain"
+      },
+      {
+        "hindi": "गर्मी",
+        "english": "Heat / Summer"
+      },
+      {
+        "hindi": "सर्दी",
+        "english": "Cold / Winter"
+      }
+    ]
+  }
+]

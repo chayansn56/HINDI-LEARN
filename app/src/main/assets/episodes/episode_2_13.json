@@ -1,0 +1,227 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 43: Emergency Situations",
+    "description": "Master vocabulary and expressions for Lesson 43: Emergency Situations.",
+    "keyPoints": [
+      "Learn बचाओ and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बचाओ",
+    "transliteration": "bachao",
+    "english": "Help! / Save me!",
+    "vietnamese": "Cứu tôi với!",
+    "audio": "बचाओ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चोर",
+    "transliteration": "chor",
+    "english": "Thief",
+    "vietnamese": "Kẻ trộm",
+    "audio": "चोर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पुलिस",
+    "transliteration": "police",
+    "english": "Police",
+    "vietnamese": "Cảnh sát",
+    "audio": "पुलिस"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "एम्बुलेंस",
+    "transliteration": "ambulance",
+    "english": "Ambulance",
+    "vietnamese": "Xe cứu thương",
+    "audio": "एम्बुलेंस"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खो गया",
+    "transliteration": "kho gaya",
+    "english": "Lost / Disappeared",
+    "vietnamese": "Đã mất / Bị thất lạc",
+    "audio": "खो गया"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बचाओ",
+    "text": "बचाओ",
+    "subtext": "",
+    "answer": "Help! / Save me!",
+    "answer_vi": "Cứu tôi với!",
+    "options": [
+      "Help! / Save me!",
+      "Thief",
+      "Police",
+      "Ambulance"
+    ],
+    "options_en": [
+      "Help! / Save me!",
+      "Thief",
+      "Police",
+      "Ambulance"
+    ],
+    "options_vi": [
+      "Cứu tôi với!",
+      "Kẻ trộm",
+      "Cảnh sát",
+      "Xe cứu thương"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चोर",
+    "text": "चोर",
+    "subtext": "",
+    "answer": "Thief",
+    "answer_vi": "Kẻ trộm",
+    "options": [
+      "Thief",
+      "Help! / Save me!",
+      "Police",
+      "Ambulance"
+    ],
+    "options_en": [
+      "Thief",
+      "Help! / Save me!",
+      "Police",
+      "Ambulance"
+    ],
+    "options_vi": [
+      "Kẻ trộm",
+      "Cứu tôi với!",
+      "Cảnh sát",
+      "Xe cứu thương"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पुलिस",
+    "text": "पुलिस",
+    "subtext": "",
+    "answer": "Police",
+    "answer_vi": "Cảnh sát",
+    "options": [
+      "Police",
+      "Help! / Save me!",
+      "Thief",
+      "Ambulance"
+    ],
+    "options_en": [
+      "Police",
+      "Help! / Save me!",
+      "Thief",
+      "Ambulance"
+    ],
+    "options_vi": [
+      "Cảnh sát",
+      "Cứu tôi với!",
+      "Kẻ trộm",
+      "Xe cứu thương"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "एम्बुलेंस",
+    "text": "एम्बुलेंस",
+    "subtext": "",
+    "answer": "Ambulance",
+    "answer_vi": "Xe cứu thương",
+    "options": [
+      "Ambulance",
+      "Help! / Save me!",
+      "Thief",
+      "Police"
+    ],
+    "options_en": [
+      "Ambulance",
+      "Help! / Save me!",
+      "Thief",
+      "Police"
+    ],
+    "options_vi": [
+      "Xe cứu thương",
+      "Cứu tôi với!",
+      "Kẻ trộm",
+      "Cảnh sát"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "खो गया",
+    "text": "खो गया",
+    "subtext": "",
+    "answer": "Lost / Disappeared",
+    "answer_vi": "Đã mất / Bị thất lạc",
+    "options": [
+      "Lost / Disappeared",
+      "Help! / Save me!",
+      "Thief",
+      "Police"
+    ],
+    "options_en": [
+      "Lost / Disappeared",
+      "Help! / Save me!",
+      "Thief",
+      "Police"
+    ],
+    "options_vi": [
+      "Đã mất / Bị thất lạc",
+      "Cứu tôi với!",
+      "Kẻ trộm",
+      "Cảnh sát"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Call the police.",
+    "hindiWords": [
+      "पुलिस",
+      "बुलाओ",
+      "को"
+    ],
+    "correctHindiSentence": "पुलिस को बुलाओ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "बचाओ",
+        "english": "Help! / Save me!"
+      },
+      {
+        "hindi": "चोर",
+        "english": "Thief"
+      },
+      {
+        "hindi": "पुलिस",
+        "english": "Police"
+      },
+      {
+        "hindi": "एम्बुलेंस",
+        "english": "Ambulance"
+      }
+    ]
+  }
+]

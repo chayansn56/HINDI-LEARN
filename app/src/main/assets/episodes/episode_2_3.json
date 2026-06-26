@@ -1,0 +1,229 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 33: Present Continuous Tense",
+    "description": "Master vocabulary and expressions for Lesson 33: Present Continuous Tense.",
+    "keyPoints": [
+      "Learn रहा हूँ and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रहा हूँ",
+    "transliteration": "raha hoon",
+    "english": "Am doing (masc)",
+    "vietnamese": "Đang làm (nam)",
+    "audio": "रहा हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रही हूँ",
+    "transliteration": "rahi hoon",
+    "english": "Am doing (fem)",
+    "vietnamese": "Đang làm (nữ)",
+    "audio": "रही हूँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रहे हैं",
+    "transliteration": "rahe hain",
+    "english": "Are doing (pl)",
+    "vietnamese": "Đang làm (số nhiều)",
+    "audio": "रहे हैं"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जा रहा है",
+    "transliteration": "ja raha hai",
+    "english": "Is going (masc)",
+    "vietnamese": "Đang đi (nam)",
+    "audio": "जा रहा है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खा रही है",
+    "transliteration": "kha rahi hai",
+    "english": "Is eating (fem)",
+    "vietnamese": "Đang ăn (nữ)",
+    "audio": "खा रही है"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "रहा हूँ",
+    "text": "रहा हूँ",
+    "subtext": "",
+    "answer": "Am doing (masc)",
+    "answer_vi": "Đang làm (nam)",
+    "options": [
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Are doing (pl)",
+      "Is going (masc)"
+    ],
+    "options_en": [
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Are doing (pl)",
+      "Is going (masc)"
+    ],
+    "options_vi": [
+      "Đang làm (nam)",
+      "Đang làm (nữ)",
+      "Đang làm (số nhiều)",
+      "Đang đi (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "रही हूँ",
+    "text": "रही हूँ",
+    "subtext": "",
+    "answer": "Am doing (fem)",
+    "answer_vi": "Đang làm (nữ)",
+    "options": [
+      "Am doing (fem)",
+      "Am doing (masc)",
+      "Are doing (pl)",
+      "Is going (masc)"
+    ],
+    "options_en": [
+      "Am doing (fem)",
+      "Am doing (masc)",
+      "Are doing (pl)",
+      "Is going (masc)"
+    ],
+    "options_vi": [
+      "Đang làm (nữ)",
+      "Đang làm (nam)",
+      "Đang làm (số nhiều)",
+      "Đang đi (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "रहे हैं",
+    "text": "रहे हैं",
+    "subtext": "",
+    "answer": "Are doing (pl)",
+    "answer_vi": "Đang làm (số nhiều)",
+    "options": [
+      "Are doing (pl)",
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Is going (masc)"
+    ],
+    "options_en": [
+      "Are doing (pl)",
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Is going (masc)"
+    ],
+    "options_vi": [
+      "Đang làm (số nhiều)",
+      "Đang làm (nam)",
+      "Đang làm (nữ)",
+      "Đang đi (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "जा रहा है",
+    "text": "जा रहा है",
+    "subtext": "",
+    "answer": "Is going (masc)",
+    "answer_vi": "Đang đi (nam)",
+    "options": [
+      "Is going (masc)",
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Are doing (pl)"
+    ],
+    "options_en": [
+      "Is going (masc)",
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Are doing (pl)"
+    ],
+    "options_vi": [
+      "Đang đi (nam)",
+      "Đang làm (nam)",
+      "Đang làm (nữ)",
+      "Đang làm (số nhiều)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "खा रही है",
+    "text": "खा रही है",
+    "subtext": "",
+    "answer": "Is eating (fem)",
+    "answer_vi": "Đang ăn (nữ)",
+    "options": [
+      "Is eating (fem)",
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Are doing (pl)"
+    ],
+    "options_en": [
+      "Is eating (fem)",
+      "Am doing (masc)",
+      "Am doing (fem)",
+      "Are doing (pl)"
+    ],
+    "options_vi": [
+      "Đang ăn (nữ)",
+      "Đang làm (nam)",
+      "Đang làm (nữ)",
+      "Đang làm (số nhiều)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "He is going home.",
+    "hindiWords": [
+      "जा",
+      "रहा",
+      "है",
+      "वह",
+      "घर"
+    ],
+    "correctHindiSentence": "वह घर जा रहा है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "रहा हूँ",
+        "english": "Am doing (masc)"
+      },
+      {
+        "hindi": "रही हूँ",
+        "english": "Am doing (fem)"
+      },
+      {
+        "hindi": "रहे हैं",
+        "english": "Are doing (pl)"
+      },
+      {
+        "hindi": "जा रहा है",
+        "english": "Is going (masc)"
+      }
+    ]
+  }
+]

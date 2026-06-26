@@ -1,0 +1,265 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 32: Social Small Talk & Hobbies",
+    "description": "Master vocabulary and expressions for Lesson 32: Social Small Talk & Hobbies.",
+    "keyPoints": [
+      "Learn रुचि and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रुचि",
+    "transliteration": "ruchi",
+    "english": "Hobby / Interest",
+    "vietnamese": "Sở thích",
+    "audio": "रुचि"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "संगीत",
+    "transliteration": "sangeet",
+    "english": "Music",
+    "vietnamese": "Âm nhạc",
+    "audio": "संगीत"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कहानी",
+    "transliteration": "kahani",
+    "english": "Story",
+    "vietnamese": "Câu chuyện",
+    "audio": "कहानी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खेलना",
+    "transliteration": "khelna",
+    "english": "To play",
+    "vietnamese": "Chơi",
+    "audio": "खेलना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "किताब",
+    "transliteration": "kitaab",
+    "english": "Book",
+    "vietnamese": "Sách",
+    "audio": "किताब"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पसंद",
+    "transliteration": "pasand",
+    "english": "Like / Favorite",
+    "vietnamese": "Thích / Yêu thích",
+    "audio": "पसंद"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "रुचि",
+    "text": "रुचि",
+    "subtext": "",
+    "answer": "Hobby / Interest",
+    "answer_vi": "Sở thích",
+    "options": [
+      "Hobby / Interest",
+      "Music",
+      "Story",
+      "To play"
+    ],
+    "options_en": [
+      "Hobby / Interest",
+      "Music",
+      "Story",
+      "To play"
+    ],
+    "options_vi": [
+      "Sở thích",
+      "Âm nhạc",
+      "Câu chuyện",
+      "Chơi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "संगीत",
+    "text": "संगीत",
+    "subtext": "",
+    "answer": "Music",
+    "answer_vi": "Âm nhạc",
+    "options": [
+      "Music",
+      "Hobby / Interest",
+      "Story",
+      "To play"
+    ],
+    "options_en": [
+      "Music",
+      "Hobby / Interest",
+      "Story",
+      "To play"
+    ],
+    "options_vi": [
+      "Âm nhạc",
+      "Sở thích",
+      "Câu chuyện",
+      "Chơi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "कहानी",
+    "text": "कहानी",
+    "subtext": "",
+    "answer": "Story",
+    "answer_vi": "Câu chuyện",
+    "options": [
+      "Story",
+      "Hobby / Interest",
+      "Music",
+      "To play"
+    ],
+    "options_en": [
+      "Story",
+      "Hobby / Interest",
+      "Music",
+      "To play"
+    ],
+    "options_vi": [
+      "Câu chuyện",
+      "Sở thích",
+      "Âm nhạc",
+      "Chơi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "खेलना",
+    "text": "खेलना",
+    "subtext": "",
+    "answer": "To play",
+    "answer_vi": "Chơi",
+    "options": [
+      "To play",
+      "Hobby / Interest",
+      "Music",
+      "Story"
+    ],
+    "options_en": [
+      "To play",
+      "Hobby / Interest",
+      "Music",
+      "Story"
+    ],
+    "options_vi": [
+      "Chơi",
+      "Sở thích",
+      "Âm nhạc",
+      "Câu chuyện"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "किताब",
+    "text": "किताब",
+    "subtext": "",
+    "answer": "Book",
+    "answer_vi": "Sách",
+    "options": [
+      "Book",
+      "Hobby / Interest",
+      "Music",
+      "Story"
+    ],
+    "options_en": [
+      "Book",
+      "Hobby / Interest",
+      "Music",
+      "Story"
+    ],
+    "options_vi": [
+      "Sách",
+      "Sở thích",
+      "Âm nhạc",
+      "Câu chuyện"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पसंद",
+    "text": "पसंद",
+    "subtext": "",
+    "answer": "Like / Favorite",
+    "answer_vi": "Thích / Yêu thích",
+    "options": [
+      "Like / Favorite",
+      "Hobby / Interest",
+      "Music",
+      "Story"
+    ],
+    "options_en": [
+      "Like / Favorite",
+      "Hobby / Interest",
+      "Music",
+      "Story"
+    ],
+    "options_vi": [
+      "Thích / Yêu thích",
+      "Sở thích",
+      "Âm nhạc",
+      "Câu chuyện"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I like music.",
+    "hindiWords": [
+      "पसंद",
+      "है",
+      "संगीत",
+      "मुझे"
+    ],
+    "correctHindiSentence": "मुझे संगीत पसंद है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "रुचि",
+        "english": "Hobby / Interest"
+      },
+      {
+        "hindi": "संगीत",
+        "english": "Music"
+      },
+      {
+        "hindi": "कहानी",
+        "english": "Story"
+      },
+      {
+        "hindi": "खेलना",
+        "english": "To play"
+      }
+    ]
+  }
+]

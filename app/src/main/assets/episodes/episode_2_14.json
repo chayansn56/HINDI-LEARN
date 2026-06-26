@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 44: Local Directions",
+    "description": "Master vocabulary and expressions for Lesson 44: Local Directions.",
+    "keyPoints": [
+      "Learn सीधे and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सीधे",
+    "transliteration": "seedhe",
+    "english": "Straight",
+    "vietnamese": "Đi thẳng",
+    "audio": "सीधे"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बाएँ",
+    "transliteration": "baayein",
+    "english": "Left",
+    "vietnamese": "Bên trái",
+    "audio": "बाएँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दाएँ",
+    "transliteration": "daayein",
+    "english": "Right",
+    "vietnamese": "Bên phải",
+    "audio": "दाएँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मुड़ो",
+    "transliteration": "mudo",
+    "english": "Turn (informal)",
+    "vietnamese": "Rẽ / Quẹo",
+    "audio": "मुड़ो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रास्ता",
+    "transliteration": "raasta",
+    "english": "Road / Way",
+    "vietnamese": "Đường đi",
+    "audio": "रास्ता"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सीधे",
+    "text": "सीधे",
+    "subtext": "",
+    "answer": "Straight",
+    "answer_vi": "Đi thẳng",
+    "options": [
+      "Straight",
+      "Left",
+      "Right",
+      "Turn (informal)"
+    ],
+    "options_en": [
+      "Straight",
+      "Left",
+      "Right",
+      "Turn (informal)"
+    ],
+    "options_vi": [
+      "Đi thẳng",
+      "Bên trái",
+      "Bên phải",
+      "Rẽ / Quẹo"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बाएँ",
+    "text": "बाएँ",
+    "subtext": "",
+    "answer": "Left",
+    "answer_vi": "Bên trái",
+    "options": [
+      "Left",
+      "Straight",
+      "Right",
+      "Turn (informal)"
+    ],
+    "options_en": [
+      "Left",
+      "Straight",
+      "Right",
+      "Turn (informal)"
+    ],
+    "options_vi": [
+      "Bên trái",
+      "Đi thẳng",
+      "Bên phải",
+      "Rẽ / Quẹo"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दाएँ",
+    "text": "दाएँ",
+    "subtext": "",
+    "answer": "Right",
+    "answer_vi": "Bên phải",
+    "options": [
+      "Right",
+      "Straight",
+      "Left",
+      "Turn (informal)"
+    ],
+    "options_en": [
+      "Right",
+      "Straight",
+      "Left",
+      "Turn (informal)"
+    ],
+    "options_vi": [
+      "Bên phải",
+      "Đi thẳng",
+      "Bên trái",
+      "Rẽ / Quẹo"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मुड़ो",
+    "text": "मुड़ो",
+    "subtext": "",
+    "answer": "Turn (informal)",
+    "answer_vi": "Rẽ / Quẹo",
+    "options": [
+      "Turn (informal)",
+      "Straight",
+      "Left",
+      "Right"
+    ],
+    "options_en": [
+      "Turn (informal)",
+      "Straight",
+      "Left",
+      "Right"
+    ],
+    "options_vi": [
+      "Rẽ / Quẹo",
+      "Đi thẳng",
+      "Bên trái",
+      "Bên phải"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "रास्ता",
+    "text": "रास्ता",
+    "subtext": "",
+    "answer": "Road / Way",
+    "answer_vi": "Đường đi",
+    "options": [
+      "Road / Way",
+      "Straight",
+      "Left",
+      "Right"
+    ],
+    "options_en": [
+      "Road / Way",
+      "Straight",
+      "Left",
+      "Right"
+    ],
+    "options_vi": [
+      "Đường đi",
+      "Đi thẳng",
+      "Bên trái",
+      "Bên phải"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Turn left from here.",
+    "hindiWords": [
+      "बाएँ",
+      "मुड़ो",
+      "यहाँ",
+      "से"
+    ],
+    "correctHindiSentence": "यहाँ से बाएँ मुड़ो"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "सीधे",
+        "english": "Straight"
+      },
+      {
+        "hindi": "बाएँ",
+        "english": "Left"
+      },
+      {
+        "hindi": "दाएँ",
+        "english": "Right"
+      },
+      {
+        "hindi": "मुड़ो",
+        "english": "Turn (informal)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 35: Simple Future Tense",
+    "description": "Master vocabulary and expressions for Lesson 35: Simple Future Tense.",
+    "keyPoints": [
+      "Learn जाएगा and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जाएगा",
+    "transliteration": "jayega",
+    "english": "Will go (masc)",
+    "vietnamese": "Sẽ đi (nam)",
+    "audio": "जाएगा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जाएगी",
+    "transliteration": "jayegi",
+    "english": "Will go (fem)",
+    "vietnamese": "Sẽ đi (nữ)",
+    "audio": "जाएगी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "करेंगे",
+    "transliteration": "karenge",
+    "english": "Will do (pl/formal)",
+    "vietnamese": "Sẽ làm",
+    "audio": "करेंगे"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आऊंगा",
+    "transliteration": "aaunga",
+    "english": "Will come (masc)",
+    "vietnamese": "Sẽ đến (nam)",
+    "audio": "आऊंगा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिलेंगे",
+    "transliteration": "milenge",
+    "english": "Will meet",
+    "vietnamese": "Sẽ gặp nhau",
+    "audio": "मिलेंगे"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "जाएगा",
+    "text": "जाएगा",
+    "subtext": "",
+    "answer": "Will go (masc)",
+    "answer_vi": "Sẽ đi (nam)",
+    "options": [
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will do (pl/formal)",
+      "Will come (masc)"
+    ],
+    "options_en": [
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will do (pl/formal)",
+      "Will come (masc)"
+    ],
+    "options_vi": [
+      "Sẽ đi (nam)",
+      "Sẽ đi (nữ)",
+      "Sẽ làm",
+      "Sẽ đến (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "जाएगी",
+    "text": "जाएगी",
+    "subtext": "",
+    "answer": "Will go (fem)",
+    "answer_vi": "Sẽ đi (nữ)",
+    "options": [
+      "Will go (fem)",
+      "Will go (masc)",
+      "Will do (pl/formal)",
+      "Will come (masc)"
+    ],
+    "options_en": [
+      "Will go (fem)",
+      "Will go (masc)",
+      "Will do (pl/formal)",
+      "Will come (masc)"
+    ],
+    "options_vi": [
+      "Sẽ đi (nữ)",
+      "Sẽ đi (nam)",
+      "Sẽ làm",
+      "Sẽ đến (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "करेंगे",
+    "text": "करेंगे",
+    "subtext": "",
+    "answer": "Will do (pl/formal)",
+    "answer_vi": "Sẽ làm",
+    "options": [
+      "Will do (pl/formal)",
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will come (masc)"
+    ],
+    "options_en": [
+      "Will do (pl/formal)",
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will come (masc)"
+    ],
+    "options_vi": [
+      "Sẽ làm",
+      "Sẽ đi (nam)",
+      "Sẽ đi (nữ)",
+      "Sẽ đến (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "आऊंगा",
+    "text": "आऊंगा",
+    "subtext": "",
+    "answer": "Will come (masc)",
+    "answer_vi": "Sẽ đến (nam)",
+    "options": [
+      "Will come (masc)",
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will do (pl/formal)"
+    ],
+    "options_en": [
+      "Will come (masc)",
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will do (pl/formal)"
+    ],
+    "options_vi": [
+      "Sẽ đến (nam)",
+      "Sẽ đi (nam)",
+      "Sẽ đi (nữ)",
+      "Sẽ làm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "मिलेंगे",
+    "text": "मिलेंगे",
+    "subtext": "",
+    "answer": "Will meet",
+    "answer_vi": "Sẽ gặp nhau",
+    "options": [
+      "Will meet",
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will do (pl/formal)"
+    ],
+    "options_en": [
+      "Will meet",
+      "Will go (masc)",
+      "Will go (fem)",
+      "Will do (pl/formal)"
+    ],
+    "options_vi": [
+      "Sẽ gặp nhau",
+      "Sẽ đi (nam)",
+      "Sẽ đi (nữ)",
+      "Sẽ làm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "We will meet tomorrow.",
+    "hindiWords": [
+      "मिलेंगे",
+      "कल",
+      "हम"
+    ],
+    "correctHindiSentence": "हम कल मिलेंगे"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "जाएगा",
+        "english": "Will go (masc)"
+      },
+      {
+        "hindi": "जाएगी",
+        "english": "Will go (fem)"
+      },
+      {
+        "hindi": "करेंगे",
+        "english": "Will do (pl/formal)"
+      },
+      {
+        "hindi": "आऊंगा",
+        "english": "Will come (masc)"
+      }
+    ]
+  }
+]

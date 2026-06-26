@@ -1,0 +1,227 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 37: Train Journey & Station",
+    "description": "Master vocabulary and expressions for Lesson 37: Train Journey & Station.",
+    "keyPoints": [
+      "Learn रेलगाड़ी and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रेलगाड़ी",
+    "transliteration": "railgadi",
+    "english": "Train",
+    "vietnamese": "Tàu hỏa",
+    "audio": "रेलगाड़ी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "स्टेशन",
+    "transliteration": "station",
+    "english": "Station",
+    "vietnamese": "Nhà ga",
+    "audio": "स्टेशन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "यात्रा",
+    "transliteration": "yatra",
+    "english": "Journey / Travel",
+    "vietnamese": "Hành trình / Chuyến đi",
+    "audio": "यात्रा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "टिकट",
+    "transliteration": "ticket",
+    "english": "Ticket",
+    "vietnamese": "Vé",
+    "audio": "टिकट"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफ़र",
+    "transliteration": "safar",
+    "english": "Travel / Journey",
+    "vietnamese": "Chuyến đi",
+    "audio": "सफ़र"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "रेलगाड़ी",
+    "text": "रेलगाड़ी",
+    "subtext": "",
+    "answer": "Train",
+    "answer_vi": "Tàu hỏa",
+    "options": [
+      "Train",
+      "Station",
+      "Journey / Travel",
+      "Ticket"
+    ],
+    "options_en": [
+      "Train",
+      "Station",
+      "Journey / Travel",
+      "Ticket"
+    ],
+    "options_vi": [
+      "Tàu hỏa",
+      "Nhà ga",
+      "Hành trình / Chuyến đi",
+      "Vé"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "स्टेशन",
+    "text": "स्टेशन",
+    "subtext": "",
+    "answer": "Station",
+    "answer_vi": "Nhà ga",
+    "options": [
+      "Station",
+      "Train",
+      "Journey / Travel",
+      "Ticket"
+    ],
+    "options_en": [
+      "Station",
+      "Train",
+      "Journey / Travel",
+      "Ticket"
+    ],
+    "options_vi": [
+      "Nhà ga",
+      "Tàu hỏa",
+      "Hành trình / Chuyến đi",
+      "Vé"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "यात्रा",
+    "text": "यात्रा",
+    "subtext": "",
+    "answer": "Journey / Travel",
+    "answer_vi": "Hành trình / Chuyến đi",
+    "options": [
+      "Journey / Travel",
+      "Train",
+      "Station",
+      "Ticket"
+    ],
+    "options_en": [
+      "Journey / Travel",
+      "Train",
+      "Station",
+      "Ticket"
+    ],
+    "options_vi": [
+      "Hành trình / Chuyến đi",
+      "Tàu hỏa",
+      "Nhà ga",
+      "Vé"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "टिकट",
+    "text": "टिकट",
+    "subtext": "",
+    "answer": "Ticket",
+    "answer_vi": "Vé",
+    "options": [
+      "Ticket",
+      "Train",
+      "Station",
+      "Journey / Travel"
+    ],
+    "options_en": [
+      "Ticket",
+      "Train",
+      "Station",
+      "Journey / Travel"
+    ],
+    "options_vi": [
+      "Vé",
+      "Tàu hỏa",
+      "Nhà ga",
+      "Hành trình / Chuyến đi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सफ़र",
+    "text": "सफ़र",
+    "subtext": "",
+    "answer": "Travel / Journey",
+    "answer_vi": "Chuyến đi",
+    "options": [
+      "Travel / Journey",
+      "Train",
+      "Station",
+      "Journey / Travel"
+    ],
+    "options_en": [
+      "Travel / Journey",
+      "Train",
+      "Station",
+      "Journey / Travel"
+    ],
+    "options_vi": [
+      "Chuyến đi",
+      "Tàu hỏa",
+      "Nhà ga",
+      "Hành trình / Chuyến đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is the station?",
+    "hindiWords": [
+      "स्टेशन",
+      "कहाँ",
+      "है"
+    ],
+    "correctHindiSentence": "स्टेशन कहाँ है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "रेलगाड़ी",
+        "english": "Train"
+      },
+      {
+        "hindi": "स्टेशन",
+        "english": "Station"
+      },
+      {
+        "hindi": "यात्रा",
+        "english": "Journey / Travel"
+      },
+      {
+        "hindi": "टिकट",
+        "english": "Ticket"
+      }
+    ]
+  }
+]
