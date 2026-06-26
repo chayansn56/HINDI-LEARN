@@ -93,14 +93,51 @@ object CurriculumManager {
                             )
                         }
                         "MultipleChoice", "MULTIPLE_CHOICE" -> {
-                            val prompt = if (isVi) exerciseObj.optString("prompt_vi", exerciseObj.optString("prompt", "Chọn bản dịch đúng:")) else exerciseObj.optString("prompt_en", exerciseObj.optString("prompt", "Choose the correct translation:"))
-                            val text = exerciseObj.optString("text")
+                            var prompt = if (isVi) exerciseObj.optString("prompt_vi", exerciseObj.optString("prompt")) else exerciseObj.optString("prompt_en", exerciseObj.optString("prompt"))
+                            
+                            val text = if (isEnglishCourse) {
+                                // For English course, target term to translate is the English phrase
+                                exerciseObj.optString("text", exerciseObj.optString("hindi"))
+                            } else {
+                                exerciseObj.optString("hindi", exerciseObj.optString("text"))
+                            }
+                            
                             val subtext = exerciseObj.optString("subtext")
                             
-                            val optArray = (if (isVi) exerciseObj.optJSONArray("options_vi") ?: exerciseObj.optJSONArray("options") else exerciseObj.optJSONArray("options_en") ?: exerciseObj.optJSONArray("options"))
-                            val options = mutableListOf<String>()
-                            var answer = if (isVi) exerciseObj.optString("answer_vi", exerciseObj.optString("answer")) else exerciseObj.optString("answer_en", exerciseObj.optString("answer"))
+                            // Determine translation options based on course type & user language
+                            val optArray = if (isEnglishCourse) {
+                                if (isVi) {
+                                    exerciseObj.optJSONArray("options_vi") ?: exerciseObj.optJSONArray("options_en") ?: exerciseObj.optJSONArray("options")
+                                } else {
+                                    exerciseObj.optJSONArray("options_en") ?: exerciseObj.optJSONArray("options")
+                                }
+                            } else {
+                                if (isVi) {
+                                    exerciseObj.optJSONArray("options_vi") ?: exerciseObj.optJSONArray("options")
+                                } else {
+                                    exerciseObj.optJSONArray("options_en") ?: exerciseObj.optJSONArray("options")
+                                }
+                            }
                             
+                            var answer = if (isEnglishCourse) {
+                                if (isVi) {
+                                    exerciseObj.optString("answer_vi", exerciseObj.optString("answer_en", exerciseObj.optString("answer")))
+                                } else {
+                                    exerciseObj.optString("answer_en", exerciseObj.optString("answer"))
+                                }
+                            } else {
+                                if (isVi) {
+                                    exerciseObj.optString("answer_vi", exerciseObj.optString("answer"))
+                                } else {
+                                    exerciseObj.optString("answer_en", exerciseObj.optString("answer"))
+                                }
+                            }
+                            
+                            if (prompt.isEmpty()) {
+                                prompt = if (isVi) "Chọn bản dịch đúng:" else "Choose the correct translation:"
+                            }
+                            
+                            val options = mutableListOf<String>()
                             if (optArray != null) {
                                 for (idx in 0 until optArray.length()) {
                                     val item = optArray.opt(idx)
