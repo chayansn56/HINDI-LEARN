@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 33: Present Continuous Tense",
+    "description": "Master vocabulary and expressions for Lesson 33: Present Continuous Tense.",
+    "keyPoints": [
+      "Learn I am working and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am working",
+    "english": "I am working",
+    "vietnamese": "Tôi đang làm việc",
+    "audio": "I am working"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "She is reading",
+    "english": "She is reading",
+    "vietnamese": "Cô ấy đang đọc sách",
+    "audio": "She is reading"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "They are eating",
+    "english": "They are eating",
+    "vietnamese": "Họ đang ăn",
+    "audio": "They are eating"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "What are you doing?",
+    "english": "What are you doing?",
+    "vietnamese": "Bạn đang làm gì thế?",
+    "audio": "What are you doing?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "He is running",
+    "english": "He is running",
+    "vietnamese": "Anh ấy đang chạy",
+    "audio": "He is running"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I am working",
+    "subtext": "",
+    "answer": "I am working",
+    "answer_vi": "Tôi đang làm việc",
+    "options": [
+      "I am working",
+      "She is reading",
+      "They are eating",
+      "What are you doing?"
+    ],
+    "options_en": [
+      "I am working",
+      "She is reading",
+      "They are eating",
+      "What are you doing?"
+    ],
+    "options_vi": [
+      "Tôi đang làm việc",
+      "Cô ấy đang đọc sách",
+      "Họ đang ăn",
+      "Bạn đang làm gì thế?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "She is reading",
+    "subtext": "",
+    "answer": "She is reading",
+    "answer_vi": "Cô ấy đang đọc sách",
+    "options": [
+      "She is reading",
+      "I am working",
+      "They are eating",
+      "What are you doing?"
+    ],
+    "options_en": [
+      "She is reading",
+      "I am working",
+      "They are eating",
+      "What are you doing?"
+    ],
+    "options_vi": [
+      "Cô ấy đang đọc sách",
+      "Tôi đang làm việc",
+      "Họ đang ăn",
+      "Bạn đang làm gì thế?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "They are eating",
+    "subtext": "",
+    "answer": "They are eating",
+    "answer_vi": "Họ đang ăn",
+    "options": [
+      "They are eating",
+      "I am working",
+      "She is reading",
+      "What are you doing?"
+    ],
+    "options_en": [
+      "They are eating",
+      "I am working",
+      "She is reading",
+      "What are you doing?"
+    ],
+    "options_vi": [
+      "Họ đang ăn",
+      "Tôi đang làm việc",
+      "Cô ấy đang đọc sách",
+      "Bạn đang làm gì thế?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "What are you doing?",
+    "subtext": "",
+    "answer": "What are you doing?",
+    "answer_vi": "Bạn đang làm gì thế?",
+    "options": [
+      "What are you doing?",
+      "I am working",
+      "She is reading",
+      "They are eating"
+    ],
+    "options_en": [
+      "What are you doing?",
+      "I am working",
+      "She is reading",
+      "They are eating"
+    ],
+    "options_vi": [
+      "Bạn đang làm gì thế?",
+      "Tôi đang làm việc",
+      "Cô ấy đang đọc sách",
+      "Họ đang ăn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "He is running",
+    "subtext": "",
+    "answer": "He is running",
+    "answer_vi": "Anh ấy đang chạy",
+    "options": [
+      "He is running",
+      "I am working",
+      "She is reading",
+      "They are eating"
+    ],
+    "options_en": [
+      "He is running",
+      "I am working",
+      "She is reading",
+      "They are eating"
+    ],
+    "options_vi": [
+      "Anh ấy đang chạy",
+      "Tôi đang làm việc",
+      "Cô ấy đang đọc sách",
+      "Họ đang ăn"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "I am working",
+        "english": "Tôi đang làm việc"
+      },
+      {
+        "hindi": "She is reading",
+        "english": "Cô ấy đang đọc sách"
+      },
+      {
+        "hindi": "They are eating",
+        "english": "Họ đang ăn"
+      },
+      {
+        "hindi": "What are you doing?",
+        "english": "Bạn đang làm gì thế?"
+      }
+    ]
+  }
+]

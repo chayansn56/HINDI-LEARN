@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 39: Weather & Climate",
+    "description": "Master vocabulary and expressions for Lesson 39: Weather & Climate.",
+    "keyPoints": [
+      "Learn Forecast and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Forecast",
+    "english": "Forecast",
+    "vietnamese": "Dự báo thời tiết",
+    "audio": "Forecast"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Humidity",
+    "english": "Humidity",
+    "vietnamese": "Độ ẩm",
+    "audio": "Humidity"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Thunderstorm",
+    "english": "Thunderstorm",
+    "vietnamese": "Bão kèm sấm sét",
+    "audio": "Thunderstorm"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Freezing cold",
+    "english": "Freezing cold",
+    "vietnamese": "Lạnh buốt",
+    "audio": "Freezing cold"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sunny day",
+    "english": "Sunny day",
+    "vietnamese": "Ngày đầy nắng",
+    "audio": "Sunny day"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Forecast",
+    "subtext": "",
+    "answer": "Forecast",
+    "answer_vi": "Dự báo thời tiết",
+    "options": [
+      "Forecast",
+      "Humidity",
+      "Thunderstorm",
+      "Freezing cold"
+    ],
+    "options_en": [
+      "Forecast",
+      "Humidity",
+      "Thunderstorm",
+      "Freezing cold"
+    ],
+    "options_vi": [
+      "Dự báo thời tiết",
+      "Độ ẩm",
+      "Bão kèm sấm sét",
+      "Lạnh buốt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Humidity",
+    "subtext": "",
+    "answer": "Humidity",
+    "answer_vi": "Độ ẩm",
+    "options": [
+      "Humidity",
+      "Forecast",
+      "Thunderstorm",
+      "Freezing cold"
+    ],
+    "options_en": [
+      "Humidity",
+      "Forecast",
+      "Thunderstorm",
+      "Freezing cold"
+    ],
+    "options_vi": [
+      "Độ ẩm",
+      "Dự báo thời tiết",
+      "Bão kèm sấm sét",
+      "Lạnh buốt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Thunderstorm",
+    "subtext": "",
+    "answer": "Thunderstorm",
+    "answer_vi": "Bão kèm sấm sét",
+    "options": [
+      "Thunderstorm",
+      "Forecast",
+      "Humidity",
+      "Freezing cold"
+    ],
+    "options_en": [
+      "Thunderstorm",
+      "Forecast",
+      "Humidity",
+      "Freezing cold"
+    ],
+    "options_vi": [
+      "Bão kèm sấm sét",
+      "Dự báo thời tiết",
+      "Độ ẩm",
+      "Lạnh buốt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Freezing cold",
+    "subtext": "",
+    "answer": "Freezing cold",
+    "answer_vi": "Lạnh buốt",
+    "options": [
+      "Freezing cold",
+      "Forecast",
+      "Humidity",
+      "Thunderstorm"
+    ],
+    "options_en": [
+      "Freezing cold",
+      "Forecast",
+      "Humidity",
+      "Thunderstorm"
+    ],
+    "options_vi": [
+      "Lạnh buốt",
+      "Dự báo thời tiết",
+      "Độ ẩm",
+      "Bão kèm sấm sét"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Sunny day",
+    "subtext": "",
+    "answer": "Sunny day",
+    "answer_vi": "Ngày đầy nắng",
+    "options": [
+      "Sunny day",
+      "Forecast",
+      "Humidity",
+      "Thunderstorm"
+    ],
+    "options_en": [
+      "Sunny day",
+      "Forecast",
+      "Humidity",
+      "Thunderstorm"
+    ],
+    "options_vi": [
+      "Ngày đầy nắng",
+      "Dự báo thời tiết",
+      "Độ ẩm",
+      "Bão kèm sấm sét"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Forecast",
+        "english": "Dự báo thời tiết"
+      },
+      {
+        "hindi": "Humidity",
+        "english": "Độ ẩm"
+      },
+      {
+        "hindi": "Thunderstorm",
+        "english": "Bão kèm sấm sét"
+      },
+      {
+        "hindi": "Freezing cold",
+        "english": "Lạnh buốt"
+      }
+    ]
+  }
+]

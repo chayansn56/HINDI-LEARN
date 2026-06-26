@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 35: Simple Future Tense",
+    "description": "Master vocabulary and expressions for Lesson 35: Simple Future Tense.",
+    "keyPoints": [
+      "Learn I will go tomorrow and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I will go tomorrow",
+    "english": "I will go tomorrow",
+    "vietnamese": "Tôi sẽ đi vào ngày mai",
+    "audio": "I will go tomorrow"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "She will help you",
+    "english": "She will help you",
+    "vietnamese": "Cô ấy sẽ giúp bạn",
+    "audio": "She will help you"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "We will meet later",
+    "english": "We will meet later",
+    "vietnamese": "Chúng ta sẽ gặp nhau sau",
+    "audio": "We will meet later"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Will they come?",
+    "english": "Will they come?",
+    "vietnamese": "Họ có đến không?",
+    "audio": "Will they come?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I will do it",
+    "english": "I will do it",
+    "vietnamese": "Tôi sẽ làm điều đó",
+    "audio": "I will do it"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I will go tomorrow",
+    "subtext": "",
+    "answer": "I will go tomorrow",
+    "answer_vi": "Tôi sẽ đi vào ngày mai",
+    "options": [
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later",
+      "Will they come?"
+    ],
+    "options_en": [
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later",
+      "Will they come?"
+    ],
+    "options_vi": [
+      "Tôi sẽ đi vào ngày mai",
+      "Cô ấy sẽ giúp bạn",
+      "Chúng ta sẽ gặp nhau sau",
+      "Họ có đến không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "She will help you",
+    "subtext": "",
+    "answer": "She will help you",
+    "answer_vi": "Cô ấy sẽ giúp bạn",
+    "options": [
+      "She will help you",
+      "I will go tomorrow",
+      "We will meet later",
+      "Will they come?"
+    ],
+    "options_en": [
+      "She will help you",
+      "I will go tomorrow",
+      "We will meet later",
+      "Will they come?"
+    ],
+    "options_vi": [
+      "Cô ấy sẽ giúp bạn",
+      "Tôi sẽ đi vào ngày mai",
+      "Chúng ta sẽ gặp nhau sau",
+      "Họ có đến không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "We will meet later",
+    "subtext": "",
+    "answer": "We will meet later",
+    "answer_vi": "Chúng ta sẽ gặp nhau sau",
+    "options": [
+      "We will meet later",
+      "I will go tomorrow",
+      "She will help you",
+      "Will they come?"
+    ],
+    "options_en": [
+      "We will meet later",
+      "I will go tomorrow",
+      "She will help you",
+      "Will they come?"
+    ],
+    "options_vi": [
+      "Chúng ta sẽ gặp nhau sau",
+      "Tôi sẽ đi vào ngày mai",
+      "Cô ấy sẽ giúp bạn",
+      "Họ có đến không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Will they come?",
+    "subtext": "",
+    "answer": "Will they come?",
+    "answer_vi": "Họ có đến không?",
+    "options": [
+      "Will they come?",
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later"
+    ],
+    "options_en": [
+      "Will they come?",
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later"
+    ],
+    "options_vi": [
+      "Họ có đến không?",
+      "Tôi sẽ đi vào ngày mai",
+      "Cô ấy sẽ giúp bạn",
+      "Chúng ta sẽ gặp nhau sau"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I will do it",
+    "subtext": "",
+    "answer": "I will do it",
+    "answer_vi": "Tôi sẽ làm điều đó",
+    "options": [
+      "I will do it",
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later"
+    ],
+    "options_en": [
+      "I will do it",
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later"
+    ],
+    "options_vi": [
+      "Tôi sẽ làm điều đó",
+      "Tôi sẽ đi vào ngày mai",
+      "Cô ấy sẽ giúp bạn",
+      "Chúng ta sẽ gặp nhau sau"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "I will go tomorrow",
+        "english": "Tôi sẽ đi vào ngày mai"
+      },
+      {
+        "hindi": "She will help you",
+        "english": "Cô ấy sẽ giúp bạn"
+      },
+      {
+        "hindi": "We will meet later",
+        "english": "Chúng ta sẽ gặp nhau sau"
+      },
+      {
+        "hindi": "Will they come?",
+        "english": "Họ có đến không?"
+      }
+    ]
+  }
+]

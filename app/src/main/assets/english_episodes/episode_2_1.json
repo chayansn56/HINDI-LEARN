@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 31: Advanced Family & Relationships",
+    "description": "Master vocabulary and expressions for Lesson 31: Advanced Family & Relationships.",
+    "keyPoints": [
+      "Learn Uncle and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Uncle",
+    "english": "Uncle",
+    "vietnamese": "Bác / Chú / Cậu",
+    "audio": "Uncle"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Aunt",
+    "english": "Aunt",
+    "vietnamese": "Cô / Dì / Mợ",
+    "audio": "Aunt"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Father-in-law",
+    "english": "Father-in-law",
+    "vietnamese": "Bố chồng / Bố vợ",
+    "audio": "Father-in-law"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mother-in-law",
+    "english": "Mother-in-law",
+    "vietnamese": "Mẹ chồng / Mẹ vợ",
+    "audio": "Mother-in-law"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Brother-in-law",
+    "english": "Brother-in-law",
+    "vietnamese": "Anh/Em rể / Anh/Em vợ",
+    "audio": "Brother-in-law"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Uncle",
+    "subtext": "",
+    "answer": "Uncle",
+    "answer_vi": "Bác / Chú / Cậu",
+    "options": [
+      "Uncle",
+      "Aunt",
+      "Father-in-law",
+      "Mother-in-law"
+    ],
+    "options_en": [
+      "Uncle",
+      "Aunt",
+      "Father-in-law",
+      "Mother-in-law"
+    ],
+    "options_vi": [
+      "Bác / Chú / Cậu",
+      "Cô / Dì / Mợ",
+      "Bố chồng / Bố vợ",
+      "Mẹ chồng / Mẹ vợ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Aunt",
+    "subtext": "",
+    "answer": "Aunt",
+    "answer_vi": "Cô / Dì / Mợ",
+    "options": [
+      "Aunt",
+      "Uncle",
+      "Father-in-law",
+      "Mother-in-law"
+    ],
+    "options_en": [
+      "Aunt",
+      "Uncle",
+      "Father-in-law",
+      "Mother-in-law"
+    ],
+    "options_vi": [
+      "Cô / Dì / Mợ",
+      "Bác / Chú / Cậu",
+      "Bố chồng / Bố vợ",
+      "Mẹ chồng / Mẹ vợ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Father-in-law",
+    "subtext": "",
+    "answer": "Father-in-law",
+    "answer_vi": "Bố chồng / Bố vợ",
+    "options": [
+      "Father-in-law",
+      "Uncle",
+      "Aunt",
+      "Mother-in-law"
+    ],
+    "options_en": [
+      "Father-in-law",
+      "Uncle",
+      "Aunt",
+      "Mother-in-law"
+    ],
+    "options_vi": [
+      "Bố chồng / Bố vợ",
+      "Bác / Chú / Cậu",
+      "Cô / Dì / Mợ",
+      "Mẹ chồng / Mẹ vợ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Mother-in-law",
+    "subtext": "",
+    "answer": "Mother-in-law",
+    "answer_vi": "Mẹ chồng / Mẹ vợ",
+    "options": [
+      "Mother-in-law",
+      "Uncle",
+      "Aunt",
+      "Father-in-law"
+    ],
+    "options_en": [
+      "Mother-in-law",
+      "Uncle",
+      "Aunt",
+      "Father-in-law"
+    ],
+    "options_vi": [
+      "Mẹ chồng / Mẹ vợ",
+      "Bác / Chú / Cậu",
+      "Cô / Dì / Mợ",
+      "Bố chồng / Bố vợ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Brother-in-law",
+    "subtext": "",
+    "answer": "Brother-in-law",
+    "answer_vi": "Anh/Em rể / Anh/Em vợ",
+    "options": [
+      "Brother-in-law",
+      "Uncle",
+      "Aunt",
+      "Father-in-law"
+    ],
+    "options_en": [
+      "Brother-in-law",
+      "Uncle",
+      "Aunt",
+      "Father-in-law"
+    ],
+    "options_vi": [
+      "Anh/Em rể / Anh/Em vợ",
+      "Bác / Chú / Cậu",
+      "Cô / Dì / Mợ",
+      "Bố chồng / Bố vợ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Uncle",
+        "english": "Bác / Chú / Cậu"
+      },
+      {
+        "hindi": "Aunt",
+        "english": "Cô / Dì / Mợ"
+      },
+      {
+        "hindi": "Father-in-law",
+        "english": "Bố chồng / Bố vợ"
+      },
+      {
+        "hindi": "Mother-in-law",
+        "english": "Mẹ chồng / Mẹ vợ"
+      }
+    ]
+  }
+]

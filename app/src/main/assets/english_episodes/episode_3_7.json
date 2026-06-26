@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 52: Desires & Intentions",
+    "description": "Master vocabulary and expressions for Lesson 52: Desires & Intentions.",
+    "keyPoints": [
+      "Learn I intend to go and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I intend to go",
+    "english": "I intend to go",
+    "vietnamese": "Tôi dự định đi",
+    "audio": "I intend to go"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "My dream is",
+    "english": "My dream is",
+    "vietnamese": "Ước mơ của tôi là",
+    "audio": "My dream is"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I look forward to",
+    "english": "I look forward to",
+    "vietnamese": "Tôi rất mong chờ",
+    "audio": "I look forward to"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Purpose of visit",
+    "english": "Purpose of visit",
+    "vietnamese": "Mục đích chuyến đi",
+    "audio": "Purpose of visit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ambition",
+    "english": "Ambition",
+    "vietnamese": "Hoài bão tham vọng",
+    "audio": "Ambition"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I intend to go",
+    "subtext": "",
+    "answer": "I intend to go",
+    "answer_vi": "Tôi dự định đi",
+    "options": [
+      "I intend to go",
+      "My dream is",
+      "I look forward to",
+      "Purpose of visit"
+    ],
+    "options_en": [
+      "I intend to go",
+      "My dream is",
+      "I look forward to",
+      "Purpose of visit"
+    ],
+    "options_vi": [
+      "Tôi dự định đi",
+      "Ước mơ của tôi là",
+      "Tôi rất mong chờ",
+      "Mục đích chuyến đi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "My dream is",
+    "subtext": "",
+    "answer": "My dream is",
+    "answer_vi": "Ước mơ của tôi là",
+    "options": [
+      "My dream is",
+      "I intend to go",
+      "I look forward to",
+      "Purpose of visit"
+    ],
+    "options_en": [
+      "My dream is",
+      "I intend to go",
+      "I look forward to",
+      "Purpose of visit"
+    ],
+    "options_vi": [
+      "Ước mơ của tôi là",
+      "Tôi dự định đi",
+      "Tôi rất mong chờ",
+      "Mục đích chuyến đi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I look forward to",
+    "subtext": "",
+    "answer": "I look forward to",
+    "answer_vi": "Tôi rất mong chờ",
+    "options": [
+      "I look forward to",
+      "I intend to go",
+      "My dream is",
+      "Purpose of visit"
+    ],
+    "options_en": [
+      "I look forward to",
+      "I intend to go",
+      "My dream is",
+      "Purpose of visit"
+    ],
+    "options_vi": [
+      "Tôi rất mong chờ",
+      "Tôi dự định đi",
+      "Ước mơ của tôi là",
+      "Mục đích chuyến đi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Purpose of visit",
+    "subtext": "",
+    "answer": "Purpose of visit",
+    "answer_vi": "Mục đích chuyến đi",
+    "options": [
+      "Purpose of visit",
+      "I intend to go",
+      "My dream is",
+      "I look forward to"
+    ],
+    "options_en": [
+      "Purpose of visit",
+      "I intend to go",
+      "My dream is",
+      "I look forward to"
+    ],
+    "options_vi": [
+      "Mục đích chuyến đi",
+      "Tôi dự định đi",
+      "Ước mơ của tôi là",
+      "Tôi rất mong chờ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Ambition",
+    "subtext": "",
+    "answer": "Ambition",
+    "answer_vi": "Hoài bão tham vọng",
+    "options": [
+      "Ambition",
+      "I intend to go",
+      "My dream is",
+      "I look forward to"
+    ],
+    "options_en": [
+      "Ambition",
+      "I intend to go",
+      "My dream is",
+      "I look forward to"
+    ],
+    "options_vi": [
+      "Hoài bão tham vọng",
+      "Tôi dự định đi",
+      "Ước mơ của tôi là",
+      "Tôi rất mong chờ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "I intend to go",
+        "english": "Tôi dự định đi"
+      },
+      {
+        "hindi": "My dream is",
+        "english": "Ước mơ của tôi là"
+      },
+      {
+        "hindi": "I look forward to",
+        "english": "Tôi rất mong chờ"
+      },
+      {
+        "hindi": "Purpose of visit",
+        "english": "Mục đích chuyến đi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 38: In the Kitchen & Food",
+    "description": "Master vocabulary and expressions for Lesson 38: In the Kitchen & Food.",
+    "keyPoints": [
+      "Learn Recipe and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Recipe",
+    "english": "Recipe",
+    "vietnamese": "Công thức nấu ăn",
+    "audio": "Recipe"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ingredients",
+    "english": "Ingredients",
+    "vietnamese": "Thành phần nguyên liệu",
+    "audio": "Ingredients"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "To boil",
+    "english": "To boil",
+    "vietnamese": "Luộc / Đun sôi",
+    "audio": "To boil"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Delicious",
+    "english": "Delicious",
+    "vietnamese": "Thơm ngon",
+    "audio": "Delicious"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Spicy",
+    "english": "Spicy",
+    "vietnamese": "Cay",
+    "audio": "Spicy"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Recipe",
+    "subtext": "",
+    "answer": "Recipe",
+    "answer_vi": "Công thức nấu ăn",
+    "options": [
+      "Recipe",
+      "Ingredients",
+      "To boil",
+      "Delicious"
+    ],
+    "options_en": [
+      "Recipe",
+      "Ingredients",
+      "To boil",
+      "Delicious"
+    ],
+    "options_vi": [
+      "Công thức nấu ăn",
+      "Thành phần nguyên liệu",
+      "Luộc / Đun sôi",
+      "Thơm ngon"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Ingredients",
+    "subtext": "",
+    "answer": "Ingredients",
+    "answer_vi": "Thành phần nguyên liệu",
+    "options": [
+      "Ingredients",
+      "Recipe",
+      "To boil",
+      "Delicious"
+    ],
+    "options_en": [
+      "Ingredients",
+      "Recipe",
+      "To boil",
+      "Delicious"
+    ],
+    "options_vi": [
+      "Thành phần nguyên liệu",
+      "Công thức nấu ăn",
+      "Luộc / Đun sôi",
+      "Thơm ngon"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "To boil",
+    "subtext": "",
+    "answer": "To boil",
+    "answer_vi": "Luộc / Đun sôi",
+    "options": [
+      "To boil",
+      "Recipe",
+      "Ingredients",
+      "Delicious"
+    ],
+    "options_en": [
+      "To boil",
+      "Recipe",
+      "Ingredients",
+      "Delicious"
+    ],
+    "options_vi": [
+      "Luộc / Đun sôi",
+      "Công thức nấu ăn",
+      "Thành phần nguyên liệu",
+      "Thơm ngon"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Delicious",
+    "subtext": "",
+    "answer": "Delicious",
+    "answer_vi": "Thơm ngon",
+    "options": [
+      "Delicious",
+      "Recipe",
+      "Ingredients",
+      "To boil"
+    ],
+    "options_en": [
+      "Delicious",
+      "Recipe",
+      "Ingredients",
+      "To boil"
+    ],
+    "options_vi": [
+      "Thơm ngon",
+      "Công thức nấu ăn",
+      "Thành phần nguyên liệu",
+      "Luộc / Đun sôi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Spicy",
+    "subtext": "",
+    "answer": "Spicy",
+    "answer_vi": "Cay",
+    "options": [
+      "Spicy",
+      "Recipe",
+      "Ingredients",
+      "To boil"
+    ],
+    "options_en": [
+      "Spicy",
+      "Recipe",
+      "Ingredients",
+      "To boil"
+    ],
+    "options_vi": [
+      "Cay",
+      "Công thức nấu ăn",
+      "Thành phần nguyên liệu",
+      "Luộc / Đun sôi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Recipe",
+        "english": "Công thức nấu ăn"
+      },
+      {
+        "hindi": "Ingredients",
+        "english": "Thành phần nguyên liệu"
+      },
+      {
+        "hindi": "To boil",
+        "english": "Luộc / Đun sôi"
+      },
+      {
+        "hindi": "Delicious",
+        "english": "Thơm ngon"
+      }
+    ]
+  }
+]

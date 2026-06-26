@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 57: Expressing Opinions",
+    "description": "Master vocabulary and expressions for Lesson 57: Expressing Opinions.",
+    "keyPoints": [
+      "Learn From my perspective and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "From my perspective",
+    "english": "From my perspective",
+    "vietnamese": "Theo quan điểm của tôi",
+    "audio": "From my perspective"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I strongly agree",
+    "english": "I strongly agree",
+    "vietnamese": "Tôi hoàn toàn đồng ý",
+    "audio": "I strongly agree"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I disagree entirely",
+    "english": "I disagree entirely",
+    "vietnamese": "Tôi không đồng ý chút nào",
+    "audio": "I disagree entirely"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "In my opinion",
+    "english": "In my opinion",
+    "vietnamese": "Theo ý kiến tôi",
+    "audio": "In my opinion"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Debatable topic",
+    "english": "Debatable topic",
+    "vietnamese": "Chủ đề đáng tranh luận",
+    "audio": "Debatable topic"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "From my perspective",
+    "subtext": "",
+    "answer": "From my perspective",
+    "answer_vi": "Theo quan điểm của tôi",
+    "options": [
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely",
+      "In my opinion"
+    ],
+    "options_en": [
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely",
+      "In my opinion"
+    ],
+    "options_vi": [
+      "Theo quan điểm của tôi",
+      "Tôi hoàn toàn đồng ý",
+      "Tôi không đồng ý chút nào",
+      "Theo ý kiến tôi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I strongly agree",
+    "subtext": "",
+    "answer": "I strongly agree",
+    "answer_vi": "Tôi hoàn toàn đồng ý",
+    "options": [
+      "I strongly agree",
+      "From my perspective",
+      "I disagree entirely",
+      "In my opinion"
+    ],
+    "options_en": [
+      "I strongly agree",
+      "From my perspective",
+      "I disagree entirely",
+      "In my opinion"
+    ],
+    "options_vi": [
+      "Tôi hoàn toàn đồng ý",
+      "Theo quan điểm của tôi",
+      "Tôi không đồng ý chút nào",
+      "Theo ý kiến tôi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I disagree entirely",
+    "subtext": "",
+    "answer": "I disagree entirely",
+    "answer_vi": "Tôi không đồng ý chút nào",
+    "options": [
+      "I disagree entirely",
+      "From my perspective",
+      "I strongly agree",
+      "In my opinion"
+    ],
+    "options_en": [
+      "I disagree entirely",
+      "From my perspective",
+      "I strongly agree",
+      "In my opinion"
+    ],
+    "options_vi": [
+      "Tôi không đồng ý chút nào",
+      "Theo quan điểm của tôi",
+      "Tôi hoàn toàn đồng ý",
+      "Theo ý kiến tôi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "In my opinion",
+    "subtext": "",
+    "answer": "In my opinion",
+    "answer_vi": "Theo ý kiến tôi",
+    "options": [
+      "In my opinion",
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely"
+    ],
+    "options_en": [
+      "In my opinion",
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely"
+    ],
+    "options_vi": [
+      "Theo ý kiến tôi",
+      "Theo quan điểm của tôi",
+      "Tôi hoàn toàn đồng ý",
+      "Tôi không đồng ý chút nào"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Debatable topic",
+    "subtext": "",
+    "answer": "Debatable topic",
+    "answer_vi": "Chủ đề đáng tranh luận",
+    "options": [
+      "Debatable topic",
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely"
+    ],
+    "options_en": [
+      "Debatable topic",
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely"
+    ],
+    "options_vi": [
+      "Chủ đề đáng tranh luận",
+      "Theo quan điểm của tôi",
+      "Tôi hoàn toàn đồng ý",
+      "Tôi không đồng ý chút nào"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "From my perspective",
+        "english": "Theo quan điểm của tôi"
+      },
+      {
+        "hindi": "I strongly agree",
+        "english": "Tôi hoàn toàn đồng ý"
+      },
+      {
+        "hindi": "I disagree entirely",
+        "english": "Tôi không đồng ý chút nào"
+      },
+      {
+        "hindi": "In my opinion",
+        "english": "Theo ý kiến tôi"
+      }
+    ]
+  }
+]

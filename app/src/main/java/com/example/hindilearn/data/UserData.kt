@@ -328,8 +328,36 @@ object GamifiedCurriculum {
             )
             val p0DescsEn = p0TitlesEn.map { "Learn $it in English." }
             
-            val p0EpisodesEn = (1..30).map { i ->
+            val p0EpisodesEn = (1..14).map { i ->
                 Episode("episode_0_$i", p0TitlesEn[i - 1], p0DescsEn[i - 1], "FOUNDATION", "You completed ${p0TitlesEn[i - 1]}!", listOf("Learn ${p0TitlesEn[i - 1]}"), false)
+            }
+            
+            val p1EpisodesEn = (15..30).map { i ->
+                Episode("episode_1_${i - 14}", p0TitlesEn[i - 1], p0DescsEn[i - 1], "FOUNDATION", "You completed ${p0TitlesEn[i - 1]}!", listOf("Learn ${p0TitlesEn[i - 1]}"), false)
+            }
+
+            val p2TitlesEn = listOf(
+                "Advanced Family & Relationships", "Social Small Talk & Hobbies", "Present Continuous Tense",
+                "Simple Past Tense (Used to)", "Simple Future Tense", "Prepositions & Conjunctions",
+                "At the Airport", "In the Kitchen & Food", "Weather & Climate",
+                "Shopping & Prices", "Illness & Doctor", "Time & Meetings",
+                "Emergency", "Local Directions", "Phase 2 Review"
+            )
+            val p2DescsEn = p2TitlesEn.map { "Learn $it in English." }
+            val p2EpisodesEn = (1..15).map { i ->
+                Episode("episode_2_$i", p2TitlesEn[i - 1], p2DescsEn[i - 1], "FOUNDATION", "You completed ${p2TitlesEn[i - 1]}!", listOf("Learn ${p2TitlesEn[i - 1]}"), false)
+            }
+
+            val p3TitlesEn = listOf(
+                "Subjunctive Mood & Hypotheticals", "Passive Voice", "Phrasal Verbs",
+                "Relative Clauses", "Obligation & Necessity", "Ability & Permission",
+                "Desires & Intentions", "Habitual Actions in the Past", "Office & Professional English",
+                "Formal Emails & Writing", "Common Proverbs & Idioms", "Expressing Opinions",
+                "Cinema & Art Discussion", "Media & Current Affairs", "Phase 3 Graduation Exam"
+            )
+            val p3DescsEn = p3TitlesEn.map { "Learn $it in English." }
+            val p3EpisodesEn = (1..15).map { i ->
+                Episode("episode_3_$i", p3TitlesEn[i - 1], p3DescsEn[i - 1], "FOUNDATION", "You completed ${p3TitlesEn[i - 1]}!", listOf("Learn ${p3TitlesEn[i - 1]}"), false)
             }
             
             val specialBlueprintsEn = listOf(
@@ -352,16 +380,19 @@ object GamifiedCurriculum {
             val s3EpisodesEn = (41..60).map { i -> Episode("episode_$i", "Episode $i", "Friendship pt $i", "STORY", "Completed Episode $i.", listOf("Survive Episode $i"), true) }
             val s4EpisodesEn = (61..80).map { i -> Episode("episode_$i", "Episode $i", "Love and Relationships pt $i", "STORY", "Completed Episode $i.", listOf("Survive Episode $i"), true) }
             val s5EpisodesEn = (81..100).map { i -> Episode("episode_$i", "Episode $i", "Belonging pt $i", "STORY", "Completed Episode $i.", listOf("Survive Episode $i"), true) }
-
+ 
             val coreSeasonsEn = listOf(
                 Season("phase_0", "Phase 0: Foundation Academy", "The most important phase. Learn the building blocks.", p0EpisodesEn),
+                Season("phase_1", "Phase 1: Elementary Academy", "Learn real-world vocabulary, numbers, and navigation.", p1EpisodesEn),
+                Season("phase_2", "Phase 2: Path to Fluency", "Master intermediate grammar and social conversations.", p2EpisodesEn),
+                Season("phase_3", "Phase 3: Conversational Mastery", "Master advanced grammar, idiomatic expressions, and professional register.", p3EpisodesEn),
                 Season("season_1", "Season 1: Arrival in USA", "Navigating the first days.", s1EpisodesEn),
                 Season("season_2", "Season 2: Living in USA", "Daily life, hobbies, and mistakes.", s2EpisodesEn),
                 Season("season_3", "Season 3: Friendship", "Deepening bonds and inside jokes.", s3EpisodesEn),
                 Season("season_4", "Season 4: Love and Relationships", "Families, marriage, and emotions.", s4EpisodesEn),
                 Season("season_5", "Season 5: Belonging", "America becomes home.", s5EpisodesEn)
             )
-
+ 
             return coreSeasonsEn + specialSeasonsEn
         }
 

@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 45: Phase 2 Review",
+    "description": "Master vocabulary and expressions for Lesson 45: Phase 2 Review.",
+    "keyPoints": [
+      "Learn Congratulations and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Congratulations",
+    "english": "Congratulations",
+    "vietnamese": "Xin chúc mừng",
+    "audio": "Congratulations"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fluency progress",
+    "english": "Fluency progress",
+    "vietnamese": "Tiến trình trôi chảy",
+    "audio": "Fluency progress"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Completed level",
+    "english": "Completed level",
+    "vietnamese": "Đã hoàn thành cấp độ",
+    "audio": "Completed level"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vocabulary review",
+    "english": "Vocabulary review",
+    "vietnamese": "Ôn tập từ vựng",
+    "audio": "Vocabulary review"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Success",
+    "english": "Success",
+    "vietnamese": "Sự thành công",
+    "audio": "Success"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Congratulations",
+    "subtext": "",
+    "answer": "Congratulations",
+    "answer_vi": "Xin chúc mừng",
+    "options": [
+      "Congratulations",
+      "Fluency progress",
+      "Completed level",
+      "Vocabulary review"
+    ],
+    "options_en": [
+      "Congratulations",
+      "Fluency progress",
+      "Completed level",
+      "Vocabulary review"
+    ],
+    "options_vi": [
+      "Xin chúc mừng",
+      "Tiến trình trôi chảy",
+      "Đã hoàn thành cấp độ",
+      "Ôn tập từ vựng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Fluency progress",
+    "subtext": "",
+    "answer": "Fluency progress",
+    "answer_vi": "Tiến trình trôi chảy",
+    "options": [
+      "Fluency progress",
+      "Congratulations",
+      "Completed level",
+      "Vocabulary review"
+    ],
+    "options_en": [
+      "Fluency progress",
+      "Congratulations",
+      "Completed level",
+      "Vocabulary review"
+    ],
+    "options_vi": [
+      "Tiến trình trôi chảy",
+      "Xin chúc mừng",
+      "Đã hoàn thành cấp độ",
+      "Ôn tập từ vựng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Completed level",
+    "subtext": "",
+    "answer": "Completed level",
+    "answer_vi": "Đã hoàn thành cấp độ",
+    "options": [
+      "Completed level",
+      "Congratulations",
+      "Fluency progress",
+      "Vocabulary review"
+    ],
+    "options_en": [
+      "Completed level",
+      "Congratulations",
+      "Fluency progress",
+      "Vocabulary review"
+    ],
+    "options_vi": [
+      "Đã hoàn thành cấp độ",
+      "Xin chúc mừng",
+      "Tiến trình trôi chảy",
+      "Ôn tập từ vựng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Vocabulary review",
+    "subtext": "",
+    "answer": "Vocabulary review",
+    "answer_vi": "Ôn tập từ vựng",
+    "options": [
+      "Vocabulary review",
+      "Congratulations",
+      "Fluency progress",
+      "Completed level"
+    ],
+    "options_en": [
+      "Vocabulary review",
+      "Congratulations",
+      "Fluency progress",
+      "Completed level"
+    ],
+    "options_vi": [
+      "Ôn tập từ vựng",
+      "Xin chúc mừng",
+      "Tiến trình trôi chảy",
+      "Đã hoàn thành cấp độ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Success",
+    "subtext": "",
+    "answer": "Success",
+    "answer_vi": "Sự thành công",
+    "options": [
+      "Success",
+      "Congratulations",
+      "Fluency progress",
+      "Completed level"
+    ],
+    "options_en": [
+      "Success",
+      "Congratulations",
+      "Fluency progress",
+      "Completed level"
+    ],
+    "options_vi": [
+      "Sự thành công",
+      "Xin chúc mừng",
+      "Tiến trình trôi chảy",
+      "Đã hoàn thành cấp độ"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Congratulations",
+        "english": "Xin chúc mừng"
+      },
+      {
+        "hindi": "Fluency progress",
+        "english": "Tiến trình trôi chảy"
+      },
+      {
+        "hindi": "Completed level",
+        "english": "Đã hoàn thành cấp độ"
+      },
+      {
+        "hindi": "Vocabulary review",
+        "english": "Ôn tập từ vựng"
+      }
+    ]
+  }
+]

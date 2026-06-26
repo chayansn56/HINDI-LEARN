@@ -1,0 +1,283 @@
+[
+  {
+    "id": "n1",
+    "type": "TeachRule",
+    "content": "To talk about an action that was happening at a specific time in the past, use 'was/were + verb-ing'.\nExample: 'I was sleeping' (Tôi đang ngủ)."
+  },
+  {
+    "id": "n2",
+    "type": "Flashcard",
+    "hindi": "I was sleeping",
+    "english": "Tôi đang ngủ",
+    "audio": "I was sleeping"
+  },
+  {
+    "id": "n3",
+    "type": "Flashcard",
+    "hindi": "They were playing",
+    "english": "Họ đang chơi",
+    "audio": "They were playing"
+  },
+  {
+    "id": "n4",
+    "type": "Flashcard",
+    "hindi": "She was reading",
+    "english": "Cô ấy đang đọc",
+    "audio": "She was reading"
+  },
+  {
+    "id": "n5",
+    "type": "MultipleChoice",
+    "hindi": "I was eating",
+    "english": "Tôi đang ăn",
+    "options": [
+      "Tôi đang ăn",
+      "Tôi đã ăn",
+      "Tôi sẽ ăn"
+    ],
+    "audio": "I was eating"
+  },
+  {
+    "id": "n6",
+    "type": "MultipleChoice",
+    "hindi": "We were working",
+    "english": "Chúng tôi đang làm việc",
+    "options": [
+      "Chúng tôi đang làm việc",
+      "Họ đang làm việc",
+      "Tôi đang làm việc"
+    ],
+    "audio": "We were working"
+  },
+  {
+    "id": "n7",
+    "type": "MatchPairs",
+    "pairs": {
+      "I was sleeping": "Tôi đang ngủ",
+      "She was reading": "Cô ấy đang đọc",
+      "They were playing": "Họ đang chơi",
+      "He was eating": "Anh ấy đang ăn"
+    }
+  },
+  {
+    "id": "n8",
+    "type": "TeachRule",
+    "content": "Negative (was not/were not). Example: I wasn't sleeping (Tôi không đang ngủ)."
+  },
+  {
+    "id": "n9",
+    "type": "Flashcard",
+    "hindi": "I wasn't listening",
+    "english": "Tôi không đang nghe",
+    "audio": "I wasn't listening"
+  },
+  {
+    "id": "n10",
+    "type": "MultipleChoice",
+    "hindi": "They weren't running",
+    "english": "Họ không đang chạy",
+    "options": [
+      "Họ không đang chạy",
+      "Họ đang chạy",
+      "Họ đã chạy"
+    ],
+    "audio": "They weren't running"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Excuse me",
+    "english": "Excuse me",
+    "vietnamese": "Xin lỗi cho tôi hỏi",
+    "audio": "Excuse me"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the restroom?",
+    "english": "Where is the restroom?",
+    "vietnamese": "Nhà vệ sinh ở đâu?",
+    "audio": "Where is the restroom?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much does it cost?",
+    "english": "How much does it cost?",
+    "vietnamese": "Cái này giá bao nhiêu?",
+    "audio": "How much does it cost?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Can you help me?",
+    "english": "Can you help me?",
+    "vietnamese": "Bạn có thể giúp tôi không?",
+    "audio": "Can you help me?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't understand",
+    "english": "I don't understand",
+    "vietnamese": "Tôi không hiểu",
+    "audio": "I don't understand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Excuse me",
+    "subtext": "",
+    "answer": "Excuse me",
+    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "options": [
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Where is the restroom?",
+    "subtext": "",
+    "answer": "Where is the restroom?",
+    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "options": [
+      "Where is the restroom?",
+      "Excuse me",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "Where is the restroom?",
+      "Excuse me",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Nhà vệ sinh ở đâu?",
+      "Xin lỗi cho tôi hỏi",
+      "Cái này giá bao nhiêu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "How much does it cost?",
+    "subtext": "",
+    "answer": "How much does it cost?",
+    "answer_vi": "Cái này giá bao nhiêu?",
+    "options": [
+      "How much does it cost?",
+      "Excuse me",
+      "Where is the restroom?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "How much does it cost?",
+      "Excuse me",
+      "Where is the restroom?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Cái này giá bao nhiêu?",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Can you help me?",
+    "subtext": "",
+    "answer": "Can you help me?",
+    "answer_vi": "Bạn có thể giúp tôi không?",
+    "options": [
+      "Can you help me?",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_en": [
+      "Can you help me?",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_vi": [
+      "Bạn có thể giúp tôi không?",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I don't understand",
+    "subtext": "",
+    "answer": "I don't understand",
+    "answer_vi": "Tôi không hiểu",
+    "options": [
+      "I don't understand",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_en": [
+      "I don't understand",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_vi": [
+      "Tôi không hiểu",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Excuse me",
+        "english": "Xin lỗi cho tôi hỏi"
+      },
+      {
+        "hindi": "Where is the restroom?",
+        "english": "Nhà vệ sinh ở đâu?"
+      },
+      {
+        "hindi": "How much does it cost?",
+        "english": "Cái này giá bao nhiêu?"
+      },
+      {
+        "hindi": "Can you help me?",
+        "english": "Bạn có thể giúp tôi không?"
+      }
+    ]
+  }
+]

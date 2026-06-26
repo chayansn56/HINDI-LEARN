@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 58: Cinema & Art Discussion",
+    "description": "Master vocabulary and expressions for Lesson 58: Cinema & Art Discussion.",
+    "keyPoints": [
+      "Learn Director and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Director",
+    "english": "Director",
+    "vietnamese": "Đạo diễn phim",
+    "audio": "Director"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Masterpiece",
+    "english": "Masterpiece",
+    "vietnamese": "Kiệt tác tác phẩm xuất sắc",
+    "audio": "Masterpiece"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Genre of movie",
+    "english": "Genre of movie",
+    "vietnamese": "Thể loại phim",
+    "audio": "Genre of movie"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Performance reviews",
+    "english": "Performance reviews",
+    "vietnamese": "Đánh giá diễn xuất",
+    "audio": "Performance reviews"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Soundtrack",
+    "english": "Soundtrack",
+    "vietnamese": "Nhạc nền phim",
+    "audio": "Soundtrack"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Director",
+    "subtext": "",
+    "answer": "Director",
+    "answer_vi": "Đạo diễn phim",
+    "options": [
+      "Director",
+      "Masterpiece",
+      "Genre of movie",
+      "Performance reviews"
+    ],
+    "options_en": [
+      "Director",
+      "Masterpiece",
+      "Genre of movie",
+      "Performance reviews"
+    ],
+    "options_vi": [
+      "Đạo diễn phim",
+      "Kiệt tác tác phẩm xuất sắc",
+      "Thể loại phim",
+      "Đánh giá diễn xuất"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Masterpiece",
+    "subtext": "",
+    "answer": "Masterpiece",
+    "answer_vi": "Kiệt tác tác phẩm xuất sắc",
+    "options": [
+      "Masterpiece",
+      "Director",
+      "Genre of movie",
+      "Performance reviews"
+    ],
+    "options_en": [
+      "Masterpiece",
+      "Director",
+      "Genre of movie",
+      "Performance reviews"
+    ],
+    "options_vi": [
+      "Kiệt tác tác phẩm xuất sắc",
+      "Đạo diễn phim",
+      "Thể loại phim",
+      "Đánh giá diễn xuất"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Genre of movie",
+    "subtext": "",
+    "answer": "Genre of movie",
+    "answer_vi": "Thể loại phim",
+    "options": [
+      "Genre of movie",
+      "Director",
+      "Masterpiece",
+      "Performance reviews"
+    ],
+    "options_en": [
+      "Genre of movie",
+      "Director",
+      "Masterpiece",
+      "Performance reviews"
+    ],
+    "options_vi": [
+      "Thể loại phim",
+      "Đạo diễn phim",
+      "Kiệt tác tác phẩm xuất sắc",
+      "Đánh giá diễn xuất"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Performance reviews",
+    "subtext": "",
+    "answer": "Performance reviews",
+    "answer_vi": "Đánh giá diễn xuất",
+    "options": [
+      "Performance reviews",
+      "Director",
+      "Masterpiece",
+      "Genre of movie"
+    ],
+    "options_en": [
+      "Performance reviews",
+      "Director",
+      "Masterpiece",
+      "Genre of movie"
+    ],
+    "options_vi": [
+      "Đánh giá diễn xuất",
+      "Đạo diễn phim",
+      "Kiệt tác tác phẩm xuất sắc",
+      "Thể loại phim"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Soundtrack",
+    "subtext": "",
+    "answer": "Soundtrack",
+    "answer_vi": "Nhạc nền phim",
+    "options": [
+      "Soundtrack",
+      "Director",
+      "Masterpiece",
+      "Genre of movie"
+    ],
+    "options_en": [
+      "Soundtrack",
+      "Director",
+      "Masterpiece",
+      "Genre of movie"
+    ],
+    "options_vi": [
+      "Nhạc nền phim",
+      "Đạo diễn phim",
+      "Kiệt tác tác phẩm xuất sắc",
+      "Thể loại phim"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Director",
+        "english": "Đạo diễn phim"
+      },
+      {
+        "hindi": "Masterpiece",
+        "english": "Kiệt tác tác phẩm xuất sắc"
+      },
+      {
+        "hindi": "Genre of movie",
+        "english": "Thể loại phim"
+      },
+      {
+        "hindi": "Performance reviews",
+        "english": "Đánh giá diễn xuất"
+      }
+    ]
+  }
+]

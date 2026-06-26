@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 36: Prepositions & Conjunctions",
+    "description": "Master vocabulary and expressions for Lesson 36: Prepositions & Conjunctions.",
+    "keyPoints": [
+      "Learn Because of and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Because of",
+    "english": "Because of",
+    "vietnamese": "Bởi vì / Do",
+    "audio": "Because of"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "In front of",
+    "english": "In front of",
+    "vietnamese": "Phía trước của",
+    "audio": "In front of"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Next to",
+    "english": "Next to",
+    "vietnamese": "Bên cạnh",
+    "audio": "Next to"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Although",
+    "english": "Although",
+    "vietnamese": "Mặc dù",
+    "audio": "Although"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Therefore",
+    "english": "Therefore",
+    "vietnamese": "Do đó / Vì vậy",
+    "audio": "Therefore"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Because of",
+    "subtext": "",
+    "answer": "Because of",
+    "answer_vi": "Bởi vì / Do",
+    "options": [
+      "Because of",
+      "In front of",
+      "Next to",
+      "Although"
+    ],
+    "options_en": [
+      "Because of",
+      "In front of",
+      "Next to",
+      "Although"
+    ],
+    "options_vi": [
+      "Bởi vì / Do",
+      "Phía trước của",
+      "Bên cạnh",
+      "Mặc dù"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "In front of",
+    "subtext": "",
+    "answer": "In front of",
+    "answer_vi": "Phía trước của",
+    "options": [
+      "In front of",
+      "Because of",
+      "Next to",
+      "Although"
+    ],
+    "options_en": [
+      "In front of",
+      "Because of",
+      "Next to",
+      "Although"
+    ],
+    "options_vi": [
+      "Phía trước của",
+      "Bởi vì / Do",
+      "Bên cạnh",
+      "Mặc dù"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Next to",
+    "subtext": "",
+    "answer": "Next to",
+    "answer_vi": "Bên cạnh",
+    "options": [
+      "Next to",
+      "Because of",
+      "In front of",
+      "Although"
+    ],
+    "options_en": [
+      "Next to",
+      "Because of",
+      "In front of",
+      "Although"
+    ],
+    "options_vi": [
+      "Bên cạnh",
+      "Bởi vì / Do",
+      "Phía trước của",
+      "Mặc dù"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Although",
+    "subtext": "",
+    "answer": "Although",
+    "answer_vi": "Mặc dù",
+    "options": [
+      "Although",
+      "Because of",
+      "In front of",
+      "Next to"
+    ],
+    "options_en": [
+      "Although",
+      "Because of",
+      "In front of",
+      "Next to"
+    ],
+    "options_vi": [
+      "Mặc dù",
+      "Bởi vì / Do",
+      "Phía trước của",
+      "Bên cạnh"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Therefore",
+    "subtext": "",
+    "answer": "Therefore",
+    "answer_vi": "Do đó / Vì vậy",
+    "options": [
+      "Therefore",
+      "Because of",
+      "In front of",
+      "Next to"
+    ],
+    "options_en": [
+      "Therefore",
+      "Because of",
+      "In front of",
+      "Next to"
+    ],
+    "options_vi": [
+      "Do đó / Vì vậy",
+      "Bởi vì / Do",
+      "Phía trước của",
+      "Bên cạnh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Because of",
+        "english": "Bởi vì / Do"
+      },
+      {
+        "hindi": "In front of",
+        "english": "Phía trước của"
+      },
+      {
+        "hindi": "Next to",
+        "english": "Bên cạnh"
+      },
+      {
+        "hindi": "Although",
+        "english": "Mặc dù"
+      }
+    ]
+  }
+]

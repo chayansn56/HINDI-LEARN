@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 47: Passive Voice",
+    "description": "Master vocabulary and expressions for Lesson 47: Passive Voice.",
+    "keyPoints": [
+      "Learn The book was written and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "The book was written",
+    "english": "The book was written",
+    "vietnamese": "Cuốn sách đã được viết",
+    "audio": "The book was written"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "It is made of wood",
+    "english": "It is made of wood",
+    "vietnamese": "Nó được làm bằng gỗ",
+    "audio": "It is made of wood"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "The letter was sent",
+    "english": "The letter was sent",
+    "vietnamese": "Bức thư đã được gửi đi",
+    "audio": "The letter was sent"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "He was invited",
+    "english": "He was invited",
+    "vietnamese": "Anh ấy đã được mời",
+    "audio": "He was invited"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rules must be followed",
+    "english": "Rules must be followed",
+    "vietnamese": "Các quy tắc phải được tuân thủ",
+    "audio": "Rules must be followed"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "The book was written",
+    "subtext": "",
+    "answer": "The book was written",
+    "answer_vi": "Cuốn sách đã được viết",
+    "options": [
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent",
+      "He was invited"
+    ],
+    "options_en": [
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent",
+      "He was invited"
+    ],
+    "options_vi": [
+      "Cuốn sách đã được viết",
+      "Nó được làm bằng gỗ",
+      "Bức thư đã được gửi đi",
+      "Anh ấy đã được mời"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "It is made of wood",
+    "subtext": "",
+    "answer": "It is made of wood",
+    "answer_vi": "Nó được làm bằng gỗ",
+    "options": [
+      "It is made of wood",
+      "The book was written",
+      "The letter was sent",
+      "He was invited"
+    ],
+    "options_en": [
+      "It is made of wood",
+      "The book was written",
+      "The letter was sent",
+      "He was invited"
+    ],
+    "options_vi": [
+      "Nó được làm bằng gỗ",
+      "Cuốn sách đã được viết",
+      "Bức thư đã được gửi đi",
+      "Anh ấy đã được mời"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "The letter was sent",
+    "subtext": "",
+    "answer": "The letter was sent",
+    "answer_vi": "Bức thư đã được gửi đi",
+    "options": [
+      "The letter was sent",
+      "The book was written",
+      "It is made of wood",
+      "He was invited"
+    ],
+    "options_en": [
+      "The letter was sent",
+      "The book was written",
+      "It is made of wood",
+      "He was invited"
+    ],
+    "options_vi": [
+      "Bức thư đã được gửi đi",
+      "Cuốn sách đã được viết",
+      "Nó được làm bằng gỗ",
+      "Anh ấy đã được mời"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "He was invited",
+    "subtext": "",
+    "answer": "He was invited",
+    "answer_vi": "Anh ấy đã được mời",
+    "options": [
+      "He was invited",
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent"
+    ],
+    "options_en": [
+      "He was invited",
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent"
+    ],
+    "options_vi": [
+      "Anh ấy đã được mời",
+      "Cuốn sách đã được viết",
+      "Nó được làm bằng gỗ",
+      "Bức thư đã được gửi đi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Rules must be followed",
+    "subtext": "",
+    "answer": "Rules must be followed",
+    "answer_vi": "Các quy tắc phải được tuân thủ",
+    "options": [
+      "Rules must be followed",
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent"
+    ],
+    "options_en": [
+      "Rules must be followed",
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent"
+    ],
+    "options_vi": [
+      "Các quy tắc phải được tuân thủ",
+      "Cuốn sách đã được viết",
+      "Nó được làm bằng gỗ",
+      "Bức thư đã được gửi đi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "The book was written",
+        "english": "Cuốn sách đã được viết"
+      },
+      {
+        "hindi": "It is made of wood",
+        "english": "Nó được làm bằng gỗ"
+      },
+      {
+        "hindi": "The letter was sent",
+        "english": "Bức thư đã được gửi đi"
+      },
+      {
+        "hindi": "He was invited",
+        "english": "Anh ấy đã được mời"
+      }
+    ]
+  }
+]

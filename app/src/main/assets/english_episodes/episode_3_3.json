@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 48: Phrasal Verbs",
+    "description": "Master vocabulary and expressions for Lesson 48: Phrasal Verbs.",
+    "keyPoints": [
+      "Learn Give up and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Give up",
+    "english": "Give up",
+    "vietnamese": "Từ bỏ",
+    "audio": "Give up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Look after",
+    "english": "Look after",
+    "vietnamese": "Chăm sóc",
+    "audio": "Look after"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Find out",
+    "english": "Find out",
+    "vietnamese": "Tìm ra phát hiện",
+    "audio": "Find out"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Run out of",
+    "english": "Run out of",
+    "vietnamese": "Hết cạn kiệt",
+    "audio": "Run out of"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Take off",
+    "english": "Take off",
+    "vietnamese": "Cất cánh / Cởi ra",
+    "audio": "Take off"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Give up",
+    "subtext": "",
+    "answer": "Give up",
+    "answer_vi": "Từ bỏ",
+    "options": [
+      "Give up",
+      "Look after",
+      "Find out",
+      "Run out of"
+    ],
+    "options_en": [
+      "Give up",
+      "Look after",
+      "Find out",
+      "Run out of"
+    ],
+    "options_vi": [
+      "Từ bỏ",
+      "Chăm sóc",
+      "Tìm ra phát hiện",
+      "Hết cạn kiệt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Look after",
+    "subtext": "",
+    "answer": "Look after",
+    "answer_vi": "Chăm sóc",
+    "options": [
+      "Look after",
+      "Give up",
+      "Find out",
+      "Run out of"
+    ],
+    "options_en": [
+      "Look after",
+      "Give up",
+      "Find out",
+      "Run out of"
+    ],
+    "options_vi": [
+      "Chăm sóc",
+      "Từ bỏ",
+      "Tìm ra phát hiện",
+      "Hết cạn kiệt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Find out",
+    "subtext": "",
+    "answer": "Find out",
+    "answer_vi": "Tìm ra phát hiện",
+    "options": [
+      "Find out",
+      "Give up",
+      "Look after",
+      "Run out of"
+    ],
+    "options_en": [
+      "Find out",
+      "Give up",
+      "Look after",
+      "Run out of"
+    ],
+    "options_vi": [
+      "Tìm ra phát hiện",
+      "Từ bỏ",
+      "Chăm sóc",
+      "Hết cạn kiệt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Run out of",
+    "subtext": "",
+    "answer": "Run out of",
+    "answer_vi": "Hết cạn kiệt",
+    "options": [
+      "Run out of",
+      "Give up",
+      "Look after",
+      "Find out"
+    ],
+    "options_en": [
+      "Run out of",
+      "Give up",
+      "Look after",
+      "Find out"
+    ],
+    "options_vi": [
+      "Hết cạn kiệt",
+      "Từ bỏ",
+      "Chăm sóc",
+      "Tìm ra phát hiện"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Take off",
+    "subtext": "",
+    "answer": "Take off",
+    "answer_vi": "Cất cánh / Cởi ra",
+    "options": [
+      "Take off",
+      "Give up",
+      "Look after",
+      "Find out"
+    ],
+    "options_en": [
+      "Take off",
+      "Give up",
+      "Look after",
+      "Find out"
+    ],
+    "options_vi": [
+      "Cất cánh / Cởi ra",
+      "Từ bỏ",
+      "Chăm sóc",
+      "Tìm ra phát hiện"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Give up",
+        "english": "Từ bỏ"
+      },
+      {
+        "hindi": "Look after",
+        "english": "Chăm sóc"
+      },
+      {
+        "hindi": "Find out",
+        "english": "Tìm ra phát hiện"
+      },
+      {
+        "hindi": "Run out of",
+        "english": "Hết cạn kiệt"
+      }
+    ]
+  }
+]

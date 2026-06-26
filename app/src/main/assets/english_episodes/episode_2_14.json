@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 44: Local Directions",
+    "description": "Master vocabulary and expressions for Lesson 44: Local Directions.",
+    "keyPoints": [
+      "Learn Go straight ahead and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Go straight ahead",
+    "english": "Go straight ahead",
+    "vietnamese": "Đi thẳng về phía trước",
+    "audio": "Go straight ahead"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Turn left at the corner",
+    "english": "Turn left at the corner",
+    "vietnamese": "Rẽ trái ở góc đường",
+    "audio": "Turn left at the corner"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Opposite the park",
+    "english": "Opposite the park",
+    "vietnamese": "Đối diện công viên",
+    "audio": "Opposite the park"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cross the street",
+    "english": "Cross the street",
+    "vietnamese": "Băng qua đường",
+    "audio": "Cross the street"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Behind the building",
+    "english": "Behind the building",
+    "vietnamese": "Phía sau tòa nhà",
+    "audio": "Behind the building"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Go straight ahead",
+    "subtext": "",
+    "answer": "Go straight ahead",
+    "answer_vi": "Đi thẳng về phía trước",
+    "options": [
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park",
+      "Cross the street"
+    ],
+    "options_en": [
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park",
+      "Cross the street"
+    ],
+    "options_vi": [
+      "Đi thẳng về phía trước",
+      "Rẽ trái ở góc đường",
+      "Đối diện công viên",
+      "Băng qua đường"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Turn left at the corner",
+    "subtext": "",
+    "answer": "Turn left at the corner",
+    "answer_vi": "Rẽ trái ở góc đường",
+    "options": [
+      "Turn left at the corner",
+      "Go straight ahead",
+      "Opposite the park",
+      "Cross the street"
+    ],
+    "options_en": [
+      "Turn left at the corner",
+      "Go straight ahead",
+      "Opposite the park",
+      "Cross the street"
+    ],
+    "options_vi": [
+      "Rẽ trái ở góc đường",
+      "Đi thẳng về phía trước",
+      "Đối diện công viên",
+      "Băng qua đường"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Opposite the park",
+    "subtext": "",
+    "answer": "Opposite the park",
+    "answer_vi": "Đối diện công viên",
+    "options": [
+      "Opposite the park",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Cross the street"
+    ],
+    "options_en": [
+      "Opposite the park",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Cross the street"
+    ],
+    "options_vi": [
+      "Đối diện công viên",
+      "Đi thẳng về phía trước",
+      "Rẽ trái ở góc đường",
+      "Băng qua đường"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Cross the street",
+    "subtext": "",
+    "answer": "Cross the street",
+    "answer_vi": "Băng qua đường",
+    "options": [
+      "Cross the street",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park"
+    ],
+    "options_en": [
+      "Cross the street",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park"
+    ],
+    "options_vi": [
+      "Băng qua đường",
+      "Đi thẳng về phía trước",
+      "Rẽ trái ở góc đường",
+      "Đối diện công viên"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Behind the building",
+    "subtext": "",
+    "answer": "Behind the building",
+    "answer_vi": "Phía sau tòa nhà",
+    "options": [
+      "Behind the building",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park"
+    ],
+    "options_en": [
+      "Behind the building",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park"
+    ],
+    "options_vi": [
+      "Phía sau tòa nhà",
+      "Đi thẳng về phía trước",
+      "Rẽ trái ở góc đường",
+      "Đối diện công viên"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Go straight ahead",
+        "english": "Đi thẳng về phía trước"
+      },
+      {
+        "hindi": "Turn left at the corner",
+        "english": "Rẽ trái ở góc đường"
+      },
+      {
+        "hindi": "Opposite the park",
+        "english": "Đối diện công viên"
+      },
+      {
+        "hindi": "Cross the street",
+        "english": "Băng qua đường"
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 40: Shopping & Prices",
+    "description": "Master vocabulary and expressions for Lesson 40: Shopping & Prices.",
+    "keyPoints": [
+      "Learn Receipt and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Receipt",
+    "english": "Receipt",
+    "vietnamese": "Hóa đơn thanh toán",
+    "audio": "Receipt"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Refund",
+    "english": "Refund",
+    "vietnamese": "Hoàn tiền",
+    "audio": "Refund"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Discount",
+    "english": "Discount",
+    "vietnamese": "Sự giảm giá",
+    "audio": "Discount"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fitting room",
+    "english": "Fitting room",
+    "vietnamese": "Phòng thử đồ",
+    "audio": "Fitting room"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Is it on sale?",
+    "english": "Is it on sale?",
+    "vietnamese": "Cái này có đang giảm giá không?",
+    "audio": "Is it on sale?"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Receipt",
+    "subtext": "",
+    "answer": "Receipt",
+    "answer_vi": "Hóa đơn thanh toán",
+    "options": [
+      "Receipt",
+      "Refund",
+      "Discount",
+      "Fitting room"
+    ],
+    "options_en": [
+      "Receipt",
+      "Refund",
+      "Discount",
+      "Fitting room"
+    ],
+    "options_vi": [
+      "Hóa đơn thanh toán",
+      "Hoàn tiền",
+      "Sự giảm giá",
+      "Phòng thử đồ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Refund",
+    "subtext": "",
+    "answer": "Refund",
+    "answer_vi": "Hoàn tiền",
+    "options": [
+      "Refund",
+      "Receipt",
+      "Discount",
+      "Fitting room"
+    ],
+    "options_en": [
+      "Refund",
+      "Receipt",
+      "Discount",
+      "Fitting room"
+    ],
+    "options_vi": [
+      "Hoàn tiền",
+      "Hóa đơn thanh toán",
+      "Sự giảm giá",
+      "Phòng thử đồ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Discount",
+    "subtext": "",
+    "answer": "Discount",
+    "answer_vi": "Sự giảm giá",
+    "options": [
+      "Discount",
+      "Receipt",
+      "Refund",
+      "Fitting room"
+    ],
+    "options_en": [
+      "Discount",
+      "Receipt",
+      "Refund",
+      "Fitting room"
+    ],
+    "options_vi": [
+      "Sự giảm giá",
+      "Hóa đơn thanh toán",
+      "Hoàn tiền",
+      "Phòng thử đồ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Fitting room",
+    "subtext": "",
+    "answer": "Fitting room",
+    "answer_vi": "Phòng thử đồ",
+    "options": [
+      "Fitting room",
+      "Receipt",
+      "Refund",
+      "Discount"
+    ],
+    "options_en": [
+      "Fitting room",
+      "Receipt",
+      "Refund",
+      "Discount"
+    ],
+    "options_vi": [
+      "Phòng thử đồ",
+      "Hóa đơn thanh toán",
+      "Hoàn tiền",
+      "Sự giảm giá"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Is it on sale?",
+    "subtext": "",
+    "answer": "Is it on sale?",
+    "answer_vi": "Cái này có đang giảm giá không?",
+    "options": [
+      "Is it on sale?",
+      "Receipt",
+      "Refund",
+      "Discount"
+    ],
+    "options_en": [
+      "Is it on sale?",
+      "Receipt",
+      "Refund",
+      "Discount"
+    ],
+    "options_vi": [
+      "Cái này có đang giảm giá không?",
+      "Hóa đơn thanh toán",
+      "Hoàn tiền",
+      "Sự giảm giá"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Receipt",
+        "english": "Hóa đơn thanh toán"
+      },
+      {
+        "hindi": "Refund",
+        "english": "Hoàn tiền"
+      },
+      {
+        "hindi": "Discount",
+        "english": "Sự giảm giá"
+      },
+      {
+        "hindi": "Fitting room",
+        "english": "Phòng thử đồ"
+      }
+    ]
+  }
+]

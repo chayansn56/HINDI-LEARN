@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 51: Ability & Permission",
+    "description": "Master vocabulary and expressions for Lesson 51: Ability & Permission.",
+    "keyPoints": [
+      "Learn I am able to drive and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am able to drive",
+    "english": "I am able to drive",
+    "vietnamese": "Tôi có thể lái xe",
+    "audio": "I am able to drive"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "May I come in?",
+    "english": "May I come in?",
+    "vietnamese": "Tôi xin phép vào được không?",
+    "audio": "May I come in?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Could you help?",
+    "english": "Could you help?",
+    "vietnamese": "Bạn có thể giúp được không?",
+    "audio": "Could you help?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Permission granted",
+    "english": "Permission granted",
+    "vietnamese": "Đã được cho phép",
+    "audio": "Permission granted"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Unable to proceed",
+    "english": "Unable to proceed",
+    "vietnamese": "Không thể tiến hành tiếp",
+    "audio": "Unable to proceed"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I am able to drive",
+    "subtext": "",
+    "answer": "I am able to drive",
+    "answer_vi": "Tôi có thể lái xe",
+    "options": [
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?",
+      "Permission granted"
+    ],
+    "options_en": [
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?",
+      "Permission granted"
+    ],
+    "options_vi": [
+      "Tôi có thể lái xe",
+      "Tôi xin phép vào được không?",
+      "Bạn có thể giúp được không?",
+      "Đã được cho phép"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "May I come in?",
+    "subtext": "",
+    "answer": "May I come in?",
+    "answer_vi": "Tôi xin phép vào được không?",
+    "options": [
+      "May I come in?",
+      "I am able to drive",
+      "Could you help?",
+      "Permission granted"
+    ],
+    "options_en": [
+      "May I come in?",
+      "I am able to drive",
+      "Could you help?",
+      "Permission granted"
+    ],
+    "options_vi": [
+      "Tôi xin phép vào được không?",
+      "Tôi có thể lái xe",
+      "Bạn có thể giúp được không?",
+      "Đã được cho phép"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Could you help?",
+    "subtext": "",
+    "answer": "Could you help?",
+    "answer_vi": "Bạn có thể giúp được không?",
+    "options": [
+      "Could you help?",
+      "I am able to drive",
+      "May I come in?",
+      "Permission granted"
+    ],
+    "options_en": [
+      "Could you help?",
+      "I am able to drive",
+      "May I come in?",
+      "Permission granted"
+    ],
+    "options_vi": [
+      "Bạn có thể giúp được không?",
+      "Tôi có thể lái xe",
+      "Tôi xin phép vào được không?",
+      "Đã được cho phép"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Permission granted",
+    "subtext": "",
+    "answer": "Permission granted",
+    "answer_vi": "Đã được cho phép",
+    "options": [
+      "Permission granted",
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?"
+    ],
+    "options_en": [
+      "Permission granted",
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?"
+    ],
+    "options_vi": [
+      "Đã được cho phép",
+      "Tôi có thể lái xe",
+      "Tôi xin phép vào được không?",
+      "Bạn có thể giúp được không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Unable to proceed",
+    "subtext": "",
+    "answer": "Unable to proceed",
+    "answer_vi": "Không thể tiến hành tiếp",
+    "options": [
+      "Unable to proceed",
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?"
+    ],
+    "options_en": [
+      "Unable to proceed",
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?"
+    ],
+    "options_vi": [
+      "Không thể tiến hành tiếp",
+      "Tôi có thể lái xe",
+      "Tôi xin phép vào được không?",
+      "Bạn có thể giúp được không?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "I am able to drive",
+        "english": "Tôi có thể lái xe"
+      },
+      {
+        "hindi": "May I come in?",
+        "english": "Tôi xin phép vào được không?"
+      },
+      {
+        "hindi": "Could you help?",
+        "english": "Bạn có thể giúp được không?"
+      },
+      {
+        "hindi": "Permission granted",
+        "english": "Đã được cho phép"
+      }
+    ]
+  }
+]

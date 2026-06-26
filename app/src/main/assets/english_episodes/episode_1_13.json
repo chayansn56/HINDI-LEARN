@@ -1,0 +1,283 @@
+[
+  {
+    "id": "n1",
+    "type": "TeachRule",
+    "content": "Use 'will + verb' for future predictions, promises, or spontaneous decisions.\nExample: 'I will go' (Tôi sẽ đi)."
+  },
+  {
+    "id": "n2",
+    "type": "Flashcard",
+    "hindi": "I will go",
+    "english": "Tôi sẽ đi",
+    "audio": "I will go"
+  },
+  {
+    "id": "n3",
+    "type": "Flashcard",
+    "hindi": "She will help",
+    "english": "Cô ấy sẽ giúp",
+    "audio": "She will help"
+  },
+  {
+    "id": "n4",
+    "type": "Flashcard",
+    "hindi": "They will come",
+    "english": "Họ sẽ đến",
+    "audio": "They will come"
+  },
+  {
+    "id": "n5",
+    "type": "MultipleChoice",
+    "hindi": "I will see",
+    "english": "Tôi sẽ thấy",
+    "options": [
+      "Tôi sẽ thấy",
+      "Tôi đã thấy",
+      "Tôi đang thấy"
+    ],
+    "audio": "I will see"
+  },
+  {
+    "id": "n6",
+    "type": "MultipleChoice",
+    "hindi": "We will win",
+    "english": "Chúng tôi sẽ thắng",
+    "options": [
+      "Chúng tôi sẽ thắng",
+      "Họ sẽ thắng",
+      "Tôi sẽ thắng"
+    ],
+    "audio": "We will win"
+  },
+  {
+    "id": "n7",
+    "type": "MatchPairs",
+    "pairs": {
+      "I will go": "Tôi sẽ đi",
+      "She will help": "Cô ấy sẽ giúp",
+      "They will come": "Họ sẽ đến",
+      "He will see": "Anh ấy sẽ thấy"
+    }
+  },
+  {
+    "id": "n8",
+    "type": "TeachRule",
+    "content": "Negative (will not / won't). Example: I won't go (Tôi sẽ không đi)."
+  },
+  {
+    "id": "n9",
+    "type": "Flashcard",
+    "hindi": "I won't forget",
+    "english": "Tôi sẽ không quên",
+    "audio": "I won't forget"
+  },
+  {
+    "id": "n10",
+    "type": "MultipleChoice",
+    "hindi": "She won't come",
+    "english": "Cô ấy sẽ không đến",
+    "options": [
+      "Cô ấy sẽ không đến",
+      "Cô ấy đã không đến",
+      "Cô ấy đang đến"
+    ],
+    "audio": "She won't come"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Excuse me",
+    "english": "Excuse me",
+    "vietnamese": "Xin lỗi cho tôi hỏi",
+    "audio": "Excuse me"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the restroom?",
+    "english": "Where is the restroom?",
+    "vietnamese": "Nhà vệ sinh ở đâu?",
+    "audio": "Where is the restroom?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much does it cost?",
+    "english": "How much does it cost?",
+    "vietnamese": "Cái này giá bao nhiêu?",
+    "audio": "How much does it cost?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Can you help me?",
+    "english": "Can you help me?",
+    "vietnamese": "Bạn có thể giúp tôi không?",
+    "audio": "Can you help me?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't understand",
+    "english": "I don't understand",
+    "vietnamese": "Tôi không hiểu",
+    "audio": "I don't understand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Excuse me",
+    "subtext": "",
+    "answer": "Excuse me",
+    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "options": [
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Where is the restroom?",
+    "subtext": "",
+    "answer": "Where is the restroom?",
+    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "options": [
+      "Where is the restroom?",
+      "Excuse me",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "Where is the restroom?",
+      "Excuse me",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Nhà vệ sinh ở đâu?",
+      "Xin lỗi cho tôi hỏi",
+      "Cái này giá bao nhiêu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "How much does it cost?",
+    "subtext": "",
+    "answer": "How much does it cost?",
+    "answer_vi": "Cái này giá bao nhiêu?",
+    "options": [
+      "How much does it cost?",
+      "Excuse me",
+      "Where is the restroom?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "How much does it cost?",
+      "Excuse me",
+      "Where is the restroom?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Cái này giá bao nhiêu?",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Can you help me?",
+    "subtext": "",
+    "answer": "Can you help me?",
+    "answer_vi": "Bạn có thể giúp tôi không?",
+    "options": [
+      "Can you help me?",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_en": [
+      "Can you help me?",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_vi": [
+      "Bạn có thể giúp tôi không?",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I don't understand",
+    "subtext": "",
+    "answer": "I don't understand",
+    "answer_vi": "Tôi không hiểu",
+    "options": [
+      "I don't understand",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_en": [
+      "I don't understand",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_vi": [
+      "Tôi không hiểu",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Excuse me",
+        "english": "Xin lỗi cho tôi hỏi"
+      },
+      {
+        "hindi": "Where is the restroom?",
+        "english": "Nhà vệ sinh ở đâu?"
+      },
+      {
+        "hindi": "How much does it cost?",
+        "english": "Cái này giá bao nhiêu?"
+      },
+      {
+        "hindi": "Can you help me?",
+        "english": "Bạn có thể giúp tôi không?"
+      }
+    ]
+  }
+]

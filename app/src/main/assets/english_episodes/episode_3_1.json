@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 46: Subjunctive Mood & Hypotheticals",
+    "description": "Master vocabulary and expressions for Lesson 46: Subjunctive Mood & Hypotheticals.",
+    "keyPoints": [
+      "Learn If I were you and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "If I were you",
+    "english": "If I were you",
+    "vietnamese": "Nếu tôi là bạn",
+    "audio": "If I were you"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I wish I could",
+    "english": "I wish I could",
+    "vietnamese": "Tôi ước gì tôi có thể",
+    "audio": "I wish I could"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "As if",
+    "english": "As if",
+    "vietnamese": "Như thể là",
+    "audio": "As if"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Unless you try",
+    "english": "Unless you try",
+    "vietnamese": "Trừ khi bạn thử",
+    "audio": "Unless you try"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "In case it rains",
+    "english": "In case it rains",
+    "vietnamese": "Phòng trường hợp trời mưa",
+    "audio": "In case it rains"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "If I were you",
+    "subtext": "",
+    "answer": "If I were you",
+    "answer_vi": "Nếu tôi là bạn",
+    "options": [
+      "If I were you",
+      "I wish I could",
+      "As if",
+      "Unless you try"
+    ],
+    "options_en": [
+      "If I were you",
+      "I wish I could",
+      "As if",
+      "Unless you try"
+    ],
+    "options_vi": [
+      "Nếu tôi là bạn",
+      "Tôi ước gì tôi có thể",
+      "Như thể là",
+      "Trừ khi bạn thử"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I wish I could",
+    "subtext": "",
+    "answer": "I wish I could",
+    "answer_vi": "Tôi ước gì tôi có thể",
+    "options": [
+      "I wish I could",
+      "If I were you",
+      "As if",
+      "Unless you try"
+    ],
+    "options_en": [
+      "I wish I could",
+      "If I were you",
+      "As if",
+      "Unless you try"
+    ],
+    "options_vi": [
+      "Tôi ước gì tôi có thể",
+      "Nếu tôi là bạn",
+      "Như thể là",
+      "Trừ khi bạn thử"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "As if",
+    "subtext": "",
+    "answer": "As if",
+    "answer_vi": "Như thể là",
+    "options": [
+      "As if",
+      "If I were you",
+      "I wish I could",
+      "Unless you try"
+    ],
+    "options_en": [
+      "As if",
+      "If I were you",
+      "I wish I could",
+      "Unless you try"
+    ],
+    "options_vi": [
+      "Như thể là",
+      "Nếu tôi là bạn",
+      "Tôi ước gì tôi có thể",
+      "Trừ khi bạn thử"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Unless you try",
+    "subtext": "",
+    "answer": "Unless you try",
+    "answer_vi": "Trừ khi bạn thử",
+    "options": [
+      "Unless you try",
+      "If I were you",
+      "I wish I could",
+      "As if"
+    ],
+    "options_en": [
+      "Unless you try",
+      "If I were you",
+      "I wish I could",
+      "As if"
+    ],
+    "options_vi": [
+      "Trừ khi bạn thử",
+      "Nếu tôi là bạn",
+      "Tôi ước gì tôi có thể",
+      "Như thể là"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "In case it rains",
+    "subtext": "",
+    "answer": "In case it rains",
+    "answer_vi": "Phòng trường hợp trời mưa",
+    "options": [
+      "In case it rains",
+      "If I were you",
+      "I wish I could",
+      "As if"
+    ],
+    "options_en": [
+      "In case it rains",
+      "If I were you",
+      "I wish I could",
+      "As if"
+    ],
+    "options_vi": [
+      "Phòng trường hợp trời mưa",
+      "Nếu tôi là bạn",
+      "Tôi ước gì tôi có thể",
+      "Như thể là"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "If I were you",
+        "english": "Nếu tôi là bạn"
+      },
+      {
+        "hindi": "I wish I could",
+        "english": "Tôi ước gì tôi có thể"
+      },
+      {
+        "hindi": "As if",
+        "english": "Như thể là"
+      },
+      {
+        "hindi": "Unless you try",
+        "english": "Trừ khi bạn thử"
+      }
+    ]
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "type": "TeachRules",
+    "title": "Simple Present Tense",
+    "explanation": "We use Simple Present Tense to describe habits, general truths, and unchanging situations."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "I eat",
+        "translation": "Tôi ăn",
+        "audio": "I eat"
+      },
+      {
+        "hindi": "You sleep",
+        "translation": "Bạn ngủ",
+        "audio": "You sleep"
+      },
+      {
+        "hindi": "He works",
+        "translation": "Anh ấy làm việc",
+        "audio": "He works"
+      },
+      {
+        "hindi": "She studies",
+        "translation": "Cô ấy học",
+        "audio": "She studies"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'I eat' in Vietnamese?",
+    "options": [
+      "Tôi ăn",
+      "Bạn ngủ",
+      "Tôi uống",
+      "Anh ấy làm việc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'She studies' in Vietnamese?",
+    "options": [
+      "Cô ấy học",
+      "Anh ấy làm việc",
+      "Tôi ăn",
+      "Bạn ngủ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "He works",
+        "translation": "Anh ấy làm việc"
+      },
+      {
+        "hindi": "She studies",
+        "translation": "Cô ấy học"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "We play",
+        "translation": "Chúng tôi chơi",
+        "audio": "We play"
+      },
+      {
+        "hindi": "They read",
+        "translation": "Họ đọc",
+        "audio": "They read"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'They read' in Vietnamese?",
+    "options": [
+      "Họ đọc",
+      "Chúng tôi chơi",
+      "Tôi ăn",
+      "Bạn ngủ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "I eat",
+        "translation": "Tôi ăn"
+      },
+      {
+        "hindi": "You sleep",
+        "translation": "Bạn ngủ"
+      }
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "We play",
+        "translation": "Chúng tôi chơi"
+      },
+      {
+        "hindi": "They read",
+        "translation": "Họ đọc"
+      }
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Excuse me",
+    "english": "Excuse me",
+    "vietnamese": "Xin lỗi cho tôi hỏi",
+    "audio": "Excuse me"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Where is the restroom?",
+    "english": "Where is the restroom?",
+    "vietnamese": "Nhà vệ sinh ở đâu?",
+    "audio": "Where is the restroom?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How much does it cost?",
+    "english": "How much does it cost?",
+    "vietnamese": "Cái này giá bao nhiêu?",
+    "audio": "How much does it cost?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Can you help me?",
+    "english": "Can you help me?",
+    "vietnamese": "Bạn có thể giúp tôi không?",
+    "audio": "Can you help me?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I don't understand",
+    "english": "I don't understand",
+    "vietnamese": "Tôi không hiểu",
+    "audio": "I don't understand"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Excuse me",
+    "subtext": "",
+    "answer": "Excuse me",
+    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "options": [
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Where is the restroom?",
+    "subtext": "",
+    "answer": "Where is the restroom?",
+    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "options": [
+      "Where is the restroom?",
+      "Excuse me",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "Where is the restroom?",
+      "Excuse me",
+      "How much does it cost?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Nhà vệ sinh ở đâu?",
+      "Xin lỗi cho tôi hỏi",
+      "Cái này giá bao nhiêu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "How much does it cost?",
+    "subtext": "",
+    "answer": "How much does it cost?",
+    "answer_vi": "Cái này giá bao nhiêu?",
+    "options": [
+      "How much does it cost?",
+      "Excuse me",
+      "Where is the restroom?",
+      "Can you help me?"
+    ],
+    "options_en": [
+      "How much does it cost?",
+      "Excuse me",
+      "Where is the restroom?",
+      "Can you help me?"
+    ],
+    "options_vi": [
+      "Cái này giá bao nhiêu?",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Bạn có thể giúp tôi không?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Can you help me?",
+    "subtext": "",
+    "answer": "Can you help me?",
+    "answer_vi": "Bạn có thể giúp tôi không?",
+    "options": [
+      "Can you help me?",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_en": [
+      "Can you help me?",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_vi": [
+      "Bạn có thể giúp tôi không?",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I don't understand",
+    "subtext": "",
+    "answer": "I don't understand",
+    "answer_vi": "Tôi không hiểu",
+    "options": [
+      "I don't understand",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_en": [
+      "I don't understand",
+      "Excuse me",
+      "Where is the restroom?",
+      "How much does it cost?"
+    ],
+    "options_vi": [
+      "Tôi không hiểu",
+      "Xin lỗi cho tôi hỏi",
+      "Nhà vệ sinh ở đâu?",
+      "Cái này giá bao nhiêu?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Excuse me",
+        "english": "Xin lỗi cho tôi hỏi"
+      },
+      {
+        "hindi": "Where is the restroom?",
+        "english": "Nhà vệ sinh ở đâu?"
+      },
+      {
+        "hindi": "How much does it cost?",
+        "english": "Cái này giá bao nhiêu?"
+      },
+      {
+        "hindi": "Can you help me?",
+        "english": "Bạn có thể giúp tôi không?"
+      }
+    ]
+  }
+]

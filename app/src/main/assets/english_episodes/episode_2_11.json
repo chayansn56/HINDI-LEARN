@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 41: Illness & Doctor",
+    "description": "Master vocabulary and expressions for Lesson 41: Illness & Doctor.",
+    "keyPoints": [
+      "Learn Headache and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Headache",
+    "english": "Headache",
+    "vietnamese": "Đau đầu",
+    "audio": "Headache"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Prescription",
+    "english": "Prescription",
+    "vietnamese": "Đơn thuốc bác sĩ",
+    "audio": "Prescription"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sore throat",
+    "english": "Sore throat",
+    "vietnamese": "Đau họng",
+    "audio": "Sore throat"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fever",
+    "english": "Fever",
+    "vietnamese": "Sốt",
+    "audio": "Fever"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Appointment",
+    "english": "Appointment",
+    "vietnamese": "Cuộc hẹn lịch hẹn",
+    "audio": "Appointment"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Headache",
+    "subtext": "",
+    "answer": "Headache",
+    "answer_vi": "Đau đầu",
+    "options": [
+      "Headache",
+      "Prescription",
+      "Sore throat",
+      "Fever"
+    ],
+    "options_en": [
+      "Headache",
+      "Prescription",
+      "Sore throat",
+      "Fever"
+    ],
+    "options_vi": [
+      "Đau đầu",
+      "Đơn thuốc bác sĩ",
+      "Đau họng",
+      "Sốt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Prescription",
+    "subtext": "",
+    "answer": "Prescription",
+    "answer_vi": "Đơn thuốc bác sĩ",
+    "options": [
+      "Prescription",
+      "Headache",
+      "Sore throat",
+      "Fever"
+    ],
+    "options_en": [
+      "Prescription",
+      "Headache",
+      "Sore throat",
+      "Fever"
+    ],
+    "options_vi": [
+      "Đơn thuốc bác sĩ",
+      "Đau đầu",
+      "Đau họng",
+      "Sốt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Sore throat",
+    "subtext": "",
+    "answer": "Sore throat",
+    "answer_vi": "Đau họng",
+    "options": [
+      "Sore throat",
+      "Headache",
+      "Prescription",
+      "Fever"
+    ],
+    "options_en": [
+      "Sore throat",
+      "Headache",
+      "Prescription",
+      "Fever"
+    ],
+    "options_vi": [
+      "Đau họng",
+      "Đau đầu",
+      "Đơn thuốc bác sĩ",
+      "Sốt"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Fever",
+    "subtext": "",
+    "answer": "Fever",
+    "answer_vi": "Sốt",
+    "options": [
+      "Fever",
+      "Headache",
+      "Prescription",
+      "Sore throat"
+    ],
+    "options_en": [
+      "Fever",
+      "Headache",
+      "Prescription",
+      "Sore throat"
+    ],
+    "options_vi": [
+      "Sốt",
+      "Đau đầu",
+      "Đơn thuốc bác sĩ",
+      "Đau họng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Appointment",
+    "subtext": "",
+    "answer": "Appointment",
+    "answer_vi": "Cuộc hẹn lịch hẹn",
+    "options": [
+      "Appointment",
+      "Headache",
+      "Prescription",
+      "Sore throat"
+    ],
+    "options_en": [
+      "Appointment",
+      "Headache",
+      "Prescription",
+      "Sore throat"
+    ],
+    "options_vi": [
+      "Cuộc hẹn lịch hẹn",
+      "Đau đầu",
+      "Đơn thuốc bác sĩ",
+      "Đau họng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Headache",
+        "english": "Đau đầu"
+      },
+      {
+        "hindi": "Prescription",
+        "english": "Đơn thuốc bác sĩ"
+      },
+      {
+        "hindi": "Sore throat",
+        "english": "Đau họng"
+      },
+      {
+        "hindi": "Fever",
+        "english": "Sốt"
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 43: Emergency",
+    "description": "Master vocabulary and expressions for Lesson 43: Emergency.",
+    "keyPoints": [
+      "Learn Help me! and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Help me!",
+    "english": "Help me!",
+    "vietnamese": "Giúp tôi với!",
+    "audio": "Help me!"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Emergency exit",
+    "english": "Emergency exit",
+    "vietnamese": "Lối thoát hiểm khẩn cấp",
+    "audio": "Emergency exit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Call the police",
+    "english": "Call the police",
+    "vietnamese": "Gọi cảnh sát",
+    "audio": "Call the police"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I lost my passport",
+    "english": "I lost my passport",
+    "vietnamese": "Tôi bị mất hộ chiếu",
+    "audio": "I lost my passport"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ambulance",
+    "english": "Ambulance",
+    "vietnamese": "Xe cứu thương",
+    "audio": "Ambulance"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Help me!",
+    "subtext": "",
+    "answer": "Help me!",
+    "answer_vi": "Giúp tôi với!",
+    "options": [
+      "Help me!",
+      "Emergency exit",
+      "Call the police",
+      "I lost my passport"
+    ],
+    "options_en": [
+      "Help me!",
+      "Emergency exit",
+      "Call the police",
+      "I lost my passport"
+    ],
+    "options_vi": [
+      "Giúp tôi với!",
+      "Lối thoát hiểm khẩn cấp",
+      "Gọi cảnh sát",
+      "Tôi bị mất hộ chiếu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Emergency exit",
+    "subtext": "",
+    "answer": "Emergency exit",
+    "answer_vi": "Lối thoát hiểm khẩn cấp",
+    "options": [
+      "Emergency exit",
+      "Help me!",
+      "Call the police",
+      "I lost my passport"
+    ],
+    "options_en": [
+      "Emergency exit",
+      "Help me!",
+      "Call the police",
+      "I lost my passport"
+    ],
+    "options_vi": [
+      "Lối thoát hiểm khẩn cấp",
+      "Giúp tôi với!",
+      "Gọi cảnh sát",
+      "Tôi bị mất hộ chiếu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Call the police",
+    "subtext": "",
+    "answer": "Call the police",
+    "answer_vi": "Gọi cảnh sát",
+    "options": [
+      "Call the police",
+      "Help me!",
+      "Emergency exit",
+      "I lost my passport"
+    ],
+    "options_en": [
+      "Call the police",
+      "Help me!",
+      "Emergency exit",
+      "I lost my passport"
+    ],
+    "options_vi": [
+      "Gọi cảnh sát",
+      "Giúp tôi với!",
+      "Lối thoát hiểm khẩn cấp",
+      "Tôi bị mất hộ chiếu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I lost my passport",
+    "subtext": "",
+    "answer": "I lost my passport",
+    "answer_vi": "Tôi bị mất hộ chiếu",
+    "options": [
+      "I lost my passport",
+      "Help me!",
+      "Emergency exit",
+      "Call the police"
+    ],
+    "options_en": [
+      "I lost my passport",
+      "Help me!",
+      "Emergency exit",
+      "Call the police"
+    ],
+    "options_vi": [
+      "Tôi bị mất hộ chiếu",
+      "Giúp tôi với!",
+      "Lối thoát hiểm khẩn cấp",
+      "Gọi cảnh sát"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Ambulance",
+    "subtext": "",
+    "answer": "Ambulance",
+    "answer_vi": "Xe cứu thương",
+    "options": [
+      "Ambulance",
+      "Help me!",
+      "Emergency exit",
+      "Call the police"
+    ],
+    "options_en": [
+      "Ambulance",
+      "Help me!",
+      "Emergency exit",
+      "Call the police"
+    ],
+    "options_vi": [
+      "Xe cứu thương",
+      "Giúp tôi với!",
+      "Lối thoát hiểm khẩn cấp",
+      "Gọi cảnh sát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Help me!",
+        "english": "Giúp tôi với!"
+      },
+      {
+        "hindi": "Emergency exit",
+        "english": "Lối thoát hiểm khẩn cấp"
+      },
+      {
+        "hindi": "Call the police",
+        "english": "Gọi cảnh sát"
+      },
+      {
+        "hindi": "I lost my passport",
+        "english": "Tôi bị mất hộ chiếu"
+      }
+    ]
+  }
+]

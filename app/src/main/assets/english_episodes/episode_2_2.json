@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 32: Social Small Talk & Hobbies",
+    "description": "Master vocabulary and expressions for Lesson 32: Social Small Talk & Hobbies.",
+    "keyPoints": [
+      "Learn Interest and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Interest",
+    "english": "Interest",
+    "vietnamese": "Sở thích / Mối quan tâm",
+    "audio": "Interest"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hobby",
+    "english": "Hobby",
+    "vietnamese": "Thói quen sở thích",
+    "audio": "Hobby"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Favorite movie",
+    "english": "Favorite movie",
+    "vietnamese": "Bộ phim yêu thích",
+    "audio": "Favorite movie"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Listening to music",
+    "english": "Listening to music",
+    "vietnamese": "Nghe nhạc",
+    "audio": "Listening to music"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Playing sports",
+    "english": "Playing sports",
+    "vietnamese": "Chơi thể thao",
+    "audio": "Playing sports"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Interest",
+    "subtext": "",
+    "answer": "Interest",
+    "answer_vi": "Sở thích / Mối quan tâm",
+    "options": [
+      "Interest",
+      "Hobby",
+      "Favorite movie",
+      "Listening to music"
+    ],
+    "options_en": [
+      "Interest",
+      "Hobby",
+      "Favorite movie",
+      "Listening to music"
+    ],
+    "options_vi": [
+      "Sở thích / Mối quan tâm",
+      "Thói quen sở thích",
+      "Bộ phim yêu thích",
+      "Nghe nhạc"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Hobby",
+    "subtext": "",
+    "answer": "Hobby",
+    "answer_vi": "Thói quen sở thích",
+    "options": [
+      "Hobby",
+      "Interest",
+      "Favorite movie",
+      "Listening to music"
+    ],
+    "options_en": [
+      "Hobby",
+      "Interest",
+      "Favorite movie",
+      "Listening to music"
+    ],
+    "options_vi": [
+      "Thói quen sở thích",
+      "Sở thích / Mối quan tâm",
+      "Bộ phim yêu thích",
+      "Nghe nhạc"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Favorite movie",
+    "subtext": "",
+    "answer": "Favorite movie",
+    "answer_vi": "Bộ phim yêu thích",
+    "options": [
+      "Favorite movie",
+      "Interest",
+      "Hobby",
+      "Listening to music"
+    ],
+    "options_en": [
+      "Favorite movie",
+      "Interest",
+      "Hobby",
+      "Listening to music"
+    ],
+    "options_vi": [
+      "Bộ phim yêu thích",
+      "Sở thích / Mối quan tâm",
+      "Thói quen sở thích",
+      "Nghe nhạc"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Listening to music",
+    "subtext": "",
+    "answer": "Listening to music",
+    "answer_vi": "Nghe nhạc",
+    "options": [
+      "Listening to music",
+      "Interest",
+      "Hobby",
+      "Favorite movie"
+    ],
+    "options_en": [
+      "Listening to music",
+      "Interest",
+      "Hobby",
+      "Favorite movie"
+    ],
+    "options_vi": [
+      "Nghe nhạc",
+      "Sở thích / Mối quan tâm",
+      "Thói quen sở thích",
+      "Bộ phim yêu thích"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Playing sports",
+    "subtext": "",
+    "answer": "Playing sports",
+    "answer_vi": "Chơi thể thao",
+    "options": [
+      "Playing sports",
+      "Interest",
+      "Hobby",
+      "Favorite movie"
+    ],
+    "options_en": [
+      "Playing sports",
+      "Interest",
+      "Hobby",
+      "Favorite movie"
+    ],
+    "options_vi": [
+      "Chơi thể thao",
+      "Sở thích / Mối quan tâm",
+      "Thói quen sở thích",
+      "Bộ phim yêu thích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Interest",
+        "english": "Sở thích / Mối quan tâm"
+      },
+      {
+        "hindi": "Hobby",
+        "english": "Thói quen sở thích"
+      },
+      {
+        "hindi": "Favorite movie",
+        "english": "Bộ phim yêu thích"
+      },
+      {
+        "hindi": "Listening to music",
+        "english": "Nghe nhạc"
+      }
+    ]
+  }
+]

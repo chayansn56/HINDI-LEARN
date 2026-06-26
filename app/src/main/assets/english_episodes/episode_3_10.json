@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 55: Formal Emails & Writing",
+    "description": "Master vocabulary and expressions for Lesson 55: Formal Emails & Writing.",
+    "keyPoints": [
+      "Learn Dear Sir or Madam and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dear Sir or Madam",
+    "english": "Dear Sir or Madam",
+    "vietnamese": "Kính gửi Ông hoặc Bà",
+    "audio": "Dear Sir or Madam"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Best regards",
+    "english": "Best regards",
+    "vietnamese": "Trân trọng kính thư",
+    "audio": "Best regards"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am writing to inquire",
+    "english": "I am writing to inquire",
+    "vietnamese": "Tôi viết thư này để hỏi về",
+    "audio": "I am writing to inquire"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Attached document",
+    "english": "Attached document",
+    "vietnamese": "Tài liệu đính kèm",
+    "audio": "Attached document"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sincerely yours",
+    "english": "Sincerely yours",
+    "vietnamese": "Chân thành kính thư",
+    "audio": "Sincerely yours"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Dear Sir or Madam",
+    "subtext": "",
+    "answer": "Dear Sir or Madam",
+    "answer_vi": "Kính gửi Ông hoặc Bà",
+    "options": [
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire",
+      "Attached document"
+    ],
+    "options_en": [
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire",
+      "Attached document"
+    ],
+    "options_vi": [
+      "Kính gửi Ông hoặc Bà",
+      "Trân trọng kính thư",
+      "Tôi viết thư này để hỏi về",
+      "Tài liệu đính kèm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Best regards",
+    "subtext": "",
+    "answer": "Best regards",
+    "answer_vi": "Trân trọng kính thư",
+    "options": [
+      "Best regards",
+      "Dear Sir or Madam",
+      "I am writing to inquire",
+      "Attached document"
+    ],
+    "options_en": [
+      "Best regards",
+      "Dear Sir or Madam",
+      "I am writing to inquire",
+      "Attached document"
+    ],
+    "options_vi": [
+      "Trân trọng kính thư",
+      "Kính gửi Ông hoặc Bà",
+      "Tôi viết thư này để hỏi về",
+      "Tài liệu đính kèm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "I am writing to inquire",
+    "subtext": "",
+    "answer": "I am writing to inquire",
+    "answer_vi": "Tôi viết thư này để hỏi về",
+    "options": [
+      "I am writing to inquire",
+      "Dear Sir or Madam",
+      "Best regards",
+      "Attached document"
+    ],
+    "options_en": [
+      "I am writing to inquire",
+      "Dear Sir or Madam",
+      "Best regards",
+      "Attached document"
+    ],
+    "options_vi": [
+      "Tôi viết thư này để hỏi về",
+      "Kính gửi Ông hoặc Bà",
+      "Trân trọng kính thư",
+      "Tài liệu đính kèm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Attached document",
+    "subtext": "",
+    "answer": "Attached document",
+    "answer_vi": "Tài liệu đính kèm",
+    "options": [
+      "Attached document",
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire"
+    ],
+    "options_en": [
+      "Attached document",
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire"
+    ],
+    "options_vi": [
+      "Tài liệu đính kèm",
+      "Kính gửi Ông hoặc Bà",
+      "Trân trọng kính thư",
+      "Tôi viết thư này để hỏi về"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Sincerely yours",
+    "subtext": "",
+    "answer": "Sincerely yours",
+    "answer_vi": "Chân thành kính thư",
+    "options": [
+      "Sincerely yours",
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire"
+    ],
+    "options_en": [
+      "Sincerely yours",
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire"
+    ],
+    "options_vi": [
+      "Chân thành kính thư",
+      "Kính gửi Ông hoặc Bà",
+      "Trân trọng kính thư",
+      "Tôi viết thư này để hỏi về"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Dear Sir or Madam",
+        "english": "Kính gửi Ông hoặc Bà"
+      },
+      {
+        "hindi": "Best regards",
+        "english": "Trân trọng kính thư"
+      },
+      {
+        "hindi": "I am writing to inquire",
+        "english": "Tôi viết thư này để hỏi về"
+      },
+      {
+        "hindi": "Attached document",
+        "english": "Tài liệu đính kèm"
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 42: Time & Meetings",
+    "description": "Master vocabulary and expressions for Lesson 42: Time & Meetings.",
+    "keyPoints": [
+      "Learn Schedule and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Schedule",
+    "english": "Schedule",
+    "vietnamese": "Lịch trình biểu",
+    "audio": "Schedule"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Meeting agenda",
+    "english": "Meeting agenda",
+    "vietnamese": "Chương trình họp",
+    "audio": "Meeting agenda"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Quarter past",
+    "english": "Quarter past",
+    "vietnamese": "Hơn mười lăm phút",
+    "audio": "Quarter past"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Half past",
+    "english": "Half past",
+    "vietnamese": "Rưỡi / Ba mươi phút",
+    "audio": "Half past"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Postpone",
+    "english": "Postpone",
+    "vietnamese": "Trì hoãn lịch",
+    "audio": "Postpone"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Schedule",
+    "subtext": "",
+    "answer": "Schedule",
+    "answer_vi": "Lịch trình biểu",
+    "options": [
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past",
+      "Half past"
+    ],
+    "options_en": [
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past",
+      "Half past"
+    ],
+    "options_vi": [
+      "Lịch trình biểu",
+      "Chương trình họp",
+      "Hơn mười lăm phút",
+      "Rưỡi / Ba mươi phút"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Meeting agenda",
+    "subtext": "",
+    "answer": "Meeting agenda",
+    "answer_vi": "Chương trình họp",
+    "options": [
+      "Meeting agenda",
+      "Schedule",
+      "Quarter past",
+      "Half past"
+    ],
+    "options_en": [
+      "Meeting agenda",
+      "Schedule",
+      "Quarter past",
+      "Half past"
+    ],
+    "options_vi": [
+      "Chương trình họp",
+      "Lịch trình biểu",
+      "Hơn mười lăm phút",
+      "Rưỡi / Ba mươi phút"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Quarter past",
+    "subtext": "",
+    "answer": "Quarter past",
+    "answer_vi": "Hơn mười lăm phút",
+    "options": [
+      "Quarter past",
+      "Schedule",
+      "Meeting agenda",
+      "Half past"
+    ],
+    "options_en": [
+      "Quarter past",
+      "Schedule",
+      "Meeting agenda",
+      "Half past"
+    ],
+    "options_vi": [
+      "Hơn mười lăm phút",
+      "Lịch trình biểu",
+      "Chương trình họp",
+      "Rưỡi / Ba mươi phút"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Half past",
+    "subtext": "",
+    "answer": "Half past",
+    "answer_vi": "Rưỡi / Ba mươi phút",
+    "options": [
+      "Half past",
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past"
+    ],
+    "options_en": [
+      "Half past",
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past"
+    ],
+    "options_vi": [
+      "Rưỡi / Ba mươi phút",
+      "Lịch trình biểu",
+      "Chương trình họp",
+      "Hơn mười lăm phút"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Postpone",
+    "subtext": "",
+    "answer": "Postpone",
+    "answer_vi": "Trì hoãn lịch",
+    "options": [
+      "Postpone",
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past"
+    ],
+    "options_en": [
+      "Postpone",
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past"
+    ],
+    "options_vi": [
+      "Trì hoãn lịch",
+      "Lịch trình biểu",
+      "Chương trình họp",
+      "Hơn mười lăm phút"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Schedule",
+        "english": "Lịch trình biểu"
+      },
+      {
+        "hindi": "Meeting agenda",
+        "english": "Chương trình họp"
+      },
+      {
+        "hindi": "Quarter past",
+        "english": "Hơn mười lăm phút"
+      },
+      {
+        "hindi": "Half past",
+        "english": "Rưỡi / Ba mươi phút"
+      }
+    ]
+  }
+]

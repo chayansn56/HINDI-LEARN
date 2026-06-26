@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 37: At the Airport",
+    "description": "Master vocabulary and expressions for Lesson 37: At the Airport.",
+    "keyPoints": [
+      "Learn Boarding pass and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Boarding pass",
+    "english": "Boarding pass",
+    "vietnamese": "Thẻ lên máy bay",
+    "audio": "Boarding pass"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Luggage / Baggage",
+    "english": "Luggage / Baggage",
+    "vietnamese": "Hành lý",
+    "audio": "Luggage / Baggage"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Security check",
+    "english": "Security check",
+    "vietnamese": "Kiểm tra an ninh",
+    "audio": "Security check"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Gate number",
+    "english": "Gate number",
+    "vietnamese": "Số cổng lên tàu",
+    "audio": "Gate number"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Passport control",
+    "english": "Passport control",
+    "vietnamese": "Kiểm soát hộ chiếu",
+    "audio": "Passport control"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Boarding pass",
+    "subtext": "",
+    "answer": "Boarding pass",
+    "answer_vi": "Thẻ lên máy bay",
+    "options": [
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Security check",
+      "Gate number"
+    ],
+    "options_en": [
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Security check",
+      "Gate number"
+    ],
+    "options_vi": [
+      "Thẻ lên máy bay",
+      "Hành lý",
+      "Kiểm tra an ninh",
+      "Số cổng lên tàu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Luggage / Baggage",
+    "subtext": "",
+    "answer": "Luggage / Baggage",
+    "answer_vi": "Hành lý",
+    "options": [
+      "Luggage / Baggage",
+      "Boarding pass",
+      "Security check",
+      "Gate number"
+    ],
+    "options_en": [
+      "Luggage / Baggage",
+      "Boarding pass",
+      "Security check",
+      "Gate number"
+    ],
+    "options_vi": [
+      "Hành lý",
+      "Thẻ lên máy bay",
+      "Kiểm tra an ninh",
+      "Số cổng lên tàu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Security check",
+    "subtext": "",
+    "answer": "Security check",
+    "answer_vi": "Kiểm tra an ninh",
+    "options": [
+      "Security check",
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Gate number"
+    ],
+    "options_en": [
+      "Security check",
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Gate number"
+    ],
+    "options_vi": [
+      "Kiểm tra an ninh",
+      "Thẻ lên máy bay",
+      "Hành lý",
+      "Số cổng lên tàu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Gate number",
+    "subtext": "",
+    "answer": "Gate number",
+    "answer_vi": "Số cổng lên tàu",
+    "options": [
+      "Gate number",
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Security check"
+    ],
+    "options_en": [
+      "Gate number",
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Security check"
+    ],
+    "options_vi": [
+      "Số cổng lên tàu",
+      "Thẻ lên máy bay",
+      "Hành lý",
+      "Kiểm tra an ninh"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Passport control",
+    "subtext": "",
+    "answer": "Passport control",
+    "answer_vi": "Kiểm soát hộ chiếu",
+    "options": [
+      "Passport control",
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Security check"
+    ],
+    "options_en": [
+      "Passport control",
+      "Boarding pass",
+      "Luggage / Baggage",
+      "Security check"
+    ],
+    "options_vi": [
+      "Kiểm soát hộ chiếu",
+      "Thẻ lên máy bay",
+      "Hành lý",
+      "Kiểm tra an ninh"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Boarding pass",
+        "english": "Thẻ lên máy bay"
+      },
+      {
+        "hindi": "Luggage / Baggage",
+        "english": "Hành lý"
+      },
+      {
+        "hindi": "Security check",
+        "english": "Kiểm tra an ninh"
+      },
+      {
+        "hindi": "Gate number",
+        "english": "Số cổng lên tàu"
+      }
+    ]
+  }
+]

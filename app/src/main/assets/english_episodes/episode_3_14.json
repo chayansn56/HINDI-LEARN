@@ -1,0 +1,207 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 59: Media & Current Affairs",
+    "description": "Master vocabulary and expressions for Lesson 59: Media & Current Affairs.",
+    "keyPoints": [
+      "Learn Breaking news and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Breaking news",
+    "english": "Breaking news",
+    "vietnamese": "Tin nóng hổi",
+    "audio": "Breaking news"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Journalism",
+    "english": "Journalism",
+    "vietnamese": "Ngành báo chí phóng viên",
+    "audio": "Journalism"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Broadcast",
+    "english": "Broadcast",
+    "vietnamese": "Phát sóng chương trình",
+    "audio": "Broadcast"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Editorial article",
+    "english": "Editorial article",
+    "vietnamese": "Bài viết xã luận",
+    "audio": "Editorial article"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Social media buzz",
+    "english": "Social media buzz",
+    "vietnamese": "Sự xôn xao trên mạng xã hội",
+    "audio": "Social media buzz"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Breaking news",
+    "subtext": "",
+    "answer": "Breaking news",
+    "answer_vi": "Tin nóng hổi",
+    "options": [
+      "Breaking news",
+      "Journalism",
+      "Broadcast",
+      "Editorial article"
+    ],
+    "options_en": [
+      "Breaking news",
+      "Journalism",
+      "Broadcast",
+      "Editorial article"
+    ],
+    "options_vi": [
+      "Tin nóng hổi",
+      "Ngành báo chí phóng viên",
+      "Phát sóng chương trình",
+      "Bài viết xã luận"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Journalism",
+    "subtext": "",
+    "answer": "Journalism",
+    "answer_vi": "Ngành báo chí phóng viên",
+    "options": [
+      "Journalism",
+      "Breaking news",
+      "Broadcast",
+      "Editorial article"
+    ],
+    "options_en": [
+      "Journalism",
+      "Breaking news",
+      "Broadcast",
+      "Editorial article"
+    ],
+    "options_vi": [
+      "Ngành báo chí phóng viên",
+      "Tin nóng hổi",
+      "Phát sóng chương trình",
+      "Bài viết xã luận"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Broadcast",
+    "subtext": "",
+    "answer": "Broadcast",
+    "answer_vi": "Phát sóng chương trình",
+    "options": [
+      "Broadcast",
+      "Breaking news",
+      "Journalism",
+      "Editorial article"
+    ],
+    "options_en": [
+      "Broadcast",
+      "Breaking news",
+      "Journalism",
+      "Editorial article"
+    ],
+    "options_vi": [
+      "Phát sóng chương trình",
+      "Tin nóng hổi",
+      "Ngành báo chí phóng viên",
+      "Bài viết xã luận"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Editorial article",
+    "subtext": "",
+    "answer": "Editorial article",
+    "answer_vi": "Bài viết xã luận",
+    "options": [
+      "Editorial article",
+      "Breaking news",
+      "Journalism",
+      "Broadcast"
+    ],
+    "options_en": [
+      "Editorial article",
+      "Breaking news",
+      "Journalism",
+      "Broadcast"
+    ],
+    "options_vi": [
+      "Bài viết xã luận",
+      "Tin nóng hổi",
+      "Ngành báo chí phóng viên",
+      "Phát sóng chương trình"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Social media buzz",
+    "subtext": "",
+    "answer": "Social media buzz",
+    "answer_vi": "Sự xôn xao trên mạng xã hội",
+    "options": [
+      "Social media buzz",
+      "Breaking news",
+      "Journalism",
+      "Broadcast"
+    ],
+    "options_en": [
+      "Social media buzz",
+      "Breaking news",
+      "Journalism",
+      "Broadcast"
+    ],
+    "options_vi": [
+      "Sự xôn xao trên mạng xã hội",
+      "Tin nóng hổi",
+      "Ngành báo chí phóng viên",
+      "Phát sóng chương trình"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Breaking news",
+        "english": "Tin nóng hổi"
+      },
+      {
+        "hindi": "Journalism",
+        "english": "Ngành báo chí phóng viên"
+      },
+      {
+        "hindi": "Broadcast",
+        "english": "Phát sóng chương trình"
+      },
+      {
+        "hindi": "Editorial article",
+        "english": "Bài viết xã luận"
+      }
+    ]
+  }
+]
