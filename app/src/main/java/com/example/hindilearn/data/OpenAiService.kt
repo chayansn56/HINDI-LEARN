@@ -30,7 +30,7 @@ object OpenAiService {
     ): String? = withContext(Dispatchers.IO) {
         try {
             val requestBody = JSONObject()
-            requestBody.put("model", "llama3-8b-8192")
+            requestBody.put("model", "llama-3.1-8b-instant")
             requestBody.put("temperature", 0.7)
 
             val messagesArray = JSONArray()
@@ -78,7 +78,7 @@ object OpenAiService {
     suspend fun gradePronunciation(targetSentence: String, userSpokenText: String): Pair<String, String>? = withContext(Dispatchers.IO) {
         try {
             val requestBody = JSONObject()
-            requestBody.put("model", "llama3-8b-8192")
+            requestBody.put("model", "llama-3.1-8b-instant")
             requestBody.put("temperature", 0.3)
             requestBody.put("response_format", JSONObject().put("type", "json_object"))
             
