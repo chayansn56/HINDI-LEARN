@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 48: Compound Verbs",
+    "description": "Master vocabulary and expressions for Lesson 48: Compound Verbs.",
+    "keyPoints": [
+      "Learn देना and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "देना",
+    "transliteration": "dena",
+    "english": "To give (aux: complete for other)",
+    "vietnamese": "Cho (hoàn thành)",
+    "audio": "देना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेना",
+    "transliteration": "lena",
+    "english": "To take (aux: complete for self)",
+    "vietnamese": "Nhận (hoàn thành)",
+    "audio": "लेना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "जाना",
+    "transliteration": "jaana",
+    "english": "To go (aux: change of state)",
+    "vietnamese": "Đi (thay đổi trạng thái)",
+    "audio": "जाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पड़ना",
+    "transliteration": "padna",
+    "english": "To fall (aux: sudden action)",
+    "vietnamese": "Đột ngột xảy ra",
+    "audio": "पड़ना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "डालना",
+    "transliteration": "dalna",
+    "english": "To throw (aux: forcefulness)",
+    "vietnamese": "Ném (mạnh mẽ)",
+    "audio": "डालना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "देना",
+    "text": "देना",
+    "subtext": "",
+    "answer": "To give (aux: complete for other)",
+    "answer_vi": "Cho (hoàn thành)",
+    "options": [
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To go (aux: change of state)",
+      "To fall (aux: sudden action)"
+    ],
+    "options_en": [
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To go (aux: change of state)",
+      "To fall (aux: sudden action)"
+    ],
+    "options_vi": [
+      "Cho (hoàn thành)",
+      "Nhận (hoàn thành)",
+      "Đi (thay đổi trạng thái)",
+      "Đột ngột xảy ra"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "लेना",
+    "text": "लेना",
+    "subtext": "",
+    "answer": "To take (aux: complete for self)",
+    "answer_vi": "Nhận (hoàn thành)",
+    "options": [
+      "To take (aux: complete for self)",
+      "To give (aux: complete for other)",
+      "To go (aux: change of state)",
+      "To fall (aux: sudden action)"
+    ],
+    "options_en": [
+      "To take (aux: complete for self)",
+      "To give (aux: complete for other)",
+      "To go (aux: change of state)",
+      "To fall (aux: sudden action)"
+    ],
+    "options_vi": [
+      "Nhận (hoàn thành)",
+      "Cho (hoàn thành)",
+      "Đi (thay đổi trạng thái)",
+      "Đột ngột xảy ra"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "जाना",
+    "text": "जाना",
+    "subtext": "",
+    "answer": "To go (aux: change of state)",
+    "answer_vi": "Đi (thay đổi trạng thái)",
+    "options": [
+      "To go (aux: change of state)",
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To fall (aux: sudden action)"
+    ],
+    "options_en": [
+      "To go (aux: change of state)",
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To fall (aux: sudden action)"
+    ],
+    "options_vi": [
+      "Đi (thay đổi trạng thái)",
+      "Cho (hoàn thành)",
+      "Nhận (hoàn thành)",
+      "Đột ngột xảy ra"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पड़ना",
+    "text": "पड़ना",
+    "subtext": "",
+    "answer": "To fall (aux: sudden action)",
+    "answer_vi": "Đột ngột xảy ra",
+    "options": [
+      "To fall (aux: sudden action)",
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To go (aux: change of state)"
+    ],
+    "options_en": [
+      "To fall (aux: sudden action)",
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To go (aux: change of state)"
+    ],
+    "options_vi": [
+      "Đột ngột xảy ra",
+      "Cho (hoàn thành)",
+      "Nhận (hoàn thành)",
+      "Đi (thay đổi trạng thái)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "डालना",
+    "text": "डालना",
+    "subtext": "",
+    "answer": "To throw (aux: forcefulness)",
+    "answer_vi": "Ném (mạnh mẽ)",
+    "options": [
+      "To throw (aux: forcefulness)",
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To go (aux: change of state)"
+    ],
+    "options_en": [
+      "To throw (aux: forcefulness)",
+      "To give (aux: complete for other)",
+      "To take (aux: complete for self)",
+      "To go (aux: change of state)"
+    ],
+    "options_vi": [
+      "Ném (mạnh mẽ)",
+      "Cho (hoàn thành)",
+      "Nhận (hoàn thành)",
+      "Đi (thay đổi trạng thái)"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I ate the food (completely).",
+    "hindiWords": [
+      "मैंने",
+      "खाना",
+      "खा",
+      "लिया"
+    ],
+    "correctHindiSentence": "मैंने खाना खा लिया"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "देना",
+        "english": "To give (aux: complete for other)"
+      },
+      {
+        "hindi": "लेना",
+        "english": "To take (aux: complete for self)"
+      },
+      {
+        "hindi": "जाना",
+        "english": "To go (aux: change of state)"
+      },
+      {
+        "hindi": "पड़ना",
+        "english": "To fall (aux: sudden action)"
+      }
+    ]
+  }
+]

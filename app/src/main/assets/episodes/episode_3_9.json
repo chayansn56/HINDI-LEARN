@@ -1,0 +1,227 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 54: Office & Professional Register",
+    "description": "Master vocabulary and expressions for Lesson 54: Office & Professional Register.",
+    "keyPoints": [
+      "Learn कार्यालय and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कार्यालय",
+    "transliteration": "karyalay",
+    "english": "Office",
+    "vietnamese": "Văn phòng",
+    "audio": "कार्यालय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बैठक",
+    "transliteration": "baithak",
+    "english": "Meeting",
+    "vietnamese": "Cuộc họp",
+    "audio": "बैठक"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दस्तावेज़",
+    "transliteration": "dastavez",
+    "english": "Document",
+    "vietnamese": "Tài liệu",
+    "audio": "दस्तावेज़"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "व्यापार",
+    "transliteration": "vyapar",
+    "english": "Business / Trade",
+    "vietnamese": "Kinh doanh / Thương mại",
+    "audio": "व्यापार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अधिकारी",
+    "transliteration": "adhikari",
+    "english": "Officer / Official",
+    "vietnamese": "Cán bộ / Viên chức",
+    "audio": "अधिकारी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "कार्यालय",
+    "text": "कार्यालय",
+    "subtext": "",
+    "answer": "Office",
+    "answer_vi": "Văn phòng",
+    "options": [
+      "Office",
+      "Meeting",
+      "Document",
+      "Business / Trade"
+    ],
+    "options_en": [
+      "Office",
+      "Meeting",
+      "Document",
+      "Business / Trade"
+    ],
+    "options_vi": [
+      "Văn phòng",
+      "Cuộc họp",
+      "Tài liệu",
+      "Kinh doanh / Thương mại"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बैठक",
+    "text": "बैठक",
+    "subtext": "",
+    "answer": "Meeting",
+    "answer_vi": "Cuộc họp",
+    "options": [
+      "Meeting",
+      "Office",
+      "Document",
+      "Business / Trade"
+    ],
+    "options_en": [
+      "Meeting",
+      "Office",
+      "Document",
+      "Business / Trade"
+    ],
+    "options_vi": [
+      "Cuộc họp",
+      "Văn phòng",
+      "Tài liệu",
+      "Kinh doanh / Thương mại"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दस्तावेज़",
+    "text": "दस्तावेज़",
+    "subtext": "",
+    "answer": "Document",
+    "answer_vi": "Tài liệu",
+    "options": [
+      "Document",
+      "Office",
+      "Meeting",
+      "Business / Trade"
+    ],
+    "options_en": [
+      "Document",
+      "Office",
+      "Meeting",
+      "Business / Trade"
+    ],
+    "options_vi": [
+      "Tài liệu",
+      "Văn phòng",
+      "Cuộc họp",
+      "Kinh doanh / Thương mại"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "व्यापार",
+    "text": "व्यापार",
+    "subtext": "",
+    "answer": "Business / Trade",
+    "answer_vi": "Kinh doanh / Thương mại",
+    "options": [
+      "Business / Trade",
+      "Office",
+      "Meeting",
+      "Document"
+    ],
+    "options_en": [
+      "Business / Trade",
+      "Office",
+      "Meeting",
+      "Document"
+    ],
+    "options_vi": [
+      "Kinh doanh / Thương mại",
+      "Văn phòng",
+      "Cuộc họp",
+      "Tài liệu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "अधिकारी",
+    "text": "अधिकारी",
+    "subtext": "",
+    "answer": "Officer / Official",
+    "answer_vi": "Cán bộ / Viên chức",
+    "options": [
+      "Officer / Official",
+      "Office",
+      "Meeting",
+      "Document"
+    ],
+    "options_en": [
+      "Officer / Official",
+      "Office",
+      "Meeting",
+      "Document"
+    ],
+    "options_vi": [
+      "Cán bộ / Viên chức",
+      "Văn phòng",
+      "Cuộc họp",
+      "Tài liệu"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Show me the document.",
+    "hindiWords": [
+      "दस्तावेज़",
+      "दिखाइए",
+      "मुझे"
+    ],
+    "correctHindiSentence": "मुझे दस्तावेज दिखाइए"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "कार्यालय",
+        "english": "Office"
+      },
+      {
+        "hindi": "बैठक",
+        "english": "Meeting"
+      },
+      {
+        "hindi": "दस्तावेज़",
+        "english": "Document"
+      },
+      {
+        "hindi": "व्यापार",
+        "english": "Business / Trade"
+      }
+    ]
+  }
+]

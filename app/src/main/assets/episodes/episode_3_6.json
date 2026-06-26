@@ -1,0 +1,229 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 51: Ability & Permission",
+    "description": "Master vocabulary and expressions for Lesson 51: Ability & Permission.",
+    "keyPoints": [
+      "Learn सकता है and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सकता है",
+    "transliteration": "sakta hai",
+    "english": "Can / Able to (masc)",
+    "vietnamese": "Có thể (nam)",
+    "audio": "सकता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सकती है",
+    "transliteration": "sakti hai",
+    "english": "Can / Able to (fem)",
+    "vietnamese": "Có thể (nữ)",
+    "audio": "सकती है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पाया",
+    "transliteration": "paya",
+    "english": "Was able to",
+    "vietnamese": "Đã có thể",
+    "audio": "पाया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अनुमति",
+    "transliteration": "anumati",
+    "english": "Permission",
+    "vietnamese": "Sự cho phép",
+    "audio": "अनुमति"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "असमर्थ",
+    "transliteration": "asamarth",
+    "english": "Unable / Incapable",
+    "vietnamese": "Không có khả năng",
+    "audio": "असमर्थ"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सकता है",
+    "text": "सकता है",
+    "subtext": "",
+    "answer": "Can / Able to (masc)",
+    "answer_vi": "Có thể (nam)",
+    "options": [
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Was able to",
+      "Permission"
+    ],
+    "options_en": [
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Was able to",
+      "Permission"
+    ],
+    "options_vi": [
+      "Có thể (nam)",
+      "Có thể (nữ)",
+      "Đã có thể",
+      "Sự cho phép"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सकती है",
+    "text": "सकती है",
+    "subtext": "",
+    "answer": "Can / Able to (fem)",
+    "answer_vi": "Có thể (nữ)",
+    "options": [
+      "Can / Able to (fem)",
+      "Can / Able to (masc)",
+      "Was able to",
+      "Permission"
+    ],
+    "options_en": [
+      "Can / Able to (fem)",
+      "Can / Able to (masc)",
+      "Was able to",
+      "Permission"
+    ],
+    "options_vi": [
+      "Có thể (nữ)",
+      "Có thể (nam)",
+      "Đã có thể",
+      "Sự cho phép"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पाया",
+    "text": "पाया",
+    "subtext": "",
+    "answer": "Was able to",
+    "answer_vi": "Đã có thể",
+    "options": [
+      "Was able to",
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Permission"
+    ],
+    "options_en": [
+      "Was able to",
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Permission"
+    ],
+    "options_vi": [
+      "Đã có thể",
+      "Có thể (nam)",
+      "Có thể (nữ)",
+      "Sự cho phép"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "अनुमति",
+    "text": "अनुमति",
+    "subtext": "",
+    "answer": "Permission",
+    "answer_vi": "Sự cho phép",
+    "options": [
+      "Permission",
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Was able to"
+    ],
+    "options_en": [
+      "Permission",
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Was able to"
+    ],
+    "options_vi": [
+      "Sự cho phép",
+      "Có thể (nam)",
+      "Có thể (nữ)",
+      "Đã có thể"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "असमर्थ",
+    "text": "असमर्थ",
+    "subtext": "",
+    "answer": "Unable / Incapable",
+    "answer_vi": "Không có khả năng",
+    "options": [
+      "Unable / Incapable",
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Was able to"
+    ],
+    "options_en": [
+      "Unable / Incapable",
+      "Can / Able to (masc)",
+      "Can / Able to (fem)",
+      "Was able to"
+    ],
+    "options_vi": [
+      "Không có khả năng",
+      "Có thể (nam)",
+      "Có thể (nữ)",
+      "Đã có thể"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I can speak Hindi.",
+    "hindiWords": [
+      "मैं",
+      "हिंदी",
+      "बोल",
+      "सकता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं हिंदी बोल सकता हूँ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "सकता है",
+        "english": "Can / Able to (masc)"
+      },
+      {
+        "hindi": "सकती है",
+        "english": "Can / Able to (fem)"
+      },
+      {
+        "hindi": "पाया",
+        "english": "Was able to"
+      },
+      {
+        "hindi": "अनुमति",
+        "english": "Permission"
+      }
+    ]
+  }
+]

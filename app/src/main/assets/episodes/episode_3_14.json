@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 59: Media & Current Affairs",
+    "description": "Master vocabulary and expressions for Lesson 59: Media & Current Affairs.",
+    "keyPoints": [
+      "Learn समाचार and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समाचार",
+    "transliteration": "samachar",
+    "english": "News",
+    "vietnamese": "Tin tức",
+    "audio": "समाचार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पत्रिका",
+    "transliteration": "patrika",
+    "english": "Magazine / Journal",
+    "vietnamese": "Tạp chí",
+    "audio": "पत्रिका"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अखबार",
+    "transliteration": "akhbar",
+    "english": "Newspaper",
+    "vietnamese": "Báo giấy",
+    "audio": "अखबार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लेख",
+    "transliteration": "lekh",
+    "english": "Article",
+    "vietnamese": "Bài viết / Bài báo",
+    "audio": "लेख"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चर्चा",
+    "transliteration": "charcha",
+    "english": "Discussion / Buzz",
+    "vietnamese": "Thảo luận",
+    "audio": "चर्चा"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "समाचार",
+    "text": "समाचार",
+    "subtext": "",
+    "answer": "News",
+    "answer_vi": "Tin tức",
+    "options": [
+      "News",
+      "Magazine / Journal",
+      "Newspaper",
+      "Article"
+    ],
+    "options_en": [
+      "News",
+      "Magazine / Journal",
+      "Newspaper",
+      "Article"
+    ],
+    "options_vi": [
+      "Tin tức",
+      "Tạp chí",
+      "Báo giấy",
+      "Bài viết / Bài báo"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पत्रिका",
+    "text": "पत्रिका",
+    "subtext": "",
+    "answer": "Magazine / Journal",
+    "answer_vi": "Tạp chí",
+    "options": [
+      "Magazine / Journal",
+      "News",
+      "Newspaper",
+      "Article"
+    ],
+    "options_en": [
+      "Magazine / Journal",
+      "News",
+      "Newspaper",
+      "Article"
+    ],
+    "options_vi": [
+      "Tạp chí",
+      "Tin tức",
+      "Báo giấy",
+      "Bài viết / Bài báo"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "अखबार",
+    "text": "अखबार",
+    "subtext": "",
+    "answer": "Newspaper",
+    "answer_vi": "Báo giấy",
+    "options": [
+      "Newspaper",
+      "News",
+      "Magazine / Journal",
+      "Article"
+    ],
+    "options_en": [
+      "Newspaper",
+      "News",
+      "Magazine / Journal",
+      "Article"
+    ],
+    "options_vi": [
+      "Báo giấy",
+      "Tin tức",
+      "Tạp chí",
+      "Bài viết / Bài báo"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "लेख",
+    "text": "लेख",
+    "subtext": "",
+    "answer": "Article",
+    "answer_vi": "Bài viết / Bài báo",
+    "options": [
+      "Article",
+      "News",
+      "Magazine / Journal",
+      "Newspaper"
+    ],
+    "options_en": [
+      "Article",
+      "News",
+      "Magazine / Journal",
+      "Newspaper"
+    ],
+    "options_vi": [
+      "Bài viết / Bài báo",
+      "Tin tức",
+      "Tạp chí",
+      "Báo giấy"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चर्चा",
+    "text": "चर्चा",
+    "subtext": "",
+    "answer": "Discussion / Buzz",
+    "answer_vi": "Thảo luận",
+    "options": [
+      "Discussion / Buzz",
+      "News",
+      "Magazine / Journal",
+      "Newspaper"
+    ],
+    "options_en": [
+      "Discussion / Buzz",
+      "News",
+      "Magazine / Journal",
+      "Newspaper"
+    ],
+    "options_vi": [
+      "Thảo luận",
+      "Tin tức",
+      "Tạp chí",
+      "Báo giấy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I read the newspaper today.",
+    "hindiWords": [
+      "मैंने",
+      "आज",
+      "अखबार",
+      "पढ़ा"
+    ],
+    "correctHindiSentence": "मैंने आज अखबार पढ़ा"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "समाचार",
+        "english": "News"
+      },
+      {
+        "hindi": "पत्रिका",
+        "english": "Magazine / Journal"
+      },
+      {
+        "hindi": "अखबार",
+        "english": "Newspaper"
+      },
+      {
+        "hindi": "लेख",
+        "english": "Article"
+      }
+    ]
+  }
+]

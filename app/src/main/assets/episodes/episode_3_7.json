@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 52: Desires & Intentions",
+    "description": "Master vocabulary and expressions for Lesson 52: Desires & Intentions.",
+    "keyPoints": [
+      "Learn चाहना and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाहना",
+    "transliteration": "chahna",
+    "english": "To want",
+    "vietnamese": "Muốn",
+    "audio": "चाहना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इरादा",
+    "transliteration": "iraada",
+    "english": "Intention / Plan",
+    "vietnamese": "Ý định / Kế hoạch",
+    "audio": "इरादा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "इच्छा",
+    "transliteration": "ichha",
+    "english": "Wish / Desire",
+    "vietnamese": "Ước muốn",
+    "audio": "इच्छा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "योजना",
+    "transliteration": "yojana",
+    "english": "Plan / Scheme",
+    "vietnamese": "Kế hoạch",
+    "audio": "योजना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोचना",
+    "transliteration": "sochna",
+    "english": "To think",
+    "vietnamese": "Suy nghĩ",
+    "audio": "सोचना"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चाहना",
+    "text": "चाहना",
+    "subtext": "",
+    "answer": "To want",
+    "answer_vi": "Muốn",
+    "options": [
+      "To want",
+      "Intention / Plan",
+      "Wish / Desire",
+      "Plan / Scheme"
+    ],
+    "options_en": [
+      "To want",
+      "Intention / Plan",
+      "Wish / Desire",
+      "Plan / Scheme"
+    ],
+    "options_vi": [
+      "Muốn",
+      "Ý định / Kế hoạch",
+      "Ước muốn",
+      "Kế hoạch"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "इरादा",
+    "text": "इरादा",
+    "subtext": "",
+    "answer": "Intention / Plan",
+    "answer_vi": "Ý định / Kế hoạch",
+    "options": [
+      "Intention / Plan",
+      "To want",
+      "Wish / Desire",
+      "Plan / Scheme"
+    ],
+    "options_en": [
+      "Intention / Plan",
+      "To want",
+      "Wish / Desire",
+      "Plan / Scheme"
+    ],
+    "options_vi": [
+      "Ý định / Kế hoạch",
+      "Muốn",
+      "Ước muốn",
+      "Kế hoạch"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "इच्छा",
+    "text": "इच्छा",
+    "subtext": "",
+    "answer": "Wish / Desire",
+    "answer_vi": "Ước muốn",
+    "options": [
+      "Wish / Desire",
+      "To want",
+      "Intention / Plan",
+      "Plan / Scheme"
+    ],
+    "options_en": [
+      "Wish / Desire",
+      "To want",
+      "Intention / Plan",
+      "Plan / Scheme"
+    ],
+    "options_vi": [
+      "Ước muốn",
+      "Muốn",
+      "Ý định / Kế hoạch",
+      "Kế hoạch"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "योजना",
+    "text": "योजना",
+    "subtext": "",
+    "answer": "Plan / Scheme",
+    "answer_vi": "Kế hoạch",
+    "options": [
+      "Plan / Scheme",
+      "To want",
+      "Intention / Plan",
+      "Wish / Desire"
+    ],
+    "options_en": [
+      "Plan / Scheme",
+      "To want",
+      "Intention / Plan",
+      "Wish / Desire"
+    ],
+    "options_vi": [
+      "Kế hoạch",
+      "Muốn",
+      "Ý định / Kế hoạch",
+      "Ước muốn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सोचना",
+    "text": "सोचना",
+    "subtext": "",
+    "answer": "To think",
+    "answer_vi": "Suy nghĩ",
+    "options": [
+      "To think",
+      "To want",
+      "Intention / Plan",
+      "Wish / Desire"
+    ],
+    "options_en": [
+      "To think",
+      "To want",
+      "Intention / Plan",
+      "Wish / Desire"
+    ],
+    "options_vi": [
+      "Suy nghĩ",
+      "Muốn",
+      "Ý định / Kế hoạch",
+      "Ước muốn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "What is your plan?",
+    "hindiWords": [
+      "आपका",
+      "क्या",
+      "इरादा",
+      "है"
+    ],
+    "correctHindiSentence": "आपका क्या इरादा है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "चाहना",
+        "english": "To want"
+      },
+      {
+        "hindi": "इरादा",
+        "english": "Intention / Plan"
+      },
+      {
+        "hindi": "इच्छा",
+        "english": "Wish / Desire"
+      },
+      {
+        "hindi": "योजना",
+        "english": "Plan / Scheme"
+      }
+    ]
+  }
+]

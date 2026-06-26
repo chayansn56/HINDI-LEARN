@@ -433,6 +433,33 @@ object GamifiedCurriculum {
             )
         }
 
+        val p3Titles = listOf(
+            "Subjunctive Mood & Possibility", "Passive Voice", "Compound Verbs",
+            "Relative-Correlative Clauses", "Obligation & Necessity", "Ability & Permission",
+            "Desires & Intentions", "Habitual Actions in the Past", "Office & Professional Register",
+            "Formal Emails & Writing", "Common Proverbs & Idioms", "Expressing Opinions",
+            "Cinema, Art & Bollywood", "Media & Current Affairs", "Graduation Review"
+        )
+        val p3Descs = listOf(
+            "Express wishes, hypotheses, and doubts.", "Shift focus from subject to action.", "Use auxiliary verbs to express completeness.",
+            "Build complex comparative sentences.", "Express duty and compulsion.", "Express physical ability and situational permission.",
+            "Formulate plans, wishes and intentions.", "Form habitual actions in the past.", "Use professional vocabulary and register.",
+            "Write formal letters, emails and salutations.", "Learn idioms and common proverbs.", "Debate and structure viewpoints.",
+            "Discuss actors, directors, reviews and cinema.", "Read newspapers, magazines and articles.", "Review advanced structures and graduate."
+        )
+
+        val p3Episodes = (1..15).map { i ->
+            Episode(
+                id = "episode_3_$i",
+                title = p3Titles[i - 1],
+                synopsis = p3Descs[i - 1],
+                type = "FOUNDATION",
+                confidenceMessage = "You completed ${p3Titles[i - 1]}!",
+                achievements = listOf("Learn ${p3Titles[i - 1]}"),
+                isLocked = false
+            )
+        }
+
         val specialBlueprints = listOf(
             Triple("pron", "Pronunciation Lab", listOf("Aspirated vs Unaspirated", "Retroflex vs Dental", "Nasal Sounds", "The Schwa Deletion Rule", "R, L, V, and SH Sounds", "Conjunct Consonants", "Question Intonation & Emotion", "Minimal Pairs Challenge", "Intonation in Statements", "Pronunciation Review & Test", "Geminate Consonants", "Word Stress Patterns", "Perso-Arabic Sounds", "Vowel Lengthening", "Connected Speech Flow")),
             Triple("speak", "Speaking", listOf("Greetings & Farewells", "Introducing Yourself", "Being Polite", "Question Words", "At a Restaurant", "Shopping & Bargaining", "Formal vs Informal (Aap/Tum)", "Expressing Feelings", "Making Plans", "Phone & Emergency", "Ordering Food Online", "Advanced Conversations", "Asking for Opinions", "Talking about Hobbies", "Making Excuses", "Arranging a Meeting", "Giving Directions")),
@@ -484,6 +511,7 @@ object GamifiedCurriculum {
             Season("phase_0", "Phase 0: Foundation Academy", "The most important phase. Learn the building blocks.", p0Episodes),
             Season("phase_1", "Phase 1: Elementary Academy", "Learn real-world vocabulary, numbers, and navigation.", p1Episodes),
             Season("phase_2", "Phase 2: Path to Fluency", "Master intermediate grammar and social conversations.", p2Episodes),
+            Season("phase_3", "Phase 3: Conversational Mastery", "Master advanced grammar, idiomatic expressions, and professional register.", p3Episodes),
             Season("season_1", "Season 1: Arrival in India", "John navigates his first days.", s1Episodes),
             Season("season_2", "Season 2: Living in India", "Daily life, hobbies, and mistakes.", s2Episodes),
             Season("season_3", "Season 3: Friendship", "Deepening bonds and inside jokes.", s3Episodes),

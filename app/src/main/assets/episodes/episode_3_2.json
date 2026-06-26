@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 47: Passive Voice",
+    "description": "Master vocabulary and expressions for Lesson 47: Passive Voice.",
+    "keyPoints": [
+      "Learn किया गया and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "किया गया",
+    "transliteration": "kiya gaya",
+    "english": "Was done",
+    "vietnamese": "Đã được làm",
+    "audio": "किया गया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लिखा गया",
+    "transliteration": "likha gaya",
+    "english": "Was written",
+    "vietnamese": "Đã được viết",
+    "audio": "लिखा गया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भेजा गया",
+    "transliteration": "bheja gaya",
+    "english": "Was sent",
+    "vietnamese": "Đã được gửi",
+    "audio": "भेजा गया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कहा गया",
+    "transliteration": "kaha gaya",
+    "english": "Was said",
+    "vietnamese": "Đã được nói",
+    "audio": "कहा गया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बनाया गया",
+    "transliteration": "banaya gaya",
+    "english": "Was made",
+    "vietnamese": "Đã được tạo ra",
+    "audio": "बनाया गया"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "किया गया",
+    "text": "किया गया",
+    "subtext": "",
+    "answer": "Was done",
+    "answer_vi": "Đã được làm",
+    "options": [
+      "Was done",
+      "Was written",
+      "Was sent",
+      "Was said"
+    ],
+    "options_en": [
+      "Was done",
+      "Was written",
+      "Was sent",
+      "Was said"
+    ],
+    "options_vi": [
+      "Đã được làm",
+      "Đã được viết",
+      "Đã được gửi",
+      "Đã được nói"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "लिखा गया",
+    "text": "लिखा गया",
+    "subtext": "",
+    "answer": "Was written",
+    "answer_vi": "Đã được viết",
+    "options": [
+      "Was written",
+      "Was done",
+      "Was sent",
+      "Was said"
+    ],
+    "options_en": [
+      "Was written",
+      "Was done",
+      "Was sent",
+      "Was said"
+    ],
+    "options_vi": [
+      "Đã được viết",
+      "Đã được làm",
+      "Đã được gửi",
+      "Đã được nói"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "भेजा गया",
+    "text": "भेजा गया",
+    "subtext": "",
+    "answer": "Was sent",
+    "answer_vi": "Đã được gửi",
+    "options": [
+      "Was sent",
+      "Was done",
+      "Was written",
+      "Was said"
+    ],
+    "options_en": [
+      "Was sent",
+      "Was done",
+      "Was written",
+      "Was said"
+    ],
+    "options_vi": [
+      "Đã được gửi",
+      "Đã được làm",
+      "Đã được viết",
+      "Đã được nói"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "कहा गया",
+    "text": "कहा गया",
+    "subtext": "",
+    "answer": "Was said",
+    "answer_vi": "Đã được nói",
+    "options": [
+      "Was said",
+      "Was done",
+      "Was written",
+      "Was sent"
+    ],
+    "options_en": [
+      "Was said",
+      "Was done",
+      "Was written",
+      "Was sent"
+    ],
+    "options_vi": [
+      "Đã được nói",
+      "Đã được làm",
+      "Đã được viết",
+      "Đã được gửi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बनाया गया",
+    "text": "बनाया गया",
+    "subtext": "",
+    "answer": "Was made",
+    "answer_vi": "Đã được tạo ra",
+    "options": [
+      "Was made",
+      "Was done",
+      "Was written",
+      "Was sent"
+    ],
+    "options_en": [
+      "Was made",
+      "Was done",
+      "Was written",
+      "Was sent"
+    ],
+    "options_vi": [
+      "Đã được tạo ra",
+      "Đã được làm",
+      "Đã được viết",
+      "Đã được gửi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This letter was written.",
+    "hindiWords": [
+      "यह",
+      "पत्र",
+      "लिखा",
+      "गया"
+    ],
+    "correctHindiSentence": "यह पत्र लिखा गया"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "किया गया",
+        "english": "Was done"
+      },
+      {
+        "hindi": "लिखा गया",
+        "english": "Was written"
+      },
+      {
+        "hindi": "भेजा गया",
+        "english": "Was sent"
+      },
+      {
+        "hindi": "कहा गया",
+        "english": "Was said"
+      }
+    ]
+  }
+]

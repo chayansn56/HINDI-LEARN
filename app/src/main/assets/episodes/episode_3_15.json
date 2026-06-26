@@ -1,0 +1,229 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 60: Phase 3 Graduation Final Exam",
+    "description": "Master vocabulary and expressions for Lesson 60: Phase 3 Graduation Final Exam.",
+    "keyPoints": [
+      "Learn परीक्षा and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "परीक्षा",
+    "transliteration": "pariksha",
+    "english": "Exam / Test",
+    "vietnamese": "Kỳ thi",
+    "audio": "परीक्षा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सफलता",
+    "transliteration": "safalta",
+    "english": "Success",
+    "vietnamese": "Thành công",
+    "audio": "सफलता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शुभकामनाएं",
+    "transliteration": "shubhkaamnaayein",
+    "english": "Best Wishes",
+    "vietnamese": "Lời chúc tốt đẹp nhất",
+    "audio": "शुभकामनाएं"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लक्ष्य",
+    "transliteration": "lakshya",
+    "english": "Goal / Target",
+    "vietnamese": "Mục tiêu",
+    "audio": "लक्ष्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ज्ञान",
+    "transliteration": "gyaan",
+    "english": "Knowledge",
+    "vietnamese": "Kiến thức",
+    "audio": "ज्ञान"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "परीक्षा",
+    "text": "परीक्षा",
+    "subtext": "",
+    "answer": "Exam / Test",
+    "answer_vi": "Kỳ thi",
+    "options": [
+      "Exam / Test",
+      "Success",
+      "Best Wishes",
+      "Goal / Target"
+    ],
+    "options_en": [
+      "Exam / Test",
+      "Success",
+      "Best Wishes",
+      "Goal / Target"
+    ],
+    "options_vi": [
+      "Kỳ thi",
+      "Thành công",
+      "Lời chúc tốt đẹp nhất",
+      "Mục tiêu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सफलता",
+    "text": "सफलता",
+    "subtext": "",
+    "answer": "Success",
+    "answer_vi": "Thành công",
+    "options": [
+      "Success",
+      "Exam / Test",
+      "Best Wishes",
+      "Goal / Target"
+    ],
+    "options_en": [
+      "Success",
+      "Exam / Test",
+      "Best Wishes",
+      "Goal / Target"
+    ],
+    "options_vi": [
+      "Thành công",
+      "Kỳ thi",
+      "Lời chúc tốt đẹp nhất",
+      "Mục tiêu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "शुभकामनाएं",
+    "text": "शुभकामनाएं",
+    "subtext": "",
+    "answer": "Best Wishes",
+    "answer_vi": "Lời chúc tốt đẹp nhất",
+    "options": [
+      "Best Wishes",
+      "Exam / Test",
+      "Success",
+      "Goal / Target"
+    ],
+    "options_en": [
+      "Best Wishes",
+      "Exam / Test",
+      "Success",
+      "Goal / Target"
+    ],
+    "options_vi": [
+      "Lời chúc tốt đẹp nhất",
+      "Kỳ thi",
+      "Thành công",
+      "Mục tiêu"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "लक्ष्य",
+    "text": "लक्ष्य",
+    "subtext": "",
+    "answer": "Goal / Target",
+    "answer_vi": "Mục tiêu",
+    "options": [
+      "Goal / Target",
+      "Exam / Test",
+      "Success",
+      "Best Wishes"
+    ],
+    "options_en": [
+      "Goal / Target",
+      "Exam / Test",
+      "Success",
+      "Best Wishes"
+    ],
+    "options_vi": [
+      "Mục tiêu",
+      "Kỳ thi",
+      "Thành công",
+      "Lời chúc tốt đẹp nhất"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ज्ञान",
+    "text": "ज्ञान",
+    "subtext": "",
+    "answer": "Knowledge",
+    "answer_vi": "Kiến thức",
+    "options": [
+      "Knowledge",
+      "Exam / Test",
+      "Success",
+      "Best Wishes"
+    ],
+    "options_en": [
+      "Knowledge",
+      "Exam / Test",
+      "Success",
+      "Best Wishes"
+    ],
+    "options_vi": [
+      "Kiến thức",
+      "Kỳ thi",
+      "Thành công",
+      "Lời chúc tốt đẹp nhất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Best wishes for your exam.",
+    "hindiWords": [
+      "आपकी",
+      "परीक्षा",
+      "के",
+      "लिए",
+      "शुभकामनाएं"
+    ],
+    "correctHindiSentence": "आपकी परीक्षा के लिए शुभकामनाएं"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "परीक्षा",
+        "english": "Exam / Test"
+      },
+      {
+        "hindi": "सफलता",
+        "english": "Success"
+      },
+      {
+        "hindi": "शुभकामनाएं",
+        "english": "Best Wishes"
+      },
+      {
+        "hindi": "लक्ष्य",
+        "english": "Goal / Target"
+      }
+    ]
+  }
+]

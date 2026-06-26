@@ -1,0 +1,229 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 58: Cinema, Art & Bollywood",
+    "description": "Master vocabulary and expressions for Lesson 58: Cinema, Art & Bollywood.",
+    "keyPoints": [
+      "Learn अभिनेता and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अभिनेता",
+    "transliteration": "abhineata",
+    "english": "Actor",
+    "vietnamese": "Nam diễn viên",
+    "audio": "अभिनेता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "निर्देशक",
+    "transliteration": "nirdeshak",
+    "english": "Director",
+    "vietnamese": "Đạo diễn",
+    "audio": "निर्देशक"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कलाकार",
+    "transliteration": "kalakaar",
+    "english": "Artist",
+    "vietnamese": "Nghệ sĩ",
+    "audio": "कलाकार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "संगीतकार",
+    "transliteration": "sangeetkaar",
+    "english": "Musician / Composer",
+    "vietnamese": "Nhạc sĩ",
+    "audio": "संगीतकार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "समीक्षा",
+    "transliteration": "sameeksha",
+    "english": "Review",
+    "vietnamese": "Đánh giá / Nhận xét",
+    "audio": "समीक्षा"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "अभिनेता",
+    "text": "अभिनेता",
+    "subtext": "",
+    "answer": "Actor",
+    "answer_vi": "Nam diễn viên",
+    "options": [
+      "Actor",
+      "Director",
+      "Artist",
+      "Musician / Composer"
+    ],
+    "options_en": [
+      "Actor",
+      "Director",
+      "Artist",
+      "Musician / Composer"
+    ],
+    "options_vi": [
+      "Nam diễn viên",
+      "Đạo diễn",
+      "Nghệ sĩ",
+      "Nhạc sĩ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "निर्देशक",
+    "text": "निर्देशक",
+    "subtext": "",
+    "answer": "Director",
+    "answer_vi": "Đạo diễn",
+    "options": [
+      "Director",
+      "Actor",
+      "Artist",
+      "Musician / Composer"
+    ],
+    "options_en": [
+      "Director",
+      "Actor",
+      "Artist",
+      "Musician / Composer"
+    ],
+    "options_vi": [
+      "Đạo diễn",
+      "Nam diễn viên",
+      "Nghệ sĩ",
+      "Nhạc sĩ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "कलाकार",
+    "text": "कलाकार",
+    "subtext": "",
+    "answer": "Artist",
+    "answer_vi": "Nghệ sĩ",
+    "options": [
+      "Artist",
+      "Actor",
+      "Director",
+      "Musician / Composer"
+    ],
+    "options_en": [
+      "Artist",
+      "Actor",
+      "Director",
+      "Musician / Composer"
+    ],
+    "options_vi": [
+      "Nghệ sĩ",
+      "Nam diễn viên",
+      "Đạo diễn",
+      "Nhạc sĩ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "संगीतकार",
+    "text": "संगीतकार",
+    "subtext": "",
+    "answer": "Musician / Composer",
+    "answer_vi": "Nhạc sĩ",
+    "options": [
+      "Musician / Composer",
+      "Actor",
+      "Director",
+      "Artist"
+    ],
+    "options_en": [
+      "Musician / Composer",
+      "Actor",
+      "Director",
+      "Artist"
+    ],
+    "options_vi": [
+      "Nhạc sĩ",
+      "Nam diễn viên",
+      "Đạo diễn",
+      "Nghệ sĩ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "समीक्षा",
+    "text": "समीक्षा",
+    "subtext": "",
+    "answer": "Review",
+    "answer_vi": "Đánh giá / Nhận xét",
+    "options": [
+      "Review",
+      "Actor",
+      "Director",
+      "Artist"
+    ],
+    "options_en": [
+      "Review",
+      "Actor",
+      "Director",
+      "Artist"
+    ],
+    "options_vi": [
+      "Đánh giá / Nhận xét",
+      "Nam diễn viên",
+      "Đạo diễn",
+      "Nghệ sĩ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "He is a good actor.",
+    "hindiWords": [
+      "वह",
+      "एक",
+      "अच्छा",
+      "अभिनेता",
+      "है"
+    ],
+    "correctHindiSentence": "वह एक अच्छा अभिनेता है"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "अभिनेता",
+        "english": "Actor"
+      },
+      {
+        "hindi": "निर्देशक",
+        "english": "Director"
+      },
+      {
+        "hindi": "कलाकार",
+        "english": "Artist"
+      },
+      {
+        "hindi": "संगीतकार",
+        "english": "Musician / Composer"
+      }
+    ]
+  }
+]

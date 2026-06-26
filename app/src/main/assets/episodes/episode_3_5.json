@@ -1,0 +1,227 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 50: Obligation & Necessity",
+    "description": "Master vocabulary and expressions for Lesson 50: Obligation & Necessity.",
+    "keyPoints": [
+      "Learn चाहिए and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाहिए",
+    "transliteration": "chahiye",
+    "english": "Should / Want / Needed",
+    "vietnamese": "Nên / Cần",
+    "audio": "चाहिए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पड़ेगा",
+    "transliteration": "padega",
+    "english": "Will have to (masc)",
+    "vietnamese": "Sẽ phải làm",
+    "audio": "पड़ेगा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होगा",
+    "transliteration": "hoga",
+    "english": "Must / Has to (masc)",
+    "vietnamese": "Phải làm",
+    "audio": "होगा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कर्तव्य",
+    "transliteration": "kartavya",
+    "english": "Duty",
+    "vietnamese": "Bổn phận / Nhiệm vụ",
+    "audio": "कर्तव्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ज़रूरी",
+    "transliteration": "zaroori",
+    "english": "Important / Urgent",
+    "vietnamese": "Quan trọng",
+    "audio": "ज़रूरी"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चाहिए",
+    "text": "चाहिए",
+    "subtext": "",
+    "answer": "Should / Want / Needed",
+    "answer_vi": "Nên / Cần",
+    "options": [
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Must / Has to (masc)",
+      "Duty"
+    ],
+    "options_en": [
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Must / Has to (masc)",
+      "Duty"
+    ],
+    "options_vi": [
+      "Nên / Cần",
+      "Sẽ phải làm",
+      "Phải làm",
+      "Bổn phận / Nhiệm vụ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पड़ेगा",
+    "text": "पड़ेगा",
+    "subtext": "",
+    "answer": "Will have to (masc)",
+    "answer_vi": "Sẽ phải làm",
+    "options": [
+      "Will have to (masc)",
+      "Should / Want / Needed",
+      "Must / Has to (masc)",
+      "Duty"
+    ],
+    "options_en": [
+      "Will have to (masc)",
+      "Should / Want / Needed",
+      "Must / Has to (masc)",
+      "Duty"
+    ],
+    "options_vi": [
+      "Sẽ phải làm",
+      "Nên / Cần",
+      "Phải làm",
+      "Bổn phận / Nhiệm vụ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "होगा",
+    "text": "होगा",
+    "subtext": "",
+    "answer": "Must / Has to (masc)",
+    "answer_vi": "Phải làm",
+    "options": [
+      "Must / Has to (masc)",
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Duty"
+    ],
+    "options_en": [
+      "Must / Has to (masc)",
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Duty"
+    ],
+    "options_vi": [
+      "Phải làm",
+      "Nên / Cần",
+      "Sẽ phải làm",
+      "Bổn phận / Nhiệm vụ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "कर्तव्य",
+    "text": "कर्तव्य",
+    "subtext": "",
+    "answer": "Duty",
+    "answer_vi": "Bổn phận / Nhiệm vụ",
+    "options": [
+      "Duty",
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Must / Has to (masc)"
+    ],
+    "options_en": [
+      "Duty",
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Must / Has to (masc)"
+    ],
+    "options_vi": [
+      "Bổn phận / Nhiệm vụ",
+      "Nên / Cần",
+      "Sẽ phải làm",
+      "Phải làm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ज़रूरी",
+    "text": "ज़रूरी",
+    "subtext": "",
+    "answer": "Important / Urgent",
+    "answer_vi": "Quan trọng",
+    "options": [
+      "Important / Urgent",
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Must / Has to (masc)"
+    ],
+    "options_en": [
+      "Important / Urgent",
+      "Should / Want / Needed",
+      "Will have to (masc)",
+      "Must / Has to (masc)"
+    ],
+    "options_vi": [
+      "Quan trọng",
+      "Nên / Cần",
+      "Sẽ phải làm",
+      "Phải làm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "You should study.",
+    "hindiWords": [
+      "आपको",
+      "पढ़ना",
+      "चाहिए"
+    ],
+    "correctHindiSentence": "आपको पढ़ना चाहिए"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "चाहिए",
+        "english": "Should / Want / Needed"
+      },
+      {
+        "hindi": "पड़ेगा",
+        "english": "Will have to (masc)"
+      },
+      {
+        "hindi": "होगा",
+        "english": "Must / Has to (masc)"
+      },
+      {
+        "hindi": "कर्तव्य",
+        "english": "Duty"
+      }
+    ]
+  }
+]

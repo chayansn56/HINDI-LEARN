@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 46: Subjunctive Mood & Possibility",
+    "description": "Master vocabulary and expressions for Lesson 46: Subjunctive Mood & Possibility.",
+    "keyPoints": [
+      "Learn शायद and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शायद",
+    "transliteration": "shayad",
+    "english": "Maybe / Perhaps",
+    "vietnamese": "Có lẽ",
+    "audio": "शायद"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "अगर",
+    "transliteration": "agar",
+    "english": "If",
+    "vietnamese": "Nếu",
+    "audio": "अगर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "होता",
+    "transliteration": "hota",
+    "english": "Would be / Had been",
+    "vietnamese": "Thì đã là / Sẽ là",
+    "audio": "होता"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आए",
+    "transliteration": "aaye",
+    "english": "Might come",
+    "vietnamese": "Có thể đến",
+    "audio": "आए"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाहे",
+    "transliteration": "chahe",
+    "english": "Even if / Whether",
+    "vietnamese": "Cho dù",
+    "audio": "चाहे"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "शायद",
+    "text": "शायद",
+    "subtext": "",
+    "answer": "Maybe / Perhaps",
+    "answer_vi": "Có lẽ",
+    "options": [
+      "Maybe / Perhaps",
+      "If",
+      "Would be / Had been",
+      "Might come"
+    ],
+    "options_en": [
+      "Maybe / Perhaps",
+      "If",
+      "Would be / Had been",
+      "Might come"
+    ],
+    "options_vi": [
+      "Có lẽ",
+      "Nếu",
+      "Thì đã là / Sẽ là",
+      "Có thể đến"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "अगर",
+    "text": "अगर",
+    "subtext": "",
+    "answer": "If",
+    "answer_vi": "Nếu",
+    "options": [
+      "If",
+      "Maybe / Perhaps",
+      "Would be / Had been",
+      "Might come"
+    ],
+    "options_en": [
+      "If",
+      "Maybe / Perhaps",
+      "Would be / Had been",
+      "Might come"
+    ],
+    "options_vi": [
+      "Nếu",
+      "Có lẽ",
+      "Thì đã là / Sẽ là",
+      "Có thể đến"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "होता",
+    "text": "होता",
+    "subtext": "",
+    "answer": "Would be / Had been",
+    "answer_vi": "Thì đã là / Sẽ là",
+    "options": [
+      "Would be / Had been",
+      "Maybe / Perhaps",
+      "If",
+      "Might come"
+    ],
+    "options_en": [
+      "Would be / Had been",
+      "Maybe / Perhaps",
+      "If",
+      "Might come"
+    ],
+    "options_vi": [
+      "Thì đã là / Sẽ là",
+      "Có lẽ",
+      "Nếu",
+      "Có thể đến"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "आए",
+    "text": "आए",
+    "subtext": "",
+    "answer": "Might come",
+    "answer_vi": "Có thể đến",
+    "options": [
+      "Might come",
+      "Maybe / Perhaps",
+      "If",
+      "Would be / Had been"
+    ],
+    "options_en": [
+      "Might come",
+      "Maybe / Perhaps",
+      "If",
+      "Would be / Had been"
+    ],
+    "options_vi": [
+      "Có thể đến",
+      "Có lẽ",
+      "Nếu",
+      "Thì đã là / Sẽ là"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चाहे",
+    "text": "चाहे",
+    "subtext": "",
+    "answer": "Even if / Whether",
+    "answer_vi": "Cho dù",
+    "options": [
+      "Even if / Whether",
+      "Maybe / Perhaps",
+      "If",
+      "Would be / Had been"
+    ],
+    "options_en": [
+      "Even if / Whether",
+      "Maybe / Perhaps",
+      "If",
+      "Would be / Had been"
+    ],
+    "options_vi": [
+      "Cho dù",
+      "Có lẽ",
+      "Nếu",
+      "Thì đã là / Sẽ là"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Maybe he will come tomorrow.",
+    "hindiWords": [
+      "शायद",
+      "वह",
+      "आए",
+      "कल"
+    ],
+    "correctHindiSentence": "शायd वह कल आए"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "शायद",
+        "english": "Maybe / Perhaps"
+      },
+      {
+        "hindi": "अगर",
+        "english": "If"
+      },
+      {
+        "hindi": "होता",
+        "english": "Would be / Had been"
+      },
+      {
+        "hindi": "आए",
+        "english": "Might come"
+      }
+    ]
+  }
+]

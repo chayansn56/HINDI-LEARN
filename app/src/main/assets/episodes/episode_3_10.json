@@ -1,0 +1,227 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 55: Formal Emails & Writing",
+    "description": "Master vocabulary and expressions for Lesson 55: Formal Emails & Writing.",
+    "keyPoints": [
+      "Learn पत्र and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पत्र",
+    "transliteration": "patra",
+    "english": "Letter / Mail",
+    "vietnamese": "Thư / Công văn",
+    "audio": "पत्र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "प्रिय",
+    "transliteration": "priya",
+    "english": "Dear",
+    "vietnamese": "Kính gửi / Thân ái",
+    "audio": "प्रिय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भवदीय",
+    "transliteration": "bhavadiya",
+    "english": "Sincerely Yours",
+    "vietnamese": "Trân trọng",
+    "audio": "भवदीय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "महोदय",
+    "transliteration": "mahoday",
+    "english": "Respected Sir",
+    "vietnamese": "Thưa Ngài (nam)",
+    "audio": "महोदय"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सादर",
+    "transliteration": "saadar",
+    "english": "With Regards / Respectfully",
+    "vietnamese": "Kính thư",
+    "audio": "सादर"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पत्र",
+    "text": "पत्र",
+    "subtext": "",
+    "answer": "Letter / Mail",
+    "answer_vi": "Thư / Công văn",
+    "options": [
+      "Letter / Mail",
+      "Dear",
+      "Sincerely Yours",
+      "Respected Sir"
+    ],
+    "options_en": [
+      "Letter / Mail",
+      "Dear",
+      "Sincerely Yours",
+      "Respected Sir"
+    ],
+    "options_vi": [
+      "Thư / Công văn",
+      "Kính gửi / Thân ái",
+      "Trân trọng",
+      "Thưa Ngài (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "प्रिय",
+    "text": "प्रिय",
+    "subtext": "",
+    "answer": "Dear",
+    "answer_vi": "Kính gửi / Thân ái",
+    "options": [
+      "Dear",
+      "Letter / Mail",
+      "Sincerely Yours",
+      "Respected Sir"
+    ],
+    "options_en": [
+      "Dear",
+      "Letter / Mail",
+      "Sincerely Yours",
+      "Respected Sir"
+    ],
+    "options_vi": [
+      "Kính gửi / Thân ái",
+      "Thư / Công văn",
+      "Trân trọng",
+      "Thưa Ngài (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "भवदीय",
+    "text": "भवदीय",
+    "subtext": "",
+    "answer": "Sincerely Yours",
+    "answer_vi": "Trân trọng",
+    "options": [
+      "Sincerely Yours",
+      "Letter / Mail",
+      "Dear",
+      "Respected Sir"
+    ],
+    "options_en": [
+      "Sincerely Yours",
+      "Letter / Mail",
+      "Dear",
+      "Respected Sir"
+    ],
+    "options_vi": [
+      "Trân trọng",
+      "Thư / Công văn",
+      "Kính gửi / Thân ái",
+      "Thưa Ngài (nam)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "महोदय",
+    "text": "महोदय",
+    "subtext": "",
+    "answer": "Respected Sir",
+    "answer_vi": "Thưa Ngài (nam)",
+    "options": [
+      "Respected Sir",
+      "Letter / Mail",
+      "Dear",
+      "Sincerely Yours"
+    ],
+    "options_en": [
+      "Respected Sir",
+      "Letter / Mail",
+      "Dear",
+      "Sincerely Yours"
+    ],
+    "options_vi": [
+      "Thưa Ngài (nam)",
+      "Thư / Công văn",
+      "Kính gửi / Thân ái",
+      "Trân trọng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सादर",
+    "text": "सादर",
+    "subtext": "",
+    "answer": "With Regards / Respectfully",
+    "answer_vi": "Kính thư",
+    "options": [
+      "With Regards / Respectfully",
+      "Letter / Mail",
+      "Dear",
+      "Sincerely Yours"
+    ],
+    "options_en": [
+      "With Regards / Respectfully",
+      "Letter / Mail",
+      "Dear",
+      "Sincerely Yours"
+    ],
+    "options_vi": [
+      "Kính thư",
+      "Thư / Công văn",
+      "Kính gửi / Thân ái",
+      "Trân trọng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Dear Sir, greetings.",
+    "hindiWords": [
+      "प्रिय",
+      "महोदय",
+      "नमस्ते"
+    ],
+    "correctHindiSentence": "प्रिय महोदय नमस्ते"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "पत्र",
+        "english": "Letter / Mail"
+      },
+      {
+        "hindi": "प्रिय",
+        "english": "Dear"
+      },
+      {
+        "hindi": "भवदीय",
+        "english": "Sincerely Yours"
+      },
+      {
+        "hindi": "महोदय",
+        "english": "Respected Sir"
+      }
+    ]
+  }
+]

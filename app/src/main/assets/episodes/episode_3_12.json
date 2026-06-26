@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Lesson 57: Expressing Opinions",
+    "description": "Master vocabulary and expressions for Lesson 57: Expressing Opinions.",
+    "keyPoints": [
+      "Learn विचार and related terms."
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "विचार",
+    "transliteration": "vichar",
+    "english": "Opinion / Thought",
+    "vietnamese": "Ý kiến / Suy nghĩ",
+    "audio": "विचार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सहमत",
+    "transliteration": "sahmat",
+    "english": "Agree / Agreed",
+    "vietnamese": "Đồng ý",
+    "audio": "सहमत"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "असहमत",
+    "transliteration": "asahmat",
+    "english": "Disagree / Disagreed",
+    "vietnamese": "Không đồng ý",
+    "audio": "असहमत"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सच",
+    "transliteration": "sach",
+    "english": "Truth / True",
+    "vietnamese": "Sự thật",
+    "audio": "सच"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बहस",
+    "transliteration": "bahas",
+    "english": "Debate / Discussion",
+    "vietnamese": "Cuộc tranh luận",
+    "audio": "बहस"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "विचार",
+    "text": "विचार",
+    "subtext": "",
+    "answer": "Opinion / Thought",
+    "answer_vi": "Ý kiến / Suy nghĩ",
+    "options": [
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Disagree / Disagreed",
+      "Truth / True"
+    ],
+    "options_en": [
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Disagree / Disagreed",
+      "Truth / True"
+    ],
+    "options_vi": [
+      "Ý kiến / Suy nghĩ",
+      "Đồng ý",
+      "Không đồng ý",
+      "Sự thật"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सहमत",
+    "text": "सहमत",
+    "subtext": "",
+    "answer": "Agree / Agreed",
+    "answer_vi": "Đồng ý",
+    "options": [
+      "Agree / Agreed",
+      "Opinion / Thought",
+      "Disagree / Disagreed",
+      "Truth / True"
+    ],
+    "options_en": [
+      "Agree / Agreed",
+      "Opinion / Thought",
+      "Disagree / Disagreed",
+      "Truth / True"
+    ],
+    "options_vi": [
+      "Đồng ý",
+      "Ý kiến / Suy nghĩ",
+      "Không đồng ý",
+      "Sự thật"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "असहमत",
+    "text": "असहमत",
+    "subtext": "",
+    "answer": "Disagree / Disagreed",
+    "answer_vi": "Không đồng ý",
+    "options": [
+      "Disagree / Disagreed",
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Truth / True"
+    ],
+    "options_en": [
+      "Disagree / Disagreed",
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Truth / True"
+    ],
+    "options_vi": [
+      "Không đồng ý",
+      "Ý kiến / Suy nghĩ",
+      "Đồng ý",
+      "Sự thật"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सच",
+    "text": "सच",
+    "subtext": "",
+    "answer": "Truth / True",
+    "answer_vi": "Sự thật",
+    "options": [
+      "Truth / True",
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Disagree / Disagreed"
+    ],
+    "options_en": [
+      "Truth / True",
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Disagree / Disagreed"
+    ],
+    "options_vi": [
+      "Sự thật",
+      "Ý kiến / Suy nghĩ",
+      "Đồng ý",
+      "Không đồng ý"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बहस",
+    "text": "बहस",
+    "subtext": "",
+    "answer": "Debate / Discussion",
+    "answer_vi": "Cuộc tranh luận",
+    "options": [
+      "Debate / Discussion",
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Disagree / Disagreed"
+    ],
+    "options_en": [
+      "Debate / Discussion",
+      "Opinion / Thought",
+      "Agree / Agreed",
+      "Disagree / Disagreed"
+    ],
+    "options_vi": [
+      "Cuộc tranh luận",
+      "Ý kiến / Suy nghĩ",
+      "Đồng ý",
+      "Không đồng ý"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I agree with you.",
+    "hindiWords": [
+      "मैं",
+      "आपसे",
+      "सहमत",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं आपसे सहमत हूँ"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "विचार",
+        "english": "Opinion / Thought"
+      },
+      {
+        "hindi": "सहमत",
+        "english": "Agree / Agreed"
+      },
+      {
+        "hindi": "असहमत",
+        "english": "Disagree / Disagreed"
+      },
+      {
+        "hindi": "सच",
+        "english": "Truth / True"
+      }
+    ]
+  }
+]
