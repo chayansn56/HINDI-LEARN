@@ -366,7 +366,9 @@ object GamifiedCurriculum {
                 Triple("hospitality", "Tourism & Hospitality", listOf("Hotel Reception", "Restaurant Service", "Tour Guiding", "Handling Complaints", "Concierge")),
                 Triple("business", "Office Business", listOf("Formal Emails", "Negotiations", "Job Interviews", "Sales Pitches", "Networking")),
                 Triple("ielts", "IELTS Prep", listOf("Academic Vocabulary", "Essay Structures", "Speaking Part 1", "Speaking Part 2", "Speaking Part 3")),
-                Triple("kids", "Kids Vocabulary", listOf("Animals", "Colors", "Toys", "School", "Cartoons"))
+                Triple("kids", "Kids Vocabulary", listOf("Animals", "Colors", "Toys", "School", "Cartoons")),
+                Triple("numbers_lab", "Numbers Lab", listOf("Numbers 1-10", "Numbers 11-100", "Hundreds 100-1000", "Large Numbers", "Numbers Challenge")),
+                Triple("alphabets_lab", "Alphabet Hub", listOf("The English Alphabet & Vowels", "Consonants & Basic Phonics", "Digraphs & Blends (ch, sh, th, wh)", "Silent Letters & Magic E", "Pronunciation Masterclass"))
             )
             val specialSeasonsEn = specialBlueprintsEn.map { (id, title, list) ->
                 val episodes = list.mapIndexed { idx, epTitle ->

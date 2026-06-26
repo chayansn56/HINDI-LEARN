@@ -1,452 +1,74 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 3",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 3. Read the key points carefully.",
+    "title": "Digraphs & Blends (ch, sh, th, wh)",
+    "description": "Master vocabulary and expressions for Digraphs & Blends (ch, sh, th, wh).",
     "keyPoints": [
-      "Learn alphabets_lab concepts in depth."
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Truth alone triumphs.",
-    "simpleRule": "Remember: Truth alone triumphs means सत्यमेव जयते (Sự thật luôn chiến thắng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Truth alone triumphs",
-    "transliteration": "",
-    "english": "Sự thật luôn chiến thắng",
-    "vietnamese": "",
-    "audio": "Truth alone triumphs"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To laugh",
-    "transliteration": "",
-    "english": "Cười lớn",
-    "vietnamese": "",
-    "audio": "To laugh"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To teach",
-    "transliteration": "",
-    "english": "Dạy",
-    "vietnamese": "",
-    "audio": "To teach"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Path / Way",
-    "transliteration": "",
-    "english": "Đường đi",
-    "vietnamese": "",
-    "audio": "Path / Way"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Truth alone triumphs'",
-    "prompt_en": "Choose correct translation for 'Truth alone triumphs'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Truth alone triumphs'",
-    "text": "Truth alone triumphs",
-    "subtext": "",
-    "answer": "Truth alone triumphs",
-    "answer_vi": "Sự thật luôn chiến thắng",
-    "options": [
-      "Truth alone triumphs",
-      "To laugh",
-      "To teach",
-      "Path / Way"
-    ],
-    "options_vi": [
-      "Sự thật luôn chiến thắng",
-      "Cười lớn",
-      "Dạy",
-      "Đường đi"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Truth alone triumphs",
-        "english": "सत्यमेव जयते (Sự thật luôn chiến thắng)"
-      },
-      {
-        "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
-      },
-      {
-        "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​ (Dạy)"
-      },
-      {
-        "hindi": "Path / Way",
-        "english": "रास्ता​​​​​​​ (Đường đi)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: Office.",
-    "simpleRule": "Remember: Office means दफ़्तर​​​ (Văn phòng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Office",
-    "transliteration": "",
-    "english": "Văn phòng",
-    "vietnamese": "",
-    "audio": "Office"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To speak",
-    "transliteration": "",
-    "english": "Nói",
-    "vietnamese": "",
-    "audio": "To speak"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "That is right",
-    "transliteration": "",
-    "english": "Đúng thế",
-    "vietnamese": "",
-    "audio": "That is right"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To walk / move",
-    "transliteration": "",
-    "english": "Đi bộ / Di chuyển",
-    "vietnamese": "",
-    "audio": "To walk / move"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Office'",
-    "prompt_en": "Choose correct translation for 'Office'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
-    "text": "Office",
-    "subtext": "",
-    "answer": "Office",
-    "answer_vi": "Văn phòng",
-    "options": [
-      "Office",
-      "To speak",
-      "That is right",
-      "To walk / move"
-    ],
-    "options_vi": [
-      "Văn phòng",
-      "Nói",
-      "Đúng thế",
-      "Đi bộ / Di chuyển"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Office",
-        "english": "दफ़्तर​​​ (Văn phòng)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "That is right",
-        "english": "सही है (Đúng thế)"
-      },
-      {
-        "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: To stand.",
-    "simpleRule": "Remember: To stand means खड़े होना​​​​ (Đứng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To stand",
-    "transliteration": "",
-    "english": "Đứng",
-    "vietnamese": "",
-    "audio": "To stand"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "As much as",
-    "transliteration": "",
-    "english": "Bao nhiêu tùy ý",
-    "vietnamese": "",
-    "audio": "As much as"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To ask",
-    "transliteration": "",
-    "english": "Hỏi",
-    "vietnamese": "",
-    "audio": "To ask"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Tears",
-    "transliteration": "",
-    "english": "Nước mắt",
-    "vietnamese": "",
-    "audio": "Tears"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To stand'",
-    "prompt_en": "Choose correct translation for 'To stand'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
-    "text": "To stand",
-    "subtext": "",
-    "answer": "To stand",
-    "answer_vi": "Đứng",
-    "options": [
-      "To stand",
-      "As much as",
-      "To ask",
-      "Tears"
-    ],
-    "options_vi": [
-      "Đứng",
-      "Bao nhiêu tùy ý",
-      "Hỏi",
-      "Nước mắt"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To stand",
-        "english": "खड़े होना​​​​ (Đứng)"
-      },
-      {
-        "hindi": "As much as",
-        "english": "जितना (Bao nhiêu tùy ý)"
-      },
-      {
-        "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
-      },
-      {
-        "hindi": "Tears",
-        "english": "आँसू (Nước mắt)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set D",
-    "explanation": "Understand the usage and roots of: Country.",
-    "simpleRule": "Remember: Country means देश​​​​ (Đất nước)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Country",
-    "transliteration": "",
-    "english": "Đất nước",
-    "vietnamese": "",
-    "audio": "Country"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To read",
-    "transliteration": "",
-    "english": "Đọc",
-    "vietnamese": "",
-    "audio": "To read"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To learn",
-    "transliteration": "",
-    "english": "Học",
-    "vietnamese": "",
-    "audio": "To learn"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "It is possible.",
-    "transliteration": "",
-    "english": "Có khả năng đó.",
-    "vietnamese": "",
-    "audio": "It is possible."
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Country'",
-    "prompt_en": "Choose correct translation for 'Country'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Country'",
-    "text": "Country",
-    "subtext": "",
-    "answer": "Country",
-    "answer_vi": "Đất nước",
-    "options": [
-      "Country",
-      "To read",
-      "To learn",
-      "It is possible."
-    ],
-    "options_vi": [
-      "Đất nước",
-      "Đọc",
-      "Học",
-      "Có khả năng đó."
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Country",
-        "english": "देश​​​​ (Đất nước)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "It is possible.",
-        "english": "यह मुमकिन है। (Có khả năng đó.)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Truth alone triumphs",
-    "translation_en": "सत्यमेव जयते",
-    "translation_vi": "Sự thật luôn chiến thắng",
-    "options_en": [
-      "सत्यमेव जयते",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​",
-      "रास्ता​​​​​​​"
-    ],
-    "options_vi": [
-      "Sự thật luôn chiến thắng",
-      "Cười lớn",
-      "Dạy",
-      "Đường đi"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Nó là một Sự thật luôn chiến thắng",
-    "hindiWords": [
-      "It",
-      "is",
-      "a",
-      "Truth",
-      "alone",
-      "triumphs"
-    ],
-    "correctHindiSentence": "It is a Truth alone triumphs"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Tôi thích Cười lớn",
-    "hindiWords": [
-      "I",
-      "really",
-      "like",
-      "To",
-      "laugh"
-    ],
-    "correctHindiSentence": "I really like To laugh"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Truth alone triumphs and It is possible.",
-      "Practiced constructing sentences."
+      "Learn Chat and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Chat",
+    "english": "Chat",
+    "vietnamese": "Trò chuyện (âm ch)",
+    "audio": "Chat"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Ship",
+    "english": "Ship",
+    "vietnamese": "Tàu thủy (âm sh)",
+    "audio": "Ship"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Thin",
+    "english": "Thin",
+    "vietnamese": "Mỏng / Gầy (âm th)",
+    "audio": "Thin"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "White",
+    "english": "White",
+    "vietnamese": "Màu trắng (âm wh)",
+    "audio": "White"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Digraph",
+    "english": "Digraph",
+    "vietnamese": "Chữ ghép (hai chữ cái ghép lại thành một âm)",
+    "audio": "Digraph"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Chat",
+    "text": "Chat",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Chat",
+    "answer_vi": "Trò chuyện (âm ch)",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Chat",
+      "Ship",
+      "Thin",
+      "White"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Chat",
+      "Ship",
+      "Thin",
+      "White"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Trò chuyện (âm ch)",
+      "Tàu thủy (âm sh)",
+      "Mỏng / Gầy (âm th)",
+      "Màu trắng (âm wh)"
     ]
   },
   {
@@ -454,27 +76,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Ship",
+    "text": "Ship",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Ship",
+    "answer_vi": "Tàu thủy (âm sh)",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Ship",
+      "Chat",
+      "Thin",
+      "White"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Ship",
+      "Chat",
+      "Thin",
+      "White"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Tàu thủy (âm sh)",
+      "Trò chuyện (âm ch)",
+      "Mỏng / Gầy (âm th)",
+      "Màu trắng (âm wh)"
     ]
   },
   {
@@ -482,27 +105,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Thin",
+    "text": "Thin",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Thin",
+    "answer_vi": "Mỏng / Gầy (âm th)",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Thin",
+      "Chat",
+      "Ship",
+      "White"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Thin",
+      "Chat",
+      "Ship",
+      "White"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Mỏng / Gầy (âm th)",
+      "Trò chuyện (âm ch)",
+      "Tàu thủy (âm sh)",
+      "Màu trắng (âm wh)"
     ]
   },
   {
@@ -510,27 +134,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "White",
+    "text": "White",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "White",
+    "answer_vi": "Màu trắng (âm wh)",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "White",
+      "Chat",
+      "Ship",
+      "Thin"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "White",
+      "Chat",
+      "Ship",
+      "Thin"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Màu trắng (âm wh)",
+      "Trò chuyện (âm ch)",
+      "Tàu thủy (âm sh)",
+      "Mỏng / Gầy (âm th)"
     ]
   },
   {
@@ -538,27 +163,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Digraph",
+    "text": "Digraph",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Digraph",
+    "answer_vi": "Chữ ghép (hai chữ cái ghép lại thành một âm)",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Digraph",
+      "Chat",
+      "Ship",
+      "Thin"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Digraph",
+      "Chat",
+      "Ship",
+      "Thin"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Chữ ghép (hai chữ cái ghép lại thành một âm)",
+      "Trò chuyện (âm ch)",
+      "Tàu thủy (âm sh)",
+      "Mỏng / Gầy (âm th)"
     ]
   },
   {
@@ -566,20 +192,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Chat",
+        "english": "Trò chuyện (âm ch)"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Ship",
+        "english": "Tàu thủy (âm sh)"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Thin",
+        "english": "Mỏng / Gầy (âm th)"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "White",
+        "english": "Màu trắng (âm wh)"
       }
     ]
   }

@@ -1,222 +1,217 @@
 [
   {
     "type": "Introduction",
-    "title": "Hundreds 100-500",
-    "description": "Master the vocabulary and grammar for: Hundreds 100-500. Read the key points carefully.",
+    "title": "Numbers 11-100",
+    "description": "Master vocabulary and expressions for Numbers 11-100.",
     "keyPoints": [
-      "Master Hundreds 100-500"
+      "Learn ग्यारह and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: ताला​​​​​​​​​​​.",
-    "simpleRule": "Remember: ताला​​​​​​​​​​​ means Lock (Ổ khóa)."
+    "type": "Flashcard",
+    "hindi": "ग्यारह",
+    "transliteration": "gyarah",
+    "english": "Eleven",
+    "vietnamese": "Mười một (11)",
+    "audio": "ग्यारह"
   },
   {
     "type": "Flashcard",
-    "hindi": "ताला​​​​​​​​​​​",
-    "transliteration": "tālā",
-    "english": "Lock",
-    "vietnamese": "Ổ khóa",
-    "audio": "ताला​​​​​​​​​​​"
+    "hindi": "बीस",
+    "transliteration": "bees",
+    "english": "Twenty",
+    "vietnamese": "Hai mươi (20)",
+    "audio": "बीस"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "तीस",
+    "transliteration": "tees",
+    "english": "Thirty",
+    "vietnamese": "Ba mươi (30)",
+    "audio": "तीस"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​"
+    "hindi": "पचास",
+    "transliteration": "pachas",
+    "english": "Fifty",
+    "vietnamese": "Năm mươi (50)",
+    "audio": "पचास"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​​​",
-    "transliteration": "miṭṭī",
-    "english": "Soil / Earth",
-    "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​​​"
+    "hindi": "सौ",
+    "transliteration": "sau",
+    "english": "Hundred",
+    "vietnamese": "Một trăm (100)",
+    "audio": "सौ"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'ताला​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'ताला​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'ताला​​​​​​​​​​​'",
-    "text": "ताला​​​​​​​​​​​",
-    "subtext": "tālā",
-    "answer": "Lock",
-    "answer_vi": "Ổ khóa",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ग्यारह",
+    "text": "ग्यारह",
+    "subtext": "",
+    "answer": "Eleven",
+    "answer_vi": "Mười một (11)",
     "options": [
-      "Lock",
-      "To read",
-      "To read",
-      "Soil / Earth"
+      "Eleven",
+      "Twenty",
+      "Thirty",
+      "Fifty"
     ],
-    "options_vi": [
-      "Ổ khóa",
-      "Đọc",
-      "Đọc",
-      "Đất"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "ताला​​​​​​​​​​​",
-        "english": "Lock (Ổ khóa)"
-      },
-      {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To read (Đọc)"
-      },
-      {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​",
-        "english": "To read (Đọc)"
-      },
-      {
-        "hindi": "मिट्टी​​​​​​​​​",
-        "english": "Soil / Earth (Đất)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: शहर​​​​.",
-    "simpleRule": "Remember: शहर​​​​ means City (Thành phố)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "शहर​​​​",
-    "transliteration": "shahar",
-    "english": "City",
-    "vietnamese": "Thành phố",
-    "audio": "शहर​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "गर्म",
-    "transliteration": "garm",
-    "english": "Hot",
-    "vietnamese": "Nóng",
-    "audio": "गर्म"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सही है",
-    "transliteration": "sahi hai",
-    "english": "That is right",
-    "vietnamese": "Đúng thế",
-    "audio": "सही है"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "मुझे नींद आ रही है।",
-    "transliteration": "mujhe neend aa rahi hai",
-    "english": "I am feeling sleepy.",
-    "vietnamese": "Tôi đang buồn ngủ.",
-    "audio": "मुझे नींद आ रही है।"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'शहर​​​​'",
-    "prompt_en": "Choose correct translation for 'शहर​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'शहर​​​​'",
-    "text": "शहर​​​​",
-    "subtext": "shahar",
-    "answer": "City",
-    "answer_vi": "Thành phố",
-    "options": [
-      "City",
-      "Hot",
-      "That is right",
-      "I am feeling sleepy."
-    ],
-    "options_vi": [
-      "Thành phố",
-      "Nóng",
-      "Đúng thế",
-      "Tôi đang buồn ngủ."
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "शहर​​​​",
-        "english": "City (Thành phố)"
-      },
-      {
-        "hindi": "गर्म",
-        "english": "Hot (Nóng)"
-      },
-      {
-        "hindi": "सही है",
-        "english": "That is right (Đúng thế)"
-      },
-      {
-        "hindi": "मुझे नींद आ रही है।",
-        "english": "I am feeling sleepy. (Tôi đang buồn ngủ.)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "ताला​​​​​​​​​​​",
-    "translation_en": "Lock",
-    "translation_vi": "Ổ khóa",
     "options_en": [
-      "Lock",
-      "To read",
-      "To read",
-      "Soil / Earth"
+      "Eleven",
+      "Twenty",
+      "Thirty",
+      "Fifty"
     ],
     "options_vi": [
-      "Ổ khóa",
-      "Đọc",
-      "Đọc",
-      "Đất"
+      "Mười một (11)",
+      "Hai mươi (20)",
+      "Ba mươi (30)",
+      "Năm mươi (50)"
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have Lock / Tôi có Ổ khóa",
-    "hindiWords": [
-      "मेरे",
-      "पास",
-      "ताला​​​​​​​​​​​",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "बीस",
+    "text": "बीस",
+    "subtext": "",
+    "answer": "Twenty",
+    "answer_vi": "Hai mươi (20)",
+    "options": [
+      "Twenty",
+      "Eleven",
+      "Thirty",
+      "Fifty"
     ],
-    "correctHindiSentence": "मेरे पास ताला​​​​​​​​​​​ है"
+    "options_en": [
+      "Twenty",
+      "Eleven",
+      "Thirty",
+      "Fifty"
+    ],
+    "options_vi": [
+      "Hai mươi (20)",
+      "Mười một (11)",
+      "Ba mươi (30)",
+      "Năm mươi (50)"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "Price is To read / Giá là Đọc",
-    "hindiWords": [
-      "दाम",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "है",
-      "था"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "तीस",
+    "text": "तीस",
+    "subtext": "",
+    "answer": "Thirty",
+    "answer_vi": "Ba mươi (30)",
+    "options": [
+      "Thirty",
+      "Eleven",
+      "Twenty",
+      "Fifty"
     ],
-    "correctHindiSentence": "दाम पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+    "options_en": [
+      "Thirty",
+      "Eleven",
+      "Twenty",
+      "Fifty"
+    ],
+    "options_vi": [
+      "Ba mươi (30)",
+      "Mười một (11)",
+      "Hai mươi (20)",
+      "Năm mươi (50)"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: ताला​​​​​​​​​​​, मुझे नींद आ रही है।",
-      "Practiced constructing sentences."
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पचास",
+    "text": "पचास",
+    "subtext": "",
+    "answer": "Fifty",
+    "answer_vi": "Năm mươi (50)",
+    "options": [
+      "Fifty",
+      "Eleven",
+      "Twenty",
+      "Thirty"
+    ],
+    "options_en": [
+      "Fifty",
+      "Eleven",
+      "Twenty",
+      "Thirty"
+    ],
+    "options_vi": [
+      "Năm mươi (50)",
+      "Mười một (11)",
+      "Hai mươi (20)",
+      "Ba mươi (30)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "सौ",
+    "text": "सौ",
+    "subtext": "",
+    "answer": "Hundred",
+    "answer_vi": "Một trăm (100)",
+    "options": [
+      "Hundred",
+      "Eleven",
+      "Twenty",
+      "Thirty"
+    ],
+    "options_en": [
+      "Hundred",
+      "Eleven",
+      "Twenty",
+      "Thirty"
+    ],
+    "options_vi": [
+      "Một trăm (100)",
+      "Mười một (11)",
+      "Hai mươi (20)",
+      "Ba mươi (30)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "ग्यारह",
+        "english": "Eleven"
+      },
+      {
+        "hindi": "बीस",
+        "english": "Twenty"
+      },
+      {
+        "hindi": "तीस",
+        "english": "Thirty"
+      },
+      {
+        "hindi": "पचास",
+        "english": "Fifty"
+      }
     ]
   }
 ]

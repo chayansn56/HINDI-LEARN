@@ -1,450 +1,81 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 1",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 1. Read the key points carefully.",
+    "title": "The English Alphabet & Vowels",
+    "description": "Master vocabulary and expressions for The English Alphabet & Vowels.",
     "keyPoints": [
-      "Learn alphabets_lab concepts in depth."
+      "Learn A and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Cup.",
-    "simpleRule": "Remember: Cup means प्याला​​​​​ (Tách)."
+    "type": "Flashcard",
+    "hindi": "A",
+    "english": "A",
+    "vietnamese": "Chữ A",
+    "audio": "A"
   },
   {
     "type": "Flashcard",
-    "hindi": "Cup",
-    "transliteration": "",
-    "english": "Tách",
-    "vietnamese": "",
-    "audio": "Cup"
+    "hindi": "E",
+    "english": "E",
+    "vietnamese": "Chữ E",
+    "audio": "E"
   },
   {
     "type": "Flashcard",
-    "hindi": "To learn",
-    "transliteration": "",
-    "english": "Học",
-    "vietnamese": "",
-    "audio": "To learn"
+    "hindi": "I",
+    "english": "I",
+    "vietnamese": "Chữ I",
+    "audio": "I"
   },
   {
     "type": "Flashcard",
-    "hindi": "Rain",
-    "transliteration": "",
-    "english": "Cơn mưa",
-    "vietnamese": "",
-    "audio": "Rain"
+    "hindi": "O",
+    "english": "O",
+    "vietnamese": "Chữ O",
+    "audio": "O"
   },
   {
     "type": "Flashcard",
-    "hindi": "I am proud of you.",
-    "transliteration": "",
-    "english": "Tôi tự hào về bạn.",
-    "vietnamese": "",
-    "audio": "I am proud of you."
+    "hindi": "U",
+    "english": "U",
+    "vietnamese": "Chữ U",
+    "audio": "U"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vowel",
+    "english": "Vowel",
+    "vietnamese": "Nguyên âm",
+    "audio": "Vowel"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'Cup'",
-    "prompt_en": "Choose correct translation for 'Cup'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Cup'",
-    "text": "Cup",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "A",
+    "text": "A",
     "subtext": "",
-    "answer": "Cup",
-    "answer_vi": "Tách",
+    "answer": "A",
+    "answer_vi": "Chữ A",
     "options": [
-      "Cup",
-      "To learn",
-      "Rain",
-      "I am proud of you."
-    ],
-    "options_vi": [
-      "Tách",
-      "Học",
-      "Cơn mưa",
-      "Tôi tự hào về bạn."
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Cup",
-        "english": "प्याला​​​​​ (Tách)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "Rain",
-        "english": "बारिश​​​​​​​​​ (Cơn mưa)"
-      },
-      {
-        "hindi": "I am proud of you.",
-        "english": "मुझे तुम पर गर्व है। (Tôi tự hào về bạn.)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: To see / watch.",
-    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To see / watch",
-    "transliteration": "",
-    "english": "Nhìn / Xem",
-    "vietnamese": "",
-    "audio": "To see / watch"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Sea / Ocean",
-    "transliteration": "",
-    "english": "Biển",
-    "vietnamese": "",
-    "audio": "Sea / Ocean"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To wash",
-    "transliteration": "",
-    "english": "Rửa / Giặt",
-    "vietnamese": "",
-    "audio": "To wash"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Hello, how are you?",
-    "transliteration": "",
-    "english": "Xin chào, bạn khỏe không?",
-    "vietnamese": "",
-    "audio": "Hello, how are you?"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To see / watch'",
-    "prompt_en": "Choose correct translation for 'To see / watch'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
-    "text": "To see / watch",
-    "subtext": "",
-    "answer": "To see / watch",
-    "answer_vi": "Nhìn / Xem",
-    "options": [
-      "To see / watch",
-      "Sea / Ocean",
-      "To wash",
-      "Hello, how are you?"
-    ],
-    "options_vi": [
-      "Nhìn / Xem",
-      "Biển",
-      "Rửa / Giặt",
-      "Xin chào, bạn khỏe không?"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
-      },
-      {
-        "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​​​​​​​​​ (Biển)"
-      },
-      {
-        "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
-      },
-      {
-        "hindi": "Hello, how are you?",
-        "english": "नमस्ते, आप कैसे हैं? (Xin chào, bạn khỏe không?)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: God bless you..",
-    "simpleRule": "Remember: God bless you. means भगवान आपका भला करे। (Thần linh ban phước cho bạn.)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "God bless you.",
-    "transliteration": "",
-    "english": "Thần linh ban phước cho bạn.",
-    "vietnamese": "",
-    "audio": "God bless you."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To laugh",
-    "transliteration": "",
-    "english": "Cười lớn",
-    "vietnamese": "",
-    "audio": "To laugh"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To cry",
-    "transliteration": "",
-    "english": "Khóc",
-    "vietnamese": "",
-    "audio": "To cry"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'God bless you.'",
-    "prompt_en": "Choose correct translation for 'God bless you.'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'God bless you.'",
-    "text": "God bless you.",
-    "subtext": "",
-    "answer": "God bless you.",
-    "answer_vi": "Thần linh ban phước cho bạn.",
-    "options": [
-      "God bless you.",
-      "To laugh",
-      "To listen / hear",
-      "To cry"
-    ],
-    "options_vi": [
-      "Thần linh ban phước cho bạn.",
-      "Cười lớn",
-      "Nghe",
-      "Khóc"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "God bless you.",
-        "english": "भगवान आपका भला करे। (Thần linh ban phước cho bạn.)"
-      },
-      {
-        "hindi": "To laugh",
-        "english": "हँसना​​​​​​​ (Cười lớn)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set D",
-    "explanation": "Understand the usage and roots of: To tell / explain.",
-    "simpleRule": "Remember: To tell / explain means बताना​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To tell / explain",
-    "transliteration": "",
-    "english": "Kể / Giải thích",
-    "vietnamese": "",
-    "audio": "To tell / explain"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Cloud",
-    "transliteration": "",
-    "english": "Đám mây",
-    "vietnamese": "",
-    "audio": "Cloud"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Rate / Door",
-    "transliteration": "",
-    "english": "Tỷ lệ / Cửa",
-    "vietnamese": "",
-    "audio": "Rate / Door"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Road",
-    "transliteration": "",
-    "english": "Đường",
-    "vietnamese": "",
-    "audio": "Road"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To tell / explain'",
-    "prompt_en": "Choose correct translation for 'To tell / explain'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To tell / explain'",
-    "text": "To tell / explain",
-    "subtext": "",
-    "answer": "To tell / explain",
-    "answer_vi": "Kể / Giải thích",
-    "options": [
-      "To tell / explain",
-      "Cloud",
-      "Rate / Door",
-      "Road"
-    ],
-    "options_vi": [
-      "Kể / Giải thích",
-      "Đám mây",
-      "Tỷ lệ / Cửa",
-      "Đường"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
-      },
-      {
-        "hindi": "Cloud",
-        "english": "बादल​​​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "Rate / Door",
-        "english": "दर (Tỷ lệ / Cửa)"
-      },
-      {
-        "hindi": "Road",
-        "english": "सड़क​ (Đường)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Cup",
-    "translation_en": "प्याला​​​​​",
-    "translation_vi": "Tách",
-    "options_en": [
-      "प्याला​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बारिश​​​​​​​​​",
-      "मुझे तुम पर गर्व है।"
-    ],
-    "options_vi": [
-      "Tách",
-      "Học",
-      "Cơn mưa",
-      "Tôi tự hào về bạn."
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Nó là một Tách",
-    "hindiWords": [
-      "It",
-      "is",
-      "a",
-      "Cup"
-    ],
-    "correctHindiSentence": "It is a Cup"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Tôi thích Học",
-    "hindiWords": [
+      "A",
+      "E",
       "I",
-      "really",
-      "like",
-      "To",
-      "learn"
-    ],
-    "correctHindiSentence": "I really like To learn"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Cup and Road",
-      "Practiced constructing sentences."
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
-    "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
-    "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "O"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "A",
+      "E",
+      "I",
+      "O"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Chữ A",
+      "Chữ E",
+      "Chữ I",
+      "Chữ O"
     ]
   },
   {
@@ -452,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "E",
+    "text": "E",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "E",
+    "answer_vi": "Chữ E",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "E",
+      "A",
+      "I",
+      "O"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "E",
+      "A",
+      "I",
+      "O"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Chữ E",
+      "Chữ A",
+      "Chữ I",
+      "Chữ O"
     ]
   },
   {
@@ -480,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "I",
+    "text": "I",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "I",
+    "answer_vi": "Chữ I",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "I",
+      "A",
+      "E",
+      "O"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "I",
+      "A",
+      "E",
+      "O"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Chữ I",
+      "Chữ A",
+      "Chữ E",
+      "Chữ O"
     ]
   },
   {
@@ -508,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "O",
+    "text": "O",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "O",
+    "answer_vi": "Chữ O",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "O",
+      "A",
+      "E",
+      "I"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "O",
+      "A",
+      "E",
+      "I"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Chữ O",
+      "Chữ A",
+      "Chữ E",
+      "Chữ I"
     ]
   },
   {
@@ -536,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "U",
+    "text": "U",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "U",
+    "answer_vi": "Chữ U",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "U",
+      "A",
+      "E",
+      "I"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "U",
+      "A",
+      "E",
+      "I"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Chữ U",
+      "Chữ A",
+      "Chữ E",
+      "Chữ I"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Vowel",
+    "text": "Vowel",
+    "subtext": "",
+    "answer": "Vowel",
+    "answer_vi": "Nguyên âm",
+    "options": [
+      "Vowel",
+      "A",
+      "E",
+      "I"
+    ],
+    "options_en": [
+      "Vowel",
+      "A",
+      "E",
+      "I"
+    ],
+    "options_vi": [
+      "Nguyên âm",
+      "Chữ A",
+      "Chữ E",
+      "Chữ I"
     ]
   },
   {
@@ -564,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "A",
+        "english": "Chữ A"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "E",
+        "english": "Chữ E"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "I",
+        "english": "Chữ I"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "O",
+        "english": "Chữ O"
       }
     ]
   }

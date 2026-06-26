@@ -1,24 +1,18 @@
 [
   {
     "type": "Introduction",
-    "title": "Numbers 0-100",
-    "description": "Master the vocabulary and grammar for: Numbers 0-100. Read the key points carefully.",
+    "title": "Numbers 1-10",
+    "description": "Master vocabulary and expressions for Numbers 1-10.",
     "keyPoints": [
-      "Master Numbers 0-100"
+      "Learn एक and related terms."
     ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: एक.",
-    "simpleRule": "Remember: एक means One (Số một)."
   },
   {
     "type": "Flashcard",
     "hindi": "एक",
     "transliteration": "ek",
     "english": "One",
-    "vietnamese": "Số một",
+    "vietnamese": "Số một (1)",
     "audio": "एक"
   },
   {
@@ -26,45 +20,235 @@
     "hindi": "दो",
     "transliteration": "do",
     "english": "Two",
-    "vietnamese": "Số hai",
+    "vietnamese": "Số hai (2)",
     "audio": "दो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तीन",
+    "transliteration": "teen",
+    "english": "Three",
+    "vietnamese": "Số ba (3)",
+    "audio": "तीन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चार",
+    "transliteration": "chaar",
+    "english": "Four",
+    "vietnamese": "Số bốn (4)",
+    "audio": "चार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पाँच",
+    "transliteration": "paanch",
+    "english": "Five",
+    "vietnamese": "Số năm (5)",
+    "audio": "पाँच"
   },
   {
     "type": "Flashcard",
     "hindi": "दस",
     "transliteration": "das",
     "english": "Ten",
-    "vietnamese": "Số mười",
+    "vietnamese": "Số mười (10)",
     "audio": "दस"
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have One / Tôi có Số một",
-    "hindiWords": [
-      "मेरे",
-      "पास",
-      "एक",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "एक",
+    "text": "एक",
+    "subtext": "",
+    "answer": "One",
+    "answer_vi": "Số một (1)",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
     ],
-    "correctHindiSentence": "मेरे पास एक है"
+    "options_en": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "options_vi": [
+      "Số một (1)",
+      "Số hai (2)",
+      "Số ba (3)",
+      "Số bốn (4)"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "Price is Two / Giá là Số hai",
-    "hindiWords": [
-      "दाम",
-      "दो",
-      "है",
-      "था"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दो",
+    "text": "दो",
+    "subtext": "",
+    "answer": "Two",
+    "answer_vi": "Số hai (2)",
+    "options": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
     ],
-    "correctHindiSentence": "दाम दो है"
+    "options_en": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "options_vi": [
+      "Số hai (2)",
+      "Số một (1)",
+      "Số ba (3)",
+      "Số bốn (4)"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: एक, दस",
-      "Practiced constructing sentences."
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "तीन",
+    "text": "तीन",
+    "subtext": "",
+    "answer": "Three",
+    "answer_vi": "Số ba (3)",
+    "options": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "options_en": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "options_vi": [
+      "Số ba (3)",
+      "Số một (1)",
+      "Số hai (2)",
+      "Số bốn (4)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "चार",
+    "text": "चार",
+    "subtext": "",
+    "answer": "Four",
+    "answer_vi": "Số bốn (4)",
+    "options": [
+      "Four",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_en": [
+      "Four",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_vi": [
+      "Số bốn (4)",
+      "Số một (1)",
+      "Số hai (2)",
+      "Số ba (3)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पाँच",
+    "text": "पाँच",
+    "subtext": "",
+    "answer": "Five",
+    "answer_vi": "Số năm (5)",
+    "options": [
+      "Five",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_en": [
+      "Five",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_vi": [
+      "Số năm (5)",
+      "Số một (1)",
+      "Số hai (2)",
+      "Số ba (3)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दस",
+    "text": "दस",
+    "subtext": "",
+    "answer": "Ten",
+    "answer_vi": "Số mười (10)",
+    "options": [
+      "Ten",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_en": [
+      "Ten",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_vi": [
+      "Số mười (10)",
+      "Số một (1)",
+      "Số hai (2)",
+      "Số ba (3)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "एक",
+        "english": "One"
+      },
+      {
+        "hindi": "दो",
+        "english": "Two"
+      },
+      {
+        "hindi": "तीन",
+        "english": "Three"
+      },
+      {
+        "hindi": "चार",
+        "english": "Four"
+      }
     ]
   }
 ]

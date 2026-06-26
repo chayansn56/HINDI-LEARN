@@ -1,222 +1,217 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 4",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 4. Read the key points carefully.",
+    "title": "Labials & Semivowels",
+    "description": "Master vocabulary and expressions for Labials & Semivowels.",
     "keyPoints": [
-      "Learn alphabets_lab concepts."
+      "Learn प and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: पढ़ना​​​​​​​​​​.",
-    "simpleRule": "Remember: पढ़ना​​​​​​​​​​ means To read (Đọc)."
+    "type": "Flashcard",
+    "hindi": "प",
+    "transliteration": "pa",
+    "english": "Labial P",
+    "vietnamese": "Âm /p/ bằng môi",
+    "audio": "प"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​"
+    "hindi": "फ",
+    "transliteration": "pha",
+    "english": "Aspirated PH",
+    "vietnamese": "Âm /ph/ bật hơi bằng môi",
+    "audio": "फ"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​"
+    "hindi": "ब",
+    "transliteration": "ba",
+    "english": "Labial B",
+    "vietnamese": "Âm /b/ bằng môi",
+    "audio": "ब"
   },
   {
     "type": "Flashcard",
-    "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "lenā",
-    "english": "To take",
-    "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "भ",
+    "transliteration": "bha",
+    "english": "Aspirated BH",
+    "vietnamese": "Âm /bh/ bật hơi",
+    "audio": "भ"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​",
-    "transliteration": "sunnā",
-    "english": "To listen / hear",
-    "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​"
+    "hindi": "म",
+    "transliteration": "ma",
+    "english": "Labial M",
+    "vietnamese": "Âm /m/ bằng môi",
+    "audio": "म"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पढ़ना​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'पढ़ना​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पढ़ना​​​​​​​​​​'",
-    "text": "पढ़ना​​​​​​​​​​",
-    "subtext": "paṛhnā",
-    "answer": "To read",
-    "answer_vi": "Đọc",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "प",
+    "text": "प",
+    "subtext": "",
+    "answer": "Labial P",
+    "answer_vi": "Âm /p/ bằng môi",
     "options": [
-      "To read",
-      "To read",
-      "To take",
-      "To listen / hear"
+      "Labial P",
+      "Aspirated PH",
+      "Labial B",
+      "Aspirated BH"
     ],
-    "options_vi": [
-      "Đọc",
-      "Đọc",
-      "Lấy / Nhận",
-      "Nghe"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "पढ़ना​​​​​​​​​​",
-        "english": "To read (Đọc)"
-      },
-      {
-        "hindi": "पढ़ना​​​​​​",
-        "english": "To read (Đọc)"
-      },
-      {
-        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To take (Lấy / Nhận)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बोलना​​.",
-    "simpleRule": "Remember: बोलना​​ means To speak (Nói)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बोलना​​",
-    "transliteration": "bolnā",
-    "english": "To speak",
-    "vietnamese": "Nói",
-    "audio": "बोलना​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "चलना​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "likhnā",
-    "english": "To write",
-    "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लेना​​​​​​​​",
-    "transliteration": "lenā",
-    "english": "To take",
-    "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​​'",
-    "prompt_en": "Choose correct translation for 'बोलना​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​'",
-    "text": "बोलना​​",
-    "subtext": "bolnā",
-    "answer": "To speak",
-    "answer_vi": "Nói",
-    "options": [
-      "To speak",
-      "To walk / move",
-      "To write",
-      "To take"
-    ],
-    "options_vi": [
-      "Nói",
-      "Đi bộ / Di chuyển",
-      "Viết",
-      "Lấy / Nhận"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "बोलना​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "चलना​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To write (Viết)"
-      },
-      {
-        "hindi": "लेना​​​​​​​​",
-        "english": "To take (Lấy / Nhận)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "पढ़ना​​​​​​​​​​",
-    "translation_en": "To read",
-    "translation_vi": "Đọc",
     "options_en": [
-      "To read",
-      "To read",
-      "To take",
-      "To listen / hear"
+      "Labial P",
+      "Aspirated PH",
+      "Labial B",
+      "Aspirated BH"
     ],
     "options_vi": [
-      "Đọc",
-      "Đọc",
-      "Lấy / Nhận",
-      "Nghe"
+      "Âm /p/ bằng môi",
+      "Âm /ph/ bật hơi bằng môi",
+      "Âm /b/ bằng môi",
+      "Âm /bh/ bật hơi"
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a To read / Đây là Đọc",
-    "hindiWords": [
-      "यह",
-      "एक",
-      "पढ़ना​​​​​​​​​​",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "फ",
+    "text": "फ",
+    "subtext": "",
+    "answer": "Aspirated PH",
+    "answer_vi": "Âm /ph/ bật hơi bằng môi",
+    "options": [
+      "Aspirated PH",
+      "Labial P",
+      "Labial B",
+      "Aspirated BH"
     ],
-    "correctHindiSentence": "यह एक पढ़ना​​​​​​​​​​ है"
+    "options_en": [
+      "Aspirated PH",
+      "Labial P",
+      "Labial B",
+      "Aspirated BH"
+    ],
+    "options_vi": [
+      "Âm /ph/ bật hơi bằng môi",
+      "Âm /p/ bằng môi",
+      "Âm /b/ bằng môi",
+      "Âm /bh/ bật hơi"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see To read / Tôi thấy Đọc",
-    "hindiWords": [
-      "मैं",
-      "पढ़ना​​​​​​",
-      "देखता",
-      "हूँ"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ब",
+    "text": "ब",
+    "subtext": "",
+    "answer": "Labial B",
+    "answer_vi": "Âm /b/ bằng môi",
+    "options": [
+      "Labial B",
+      "Labial P",
+      "Aspirated PH",
+      "Aspirated BH"
     ],
-    "correctHindiSentence": "मैं पढ़ना​​​​​​ देखता हूँ"
+    "options_en": [
+      "Labial B",
+      "Labial P",
+      "Aspirated PH",
+      "Aspirated BH"
+    ],
+    "options_vi": [
+      "Âm /b/ bằng môi",
+      "Âm /p/ bằng môi",
+      "Âm /ph/ bật hơi bằng môi",
+      "Âm /bh/ bật hơi"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: पढ़ना​​​​​​​​​​, लेना​​​​​​​​",
-      "Practiced constructing sentences."
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "भ",
+    "text": "भ",
+    "subtext": "",
+    "answer": "Aspirated BH",
+    "answer_vi": "Âm /bh/ bật hơi",
+    "options": [
+      "Aspirated BH",
+      "Labial P",
+      "Aspirated PH",
+      "Labial B"
+    ],
+    "options_en": [
+      "Aspirated BH",
+      "Labial P",
+      "Aspirated PH",
+      "Labial B"
+    ],
+    "options_vi": [
+      "Âm /bh/ bật hơi",
+      "Âm /p/ bằng môi",
+      "Âm /ph/ bật hơi bằng môi",
+      "Âm /b/ bằng môi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "म",
+    "text": "म",
+    "subtext": "",
+    "answer": "Labial M",
+    "answer_vi": "Âm /m/ bằng môi",
+    "options": [
+      "Labial M",
+      "Labial P",
+      "Aspirated PH",
+      "Labial B"
+    ],
+    "options_en": [
+      "Labial M",
+      "Labial P",
+      "Aspirated PH",
+      "Labial B"
+    ],
+    "options_vi": [
+      "Âm /m/ bằng môi",
+      "Âm /p/ bằng môi",
+      "Âm /ph/ bật hơi bằng môi",
+      "Âm /b/ bằng môi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "प",
+        "english": "Labial P"
+      },
+      {
+        "hindi": "फ",
+        "english": "Aspirated PH"
+      },
+      {
+        "hindi": "ब",
+        "english": "Labial B"
+      },
+      {
+        "hindi": "भ",
+        "english": "Aspirated BH"
+      }
     ]
   }
 ]

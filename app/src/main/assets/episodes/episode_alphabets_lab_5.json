@@ -1,222 +1,217 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 5",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 5. Read the key points carefully.",
+    "title": "Conjuncts & Nuqta",
+    "description": "Master vocabulary and expressions for Conjuncts & Nuqta.",
     "keyPoints": [
-      "Learn alphabets_lab concepts."
+      "Learn क्ष and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: शब्द.",
-    "simpleRule": "Remember: शब्द means Word (Từ ngữ)."
+    "type": "Flashcard",
+    "hindi": "क्ष",
+    "transliteration": "ksha",
+    "english": "Conjunct KSHA",
+    "vietnamese": "Phụ âm ghép ksha",
+    "audio": "क्ष"
   },
   {
     "type": "Flashcard",
-    "hindi": "शब्द",
-    "transliteration": "shabd",
-    "english": "Word",
-    "vietnamese": "Từ ngữ",
-    "audio": "शब्द"
+    "hindi": "त्र",
+    "transliteration": "tra",
+    "english": "Conjunct TRA",
+    "vietnamese": "Phụ âm ghép tra",
+    "audio": "त्र"
   },
   {
     "type": "Flashcard",
-    "hindi": "जुदाई",
-    "transliteration": "judaai",
-    "english": "Separation",
-    "vietnamese": "Sự chia ly",
-    "audio": "जुदाई"
+    "hindi": "ज्ञ",
+    "transliteration": "gya",
+    "english": "Conjunct GYA",
+    "vietnamese": "Phụ âm ghép gya",
+    "audio": "ज्ञ"
   },
   {
     "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "ज़",
+    "transliteration": "za",
+    "english": "Nuqta ZA",
+    "vietnamese": "Âm /z/ mượn từ tiếng Ba Tư",
+    "audio": "ज़"
   },
   {
     "type": "Flashcard",
-    "hindi": "शहर​​​​​​​​​",
-    "transliteration": "shahar",
-    "english": "City",
-    "vietnamese": "Thành phố",
-    "audio": "शहर​​​​​​​​​"
+    "hindi": "फ़",
+    "transliteration": "fa",
+    "english": "Nuqta FA",
+    "vietnamese": "Âm /f/ mượn từ tiếng Ba Tư",
+    "audio": "फ़"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'शब्द'",
-    "prompt_en": "Choose correct translation for 'शब्द'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'शब्द'",
-    "text": "शब्द",
-    "subtext": "shabd",
-    "answer": "Word",
-    "answer_vi": "Từ ngữ",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "क्ष",
+    "text": "क्ष",
+    "subtext": "",
+    "answer": "Conjunct KSHA",
+    "answer_vi": "Phụ âm ghép ksha",
     "options": [
-      "Word",
-      "Separation",
-      "To stand",
-      "City"
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Conjunct GYA",
+      "Nuqta ZA"
     ],
-    "options_vi": [
-      "Từ ngữ",
-      "Sự chia ly",
-      "Đứng",
-      "Thành phố"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "शब्द",
-        "english": "Word (Từ ngữ)"
-      },
-      {
-        "hindi": "जुदाई",
-        "english": "Separation (Sự chia ly)"
-      },
-      {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
-      },
-      {
-        "hindi": "शहर​​​​​​​​​",
-        "english": "City (Thành phố)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बर्फ़​​​​​.",
-    "simpleRule": "Remember: बर्फ़​​​​​ means Snow / Ice (Tuyết / Đá)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बर्फ़​​​​​",
-    "transliteration": "barf",
-    "english": "Snow / Ice",
-    "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "सत्यमेव जयते",
-    "transliteration": "satyamev jayate",
-    "english": "Truth alone triumphs",
-    "vietnamese": "Sự thật luôn chiến thắng",
-    "audio": "सत्यमेव जयते"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पूछना​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "कापी​​​​​​​​​​​",
-    "transliteration": "kaapī",
-    "english": "Notebook",
-    "vietnamese": "Sổ tay",
-    "audio": "कापी​​​​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'बर्फ़​​​​​'",
-    "prompt_en": "Choose correct translation for 'बर्फ़​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बर्फ़​​​​​'",
-    "text": "बर्फ़​​​​​",
-    "subtext": "barf",
-    "answer": "Snow / Ice",
-    "answer_vi": "Tuyết / Đá",
-    "options": [
-      "Snow / Ice",
-      "Truth alone triumphs",
-      "To ask",
-      "Notebook"
-    ],
-    "options_vi": [
-      "Tuyết / Đá",
-      "Sự thật luôn chiến thắng",
-      "Hỏi",
-      "Sổ tay"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "बर्फ़​​​​​",
-        "english": "Snow / Ice (Tuyết / Đá)"
-      },
-      {
-        "hindi": "सत्यमेव जयते",
-        "english": "Truth alone triumphs (Sự thật luôn chiến thắng)"
-      },
-      {
-        "hindi": "पूछना​​​​​​",
-        "english": "To ask (Hỏi)"
-      },
-      {
-        "hindi": "कापी​​​​​​​​​​​",
-        "english": "Notebook (Sổ tay)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "शब्द",
-    "translation_en": "Word",
-    "translation_vi": "Từ ngữ",
     "options_en": [
-      "Word",
-      "Separation",
-      "To stand",
-      "City"
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Conjunct GYA",
+      "Nuqta ZA"
     ],
     "options_vi": [
-      "Từ ngữ",
-      "Sự chia ly",
-      "Đứng",
-      "Thành phố"
+      "Phụ âm ghép ksha",
+      "Phụ âm ghép tra",
+      "Phụ âm ghép gya",
+      "Âm /z/ mượn từ tiếng Ba Tư"
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a Word / Đây là Từ ngữ",
-    "hindiWords": [
-      "यह",
-      "एक",
-      "शब्द",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "त्र",
+    "text": "त्र",
+    "subtext": "",
+    "answer": "Conjunct TRA",
+    "answer_vi": "Phụ âm ghép tra",
+    "options": [
+      "Conjunct TRA",
+      "Conjunct KSHA",
+      "Conjunct GYA",
+      "Nuqta ZA"
     ],
-    "correctHindiSentence": "यह एक शब्द है"
+    "options_en": [
+      "Conjunct TRA",
+      "Conjunct KSHA",
+      "Conjunct GYA",
+      "Nuqta ZA"
+    ],
+    "options_vi": [
+      "Phụ âm ghép tra",
+      "Phụ âm ghép ksha",
+      "Phụ âm ghép gya",
+      "Âm /z/ mượn từ tiếng Ba Tư"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see Separation / Tôi thấy Sự chia ly",
-    "hindiWords": [
-      "मैं",
-      "जुदाई",
-      "देखता",
-      "हूँ"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ज्ञ",
+    "text": "ज्ञ",
+    "subtext": "",
+    "answer": "Conjunct GYA",
+    "answer_vi": "Phụ âm ghép gya",
+    "options": [
+      "Conjunct GYA",
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Nuqta ZA"
     ],
-    "correctHindiSentence": "मैं जुदाई देखता हूँ"
+    "options_en": [
+      "Conjunct GYA",
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Nuqta ZA"
+    ],
+    "options_vi": [
+      "Phụ âm ghép gya",
+      "Phụ âm ghép ksha",
+      "Phụ âm ghép tra",
+      "Âm /z/ mượn từ tiếng Ba Tư"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: शब्द, कापी​​​​​​​​​​​",
-      "Practiced constructing sentences."
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ज़",
+    "text": "ज़",
+    "subtext": "",
+    "answer": "Nuqta ZA",
+    "answer_vi": "Âm /z/ mượn từ tiếng Ba Tư",
+    "options": [
+      "Nuqta ZA",
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Conjunct GYA"
+    ],
+    "options_en": [
+      "Nuqta ZA",
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Conjunct GYA"
+    ],
+    "options_vi": [
+      "Âm /z/ mượn từ tiếng Ba Tư",
+      "Phụ âm ghép ksha",
+      "Phụ âm ghép tra",
+      "Phụ âm ghép gya"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "फ़",
+    "text": "फ़",
+    "subtext": "",
+    "answer": "Nuqta FA",
+    "answer_vi": "Âm /f/ mượn từ tiếng Ba Tư",
+    "options": [
+      "Nuqta FA",
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Conjunct GYA"
+    ],
+    "options_en": [
+      "Nuqta FA",
+      "Conjunct KSHA",
+      "Conjunct TRA",
+      "Conjunct GYA"
+    ],
+    "options_vi": [
+      "Âm /f/ mượn từ tiếng Ba Tư",
+      "Phụ âm ghép ksha",
+      "Phụ âm ghép tra",
+      "Phụ âm ghép gya"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "क्ष",
+        "english": "Conjunct KSHA"
+      },
+      {
+        "hindi": "त्र",
+        "english": "Conjunct TRA"
+      },
+      {
+        "hindi": "ज्ञ",
+        "english": "Conjunct GYA"
+      },
+      {
+        "hindi": "ज़",
+        "english": "Nuqta ZA"
+      }
     ]
   }
 ]

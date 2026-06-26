@@ -1,222 +1,217 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 1",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 1. Read the key points carefully.",
+    "title": "Vowels & Vietnamese Sounds",
+    "description": "Master vocabulary and expressions for Vowels & Vietnamese Sounds.",
     "keyPoints": [
-      "Learn alphabets_lab concepts."
+      "Learn अ and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: सकता है.",
-    "simpleRule": "Remember: सकता है means Can / Able to (Có thể)."
+    "type": "Flashcard",
+    "hindi": "अ",
+    "transliteration": "a",
+    "english": "Short Vowel A",
+    "vietnamese": "Nguyên âm ngắn /a/",
+    "audio": "अ"
   },
   {
     "type": "Flashcard",
-    "hindi": "सकता है",
-    "transliteration": "saktā hai",
-    "english": "Can / Able to",
-    "vietnamese": "Có thể",
-    "audio": "सकता है"
+    "hindi": "आ",
+    "transliteration": "aa",
+    "english": "Long Vowel AA",
+    "vietnamese": "Nguyên âm dài /aa/",
+    "audio": "आ"
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​",
-    "transliteration": "jāgnā",
-    "english": "To wake up",
-    "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​"
+    "hindi": "इ",
+    "transliteration": "i",
+    "english": "Short Vowel I",
+    "vietnamese": "Nguyên âm ngắn /i/",
+    "audio": "इ"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "paṛhnā",
-    "english": "To read",
-    "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "ई",
+    "transliteration": "ee",
+    "english": "Long Vowel EE",
+    "vietnamese": "Nguyên âm dài /ee/",
+    "audio": "ई"
   },
   {
     "type": "Flashcard",
-    "hindi": "साफ करना​​​",
-    "transliteration": "sāf karnā",
-    "english": "To clean",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​"
+    "hindi": "उ",
+    "transliteration": "u",
+    "english": "Short Vowel U",
+    "vietnamese": "Nguyên âm ngắn /u/",
+    "audio": "उ"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सकता है'",
-    "prompt_en": "Choose correct translation for 'सकता है'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सकता है'",
-    "text": "सकता है",
-    "subtext": "saktā hai",
-    "answer": "Can / Able to",
-    "answer_vi": "Có thể",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "अ",
+    "text": "अ",
+    "subtext": "",
+    "answer": "Short Vowel A",
+    "answer_vi": "Nguyên âm ngắn /a/",
     "options": [
-      "Can / Able to",
-      "To wake up",
-      "To read",
-      "To clean"
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Short Vowel I",
+      "Long Vowel EE"
     ],
-    "options_vi": [
-      "Có thể",
-      "Thức dậy",
-      "Đọc",
-      "Dọn dẹp / Lau chùi"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "सकता है",
-        "english": "Can / Able to (Có thể)"
-      },
-      {
-        "hindi": "जागना​​​​",
-        "english": "To wake up (Thức dậy)"
-      },
-      {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To read (Đọc)"
-      },
-      {
-        "hindi": "साफ करना​​​",
-        "english": "To clean (Dọn dẹp / Lau chùi)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: लेना​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: लेना​​​​​​​​​​​​​​​​​​​​​​​​​ means To take (Lấy / Nhận)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "lenā",
-    "english": "To take",
-    "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "के विरुद्ध",
-    "transliteration": "ke viruddh",
-    "english": "against",
-    "vietnamese": "Chống lại / Phản đối",
-    "audio": "के विरुद्ध"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "शहर​​​​​​​​​",
-    "transliteration": "shahar",
-    "english": "City",
-    "vietnamese": "Thành phố",
-    "audio": "शहर​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बादल​​​​​​​​",
-    "transliteration": "bādal",
-    "english": "Cloud",
-    "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'लेना​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'लेना​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'लेना​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "lenā",
-    "answer": "To take",
-    "answer_vi": "Lấy / Nhận",
-    "options": [
-      "To take",
-      "against",
-      "City",
-      "Cloud"
-    ],
-    "options_vi": [
-      "Lấy / Nhận",
-      "Chống lại / Phản đối",
-      "Thành phố",
-      "Đám mây"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To take (Lấy / Nhận)"
-      },
-      {
-        "hindi": "के विरुद्ध",
-        "english": "against (Chống lại / Phản đối)"
-      },
-      {
-        "hindi": "शहर​​​​​​​​​",
-        "english": "City (Thành phố)"
-      },
-      {
-        "hindi": "बादल​​​​​​​​",
-        "english": "Cloud (Đám mây)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "सकता है",
-    "translation_en": "Can / Able to",
-    "translation_vi": "Có thể",
     "options_en": [
-      "Can / Able to",
-      "To wake up",
-      "To read",
-      "To clean"
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Short Vowel I",
+      "Long Vowel EE"
     ],
     "options_vi": [
-      "Có thể",
-      "Thức dậy",
-      "Đọc",
-      "Dọn dẹp / Lau chùi"
+      "Nguyên âm ngắn /a/",
+      "Nguyên âm dài /aa/",
+      "Nguyên âm ngắn /i/",
+      "Nguyên âm dài /ee/"
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a Can / Able to / Đây là Có thể",
-    "hindiWords": [
-      "यह",
-      "एक",
-      "सकता है",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "आ",
+    "text": "आ",
+    "subtext": "",
+    "answer": "Long Vowel AA",
+    "answer_vi": "Nguyên âm dài /aa/",
+    "options": [
+      "Long Vowel AA",
+      "Short Vowel A",
+      "Short Vowel I",
+      "Long Vowel EE"
     ],
-    "correctHindiSentence": "यह एक सकता है है"
+    "options_en": [
+      "Long Vowel AA",
+      "Short Vowel A",
+      "Short Vowel I",
+      "Long Vowel EE"
+    ],
+    "options_vi": [
+      "Nguyên âm dài /aa/",
+      "Nguyên âm ngắn /a/",
+      "Nguyên âm ngắn /i/",
+      "Nguyên âm dài /ee/"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see To wake up / Tôi thấy Thức dậy",
-    "hindiWords": [
-      "मैं",
-      "जागना​​​​",
-      "देखता",
-      "हूँ"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "इ",
+    "text": "इ",
+    "subtext": "",
+    "answer": "Short Vowel I",
+    "answer_vi": "Nguyên âm ngắn /i/",
+    "options": [
+      "Short Vowel I",
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Long Vowel EE"
     ],
-    "correctHindiSentence": "मैं जागना​​​​ देखता हूँ"
+    "options_en": [
+      "Short Vowel I",
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Long Vowel EE"
+    ],
+    "options_vi": [
+      "Nguyên âm ngắn /i/",
+      "Nguyên âm ngắn /a/",
+      "Nguyên âm dài /aa/",
+      "Nguyên âm dài /ee/"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: सकता है, बादल​​​​​​​​",
-      "Practiced constructing sentences."
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ई",
+    "text": "ई",
+    "subtext": "",
+    "answer": "Long Vowel EE",
+    "answer_vi": "Nguyên âm dài /ee/",
+    "options": [
+      "Long Vowel EE",
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Short Vowel I"
+    ],
+    "options_en": [
+      "Long Vowel EE",
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Short Vowel I"
+    ],
+    "options_vi": [
+      "Nguyên âm dài /ee/",
+      "Nguyên âm ngắn /a/",
+      "Nguyên âm dài /aa/",
+      "Nguyên âm ngắn /i/"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "उ",
+    "text": "उ",
+    "subtext": "",
+    "answer": "Short Vowel U",
+    "answer_vi": "Nguyên âm ngắn /u/",
+    "options": [
+      "Short Vowel U",
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Short Vowel I"
+    ],
+    "options_en": [
+      "Short Vowel U",
+      "Short Vowel A",
+      "Long Vowel AA",
+      "Short Vowel I"
+    ],
+    "options_vi": [
+      "Nguyên âm ngắn /u/",
+      "Nguyên âm ngắn /a/",
+      "Nguyên âm dài /aa/",
+      "Nguyên âm ngắn /i/"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "अ",
+        "english": "Short Vowel A"
+      },
+      {
+        "hindi": "आ",
+        "english": "Long Vowel AA"
+      },
+      {
+        "hindi": "इ",
+        "english": "Short Vowel I"
+      },
+      {
+        "hindi": "ई",
+        "english": "Long Vowel EE"
+      }
     ]
   }
 ]

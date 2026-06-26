@@ -1,222 +1,217 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 2",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 2. Read the key points carefully.",
+    "title": "Velars & Palatals",
+    "description": "Master vocabulary and expressions for Velars & Palatals.",
     "keyPoints": [
-      "Learn alphabets_lab concepts."
+      "Learn क and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: देखना​​​​​.",
-    "simpleRule": "Remember: देखना​​​​​ means To see / watch (Nhìn / Xem)."
+    "type": "Flashcard",
+    "hindi": "क",
+    "transliteration": "ka",
+    "english": "Velar K",
+    "vietnamese": "Âm /k/ nhẹ (cổ họng)",
+    "audio": "क"
   },
   {
     "type": "Flashcard",
-    "hindi": "देखना​​​​​",
-    "transliteration": "dekhnā",
-    "english": "To see / watch",
-    "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​"
+    "hindi": "ख",
+    "transliteration": "kha",
+    "english": "Aspirated KH",
+    "vietnamese": "Âm /kh/ bật hơi",
+    "audio": "ख"
   },
   {
     "type": "Flashcard",
-    "hindi": "बताना​​​​​​​​​​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​​​​​​​​​​"
+    "hindi": "ग",
+    "transliteration": "ga",
+    "english": "Velar G",
+    "vietnamese": "Âm /g/ (cổ họng)",
+    "audio": "ग"
   },
   {
     "type": "Flashcard",
-    "hindi": "शेयर",
-    "transliteration": "share",
-    "english": "Share / Stock",
-    "vietnamese": "Cổ phiếu",
-    "audio": "शेयर"
+    "hindi": "घ",
+    "transliteration": "gha",
+    "english": "Aspirated GH",
+    "vietnamese": "Âm /gh/ bật hơi",
+    "audio": "घ"
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​"
+    "hindi": "च",
+    "transliteration": "cha",
+    "english": "Palatal CH",
+    "vietnamese": "Âm /ch/ (vòm họng)",
+    "audio": "च"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'देखना​​​​​'",
-    "prompt_en": "Choose correct translation for 'देखना​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​​​​​'",
-    "text": "देखना​​​​​",
-    "subtext": "dekhnā",
-    "answer": "To see / watch",
-    "answer_vi": "Nhìn / Xem",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "क",
+    "text": "क",
+    "subtext": "",
+    "answer": "Velar K",
+    "answer_vi": "Âm /k/ nhẹ (cổ họng)",
     "options": [
-      "To see / watch",
-      "To tell / explain",
-      "Share / Stock",
-      "To cry"
+      "Velar K",
+      "Aspirated KH",
+      "Velar G",
+      "Aspirated GH"
     ],
-    "options_vi": [
-      "Nhìn / Xem",
-      "Kể / Giải thích",
-      "Cổ phiếu",
-      "Khóc"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "देखना​​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
-      },
-      {
-        "hindi": "बताना​​​​​​​​​​",
-        "english": "To tell / explain (Kể / Giải thích)"
-      },
-      {
-        "hindi": "शेयर",
-        "english": "Share / Stock (Cổ phiếu)"
-      },
-      {
-        "hindi": "रोना​​",
-        "english": "To cry (Khóc)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: फ़र्क.",
-    "simpleRule": "Remember: फ़र्क means Difference (Sự khác biệt)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "फ़र्क",
-    "transliteration": "farq",
-    "english": "Difference",
-    "vietnamese": "Sự khác biệt",
-    "audio": "फ़र्क"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बाथरूम",
-    "transliteration": "bathroom",
-    "english": "Bathroom",
-    "vietnamese": "Nhà tắm / Toilet",
-    "audio": "बाथरूम"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "hãsnā",
-    "english": "To laugh",
-    "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'फ़र्क'",
-    "prompt_en": "Choose correct translation for 'फ़र्क'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'फ़र्क'",
-    "text": "फ़र्क",
-    "subtext": "farq",
-    "answer": "Difference",
-    "answer_vi": "Sự khác biệt",
-    "options": [
-      "Difference",
-      "Bathroom",
-      "To ask",
-      "To laugh"
-    ],
-    "options_vi": [
-      "Sự khác biệt",
-      "Nhà tắm / Toilet",
-      "Hỏi",
-      "Cười lớn"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "फ़र्क",
-        "english": "Difference (Sự khác biệt)"
-      },
-      {
-        "hindi": "बाथरूम",
-        "english": "Bathroom (Nhà tắm / Toilet)"
-      },
-      {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
-      },
-      {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To laugh (Cười lớn)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "देखना​​​​​",
-    "translation_en": "To see / watch",
-    "translation_vi": "Nhìn / Xem",
     "options_en": [
-      "To see / watch",
-      "To tell / explain",
-      "Share / Stock",
-      "To cry"
+      "Velar K",
+      "Aspirated KH",
+      "Velar G",
+      "Aspirated GH"
     ],
     "options_vi": [
-      "Nhìn / Xem",
-      "Kể / Giải thích",
-      "Cổ phiếu",
-      "Khóc"
+      "Âm /k/ nhẹ (cổ họng)",
+      "Âm /kh/ bật hơi",
+      "Âm /g/ (cổ họng)",
+      "Âm /gh/ bật hơi"
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a To see / watch / Đây là Nhìn / Xem",
-    "hindiWords": [
-      "यह",
-      "एक",
-      "देखना​​​​​",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ख",
+    "text": "ख",
+    "subtext": "",
+    "answer": "Aspirated KH",
+    "answer_vi": "Âm /kh/ bật hơi",
+    "options": [
+      "Aspirated KH",
+      "Velar K",
+      "Velar G",
+      "Aspirated GH"
     ],
-    "correctHindiSentence": "यह एक देखना​​​​​ है"
+    "options_en": [
+      "Aspirated KH",
+      "Velar K",
+      "Velar G",
+      "Aspirated GH"
+    ],
+    "options_vi": [
+      "Âm /kh/ bật hơi",
+      "Âm /k/ nhẹ (cổ họng)",
+      "Âm /g/ (cổ họng)",
+      "Âm /gh/ bật hơi"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see To tell / explain / Tôi thấy Kể / Giải thích",
-    "hindiWords": [
-      "मैं",
-      "बताना​​​​​​​​​​",
-      "देखता",
-      "हूँ"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ग",
+    "text": "ग",
+    "subtext": "",
+    "answer": "Velar G",
+    "answer_vi": "Âm /g/ (cổ họng)",
+    "options": [
+      "Velar G",
+      "Velar K",
+      "Aspirated KH",
+      "Aspirated GH"
     ],
-    "correctHindiSentence": "मैं बताना​​​​​​​​​​ देखता हूँ"
+    "options_en": [
+      "Velar G",
+      "Velar K",
+      "Aspirated KH",
+      "Aspirated GH"
+    ],
+    "options_vi": [
+      "Âm /g/ (cổ họng)",
+      "Âm /k/ nhẹ (cổ họng)",
+      "Âm /kh/ bật hơi",
+      "Âm /gh/ bật hơi"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: देखना​​​​​, हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "Practiced constructing sentences."
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "घ",
+    "text": "घ",
+    "subtext": "",
+    "answer": "Aspirated GH",
+    "answer_vi": "Âm /gh/ bật hơi",
+    "options": [
+      "Aspirated GH",
+      "Velar K",
+      "Aspirated KH",
+      "Velar G"
+    ],
+    "options_en": [
+      "Aspirated GH",
+      "Velar K",
+      "Aspirated KH",
+      "Velar G"
+    ],
+    "options_vi": [
+      "Âm /gh/ bật hơi",
+      "Âm /k/ nhẹ (cổ họng)",
+      "Âm /kh/ bật hơi",
+      "Âm /g/ (cổ họng)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "च",
+    "text": "च",
+    "subtext": "",
+    "answer": "Palatal CH",
+    "answer_vi": "Âm /ch/ (vòm họng)",
+    "options": [
+      "Palatal CH",
+      "Velar K",
+      "Aspirated KH",
+      "Velar G"
+    ],
+    "options_en": [
+      "Palatal CH",
+      "Velar K",
+      "Aspirated KH",
+      "Velar G"
+    ],
+    "options_vi": [
+      "Âm /ch/ (vòm họng)",
+      "Âm /k/ nhẹ (cổ họng)",
+      "Âm /kh/ bật hơi",
+      "Âm /g/ (cổ họng)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "क",
+        "english": "Velar K"
+      },
+      {
+        "hindi": "ख",
+        "english": "Aspirated KH"
+      },
+      {
+        "hindi": "ग",
+        "english": "Velar G"
+      },
+      {
+        "hindi": "घ",
+        "english": "Aspirated GH"
+      }
     ]
   }
 ]

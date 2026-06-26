@@ -2,221 +2,138 @@
   {
     "type": "Introduction",
     "title": "Large Numbers Practice",
-    "description": "Master the vocabulary and grammar for: Large Numbers Practice. Read the key points carefully.",
+    "description": "Master vocabulary and expressions for Large Numbers Practice.",
     "keyPoints": [
-      "Master Large Numbers Practice"
+      "Learn दस हज़ार and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: लाख.",
-    "simpleRule": "Remember: लाख means Lakh (100,000) (Một trăm ngàn)."
+    "type": "Flashcard",
+    "hindi": "दस हज़ार",
+    "transliteration": "das hazaar",
+    "english": "Ten thousand",
+    "vietnamese": "Mười nghìn (10.000)",
+    "audio": "दस हज़ार"
   },
   {
     "type": "Flashcard",
     "hindi": "लाख",
-    "transliteration": "lākh",
+    "transliteration": "lakh",
     "english": "Lakh (100,000)",
-    "vietnamese": "Một trăm ngàn",
+    "vietnamese": "Một trăm nghìn (Lakh)",
     "audio": "लाख"
   },
   {
     "type": "Flashcard",
     "hindi": "करोड़",
-    "transliteration": "karoṛ",
+    "transliteration": "karod",
     "english": "Crore (10,000,000)",
-    "vietnamese": "Mười triệu",
+    "vietnamese": "Mười triệu (Crore)",
     "audio": "करोड़"
   },
   {
-    "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "dauṛnā",
-    "english": "To run",
-    "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "कापी",
-    "transliteration": "kaapī",
-    "english": "Notebook",
-    "vietnamese": "Sổ tay",
-    "audio": "कापी"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दस हज़ार",
+    "text": "दस हज़ार",
+    "subtext": "",
+    "answer": "Ten thousand",
+    "answer_vi": "Mười nghìn (10.000)",
+    "options": [
+      "Ten thousand",
+      "Lakh (100,000)",
+      "Crore (10,000,000)",
+      "N/A"
+    ],
+    "options_en": [
+      "Ten thousand",
+      "Lakh (100,000)",
+      "Crore (10,000,000)",
+      "N/A"
+    ],
+    "options_vi": [
+      "Mười nghìn (10.000)",
+      "Một trăm nghìn (Lakh)",
+      "Mười triệu (Crore)",
+      "N/A"
+    ]
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'लाख'",
-    "prompt_en": "Choose correct translation for 'लाख'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'लाख'",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "लाख",
     "text": "लाख",
-    "subtext": "lākh",
+    "subtext": "",
     "answer": "Lakh (100,000)",
-    "answer_vi": "Một trăm ngàn",
+    "answer_vi": "Một trăm nghìn (Lakh)",
     "options": [
       "Lakh (100,000)",
+      "Ten thousand",
       "Crore (10,000,000)",
-      "To run",
-      "Notebook"
+      "N/A"
+    ],
+    "options_en": [
+      "Lakh (100,000)",
+      "Ten thousand",
+      "Crore (10,000,000)",
+      "N/A"
     ],
     "options_vi": [
-      "Một trăm ngàn",
-      "Mười triệu",
-      "Chạy",
-      "Sổ tay"
+      "Một trăm nghìn (Lakh)",
+      "Mười nghìn (10.000)",
+      "Mười triệu (Crore)",
+      "N/A"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "करोड़",
+    "text": "करोड़",
+    "subtext": "",
+    "answer": "Crore (10,000,000)",
+    "answer_vi": "Mười triệu (Crore)",
+    "options": [
+      "Crore (10,000,000)",
+      "Ten thousand",
+      "Lakh (100,000)",
+      "N/A"
+    ],
+    "options_en": [
+      "Crore (10,000,000)",
+      "Ten thousand",
+      "Lakh (100,000)",
+      "N/A"
+    ],
+    "options_vi": [
+      "Mười triệu (Crore)",
+      "Mười nghìn (10.000)",
+      "Một trăm nghìn (Lakh)",
+      "N/A"
     ]
   },
   {
     "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
+    "instruction": "Match the Hindi words with their English meanings",
     "pairs": [
       {
+        "hindi": "दस हज़ार",
+        "english": "Ten thousand"
+      },
+      {
         "hindi": "लाख",
-        "english": "Lakh (100,000) (Một trăm ngàn)"
+        "english": "Lakh (100,000)"
       },
       {
         "hindi": "करोड़",
-        "english": "Crore (10,000,000) (Mười triệu)"
-      },
-      {
-        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To run (Chạy)"
-      },
-      {
-        "hindi": "कापी",
-        "english": "Notebook (Sổ tay)"
+        "english": "Crore (10,000,000)"
       }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: sिखाना​​​​​​.",
-    "simpleRule": "Remember: sिखाना​​​​​​ means To teach (Dạy)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​",
-    "transliteration": "sikhānā",
-    "english": "To teach",
-    "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "lenā",
-    "english": "To take",
-    "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लाभ",
-    "transliteration": "lābh",
-    "english": "Profit",
-    "vietnamese": "Lợi nhuận",
-    "audio": "लाभ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'sिखाना​​​​​​'",
-    "prompt_en": "Choose correct translation for 'sिखाना​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​​​​​​'",
-    "text": "sिखाना​​​​​​",
-    "subtext": "sikhānā",
-    "answer": "To teach",
-    "answer_vi": "Dạy",
-    "options": [
-      "To teach",
-      "To take",
-      "Profit",
-      "To cry"
-    ],
-    "options_vi": [
-      "Dạy",
-      "Lấy / Nhận",
-      "Lợi nhuận",
-      "Khóc"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "sिखाना​​​​​​",
-        "english": "To teach (Dạy)"
-      },
-      {
-        "hindi": "लेना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To take (Lấy / Nhận)"
-      },
-      {
-        "hindi": "लाभ",
-        "english": "Profit (Lợi nhuận)"
-      },
-      {
-        "hindi": "रोना​​​​​​​​​​",
-        "english": "To cry (Khóc)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "लाख",
-    "translation_en": "Lakh (100,000)",
-    "translation_vi": "Một trăm ngàn",
-    "options_en": [
-      "Lakh (100,000)",
-      "Crore (10,000,000)",
-      "To run",
-      "Notebook"
-    ],
-    "options_vi": [
-      "Một trăm ngàn",
-      "Mười triệu",
-      "Chạy",
-      "Sổ tay"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have Lakh (100,000) / Tôi có Một trăm ngàn",
-    "hindiWords": [
-      "मेरे",
-      "पास",
-      "लाख",
-      "है"
-    ],
-    "correctHindiSentence": "मेरे पास लाख है"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Price is Crore (10,000,000) / Giá là Mười triệu",
-    "hindiWords": [
-      "दाम",
-      "करोड़",
-      "है",
-      "था"
-    ],
-    "correctHindiSentence": "दाम करोड़ है"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: लाख, रोना​​​​​​​​​​",
-      "Practiced constructing sentences."
     ]
   }
 ]

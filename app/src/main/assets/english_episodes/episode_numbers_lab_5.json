@@ -1,453 +1,74 @@
 [
   {
     "type": "Introduction",
-    "title": "Numbers_lab - Level 5",
-    "description": "Master the vocabulary and grammar for: Numbers_lab - Level 5. Read the key points carefully.",
+    "title": "Numbers Challenge",
+    "description": "Master vocabulary and expressions for Numbers Challenge.",
     "keyPoints": [
-      "Learn numbers_lab concepts in depth."
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Listen (polite).",
-    "simpleRule": "Remember: Listen (polite) means सुनिए (Nghe này / Xin lỗi)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Listen (polite)",
-    "transliteration": "",
-    "english": "Nghe này / Xin lỗi",
-    "vietnamese": "",
-    "audio": "Listen (polite)"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Money",
-    "transliteration": "",
-    "english": "Tiền",
-    "vietnamese": "",
-    "audio": "Money"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Listen (polite)'",
-    "prompt_en": "Choose correct translation for 'Listen (polite)'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Listen (polite)'",
-    "text": "Listen (polite)",
-    "subtext": "",
-    "answer": "Listen (polite)",
-    "answer_vi": "Nghe này / Xin lỗi",
-    "options": [
-      "Listen (polite)",
-      "To listen / hear",
-      "To listen / hear",
-      "Money"
-    ],
-    "options_vi": [
-      "Nghe này / Xin lỗi",
-      "Nghe",
-      "Nghe",
-      "Tiền"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Listen (polite)",
-        "english": "सुनिए (Nghe này / Xin lỗi)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "Money",
-        "english": "पैसा​​​​ (Tiền)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​ (Nghe)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To listen / hear'",
-    "prompt_en": "Choose correct translation for 'To listen / hear'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
-    "text": "To listen / hear",
-    "subtext": "",
-    "answer": "To listen / hear",
-    "answer_vi": "Nghe",
-    "options": [
-      "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
-    ],
-    "options_vi": [
-      "Nghe",
-      "Nghe",
-      "Nghe",
-      "Nghe"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​ (Nghe)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​ (Nghe)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Sentence",
-    "transliteration": "",
-    "english": "Câu",
-    "vietnamese": "",
-    "audio": "Sentence"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To listen / hear'",
-    "prompt_en": "Choose correct translation for 'To listen / hear'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
-    "text": "To listen / hear",
-    "subtext": "",
-    "answer": "To listen / hear",
-    "answer_vi": "Nghe",
-    "options": [
-      "To listen / hear",
-      "To listen / hear",
-      "Sentence",
-      "To listen / hear"
-    ],
-    "options_vi": [
-      "Nghe",
-      "Nghe",
-      "Câu",
-      "Nghe"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "Sentence",
-        "english": "वाक्य (Câu)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​ (Nghe)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set D",
-    "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​ (Nghe)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To listen / hear",
-    "transliteration": "",
-    "english": "Nghe",
-    "vietnamese": "",
-    "audio": "To listen / hear"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Truth alone triumphs",
-    "transliteration": "",
-    "english": "Sự thật luôn chiến thắng",
-    "vietnamese": "",
-    "audio": "Truth alone triumphs"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To listen / hear'",
-    "prompt_en": "Choose correct translation for 'To listen / hear'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
-    "text": "To listen / hear",
-    "subtext": "",
-    "answer": "To listen / hear",
-    "answer_vi": "Nghe",
-    "options": [
-      "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "Truth alone triumphs"
-    ],
-    "options_vi": [
-      "Nghe",
-      "Nghe",
-      "Nghe",
-      "Sự thật luôn chiến thắng"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "Truth alone triumphs",
-        "english": "सत्यमेव जयते (Sự thật luôn chiến thắng)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Listen (polite)",
-    "translation_en": "सुनिए",
-    "translation_vi": "Nghe này / Xin lỗi",
-    "options_en": [
-      "सुनिए",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पैसा​​​​"
-    ],
-    "options_vi": [
-      "Nghe này / Xin lỗi",
-      "Nghe",
-      "Nghe",
-      "Tiền"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Xin lỗi",
-    "hindiWords": [
-      "It",
-      "is",
-      "a",
-      "Listen",
-      "(polite)"
-    ],
-    "correctHindiSentence": "It is a Listen (polite)"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Tôi thích Nghe",
-    "hindiWords": [
-      "I",
-      "really",
-      "like",
-      "To",
-      "listen",
-      "/",
-      "hear"
-    ],
-    "correctHindiSentence": "I really like To listen / hear"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Listen (polite) and Truth alone triumphs",
-      "Practiced constructing sentences."
+      "Learn Plus and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Plus",
+    "english": "Plus",
+    "vietnamese": "Cộng (+)",
+    "audio": "Plus"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Minus",
+    "english": "Minus",
+    "vietnamese": "Trừ (-)",
+    "audio": "Minus"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Equal",
+    "english": "Equal",
+    "vietnamese": "Bằng (=)",
+    "audio": "Equal"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Total",
+    "english": "Total",
+    "vietnamese": "Tổng số",
+    "audio": "Total"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Math",
+    "english": "Math",
+    "vietnamese": "Toán học",
+    "audio": "Math"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Plus",
+    "text": "Plus",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Plus",
+    "answer_vi": "Cộng (+)",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Plus",
+      "Minus",
+      "Equal",
+      "Total"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Plus",
+      "Minus",
+      "Equal",
+      "Total"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Cộng (+)",
+      "Trừ (-)",
+      "Bằng (=)",
+      "Tổng số"
     ]
   },
   {
@@ -455,27 +76,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Minus",
+    "text": "Minus",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Minus",
+    "answer_vi": "Trừ (-)",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Minus",
+      "Plus",
+      "Equal",
+      "Total"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Minus",
+      "Plus",
+      "Equal",
+      "Total"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Trừ (-)",
+      "Cộng (+)",
+      "Bằng (=)",
+      "Tổng số"
     ]
   },
   {
@@ -483,27 +105,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Equal",
+    "text": "Equal",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Equal",
+    "answer_vi": "Bằng (=)",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Equal",
+      "Plus",
+      "Minus",
+      "Total"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Equal",
+      "Plus",
+      "Minus",
+      "Total"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Bằng (=)",
+      "Cộng (+)",
+      "Trừ (-)",
+      "Tổng số"
     ]
   },
   {
@@ -511,27 +134,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Total",
+    "text": "Total",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Total",
+    "answer_vi": "Tổng số",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Total",
+      "Plus",
+      "Minus",
+      "Equal"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Total",
+      "Plus",
+      "Minus",
+      "Equal"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Tổng số",
+      "Cộng (+)",
+      "Trừ (-)",
+      "Bằng (=)"
     ]
   },
   {
@@ -539,27 +163,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Math",
+    "text": "Math",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Math",
+    "answer_vi": "Toán học",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Math",
+      "Plus",
+      "Minus",
+      "Equal"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Math",
+      "Plus",
+      "Minus",
+      "Equal"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Toán học",
+      "Cộng (+)",
+      "Trừ (-)",
+      "Bằng (=)"
     ]
   },
   {
@@ -567,20 +192,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Plus",
+        "english": "Cộng (+)"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Minus",
+        "english": "Trừ (-)"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Equal",
+        "english": "Bằng (=)"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Total",
+        "english": "Tổng số"
       }
     ]
   }

@@ -1,222 +1,139 @@
 [
   {
     "type": "Introduction",
-    "title": "Hundreds 500-1000",
-    "description": "Master the vocabulary and grammar for: Hundreds 500-1000. Read the key points carefully.",
+    "title": "Hundreds 100-1000",
+    "description": "Master vocabulary and expressions for Hundreds 100-1000.",
     "keyPoints": [
-      "Master Hundreds 500-1000"
+      "Learn दो सौ and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: काम करना​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: काम करना​​​​​​​​​​​​​​​​​​​​ means To work (Làm việc)."
+    "type": "Flashcard",
+    "hindi": "दो सौ",
+    "transliteration": "do sau",
+    "english": "Two hundred",
+    "vietnamese": "Hai trăm (200)",
+    "audio": "दो सौ"
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "kām karnā",
-    "english": "To work",
-    "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "पाँच सौ",
+    "transliteration": "paanch sau",
+    "english": "Five hundred",
+    "vietnamese": "Năm trăm (500)",
+    "audio": "पाँच सौ"
   },
   {
     "type": "Flashcard",
-    "hindi": "और",
-    "transliteration": "aur",
-    "english": "And / More",
-    "vietnamese": "Và / Thêm nữa",
-    "audio": "और"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "चलना",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बग़ीचा​​",
-    "transliteration": "bagīcā",
-    "english": "Garden",
-    "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​​"
+    "hindi": "हज़ार",
+    "transliteration": "hazaar",
+    "english": "Thousand",
+    "vietnamese": "Một nghìn (1000)",
+    "audio": "हज़ार"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'काम करना​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'काम करना​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'काम करना​​​​​​​​​​​​​​​​​​​​'",
-    "text": "काम करना​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "kām karnā",
-    "answer": "To work",
-    "answer_vi": "Làm việc",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "दो सौ",
+    "text": "दो सौ",
+    "subtext": "",
+    "answer": "Two hundred",
+    "answer_vi": "Hai trăm (200)",
     "options": [
-      "To work",
-      "And / More",
-      "To walk / move",
-      "Garden"
+      "Two hundred",
+      "Five hundred",
+      "Thousand",
+      "N/A"
     ],
-    "options_vi": [
-      "Làm việc",
-      "Và / Thêm nữa",
-      "Đi bộ / Di chuyển",
-      "Khu vườn"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To work (Làm việc)"
-      },
-      {
-        "hindi": "और",
-        "english": "And / More (Và / Thêm nữa)"
-      },
-      {
-        "hindi": "चलना",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "बग़ीचा​​",
-        "english": "Garden (Khu vườn)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: कापी​​​.",
-    "simpleRule": "Remember: कापी​​​ means Notebook (Sổ tay)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "कापी​​​",
-    "transliteration": "kaapī",
-    "english": "Notebook",
-    "vietnamese": "Sổ tay",
-    "audio": "कापी​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "पहाड़​​",
-    "transliteration": "pahāṛ",
-    "english": "Mountain",
-    "vietnamese": "Ngọn núi",
-    "audio": "पहाड़​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​",
-    "transliteration": "banānā",
-    "english": "To make / build",
-    "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बेचना​​​",
-    "transliteration": "becnā",
-    "english": "To sell",
-    "vietnamese": "Bán",
-    "audio": "बेचना​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'कापी​​​'",
-    "prompt_en": "Choose correct translation for 'कापी​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'कापी​​​'",
-    "text": "कापी​​​",
-    "subtext": "kaapī",
-    "answer": "Notebook",
-    "answer_vi": "Sổ tay",
-    "options": [
-      "Notebook",
-      "Mountain",
-      "To make / build",
-      "To sell"
-    ],
-    "options_vi": [
-      "Sổ tay",
-      "Ngọn núi",
-      "Chế tạo / Tạo ra",
-      "Bán"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "कापी​​​",
-        "english": "Notebook (Sổ tay)"
-      },
-      {
-        "hindi": "पहाड़​​",
-        "english": "Mountain (Ngọn núi)"
-      },
-      {
-        "hindi": "बनाना​​​​​​​​",
-        "english": "To make / build (Chế tạo / Tạo ra)"
-      },
-      {
-        "hindi": "बेचना​​​",
-        "english": "To sell (Bán)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To work",
-    "translation_vi": "Làm việc",
     "options_en": [
-      "To work",
-      "And / More",
-      "To walk / move",
-      "Garden"
+      "Two hundred",
+      "Five hundred",
+      "Thousand",
+      "N/A"
     ],
     "options_vi": [
-      "Làm việc",
-      "Và / Thêm nữa",
-      "Đi bộ / Di chuyển",
-      "Khu vườn"
+      "Hai trăm (200)",
+      "Năm trăm (500)",
+      "Một nghìn (1000)",
+      "N/A"
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I have To work / Tôi có Làm việc",
-    "hindiWords": [
-      "मेरे",
-      "पास",
-      "काम करना​​​​​​​​​​​​​​​​​​​​",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "पाँच सौ",
+    "text": "पाँच सौ",
+    "subtext": "",
+    "answer": "Five hundred",
+    "answer_vi": "Năm trăm (500)",
+    "options": [
+      "Five hundred",
+      "Two hundred",
+      "Thousand",
+      "N/A"
     ],
-    "correctHindiSentence": "मेरे पास काम करना​​​​​​​​​​​​​​​​​​​​ है"
+    "options_en": [
+      "Five hundred",
+      "Two hundred",
+      "Thousand",
+      "N/A"
+    ],
+    "options_vi": [
+      "Năm trăm (500)",
+      "Hai trăm (200)",
+      "Một nghìn (1000)",
+      "N/A"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "Price is And / More / Giá là Và / Thêm nữa",
-    "hindiWords": [
-      "दाम",
-      "और",
-      "है",
-      "था"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "हज़ार",
+    "text": "हज़ार",
+    "subtext": "",
+    "answer": "Thousand",
+    "answer_vi": "Một nghìn (1000)",
+    "options": [
+      "Thousand",
+      "Two hundred",
+      "Five hundred",
+      "N/A"
     ],
-    "correctHindiSentence": "दाम और है"
+    "options_en": [
+      "Thousand",
+      "Two hundred",
+      "Five hundred",
+      "N/A"
+    ],
+    "options_vi": [
+      "Một nghìn (1000)",
+      "Hai trăm (200)",
+      "Năm trăm (500)",
+      "N/A"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: काम करना​​​​​​​​​​​​​​​​​​​​, बेचना​​​",
-      "Practiced constructing sentences."
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "दो सौ",
+        "english": "Two hundred"
+      },
+      {
+        "hindi": "पाँच सौ",
+        "english": "Five hundred"
+      },
+      {
+        "hindi": "हज़ार",
+        "english": "Thousand"
+      }
     ]
   }
 ]

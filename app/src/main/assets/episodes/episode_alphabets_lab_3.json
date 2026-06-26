@@ -1,222 +1,217 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 3",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 3. Read the key points carefully.",
+    "title": "Retroflex & Dentals",
+    "description": "Master vocabulary and expressions for Retroflex & Dentals.",
     "keyPoints": [
-      "Learn alphabets_lab concepts."
+      "Learn ट and related terms."
     ]
   },
   {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: sिखाना​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: sिखाना​​​​​​​​​​​​​​​​​​ means To teach (Dạy)."
+    "type": "Flashcard",
+    "hindi": "ट",
+    "transliteration": "ta",
+    "english": "Retroflex T",
+    "vietnamese": "Âm /t/ uốn lưỡi ngược",
+    "audio": "ट"
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sikhānā",
-    "english": "To teach",
-    "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​"
+    "hindi": "ठ",
+    "transliteration": "tha",
+    "english": "Aspirated Retroflex TH",
+    "vietnamese": "Âm /th/ uốn lưỡi bật hơi",
+    "audio": "ठ"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "likhnā",
-    "english": "To write",
-    "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "ड",
+    "transliteration": "da",
+    "english": "Retroflex D",
+    "vietnamese": "Âm /d/ uốn lưỡi",
+    "audio": "ड"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "ढ",
+    "transliteration": "dha",
+    "english": "Aspirated Retroflex DH",
+    "vietnamese": "Âm /dh/ uốn lưỡi bật hơi",
+    "audio": "ढ"
   },
   {
     "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "sīkhnā",
-    "english": "To learn",
-    "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​"
+    "hindi": "त",
+    "transliteration": "ta dental",
+    "english": "Dental T",
+    "vietnamese": "Âm /t/ chạm răng",
+    "audio": "त"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'sिखाना​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'sिखाना​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​​​​​​​​​​​​​​​​​​'",
-    "text": "sिखाना​​​​​​​​​​​​​​​​​​",
-    "subtext": "sikhānā",
-    "answer": "To teach",
-    "answer_vi": "Dạy",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ट",
+    "text": "ट",
+    "subtext": "",
+    "answer": "Retroflex T",
+    "answer_vi": "Âm /t/ uốn lưỡi ngược",
     "options": [
-      "To teach",
-      "To write",
-      "To ask",
-      "To learn"
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Retroflex D",
+      "Aspirated Retroflex DH"
     ],
-    "options_vi": [
-      "Dạy",
-      "Viết",
-      "Hỏi",
-      "Học"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
-      },
-      {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To write (Viết)"
-      },
-      {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
-      },
-      {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​",
-        "english": "To learn (Học)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: साफ करना​​​​​.",
-    "simpleRule": "Remember: साफ करना​​​​​ means To clean (Dọn dẹp / Lau chùi)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "साफ करना​​​​​",
-    "transliteration": "sāf karnā",
-    "english": "To clean",
-    "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "calnā",
-    "english": "To walk / move",
-    "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "bolnā",
-    "english": "To speak",
-    "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "लेना​​​​​​​​​​​​​​​",
-    "transliteration": "lenā",
-    "english": "To take",
-    "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'साफ करना​​​​​'",
-    "prompt_en": "Choose correct translation for 'साफ करना​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'साफ करना​​​​​'",
-    "text": "साफ करना​​​​​",
-    "subtext": "sāf karnā",
-    "answer": "To clean",
-    "answer_vi": "Dọn dẹp / Lau chùi",
-    "options": [
-      "To clean",
-      "To walk / move",
-      "To speak",
-      "To take"
-    ],
-    "options_vi": [
-      "Dọn dẹp / Lau chùi",
-      "Đi bộ / Di chuyển",
-      "Nói",
-      "Lấy / Nhận"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "साफ करना​​​​​",
-        "english": "To clean (Dọn dẹp / Lau chùi)"
-      },
-      {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To walk / move (Đi bộ / Di chuyển)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "लेना​​​​​​​​​​​​​​​",
-        "english": "To take (Lấy / Nhận)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​",
-    "translation_en": "To teach",
-    "translation_vi": "Dạy",
     "options_en": [
-      "To teach",
-      "To write",
-      "To ask",
-      "To learn"
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Retroflex D",
+      "Aspirated Retroflex DH"
     ],
     "options_vi": [
-      "Dạy",
-      "Viết",
-      "Hỏi",
-      "Học"
+      "Âm /t/ uốn lưỡi ngược",
+      "Âm /th/ uốn lưỡi bật hơi",
+      "Âm /d/ uốn lưỡi",
+      "Âm /dh/ uốn lưỡi bật hơi"
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "This is a To teach / Đây là Dạy",
-    "hindiWords": [
-      "यह",
-      "एक",
-      "sिखाना​​​​​​​​​​​​​​​​​​",
-      "है"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ठ",
+    "text": "ठ",
+    "subtext": "",
+    "answer": "Aspirated Retroflex TH",
+    "answer_vi": "Âm /th/ uốn lưỡi bật hơi",
+    "options": [
+      "Aspirated Retroflex TH",
+      "Retroflex T",
+      "Retroflex D",
+      "Aspirated Retroflex DH"
     ],
-    "correctHindiSentence": "यह एक sिखाना​​​​​​​​​​​​​​​​​​ है"
+    "options_en": [
+      "Aspirated Retroflex TH",
+      "Retroflex T",
+      "Retroflex D",
+      "Aspirated Retroflex DH"
+    ],
+    "options_vi": [
+      "Âm /th/ uốn lưỡi bật hơi",
+      "Âm /t/ uốn lưỡi ngược",
+      "Âm /d/ uốn lưỡi",
+      "Âm /dh/ uốn lưỡi bật hơi"
+    ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see To write / Tôi thấy Viết",
-    "hindiWords": [
-      "मैं",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देखता",
-      "हूँ"
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ड",
+    "text": "ड",
+    "subtext": "",
+    "answer": "Retroflex D",
+    "answer_vi": "Âm /d/ uốn lưỡi",
+    "options": [
+      "Retroflex D",
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Aspirated Retroflex DH"
     ],
-    "correctHindiSentence": "मैं लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "options_en": [
+      "Retroflex D",
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Aspirated Retroflex DH"
+    ],
+    "options_vi": [
+      "Âm /d/ uốn lưỡi",
+      "Âm /t/ uốn lưỡi ngược",
+      "Âm /th/ uốn lưỡi bật hơi",
+      "Âm /dh/ uốn lưỡi bật hơi"
+    ]
   },
   {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: sिखाना​​​​​​​​​​​​​​​​​​, लेना​​​​​​​​​​​​​​​",
-      "Practiced constructing sentences."
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "ढ",
+    "text": "ढ",
+    "subtext": "",
+    "answer": "Aspirated Retroflex DH",
+    "answer_vi": "Âm /dh/ uốn lưỡi bật hơi",
+    "options": [
+      "Aspirated Retroflex DH",
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Retroflex D"
+    ],
+    "options_en": [
+      "Aspirated Retroflex DH",
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Retroflex D"
+    ],
+    "options_vi": [
+      "Âm /dh/ uốn lưỡi bật hơi",
+      "Âm /t/ uốn lưỡi ngược",
+      "Âm /th/ uốn lưỡi bật hơi",
+      "Âm /d/ uốn lưỡi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "त",
+    "text": "त",
+    "subtext": "",
+    "answer": "Dental T",
+    "answer_vi": "Âm /t/ chạm răng",
+    "options": [
+      "Dental T",
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Retroflex D"
+    ],
+    "options_en": [
+      "Dental T",
+      "Retroflex T",
+      "Aspirated Retroflex TH",
+      "Retroflex D"
+    ],
+    "options_vi": [
+      "Âm /t/ chạm răng",
+      "Âm /t/ uốn lưỡi ngược",
+      "Âm /th/ uốn lưỡi bật hơi",
+      "Âm /d/ uốn lưỡi"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their English meanings",
+    "pairs": [
+      {
+        "hindi": "ट",
+        "english": "Retroflex T"
+      },
+      {
+        "hindi": "ठ",
+        "english": "Aspirated Retroflex TH"
+      },
+      {
+        "hindi": "ड",
+        "english": "Retroflex D"
+      },
+      {
+        "hindi": "ढ",
+        "english": "Aspirated Retroflex DH"
+      }
     ]
   }
 ]

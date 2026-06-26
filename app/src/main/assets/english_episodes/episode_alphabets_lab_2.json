@@ -1,452 +1,81 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 2",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 2. Read the key points carefully.",
+    "title": "Consonants & Basic Phonics",
+    "description": "Master vocabulary and expressions for Consonants & Basic Phonics.",
     "keyPoints": [
-      "Learn alphabets_lab concepts in depth."
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: Is everything okay?.",
-    "simpleRule": "Remember: Is everything okay? means सब ठीक है? (Mọi việc đều ổn chứ?)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Is everything okay?",
-    "transliteration": "",
-    "english": "Mọi việc đều ổn chứ?",
-    "vietnamese": "",
-    "audio": "Is everything okay?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To write",
-    "transliteration": "",
-    "english": "Viết",
-    "vietnamese": "",
-    "audio": "To write"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To learn",
-    "transliteration": "",
-    "english": "Học",
-    "vietnamese": "",
-    "audio": "To learn"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To laugh",
-    "transliteration": "",
-    "english": "Cười lớn",
-    "vietnamese": "",
-    "audio": "To laugh"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Is everything okay?'",
-    "prompt_en": "Choose correct translation for 'Is everything okay?'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Is everything okay?'",
-    "text": "Is everything okay?",
-    "subtext": "",
-    "answer": "Is everything okay?",
-    "answer_vi": "Mọi việc đều ổn chứ?",
-    "options": [
-      "Is everything okay?",
-      "To write",
-      "To learn",
-      "To laugh"
-    ],
-    "options_vi": [
-      "Mọi việc đều ổn chứ?",
-      "Viết",
-      "Học",
-      "Cười lớn"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Is everything okay?",
-        "english": "सब ठीक है? (Mọi việc đều ổn chứ?)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​ (Viết)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​ (Cười lớn)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: To take.",
-    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To take",
-    "transliteration": "",
-    "english": "Lấy / Nhận",
-    "vietnamese": "",
-    "audio": "To take"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To make / build",
-    "transliteration": "",
-    "english": "Chế tạo / Tạo ra",
-    "vietnamese": "",
-    "audio": "To make / build"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Village",
-    "transliteration": "",
-    "english": "Ngôi làng",
-    "vietnamese": "",
-    "audio": "Village"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Demand",
-    "transliteration": "",
-    "english": "Nhu cầu",
-    "vietnamese": "",
-    "audio": "Demand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To take'",
-    "prompt_en": "Choose correct translation for 'To take'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
-    "text": "To take",
-    "subtext": "",
-    "answer": "To take",
-    "answer_vi": "Lấy / Nhận",
-    "options": [
-      "To take",
-      "To make / build",
-      "Village",
-      "Demand"
-    ],
-    "options_vi": [
-      "Lấy / Nhận",
-      "Chế tạo / Tạo ra",
-      "Ngôi làng",
-      "Nhu cầu"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
-      },
-      {
-        "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
-      },
-      {
-        "hindi": "Village",
-        "english": "गाँव​​​​​​​​ (Ngôi làng)"
-      },
-      {
-        "hindi": "Demand",
-        "english": "मांग (Nhu cầu)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To wake up",
-    "transliteration": "",
-    "english": "Thức dậy",
-    "vietnamese": "",
-    "audio": "To wake up"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To cry",
-    "transliteration": "",
-    "english": "Khóc",
-    "vietnamese": "",
-    "audio": "To cry"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To learn",
-    "transliteration": "",
-    "english": "Học",
-    "vietnamese": "",
-    "audio": "To learn"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To clean",
-    "transliteration": "",
-    "english": "Dọn dẹp / Lau chùi",
-    "vietnamese": "",
-    "audio": "To clean"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To wake up'",
-    "prompt_en": "Choose correct translation for 'To wake up'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
-    "text": "To wake up",
-    "subtext": "",
-    "answer": "To wake up",
-    "answer_vi": "Thức dậy",
-    "options": [
-      "To wake up",
-      "To cry",
-      "To learn",
-      "To clean"
-    ],
-    "options_vi": [
-      "Thức dậy",
-      "Khóc",
-      "Học",
-      "Dọn dẹp / Lau chùi"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
-      },
-      {
-        "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set D",
-    "explanation": "Understand the usage and roots of: Ticket counter.",
-    "simpleRule": "Remember: Ticket counter means टिकट काउंटर (Quầy bán vé)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Ticket counter",
-    "transliteration": "",
-    "english": "Quầy bán vé",
-    "vietnamese": "",
-    "audio": "Ticket counter"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Snow / Ice",
-    "transliteration": "",
-    "english": "Tuyết / Đá",
-    "vietnamese": "",
-    "audio": "Snow / Ice"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To wake up",
-    "transliteration": "",
-    "english": "Thức dậy",
-    "vietnamese": "",
-    "audio": "To wake up"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To wake up",
-    "transliteration": "",
-    "english": "Thức dậy",
-    "vietnamese": "",
-    "audio": "To wake up"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Ticket counter'",
-    "prompt_en": "Choose correct translation for 'Ticket counter'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Ticket counter'",
-    "text": "Ticket counter",
-    "subtext": "",
-    "answer": "Ticket counter",
-    "answer_vi": "Quầy bán vé",
-    "options": [
-      "Ticket counter",
-      "Snow / Ice",
-      "To wake up",
-      "To wake up"
-    ],
-    "options_vi": [
-      "Quầy bán vé",
-      "Tuyết / Đá",
-      "Thức dậy",
-      "Thức dậy"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Ticket counter",
-        "english": "टिकट काउंटर (Quầy bán vé)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "To wake up",
-        "english": "जागना​​​​​​​ (Thức dậy)"
-      },
-      {
-        "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "Is everything okay?",
-    "translation_en": "सब ठीक है?",
-    "translation_vi": "Mọi việc đều ổn chứ?",
-    "options_en": [
-      "सब ठीक है?",
-      "लिखना​​​​",
-      "सीखना​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Mọi việc đều ổn chứ?",
-      "Viết",
-      "Học",
-      "Cười lớn"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Nó là một Mọi việc đều ổn chứ?",
-    "hindiWords": [
-      "It",
-      "is",
-      "a",
-      "Is",
-      "everything",
-      "okay?"
-    ],
-    "correctHindiSentence": "It is a Is everything okay?"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Tôi thích Viết",
-    "hindiWords": [
-      "I",
-      "really",
-      "like",
-      "To",
-      "write"
-    ],
-    "correctHindiSentence": "I really like To write"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: Is everything okay? and To wake up",
-      "Practiced constructing sentences."
+      "Learn B and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "B",
+    "english": "B",
+    "vietnamese": "Chữ B",
+    "audio": "B"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "C",
+    "english": "C",
+    "vietnamese": "Chữ C",
+    "audio": "C"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "D",
+    "english": "D",
+    "vietnamese": "Chữ D",
+    "audio": "D"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "F",
+    "english": "F",
+    "vietnamese": "Chữ F",
+    "audio": "F"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "G",
+    "english": "G",
+    "vietnamese": "Chữ G",
+    "audio": "G"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Consonant",
+    "english": "Consonant",
+    "vietnamese": "Phụ âm",
+    "audio": "Consonant"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "B",
+    "text": "B",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "B",
+    "answer_vi": "Chữ B",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "B",
+      "C",
+      "D",
+      "F"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "B",
+      "C",
+      "D",
+      "F"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Chữ B",
+      "Chữ C",
+      "Chữ D",
+      "Chữ F"
     ]
   },
   {
@@ -454,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "C",
+    "text": "C",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "C",
+    "answer_vi": "Chữ C",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "C",
+      "B",
+      "D",
+      "F"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "C",
+      "B",
+      "D",
+      "F"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Chữ C",
+      "Chữ B",
+      "Chữ D",
+      "Chữ F"
     ]
   },
   {
@@ -482,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "D",
+    "text": "D",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "D",
+    "answer_vi": "Chữ D",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "D",
+      "B",
+      "C",
+      "F"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "D",
+      "B",
+      "C",
+      "F"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Chữ D",
+      "Chữ B",
+      "Chữ C",
+      "Chữ F"
     ]
   },
   {
@@ -510,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "F",
+    "text": "F",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "F",
+    "answer_vi": "Chữ F",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "F",
+      "B",
+      "C",
+      "D"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "F",
+      "B",
+      "C",
+      "D"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Chữ F",
+      "Chữ B",
+      "Chữ C",
+      "Chữ D"
     ]
   },
   {
@@ -538,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "G",
+    "text": "G",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "G",
+    "answer_vi": "Chữ G",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "G",
+      "B",
+      "C",
+      "D"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "G",
+      "B",
+      "C",
+      "D"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Chữ G",
+      "Chữ B",
+      "Chữ C",
+      "Chữ D"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Consonant",
+    "text": "Consonant",
+    "subtext": "",
+    "answer": "Consonant",
+    "answer_vi": "Phụ âm",
+    "options": [
+      "Consonant",
+      "B",
+      "C",
+      "D"
+    ],
+    "options_en": [
+      "Consonant",
+      "B",
+      "C",
+      "D"
+    ],
+    "options_vi": [
+      "Phụ âm",
+      "Chữ B",
+      "Chữ C",
+      "Chữ D"
     ]
   },
   {
@@ -566,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "B",
+        "english": "Chữ B"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "C",
+        "english": "Chữ C"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "D",
+        "english": "Chữ D"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "F",
+        "english": "Chữ F"
       }
     ]
   }

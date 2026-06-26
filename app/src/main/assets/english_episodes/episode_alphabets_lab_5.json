@@ -1,451 +1,74 @@
 [
   {
     "type": "Introduction",
-    "title": "Alphabets_lab - Level 5",
-    "description": "Master the vocabulary and grammar for: Alphabets_lab - Level 5. Read the key points carefully.",
+    "title": "Pronunciation Masterclass",
+    "description": "Master vocabulary and expressions for Pronunciation Masterclass.",
     "keyPoints": [
-      "Learn alphabets_lab concepts in depth."
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set A",
-    "explanation": "Understand the usage and roots of: To take.",
-    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​ (Lấy / Nhận)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To take",
-    "transliteration": "",
-    "english": "Lấy / Nhận",
-    "vietnamese": "",
-    "audio": "To take"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To read",
-    "transliteration": "",
-    "english": "Đọc",
-    "vietnamese": "",
-    "audio": "To read"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To write",
-    "transliteration": "",
-    "english": "Viết",
-    "vietnamese": "",
-    "audio": "To write"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To read",
-    "transliteration": "",
-    "english": "Đọc",
-    "vietnamese": "",
-    "audio": "To read"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To take'",
-    "prompt_en": "Choose correct translation for 'To take'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
-    "text": "To take",
-    "subtext": "",
-    "answer": "To take",
-    "answer_vi": "Lấy / Nhận",
-    "options": [
-      "To take",
-      "To read",
-      "To write",
-      "To read"
-    ],
-    "options_vi": [
-      "Lấy / Nhận",
-      "Đọc",
-      "Viết",
-      "Đọc"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​ (Lấy / Nhận)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​ (Viết)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​ (Đọc)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set B",
-    "explanation": "Understand the usage and roots of: Road.",
-    "simpleRule": "Remember: Road means सड़क​​​​​​​​​ (Đường)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Road",
-    "transliteration": "",
-    "english": "Đường",
-    "vietnamese": "",
-    "audio": "Road"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To take",
-    "transliteration": "",
-    "english": "Lấy / Nhận",
-    "vietnamese": "",
-    "audio": "To take"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Snow / Ice",
-    "transliteration": "",
-    "english": "Tuyết / Đá",
-    "vietnamese": "",
-    "audio": "Snow / Ice"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How many",
-    "transliteration": "",
-    "english": "Bao nhiêu (số lượng)",
-    "vietnamese": "",
-    "audio": "How many"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'Road'",
-    "prompt_en": "Choose correct translation for 'Road'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'Road'",
-    "text": "Road",
-    "subtext": "",
-    "answer": "Road",
-    "answer_vi": "Đường",
-    "options": [
-      "Road",
-      "To take",
-      "Snow / Ice",
-      "How many"
-    ],
-    "options_vi": [
-      "Đường",
-      "Lấy / Nhận",
-      "Tuyết / Đá",
-      "Bao nhiêu (số lượng)"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "Road",
-        "english": "सड़क​​​​​​​​​ (Đường)"
-      },
-      {
-        "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​ (Lấy / Nhận)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "How many",
-        "english": "कितने (Bao nhiêu (số lượng))"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set C",
-    "explanation": "Understand the usage and roots of: To flatter / lick.",
-    "simpleRule": "Remember: To flatter / lick means चाटना (Nịnh bợ / Xu nịnh)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To flatter / lick",
-    "transliteration": "",
-    "english": "Nịnh bợ / Xu nịnh",
-    "vietnamese": "",
-    "audio": "To flatter / lick"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Village",
-    "transliteration": "",
-    "english": "Ngôi làng",
-    "vietnamese": "",
-    "audio": "Village"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Villain",
-    "transliteration": "",
-    "english": "Nhân vật phản diện",
-    "vietnamese": "",
-    "audio": "Villain"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To close",
-    "transliteration": "",
-    "english": "Đóng",
-    "vietnamese": "",
-    "audio": "To close"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To flatter / lick'",
-    "prompt_en": "Choose correct translation for 'To flatter / lick'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To flatter / lick'",
-    "text": "To flatter / lick",
-    "subtext": "",
-    "answer": "To flatter / lick",
-    "answer_vi": "Nịnh bợ / Xu nịnh",
-    "options": [
-      "To flatter / lick",
-      "Village",
-      "Villain",
-      "To close"
-    ],
-    "options_vi": [
-      "Nịnh bợ / Xu nịnh",
-      "Ngôi làng",
-      "Nhân vật phản diện",
-      "Đóng"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To flatter / lick",
-        "english": "चाटना (Nịnh bợ / Xu nịnh)"
-      },
-      {
-        "hindi": "Village",
-        "english": "गाँव​​​​​ (Ngôi làng)"
-      },
-      {
-        "hindi": "Villain",
-        "english": "विलेन (Nhân vật phản diện)"
-      },
-      {
-        "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Vocabulary - Set D",
-    "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To speak",
-    "transliteration": "",
-    "english": "Nói",
-    "vietnamese": "",
-    "audio": "To speak"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To buy",
-    "transliteration": "",
-    "english": "Mua",
-    "vietnamese": "",
-    "audio": "To buy"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "To buy",
-    "transliteration": "",
-    "english": "Mua",
-    "vietnamese": "",
-    "audio": "To buy"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Office",
-    "transliteration": "",
-    "english": "Văn phòng",
-    "vietnamese": "",
-    "audio": "Office"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'To speak'",
-    "prompt_en": "Choose correct translation for 'To speak'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
-    "text": "To speak",
-    "subtext": "",
-    "answer": "To speak",
-    "answer_vi": "Nói",
-    "options": [
-      "To speak",
-      "To buy",
-      "To buy",
-      "Office"
-    ],
-    "options_vi": [
-      "Nói",
-      "Mua",
-      "Mua",
-      "Văn phòng"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To buy",
-        "english": "खरीदना​​​​ (Mua)"
-      },
-      {
-        "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​ (Mua)"
-      },
-      {
-        "hindi": "Office",
-        "english": "दफ़्तर​​​​​​​​​ (Văn phòng)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "To take",
-    "translation_en": "लेना​​​​​​​​​​​​​​",
-    "translation_vi": "Lấy / Nhận",
-    "options_en": [
-      "लेना​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​",
-      "पढ़ना​​​​​​​​​​​​​​​​"
-    ],
-    "options_vi": [
-      "Lấy / Nhận",
-      "Đọc",
-      "Viết",
-      "Đọc"
-    ]
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Nhận",
-    "hindiWords": [
-      "It",
-      "is",
-      "a",
-      "To",
-      "take"
-    ],
-    "correctHindiSentence": "It is a To take"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "Tôi thích Đọc",
-    "hindiWords": [
-      "I",
-      "really",
-      "like",
-      "To",
-      "read"
-    ],
-    "correctHindiSentence": "I really like To read"
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
-    "takeaways": [
-      "You learned: To take and Office",
-      "Practiced constructing sentences."
+      "Learn Phonics and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Phonics",
+    "english": "Phonics",
+    "vietnamese": "Ngữ âm",
+    "audio": "Phonics"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Accent",
+    "english": "Accent",
+    "vietnamese": "Giọng điệu / Trọng âm",
+    "audio": "Accent"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Stress",
+    "english": "Stress",
+    "vietnamese": "Trọng âm từ",
+    "audio": "Stress"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Fluent",
+    "english": "Fluent",
+    "vietnamese": "Trôi chảy",
+    "audio": "Fluent"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Pronounce",
+    "english": "Pronounce",
+    "vietnamese": "Phát âm",
+    "audio": "Pronounce"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Phonics",
+    "text": "Phonics",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Phonics",
+    "answer_vi": "Ngữ âm",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Phonics",
+      "Accent",
+      "Stress",
+      "Fluent"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Phonics",
+      "Accent",
+      "Stress",
+      "Fluent"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Ngữ âm",
+      "Giọng điệu / Trọng âm",
+      "Trọng âm từ",
+      "Trôi chảy"
     ]
   },
   {
@@ -453,27 +76,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Accent",
+    "text": "Accent",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Accent",
+    "answer_vi": "Giọng điệu / Trọng âm",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Accent",
+      "Phonics",
+      "Stress",
+      "Fluent"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Accent",
+      "Phonics",
+      "Stress",
+      "Fluent"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Giọng điệu / Trọng âm",
+      "Ngữ âm",
+      "Trọng âm từ",
+      "Trôi chảy"
     ]
   },
   {
@@ -481,27 +105,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Stress",
+    "text": "Stress",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Stress",
+    "answer_vi": "Trọng âm từ",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Stress",
+      "Phonics",
+      "Accent",
+      "Fluent"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Stress",
+      "Phonics",
+      "Accent",
+      "Fluent"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Trọng âm từ",
+      "Ngữ âm",
+      "Giọng điệu / Trọng âm",
+      "Trôi chảy"
     ]
   },
   {
@@ -509,27 +134,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Fluent",
+    "text": "Fluent",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Fluent",
+    "answer_vi": "Trôi chảy",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Fluent",
+      "Phonics",
+      "Accent",
+      "Stress"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Fluent",
+      "Phonics",
+      "Accent",
+      "Stress"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Trôi chảy",
+      "Ngữ âm",
+      "Giọng điệu / Trọng âm",
+      "Trọng âm từ"
     ]
   },
   {
@@ -537,27 +163,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Pronounce",
+    "text": "Pronounce",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Pronounce",
+    "answer_vi": "Phát âm",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Pronounce",
+      "Phonics",
+      "Accent",
+      "Stress"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Pronounce",
+      "Phonics",
+      "Accent",
+      "Stress"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Phát âm",
+      "Ngữ âm",
+      "Giọng điệu / Trọng âm",
+      "Trọng âm từ"
     ]
   },
   {
@@ -565,20 +192,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Phonics",
+        "english": "Ngữ âm"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Accent",
+        "english": "Giọng điệu / Trọng âm"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Stress",
+        "english": "Trọng âm từ"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Fluent",
+        "english": "Trôi chảy"
       }
     ]
   }
