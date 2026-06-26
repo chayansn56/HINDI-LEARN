@@ -382,9 +382,21 @@ object GamifiedCurriculum {
             "Colors, nature, and celestial bodies.", "Days of week, months, seasons.", "Most common verbs: do, eat, go.", "Crucial sentences for daily survival.", "Comprehensive final exam."
         )
 
-        val p0Episodes = (1..30).map { i ->
+        val p0Episodes = (1..14).map { i ->
             Episode(
                 id = "episode_0_$i",
+                title = p0Titles[i - 1],
+                synopsis = p0Descs[i - 1],
+                type = "FOUNDATION",
+                confidenceMessage = "You completed ${p0Titles[i - 1]}!",
+                achievements = listOf("Learn ${p0Titles[i - 1]}"),
+                isLocked = false
+            )
+        }
+
+        val p1Episodes = (15..30).map { i ->
+            Episode(
+                id = "episode_1_${i - 14}",
                 title = p0Titles[i - 1],
                 synopsis = p0Descs[i - 1],
                 type = "FOUNDATION",
@@ -443,6 +455,7 @@ object GamifiedCurriculum {
 
         val coreSeasons = listOf(
             Season("phase_0", "Phase 0: Foundation Academy", "The most important phase. Learn the building blocks.", p0Episodes),
+            Season("phase_1", "Phase 1: Elementary Academy", "Learn real-world vocabulary, numbers, and navigation.", p1Episodes),
             Season("season_1", "Season 1: Arrival in India", "John navigates his first days.", s1Episodes),
             Season("season_2", "Season 2: Living in India", "Daily life, hobbies, and mistakes.", s2Episodes),
             Season("season_3", "Season 3: Friendship", "Deepening bonds and inside jokes.", s3Episodes),

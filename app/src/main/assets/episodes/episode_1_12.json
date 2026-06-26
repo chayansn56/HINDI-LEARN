@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Colors & Nature",
+    "description": "Master the vocabulary and grammar for: Colors & Nature. Read the key points carefully.",
+    "keyPoints": [
+      "Focus: Colors & Nature"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: चाँद.",
+    "simpleRule": "Remember: चाँद means Moon (Mặt trăng)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाँद",
+    "transliteration": "cā̃d",
+    "english": "Moon",
+    "vietnamese": "Mặt trăng",
+    "audio": "चाँद"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नफ़रत",
+    "transliteration": "nafrat",
+    "english": "Hatred",
+    "vietnamese": "Sự ghét bỏ / Căm thù",
+    "audio": "नफ़रत"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सूरज",
+    "transliteration": "sūraj",
+    "english": "Sun",
+    "vietnamese": "Mặt trời",
+    "audio": "सूरज"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गली",
+    "transliteration": "galī",
+    "english": "Lane / Street",
+    "vietnamese": "Con hẻm",
+    "audio": "गली"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'चाँद'",
+    "prompt_en": "Choose correct translation for 'चाँद'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'चाँद'",
+    "text": "चाँद",
+    "subtext": "cā̃d",
+    "answer": "Moon",
+    "answer_vi": "Mặt trăng",
+    "options": [
+      "Moon",
+      "Hatred",
+      "Sun",
+      "Lane / Street"
+    ],
+    "options_vi": [
+      "Mặt trăng",
+      "Sự ghét bỏ / Căm thù",
+      "Mặt trời",
+      "Con hẻm"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "चाँद",
+        "english": "Moon (Mặt trăng)"
+      },
+      {
+        "hindi": "नफ़रत",
+        "english": "Hatred (Sự ghét bỏ / Căm thù)"
+      },
+      {
+        "hindi": "सूरज",
+        "english": "Sun (Mặt trời)"
+      },
+      {
+        "hindi": "गली",
+        "english": "Lane / Street (Con hẻm)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: पेड़.",
+    "simpleRule": "Remember: पेड़ means Tree (Cây)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पेड़",
+    "transliteration": "peṛ",
+    "english": "Tree",
+    "vietnamese": "Cây",
+    "audio": "पेड़"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हरा",
+    "transliteration": "hara",
+    "english": "Green",
+    "vietnamese": "Màu xanh lá",
+    "audio": "हरा"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "लाल",
+    "transliteration": "laal",
+    "english": "Red",
+    "vietnamese": "Màu đỏ",
+    "audio": "लाल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पीला",
+    "transliteration": "peela",
+    "english": "Yellow",
+    "vietnamese": "Màu vàng",
+    "audio": "पीला"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'पेड़'",
+    "prompt_en": "Choose correct translation for 'पेड़'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पेड़'",
+    "text": "पेड़",
+    "subtext": "peṛ",
+    "answer": "Tree",
+    "answer_vi": "Cây",
+    "options": [
+      "Tree",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "options_vi": [
+      "Cây",
+      "Màu xanh lá",
+      "Màu đỏ",
+      "Màu vàng"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "पेड़",
+        "english": "Tree (Cây)"
+      },
+      {
+        "hindi": "हरा",
+        "english": "Green (Màu xanh lá)"
+      },
+      {
+        "hindi": "लाल",
+        "english": "Red (Màu đỏ)"
+      },
+      {
+        "hindi": "पीला",
+        "english": "Yellow (Màu vàng)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "चाँद",
+    "translation_en": "Moon",
+    "translation_vi": "Mặt trăng",
+    "options_en": [
+      "Moon",
+      "Hatred",
+      "Sun",
+      "Lane / Street"
+    ],
+    "options_vi": [
+      "Mặt trăng",
+      "Sự ghét bỏ / Căm thù",
+      "Mặt trời",
+      "Con hẻm"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I know Moon / Tôi biết Mặt trăng",
+    "hindiWords": [
+      "मैं",
+      "चाँद",
+      "जानता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं चाँद जानता हूँ"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is Hatred? / Sự ghét bỏ / Căm thù ở đâu?",
+    "hindiWords": [
+      "नफ़रत",
+      "कहाँ",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "नफ़रत कहाँ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: चाँद, पीला",
+      "Practiced constructing sentences."
+    ]
+  }
+]

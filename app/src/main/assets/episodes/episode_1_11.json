@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Essential Words: Body & Health",
+    "description": "Master the vocabulary and grammar for: Essential Words: Body & Health. Read the key points carefully.",
+    "keyPoints": [
+      "Focus: Essential Words: Body & Health"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: नज़र.",
+    "simpleRule": "Remember: नज़र means Evil Eye (Mắt ác / Vận đen)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नज़र",
+    "transliteration": "nazar",
+    "english": "Evil Eye",
+    "vietnamese": "Mắt ác / Vận đen",
+    "audio": "नज़र"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दिल",
+    "transliteration": "dil",
+    "english": "Heart",
+    "vietnamese": "Trái tim",
+    "audio": "दिल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पैर",
+    "transliteration": "pair",
+    "english": "Leg / Foot",
+    "vietnamese": "Chân",
+    "audio": "पैर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सिर",
+    "transliteration": "sir",
+    "english": "Head",
+    "vietnamese": "Đầu",
+    "audio": "सिर"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'नज़र'",
+    "prompt_en": "Choose correct translation for 'नज़र'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'नज़र'",
+    "text": "नज़र",
+    "subtext": "nazar",
+    "answer": "Evil Eye",
+    "answer_vi": "Mắt ác / Vận đen",
+    "options": [
+      "Evil Eye",
+      "Heart",
+      "Leg / Foot",
+      "Head"
+    ],
+    "options_vi": [
+      "Mắt ác / Vận đen",
+      "Trái tim",
+      "Chân",
+      "Đầu"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "नज़र",
+        "english": "Evil Eye (Mắt ác / Vận đen)"
+      },
+      {
+        "hindi": "दिल",
+        "english": "Heart (Trái tim)"
+      },
+      {
+        "hindi": "पैर",
+        "english": "Leg / Foot (Chân)"
+      },
+      {
+        "hindi": "सिर",
+        "english": "Head (Đầu)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: डॉक्टर.",
+    "simpleRule": "Remember: डॉक्टर means Doctor (Bác sĩ)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "डॉक्टर",
+    "transliteration": "ḍôkṭar",
+    "english": "Doctor",
+    "vietnamese": "Bác sĩ",
+    "audio": "डॉक्टर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "हाथ",
+    "transliteration": "haath",
+    "english": "Hand",
+    "vietnamese": "Bàn tay",
+    "audio": "हाथ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कर",
+    "transliteration": "kar",
+    "english": "Tax / Hand",
+    "vietnamese": "Thuế",
+    "audio": "कर"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आँख",
+    "transliteration": "aankh",
+    "english": "Eye",
+    "vietnamese": "Mắt",
+    "audio": "आँख"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'डॉक्टर'",
+    "prompt_en": "Choose correct translation for 'डॉक्टर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'डॉक्टर'",
+    "text": "डॉक्टर",
+    "subtext": "ḍôkṭar",
+    "answer": "Doctor",
+    "answer_vi": "Bác sĩ",
+    "options": [
+      "Doctor",
+      "Hand",
+      "Tax / Hand",
+      "Eye"
+    ],
+    "options_vi": [
+      "Bác sĩ",
+      "Bàn tay",
+      "Thuế",
+      "Mắt"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "डॉक्टर",
+        "english": "Doctor (Bác sĩ)"
+      },
+      {
+        "hindi": "हाथ",
+        "english": "Hand (Bàn tay)"
+      },
+      {
+        "hindi": "कर",
+        "english": "Tax / Hand (Thuế)"
+      },
+      {
+        "hindi": "आँख",
+        "english": "Eye (Mắt)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "नज़र",
+    "translation_en": "Evil Eye",
+    "translation_vi": "Mắt ác / Vận đen",
+    "options_en": [
+      "Evil Eye",
+      "Heart",
+      "Leg / Foot",
+      "Head"
+    ],
+    "options_vi": [
+      "Mắt ác / Vận đen",
+      "Trái tim",
+      "Chân",
+      "Đầu"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I know Evil Eye / Tôi biết Mắt ác / Vận đen",
+    "hindiWords": [
+      "मैं",
+      "नज़र",
+      "जानता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं नज़र जानता हूँ"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is Heart? / Trái tim ở đâu?",
+    "hindiWords": [
+      "दिल",
+      "कहाँ",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "दिल कहाँ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: नज़र, आँख",
+      "Practiced constructing sentences."
+    ]
+  }
+]

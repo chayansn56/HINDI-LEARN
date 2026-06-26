@@ -1,0 +1,252 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Numbers 0–10",
+    "description": "Master the vocabulary and grammar for: Numbers 0–10. Read the key points carefully.",
+    "keyPoints": [
+      "Focus: Numbers 0–10"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: शून्य.",
+    "simpleRule": "Remember: शून्य means Zero (Số không)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शून्य",
+    "transliteration": "shūnya",
+    "english": "Zero",
+    "vietnamese": "Số không",
+    "audio": "शून्य"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "एक",
+    "transliteration": "ek",
+    "english": "One",
+    "vietnamese": "Số một",
+    "audio": "एक"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दो",
+    "transliteration": "do",
+    "english": "Two",
+    "vietnamese": "Số hai",
+    "audio": "दो"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तीन",
+    "transliteration": "tīn",
+    "english": "Three",
+    "vietnamese": "Số ba",
+    "audio": "तीन"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'शून्य'",
+    "prompt_en": "Choose correct translation for 'शून्य'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'शून्य'",
+    "text": "शून्य",
+    "subtext": "shūnya",
+    "answer": "Zero",
+    "answer_vi": "Số không",
+    "options": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_vi": [
+      "Số không",
+      "Số một",
+      "Số hai",
+      "Số ba"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "शून्य",
+        "english": "Zero (Số không)"
+      },
+      {
+        "hindi": "एक",
+        "english": "One (Số một)"
+      },
+      {
+        "hindi": "दो",
+        "english": "Two (Số hai)"
+      },
+      {
+        "hindi": "तीन",
+        "english": "Three (Số ba)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: चार.",
+    "simpleRule": "Remember: चार means Four (Số bốn)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चार",
+    "transliteration": "cār",
+    "english": "Four",
+    "vietnamese": "Số bốn",
+    "audio": "चार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पाँच",
+    "transliteration": "pā̃c",
+    "english": "Five",
+    "vietnamese": "Số năm",
+    "audio": "पाँच"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "छह",
+    "transliteration": "chah",
+    "english": "Six",
+    "vietnamese": "Số sáu",
+    "audio": "छह"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सात",
+    "transliteration": "sāt",
+    "english": "Seven",
+    "vietnamese": "Số bảy",
+    "audio": "सात"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'चार'",
+    "prompt_en": "Choose correct translation for 'चार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'चार'",
+    "text": "चार",
+    "subtext": "cār",
+    "answer": "Four",
+    "answer_vi": "Số bốn",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "options_vi": [
+      "Số bốn",
+      "Số năm",
+      "Số sáu",
+      "Số bảy"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "चार",
+        "english": "Four (Số bốn)"
+      },
+      {
+        "hindi": "पाँच",
+        "english": "Five (Số năm)"
+      },
+      {
+        "hindi": "छह",
+        "english": "Six (Số sáu)"
+      },
+      {
+        "hindi": "सात",
+        "english": "Seven (Số bảy)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set C",
+    "explanation": "Understand the usage and roots of: आठ.",
+    "simpleRule": "Remember: आठ means Eight (Số tám)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आठ",
+    "transliteration": "āṭh",
+    "english": "Eight",
+    "vietnamese": "Số tám",
+    "audio": "आठ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नौ",
+    "transliteration": "nau",
+    "english": "Nine",
+    "vietnamese": "Số chín",
+    "audio": "नौ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दस",
+    "transliteration": "das",
+    "english": "Ten",
+    "vietnamese": "Số mười",
+    "audio": "दस"
+  },
+  {
+    "type": "Listening",
+    "audio": "शून्य",
+    "translation_en": "Zero",
+    "translation_vi": "Số không",
+    "options_en": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "options_vi": [
+      "Số không",
+      "Số một",
+      "Số hai",
+      "Số ba"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I know Zero / Tôi biết Số không",
+    "hindiWords": [
+      "मैं",
+      "शून्य",
+      "जानता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं शून्य जानता हूँ"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is One? / Số một ở đâu?",
+    "hindiWords": [
+      "एक",
+      "कहाँ",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "एक कहाँ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: शून्य, दस",
+      "Practiced constructing sentences."
+    ]
+  }
+]

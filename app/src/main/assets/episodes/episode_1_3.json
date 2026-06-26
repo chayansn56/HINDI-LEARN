@@ -1,0 +1,121 @@
+[
+  {
+    "type": "MultipleChoice",
+    "prompt": "Identify the vowel",
+    "text": "Which letter represents the 'ee' sound (as in 'feet')?",
+    "subtext": "Hindi vowels review",
+    "answer": "ई",
+    "options": ["इ", "ई", "ऊ", "ए"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Identify the consonant",
+    "text": "Which letter is the retroflex 'ṭa' sound?",
+    "subtext": "Hint: Tongue curls backward",
+    "answer": "ट",
+    "options": ["त", "ट", "थ", "ठ"]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match each letter to its correct sound",
+    "pairs": [
+      {"hindi": "क", "english": "ka"},
+      {"hindi": "च", "english": "cha"},
+      {"hindi": "ट", "english": "ṭa"},
+      {"hindi": "त", "english": "ta"},
+      {"hindi": "प", "english": "pa"},
+      {"hindi": "म", "english": "ma"}
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "घर",
+    "translation_en": "House",
+    "options_en": ["House", "Water", "Flower", "Star"],
+    "translation_vi": "Nhà",
+    "options_vi": ["Nhà", "Nước", "Hoa", "Ngôi sao"]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Identify the letter",
+    "text": "Which letter makes the 'sha' sound (palatal)?",
+    "subtext": "Sibilants review",
+    "answer": "श",
+    "options": ["स", "ष", "श", "ह"]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "अ",
+    "hint": "The first letter of the Hindi alphabet! Draw the vertical line on the right, the curved body on the left, and the headline on top."
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Consonant groups",
+    "text": "Which group does the letter 'भ' belong to?",
+    "subtext": "Think about where in the mouth the sound is produced",
+    "answer": "पवर्ग (Labial / Lip sounds)",
+    "options": ["कवर्ग (Velar / Throat sounds)", "चवर्ग (Palatal / Palate sounds)", "टवर्ग (Retroflex sounds)", "पवर्ग (Labial / Lip sounds)"]
+  },
+  {
+    "type": "Listening",
+    "audio": "छाता",
+    "translation_en": "Umbrella",
+    "options_en": ["Spoon", "Flag", "Umbrella", "Drum"],
+    "translation_vi": "Ô (dù)",
+    "options_vi": ["Thìa", "Cờ", "Ô (dù)", "Trống"]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "क",
+    "hint": "The first consonant! Draw the vertical line on the right, then the angular body that looks like a 'less than' sign with a small hook."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build the word: 'कमल' (lotus)",
+    "hindiWords": ["म", "क", "ल"],
+    "correctHindiSentence": "कमल"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Vowel review",
+    "text": "How many vowels (स्वर) are there in Hindi?",
+    "subtext": "Think back to the vowel episodes",
+    "answer": "13",
+    "options": ["10", "11", "13", "15"]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match each word to its meaning — test your vocabulary!",
+    "pairs": [
+      {"hindi": "फूल", "english": "Flower"},
+      {"hindi": "नदी", "english": "River"},
+      {"hindi": "हाथी", "english": "Elephant"},
+      {"hindi": "तारा", "english": "Star"},
+      {"hindi": "शेर", "english": "Lion"},
+      {"hindi": "जल", "english": "Water"}
+    ]
+  },
+  {
+    "type": "Drawing",
+    "letterToDraw": "ध",
+    "hint": "A dental consonant. Draw a curved body with a vertical stroke and the headline. It looks similar to 'द' but with an additional vertical stroke."
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Build the word: 'नमक' (salt)",
+    "hindiWords": ["म", "न", "क"],
+    "correctHindiSentence": "नमक"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "🎉 Alphabet Complete!",
+    "takeaways": [
+      "You now know all 13 vowels (स्वर) and 35 consonants (व्यंजन) of the Hindi alphabet!",
+      "Vowels: अ आ इ ई उ ऊ ऋ ए ऐ ओ औ अं अः",
+      "Consonant groups: कवर्ग, चवर्ग, टवर्ग, तवर्ग, पवर्ग + semivowels & sibilants",
+      "You can now recognize, write, and pronounce every letter in Devanagari!",
+      "Next up: combining consonants with vowel signs (मात्रा) to form complete words!",
+      "Keep practicing — the more you read and write, the faster it becomes natural!"
+    ]
+  }
+]

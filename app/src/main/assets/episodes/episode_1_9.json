@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Essential Words: Family & People",
+    "description": "Master the vocabulary and grammar for: Essential Words: Family & People. Read the key points carefully.",
+    "keyPoints": [
+      "Focus: Essential Words: Family & People"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: बहन.",
+    "simpleRule": "Remember: बहन means Sister (Chị / Em gái)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बहन",
+    "transliteration": "bahan",
+    "english": "Sister",
+    "vietnamese": "Chị / Em gái",
+    "audio": "बहन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "माँ",
+    "transliteration": "mā̃",
+    "english": "Mother",
+    "vietnamese": "Mẹ",
+    "audio": "माँ"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नानी",
+    "transliteration": "nānī",
+    "english": "Maternal Grandmother",
+    "vietnamese": "Bà ngoại",
+    "audio": "नानी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भाई",
+    "transliteration": "bhāī",
+    "english": "Brother",
+    "vietnamese": "Anh / Em trai",
+    "audio": "भाई"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'बहन'",
+    "prompt_en": "Choose correct translation for 'बहन'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बहन'",
+    "text": "बहन",
+    "subtext": "bahan",
+    "answer": "Sister",
+    "answer_vi": "Chị / Em gái",
+    "options": [
+      "Sister",
+      "Mother",
+      "Maternal Grandmother",
+      "Brother"
+    ],
+    "options_vi": [
+      "Chị / Em gái",
+      "Mẹ",
+      "Bà ngoại",
+      "Anh / Em trai"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "बहन",
+        "english": "Sister (Chị / Em gái)"
+      },
+      {
+        "hindi": "माँ",
+        "english": "Mother (Mẹ)"
+      },
+      {
+        "hindi": "नानी",
+        "english": "Maternal Grandmother (Bà ngoại)"
+      },
+      {
+        "hindi": "भाई",
+        "english": "Brother (Anh / Em trai)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: दादी.",
+    "simpleRule": "Remember: दादी means Paternal Grandmother (Bà nội)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दादी",
+    "transliteration": "dādī",
+    "english": "Paternal Grandmother",
+    "vietnamese": "Bà nội",
+    "audio": "दादी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "भैया",
+    "transliteration": "bhaiyā",
+    "english": "Brother / Bro",
+    "vietnamese": "Người anh em / Anh trai",
+    "audio": "भैया"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नाना",
+    "transliteration": "nānā",
+    "english": "Maternal Grandfather",
+    "vietnamese": "Ông ngoại",
+    "audio": "नाना"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पिता",
+    "transliteration": "pitā",
+    "english": "Father",
+    "vietnamese": "Cha",
+    "audio": "पिता"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'दादी'",
+    "prompt_en": "Choose correct translation for 'दादी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दादी'",
+    "text": "दादी",
+    "subtext": "dādī",
+    "answer": "Paternal Grandmother",
+    "answer_vi": "Bà nội",
+    "options": [
+      "Paternal Grandmother",
+      "Brother / Bro",
+      "Maternal Grandfather",
+      "Father"
+    ],
+    "options_vi": [
+      "Bà nội",
+      "Người anh em / Anh trai",
+      "Ông ngoại",
+      "Cha"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "दादी",
+        "english": "Paternal Grandmother (Bà nội)"
+      },
+      {
+        "hindi": "भैया",
+        "english": "Brother / Bro (Người anh em / Anh trai)"
+      },
+      {
+        "hindi": "नाना",
+        "english": "Maternal Grandfather (Ông ngoại)"
+      },
+      {
+        "hindi": "पिता",
+        "english": "Father (Cha)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "बहन",
+    "translation_en": "Sister",
+    "translation_vi": "Chị / Em gái",
+    "options_en": [
+      "Sister",
+      "Mother",
+      "Maternal Grandmother",
+      "Brother"
+    ],
+    "options_vi": [
+      "Chị / Em gái",
+      "Mẹ",
+      "Bà ngoại",
+      "Anh / Em trai"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I know Sister / Tôi biết Chị / Em gái",
+    "hindiWords": [
+      "मैं",
+      "बहन",
+      "जानता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं बहन जानता हूँ"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is Mother? / Mẹ ở đâu?",
+    "hindiWords": [
+      "माँ",
+      "कहाँ",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "माँ कहाँ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: बहन, पिता",
+      "Practiced constructing sentences."
+    ]
+  }
+]

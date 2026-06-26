@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Foundation Academy - Level 29",
+    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 29. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "ताला​​ (tālā) = Lock / Ổ khóa",
+      "मिट्टी​​​​​​​​ (miṭṭī) = Soil / Earth / Đất",
+      "काम करना​​​​​ (kām karnā) = To work / Làm việc"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Alphabet & Building Blocks - Part 29",
+    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
+    "simpleRule": "Remember: ताला​​ means 'Lock' (Ổ khóa)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "ताला​​",
+    "transliteration": "tālā",
+    "english": "Lock",
+    "vietnamese": "Ổ khóa",
+    "audio": "ताला​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "मिट्टी​​​​​​​​",
+    "transliteration": "miṭṭī",
+    "english": "Soil / Earth",
+    "vietnamese": "Đất",
+    "audio": "मिट्टी​​​​​​​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'ताला​​'",
+    "prompt_en": "Choose the correct translation for 'ताला​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ताला​​'",
+    "text": "ताला​​",
+    "subtext": "tālā",
+    "answer": "Lock",
+    "answer_vi": "Ổ khóa",
+    "options": [
+      "To sing",
+      "To work",
+      "Soil / Earth",
+      "Lock"
+    ],
+    "options_vi": [
+      "Hát",
+      "Làm việc",
+      "Đất",
+      "Ổ khóa"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​​​​​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गाना​​​​",
+    "transliteration": "gānā",
+    "english": "To sing",
+    "vietnamese": "Hát",
+    "audio": "गाना​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "ताला​​",
+        "english": "Lock (Ổ khóa)"
+      },
+      {
+        "hindi": "मिट्टी​​​​​​​​",
+        "english": "Soil / Earth (Đất)"
+      },
+      {
+        "hindi": "काम करना​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "गाना​​​​",
+        "english": "To sing (Hát)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "मिट्टी​​​​​​​​",
+    "translation_en": "Soil / Earth",
+    "translation_vi": "Đất",
+    "options_en": [
+      "To sing",
+      "Lock",
+      "To work",
+      "Soil / Earth"
+    ],
+    "options_vi": [
+      "Hát",
+      "Ổ khóa",
+      "Làm việc",
+      "Đất"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "The boy runs fast / Cậu bé chạy nhanh",
+    "hindiWords": [
+      "लड़का",
+      "तेज़",
+      "दौड़ता",
+      "है",
+      "लड़की",
+      "धीमे"
+    ],
+    "correctHindiSentence": "लड़का तेज़ दौड़ता है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पढ़ना​​​​​​​​​​​​​​",
+    "transliteration": "paṛhnā",
+    "english": "To read",
+    "vietnamese": "Đọc",
+    "audio": "पढ़ना​​​​​​​​​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "पूछना",
+    "transliteration": "pūchnā",
+    "english": "To ask",
+    "vietnamese": "Hỏi",
+    "audio": "पूछना"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "काम करना​​​​​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "गाना​​​​",
+        "english": "To sing (Hát)"
+      },
+      {
+        "hindi": "पढ़ना​​​​​​​​​​​​​​",
+        "english": "To read (Đọc)"
+      },
+      {
+        "hindi": "पूछना",
+        "english": "To ask (Hỏi)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I am a boy / Tôi là một cậu bé",
+    "hindiWords": [
+      "मैं",
+      "लड़का",
+      "हूँ",
+      "लड़की",
+      "है"
+    ],
+    "correctHindiSentence": "मैं लड़का हूँ"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: ताला​​, काम करना​​​​​, पढ़ना​​​​​​​​​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'I am a boy'."
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Foundation Academy - Level 30",
+    "description": "Learn key vocabulary and concepts for Foundation Academy - Level 30. Listen carefully and read along in English and Vietnamese.",
+    "keyPoints": [
+      "खेलना​​​​​​ (khelnā) = To play / Chơi",
+      "दौड़ना​​ (dauṛnā) = To run / Chạy",
+      "चाबी (cābī) = Key / Chìa khóa"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Alphabet & Building Blocks - Part 30",
+    "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
+    "simpleRule": "Remember: खेलना​​​​​​ means 'To play' (Chơi)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "खेलना​​​​​​",
+    "transliteration": "khelnā",
+    "english": "To play",
+    "vietnamese": "Chơi",
+    "audio": "खेलना​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दौड़ना​​",
+    "transliteration": "dauṛnā",
+    "english": "To run",
+    "vietnamese": "Chạy",
+    "audio": "दौड़ना​​"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'खेलना​​​​​​'",
+    "prompt_en": "Choose the correct translation for 'खेलना​​​​​​'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खेलना​​​​​​'",
+    "text": "खेलना​​​​​​",
+    "subtext": "khelnā",
+    "answer": "To play",
+    "answer_vi": "Chơi",
+    "options": [
+      "Key",
+      "To run",
+      "To play",
+      "To work"
+    ],
+    "options_vi": [
+      "Chìa khóa",
+      "Chạy",
+      "Chơi",
+      "Làm việc"
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "चाबी",
+    "transliteration": "cābī",
+    "english": "Key",
+    "vietnamese": "Chìa khóa",
+    "audio": "चाबी"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "काम करना​",
+    "transliteration": "kām karnā",
+    "english": "To work",
+    "vietnamese": "Làm việc",
+    "audio": "काम करना​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the Hindi words with their meanings",
+    "pairs": [
+      {
+        "hindi": "खेलना​​​​​​",
+        "english": "To play (Chơi)"
+      },
+      {
+        "hindi": "दौड़ना​​",
+        "english": "To run (Chạy)"
+      },
+      {
+        "hindi": "चाबी",
+        "english": "Key (Chìa khóa)"
+      },
+      {
+        "hindi": "काम करना​",
+        "english": "To work (Làm việc)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "दौड़ना​​",
+    "translation_en": "To run",
+    "translation_vi": "Chạy",
+    "options_en": [
+      "Key",
+      "To play",
+      "To work",
+      "To run"
+    ],
+    "options_vi": [
+      "Chìa khóa",
+      "Chơi",
+      "Làm việc",
+      "Chạy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "This is a big house / Đây là một ngôi nhà lớn",
+    "hindiWords": [
+      "यह",
+      "बड़ा",
+      "घर",
+      "है",
+      "छोटा",
+      "सड़क"
+    ],
+    "correctHindiSentence": "यह बड़ा घर है"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "नदी​​​​​​",
+    "transliteration": "nadī",
+    "english": "River",
+    "vietnamese": "Con sông",
+    "audio": "नदी​​​​​​"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "शहर​​​​​​​​​",
+    "transliteration": "shahar",
+    "english": "City",
+    "vietnamese": "Thành phố",
+    "audio": "शहर​​​​​​​​​"
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the words to proceed",
+    "pairs": [
+      {
+        "hindi": "चाबी",
+        "english": "Key (Chìa khóa)"
+      },
+      {
+        "hindi": "काम करना​",
+        "english": "To work (Làm việc)"
+      },
+      {
+        "hindi": "नदी​​​​​​",
+        "english": "River (Con sông)"
+      },
+      {
+        "hindi": "शहर​​​​​​​​​",
+        "english": "City (Thành phố)"
+      }
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "He is a boy / Cậu ấy là một cậu bé",
+    "hindiWords": [
+      "वह",
+      "लड़का",
+      "है",
+      "हूँ",
+      "वे"
+    ],
+    "correctHindiSentence": "वह लड़का है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Lesson Summary",
+    "takeaways": [
+      "You learned basic vocabulary terms: खेलना​​​​​​, चाबी, नदी​​​​​​.",
+      "You completed interactive listening and matching drills.",
+      "You practiced word ordering for the sentence: 'He is a boy'."
+    ]
+  }
+]

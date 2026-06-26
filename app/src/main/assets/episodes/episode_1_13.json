@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Introduction",
+    "title": "Time & Calendar",
+    "description": "Master the vocabulary and grammar for: Time & Calendar. Read the key points carefully.",
+    "keyPoints": [
+      "Focus: Time & Calendar"
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set A",
+    "explanation": "Understand the usage and roots of: आज.",
+    "simpleRule": "Remember: आज means Today (Hôm nay)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "आज",
+    "transliteration": "aaj",
+    "english": "Today",
+    "vietnamese": "Hôm nay",
+    "audio": "आज"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "रात",
+    "transliteration": "rāt",
+    "english": "Night",
+    "vietnamese": "Đêm",
+    "audio": "रात"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "बुधवार",
+    "transliteration": "budhvaar",
+    "english": "Wednesday",
+    "vietnamese": "Thứ tư",
+    "audio": "बुधवार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "तड़प",
+    "transliteration": "tadap",
+    "english": "Yearning / Restlessness",
+    "vietnamese": "Sự khắc khoải / Khao khát",
+    "audio": "तड़प"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'आज'",
+    "prompt_en": "Choose correct translation for 'आज'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आज'",
+    "text": "आज",
+    "subtext": "aaj",
+    "answer": "Today",
+    "answer_vi": "Hôm nay",
+    "options": [
+      "Today",
+      "Night",
+      "Wednesday",
+      "Yearning / Restlessness"
+    ],
+    "options_vi": [
+      "Hôm nay",
+      "Đêm",
+      "Thứ tư",
+      "Sự khắc khoải / Khao khát"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "आज",
+        "english": "Today (Hôm nay)"
+      },
+      {
+        "hindi": "रात",
+        "english": "Night (Đêm)"
+      },
+      {
+        "hindi": "बुधवार",
+        "english": "Wednesday (Thứ tư)"
+      },
+      {
+        "hindi": "तड़प",
+        "english": "Yearning / Restlessness (Sự khắc khoải / Khao khát)"
+      }
+    ]
+  },
+  {
+    "type": "TeachRule",
+    "title": "Grammar & Phonetics - Set B",
+    "explanation": "Understand the usage and roots of: गुरुवार.",
+    "simpleRule": "Remember: गुरुवार means Thursday (Thứ năm)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "गुरुवार",
+    "transliteration": "guruvaar",
+    "english": "Thursday",
+    "vietnamese": "Thứ năm",
+    "audio": "गुरुवार"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "दिन",
+    "transliteration": "din",
+    "english": "Day",
+    "vietnamese": "Ngày",
+    "audio": "दिन"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "कल",
+    "transliteration": "kal",
+    "english": "Yesterday / Tomorrow",
+    "vietnamese": "Hôm qua / Ngày mai",
+    "audio": "कल"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "सोमवार",
+    "transliteration": "somvaar",
+    "english": "Monday",
+    "vietnamese": "Thứ hai",
+    "audio": "सोमवार"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Translate 'गुरुवार'",
+    "prompt_en": "Choose correct translation for 'गुरुवार'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'गुरुवार'",
+    "text": "गुरुवार",
+    "subtext": "guruvaar",
+    "answer": "Thursday",
+    "answer_vi": "Thứ năm",
+    "options": [
+      "Thursday",
+      "Day",
+      "Yesterday / Tomorrow",
+      "Monday"
+    ],
+    "options_vi": [
+      "Thứ năm",
+      "Ngày",
+      "Hôm qua / Ngày mai",
+      "Thứ hai"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match all the words with their meanings",
+    "pairs": [
+      {
+        "hindi": "गुरुवार",
+        "english": "Thursday (Thứ năm)"
+      },
+      {
+        "hindi": "दिन",
+        "english": "Day (Ngày)"
+      },
+      {
+        "hindi": "कल",
+        "english": "Yesterday / Tomorrow (Hôm qua / Ngày mai)"
+      },
+      {
+        "hindi": "सोमवार",
+        "english": "Monday (Thứ hai)"
+      }
+    ]
+  },
+  {
+    "type": "Listening",
+    "audio": "आज",
+    "translation_en": "Today",
+    "translation_vi": "Hôm nay",
+    "options_en": [
+      "Today",
+      "Night",
+      "Wednesday",
+      "Yearning / Restlessness"
+    ],
+    "options_vi": [
+      "Hôm nay",
+      "Đêm",
+      "Thứ tư",
+      "Sự khắc khoải / Khao khát"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "I know Today / Tôi biết Hôm nay",
+    "hindiWords": [
+      "मैं",
+      "आज",
+      "जानता",
+      "हूँ"
+    ],
+    "correctHindiSentence": "मैं आज जानता हूँ"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Where is Night? / Đêm ở đâu?",
+    "hindiWords": [
+      "रात",
+      "कहाँ",
+      "है",
+      "था"
+    ],
+    "correctHindiSentence": "रात कहाँ है"
+  },
+  {
+    "type": "RevisionSummary",
+    "title": "Subgroup Mastered!",
+    "takeaways": [
+      "You learned: आज, सोमवार",
+      "Practiced constructing sentences."
+    ]
+  }
+]
