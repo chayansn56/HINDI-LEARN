@@ -13,6 +13,7 @@ import com.example.hindilearn.data.UserManager
 import com.example.hindilearn.ui.gamified.GlassCard
 import com.example.hindilearn.ui.gamified.PremiumBackground
 import com.example.hindilearn.ui.gamified.PremiumButton
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.rememberScrollState
 
@@ -23,6 +24,9 @@ fun SettingsScreen(
     onCourseSwitched: () -> Unit,
     modifier: Modifier = Modifier
 ) {
+    val isDark = isSystemInDarkTheme()
+    val contentColor = if (isDark) Color.White else Color(0xFF1E1E1E)
+
     PremiumBackground {
         Scaffold(
             modifier = modifier,
@@ -31,11 +35,11 @@ fun SettingsScreen(
                 TopAppBar(
                     title = {
                         val isVi = UserManager.progress.selectedLanguage == "VI"
-                        Text(if (isVi) "Cài đặt" else "Settings", color = Color.White)
+                        Text(if (isVi) "Cài đặt" else "Settings", color = contentColor)
                     },
                     navigationIcon = {
                         IconButton(onClick = onBack) {
-                            Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = androidx.compose.ui.graphics.Color.White)
+                            Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = contentColor)
                         }
                     },
                     colors = TopAppBarDefaults.topAppBarColors(
@@ -61,7 +65,7 @@ fun SettingsScreen(
                 Text(
                     if (isVi) "Tên của bạn" else "Your Name",
                     style = MaterialTheme.typography.titleLarge,
-                    color = Color.White,
+                    color = contentColor,
                     modifier = Modifier.padding(bottom = 8.dp)
                 )
 
@@ -71,24 +75,24 @@ fun SettingsScreen(
                         verticalAlignment = Alignment.CenterVertically,
                         horizontalArrangement = Arrangement.spacedBy(12.dp)
                     ) {
-                        TextField(
+                        OutlinedTextField(
                             value = nameInput,
                             onValueChange = { nameInput = it },
                             label = { Text(if (isVi) "Nhập tên" else "Enter name") },
                             singleLine = true,
                             modifier = Modifier.weight(1f),
-                            colors = TextFieldDefaults.colors(
-                                unfocusedContainerColor = Color.Transparent,
-                                focusedContainerColor = Color.Transparent,
-                                focusedTextColor = Color.White,
-                                unfocusedTextColor = Color.White,
-                                focusedLabelColor = Color.White.copy(alpha = 0.7f),
-                                unfocusedLabelColor = Color.White.copy(alpha = 0.5f),
-                                cursorColor = Color.White
+                            colors = OutlinedTextFieldDefaults.colors(
+                                focusedBorderColor = MaterialTheme.colorScheme.primary,
+                                unfocusedBorderColor = contentColor.copy(alpha = 0.4f),
+                                focusedLabelColor = MaterialTheme.colorScheme.primary,
+                                unfocusedLabelColor = contentColor.copy(alpha = 0.6f),
+                                focusedTextColor = contentColor,
+                                unfocusedTextColor = contentColor
                             )
                         )
                         PremiumButton(
                             text = if (isVi) "Lưu" else "Save",
+                            modifier = Modifier.width(100.dp),
                             onClick = {
                                 UserManager.updateUserName(nameInput)
                             }
@@ -102,7 +106,7 @@ fun SettingsScreen(
                 Text(
                     if (isVi) "Khóa học" else "Course Preferences",
                     style = MaterialTheme.typography.titleLarge,
-                    color = Color.White,
+                    color = contentColor,
                     modifier = Modifier.padding(bottom = 8.dp)
                 )
 
@@ -139,7 +143,7 @@ fun SettingsScreen(
                 Text(
                     if (isVi) "Ngôn ngữ" else "Interface Language",
                     style = MaterialTheme.typography.titleLarge,
-                    color = Color.White,
+                    color = contentColor,
                     modifier = Modifier.padding(bottom = 8.dp)
                 )
 
@@ -152,10 +156,11 @@ fun SettingsScreen(
                         Text(
                             if (isVi) "Tiếng Việt (VI)" else "English (EN)",
                             style = MaterialTheme.typography.bodyLarge,
-                            color = Color.White
+                            color = contentColor
                         )
                         PremiumButton(
                             text = if (isVi) "Chuyển sang EN" else "Switch to VI",
+                            modifier = Modifier.width(160.dp),
                             onClick = {
                                 val newLang = if (isVi) "EN" else "VI"
                                 UserManager.updateLanguage(newLang)
