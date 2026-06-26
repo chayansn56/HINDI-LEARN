@@ -28,19 +28,23 @@ import androidx.compose.foundation.isSystemInDarkTheme
 // Premium Background Generator (Animated)
 @Composable
 fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
-    val isDark = isSystemInDarkTheme()
+    val isDark = when (com.example.hindilearn.data.UserManager.progress.themeMode) {
+        "DARK" -> true
+        "LIGHT" -> false
+        else -> isSystemInDarkTheme()
+    }
     val isEnglishCourse = com.example.hindilearn.data.UserManager.progress.selectedCourse == "ENGLISH"
     val infiniteTransition = rememberInfiniteTransition(label = "bg")
     val color1 by infiniteTransition.animateColor(
         initialValue = if (isDark) {
-            if (isEnglishCourse) Color(0xFF050B14) else Color(0xFF0F0F1A)
+            Color(0xFF0A192F) // Deep Midnight Navy
         } else {
             if (isEnglishCourse) EnglishSky else WarmIvory
         },
         targetValue = if (isDark) {
-            if (isEnglishCourse) EnglishNavy.copy(alpha = 0.5f) else DeepSaffron.copy(alpha = 0.2f)
+            Color(0xFF070F1E) // Even darker Navy
         } else {
-            if (isEnglishCourse) EnglishCrimson.copy(alpha = 0.1f) else DeepSaffron.copy(alpha = 0.1f)
+            Color(0xFFFFFDF7) // Soft White/Cream
         },
         animationSpec = infiniteRepeatable(
             animation = tween(4000, easing = LinearEasing),
@@ -50,14 +54,14 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
     )
     val color2 by infiniteTransition.animateColor(
         initialValue = if (isDark) {
-            if (isEnglishCourse) EnglishCrimson.copy(alpha = 0.2f) else DeepSaffron.copy(alpha = 0.1f)
+            Color(0xFF0F172A) // Dark Slate Navy
         } else {
-            if (isEnglishCourse) EnglishNavy.copy(alpha = 0.1f) else DeepSaffron.copy(alpha = 0.05f)
+            if (isEnglishCourse) EnglishSky.copy(alpha = 0.5f) else Color(0xFFFFF1F1).copy(alpha = 0.5f)
         },
         targetValue = if (isDark) {
-            if (isEnglishCourse) EnglishNavy.copy(alpha = 0.2f) else RoyalBlue.copy(alpha = 0.15f)
+            Color(0xFF1E293B) // Medium Slate Blue (Navy-adjacent)
         } else {
-            if (isEnglishCourse) EnglishCrimson.copy(alpha = 0.05f) else RoyalBlue.copy(alpha = 0.05f)
+            DeepSaffron.copy(alpha = 0.08f) // Accent Saffron
         },
         animationSpec = infiniteRepeatable(
             animation = tween(5000, easing = LinearEasing),

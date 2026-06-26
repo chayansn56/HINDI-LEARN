@@ -139,6 +139,51 @@ fun SettingsScreen(
 
                 Spacer(modifier = Modifier.height(8.dp))
 
+                // --- Theme Selection Section ---
+                Text(
+                    if (isVi) "Chế độ hiển thị" else "Theme Mode",
+                    style = MaterialTheme.typography.titleLarge,
+                    color = contentColor,
+                    modifier = Modifier.padding(bottom = 8.dp)
+                )
+
+                GlassCard(modifier = Modifier.fillMaxWidth()) {
+                    Row(
+                        modifier = Modifier.padding(16.dp).fillMaxWidth(),
+                        horizontalArrangement = Arrangement.spacedBy(8.dp)
+                    ) {
+                        PremiumButton(
+                            text = if (isVi) "Sáng" else "Day",
+                            modifier = Modifier.weight(1f),
+                            onClick = {
+                                UserManager.updateThemeMode("LIGHT")
+                            },
+                            color = if (UserManager.progress.themeMode == "LIGHT") MaterialTheme.colorScheme.primary else Color(0xFFF1F1F1),
+                            textColor = if (UserManager.progress.themeMode == "LIGHT") Color.White else Color(0xFF1E1E1E)
+                        )
+                        PremiumButton(
+                            text = if (isVi) "Tối" else "Night",
+                            modifier = Modifier.weight(1f),
+                            onClick = {
+                                UserManager.updateThemeMode("DARK")
+                            },
+                            color = if (UserManager.progress.themeMode == "DARK") MaterialTheme.colorScheme.primary else Color(0xFFF1F1F1),
+                            textColor = if (UserManager.progress.themeMode == "DARK") Color.White else Color(0xFF1E1E1E)
+                        )
+                        PremiumButton(
+                            text = if (isVi) "Hệ thống" else "System",
+                            modifier = Modifier.weight(1f),
+                            onClick = {
+                                UserManager.updateThemeMode("SYSTEM")
+                            },
+                            color = if (UserManager.progress.themeMode == "SYSTEM") MaterialTheme.colorScheme.primary else Color(0xFFF1F1F1),
+                            textColor = if (UserManager.progress.themeMode == "SYSTEM") Color.White else Color(0xFF1E1E1E)
+                        )
+                    }
+                }
+
+                Spacer(modifier = Modifier.height(8.dp))
+
                 // --- Language Toggle Section ---
                 Text(
                     if (isVi) "Ngôn ngữ" else "Interface Language",

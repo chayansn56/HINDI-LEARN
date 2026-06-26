@@ -23,7 +23,8 @@ data class UserProgress(
     var mistakeMap: Map<String, Int> = emptyMap(),
     var lastPlayDate: Long = 0L,
     var lastChallengeDate: String = "",
-    var userName: String = ""
+    var userName: String = "",
+    var themeMode: String = "SYSTEM" // "SYSTEM", "LIGHT", "DARK"
 )
 
 object UserManager {
@@ -82,7 +83,8 @@ object UserManager {
                 mistakeMap = mistakes,
                 lastPlayDate = entity.lastPlayDate,
                 lastChallengeDate = entity.lastChallengeDate,
-                userName = entity.userName
+                userName = entity.userName,
+                themeMode = entity.themeMode
             )
         } else {
             save()
@@ -110,7 +112,8 @@ object UserManager {
             mistakeMap = mistakesObj.toString(),
             lastPlayDate = progress.lastPlayDate,
             lastChallengeDate = progress.lastChallengeDate,
-            userName = progress.userName
+            userName = progress.userName,
+            themeMode = progress.themeMode
         ))
         
         // Trigger Cloud Sync Backup (runs on IO thread internally or via GlobalScope to not block UI)
@@ -165,6 +168,11 @@ object UserManager {
 
     fun updateUserName(name: String) {
         progress = progress.copy(userName = name.trim())
+        save()
+    }
+
+    fun updateThemeMode(mode: String) {
+        progress = progress.copy(themeMode = mode)
         save()
     }
 

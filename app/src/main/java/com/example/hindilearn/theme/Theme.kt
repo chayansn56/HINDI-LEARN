@@ -35,7 +35,11 @@ private val LightColorScheme = lightColorScheme(
 
 @Composable
 fun HindiLearnTheme(
-  darkTheme: Boolean = isSystemInDarkTheme(),
+  darkTheme: Boolean = when (com.example.hindilearn.data.UserManager.progress.themeMode) {
+      "DARK" -> true
+      "LIGHT" -> false
+      else -> isSystemInDarkTheme()
+  },
   dynamicColor: Boolean = true,
   content: @Composable () -> Unit,
 ) {
