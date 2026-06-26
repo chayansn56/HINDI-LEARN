@@ -412,6 +412,54 @@ fun FlashcardUI(ex: Exercise.Flashcard, tts: TextToSpeech?, isCorrect: Boolean?,
                                     color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.7f),
                                     textAlign = TextAlign.Center
                                 )
+
+                                Spacer(modifier = Modifier.height(16.dp))
+
+                                var explanationText by remember { mutableStateOf<String?>(null) }
+                                var isGenerating by remember { mutableStateOf(false) }
+                                val coroutineScope = rememberCoroutineScope()
+
+                                Button(
+                                    onClick = {
+                                        isGenerating = true
+                                        coroutineScope.launch {
+                                            val targetLanguage = if (UserManager.progress.selectedCourse == "ENGLISH") "English" else "Hindi"
+                                            val nativeLanguage = if (isVi) "Vietnamese" else "English"
+                                            val prompt = """
+                                                Explain the word "${ex.hindi}" to a native $nativeLanguage speaker learning $targetLanguage.
+                                                Give literal meaning, root origin, cultural context (if any), and 3 practical example sentences in $targetLanguage with $nativeLanguage translations.
+                                                Format cleanly with markdown. Keep it engaging but concise (under 200 words).
+                                            """.trimIndent()
+                                            explanationText = com.example.hindilearn.data.OpenAiService.generateChatResponse(prompt, emptyList())
+                                                ?: (if (isVi) "Không thể kết nối với AI." else "Could not connect to AI.")
+                                            isGenerating = false
+                                        }
+                                    },
+                                    colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.primary)
+                                ) {
+                                    if (isGenerating) {
+                                        CircularProgressIndicator(modifier = Modifier.size(18.dp), color = Color.White)
+                                    } else {
+                                        Text(if (isVi) "💡 Giải thích AI" else "💡 AI Explain")
+                                    }
+                                }
+
+                                if (explanationText != null) {
+                                    AlertDialog(
+                                        onDismissRequest = { explanationText = null },
+                                        title = { Text(if (isVi) "Giải thích từ vựng" else "AI Explanation") },
+                                        text = {
+                                            Column(modifier = Modifier.verticalScroll(rememberScrollState())) {
+                                                Text(explanationText!!)
+                                            }
+                                        },
+                                        confirmButton = {
+                                            TextButton(onClick = { explanationText = null }) {
+                                                Text("OK")
+                                            }
+                                        }
+                                    )
+                                }
                             }
                         }
                     }

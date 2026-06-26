@@ -88,6 +88,7 @@ fun PronunciationLabScreen(onBack: () -> Unit, modifier: Modifier = Modifier) {
     var userSpokenText by remember { mutableStateOf("") }
     var isListening by remember { mutableStateOf(false) }
     var aiGrade by remember { mutableStateOf<String?>(null) }
+    var aiRating by remember { mutableIntStateOf(3) }
     var aiFeedback by remember { mutableStateOf<String?>(null) }
     var isAnalyzing by remember { mutableStateOf(false) }
 
@@ -124,7 +125,8 @@ fun PronunciationLabScreen(onBack: () -> Unit, modifier: Modifier = Modifier) {
                         val result = OpenAiService.gradePronunciation(targetSentence, userSpokenText)
                         if (result != null) {
                             aiGrade = result.first
-                            aiFeedback = result.second
+                            aiRating = result.second
+                            aiFeedback = result.third
                         } else {
                             aiFeedback = if (isVi) "Lỗi kết nối AI" else "AI Connection Error"
                         }
@@ -206,7 +208,17 @@ fun PronunciationLabScreen(onBack: () -> Unit, modifier: Modifier = Modifier) {
                         Column(modifier = Modifier.padding(24.dp), horizontalAlignment = Alignment.CenterHorizontally) {
                             val gradeEmoji = when (aiGrade) { "A" -> "🌟"; "B" -> "👍"; "C" -> "💪"; "D" -> "🎯"; "F" -> "🔄"; else -> "❓" }
                             Text("$gradeEmoji Grade: $aiGrade", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold, color = Color.White)
-                            Spacer(modifier = Modifier.height(4.dp))
+                            Spacer(modifier = Modifier.height(8.dp))
+                            
+                            // 1-5 Star Ratings Row
+                            Row(horizontalArrangement = Arrangement.spacedBy(4.dp)) {
+                                for (i in 1..5) {
+                                    val starColor = if (i <= aiRating) PremiumGold else Color.White.copy(alpha = 0.3f)
+                                    Text("★", fontSize = 28.sp, color = starColor)
+                                }
+                            }
+                            
+                            Spacer(modifier = Modifier.height(12.dp))
                             Text(
                                 aiFeedback ?: "",
                                 style = MaterialTheme.typography.bodyLarge,

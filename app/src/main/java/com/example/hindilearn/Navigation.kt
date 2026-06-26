@@ -34,6 +34,9 @@ data object RoleplayRoute : NavKey
 @kotlinx.serialization.Serializable
 data object PronunciationLabRoute : NavKey
 
+@kotlinx.serialization.Serializable
+data object MascotTalkRoute : NavKey
+
 @android.annotation.SuppressLint("UnusedCrossfadeTargetStateParameter")
 @Composable
 fun MainNavigation() {
@@ -111,6 +114,9 @@ fun MainNavigation() {
                   },
                   onPronunciationLabSelected = {
                       backStack.add(PronunciationLabRoute)
+                  },
+                  onMascotTalkSelected = {
+                      backStack.add(MascotTalkRoute)
                   },
                   modifier = Modifier.safeDrawingPadding()
               )
@@ -242,6 +248,14 @@ fun MainNavigation() {
         entry<PronunciationLabRoute> {
             Crossfade(targetState = true, label = "fade") { _ ->
                 com.example.hindilearn.ui.gamified.PronunciationLabScreen(
+                    onBack = { backStack.removeLastOrNull() },
+                    modifier = Modifier.safeDrawingPadding()
+                )
+            }
+        }
+        entry<MascotTalkRoute> {
+            Crossfade(targetState = true, label = "fade") { _ ->
+                com.example.hindilearn.ui.gamified.BoatTalkScreen(
                     onBack = { backStack.removeLastOrNull() },
                     modifier = Modifier.safeDrawingPadding()
                 )

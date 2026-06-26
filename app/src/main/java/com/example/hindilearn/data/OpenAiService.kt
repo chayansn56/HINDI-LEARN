@@ -75,7 +75,7 @@ object OpenAiService {
         return@withContext null
     }
 
-    suspend fun gradePronunciation(targetSentence: String, userSpokenText: String): Pair<String, String>? = withContext(Dispatchers.IO) {
+    suspend fun gradePronunciation(targetSentence: String, userSpokenText: String): Triple<String, Int, String>? = withContext(Dispatchers.IO) {
         try {
             val requestBody = JSONObject()
             requestBody.put("model", "llama-3.1-8b-instant")
@@ -83,18 +83,19 @@ object OpenAiService {
             requestBody.put("response_format", JSONObject().put("type", "json_object"))
             
             val systemPrompt = """
-                You are a strict but encouraging language teacher.
+                You are a strict but encouraging language teacher who specializes in correcting pronunciation for native Vietnamese speakers.
                 The user was supposed to say: "$targetSentence"
                 The user actually said: "$userSpokenText"
                 
-                Evaluate how close they were. Ignore minor punctuation or capitalization differences.
-                If they are completely wrong or said something else, give an F.
-                If they are perfect, give an A.
+                Evaluate how close they were, specifically identifying typical Vietnamese pronunciation mistakes (e.g., omitting ending consonants like -s, -t, -d, or failing to make long/short vowel distinctions).
+                Highlight the exact parts they got right or wrong, and offer concrete suggestions.
+                Rate their attempt with a rating from 1 to 5 (integer value).
                 
                 You MUST return your response as a valid JSON object exactly like this:
                 {
                     "grade": "A", // Can be A, B, C, D, or F
-                    "feedback": "Your detailed explanation of what they did right or wrong."
+                    "rating": 5, // Integer from 1 (poor) to 5 (excellent)
+                    "feedback": "Your detailed explanation of what they did right or wrong, including tips for native Vietnamese speakers."
                 }
             """.trimIndent()
             
@@ -127,13 +128,14 @@ object OpenAiService {
                     val content = messageObj?.optString("content")
                     if (content != null) {
                         try {
-                            val resultJson = JSONObject(content)
-                            return@withContext Pair(
+                            val resultJson = JSONObject(content.trim().removePrefix("```json").removePrefix("```").removeSuffix("```").trim())
+                            return@withContext Triple(
                                 resultJson.optString("grade", "N/A"),
+                                resultJson.optInt("rating", 3),
                                 resultJson.optString("feedback", "No feedback provided.")
                             )
                         } catch (e: Exception) {
-                            return@withContext Pair("F", "Error parsing response: $content")
+                            return@withContext Triple("F", 1, "Error parsing response: $content")
                         }
                     }
                 }

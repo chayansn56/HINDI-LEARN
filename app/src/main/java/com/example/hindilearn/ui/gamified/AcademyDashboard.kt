@@ -22,6 +22,19 @@ import com.example.hindilearn.data.GamifiedCurriculum
 import com.example.hindilearn.data.UserManager
 import androidx.compose.ui.graphics.Color
 import com.example.hindilearn.theme.*
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.background
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.Canvas
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.geometry.Offset
+import androidx.compose.ui.graphics.Path
+import androidx.compose.ui.graphics.drawscope.Stroke
+import com.example.hindilearn.data.OpenAiService
+import androidx.compose.ui.unit.sp
+import kotlinx.coroutines.launch
+import androidx.compose.runtime.*
 
 @Composable
 fun AcademyDashboard(
@@ -36,6 +49,7 @@ fun AcademyDashboard(
     onLeaderboardSelected: () -> Unit,
     onRoleplaySelected: () -> Unit,
     onPronunciationLabSelected: () -> Unit,
+    onMascotTalkSelected: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val context = LocalContext.current
@@ -58,11 +72,14 @@ fun AcademyDashboard(
         Toast.makeText(context, msg, Toast.LENGTH_SHORT).show()
     }
 
+    var isCelebrating by androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf(false) }
+
     PremiumBackground {
-        LazyColumn(
-            modifier = modifier.fillMaxSize(),
-            contentPadding = PaddingValues(bottom = 48.dp)
-        ) {
+        Box(modifier = Modifier.fillMaxSize()) {
+            LazyColumn(
+                modifier = modifier.fillMaxSize(),
+                contentPadding = PaddingValues(bottom = 48.dp)
+            ) {
             // Dashboard Header
             item {
                 Column(
@@ -178,6 +195,102 @@ fun AcademyDashboard(
                                 fontWeight = FontWeight.Bold,
                                 color = DeepSaffron
                             )
+                        }
+                    }
+
+                    var hasEntered by androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf(false) }
+
+                    androidx.compose.runtime.LaunchedEffect(Unit) {
+                        hasEntered = true
+                    }
+
+                    val entranceOffsetX by androidx.compose.animation.core.animateDpAsState(
+                        targetValue = if (hasEntered) 0.dp else (-350).dp,
+                        animationSpec = androidx.compose.animation.core.spring(
+                            dampingRatio = androidx.compose.animation.core.Spring.DampingRatioMediumBouncy,
+                            stiffness = androidx.compose.animation.core.Spring.StiffnessLow
+                        ),
+                        label = "EntranceOffset"
+                    )
+
+                    Spacer(modifier = Modifier.height(16.dp))
+
+                    var mascotBubbleText by androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf(if (isVi) "Chào mừng bạn đến với Vietana! Mình là chiếc thuyền xanh buồm vàng, người bạn đồng hành khám phá ngôn ngữ của bạn! ⛵" else "Welcome to Vietana! I'm the blue boat with gold sails, your companion in language discovery! ⛵") }
+                    val mascotCoroutines = androidx.compose.runtime.rememberCoroutineScope()
+
+                    // Pulse/Wobble Animation States (Wave Sailing)
+                    val infiniteTransition = androidx.compose.animation.core.rememberInfiniteTransition(label = "MascotWobble")
+                    val mascotTranslationY by infiniteTransition.animateFloat(
+                        initialValue = -5f,
+                        targetValue = 5f,
+                        animationSpec = androidx.compose.animation.core.infiniteRepeatable(
+                            animation = androidx.compose.animation.core.tween(1300, easing = androidx.compose.animation.core.LinearEasing),
+                            repeatMode = androidx.compose.animation.core.RepeatMode.Reverse
+                        ),
+                        label = "TranslationY"
+                    )
+                    val mascotTranslationX by infiniteTransition.animateFloat(
+                        initialValue = -4f,
+                        targetValue = 4f,
+                        animationSpec = androidx.compose.animation.core.infiniteRepeatable(
+                            animation = androidx.compose.animation.core.tween(1700, easing = androidx.compose.animation.core.LinearEasing),
+                            repeatMode = androidx.compose.animation.core.RepeatMode.Reverse
+                        ),
+                        label = "TranslationX"
+                    )
+                    val mascotRotationZ by infiniteTransition.animateFloat(
+                        initialValue = -3f,
+                        targetValue = 3f,
+                        animationSpec = androidx.compose.animation.core.infiniteRepeatable(
+                            animation = androidx.compose.animation.core.tween(1500, easing = androidx.compose.animation.core.LinearEasing),
+                            repeatMode = androidx.compose.animation.core.RepeatMode.Reverse
+                        ),
+                        label = "RotationZ"
+                    )
+
+                    GlassCard(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .offset(x = entranceOffsetX),
+                        shape = RoundedCornerShape(24.dp)
+                    ) {
+                        Row(
+                            modifier = Modifier
+                                .clickable {
+                                    onMascotTalkSelected()
+                                }
+                                .padding(16.dp),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            // Animated Vector Vietana Mascot (Smart Girl with Glasses & Conical Hat in a Blue Boat)
+                            Box(
+                                modifier = Modifier
+                                    .size(64.dp)
+                                    .graphicsLayer {
+                                        translationX = mascotTranslationX
+                                        translationY = mascotTranslationY
+                                        rotationZ = mascotRotationZ
+                                    },
+                                contentAlignment = Alignment.Center
+                            ) {
+                                VietanaMascot(modifier = Modifier.size(56.dp))
+                            }
+                            Spacer(modifier = Modifier.width(16.dp))
+                            Column(modifier = Modifier.weight(1f)) {
+                                Text(
+                                    text = if (isVi) "VIETANA MASCOT" else "VIETANA MASCOT",
+                                    style = MaterialTheme.typography.labelSmall,
+                                    color = DeepSaffron,
+                                    fontWeight = FontWeight.Bold
+                                )
+                                Spacer(modifier = Modifier.height(2.dp))
+                                Text(
+                                    text = mascotBubbleText,
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    fontWeight = FontWeight.Medium,
+                                    color = MaterialTheme.colorScheme.onSurface
+                                )
+                            }
                         }
                     }
                 }
@@ -430,6 +543,10 @@ fun AcademyDashboard(
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
+            
+            if (isCelebrating) {
+                CelebrationFlightOverlay(onAnimationFinished = { isCelebrating = false })
+            }
         }
     }
 }
@@ -437,5 +554,156 @@ fun AcademyDashboard(
 @Composable
 fun CategorySectionTitle(title: String) {
     Text(title, style = MaterialTheme.typography.titleMedium, color = DeepSaffron, fontWeight = FontWeight.Bold, modifier = Modifier.padding(horizontal = 24.dp, vertical = 8.dp))
+}
+
+@Composable
+fun VietanaMascot(modifier: Modifier = Modifier) {
+    Canvas(modifier = modifier) {
+        val w = size.width
+        val h = size.height
+
+        // 1. Boat Hull (Crescent Royal Blue boat shape at the bottom)
+        val boatPath = Path().apply {
+            moveTo(w * 0.1f, h * 0.65f)
+            quadraticBezierTo(w * 0.5f, h * 0.95f, w * 0.9f, h * 0.65f)
+            quadraticBezierTo(w * 0.5f, h * 0.78f, w * 0.1f, h * 0.65f)
+            close()
+        }
+
+        // 2. Mast (center vertical wooden line)
+        drawLine(
+            color = Color(0xFF5D4037),
+            start = Offset(w * 0.5f, h * 0.2f),
+            end = Offset(w * 0.5f, h * 0.72f),
+            strokeWidth = 3f
+        )
+
+        // 3. Sails (Vietana Logo crescent shape sails)
+        // Left sail
+        val leftSailPath = Path().apply {
+            moveTo(w * 0.48f, h * 0.22f)
+            quadraticBezierTo(w * 0.15f, h * 0.45f, w * 0.48f, h * 0.62f)
+            quadraticBezierTo(w * 0.35f, h * 0.45f, w * 0.48f, h * 0.22f)
+            close()
+        }
+        drawPath(leftSailPath, PremiumGold)
+
+        // Right sail
+        val rightSailPath = Path().apply {
+            moveTo(w * 0.52f, h * 0.25f)
+            quadraticBezierTo(w * 0.8f, h * 0.48f, w * 0.52f, h * 0.62f)
+            quadraticBezierTo(w * 0.65f, h * 0.48f, w * 0.52f, h * 0.25f)
+            close()
+        }
+        drawPath(rightSailPath, DeepSaffron)
+
+        // 4. Mascot face details drawn directly on the sails to make the boat speak!
+        // Left eye
+        drawCircle(
+            color = Color.Black,
+            radius = 3.5f,
+            center = Offset(w * 0.38f, h * 0.42f)
+        )
+        // Right eye
+        drawCircle(
+            color = Color.Black,
+            radius = 3.5f,
+            center = Offset(w * 0.62f, h * 0.42f)
+        )
+        // Highlights
+        drawCircle(
+            color = Color.White,
+            radius = 1f,
+            center = Offset(w * 0.37f, h * 0.41f)
+        )
+        drawCircle(
+            color = Color.White,
+            radius = 1f,
+            center = Offset(w * 0.61f, h * 0.41f)
+        )
+
+        // Cute smile centered on sails
+        drawArc(
+            color = Color.Black,
+            startAngle = 0f,
+            sweepAngle = 180f,
+            useCenter = false,
+            topLeft = Offset(w * 0.46f, h * 0.46f),
+            size = androidx.compose.ui.geometry.Size(w * 0.08f, h * 0.06f),
+            style = Stroke(width = 2.5f)
+        )
+
+        // 5. Render Boat Hull (covers bottom mast edge nicely)
+        drawPath(boatPath, RoyalBlue)
+
+        // Gold trim line on the hull
+        val boatTrimPath = Path().apply {
+            moveTo(w * 0.18f, h * 0.70f)
+            quadraticBezierTo(w * 0.5f, h * 0.86f, w * 0.82f, h * 0.70f)
+        }
+        drawPath(
+            path = boatTrimPath,
+            color = PremiumGold,
+            style = Stroke(width = 2.5f)
+        )
+    }
+}
+
+@Composable
+fun CelebrationFlightOverlay(
+    onAnimationFinished: () -> Unit
+) {
+    val animationProgress = remember { androidx.compose.animation.core.Animatable(0f) }
+
+    LaunchedEffect(Unit) {
+        animationProgress.animateTo(
+            targetValue = 1f,
+            animationSpec = androidx.compose.animation.core.tween(
+                durationMillis = 2200,
+                easing = androidx.compose.animation.core.FastOutSlowInEasing
+            )
+        )
+        onAnimationFinished()
+    }
+
+    BoxWithConstraints(modifier = Modifier.fillMaxSize()) {
+        val w = maxWidth
+        val h = maxHeight
+        val progress = animationProgress.value
+
+        // Trajectory curves: starts left, flies up in center, goes right
+        val xOffset = w * progress - 80.dp
+        val yOffset = h * 0.4f - (h * 0.25f * kotlin.math.sin(progress * kotlin.math.PI).toFloat())
+
+        // Rotation follows trajectory curve
+        val tangentAngle = -30f * kotlin.math.cos(progress * kotlin.math.PI).toFloat()
+
+        Box(
+            modifier = Modifier
+                .absoluteOffset(x = xOffset, y = yOffset)
+                .graphicsLayer { rotationZ = tangentAngle }
+        ) {
+            Box(
+                modifier = Modifier.size(100.dp),
+                contentAlignment = Alignment.Center
+            ) {
+                // Background sparkle trail
+                Canvas(modifier = Modifier.fillMaxSize()) {
+                    val rand = java.util.Random(12)
+                    for (i in 0..6) {
+                        val px = size.width * (0.2f + 0.6f * rand.nextFloat())
+                        val py = size.height * (0.3f + 0.5f * rand.nextFloat())
+                        val scale = (0.2f + 0.8f * rand.nextFloat()) * (1f - progress)
+                        drawCircle(
+                            color = PremiumGold.copy(alpha = scale),
+                            radius = 8f * scale,
+                            center = Offset(px, py)
+                        )
+                    }
+                }
+                VietanaMascot(modifier = Modifier.size(72.dp))
+            }
+        }
+    }
 }
 

@@ -133,110 +133,215 @@ fun DailyChallengeScreen(
             return@LaunchedEffect
         }
         try {
-            val inputStream: InputStream = context.assets.open("episodes/master_vocab.json")
-            val size = inputStream.available()
-            val buffer = ByteArray(size)
-            inputStream.read(buffer)
-            inputStream.close()
-            val jsonString = String(buffer, Charsets.UTF_8)
-            val jsonArray = JSONArray(jsonString)
+            val mistakes = UserManager.progress.mistakeMap.keys.filter { it.isNotBlank() }
+            var loadedFromAi = false
 
-            val vocabList = mutableListOf<Map<String, String>>()
-            for (i in 0 until jsonArray.length()) {
-                val obj = jsonArray.getJSONObject(i)
-                vocabList.add(
-                    mapOf(
-                        "hindi" to obj.getString("hindi"),
-                        "english" to obj.getString("english"),
-                        "vietnamese" to obj.getString("vietnamese")
+            if (mistakes.isNotEmpty()) {
+                val mistakesStr = mistakes.take(15).joinToString(", ")
+                val systemPrompt = """
+                    You are a language learning API generator.
+                    Generate 5 high-quality, diverse practice questions based on these terms the user struggled with: $mistakesStr.
+                    The target language course is ${UserManager.progress.selectedCourse}.
+                    If selected course is HINDI: teach Hindi to ${if (isVi) "Vietnamese" else "English"} speakers.
+                    If selected course is ENGLISH: teach English to Vietnamese speakers.
+                    
+                    Return a valid JSON array of exactly 5 elements. Each element must be one of the following formats:
+                    
+                    1. MultipleChoice format:
+                    {
+                      "type": "MultipleChoice",
+                      "hindi": "target word/phrase in Hindi or English (depending on course)",
+                      "correctTranslation": "the correct translation",
+                      "options": ["correct translation", "wrong option 1", "wrong option 2", "wrong option 3"],
+                      "isListening": false
+                    }
+                    
+                    2. FillInBlank format:
+                    {
+                      "type": "FillInBlank",
+                      "prompt": "sentence with _____ (meaning / gợi ý)",
+                      "translation": "the target word to fill in",
+                      "options": ["correct answer", "wrong 1", "wrong 2", "wrong 3"],
+                      "answer": "correct answer"
+                    }
+                    
+                    3. WordOrder format:
+                    {
+                      "type": "WordOrder",
+                      "english": "Translation prompt to translate into target language",
+                      "correctOrder": "target sentence in correct word order",
+                      "wordsBank": ["word1", "word2", "word3"]
+                    }
+                    
+                    Do NOT wrap inside markdown. Return ONLY the raw JSON array.
+                """.trimIndent()
+
+                val response = OpenAiService.generateChatResponse(systemPrompt, listOf("Generate 5 questions" to true))
+                if (response != null && !response.startsWith("Error")) {
+                    try {
+                        val cleanResponse = response.trim().removePrefix("```json").removePrefix("```").removeSuffix("```").trim()
+                        val qArray = JSONArray(cleanResponse)
+                        val questionsList = mutableListOf<ChallengeQuestion>()
+                        for (i in 0 until qArray.length()) {
+                            val qObj = qArray.getJSONObject(i)
+                            val type = qObj.getString("type")
+                            when (type) {
+                                "MultipleChoice" -> {
+                                    val opts = mutableListOf<String>()
+                                    val optsArr = qObj.getJSONArray("options")
+                                    for (j in 0 until optsArr.length()) opts.add(optsArr.getString(j))
+                                    questionsList.add(
+                                        ChallengeQuestion.MultipleChoice(
+                                            hindi = qObj.getString("hindi"),
+                                            correctTranslation = qObj.getString("correctTranslation"),
+                                            options = opts.shuffled(),
+                                            isListening = qObj.optBoolean("isListening", false)
+                                        )
+                                    )
+                                }
+                                "FillInBlank" -> {
+                                    val opts = mutableListOf<String>()
+                                    val optsArr = qObj.getJSONArray("options")
+                                    for (j in 0 until optsArr.length()) opts.add(optsArr.getString(j))
+                                    questionsList.add(
+                                        ChallengeQuestion.FillInBlank(
+                                            prompt = qObj.getString("prompt"),
+                                            translation = qObj.getString("translation"),
+                                            options = opts.shuffled(),
+                                            answer = qObj.getString("answer")
+                                        )
+                                    )
+                                }
+                                "WordOrder" -> {
+                                    val bank = mutableListOf<String>()
+                                    val bankArr = qObj.getJSONArray("wordsBank")
+                                    for (j in 0 until bankArr.length()) bank.add(bankArr.getString(j))
+                                    questionsList.add(
+                                        ChallengeQuestion.WordOrder(
+                                            english = qObj.getString("english"),
+                                            correctOrder = qObj.getString("correctOrder"),
+                                            wordsBank = bank.shuffled()
+                                        )
+                                    )
+                                }
+                            }
+                        }
+                        if (questionsList.size >= 5) {
+                            questions.addAll(questionsList.take(5))
+                            loadedFromAi = true
+                        }
+                    } catch (e: Exception) {
+                        e.printStackTrace()
+                    }
+                }
+            }
+
+            if (!loadedFromAi) {
+                val inputStream: InputStream = context.assets.open("episodes/master_vocab.json")
+                val size = inputStream.available()
+                val buffer = ByteArray(size)
+                inputStream.read(buffer)
+                inputStream.close()
+                val jsonString = String(buffer, Charsets.UTF_8)
+                val jsonArray = JSONArray(jsonString)
+
+                val vocabList = mutableListOf<Map<String, String>>()
+                for (i in 0 until jsonArray.length()) {
+                    val obj = jsonArray.getJSONObject(i)
+                    vocabList.add(
+                        mapOf(
+                            "hindi" to obj.getString("hindi"),
+                            "english" to obj.getString("english"),
+                            "vietnamese" to obj.getString("vietnamese")
+                        )
+                    )
+                }
+
+                val randomWords = vocabList.shuffled()
+                val questionsList = mutableListOf<ChallengeQuestion>()
+
+                // Q1: Vocabulary translation multiple choice
+                val w1 = randomWords[0]
+                val correct1 = if (isVi) w1["vietnamese"]!! else w1["english"]!!
+                val opts1 = mutableListOf(correct1)
+                var idx = 1
+                while (opts1.size < 4 && idx < randomWords.size) {
+                    val dist = if (isVi) randomWords[idx]["vietnamese"]!! else randomWords[idx]["english"]!!
+                    if (dist != correct1 && dist.isNotEmpty()) {
+                        opts1.add(dist)
+                    }
+                    idx++
+                }
+                questionsList.add(
+                    ChallengeQuestion.MultipleChoice(
+                        hindi = w1["hindi"]!!,
+                        correctTranslation = correct1,
+                        options = opts1.shuffled(),
+                        isListening = false
                     )
                 )
-            }
 
-            val randomWords = vocabList.shuffled()
-            val questionsList = mutableListOf<ChallengeQuestion>()
-
-            // Q1: Vocabulary translation multiple choice
-            val w1 = randomWords[0]
-            val correct1 = if (isVi) w1["vietnamese"]!! else w1["english"]!!
-            val opts1 = mutableListOf(correct1)
-            var idx = 1
-            while (opts1.size < 4 && idx < randomWords.size) {
-                val dist = if (isVi) randomWords[idx]["vietnamese"]!! else randomWords[idx]["english"]!!
-                if (dist != correct1 && dist.isNotEmpty()) {
-                    opts1.add(dist)
+                // Q2: Listening test multiple choice
+                val w2 = randomWords[1]
+                val correct2 = if (isVi) w2["vietnamese"]!! else w2["english"]!!
+                val opts2 = mutableListOf(correct2)
+                while (opts2.size < 4 && idx < randomWords.size) {
+                    val dist = if (isVi) randomWords[idx]["vietnamese"]!! else randomWords[idx]["english"]!!
+                    if (dist != correct2 && dist.isNotEmpty()) {
+                        opts2.add(dist)
+                    }
+                    idx++
                 }
-                idx++
-            }
-            questionsList.add(
-                ChallengeQuestion.MultipleChoice(
-                    hindi = w1["hindi"]!!,
-                    correctTranslation = correct1,
-                    options = opts1.shuffled(),
-                    isListening = false
+                questionsList.add(
+                    ChallengeQuestion.MultipleChoice(
+                        hindi = w2["hindi"]!!,
+                        correctTranslation = correct2,
+                        options = opts2.shuffled(),
+                        isListening = true
+                    )
                 )
-            )
 
-            // Q2: Listening test multiple choice
-            val w2 = randomWords[1]
-            val correct2 = if (isVi) w2["vietnamese"]!! else w2["english"]!!
-            val opts2 = mutableListOf(correct2)
-            while (opts2.size < 4 && idx < randomWords.size) {
-                val dist = if (isVi) randomWords[idx]["vietnamese"]!! else randomWords[idx]["english"]!!
-                if (dist != correct2 && dist.isNotEmpty()) {
-                    opts2.add(dist)
+                // Q3: Fill in blank - DYNAMIC from vocab
+                val w3 = randomWords.getOrNull(2) ?: randomWords[0]
+                val fillPrompts = listOf(
+                    Triple("${w3["hindi"]} _____ (${w3["english"]} / ${w3["vietnamese"]})", "में", listOf("में", "पर", "से", "को")),
+                    Triple("मेज़ _____ किताब है (The book is on the table)", "पर", listOf("में", "पर", "से", "को")),
+                    Triple("वह स्कूल _____ आता है (He comes from school)", "से", listOf("में", "पर", "से", "को")),
+                    Triple("मुझे पानी _____ दो (Give me water)", "को", listOf("में", "पर", "से", "को"))
+                ).random()
+                questionsList.add(
+                    ChallengeQuestion.FillInBlank(
+                        prompt = fillPrompts.first,
+                        translation = fillPrompts.second,
+                        options = fillPrompts.third.shuffled(),
+                        answer = fillPrompts.second
+                    )
+                )
+
+                // Q4: Word Ordering - DYNAMIC
+                val wordOrderSentences = listOf(
+                    Triple("I am fine. / Tôi khỏe.", "मैं ठीक हूँ", listOf("हूँ", "मैं", "ठीक")),
+                    Triple("She is good. / Cô ấy tốt.", "वह अच्छी है", listOf("वह", "अच्छी", "है")),
+                    Triple("Water is sweet. / Nước ngọt.", "पानी मीठा है", listOf("पानी", "मीठा", "है")),
+                    Triple("He is a student. / Anh ấy là học sinh.", "वह एक छात्र है", listOf("वह", "एक", "छात्र", "है")),
+                    Triple("My name is Raj. / Tên tôi là Raj.", "मेरा नाम राज है", listOf("मेरा", "नाम", "राज", "है"))
+                ).random()
+                questionsList.add(
+                    ChallengeQuestion.WordOrder(
+                        english = wordOrderSentences.first,
+                        correctOrder = wordOrderSentences.second,
+                        wordsBank = wordOrderSentences.third.shuffled()
+                    )
+                )
+
+                // Q5: Match Pairs (4 pairs)
+                val pairsPool = randomWords.take(4).map {
+                    Pair(it["hindi"]!!, if (isVi) it["vietnamese"]!! else it["english"]!!)
                 }
-                idx++
+                questionsList.add(ChallengeQuestion.MatchPairs(pairsPool))
+
+                questions.addAll(questionsList)
             }
-            questionsList.add(
-                ChallengeQuestion.MultipleChoice(
-                    hindi = w2["hindi"]!!,
-                    correctTranslation = correct2,
-                    options = opts2.shuffled(),
-                    isListening = true
-                )
-            )
-
-            // Q3: Fill in blank - DYNAMIC from vocab
-            val w3 = randomWords.getOrNull(2) ?: randomWords[0]
-            val fillPrompts = listOf(
-                Triple("${w3["hindi"]} _____ (${w3["english"]} / ${w3["vietnamese"]})", "में", listOf("में", "पर", "से", "को")),
-                Triple("मेज़ _____ किताब है (The book is on the table)", "पर", listOf("में", "पर", "से", "को")),
-                Triple("वह स्कूल _____ आता है (He comes from school)", "से", listOf("में", "पर", "से", "को")),
-                Triple("मुझे पानी _____ दो (Give me water)", "को", listOf("में", "पर", "से", "को"))
-            ).random()
-            questionsList.add(
-                ChallengeQuestion.FillInBlank(
-                    prompt = fillPrompts.first,
-                    translation = fillPrompts.second,
-                    options = fillPrompts.third.shuffled(),
-                    answer = fillPrompts.second
-                )
-            )
-
-            // Q4: Word Ordering - DYNAMIC
-            val wordOrderSentences = listOf(
-                Triple("I am fine. / Tôi khỏe.", "मैं ठीक हूँ", listOf("हूँ", "मैं", "ठीक")),
-                Triple("She is good. / Cô ấy tốt.", "वह अच्छी है", listOf("वह", "अच्छी", "है")),
-                Triple("Water is sweet. / Nước ngọt.", "पानी मीठा है", listOf("पानी", "मीठा", "है")),
-                Triple("He is a student. / Anh ấy là học sinh.", "वह एक छात्र है", listOf("वह", "एक", "छात्र", "है")),
-                Triple("My name is Raj. / Tên tôi là Raj.", "मेरा नाम राज है", listOf("मेरा", "नाम", "राज", "है"))
-            ).random()
-            questionsList.add(
-                ChallengeQuestion.WordOrder(
-                    english = wordOrderSentences.first,
-                    correctOrder = wordOrderSentences.second,
-                    wordsBank = wordOrderSentences.third.shuffled()
-                )
-            )
-
-            // Q5: Match Pairs (4 pairs)
-            val pairsPool = randomWords.take(4).map {
-                Pair(it["hindi"]!!, if (isVi) it["vietnamese"]!! else it["english"]!!)
-            }
-            questionsList.add(ChallengeQuestion.MatchPairs(pairsPool))
-
-            questions.addAll(questionsList)
         } catch (e: Exception) {
             e.printStackTrace()
         }
