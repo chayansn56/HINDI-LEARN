@@ -79,7 +79,10 @@ fun ScenarioSelection(isVi: Boolean, onSelect: (String) -> Unit) {
         val scenarios = listOf(
             if (isVi) "Tại nhà hàng" else "At the Restaurant",
             if (isVi) "Gọi Taxi" else "Calling a Taxi",
-            if (isVi) "Mặc cả ngoài chợ" else "Bargaining at the Market"
+            if (isVi) "Mặc cả ngoài chợ" else "Bargaining at the Market",
+            if (isVi) "Phỏng vấn xin việc" else "Job Interview",
+            if (isVi) "Nhận phòng khách sạn" else "Hotel Check-in",
+            if (isVi) "Hỏi đường đi" else "Asking for Directions"
         )
 
         scenarios.forEach { scenario ->
@@ -141,12 +144,22 @@ fun ChatInterface(isVi: Boolean, scenario: String) {
     var messages by remember { 
         mutableStateOf(listOf(
             ChatMessage(
-                if (scenario.contains("Restaurant") || scenario.contains("nhà hàng")) 
-                    (if (isVi) "Chào mừng! Bạn muốn dùng gì?" else "Welcome! What would you like to order?")
-                else if (scenario.contains("Taxi"))
-                    (if (isVi) "Bạn muốn đi đâu?" else "Where do you want to go?")
-                else
-                    (if (isVi) "Cái này giá 500. Rất rẻ!" else "This is 500 rupees. Very cheap!"),
+                run {
+                    val isEnglish = UserManager.progress.selectedCourse == "ENGLISH"
+                    if (scenario.contains("Restaurant") || scenario.contains("nhà hàng")) {
+                        if (isEnglish) "Welcome! What would you like to order?" else "नमस्ते! आप क्या ऑर्डर करना चाहेंगे?"
+                    } else if (scenario.contains("Taxi")) {
+                        if (isEnglish) "Where do you want to go?" else "नमस्ते! आप कहाँ जाना चाहते हैं?"
+                    } else if (scenario.contains("Interview") || scenario.contains("việc")) {
+                        if (isEnglish) "Hello! Welcome to the interview. Tell me about yourself." else "नमस्ते! साक्षात्कार में आपका स्वागत है। अपने बारे में कुछ बताइए।"
+                    } else if (scenario.contains("Hotel") || scenario.contains("sạn")) {
+                        if (isEnglish) "Welcome to our hotel. Can I see your ID, please?" else "हमारे होटल में आपका स्वागत है। क्या मैं आपकी पहचान आईडी देख सकता हूँ?"
+                    } else if (scenario.contains("Directions") || scenario.contains("đường")) {
+                        if (isEnglish) "Excuse me, are you lost? How can I help you?" else "क्षमा करें, क्या आप रास्ता भटक गए हैं? मैं आपकी क्या मदद कर सकता हूँ?"
+                    } else {
+                        if (isEnglish) "This is 500 rupees. Very cheap!" else "यह पाँच सौ रुपये का है। बहुत सस्ता है!"
+                    }
+                },
                 false
             )
         )) 
