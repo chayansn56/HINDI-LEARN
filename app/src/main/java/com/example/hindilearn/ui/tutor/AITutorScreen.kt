@@ -32,6 +32,8 @@ import java.util.Locale
 import com.example.hindilearn.ui.gamified.PremiumBackground
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import kotlinx.coroutines.launch
+import com.example.hindilearn.data.UserManager
 
 data class ChatMessage(val text: String, val isUser: Boolean)
 
@@ -71,16 +73,32 @@ fun AITutorScreen(
         }
     }
 
+    var isTyping by remember { mutableStateOf(false) }
+    val coroutineScope = rememberCoroutineScope()
+
     fun handleSend() {
-        if (currentInput.isNotBlank()) {
+        if (currentInput.isNotBlank() && !isTyping) {
             val userMsg = currentInput
             messages = messages + ChatMessage(userMsg, true)
             currentInput = ""
             
-            // Mock AI Response
-            val aiResponse = mockAiResponse(userMsg)
-            messages = messages + ChatMessage(aiResponse, false)
-            tts?.speak(aiResponse, TextToSpeech.QUEUE_FLUSH, null, null)
+            isTyping = true
+            coroutineScope.launch {
+                val targetLanguage = if (UserManager.progress.selectedCourse == "ENGLISH") "English" else "Hindi"
+                val systemPrompt = """
+                    You are a friendly and helpful AI language tutor.
+                    The user is practicing speaking and writing $targetLanguage.
+                    Respond in $targetLanguage to help them practice. Keep responses concise and simple.
+                """.trimIndent()
+                
+                val chatHistory = messages.map { Pair(it.text, it.isUser) }
+                val aiResponse = com.example.hindilearn.data.OpenAiService.generateChatResponse(systemPrompt, chatHistory)
+                    ?: "Sorry, I am having trouble connecting right now. Please try again."
+                
+                isTyping = false
+                messages = messages + ChatMessage(aiResponse, false)
+                tts?.speak(aiResponse, TextToSpeech.QUEUE_FLUSH, null, null)
+            }
         }
     }
 
@@ -190,9 +208,10 @@ fun startListening(
     setListeningState: (Boolean) -> Unit,
     onResult: (String) -> Unit
 ) {
+    val isEnglish = UserManager.progress.selectedCourse == "ENGLISH"
     val intent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
         putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
-        putExtra(RecognizerIntent.EXTRA_LANGUAGE, "hi-IN")
+        putExtra(RecognizerIntent.EXTRA_LANGUAGE, if (isEnglish) Locale.US.toString() else "hi-IN")
         putExtra(RecognizerIntent.EXTRA_PARTIAL_RESULTS, true)
     }
 
