@@ -94,5 +94,202 @@
     "hindi": "Listen to the teacher.",
     "translation": "Lắng nghe giáo viên.",
     "audio": "Listen to the teacher"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Playground",
+    "english": "Playground",
+    "vietnamese": "Sân chơi",
+    "audio": "Playground"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Teddy bear",
+    "english": "Teddy bear",
+    "vietnamese": "Gấu bông",
+    "audio": "Teddy bear"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bicycle",
+    "english": "Bicycle",
+    "vietnamese": "Xe đạp",
+    "audio": "Bicycle"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rainbow",
+    "english": "Rainbow",
+    "vietnamese": "Cầu vồng",
+    "audio": "Rainbow"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Butterfly",
+    "english": "Butterfly",
+    "vietnamese": "Con bướm",
+    "audio": "Butterfly"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Playground",
+    "subtext": "",
+    "answer": "Playground",
+    "answer_vi": "Sân chơi",
+    "options": [
+      "Playground",
+      "Teddy bear",
+      "Bicycle",
+      "Rainbow"
+    ],
+    "options_en": [
+      "Playground",
+      "Teddy bear",
+      "Bicycle",
+      "Rainbow"
+    ],
+    "options_vi": [
+      "Sân chơi",
+      "Gấu bông",
+      "Xe đạp",
+      "Cầu vồng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Teddy bear",
+    "subtext": "",
+    "answer": "Teddy bear",
+    "answer_vi": "Gấu bông",
+    "options": [
+      "Teddy bear",
+      "Playground",
+      "Bicycle",
+      "Rainbow"
+    ],
+    "options_en": [
+      "Teddy bear",
+      "Playground",
+      "Bicycle",
+      "Rainbow"
+    ],
+    "options_vi": [
+      "Gấu bông",
+      "Sân chơi",
+      "Xe đạp",
+      "Cầu vồng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Bicycle",
+    "subtext": "",
+    "answer": "Bicycle",
+    "answer_vi": "Xe đạp",
+    "options": [
+      "Bicycle",
+      "Playground",
+      "Teddy bear",
+      "Rainbow"
+    ],
+    "options_en": [
+      "Bicycle",
+      "Playground",
+      "Teddy bear",
+      "Rainbow"
+    ],
+    "options_vi": [
+      "Xe đạp",
+      "Sân chơi",
+      "Gấu bông",
+      "Cầu vồng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Rainbow",
+    "subtext": "",
+    "answer": "Rainbow",
+    "answer_vi": "Cầu vồng",
+    "options": [
+      "Rainbow",
+      "Playground",
+      "Teddy bear",
+      "Bicycle"
+    ],
+    "options_en": [
+      "Rainbow",
+      "Playground",
+      "Teddy bear",
+      "Bicycle"
+    ],
+    "options_vi": [
+      "Cầu vồng",
+      "Sân chơi",
+      "Gấu bông",
+      "Xe đạp"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Butterfly",
+    "subtext": "",
+    "answer": "Butterfly",
+    "answer_vi": "Con bướm",
+    "options": [
+      "Butterfly",
+      "Playground",
+      "Teddy bear",
+      "Bicycle"
+    ],
+    "options_en": [
+      "Butterfly",
+      "Playground",
+      "Teddy bear",
+      "Bicycle"
+    ],
+    "options_vi": [
+      "Con bướm",
+      "Sân chơi",
+      "Gấu bông",
+      "Xe đạp"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Playground",
+        "english": "Sân chơi"
+      },
+      {
+        "hindi": "Teddy bear",
+        "english": "Gấu bông"
+      },
+      {
+        "hindi": "Bicycle",
+        "english": "Xe đạp"
+      },
+      {
+        "hindi": "Rainbow",
+        "english": "Cầu vồng"
+      }
+    ]
   }
 ]

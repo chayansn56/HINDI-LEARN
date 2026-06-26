@@ -84,5 +84,202 @@
         "english": "Chúc ngủ ngon"
       }
     ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nice to meet you",
+    "english": "Nice to meet you",
+    "vietnamese": "Rất vui được gặp bạn",
+    "audio": "Nice to meet you"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Have a nice day",
+    "english": "Have a nice day",
+    "vietnamese": "Chúc một ngày tốt lành",
+    "audio": "Have a nice day"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "How have you been?",
+    "english": "How have you been?",
+    "vietnamese": "Dạo này bạn thế nào?",
+    "audio": "How have you been?"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Long time no see",
+    "english": "Long time no see",
+    "vietnamese": "Lâu rồi không gặp",
+    "audio": "Long time no see"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Take care",
+    "english": "Take care",
+    "vietnamese": "Bảo trọng nhé",
+    "audio": "Take care"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Nice to meet you",
+    "subtext": "",
+    "answer": "Nice to meet you",
+    "answer_vi": "Rất vui được gặp bạn",
+    "options": [
+      "Nice to meet you",
+      "Have a nice day",
+      "How have you been?",
+      "Long time no see"
+    ],
+    "options_en": [
+      "Nice to meet you",
+      "Have a nice day",
+      "How have you been?",
+      "Long time no see"
+    ],
+    "options_vi": [
+      "Rất vui được gặp bạn",
+      "Chúc một ngày tốt lành",
+      "Dạo này bạn thế nào?",
+      "Lâu rồi không gặp"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Have a nice day",
+    "subtext": "",
+    "answer": "Have a nice day",
+    "answer_vi": "Chúc một ngày tốt lành",
+    "options": [
+      "Have a nice day",
+      "Nice to meet you",
+      "How have you been?",
+      "Long time no see"
+    ],
+    "options_en": [
+      "Have a nice day",
+      "Nice to meet you",
+      "How have you been?",
+      "Long time no see"
+    ],
+    "options_vi": [
+      "Chúc một ngày tốt lành",
+      "Rất vui được gặp bạn",
+      "Dạo này bạn thế nào?",
+      "Lâu rồi không gặp"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "How have you been?",
+    "subtext": "",
+    "answer": "How have you been?",
+    "answer_vi": "Dạo này bạn thế nào?",
+    "options": [
+      "How have you been?",
+      "Nice to meet you",
+      "Have a nice day",
+      "Long time no see"
+    ],
+    "options_en": [
+      "How have you been?",
+      "Nice to meet you",
+      "Have a nice day",
+      "Long time no see"
+    ],
+    "options_vi": [
+      "Dạo này bạn thế nào?",
+      "Rất vui được gặp bạn",
+      "Chúc một ngày tốt lành",
+      "Lâu rồi không gặp"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Long time no see",
+    "subtext": "",
+    "answer": "Long time no see",
+    "answer_vi": "Lâu rồi không gặp",
+    "options": [
+      "Long time no see",
+      "Nice to meet you",
+      "Have a nice day",
+      "How have you been?"
+    ],
+    "options_en": [
+      "Long time no see",
+      "Nice to meet you",
+      "Have a nice day",
+      "How have you been?"
+    ],
+    "options_vi": [
+      "Lâu rồi không gặp",
+      "Rất vui được gặp bạn",
+      "Chúc một ngày tốt lành",
+      "Dạo này bạn thế nào?"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Take care",
+    "subtext": "",
+    "answer": "Take care",
+    "answer_vi": "Bảo trọng nhé",
+    "options": [
+      "Take care",
+      "Nice to meet you",
+      "Have a nice day",
+      "How have you been?"
+    ],
+    "options_en": [
+      "Take care",
+      "Nice to meet you",
+      "Have a nice day",
+      "How have you been?"
+    ],
+    "options_vi": [
+      "Bảo trọng nhé",
+      "Rất vui được gặp bạn",
+      "Chúc một ngày tốt lành",
+      "Dạo này bạn thế nào?"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Nice to meet you",
+        "english": "Rất vui được gặp bạn"
+      },
+      {
+        "hindi": "Have a nice day",
+        "english": "Chúc một ngày tốt lành"
+      },
+      {
+        "hindi": "How have you been?",
+        "english": "Dạo này bạn thế nào?"
+      },
+      {
+        "hindi": "Long time no see",
+        "english": "Lâu rồi không gặp"
+      }
+    ]
   }
 ]

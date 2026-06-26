@@ -94,5 +94,202 @@
     "hindi": "To conclude",
     "translation": "Tóm lại - Dùng để bắt đầu phần kết luận.",
     "audio": "To conclude"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Furthermore",
+    "english": "Furthermore",
+    "vietnamese": "Hơn thế nữa",
+    "audio": "Furthermore"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Consequently",
+    "english": "Consequently",
+    "vietnamese": "Hậu quả là / Do đó",
+    "audio": "Consequently"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Analyse",
+    "english": "Analyse",
+    "vietnamese": "Phân tích",
+    "audio": "Analyse"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Perspective",
+    "english": "Perspective",
+    "vietnamese": "Quan điểm / Góc nhìn",
+    "audio": "Perspective"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Significant change",
+    "english": "Significant change",
+    "vietnamese": "Sự thay đổi đáng kể",
+    "audio": "Significant change"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Furthermore",
+    "subtext": "",
+    "answer": "Furthermore",
+    "answer_vi": "Hơn thế nữa",
+    "options": [
+      "Furthermore",
+      "Consequently",
+      "Analyse",
+      "Perspective"
+    ],
+    "options_en": [
+      "Furthermore",
+      "Consequently",
+      "Analyse",
+      "Perspective"
+    ],
+    "options_vi": [
+      "Hơn thế nữa",
+      "Hậu quả là / Do đó",
+      "Phân tích",
+      "Quan điểm / Góc nhìn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Consequently",
+    "subtext": "",
+    "answer": "Consequently",
+    "answer_vi": "Hậu quả là / Do đó",
+    "options": [
+      "Consequently",
+      "Furthermore",
+      "Analyse",
+      "Perspective"
+    ],
+    "options_en": [
+      "Consequently",
+      "Furthermore",
+      "Analyse",
+      "Perspective"
+    ],
+    "options_vi": [
+      "Hậu quả là / Do đó",
+      "Hơn thế nữa",
+      "Phân tích",
+      "Quan điểm / Góc nhìn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Analyse",
+    "subtext": "",
+    "answer": "Analyse",
+    "answer_vi": "Phân tích",
+    "options": [
+      "Analyse",
+      "Furthermore",
+      "Consequently",
+      "Perspective"
+    ],
+    "options_en": [
+      "Analyse",
+      "Furthermore",
+      "Consequently",
+      "Perspective"
+    ],
+    "options_vi": [
+      "Phân tích",
+      "Hơn thế nữa",
+      "Hậu quả là / Do đó",
+      "Quan điểm / Góc nhìn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Perspective",
+    "subtext": "",
+    "answer": "Perspective",
+    "answer_vi": "Quan điểm / Góc nhìn",
+    "options": [
+      "Perspective",
+      "Furthermore",
+      "Consequently",
+      "Analyse"
+    ],
+    "options_en": [
+      "Perspective",
+      "Furthermore",
+      "Consequently",
+      "Analyse"
+    ],
+    "options_vi": [
+      "Quan điểm / Góc nhìn",
+      "Hơn thế nữa",
+      "Hậu quả là / Do đó",
+      "Phân tích"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Significant change",
+    "subtext": "",
+    "answer": "Significant change",
+    "answer_vi": "Sự thay đổi đáng kể",
+    "options": [
+      "Significant change",
+      "Furthermore",
+      "Consequently",
+      "Analyse"
+    ],
+    "options_en": [
+      "Significant change",
+      "Furthermore",
+      "Consequently",
+      "Analyse"
+    ],
+    "options_vi": [
+      "Sự thay đổi đáng kể",
+      "Hơn thế nữa",
+      "Hậu quả là / Do đó",
+      "Phân tích"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Furthermore",
+        "english": "Hơn thế nữa"
+      },
+      {
+        "hindi": "Consequently",
+        "english": "Hậu quả là / Do đó"
+      },
+      {
+        "hindi": "Analyse",
+        "english": "Phân tích"
+      },
+      {
+        "hindi": "Perspective",
+        "english": "Quan điểm / Góc nhìn"
+      }
+    ]
   }
 ]

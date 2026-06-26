@@ -73,5 +73,202 @@
         "right": "lemme"
       }
     ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Record",
+    "english": "Record",
+    "vietnamese": "Ghi âm",
+    "audio": "Record"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Stress",
+    "english": "Stress",
+    "vietnamese": "Trọng âm",
+    "audio": "Stress"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Syllable",
+    "english": "Syllable",
+    "vietnamese": "Âm tiết",
+    "audio": "Syllable"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vowel",
+    "english": "Vowel",
+    "vietnamese": "Nguyên âm",
+    "audio": "Vowel"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Consonant",
+    "english": "Consonant",
+    "vietnamese": "Phụ âm",
+    "audio": "Consonant"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Record",
+    "subtext": "",
+    "answer": "Record",
+    "answer_vi": "Ghi âm",
+    "options": [
+      "Record",
+      "Stress",
+      "Syllable",
+      "Vowel"
+    ],
+    "options_en": [
+      "Record",
+      "Stress",
+      "Syllable",
+      "Vowel"
+    ],
+    "options_vi": [
+      "Ghi âm",
+      "Trọng âm",
+      "Âm tiết",
+      "Nguyên âm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Stress",
+    "subtext": "",
+    "answer": "Stress",
+    "answer_vi": "Trọng âm",
+    "options": [
+      "Stress",
+      "Record",
+      "Syllable",
+      "Vowel"
+    ],
+    "options_en": [
+      "Stress",
+      "Record",
+      "Syllable",
+      "Vowel"
+    ],
+    "options_vi": [
+      "Trọng âm",
+      "Ghi âm",
+      "Âm tiết",
+      "Nguyên âm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Syllable",
+    "subtext": "",
+    "answer": "Syllable",
+    "answer_vi": "Âm tiết",
+    "options": [
+      "Syllable",
+      "Record",
+      "Stress",
+      "Vowel"
+    ],
+    "options_en": [
+      "Syllable",
+      "Record",
+      "Stress",
+      "Vowel"
+    ],
+    "options_vi": [
+      "Âm tiết",
+      "Ghi âm",
+      "Trọng âm",
+      "Nguyên âm"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Vowel",
+    "subtext": "",
+    "answer": "Vowel",
+    "answer_vi": "Nguyên âm",
+    "options": [
+      "Vowel",
+      "Record",
+      "Stress",
+      "Syllable"
+    ],
+    "options_en": [
+      "Vowel",
+      "Record",
+      "Stress",
+      "Syllable"
+    ],
+    "options_vi": [
+      "Nguyên âm",
+      "Ghi âm",
+      "Trọng âm",
+      "Âm tiết"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Consonant",
+    "subtext": "",
+    "answer": "Consonant",
+    "answer_vi": "Phụ âm",
+    "options": [
+      "Consonant",
+      "Record",
+      "Stress",
+      "Syllable"
+    ],
+    "options_en": [
+      "Consonant",
+      "Record",
+      "Stress",
+      "Syllable"
+    ],
+    "options_vi": [
+      "Phụ âm",
+      "Ghi âm",
+      "Trọng âm",
+      "Âm tiết"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Record",
+        "english": "Ghi âm"
+      },
+      {
+        "hindi": "Stress",
+        "english": "Trọng âm"
+      },
+      {
+        "hindi": "Syllable",
+        "english": "Âm tiết"
+      },
+      {
+        "hindi": "Vowel",
+        "english": "Nguyên âm"
+      }
+    ]
   }
 ]

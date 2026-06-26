@@ -79,5 +79,202 @@
         "right": "Duyệt / Trông ổn đấy"
       }
     ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Deployment",
+    "english": "Deployment",
+    "vietnamese": "Triển khai phần mềm",
+    "audio": "Deployment"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Database",
+    "english": "Database",
+    "vietnamese": "Cơ sở dữ liệu",
+    "audio": "Database"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Framework",
+    "english": "Framework",
+    "vietnamese": "Khung làm việc (Framework)",
+    "audio": "Framework"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Repository",
+    "english": "Repository",
+    "vietnamese": "Kho chứa mã nguồn",
+    "audio": "Repository"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pull Request",
+    "english": "Pull Request",
+    "vietnamese": "Yêu cầu kéo code",
+    "audio": "Pull Request"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Deployment",
+    "subtext": "",
+    "answer": "Deployment",
+    "answer_vi": "Triển khai phần mềm",
+    "options": [
+      "Deployment",
+      "Database",
+      "Framework",
+      "Repository"
+    ],
+    "options_en": [
+      "Deployment",
+      "Database",
+      "Framework",
+      "Repository"
+    ],
+    "options_vi": [
+      "Triển khai phần mềm",
+      "Cơ sở dữ liệu",
+      "Khung làm việc (Framework)",
+      "Kho chứa mã nguồn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Database",
+    "subtext": "",
+    "answer": "Database",
+    "answer_vi": "Cơ sở dữ liệu",
+    "options": [
+      "Database",
+      "Deployment",
+      "Framework",
+      "Repository"
+    ],
+    "options_en": [
+      "Database",
+      "Deployment",
+      "Framework",
+      "Repository"
+    ],
+    "options_vi": [
+      "Cơ sở dữ liệu",
+      "Triển khai phần mềm",
+      "Khung làm việc (Framework)",
+      "Kho chứa mã nguồn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Framework",
+    "subtext": "",
+    "answer": "Framework",
+    "answer_vi": "Khung làm việc (Framework)",
+    "options": [
+      "Framework",
+      "Deployment",
+      "Database",
+      "Repository"
+    ],
+    "options_en": [
+      "Framework",
+      "Deployment",
+      "Database",
+      "Repository"
+    ],
+    "options_vi": [
+      "Khung làm việc (Framework)",
+      "Triển khai phần mềm",
+      "Cơ sở dữ liệu",
+      "Kho chứa mã nguồn"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Repository",
+    "subtext": "",
+    "answer": "Repository",
+    "answer_vi": "Kho chứa mã nguồn",
+    "options": [
+      "Repository",
+      "Deployment",
+      "Database",
+      "Framework"
+    ],
+    "options_en": [
+      "Repository",
+      "Deployment",
+      "Database",
+      "Framework"
+    ],
+    "options_vi": [
+      "Kho chứa mã nguồn",
+      "Triển khai phần mềm",
+      "Cơ sở dữ liệu",
+      "Khung làm việc (Framework)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Pull Request",
+    "subtext": "",
+    "answer": "Pull Request",
+    "answer_vi": "Yêu cầu kéo code",
+    "options": [
+      "Pull Request",
+      "Deployment",
+      "Database",
+      "Framework"
+    ],
+    "options_en": [
+      "Pull Request",
+      "Deployment",
+      "Database",
+      "Framework"
+    ],
+    "options_vi": [
+      "Yêu cầu kéo code",
+      "Triển khai phần mềm",
+      "Cơ sở dữ liệu",
+      "Khung làm việc (Framework)"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Deployment",
+        "english": "Triển khai phần mềm"
+      },
+      {
+        "hindi": "Database",
+        "english": "Cơ sở dữ liệu"
+      },
+      {
+        "hindi": "Framework",
+        "english": "Khung làm việc (Framework)"
+      },
+      {
+        "hindi": "Repository",
+        "english": "Kho chứa mã nguồn"
+      }
+    ]
   }
 ]

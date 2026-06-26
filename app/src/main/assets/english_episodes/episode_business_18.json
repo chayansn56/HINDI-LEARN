@@ -383,5 +383,202 @@
       "You learned: Office and Money",
       "Practiced constructing sentences."
     ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Agenda",
+    "english": "Agenda",
+    "vietnamese": "Chương trình nghị sự",
+    "audio": "Agenda"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Deadline",
+    "english": "Deadline",
+    "vietnamese": "Hạn chót",
+    "audio": "Deadline"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Collaboration",
+    "english": "Collaboration",
+    "vietnamese": "Sự hợp tác",
+    "audio": "Collaboration"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Negotiation",
+    "english": "Negotiation",
+    "vietnamese": "Sự thương lượng",
+    "audio": "Negotiation"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Performance review",
+    "english": "Performance review",
+    "vietnamese": "Đánh giá hiệu suất công việc",
+    "audio": "Performance review"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Agenda",
+    "subtext": "",
+    "answer": "Agenda",
+    "answer_vi": "Chương trình nghị sự",
+    "options": [
+      "Agenda",
+      "Deadline",
+      "Collaboration",
+      "Negotiation"
+    ],
+    "options_en": [
+      "Agenda",
+      "Deadline",
+      "Collaboration",
+      "Negotiation"
+    ],
+    "options_vi": [
+      "Chương trình nghị sự",
+      "Hạn chót",
+      "Sự hợp tác",
+      "Sự thương lượng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Deadline",
+    "subtext": "",
+    "answer": "Deadline",
+    "answer_vi": "Hạn chót",
+    "options": [
+      "Deadline",
+      "Agenda",
+      "Collaboration",
+      "Negotiation"
+    ],
+    "options_en": [
+      "Deadline",
+      "Agenda",
+      "Collaboration",
+      "Negotiation"
+    ],
+    "options_vi": [
+      "Hạn chót",
+      "Chương trình nghị sự",
+      "Sự hợp tác",
+      "Sự thương lượng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Collaboration",
+    "subtext": "",
+    "answer": "Collaboration",
+    "answer_vi": "Sự hợp tác",
+    "options": [
+      "Collaboration",
+      "Agenda",
+      "Deadline",
+      "Negotiation"
+    ],
+    "options_en": [
+      "Collaboration",
+      "Agenda",
+      "Deadline",
+      "Negotiation"
+    ],
+    "options_vi": [
+      "Sự hợp tác",
+      "Chương trình nghị sự",
+      "Hạn chót",
+      "Sự thương lượng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Negotiation",
+    "subtext": "",
+    "answer": "Negotiation",
+    "answer_vi": "Sự thương lượng",
+    "options": [
+      "Negotiation",
+      "Agenda",
+      "Deadline",
+      "Collaboration"
+    ],
+    "options_en": [
+      "Negotiation",
+      "Agenda",
+      "Deadline",
+      "Collaboration"
+    ],
+    "options_vi": [
+      "Sự thương lượng",
+      "Chương trình nghị sự",
+      "Hạn chót",
+      "Sự hợp tác"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "text": "Performance review",
+    "subtext": "",
+    "answer": "Performance review",
+    "answer_vi": "Đánh giá hiệu suất công việc",
+    "options": [
+      "Performance review",
+      "Agenda",
+      "Deadline",
+      "Collaboration"
+    ],
+    "options_en": [
+      "Performance review",
+      "Agenda",
+      "Deadline",
+      "Collaboration"
+    ],
+    "options_vi": [
+      "Đánh giá hiệu suất công việc",
+      "Chương trình nghị sự",
+      "Hạn chót",
+      "Sự hợp tác"
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
+    "pairs": [
+      {
+        "hindi": "Agenda",
+        "english": "Chương trình nghị sự"
+      },
+      {
+        "hindi": "Deadline",
+        "english": "Hạn chót"
+      },
+      {
+        "hindi": "Collaboration",
+        "english": "Sự hợp tác"
+      },
+      {
+        "hindi": "Negotiation",
+        "english": "Sự thương lượng"
+      }
+    ]
   }
 ]
