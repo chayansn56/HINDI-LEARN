@@ -43,10 +43,18 @@
     "audio": "Appointment"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Clinic",
+    "english": "Clinic",
+    "vietnamese": "Phòng khám",
+    "audio": "Clinic"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Headache",
     "text": "Headache",
     "subtext": "",
     "answer": "Headache",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Prescription",
     "text": "Prescription",
     "subtext": "",
     "answer": "Prescription",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Sore throat",
     "text": "Sore throat",
     "subtext": "",
     "answer": "Sore throat",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Fever",
     "text": "Fever",
     "subtext": "",
     "answer": "Fever",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Appointment",
     "text": "Appointment",
     "subtext": "",
     "answer": "Appointment",
@@ -181,6 +193,47 @@
       "Đơn thuốc bác sĩ",
       "Đau họng"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Clinic",
+    "text": "Clinic",
+    "subtext": "",
+    "answer": "Clinic",
+    "answer_vi": "Phòng khám",
+    "options": [
+      "Clinic",
+      "Headache",
+      "Prescription",
+      "Sore throat"
+    ],
+    "options_en": [
+      "Clinic",
+      "Headache",
+      "Prescription",
+      "Sore throat"
+    ],
+    "options_vi": [
+      "Phòng khám",
+      "Đau đầu",
+      "Đơn thuốc bác sĩ",
+      "Đau họng"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Tôi bị đau đầu hôm nay.",
+    "hindiWords": [
+      "I",
+      "have",
+      "a",
+      "headache",
+      "today"
+    ],
+    "correctHindiSentence": "I have a headache today"
   },
   {
     "type": "MatchPairs",

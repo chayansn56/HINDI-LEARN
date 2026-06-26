@@ -1,155 +1,81 @@
 [
   {
-    "type": "TeachRule",
-    "title": "Âm cuối (Final Sounds)",
-    "content": "Trong tiếng Anh, việc phát âm rõ chữ cái cuối cùng của từ là rất quan trọng để phân biệt nghĩa. Người Việt thường hay bỏ qua âm cuối."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Cat",
-    "english": "Cat",
-    "vietnamese": "Con mèo (bật âm 't' ở cuối)",
-    "audio": "Cat"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Hat",
-    "english": "Hat",
-    "vietnamese": "Cái mũ (âm cuối 't')",
-    "audio": "Hat"
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "Âm cuối của từ 'Hat' là gì?",
-    "options": [
-      "s",
-      "t",
-      "d",
-      "k"
-    ],
-    "answer": "t"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Bed",
-    "english": "Bed",
-    "vietnamese": "Cái giường (âm cuối 'd')",
-    "audio": "Bed"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Red",
-    "english": "Red",
-    "vietnamese": "Màu đỏ (âm cuối 'd')",
-    "audio": "Red"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Bus",
-    "english": "Bus",
-    "vietnamese": "Xe buýt (âm cuối 's')",
-    "audio": "Bus"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Yes",
-    "english": "Yes",
-    "vietnamese": "Vâng / Có (âm cuối 's')",
-    "audio": "Yes"
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "Từ nào sau đây kết thúc bằng âm 's'?",
-    "options": [
-      "Red",
-      "Cat",
-      "Bus",
-      "Bed"
-    ],
-    "answer": "Bus"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Cat",
-        "vietnamese": "Con mèo"
-      },
-      {
-        "hindi": "Bed",
-        "vietnamese": "Cái giường"
-      },
-      {
-        "hindi": "Bus",
-        "vietnamese": "Xe buýt"
-      },
-      {
-        "hindi": "Yes",
-        "vietnamese": "Vâng"
-      }
+    "type": "Introduction",
+    "title": "Final Sounds (s, t, d)",
+    "description": "Master vocabulary and expressions for Final Sounds (s, t, d).",
+    "keyPoints": [
+      "Learn Cats and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Cats",
+    "english": "Cats",
+    "vietnamese": "Những con mèo",
+    "audio": "Cats"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Beds",
+    "english": "Beds",
+    "vietnamese": "Những cái giường",
+    "audio": "Beds"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Walked",
+    "english": "Walked",
+    "vietnamese": "Đã đi bộ",
+    "audio": "Walked"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Played",
+    "english": "Played",
+    "vietnamese": "Đã chơi",
+    "audio": "Played"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Dog",
+    "english": "Dog",
+    "vietnamese": "Con chó",
+    "audio": "Dog"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Map",
+    "english": "Map",
+    "vietnamese": "Bản đồ",
+    "audio": "Map"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Cats",
+    "text": "Cats",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Cats",
+    "answer_vi": "Những con mèo",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Cats",
+      "Beds",
+      "Walked",
+      "Played"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Cats",
+      "Beds",
+      "Walked",
+      "Played"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Những con mèo",
+      "Những cái giường",
+      "Đã đi bộ",
+      "Đã chơi"
     ]
   },
   {
@@ -157,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Beds",
+    "text": "Beds",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Beds",
+    "answer_vi": "Những cái giường",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Beds",
+      "Cats",
+      "Walked",
+      "Played"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Beds",
+      "Cats",
+      "Walked",
+      "Played"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Những cái giường",
+      "Những con mèo",
+      "Đã đi bộ",
+      "Đã chơi"
     ]
   },
   {
@@ -185,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Walked",
+    "text": "Walked",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Walked",
+    "answer_vi": "Đã đi bộ",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Walked",
+      "Cats",
+      "Beds",
+      "Played"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Walked",
+      "Cats",
+      "Beds",
+      "Played"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Đã đi bộ",
+      "Những con mèo",
+      "Những cái giường",
+      "Đã chơi"
     ]
   },
   {
@@ -213,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Played",
+    "text": "Played",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Played",
+    "answer_vi": "Đã chơi",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Played",
+      "Cats",
+      "Beds",
+      "Walked"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Played",
+      "Cats",
+      "Beds",
+      "Walked"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Đã chơi",
+      "Những con mèo",
+      "Những cái giường",
+      "Đã đi bộ"
     ]
   },
   {
@@ -241,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Dog",
+    "text": "Dog",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Dog",
+    "answer_vi": "Con chó",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Dog",
+      "Cats",
+      "Beds",
+      "Walked"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Dog",
+      "Cats",
+      "Beds",
+      "Walked"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Con chó",
+      "Những con mèo",
+      "Những cái giường",
+      "Đã đi bộ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Map",
+    "text": "Map",
+    "subtext": "",
+    "answer": "Map",
+    "answer_vi": "Bản đồ",
+    "options": [
+      "Map",
+      "Cats",
+      "Beds",
+      "Walked"
+    ],
+    "options_en": [
+      "Map",
+      "Cats",
+      "Beds",
+      "Walked"
+    ],
+    "options_vi": [
+      "Bản đồ",
+      "Những con mèo",
+      "Những cái giường",
+      "Đã đi bộ"
     ]
   },
   {
@@ -269,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Cats",
+        "english": "Những con mèo"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Beds",
+        "english": "Những cái giường"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Walked",
+        "english": "Đã đi bộ"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Played",
+        "english": "Đã chơi"
       }
     ]
   }

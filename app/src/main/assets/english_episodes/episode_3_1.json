@@ -43,10 +43,18 @@
     "audio": "In case it rains"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Provided that",
+    "english": "Provided that",
+    "vietnamese": "Với điều kiện là",
+    "audio": "Provided that"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "If I were you",
     "text": "If I were you",
     "subtext": "",
     "answer": "If I were you",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I wish I could",
     "text": "I wish I could",
     "subtext": "",
     "answer": "I wish I could",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "As if",
     "text": "As if",
     "subtext": "",
     "answer": "As if",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Unless you try",
     "text": "Unless you try",
     "subtext": "",
     "answer": "Unless you try",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "In case it rains",
     "text": "In case it rains",
     "subtext": "",
     "answer": "In case it rains",
@@ -181,6 +193,47 @@
       "Tôi ước gì tôi có thể",
       "Như thể là"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Provided that",
+    "text": "Provided that",
+    "subtext": "",
+    "answer": "Provided that",
+    "answer_vi": "Với điều kiện là",
+    "options": [
+      "Provided that",
+      "If I were you",
+      "I wish I could",
+      "As if"
+    ],
+    "options_en": [
+      "Provided that",
+      "If I were you",
+      "I wish I could",
+      "As if"
+    ],
+    "options_vi": [
+      "Với điều kiện là",
+      "Nếu tôi là bạn",
+      "Tôi ước gì tôi có thể",
+      "Như thể là"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Tôi ước gì tôi có thể đi.",
+    "hindiWords": [
+      "I",
+      "wish",
+      "I",
+      "could",
+      "go"
+    ],
+    "correctHindiSentence": "I wish I could go"
   },
   {
     "type": "MatchPairs",

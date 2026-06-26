@@ -43,10 +43,18 @@
     "audio": "Unable to proceed"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Capable of",
+    "english": "Capable of",
+    "vietnamese": "Có năng lực làm gì",
+    "audio": "Capable of"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I am able to drive",
     "text": "I am able to drive",
     "subtext": "",
     "answer": "I am able to drive",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "May I come in?",
     "text": "May I come in?",
     "subtext": "",
     "answer": "May I come in?",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Could you help?",
     "text": "Could you help?",
     "subtext": "",
     "answer": "Could you help?",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Permission granted",
     "text": "Permission granted",
     "subtext": "",
     "answer": "Permission granted",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Unable to proceed",
     "text": "Unable to proceed",
     "subtext": "",
     "answer": "Unable to proceed",
@@ -181,6 +193,46 @@
       "Tôi xin phép vào được không?",
       "Bạn có thể giúp được không?"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Capable of",
+    "text": "Capable of",
+    "subtext": "",
+    "answer": "Capable of",
+    "answer_vi": "Có năng lực làm gì",
+    "options": [
+      "Capable of",
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?"
+    ],
+    "options_en": [
+      "Capable of",
+      "I am able to drive",
+      "May I come in?",
+      "Could you help?"
+    ],
+    "options_vi": [
+      "Có năng lực làm gì",
+      "Tôi có thể lái xe",
+      "Tôi xin phép vào được không?",
+      "Bạn có thể giúp được không?"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Tôi có thể vào được không?",
+    "hindiWords": [
+      "May",
+      "I",
+      "come",
+      "in"
+    ],
+    "correctHindiSentence": "May I come in"
   },
   {
     "type": "MatchPairs",

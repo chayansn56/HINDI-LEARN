@@ -43,10 +43,18 @@
     "audio": "Social media buzz"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Coverage",
+    "english": "Coverage",
+    "vietnamese": "Độ phủ sóng / Tin tức đưa ra",
+    "audio": "Coverage"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Breaking news",
     "text": "Breaking news",
     "subtext": "",
     "answer": "Breaking news",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Journalism",
     "text": "Journalism",
     "subtext": "",
     "answer": "Journalism",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Broadcast",
     "text": "Broadcast",
     "subtext": "",
     "answer": "Broadcast",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Editorial article",
     "text": "Editorial article",
     "subtext": "",
     "answer": "Editorial article",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Social media buzz",
     "text": "Social media buzz",
     "subtext": "",
     "answer": "Social media buzz",
@@ -181,6 +193,46 @@
       "Ngành báo chí phóng viên",
       "Phát sóng chương trình"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Coverage",
+    "text": "Coverage",
+    "subtext": "",
+    "answer": "Coverage",
+    "answer_vi": "Độ phủ sóng / Tin tức đưa ra",
+    "options": [
+      "Coverage",
+      "Breaking news",
+      "Journalism",
+      "Broadcast"
+    ],
+    "options_en": [
+      "Coverage",
+      "Breaking news",
+      "Journalism",
+      "Broadcast"
+    ],
+    "options_vi": [
+      "Độ phủ sóng / Tin tức đưa ra",
+      "Tin nóng hổi",
+      "Ngành báo chí phóng viên",
+      "Phát sóng chương trình"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Đây là tin nóng hổi.",
+    "hindiWords": [
+      "This",
+      "is",
+      "breaking",
+      "news"
+    ],
+    "correctHindiSentence": "This is breaking news"
   },
   {
     "type": "MatchPairs",

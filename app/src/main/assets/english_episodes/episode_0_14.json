@@ -1,151 +1,81 @@
 [
   {
-    "type": "TeachRule",
-    "title": "Colors and Shapes",
-    "rule": "Màu sắc và Hình khối."
+    "type": "Introduction",
+    "title": "Colors & Shapes",
+    "description": "Master vocabulary and expressions for Colors & Shapes.",
+    "keyPoints": [
+      "Learn Red and related terms."
+    ]
   },
   {
     "type": "Flashcard",
     "hindi": "Red",
-    "english": "Màu đỏ",
-    "audio": "red"
+    "english": "Red",
+    "vietnamese": "Màu đỏ",
+    "audio": "Red"
   },
   {
     "type": "Flashcard",
     "hindi": "Blue",
-    "english": "Màu xanh dương",
-    "audio": "blue"
+    "english": "Blue",
+    "vietnamese": "Màu xanh dương",
+    "audio": "Blue"
   },
   {
     "type": "Flashcard",
     "hindi": "Green",
-    "english": "Màu xanh lá cây",
-    "audio": "green"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "Red",
-    "options": [
-      "Màu vàng",
-      "Màu đỏ",
-      "Màu đen",
-      "Màu trắng"
-    ],
-    "answer": "Màu đỏ",
-    "audio": "red"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Yellow",
-    "english": "Màu vàng",
-    "audio": "yellow"
+    "english": "Green",
+    "vietnamese": "Màu xanh lá",
+    "audio": "Green"
   },
   {
     "type": "Flashcard",
     "hindi": "Circle",
-    "english": "Hình tròn",
-    "audio": "circle"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "Blue",
-    "options": [
-      "Màu xanh dương",
-      "Màu đỏ",
-      "Hình vuông",
-      "Màu xanh lá cây"
-    ],
-    "answer": "Màu xanh dương",
-    "audio": "blue"
+    "english": "Circle",
+    "vietnamese": "Hình tròn",
+    "audio": "Circle"
   },
   {
     "type": "Flashcard",
     "hindi": "Square",
-    "english": "Hình vuông",
-    "audio": "square"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Green",
-        "english": "Màu xanh lá cây"
-      },
-      {
-        "hindi": "Yellow",
-        "english": "Màu vàng"
-      },
-      {
-        "hindi": "Circle",
-        "english": "Hình tròn"
-      },
-      {
-        "hindi": "Square",
-        "english": "Hình vuông"
-      }
-    ]
+    "english": "Square",
+    "vietnamese": "Hình vuông",
+    "audio": "Square"
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Triangle",
+    "english": "Triangle",
+    "vietnamese": "Hình tam giác",
+    "audio": "Triangle"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Red",
+    "text": "Red",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Red",
+    "answer_vi": "Màu đỏ",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Red",
+      "Blue",
+      "Green",
+      "Circle"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Red",
+      "Blue",
+      "Green",
+      "Circle"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Màu đỏ",
+      "Màu xanh dương",
+      "Màu xanh lá",
+      "Hình tròn"
     ]
   },
   {
@@ -153,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Blue",
+    "text": "Blue",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Blue",
+    "answer_vi": "Màu xanh dương",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Blue",
+      "Red",
+      "Green",
+      "Circle"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Blue",
+      "Red",
+      "Green",
+      "Circle"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Màu xanh dương",
+      "Màu đỏ",
+      "Màu xanh lá",
+      "Hình tròn"
     ]
   },
   {
@@ -181,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Green",
+    "text": "Green",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Green",
+    "answer_vi": "Màu xanh lá",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Green",
+      "Red",
+      "Blue",
+      "Circle"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Green",
+      "Red",
+      "Blue",
+      "Circle"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Màu xanh lá",
+      "Màu đỏ",
+      "Màu xanh dương",
+      "Hình tròn"
     ]
   },
   {
@@ -209,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Circle",
+    "text": "Circle",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Circle",
+    "answer_vi": "Hình tròn",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Circle",
+      "Red",
+      "Blue",
+      "Green"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Circle",
+      "Red",
+      "Blue",
+      "Green"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Hình tròn",
+      "Màu đỏ",
+      "Màu xanh dương",
+      "Màu xanh lá"
     ]
   },
   {
@@ -237,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Square",
+    "text": "Square",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Square",
+    "answer_vi": "Hình vuông",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Square",
+      "Red",
+      "Blue",
+      "Green"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Square",
+      "Red",
+      "Blue",
+      "Green"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Hình vuông",
+      "Màu đỏ",
+      "Màu xanh dương",
+      "Màu xanh lá"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Triangle",
+    "text": "Triangle",
+    "subtext": "",
+    "answer": "Triangle",
+    "answer_vi": "Hình tam giác",
+    "options": [
+      "Triangle",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "options_en": [
+      "Triangle",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "options_vi": [
+      "Hình tam giác",
+      "Màu đỏ",
+      "Màu xanh dương",
+      "Màu xanh lá"
     ]
   },
   {
@@ -265,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Red",
+        "english": "Màu đỏ"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Blue",
+        "english": "Màu xanh dương"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Green",
+        "english": "Màu xanh lá"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Circle",
+        "english": "Hình tròn"
       }
     ]
   }

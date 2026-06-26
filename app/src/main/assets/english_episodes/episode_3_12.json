@@ -43,10 +43,18 @@
     "audio": "Debatable topic"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Consensus",
+    "english": "Consensus",
+    "vietnamese": "Sự đồng thuận",
+    "audio": "Consensus"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "From my perspective",
     "text": "From my perspective",
     "subtext": "",
     "answer": "From my perspective",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I strongly agree",
     "text": "I strongly agree",
     "subtext": "",
     "answer": "I strongly agree",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I disagree entirely",
     "text": "I disagree entirely",
     "subtext": "",
     "answer": "I disagree entirely",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "In my opinion",
     "text": "In my opinion",
     "subtext": "",
     "answer": "In my opinion",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Debatable topic",
     "text": "Debatable topic",
     "subtext": "",
     "answer": "Debatable topic",
@@ -181,6 +193,45 @@
       "Tôi hoàn toàn đồng ý",
       "Tôi không đồng ý chút nào"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Consensus",
+    "text": "Consensus",
+    "subtext": "",
+    "answer": "Consensus",
+    "answer_vi": "Sự đồng thuận",
+    "options": [
+      "Consensus",
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely"
+    ],
+    "options_en": [
+      "Consensus",
+      "From my perspective",
+      "I strongly agree",
+      "I disagree entirely"
+    ],
+    "options_vi": [
+      "Sự đồng thuận",
+      "Theo quan điểm của tôi",
+      "Tôi hoàn toàn đồng ý",
+      "Tôi không đồng ý chút nào"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Theo ý kiến của tôi.",
+    "hindiWords": [
+      "In",
+      "my",
+      "opinion"
+    ],
+    "correctHindiSentence": "In my opinion"
   },
   {
     "type": "MatchPairs",

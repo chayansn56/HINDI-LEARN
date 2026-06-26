@@ -43,10 +43,18 @@
     "audio": "I will do it"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Promise",
+    "english": "Promise",
+    "vietnamese": "Lời hứa / Hứa hẹn",
+    "audio": "Promise"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I will go tomorrow",
     "text": "I will go tomorrow",
     "subtext": "",
     "answer": "I will go tomorrow",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "She will help you",
     "text": "She will help you",
     "subtext": "",
     "answer": "She will help you",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "We will meet later",
     "text": "We will meet later",
     "subtext": "",
     "answer": "We will meet later",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Will they come?",
     "text": "Will they come?",
     "subtext": "",
     "answer": "Will they come?",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I will do it",
     "text": "I will do it",
     "subtext": "",
     "answer": "I will do it",
@@ -181,6 +193,46 @@
       "Cô ấy sẽ giúp bạn",
       "Chúng ta sẽ gặp nhau sau"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Promise",
+    "text": "Promise",
+    "subtext": "",
+    "answer": "Promise",
+    "answer_vi": "Lời hứa / Hứa hẹn",
+    "options": [
+      "Promise",
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later"
+    ],
+    "options_en": [
+      "Promise",
+      "I will go tomorrow",
+      "She will help you",
+      "We will meet later"
+    ],
+    "options_vi": [
+      "Lời hứa / Hứa hẹn",
+      "Tôi sẽ đi vào ngày mai",
+      "Cô ấy sẽ giúp bạn",
+      "Chúng ta sẽ gặp nhau sau"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Chúng tôi sẽ gặp nhau ngày mai.",
+    "hindiWords": [
+      "We",
+      "will",
+      "meet",
+      "tomorrow"
+    ],
+    "correctHindiSentence": "We will meet tomorrow"
   },
   {
     "type": "MatchPairs",

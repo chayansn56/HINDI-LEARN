@@ -1,155 +1,81 @@
 [
   {
-    "type": "TeachRule",
-    "title": "Âm kép: th, sh, ch",
-    "content": "Một số âm tiết kết hợp hai chữ cái tạo thành âm mới. Ví dụ: 'sh' đọc như 's' mạnh, 'ch' đọc như 'ch' trong tiếng Việt nhưng bật hơi."
+    "type": "Introduction",
+    "title": "Tricky Sounds (th, sh, ch)",
+    "description": "Master vocabulary and expressions for Tricky Sounds (th, sh, ch).",
+    "keyPoints": [
+      "Learn Three and related terms."
+    ]
   },
   {
     "type": "Flashcard",
-    "hindi": "She",
-    "english": "She",
-    "vietnamese": "Cô ấy (âm 'sh')",
-    "audio": "She"
+    "hindi": "Three",
+    "english": "Three",
+    "vietnamese": "Số ba",
+    "audio": "Three"
   },
   {
     "type": "Flashcard",
-    "hindi": "Shoe",
-    "english": "Shoe",
-    "vietnamese": "Chiếc giày",
-    "audio": "Shoe"
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "Từ 'Shoe' có nghĩa là gì?",
-    "options": [
-      "Cô ấy",
-      "Chiếc giày",
-      "Cái ghế",
-      "Cảm ơn"
-    ],
-    "answer": "Chiếc giày"
+    "hindi": "Ship",
+    "english": "Ship",
+    "vietnamese": "Tàu thủy",
+    "audio": "Ship"
   },
   {
     "type": "Flashcard",
     "hindi": "Chair",
     "english": "Chair",
-    "vietnamese": "Cái ghế (âm 'ch')",
+    "vietnamese": "Cái ghế",
     "audio": "Chair"
   },
   {
     "type": "Flashcard",
-    "hindi": "Child",
-    "english": "Child",
-    "vietnamese": "Đứa trẻ",
-    "audio": "Child"
+    "hindi": "Thin",
+    "english": "Thin",
+    "vietnamese": "Mỏng / Gầy",
+    "audio": "Thin"
   },
   {
     "type": "Flashcard",
-    "hindi": "Think",
-    "english": "Think",
-    "vietnamese": "Nghĩ (âm 'th' vô thanh)",
-    "audio": "Think"
+    "hindi": "Shop",
+    "english": "Shop",
+    "vietnamese": "Cửa hàng",
+    "audio": "Shop"
   },
   {
     "type": "Flashcard",
-    "hindi": "This",
-    "english": "This",
-    "vietnamese": "Này (âm 'th' hữu thanh)",
-    "audio": "This"
+    "hindi": "Chew",
+    "english": "Chew",
+    "vietnamese": "Nhai",
+    "audio": "Chew"
   },
   {
     "type": "MultipleChoice",
-    "question": "Từ nào chứa âm 'ch'?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Three",
+    "text": "Three",
+    "subtext": "",
+    "answer": "Three",
+    "answer_vi": "Số ba",
     "options": [
-      "She",
+      "Three",
+      "Ship",
       "Chair",
-      "Think",
-      "Shoe"
-    ],
-    "answer": "Chair"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "She",
-        "vietnamese": "Cô ấy"
-      },
-      {
-        "hindi": "Chair",
-        "vietnamese": "Cái ghế"
-      },
-      {
-        "hindi": "Think",
-        "vietnamese": "Nghĩ"
-      },
-      {
-        "hindi": "This",
-        "vietnamese": "Này"
-      }
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
-    "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
-    "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Thin"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Three",
+      "Ship",
+      "Chair",
+      "Thin"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Số ba",
+      "Tàu thủy",
+      "Cái ghế",
+      "Mỏng / Gầy"
     ]
   },
   {
@@ -157,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Ship",
+    "text": "Ship",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Ship",
+    "answer_vi": "Tàu thủy",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Ship",
+      "Three",
+      "Chair",
+      "Thin"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Ship",
+      "Three",
+      "Chair",
+      "Thin"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Tàu thủy",
+      "Số ba",
+      "Cái ghế",
+      "Mỏng / Gầy"
     ]
   },
   {
@@ -185,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Chair",
+    "text": "Chair",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Chair",
+    "answer_vi": "Cái ghế",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Chair",
+      "Three",
+      "Ship",
+      "Thin"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Chair",
+      "Three",
+      "Ship",
+      "Thin"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Cái ghế",
+      "Số ba",
+      "Tàu thủy",
+      "Mỏng / Gầy"
     ]
   },
   {
@@ -213,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Thin",
+    "text": "Thin",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Thin",
+    "answer_vi": "Mỏng / Gầy",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Thin",
+      "Three",
+      "Ship",
+      "Chair"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Thin",
+      "Three",
+      "Ship",
+      "Chair"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Mỏng / Gầy",
+      "Số ba",
+      "Tàu thủy",
+      "Cái ghế"
     ]
   },
   {
@@ -241,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Shop",
+    "text": "Shop",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Shop",
+    "answer_vi": "Cửa hàng",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Shop",
+      "Three",
+      "Ship",
+      "Chair"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Shop",
+      "Three",
+      "Ship",
+      "Chair"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Cửa hàng",
+      "Số ba",
+      "Tàu thủy",
+      "Cái ghế"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Chew",
+    "text": "Chew",
+    "subtext": "",
+    "answer": "Chew",
+    "answer_vi": "Nhai",
+    "options": [
+      "Chew",
+      "Three",
+      "Ship",
+      "Chair"
+    ],
+    "options_en": [
+      "Chew",
+      "Three",
+      "Ship",
+      "Chair"
+    ],
+    "options_vi": [
+      "Nhai",
+      "Số ba",
+      "Tàu thủy",
+      "Cái ghế"
     ]
   },
   {
@@ -269,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Three",
+        "english": "Số ba"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Ship",
+        "english": "Tàu thủy"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Chair",
+        "english": "Cái ghế"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Thin",
+        "english": "Mỏng / Gầy"
       }
     ]
   }

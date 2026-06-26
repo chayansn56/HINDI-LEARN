@@ -43,10 +43,18 @@
     "audio": "Ambition"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Goal-oriented",
+    "english": "Goal-oriented",
+    "vietnamese": "Định hướng mục tiêu",
+    "audio": "Goal-oriented"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I intend to go",
     "text": "I intend to go",
     "subtext": "",
     "answer": "I intend to go",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "My dream is",
     "text": "My dream is",
     "subtext": "",
     "answer": "My dream is",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I look forward to",
     "text": "I look forward to",
     "subtext": "",
     "answer": "I look forward to",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Purpose of visit",
     "text": "Purpose of visit",
     "subtext": "",
     "answer": "Purpose of visit",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Ambition",
     "text": "Ambition",
     "subtext": "",
     "answer": "Ambition",
@@ -181,6 +193,48 @@
       "Ước mơ của tôi là",
       "Tôi rất mong chờ"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Goal-oriented",
+    "text": "Goal-oriented",
+    "subtext": "",
+    "answer": "Goal-oriented",
+    "answer_vi": "Định hướng mục tiêu",
+    "options": [
+      "Goal-oriented",
+      "I intend to go",
+      "My dream is",
+      "I look forward to"
+    ],
+    "options_en": [
+      "Goal-oriented",
+      "I intend to go",
+      "My dream is",
+      "I look forward to"
+    ],
+    "options_vi": [
+      "Định hướng mục tiêu",
+      "Tôi dự định đi",
+      "Ước mơ của tôi là",
+      "Tôi rất mong chờ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Tôi mong chờ được gặp bạn.",
+    "hindiWords": [
+      "I",
+      "look",
+      "forward",
+      "to",
+      "meeting",
+      "you"
+    ],
+    "correctHindiSentence": "I look forward to meeting you"
   },
   {
     "type": "MatchPairs",

@@ -43,10 +43,18 @@
     "audio": "Conference call"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Corporate culture",
+    "english": "Corporate culture",
+    "vietnamese": "Văn hóa doanh nghiệp",
+    "audio": "Corporate culture"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Collaboration",
     "text": "Collaboration",
     "subtext": "",
     "answer": "Collaboration",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Deadline",
     "text": "Deadline",
     "subtext": "",
     "answer": "Deadline",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Performance review",
     "text": "Performance review",
     "subtext": "",
     "answer": "Performance review",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Deliverable",
     "text": "Deliverable",
     "subtext": "",
     "answer": "Deliverable",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Conference call",
     "text": "Conference call",
     "subtext": "",
     "answer": "Conference call",
@@ -181,6 +193,46 @@
       "Hạn chót hoàn thành",
       "Đánh giá hiệu suất làm việc"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Corporate culture",
+    "text": "Corporate culture",
+    "subtext": "",
+    "answer": "Corporate culture",
+    "answer_vi": "Văn hóa doanh nghiệp",
+    "options": [
+      "Corporate culture",
+      "Collaboration",
+      "Deadline",
+      "Performance review"
+    ],
+    "options_en": [
+      "Corporate culture",
+      "Collaboration",
+      "Deadline",
+      "Performance review"
+    ],
+    "options_vi": [
+      "Văn hóa doanh nghiệp",
+      "Sự cộng tác hợp tác",
+      "Hạn chót hoàn thành",
+      "Đánh giá hiệu suất làm việc"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Hạn chót là ngày mai.",
+    "hindiWords": [
+      "The",
+      "deadline",
+      "is",
+      "tomorrow"
+    ],
+    "correctHindiSentence": "The deadline is tomorrow"
   },
   {
     "type": "MatchPairs",

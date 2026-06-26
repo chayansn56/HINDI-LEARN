@@ -43,10 +43,18 @@
     "audio": "Playing sports"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Traveling",
+    "english": "Traveling",
+    "vietnamese": "Đi du lịch",
+    "audio": "Traveling"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Interest",
     "text": "Interest",
     "subtext": "",
     "answer": "Interest",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Hobby",
     "text": "Hobby",
     "subtext": "",
     "answer": "Hobby",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Favorite movie",
     "text": "Favorite movie",
     "subtext": "",
     "answer": "Favorite movie",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Listening to music",
     "text": "Listening to music",
     "subtext": "",
     "answer": "Listening to music",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Playing sports",
     "text": "Playing sports",
     "subtext": "",
     "answer": "Playing sports",
@@ -181,6 +193,47 @@
       "Thói quen sở thích",
       "Bộ phim yêu thích"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Traveling",
+    "text": "Traveling",
+    "subtext": "",
+    "answer": "Traveling",
+    "answer_vi": "Đi du lịch",
+    "options": [
+      "Traveling",
+      "Interest",
+      "Hobby",
+      "Favorite movie"
+    ],
+    "options_en": [
+      "Traveling",
+      "Interest",
+      "Hobby",
+      "Favorite movie"
+    ],
+    "options_vi": [
+      "Đi du lịch",
+      "Sở thích / Mối quan tâm",
+      "Thói quen sở thích",
+      "Bộ phim yêu thích"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Tôi thích nghe nhạc.",
+    "hindiWords": [
+      "I",
+      "like",
+      "listening",
+      "to",
+      "music"
+    ],
+    "correctHindiSentence": "I like listening to music"
   },
   {
     "type": "MatchPairs",

@@ -43,10 +43,18 @@
     "audio": "Which one do you want?"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Whom it may concern",
+    "english": "Whom it may concern",
+    "vietnamese": "Gửi những ai quan tâm",
+    "audio": "Whom it may concern"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "The man who called",
     "text": "The man who called",
     "subtext": "",
     "answer": "The man who called",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "The place where we met",
     "text": "The place where we met",
     "subtext": "",
     "answer": "The place where we met",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "The reason why she left",
     "text": "The reason why she left",
     "subtext": "",
     "answer": "The reason why she left",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Whose car is this?",
     "text": "Whose car is this?",
     "subtext": "",
     "answer": "Whose car is this?",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Which one do you want?",
     "text": "Which one do you want?",
     "subtext": "",
     "answer": "Which one do you want?",
@@ -181,6 +193,49 @@
       "Nơi chúng ta đã gặp nhau",
       "Lý do cô ấy rời đi"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Whom it may concern",
+    "text": "Whom it may concern",
+    "subtext": "",
+    "answer": "Whom it may concern",
+    "answer_vi": "Gửi những ai quan tâm",
+    "options": [
+      "Whom it may concern",
+      "The man who called",
+      "The place where we met",
+      "The reason why she left"
+    ],
+    "options_en": [
+      "Whom it may concern",
+      "The man who called",
+      "The place where we met",
+      "The reason why she left"
+    ],
+    "options_vi": [
+      "Gửi những ai quan tâm",
+      "Người đàn ông đã gọi",
+      "Nơi chúng ta đã gặp nhau",
+      "Lý do cô ấy rời đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Đây là nơi chúng ta đã gặp nhau.",
+    "hindiWords": [
+      "This",
+      "is",
+      "the",
+      "place",
+      "where",
+      "we",
+      "met"
+    ],
+    "correctHindiSentence": "This is the place where we met"
   },
   {
     "type": "MatchPairs",

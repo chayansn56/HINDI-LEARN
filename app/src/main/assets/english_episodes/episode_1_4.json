@@ -1,299 +1,226 @@
 [
   {
-    "type": "TeachRules",
+    "type": "Introduction",
     "title": "Daily Routine",
-    "explanation": "Learn vocabulary to talk about what you do every day."
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Wake up",
-        "translation": "Thức dậy",
-        "audio": "Wake up"
-      },
-      {
-        "hindi": "Brush teeth",
-        "translation": "Đánh răng",
-        "audio": "Brush teeth"
-      }
+    "description": "Master vocabulary and expressions for Daily Routine.",
+    "keyPoints": [
+      "Learn Wake up and related terms."
     ]
   },
   {
+    "type": "Flashcard",
+    "hindi": "Wake up",
+    "english": "Wake up",
+    "vietnamese": "Thức dậy",
+    "audio": "Wake up"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Brush teeth",
+    "english": "Brush teeth",
+    "vietnamese": "Đánh răng",
+    "audio": "Brush teeth"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Take a shower",
+    "english": "Take a shower",
+    "vietnamese": "Tắm vòi hoa sen",
+    "audio": "Take a shower"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Eat breakfast",
+    "english": "Eat breakfast",
+    "vietnamese": "Ăn sáng",
+    "audio": "Eat breakfast"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Go to school",
+    "english": "Go to school",
+    "vietnamese": "Đi học",
+    "audio": "Go to school"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Go to bed",
+    "english": "Go to bed",
+    "vietnamese": "Đi ngủ",
+    "audio": "Go to bed"
+  },
+  {
     "type": "MultipleChoice",
-    "question": "What is 'Brush teeth' in Vietnamese?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Wake up",
+    "text": "Wake up",
+    "subtext": "",
+    "answer": "Wake up",
+    "answer_vi": "Thức dậy",
     "options": [
+      "Wake up",
+      "Brush teeth",
+      "Take a shower",
+      "Eat breakfast"
+    ],
+    "options_en": [
+      "Wake up",
+      "Brush teeth",
+      "Take a shower",
+      "Eat breakfast"
+    ],
+    "options_vi": [
       "Thức dậy",
       "Đánh răng",
-      "Ăn sáng",
-      "Đi học"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Wake up",
-        "translation": "Thức dậy"
-      },
-      {
-        "hindi": "Brush teeth",
-        "translation": "Đánh răng"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Have breakfast",
-        "translation": "Ăn sáng",
-        "audio": "Have breakfast"
-      },
-      {
-        "hindi": "Go to school",
-        "translation": "Đi học",
-        "audio": "Go to school"
-      }
+      "Tắm vòi hoa sen",
+      "Ăn sáng"
     ]
   },
   {
     "type": "MultipleChoice",
-    "question": "What is 'Have breakfast' in Vietnamese?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Brush teeth",
+    "text": "Brush teeth",
+    "subtext": "",
+    "answer": "Brush teeth",
+    "answer_vi": "Đánh răng",
     "options": [
-      "Ăn trưa",
-      "Ăn tối",
-      "Ăn sáng",
-      "Đánh răng"
+      "Brush teeth",
+      "Wake up",
+      "Take a shower",
+      "Eat breakfast"
     ],
-    "correctAnswer": 2
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Have breakfast",
-        "translation": "Ăn sáng"
-      },
-      {
-        "hindi": "Go to school",
-        "translation": "Đi học"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Go home",
-        "translation": "Về nhà",
-        "audio": "Go home"
-      },
-      {
-        "hindi": "Go to sleep",
-        "translation": "Đi ngủ",
-        "audio": "Go to sleep"
-      }
+    "options_en": [
+      "Brush teeth",
+      "Wake up",
+      "Take a shower",
+      "Eat breakfast"
+    ],
+    "options_vi": [
+      "Đánh răng",
+      "Thức dậy",
+      "Tắm vòi hoa sen",
+      "Ăn sáng"
     ]
   },
   {
     "type": "MultipleChoice",
-    "question": "What is 'Go to sleep' in Vietnamese?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Take a shower",
+    "text": "Take a shower",
+    "subtext": "",
+    "answer": "Take a shower",
+    "answer_vi": "Tắm vòi hoa sen",
     "options": [
-      "Về nhà",
+      "Take a shower",
+      "Wake up",
+      "Brush teeth",
+      "Eat breakfast"
+    ],
+    "options_en": [
+      "Take a shower",
+      "Wake up",
+      "Brush teeth",
+      "Eat breakfast"
+    ],
+    "options_vi": [
+      "Tắm vòi hoa sen",
+      "Thức dậy",
+      "Đánh răng",
+      "Ăn sáng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Eat breakfast",
+    "text": "Eat breakfast",
+    "subtext": "",
+    "answer": "Eat breakfast",
+    "answer_vi": "Ăn sáng",
+    "options": [
+      "Eat breakfast",
+      "Wake up",
+      "Brush teeth",
+      "Take a shower"
+    ],
+    "options_en": [
+      "Eat breakfast",
+      "Wake up",
+      "Brush teeth",
+      "Take a shower"
+    ],
+    "options_vi": [
+      "Ăn sáng",
+      "Thức dậy",
+      "Đánh răng",
+      "Tắm vòi hoa sen"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Go to school",
+    "text": "Go to school",
+    "subtext": "",
+    "answer": "Go to school",
+    "answer_vi": "Đi học",
+    "options": [
+      "Go to school",
+      "Wake up",
+      "Brush teeth",
+      "Take a shower"
+    ],
+    "options_en": [
+      "Go to school",
+      "Wake up",
+      "Brush teeth",
+      "Take a shower"
+    ],
+    "options_vi": [
+      "Đi học",
+      "Thức dậy",
+      "Đánh răng",
+      "Tắm vòi hoa sen"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Go to bed",
+    "text": "Go to bed",
+    "subtext": "",
+    "answer": "Go to bed",
+    "answer_vi": "Đi ngủ",
+    "options": [
+      "Go to bed",
+      "Wake up",
+      "Brush teeth",
+      "Take a shower"
+    ],
+    "options_en": [
+      "Go to bed",
+      "Wake up",
+      "Brush teeth",
+      "Take a shower"
+    ],
+    "options_vi": [
       "Đi ngủ",
       "Thức dậy",
-      "Ăn sáng"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Go home",
-        "translation": "Về nhà"
-      },
-      {
-        "hindi": "Go to sleep",
-        "translation": "Đi ngủ"
-      }
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
-    "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
-    "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
-    "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
-    "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
-    "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
-    "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
-    "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
-    "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
-    "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
-    "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Đánh răng",
+      "Tắm vòi hoa sen"
     ]
   },
   {
@@ -301,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Wake up",
+        "english": "Thức dậy"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Brush teeth",
+        "english": "Đánh răng"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Take a shower",
+        "english": "Tắm vòi hoa sen"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Eat breakfast",
+        "english": "Ăn sáng"
       }
     ]
   }

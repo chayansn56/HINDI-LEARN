@@ -43,10 +43,18 @@
     "audio": "Sincerely yours"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Please find enclosed",
+    "english": "Please find enclosed",
+    "vietnamese": "Vui lòng xem đính kèm",
+    "audio": "Please find enclosed"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Dear Sir or Madam",
     "text": "Dear Sir or Madam",
     "subtext": "",
     "answer": "Dear Sir or Madam",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Best regards",
     "text": "Best regards",
     "subtext": "",
     "answer": "Best regards",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I am writing to inquire",
     "text": "I am writing to inquire",
     "subtext": "",
     "answer": "I am writing to inquire",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Attached document",
     "text": "Attached document",
     "subtext": "",
     "answer": "Attached document",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Sincerely yours",
     "text": "Sincerely yours",
     "subtext": "",
     "answer": "Sincerely yours",
@@ -181,6 +193,44 @@
       "Trân trọng kính thư",
       "Tôi viết thư này để hỏi về"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Please find enclosed",
+    "text": "Please find enclosed",
+    "subtext": "",
+    "answer": "Please find enclosed",
+    "answer_vi": "Vui lòng xem đính kèm",
+    "options": [
+      "Please find enclosed",
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire"
+    ],
+    "options_en": [
+      "Please find enclosed",
+      "Dear Sir or Madam",
+      "Best regards",
+      "I am writing to inquire"
+    ],
+    "options_vi": [
+      "Vui lòng xem đính kèm",
+      "Kính gửi Ông hoặc Bà",
+      "Trân trọng kính thư",
+      "Tôi viết thư này để hỏi về"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Trân trọng kính thư.",
+    "hindiWords": [
+      "Best",
+      "regards"
+    ],
+    "correctHindiSentence": "Best regards"
   },
   {
     "type": "MatchPairs",

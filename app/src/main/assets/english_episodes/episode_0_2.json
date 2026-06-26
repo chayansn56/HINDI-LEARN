@@ -1,155 +1,81 @@
 [
   {
-    "type": "TeachRule",
-    "title": "Nguyên âm và Phụ âm",
-    "content": "Tiếng Anh có 5 nguyên âm (Vowels): A, E, I, O, U. Các chữ cái còn lại là phụ âm (Consonants)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "A",
-    "english": "A",
-    "vietnamese": "Nguyên âm A",
-    "audio": "A"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "E",
-    "english": "E",
-    "vietnamese": "Nguyên âm E",
-    "audio": "E"
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "Chữ cái nào là nguyên âm?",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "E"
-    ],
-    "answer": "E"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Elephant",
-    "english": "Elephant",
-    "vietnamese": "Con voi",
-    "audio": "Elephant"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Ice cream",
-    "english": "Ice cream",
-    "vietnamese": "Kem",
-    "audio": "Ice cream"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Orange",
-    "english": "Orange",
-    "vietnamese": "Quả cam",
-    "audio": "Orange"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Umbrella",
-    "english": "Umbrella",
-    "vietnamese": "Cái ô",
-    "audio": "Umbrella"
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "Từ nào có nghĩa là 'Cái ô'?",
-    "options": [
-      "Orange",
-      "Elephant",
-      "Umbrella",
-      "Ice cream"
-    ],
-    "answer": "Umbrella"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "E",
-        "vietnamese": "Nguyên âm"
-      },
-      {
-        "hindi": "B",
-        "vietnamese": "Phụ âm"
-      },
-      {
-        "hindi": "Orange",
-        "vietnamese": "Quả cam"
-      },
-      {
-        "hindi": "Ice cream",
-        "vietnamese": "Kem"
-      }
+    "type": "Introduction",
+    "title": "Vowels & Consonants",
+    "description": "Master vocabulary and expressions for Vowels & Consonants.",
+    "keyPoints": [
+      "Learn Vowel and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Vowel",
+    "english": "Vowel",
+    "vietnamese": "Nguyên âm",
+    "audio": "Vowel"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Consonant",
+    "english": "Consonant",
+    "vietnamese": "Phụ âm",
+    "audio": "Consonant"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Sound",
+    "english": "Sound",
+    "vietnamese": "Âm thanh",
+    "audio": "Sound"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Speak",
+    "english": "Speak",
+    "vietnamese": "Nói",
+    "audio": "Speak"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Read",
+    "english": "Read",
+    "vietnamese": "Đọc",
+    "audio": "Read"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Listen",
+    "english": "Listen",
+    "vietnamese": "Nghe",
+    "audio": "Listen"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Vowel",
+    "text": "Vowel",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Vowel",
+    "answer_vi": "Nguyên âm",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Vowel",
+      "Consonant",
+      "Sound",
+      "Speak"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Vowel",
+      "Consonant",
+      "Sound",
+      "Speak"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Nguyên âm",
+      "Phụ âm",
+      "Âm thanh",
+      "Nói"
     ]
   },
   {
@@ -157,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Consonant",
+    "text": "Consonant",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Consonant",
+    "answer_vi": "Phụ âm",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Consonant",
+      "Vowel",
+      "Sound",
+      "Speak"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Consonant",
+      "Vowel",
+      "Sound",
+      "Speak"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Phụ âm",
+      "Nguyên âm",
+      "Âm thanh",
+      "Nói"
     ]
   },
   {
@@ -185,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Sound",
+    "text": "Sound",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Sound",
+    "answer_vi": "Âm thanh",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Sound",
+      "Vowel",
+      "Consonant",
+      "Speak"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Sound",
+      "Vowel",
+      "Consonant",
+      "Speak"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Âm thanh",
+      "Nguyên âm",
+      "Phụ âm",
+      "Nói"
     ]
   },
   {
@@ -213,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Speak",
+    "text": "Speak",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Speak",
+    "answer_vi": "Nói",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Speak",
+      "Vowel",
+      "Consonant",
+      "Sound"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Speak",
+      "Vowel",
+      "Consonant",
+      "Sound"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Nói",
+      "Nguyên âm",
+      "Phụ âm",
+      "Âm thanh"
     ]
   },
   {
@@ -241,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Read",
+    "text": "Read",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Read",
+    "answer_vi": "Đọc",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Read",
+      "Vowel",
+      "Consonant",
+      "Sound"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Read",
+      "Vowel",
+      "Consonant",
+      "Sound"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Đọc",
+      "Nguyên âm",
+      "Phụ âm",
+      "Âm thanh"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Listen",
+    "text": "Listen",
+    "subtext": "",
+    "answer": "Listen",
+    "answer_vi": "Nghe",
+    "options": [
+      "Listen",
+      "Vowel",
+      "Consonant",
+      "Sound"
+    ],
+    "options_en": [
+      "Listen",
+      "Vowel",
+      "Consonant",
+      "Sound"
+    ],
+    "options_vi": [
+      "Nghe",
+      "Nguyên âm",
+      "Phụ âm",
+      "Âm thanh"
     ]
   },
   {
@@ -269,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Vowel",
+        "english": "Nguyên âm"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Consonant",
+        "english": "Phụ âm"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Sound",
+        "english": "Âm thanh"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Speak",
+        "english": "Nói"
       }
     ]
   }

@@ -43,10 +43,18 @@
     "audio": "Soundtrack"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Exhibition",
+    "english": "Exhibition",
+    "vietnamese": "Triển lãm nghệ thuật",
+    "audio": "Exhibition"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Director",
     "text": "Director",
     "subtext": "",
     "answer": "Director",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Masterpiece",
     "text": "Masterpiece",
     "subtext": "",
     "answer": "Masterpiece",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Genre of movie",
     "text": "Genre of movie",
     "subtext": "",
     "answer": "Genre of movie",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Performance reviews",
     "text": "Performance reviews",
     "subtext": "",
     "answer": "Performance reviews",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Soundtrack",
     "text": "Soundtrack",
     "subtext": "",
     "answer": "Soundtrack",
@@ -181,6 +193,46 @@
       "Kiệt tác tác phẩm xuất sắc",
       "Thể loại phim"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Exhibition",
+    "text": "Exhibition",
+    "subtext": "",
+    "answer": "Exhibition",
+    "answer_vi": "Triển lãm nghệ thuật",
+    "options": [
+      "Exhibition",
+      "Director",
+      "Masterpiece",
+      "Genre of movie"
+    ],
+    "options_en": [
+      "Exhibition",
+      "Director",
+      "Masterpiece",
+      "Genre of movie"
+    ],
+    "options_vi": [
+      "Triển lãm nghệ thuật",
+      "Đạo diễn phim",
+      "Kiệt tác tác phẩm xuất sắc",
+      "Thể loại phim"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Nó là một kiệt tác.",
+    "hindiWords": [
+      "It",
+      "is",
+      "a",
+      "masterpiece"
+    ],
+    "correctHindiSentence": "It is a masterpiece"
   },
   {
     "type": "MatchPairs",

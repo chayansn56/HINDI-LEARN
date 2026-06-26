@@ -43,10 +43,18 @@
     "audio": "Behind the building"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Intersection",
+    "english": "Intersection",
+    "vietnamese": "Ngã tư / Điểm giao nhau",
+    "audio": "Intersection"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Go straight ahead",
     "text": "Go straight ahead",
     "subtext": "",
     "answer": "Go straight ahead",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Turn left at the corner",
     "text": "Turn left at the corner",
     "subtext": "",
     "answer": "Turn left at the corner",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Opposite the park",
     "text": "Opposite the park",
     "subtext": "",
     "answer": "Opposite the park",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Cross the street",
     "text": "Cross the street",
     "subtext": "",
     "answer": "Cross the street",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Behind the building",
     "text": "Behind the building",
     "subtext": "",
     "answer": "Behind the building",
@@ -181,6 +193,45 @@
       "Rẽ trái ở góc đường",
       "Đối diện công viên"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Intersection",
+    "text": "Intersection",
+    "subtext": "",
+    "answer": "Intersection",
+    "answer_vi": "Ngã tư / Điểm giao nhau",
+    "options": [
+      "Intersection",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park"
+    ],
+    "options_en": [
+      "Intersection",
+      "Go straight ahead",
+      "Turn left at the corner",
+      "Opposite the park"
+    ],
+    "options_vi": [
+      "Ngã tư / Điểm giao nhau",
+      "Đi thẳng về phía trước",
+      "Rẽ trái ở góc đường",
+      "Đối diện công viên"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Rẽ trái ở đây.",
+    "hindiWords": [
+      "Turn",
+      "left",
+      "here"
+    ],
+    "correctHindiSentence": "Turn left here"
   },
   {
     "type": "MatchPairs",

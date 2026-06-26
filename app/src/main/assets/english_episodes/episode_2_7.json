@@ -16,10 +16,10 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "Luggage / Baggage",
-    "english": "Luggage / Baggage",
+    "hindi": "Luggage",
+    "english": "Luggage",
     "vietnamese": "Hành lý",
-    "audio": "Luggage / Baggage"
+    "audio": "Luggage"
   },
   {
     "type": "Flashcard",
@@ -43,23 +43,31 @@
     "audio": "Passport control"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Terminal",
+    "english": "Terminal",
+    "vietnamese": "Nhà ga sân bay",
+    "audio": "Terminal"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Boarding pass",
     "text": "Boarding pass",
     "subtext": "",
     "answer": "Boarding pass",
     "answer_vi": "Thẻ lên máy bay",
     "options": [
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Security check",
       "Gate number"
     ],
     "options_en": [
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Security check",
       "Gate number"
     ],
@@ -75,18 +83,19 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Luggage / Baggage",
+    "hindi": "Luggage",
+    "text": "Luggage",
     "subtext": "",
-    "answer": "Luggage / Baggage",
+    "answer": "Luggage",
     "answer_vi": "Hành lý",
     "options": [
-      "Luggage / Baggage",
+      "Luggage",
       "Boarding pass",
       "Security check",
       "Gate number"
     ],
     "options_en": [
-      "Luggage / Baggage",
+      "Luggage",
       "Boarding pass",
       "Security check",
       "Gate number"
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Security check",
     "text": "Security check",
     "subtext": "",
     "answer": "Security check",
@@ -110,13 +120,13 @@
     "options": [
       "Security check",
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Gate number"
     ],
     "options_en": [
       "Security check",
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Gate number"
     ],
     "options_vi": [
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Gate number",
     "text": "Gate number",
     "subtext": "",
     "answer": "Gate number",
@@ -138,13 +149,13 @@
     "options": [
       "Gate number",
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Security check"
     ],
     "options_en": [
       "Gate number",
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Security check"
     ],
     "options_vi": [
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Passport control",
     "text": "Passport control",
     "subtext": "",
     "answer": "Passport control",
@@ -166,13 +178,13 @@
     "options": [
       "Passport control",
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Security check"
     ],
     "options_en": [
       "Passport control",
       "Boarding pass",
-      "Luggage / Baggage",
+      "Luggage",
       "Security check"
     ],
     "options_vi": [
@@ -183,6 +195,46 @@
     ]
   },
   {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Terminal",
+    "text": "Terminal",
+    "subtext": "",
+    "answer": "Terminal",
+    "answer_vi": "Nhà ga sân bay",
+    "options": [
+      "Terminal",
+      "Boarding pass",
+      "Luggage",
+      "Security check"
+    ],
+    "options_en": [
+      "Terminal",
+      "Boarding pass",
+      "Luggage",
+      "Security check"
+    ],
+    "options_vi": [
+      "Nhà ga sân bay",
+      "Thẻ lên máy bay",
+      "Hành lý",
+      "Kiểm tra an ninh"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Hành lý của tôi ở đâu?",
+    "hindiWords": [
+      "Where",
+      "is",
+      "my",
+      "luggage"
+    ],
+    "correctHindiSentence": "Where is my luggage"
+  },
+  {
     "type": "MatchPairs",
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
@@ -191,7 +243,7 @@
         "english": "Thẻ lên máy bay"
       },
       {
-        "hindi": "Luggage / Baggage",
+        "hindi": "Luggage",
         "english": "Hành lý"
       },
       {

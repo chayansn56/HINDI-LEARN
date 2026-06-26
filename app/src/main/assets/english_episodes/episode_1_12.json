@@ -1,149 +1,81 @@
 [
   {
-    "id": "n1",
-    "type": "TeachRule",
-    "content": "To talk about an action that was happening at a specific time in the past, use 'was/were + verb-ing'.\nExample: 'I was sleeping' (Tôi đang ngủ)."
-  },
-  {
-    "id": "n2",
-    "type": "Flashcard",
-    "hindi": "I was sleeping",
-    "english": "Tôi đang ngủ",
-    "audio": "I was sleeping"
-  },
-  {
-    "id": "n3",
-    "type": "Flashcard",
-    "hindi": "They were playing",
-    "english": "Họ đang chơi",
-    "audio": "They were playing"
-  },
-  {
-    "id": "n4",
-    "type": "Flashcard",
-    "hindi": "She was reading",
-    "english": "Cô ấy đang đọc",
-    "audio": "She was reading"
-  },
-  {
-    "id": "n5",
-    "type": "MultipleChoice",
-    "hindi": "I was eating",
-    "english": "Tôi đang ăn",
-    "options": [
-      "Tôi đang ăn",
-      "Tôi đã ăn",
-      "Tôi sẽ ăn"
-    ],
-    "audio": "I was eating"
-  },
-  {
-    "id": "n6",
-    "type": "MultipleChoice",
-    "hindi": "We were working",
-    "english": "Chúng tôi đang làm việc",
-    "options": [
-      "Chúng tôi đang làm việc",
-      "Họ đang làm việc",
-      "Tôi đang làm việc"
-    ],
-    "audio": "We were working"
-  },
-  {
-    "id": "n7",
-    "type": "MatchPairs",
-    "pairs": {
-      "I was sleeping": "Tôi đang ngủ",
-      "She was reading": "Cô ấy đang đọc",
-      "They were playing": "Họ đang chơi",
-      "He was eating": "Anh ấy đang ăn"
-    }
-  },
-  {
-    "id": "n8",
-    "type": "TeachRule",
-    "content": "Negative (was not/were not). Example: I wasn't sleeping (Tôi không đang ngủ)."
-  },
-  {
-    "id": "n9",
-    "type": "Flashcard",
-    "hindi": "I wasn't listening",
-    "english": "Tôi không đang nghe",
-    "audio": "I wasn't listening"
-  },
-  {
-    "id": "n10",
-    "type": "MultipleChoice",
-    "hindi": "They weren't running",
-    "english": "Họ không đang chạy",
-    "options": [
-      "Họ không đang chạy",
-      "Họ đang chạy",
-      "Họ đã chạy"
-    ],
-    "audio": "They weren't running"
+    "type": "Introduction",
+    "title": "Past Continuous",
+    "description": "Master vocabulary and expressions for Past Continuous.",
+    "keyPoints": [
+      "Learn Was studying and related terms."
+    ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Was studying",
+    "english": "Was studying",
+    "vietnamese": "Đang học bài (quá khứ số ít)",
+    "audio": "Was studying"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Were cooking",
+    "english": "Were cooking",
+    "vietnamese": "Đang nấu ăn (quá khứ số nhiều)",
+    "audio": "Were cooking"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "While",
+    "english": "While",
+    "vietnamese": "Trong khi",
+    "audio": "While"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "At five o'clock",
+    "english": "At five o'clock",
+    "vietnamese": "Vào lúc 5 giờ",
+    "audio": "At five o'clock"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "All evening",
+    "english": "All evening",
+    "vietnamese": "Cả buổi tối",
+    "audio": "All evening"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Interrupted",
+    "english": "Interrupted",
+    "vietnamese": "Bị gián đoạn",
+    "audio": "Interrupted"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Was studying",
+    "text": "Was studying",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Was studying",
+    "answer_vi": "Đang học bài (quá khứ số ít)",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Was studying",
+      "Were cooking",
+      "While",
+      "At five o'clock"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Was studying",
+      "Were cooking",
+      "While",
+      "At five o'clock"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Đang học bài (quá khứ số ít)",
+      "Đang nấu ăn (quá khứ số nhiều)",
+      "Trong khi",
+      "Vào lúc 5 giờ"
     ]
   },
   {
@@ -151,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Were cooking",
+    "text": "Were cooking",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Were cooking",
+    "answer_vi": "Đang nấu ăn (quá khứ số nhiều)",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Were cooking",
+      "Was studying",
+      "While",
+      "At five o'clock"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Were cooking",
+      "Was studying",
+      "While",
+      "At five o'clock"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Đang nấu ăn (quá khứ số nhiều)",
+      "Đang học bài (quá khứ số ít)",
+      "Trong khi",
+      "Vào lúc 5 giờ"
     ]
   },
   {
@@ -179,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "While",
+    "text": "While",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "While",
+    "answer_vi": "Trong khi",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "While",
+      "Was studying",
+      "Were cooking",
+      "At five o'clock"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "While",
+      "Was studying",
+      "Were cooking",
+      "At five o'clock"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Trong khi",
+      "Đang học bài (quá khứ số ít)",
+      "Đang nấu ăn (quá khứ số nhiều)",
+      "Vào lúc 5 giờ"
     ]
   },
   {
@@ -207,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "At five o'clock",
+    "text": "At five o'clock",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "At five o'clock",
+    "answer_vi": "Vào lúc 5 giờ",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "At five o'clock",
+      "Was studying",
+      "Were cooking",
+      "While"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "At five o'clock",
+      "Was studying",
+      "Were cooking",
+      "While"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Vào lúc 5 giờ",
+      "Đang học bài (quá khứ số ít)",
+      "Đang nấu ăn (quá khứ số nhiều)",
+      "Trong khi"
     ]
   },
   {
@@ -235,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "All evening",
+    "text": "All evening",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "All evening",
+    "answer_vi": "Cả buổi tối",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "All evening",
+      "Was studying",
+      "Were cooking",
+      "While"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "All evening",
+      "Was studying",
+      "Were cooking",
+      "While"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Cả buổi tối",
+      "Đang học bài (quá khứ số ít)",
+      "Đang nấu ăn (quá khứ số nhiều)",
+      "Trong khi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Interrupted",
+    "text": "Interrupted",
+    "subtext": "",
+    "answer": "Interrupted",
+    "answer_vi": "Bị gián đoạn",
+    "options": [
+      "Interrupted",
+      "Was studying",
+      "Were cooking",
+      "While"
+    ],
+    "options_en": [
+      "Interrupted",
+      "Was studying",
+      "Were cooking",
+      "While"
+    ],
+    "options_vi": [
+      "Bị gián đoạn",
+      "Đang học bài (quá khứ số ít)",
+      "Đang nấu ăn (quá khứ số nhiều)",
+      "Trong khi"
     ]
   },
   {
@@ -263,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Was studying",
+        "english": "Đang học bài (quá khứ số ít)"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Were cooking",
+        "english": "Đang nấu ăn (quá khứ số nhiều)"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "While",
+        "english": "Trong khi"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "At five o'clock",
+        "english": "Vào lúc 5 giờ"
       }
     ]
   }

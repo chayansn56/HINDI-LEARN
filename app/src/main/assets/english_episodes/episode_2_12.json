@@ -30,10 +30,10 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "Half past",
-    "english": "Half past",
-    "vietnamese": "Rưỡi / Ba mươi phút",
-    "audio": "Half past"
+    "hindi": "Half past the hour",
+    "english": "Half past the hour",
+    "vietnamese": "Nửa tiếng / Ba mươi phút qua",
+    "audio": "Half past the hour"
   },
   {
     "type": "Flashcard",
@@ -43,10 +43,18 @@
     "audio": "Postpone"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Reschedule",
+    "english": "Reschedule",
+    "vietnamese": "Đổi lịch / Sắp xếp lại",
+    "audio": "Reschedule"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Schedule",
     "text": "Schedule",
     "subtext": "",
     "answer": "Schedule",
@@ -55,19 +63,19 @@
       "Schedule",
       "Meeting agenda",
       "Quarter past",
-      "Half past"
+      "Half past the hour"
     ],
     "options_en": [
       "Schedule",
       "Meeting agenda",
       "Quarter past",
-      "Half past"
+      "Half past the hour"
     ],
     "options_vi": [
       "Lịch trình biểu",
       "Chương trình họp",
       "Hơn mười lăm phút",
-      "Rưỡi / Ba mươi phút"
+      "Nửa tiếng / Ba mươi phút qua"
     ]
   },
   {
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Meeting agenda",
     "text": "Meeting agenda",
     "subtext": "",
     "answer": "Meeting agenda",
@@ -83,19 +92,19 @@
       "Meeting agenda",
       "Schedule",
       "Quarter past",
-      "Half past"
+      "Half past the hour"
     ],
     "options_en": [
       "Meeting agenda",
       "Schedule",
       "Quarter past",
-      "Half past"
+      "Half past the hour"
     ],
     "options_vi": [
       "Chương trình họp",
       "Lịch trình biểu",
       "Hơn mười lăm phút",
-      "Rưỡi / Ba mươi phút"
+      "Nửa tiếng / Ba mươi phút qua"
     ]
   },
   {
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Quarter past",
     "text": "Quarter past",
     "subtext": "",
     "answer": "Quarter past",
@@ -111,19 +121,19 @@
       "Quarter past",
       "Schedule",
       "Meeting agenda",
-      "Half past"
+      "Half past the hour"
     ],
     "options_en": [
       "Quarter past",
       "Schedule",
       "Meeting agenda",
-      "Half past"
+      "Half past the hour"
     ],
     "options_vi": [
       "Hơn mười lăm phút",
       "Lịch trình biểu",
       "Chương trình họp",
-      "Rưỡi / Ba mươi phút"
+      "Nửa tiếng / Ba mươi phút qua"
     ]
   },
   {
@@ -131,24 +141,25 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Half past",
+    "hindi": "Half past the hour",
+    "text": "Half past the hour",
     "subtext": "",
-    "answer": "Half past",
-    "answer_vi": "Rưỡi / Ba mươi phút",
+    "answer": "Half past the hour",
+    "answer_vi": "Nửa tiếng / Ba mươi phút qua",
     "options": [
-      "Half past",
+      "Half past the hour",
       "Schedule",
       "Meeting agenda",
       "Quarter past"
     ],
     "options_en": [
-      "Half past",
+      "Half past the hour",
       "Schedule",
       "Meeting agenda",
       "Quarter past"
     ],
     "options_vi": [
-      "Rưỡi / Ba mươi phút",
+      "Nửa tiếng / Ba mươi phút qua",
       "Lịch trình biểu",
       "Chương trình họp",
       "Hơn mười lăm phút"
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Postpone",
     "text": "Postpone",
     "subtext": "",
     "answer": "Postpone",
@@ -183,6 +195,48 @@
     ]
   },
   {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Reschedule",
+    "text": "Reschedule",
+    "subtext": "",
+    "answer": "Reschedule",
+    "answer_vi": "Đổi lịch / Sắp xếp lại",
+    "options": [
+      "Reschedule",
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past"
+    ],
+    "options_en": [
+      "Reschedule",
+      "Schedule",
+      "Meeting agenda",
+      "Quarter past"
+    ],
+    "options_vi": [
+      "Đổi lịch / Sắp xếp lại",
+      "Lịch trình biểu",
+      "Chương trình họp",
+      "Hơn mười lăm phút"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Cuộc họp vào lúc hai giờ.",
+    "hindiWords": [
+      "The",
+      "meeting",
+      "is",
+      "at",
+      "two",
+      "o'clock"
+    ],
+    "correctHindiSentence": "The meeting is at two o'clock"
+  },
+  {
     "type": "MatchPairs",
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
@@ -199,8 +253,8 @@
         "english": "Hơn mười lăm phút"
       },
       {
-        "hindi": "Half past",
-        "english": "Rưỡi / Ba mươi phút"
+        "hindi": "Half past the hour",
+        "english": "Nửa tiếng / Ba mươi phút qua"
       }
     ]
   }

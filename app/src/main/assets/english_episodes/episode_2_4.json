@@ -43,10 +43,18 @@
     "audio": "They used to work"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Memory",
+    "english": "Memory",
+    "vietnamese": "Kỷ niệm / Trí nhớ",
+    "audio": "Memory"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I used to play",
     "text": "I used to play",
     "subtext": "",
     "answer": "I used to play",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "She used to live here",
     "text": "She used to live here",
     "subtext": "",
     "answer": "She used to live here",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Did you use to study?",
     "text": "Did you use to study?",
     "subtext": "",
     "answer": "Did you use to study?",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "We used to travel",
     "text": "We used to travel",
     "subtext": "",
     "answer": "We used to travel",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "They used to work",
     "text": "They used to work",
     "subtext": "",
     "answer": "They used to work",
@@ -181,6 +193,47 @@
       "Cô ấy đã từng sống ở đây",
       "Bạn đã từng học chưa?"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Memory",
+    "text": "Memory",
+    "subtext": "",
+    "answer": "Memory",
+    "answer_vi": "Kỷ niệm / Trí nhớ",
+    "options": [
+      "Memory",
+      "I used to play",
+      "She used to live here",
+      "Did you use to study?"
+    ],
+    "options_en": [
+      "Memory",
+      "I used to play",
+      "She used to live here",
+      "Did you use to study?"
+    ],
+    "options_vi": [
+      "Kỷ niệm / Trí nhớ",
+      "Tôi đã từng chơi",
+      "Cô ấy đã từng sống ở đây",
+      "Bạn đã từng học chưa?"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Tôi từng sống ở đây.",
+    "hindiWords": [
+      "I",
+      "used",
+      "to",
+      "live",
+      "here"
+    ],
+    "correctHindiSentence": "I used to live here"
   },
   {
     "type": "MatchPairs",

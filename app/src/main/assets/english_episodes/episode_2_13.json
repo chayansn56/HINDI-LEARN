@@ -43,10 +43,18 @@
     "audio": "Ambulance"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Danger",
+    "english": "Danger",
+    "vietnamese": "Sự nguy hiểm / Nguy hiểm",
+    "audio": "Danger"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Help me!",
     "text": "Help me!",
     "subtext": "",
     "answer": "Help me!",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Emergency exit",
     "text": "Emergency exit",
     "subtext": "",
     "answer": "Emergency exit",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Call the police",
     "text": "Call the police",
     "subtext": "",
     "answer": "Call the police",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I lost my passport",
     "text": "I lost my passport",
     "subtext": "",
     "answer": "I lost my passport",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Ambulance",
     "text": "Ambulance",
     "subtext": "",
     "answer": "Ambulance",
@@ -181,6 +193,47 @@
       "Lối thoát hiểm khẩn cấp",
       "Gọi cảnh sát"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Danger",
+    "text": "Danger",
+    "subtext": "",
+    "answer": "Danger",
+    "answer_vi": "Sự nguy hiểm / Nguy hiểm",
+    "options": [
+      "Danger",
+      "Help me!",
+      "Emergency exit",
+      "Call the police"
+    ],
+    "options_en": [
+      "Danger",
+      "Help me!",
+      "Emergency exit",
+      "Call the police"
+    ],
+    "options_vi": [
+      "Sự nguy hiểm / Nguy hiểm",
+      "Giúp tôi với!",
+      "Lối thoát hiểm khẩn cấp",
+      "Gọi cảnh sát"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Hãy gọi cảnh sát ngay.",
+    "hindiWords": [
+      "Please",
+      "call",
+      "the",
+      "police",
+      "now"
+    ],
+    "correctHindiSentence": "Please call the police now"
   },
   {
     "type": "MatchPairs",

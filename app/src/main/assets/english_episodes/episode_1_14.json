@@ -1,149 +1,81 @@
 [
   {
-    "id": "n1",
-    "type": "TeachRule",
-    "content": "Use 'am/is/are going to + verb' for planned future actions.\nExample: 'I am going to study' (Tôi sẽ học)."
-  },
-  {
-    "id": "n2",
-    "type": "Flashcard",
-    "hindi": "I am going to study",
-    "english": "Tôi sẽ học",
-    "audio": "I am going to study"
-  },
-  {
-    "id": "n3",
-    "type": "Flashcard",
-    "hindi": "He is going to travel",
-    "english": "Anh ấy sẽ đi du lịch",
-    "audio": "He is going to travel"
-  },
-  {
-    "id": "n4",
-    "type": "Flashcard",
-    "hindi": "We are going to eat",
-    "english": "Chúng tôi sẽ ăn",
-    "audio": "We are going to eat"
-  },
-  {
-    "id": "n5",
-    "type": "MultipleChoice",
-    "hindi": "They are going to play",
-    "english": "Họ sẽ chơi",
-    "options": [
-      "Họ sẽ chơi",
-      "Họ đã chơi",
-      "Họ đang chơi"
-    ],
-    "audio": "They are going to play"
-  },
-  {
-    "id": "n6",
-    "type": "MultipleChoice",
-    "hindi": "She is going to sleep",
-    "english": "Cô ấy sẽ ngủ",
-    "options": [
-      "Cô ấy sẽ ngủ",
-      "Cô ấy đã ngủ",
-      "Cô ấy đang ngủ"
-    ],
-    "audio": "She is going to sleep"
-  },
-  {
-    "id": "n7",
-    "type": "MatchPairs",
-    "pairs": {
-      "I am going to study": "Tôi sẽ học",
-      "He is going to travel": "Anh ấy sẽ đi du lịch",
-      "We are going to eat": "Chúng tôi sẽ ăn",
-      "They are going to play": "Họ sẽ chơi"
-    }
-  },
-  {
-    "id": "n8",
-    "type": "TeachRule",
-    "content": "Questions with 'going to'. Example: Are you going to study? (Bạn sẽ học chứ?)"
-  },
-  {
-    "id": "n9",
-    "type": "Flashcard",
-    "hindi": "Are you going to go?",
-    "english": "Bạn sẽ đi chứ?",
-    "audio": "Are you going to go?"
-  },
-  {
-    "id": "n10",
-    "type": "MultipleChoice",
-    "hindi": "Is she going to come?",
-    "english": "Cô ấy sẽ đến chứ?",
-    "options": [
-      "Cô ấy sẽ đến chứ?",
-      "Cô ấy đã đến chưa?",
-      "Cô ấy đang đến à?"
-    ],
-    "audio": "Is she going to come?"
+    "type": "Introduction",
+    "title": "Future with Going To",
+    "description": "Master vocabulary and expressions for Future with Going To.",
+    "keyPoints": [
+      "Learn Going to travel and related terms."
+    ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Going to travel",
+    "english": "Going to travel",
+    "vietnamese": "Sẽ đi du lịch (lên kế hoạch)",
+    "audio": "Going to travel"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Going to study",
+    "english": "Going to study",
+    "vietnamese": "Sẽ học bài (lên kế hoạch)",
+    "audio": "Going to study"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Going to visit",
+    "english": "Going to visit",
+    "vietnamese": "Sẽ đi thăm (lên kế hoạch)",
+    "audio": "Going to visit"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Plan",
+    "english": "Plan",
+    "vietnamese": "Kế hoạch",
+    "audio": "Plan"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Intention",
+    "english": "Intention",
+    "vietnamese": "Ý định",
+    "audio": "Intention"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tonight",
+    "english": "Tonight",
+    "vietnamese": "Tối nay",
+    "audio": "Tonight"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Going to travel",
+    "text": "Going to travel",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Going to travel",
+    "answer_vi": "Sẽ đi du lịch (lên kế hoạch)",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Going to travel",
+      "Going to study",
+      "Going to visit",
+      "Plan"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Going to travel",
+      "Going to study",
+      "Going to visit",
+      "Plan"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Sẽ đi du lịch (lên kế hoạch)",
+      "Sẽ học bài (lên kế hoạch)",
+      "Sẽ đi thăm (lên kế hoạch)",
+      "Kế hoạch"
     ]
   },
   {
@@ -151,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Going to study",
+    "text": "Going to study",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Going to study",
+    "answer_vi": "Sẽ học bài (lên kế hoạch)",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Going to study",
+      "Going to travel",
+      "Going to visit",
+      "Plan"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Going to study",
+      "Going to travel",
+      "Going to visit",
+      "Plan"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Sẽ học bài (lên kế hoạch)",
+      "Sẽ đi du lịch (lên kế hoạch)",
+      "Sẽ đi thăm (lên kế hoạch)",
+      "Kế hoạch"
     ]
   },
   {
@@ -179,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Going to visit",
+    "text": "Going to visit",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Going to visit",
+    "answer_vi": "Sẽ đi thăm (lên kế hoạch)",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Going to visit",
+      "Going to travel",
+      "Going to study",
+      "Plan"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Going to visit",
+      "Going to travel",
+      "Going to study",
+      "Plan"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Sẽ đi thăm (lên kế hoạch)",
+      "Sẽ đi du lịch (lên kế hoạch)",
+      "Sẽ học bài (lên kế hoạch)",
+      "Kế hoạch"
     ]
   },
   {
@@ -207,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Plan",
+    "text": "Plan",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Plan",
+    "answer_vi": "Kế hoạch",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Plan",
+      "Going to travel",
+      "Going to study",
+      "Going to visit"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Plan",
+      "Going to travel",
+      "Going to study",
+      "Going to visit"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Kế hoạch",
+      "Sẽ đi du lịch (lên kế hoạch)",
+      "Sẽ học bài (lên kế hoạch)",
+      "Sẽ đi thăm (lên kế hoạch)"
     ]
   },
   {
@@ -235,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Intention",
+    "text": "Intention",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Intention",
+    "answer_vi": "Ý định",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Intention",
+      "Going to travel",
+      "Going to study",
+      "Going to visit"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Intention",
+      "Going to travel",
+      "Going to study",
+      "Going to visit"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Ý định",
+      "Sẽ đi du lịch (lên kế hoạch)",
+      "Sẽ học bài (lên kế hoạch)",
+      "Sẽ đi thăm (lên kế hoạch)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Tonight",
+    "text": "Tonight",
+    "subtext": "",
+    "answer": "Tonight",
+    "answer_vi": "Tối nay",
+    "options": [
+      "Tonight",
+      "Going to travel",
+      "Going to study",
+      "Going to visit"
+    ],
+    "options_en": [
+      "Tonight",
+      "Going to travel",
+      "Going to study",
+      "Going to visit"
+    ],
+    "options_vi": [
+      "Tối nay",
+      "Sẽ đi du lịch (lên kế hoạch)",
+      "Sẽ học bài (lên kế hoạch)",
+      "Sẽ đi thăm (lên kế hoạch)"
     ]
   },
   {
@@ -263,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Going to travel",
+        "english": "Sẽ đi du lịch (lên kế hoạch)"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Going to study",
+        "english": "Sẽ học bài (lên kế hoạch)"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Going to visit",
+        "english": "Sẽ đi thăm (lên kế hoạch)"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Plan",
+        "english": "Kế hoạch"
       }
     ]
   }

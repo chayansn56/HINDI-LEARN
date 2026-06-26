@@ -1,187 +1,81 @@
 [
   {
-    "type": "TeachRules",
-    "title": "Present Continuous Tense",
-    "explanation": "We use Present Continuous Tense to describe actions happening right now."
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "I am eating",
-        "translation": "Tôi đang ăn",
-        "audio": "I am eating"
-      },
-      {
-        "hindi": "She is running",
-        "translation": "Cô ấy đang chạy",
-        "audio": "She is running"
-      }
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "What is 'I am eating' in Vietnamese?",
-    "options": [
-      "Tôi đang ăn",
-      "Cô ấy đang chạy",
-      "Họ đang ngủ",
-      "Anh ấy đang bơi"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "I am eating",
-        "translation": "Tôi đang ăn"
-      },
-      {
-        "hindi": "She is running",
-        "translation": "Cô ấy đang chạy"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "They are sleeping",
-        "translation": "Họ đang ngủ",
-        "audio": "They are sleeping"
-      },
-      {
-        "hindi": "He is swimming",
-        "translation": "Anh ấy đang bơi",
-        "audio": "He is swimming"
-      }
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "What is 'They are sleeping' in Vietnamese?",
-    "options": [
-      "Họ đang ngủ",
-      "Tôi đang ăn",
-      "Cô ấy đang chạy",
-      "Anh ấy đang bơi"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "They are sleeping",
-        "translation": "Họ đang ngủ"
-      },
-      {
-        "hindi": "He is swimming",
-        "translation": "Anh ấy đang bơi"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "We are walking",
-        "translation": "Chúng tôi đang đi bộ",
-        "audio": "We are walking"
-      },
-      {
-        "hindi": "You are reading",
-        "translation": "Bạn đang đọc",
-        "audio": "You are reading"
-      }
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "What is 'You are reading' in Vietnamese?",
-    "options": [
-      "Tôi đang ăn",
-      "Chúng tôi đang đi bộ",
-      "Bạn đang đọc",
-      "Họ đang ngủ"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "We are walking",
-        "translation": "Chúng tôi đang đi bộ"
-      },
-      {
-        "hindi": "You are reading",
-        "translation": "Bạn đang đọc"
-      }
+    "type": "Introduction",
+    "title": "Present Continuous",
+    "description": "Master vocabulary and expressions for Present Continuous.",
+    "keyPoints": [
+      "Learn Am reading and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Am reading",
+    "english": "Am reading",
+    "vietnamese": "Đang đọc (đi với I)",
+    "audio": "Am reading"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Is eating",
+    "english": "Is eating",
+    "vietnamese": "Đang ăn (đi với số ít)",
+    "audio": "Is eating"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Are playing",
+    "english": "Are playing",
+    "vietnamese": "Đang chơi (đi với số nhiều)",
+    "audio": "Are playing"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Now",
+    "english": "Now",
+    "vietnamese": "Bây giờ",
+    "audio": "Now"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "At the moment",
+    "english": "At the moment",
+    "vietnamese": "Vào lúc này",
+    "audio": "At the moment"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Currently",
+    "english": "Currently",
+    "vietnamese": "Hiện tại",
+    "audio": "Currently"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Am reading",
+    "text": "Am reading",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Am reading",
+    "answer_vi": "Đang đọc (đi với I)",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Am reading",
+      "Is eating",
+      "Are playing",
+      "Now"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Am reading",
+      "Is eating",
+      "Are playing",
+      "Now"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Đang đọc (đi với I)",
+      "Đang ăn (đi với số ít)",
+      "Đang chơi (đi với số nhiều)",
+      "Bây giờ"
     ]
   },
   {
@@ -189,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Is eating",
+    "text": "Is eating",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Is eating",
+    "answer_vi": "Đang ăn (đi với số ít)",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Is eating",
+      "Am reading",
+      "Are playing",
+      "Now"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Is eating",
+      "Am reading",
+      "Are playing",
+      "Now"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Đang ăn (đi với số ít)",
+      "Đang đọc (đi với I)",
+      "Đang chơi (đi với số nhiều)",
+      "Bây giờ"
     ]
   },
   {
@@ -217,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Are playing",
+    "text": "Are playing",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Are playing",
+    "answer_vi": "Đang chơi (đi với số nhiều)",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Are playing",
+      "Am reading",
+      "Is eating",
+      "Now"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Are playing",
+      "Am reading",
+      "Is eating",
+      "Now"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Đang chơi (đi với số nhiều)",
+      "Đang đọc (đi với I)",
+      "Đang ăn (đi với số ít)",
+      "Bây giờ"
     ]
   },
   {
@@ -245,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Now",
+    "text": "Now",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Now",
+    "answer_vi": "Bây giờ",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Now",
+      "Am reading",
+      "Is eating",
+      "Are playing"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Now",
+      "Am reading",
+      "Is eating",
+      "Are playing"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Bây giờ",
+      "Đang đọc (đi với I)",
+      "Đang ăn (đi với số ít)",
+      "Đang chơi (đi với số nhiều)"
     ]
   },
   {
@@ -273,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "At the moment",
+    "text": "At the moment",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "At the moment",
+    "answer_vi": "Vào lúc này",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "At the moment",
+      "Am reading",
+      "Is eating",
+      "Are playing"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "At the moment",
+      "Am reading",
+      "Is eating",
+      "Are playing"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Vào lúc này",
+      "Đang đọc (đi với I)",
+      "Đang ăn (đi với số ít)",
+      "Đang chơi (đi với số nhiều)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Currently",
+    "text": "Currently",
+    "subtext": "",
+    "answer": "Currently",
+    "answer_vi": "Hiện tại",
+    "options": [
+      "Currently",
+      "Am reading",
+      "Is eating",
+      "Are playing"
+    ],
+    "options_en": [
+      "Currently",
+      "Am reading",
+      "Is eating",
+      "Are playing"
+    ],
+    "options_vi": [
+      "Hiện tại",
+      "Đang đọc (đi với I)",
+      "Đang ăn (đi với số ít)",
+      "Đang chơi (đi với số nhiều)"
     ]
   },
   {
@@ -301,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Am reading",
+        "english": "Đang đọc (đi với I)"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Is eating",
+        "english": "Đang ăn (đi với số ít)"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Are playing",
+        "english": "Đang chơi (đi với số nhiều)"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Now",
+        "english": "Bây giờ"
       }
     ]
   }

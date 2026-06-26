@@ -43,10 +43,18 @@
     "audio": "Rules must be followed"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Completed project",
+    "english": "Completed project",
+    "vietnamese": "Dự án đã được hoàn thành",
+    "audio": "Completed project"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "The book was written",
     "text": "The book was written",
     "subtext": "",
     "answer": "The book was written",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "It is made of wood",
     "text": "It is made of wood",
     "subtext": "",
     "answer": "It is made of wood",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "The letter was sent",
     "text": "The letter was sent",
     "subtext": "",
     "answer": "The letter was sent",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "He was invited",
     "text": "He was invited",
     "subtext": "",
     "answer": "He was invited",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Rules must be followed",
     "text": "Rules must be followed",
     "subtext": "",
     "answer": "Rules must be followed",
@@ -181,6 +193,46 @@
       "Nó được làm bằng gỗ",
       "Bức thư đã được gửi đi"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Completed project",
+    "text": "Completed project",
+    "subtext": "",
+    "answer": "Completed project",
+    "answer_vi": "Dự án đã được hoàn thành",
+    "options": [
+      "Completed project",
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent"
+    ],
+    "options_en": [
+      "Completed project",
+      "The book was written",
+      "It is made of wood",
+      "The letter was sent"
+    ],
+    "options_vi": [
+      "Dự án đã được hoàn thành",
+      "Cuốn sách đã được viết",
+      "Nó được làm bằng gỗ",
+      "Bức thư đã được gửi đi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Bức thư đã được gửi.",
+    "hindiWords": [
+      "The",
+      "letter",
+      "was",
+      "sent"
+    ],
+    "correctHindiSentence": "The letter was sent"
   },
   {
     "type": "MatchPairs",

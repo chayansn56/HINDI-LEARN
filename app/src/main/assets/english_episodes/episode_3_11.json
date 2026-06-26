@@ -43,10 +43,18 @@
     "audio": "Under the weather"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Hit the nail on the head",
+    "english": "Hit the nail on the head",
+    "vietnamese": "Nói trúng tim đen / Nói cực chuẩn",
+    "audio": "Hit the nail on the head"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Bite the bullet",
     "text": "Bite the bullet",
     "subtext": "",
     "answer": "Bite the bullet",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Break a leg",
     "text": "Break a leg",
     "subtext": "",
     "answer": "Break a leg",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Piece of cake",
     "text": "Piece of cake",
     "subtext": "",
     "answer": "Piece of cake",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Actions speak louder than words",
     "text": "Actions speak louder than words",
     "subtext": "",
     "answer": "Actions speak louder than words",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Under the weather",
     "text": "Under the weather",
     "subtext": "",
     "answer": "Under the weather",
@@ -181,6 +193,47 @@
       "Chúc may mắn",
       "Dễ như ăn bánh"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Hit the nail on the head",
+    "text": "Hit the nail on the head",
+    "subtext": "",
+    "answer": "Hit the nail on the head",
+    "answer_vi": "Nói trúng tim đen / Nói cực chuẩn",
+    "options": [
+      "Hit the nail on the head",
+      "Bite the bullet",
+      "Break a leg",
+      "Piece of cake"
+    ],
+    "options_en": [
+      "Hit the nail on the head",
+      "Bite the bullet",
+      "Break a leg",
+      "Piece of cake"
+    ],
+    "options_vi": [
+      "Nói trúng tim đen / Nói cực chuẩn",
+      "Cắn răng chịu đựng",
+      "Chúc may mắn",
+      "Dễ như ăn bánh"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Hành động quan trọng hơn lời nói.",
+    "hindiWords": [
+      "Actions",
+      "speak",
+      "louder",
+      "than",
+      "words"
+    ],
+    "correctHindiSentence": "Actions speak louder than words"
   },
   {
     "type": "MatchPairs",

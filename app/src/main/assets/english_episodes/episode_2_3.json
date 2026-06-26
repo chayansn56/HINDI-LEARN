@@ -43,10 +43,18 @@
     "audio": "He is running"
   },
   {
+    "type": "Flashcard",
+    "hindi": "We are learning",
+    "english": "We are learning",
+    "vietnamese": "Chúng tôi đang học",
+    "audio": "We are learning"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I am working",
     "text": "I am working",
     "subtext": "",
     "answer": "I am working",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "She is reading",
     "text": "She is reading",
     "subtext": "",
     "answer": "She is reading",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "They are eating",
     "text": "They are eating",
     "subtext": "",
     "answer": "They are eating",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "What are you doing?",
     "text": "What are you doing?",
     "subtext": "",
     "answer": "What are you doing?",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "He is running",
     "text": "He is running",
     "subtext": "",
     "answer": "He is running",
@@ -181,6 +193,47 @@
       "Cô ấy đang đọc sách",
       "Họ đang ăn"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "We are learning",
+    "text": "We are learning",
+    "subtext": "",
+    "answer": "We are learning",
+    "answer_vi": "Chúng tôi đang học",
+    "options": [
+      "We are learning",
+      "I am working",
+      "She is reading",
+      "They are eating"
+    ],
+    "options_en": [
+      "We are learning",
+      "I am working",
+      "She is reading",
+      "They are eating"
+    ],
+    "options_vi": [
+      "Chúng tôi đang học",
+      "Tôi đang làm việc",
+      "Cô ấy đang đọc sách",
+      "Họ đang ăn"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Cô ấy đang đọc sách.",
+    "hindiWords": [
+      "She",
+      "is",
+      "reading",
+      "a",
+      "book"
+    ],
+    "correctHindiSentence": "She is reading a book"
   },
   {
     "type": "MatchPairs",

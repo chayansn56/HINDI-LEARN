@@ -43,10 +43,18 @@
     "audio": "Sunny day"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Temperature",
+    "english": "Temperature",
+    "vietnamese": "Nhiệt độ",
+    "audio": "Temperature"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Forecast",
     "text": "Forecast",
     "subtext": "",
     "answer": "Forecast",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Humidity",
     "text": "Humidity",
     "subtext": "",
     "answer": "Humidity",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Thunderstorm",
     "text": "Thunderstorm",
     "subtext": "",
     "answer": "Thunderstorm",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Freezing cold",
     "text": "Freezing cold",
     "subtext": "",
     "answer": "Freezing cold",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Sunny day",
     "text": "Sunny day",
     "subtext": "",
     "answer": "Sunny day",
@@ -181,6 +193,46 @@
       "Độ ẩm",
       "Bão kèm sấm sét"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Temperature",
+    "text": "Temperature",
+    "subtext": "",
+    "answer": "Temperature",
+    "answer_vi": "Nhiệt độ",
+    "options": [
+      "Temperature",
+      "Forecast",
+      "Humidity",
+      "Thunderstorm"
+    ],
+    "options_en": [
+      "Temperature",
+      "Forecast",
+      "Humidity",
+      "Thunderstorm"
+    ],
+    "options_vi": [
+      "Nhiệt độ",
+      "Dự báo thời tiết",
+      "Độ ẩm",
+      "Bão kèm sấm sét"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Hôm nay trời đang mưa.",
+    "hindiWords": [
+      "It",
+      "is",
+      "raining",
+      "today"
+    ],
+    "correctHindiSentence": "It is raining today"
   },
   {
     "type": "MatchPairs",

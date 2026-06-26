@@ -43,10 +43,18 @@
     "audio": "Take off"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Carry on",
+    "english": "Carry on",
+    "vietnamese": "Tiếp tục làm gì",
+    "audio": "Carry on"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Give up",
     "text": "Give up",
     "subtext": "",
     "answer": "Give up",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Look after",
     "text": "Look after",
     "subtext": "",
     "answer": "Look after",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Find out",
     "text": "Find out",
     "subtext": "",
     "answer": "Find out",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Run out of",
     "text": "Run out of",
     "subtext": "",
     "answer": "Run out of",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Take off",
     "text": "Take off",
     "subtext": "",
     "answer": "Take off",
@@ -181,6 +193,46 @@
       "Chăm sóc",
       "Tìm ra phát hiện"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Carry on",
+    "text": "Carry on",
+    "subtext": "",
+    "answer": "Carry on",
+    "answer_vi": "Tiếp tục làm gì",
+    "options": [
+      "Carry on",
+      "Give up",
+      "Look after",
+      "Find out"
+    ],
+    "options_en": [
+      "Carry on",
+      "Give up",
+      "Look after",
+      "Find out"
+    ],
+    "options_vi": [
+      "Tiếp tục làm gì",
+      "Từ bỏ",
+      "Chăm sóc",
+      "Tìm ra phát hiện"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Đừng từ bỏ.",
+    "hindiWords": [
+      "Do",
+      "not",
+      "give",
+      "up"
+    ],
+    "correctHindiSentence": "Do not give up"
   },
   {
     "type": "MatchPairs",

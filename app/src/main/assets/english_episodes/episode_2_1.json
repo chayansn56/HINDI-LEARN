@@ -43,10 +43,18 @@
     "audio": "Brother-in-law"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Relatives",
+    "english": "Relatives",
+    "vietnamese": "Họ hàng",
+    "audio": "Relatives"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Uncle",
     "text": "Uncle",
     "subtext": "",
     "answer": "Uncle",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Aunt",
     "text": "Aunt",
     "subtext": "",
     "answer": "Aunt",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Father-in-law",
     "text": "Father-in-law",
     "subtext": "",
     "answer": "Father-in-law",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Mother-in-law",
     "text": "Mother-in-law",
     "subtext": "",
     "answer": "Mother-in-law",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Brother-in-law",
     "text": "Brother-in-law",
     "subtext": "",
     "answer": "Brother-in-law",
@@ -181,6 +193,46 @@
       "Cô / Dì / Mợ",
       "Bố chồng / Bố vợ"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Relatives",
+    "text": "Relatives",
+    "subtext": "",
+    "answer": "Relatives",
+    "answer_vi": "Họ hàng",
+    "options": [
+      "Relatives",
+      "Uncle",
+      "Aunt",
+      "Father-in-law"
+    ],
+    "options_en": [
+      "Relatives",
+      "Uncle",
+      "Aunt",
+      "Father-in-law"
+    ],
+    "options_vi": [
+      "Họ hàng",
+      "Bác / Chú / Cậu",
+      "Cô / Dì / Mợ",
+      "Bố chồng / Bố vợ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Bác của tôi đang đến.",
+    "hindiWords": [
+      "My",
+      "uncle",
+      "is",
+      "coming"
+    ],
+    "correctHindiSentence": "My uncle is coming"
   },
   {
     "type": "MatchPairs",

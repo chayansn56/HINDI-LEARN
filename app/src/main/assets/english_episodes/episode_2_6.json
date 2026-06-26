@@ -23,10 +23,10 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "Next to",
-    "english": "Next to",
-    "vietnamese": "Bên cạnh",
-    "audio": "Next to"
+    "hindi": "Adjacent to",
+    "english": "Adjacent to",
+    "vietnamese": "Liền kề / Ngay sát",
+    "audio": "Adjacent to"
   },
   {
     "type": "Flashcard",
@@ -43,10 +43,18 @@
     "audio": "Therefore"
   },
   {
+    "type": "Flashcard",
+    "hindi": "However",
+    "english": "However",
+    "vietnamese": "Tuy nhiên",
+    "audio": "However"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Because of",
     "text": "Because of",
     "subtext": "",
     "answer": "Because of",
@@ -54,19 +62,19 @@
     "options": [
       "Because of",
       "In front of",
-      "Next to",
+      "Adjacent to",
       "Although"
     ],
     "options_en": [
       "Because of",
       "In front of",
-      "Next to",
+      "Adjacent to",
       "Although"
     ],
     "options_vi": [
       "Bởi vì / Do",
       "Phía trước của",
-      "Bên cạnh",
+      "Liền kề / Ngay sát",
       "Mặc dù"
     ]
   },
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "In front of",
     "text": "In front of",
     "subtext": "",
     "answer": "In front of",
@@ -82,19 +91,19 @@
     "options": [
       "In front of",
       "Because of",
-      "Next to",
+      "Adjacent to",
       "Although"
     ],
     "options_en": [
       "In front of",
       "Because of",
-      "Next to",
+      "Adjacent to",
       "Although"
     ],
     "options_vi": [
       "Phía trước của",
       "Bởi vì / Do",
-      "Bên cạnh",
+      "Liền kề / Ngay sát",
       "Mặc dù"
     ]
   },
@@ -103,24 +112,25 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Next to",
+    "hindi": "Adjacent to",
+    "text": "Adjacent to",
     "subtext": "",
-    "answer": "Next to",
-    "answer_vi": "Bên cạnh",
+    "answer": "Adjacent to",
+    "answer_vi": "Liền kề / Ngay sát",
     "options": [
-      "Next to",
+      "Adjacent to",
       "Because of",
       "In front of",
       "Although"
     ],
     "options_en": [
-      "Next to",
+      "Adjacent to",
       "Because of",
       "In front of",
       "Although"
     ],
     "options_vi": [
-      "Bên cạnh",
+      "Liền kề / Ngay sát",
       "Bởi vì / Do",
       "Phía trước của",
       "Mặc dù"
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Although",
     "text": "Although",
     "subtext": "",
     "answer": "Although",
@@ -139,19 +150,19 @@
       "Although",
       "Because of",
       "In front of",
-      "Next to"
+      "Adjacent to"
     ],
     "options_en": [
       "Although",
       "Because of",
       "In front of",
-      "Next to"
+      "Adjacent to"
     ],
     "options_vi": [
       "Mặc dù",
       "Bởi vì / Do",
       "Phía trước của",
-      "Bên cạnh"
+      "Liền kề / Ngay sát"
     ]
   },
   {
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Therefore",
     "text": "Therefore",
     "subtext": "",
     "answer": "Therefore",
@@ -167,20 +179,62 @@
       "Therefore",
       "Because of",
       "In front of",
-      "Next to"
+      "Adjacent to"
     ],
     "options_en": [
       "Therefore",
       "Because of",
       "In front of",
-      "Next to"
+      "Adjacent to"
     ],
     "options_vi": [
       "Do đó / Vì vậy",
       "Bởi vì / Do",
       "Phía trước của",
-      "Bên cạnh"
+      "Liền kề / Ngay sát"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "However",
+    "text": "However",
+    "subtext": "",
+    "answer": "However",
+    "answer_vi": "Tuy nhiên",
+    "options": [
+      "However",
+      "Because of",
+      "In front of",
+      "Adjacent to"
+    ],
+    "options_en": [
+      "However",
+      "Because of",
+      "In front of",
+      "Adjacent to"
+    ],
+    "options_vi": [
+      "Tuy nhiên",
+      "Bởi vì / Do",
+      "Phía trước của",
+      "Liền kề / Ngay sát"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Nó ở bên cạnh cái ghế.",
+    "hindiWords": [
+      "It",
+      "is",
+      "next",
+      "to",
+      "the",
+      "chair"
+    ],
+    "correctHindiSentence": "It is next to the chair"
   },
   {
     "type": "MatchPairs",
@@ -195,8 +249,8 @@
         "english": "Phía trước của"
       },
       {
-        "hindi": "Next to",
-        "english": "Bên cạnh"
+        "hindi": "Adjacent to",
+        "english": "Liền kề / Ngay sát"
       },
       {
         "hindi": "Although",

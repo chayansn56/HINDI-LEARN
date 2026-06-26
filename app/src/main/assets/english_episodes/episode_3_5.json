@@ -43,10 +43,18 @@
     "audio": "Duty"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Mandatory",
+    "english": "Mandatory",
+    "vietnamese": "Bắt buộc / Quy định",
+    "audio": "Mandatory"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "You must study",
     "text": "You must study",
     "subtext": "",
     "answer": "You must study",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "You should check",
     "text": "You should check",
     "subtext": "",
     "answer": "You should check",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "It is necessary",
     "text": "It is necessary",
     "subtext": "",
     "answer": "It is necessary",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "No obligation",
     "text": "No obligation",
     "subtext": "",
     "answer": "No obligation",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Duty",
     "text": "Duty",
     "subtext": "",
     "answer": "Duty",
@@ -181,6 +193,47 @@
       "Bạn nên kiểm tra",
       "Nó là cần thiết"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Mandatory",
+    "text": "Mandatory",
+    "subtext": "",
+    "answer": "Mandatory",
+    "answer_vi": "Bắt buộc / Quy định",
+    "options": [
+      "Mandatory",
+      "You must study",
+      "You should check",
+      "It is necessary"
+    ],
+    "options_en": [
+      "Mandatory",
+      "You must study",
+      "You should check",
+      "It is necessary"
+    ],
+    "options_vi": [
+      "Bắt buộc / Quy định",
+      "Bạn bắt buộc phải học",
+      "Bạn nên kiểm tra",
+      "Nó là cần thiết"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Bạn nên kiểm tra lại.",
+    "hindiWords": [
+      "You",
+      "should",
+      "check",
+      "it",
+      "again"
+    ],
+    "correctHindiSentence": "You should check it again"
   },
   {
     "type": "MatchPairs",

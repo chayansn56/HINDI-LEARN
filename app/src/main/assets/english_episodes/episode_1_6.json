@@ -1,299 +1,226 @@
 [
   {
-    "type": "TeachRules",
+    "type": "Introduction",
     "title": "Weather & Seasons",
-    "explanation": "Learn to talk about the weather and seasons."
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Sunny",
-        "translation": "Trời nắng",
-        "audio": "Sunny"
-      },
-      {
-        "hindi": "Rainy",
-        "translation": "Trời mưa",
-        "audio": "Rainy"
-      }
+    "description": "Master vocabulary and expressions for Weather & Seasons.",
+    "keyPoints": [
+      "Learn Sunny and related terms."
     ]
   },
   {
+    "type": "Flashcard",
+    "hindi": "Sunny",
+    "english": "Sunny",
+    "vietnamese": "Có nắng",
+    "audio": "Sunny"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rainy",
+    "english": "Rainy",
+    "vietnamese": "Có mưa",
+    "audio": "Rainy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Windy",
+    "english": "Windy",
+    "vietnamese": "Có gió",
+    "audio": "Windy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Summer",
+    "english": "Summer",
+    "vietnamese": "Mùa hè",
+    "audio": "Summer"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Winter",
+    "english": "Winter",
+    "vietnamese": "Mùa đông",
+    "audio": "Winter"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Spring",
+    "english": "Spring",
+    "vietnamese": "Mùa xuân",
+    "audio": "Spring"
+  },
+  {
     "type": "MultipleChoice",
-    "question": "What is 'Sunny' in Vietnamese?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Sunny",
+    "text": "Sunny",
+    "subtext": "",
+    "answer": "Sunny",
+    "answer_vi": "Có nắng",
     "options": [
-      "Trời mưa",
-      "Trời nắng",
-      "Mùa hè",
-      "Mùa đông"
+      "Sunny",
+      "Rainy",
+      "Windy",
+      "Summer"
     ],
-    "correctAnswer": 1
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Sunny",
-        "translation": "Trời nắng"
-      },
-      {
-        "hindi": "Rainy",
-        "translation": "Trời mưa"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Summer",
-        "translation": "Mùa hè",
-        "audio": "Summer"
-      },
-      {
-        "hindi": "Winter",
-        "translation": "Mùa đông",
-        "audio": "Winter"
-      }
+    "options_en": [
+      "Sunny",
+      "Rainy",
+      "Windy",
+      "Summer"
+    ],
+    "options_vi": [
+      "Có nắng",
+      "Có mưa",
+      "Có gió",
+      "Mùa hè"
     ]
   },
   {
     "type": "MultipleChoice",
-    "question": "What is 'Winter' in Vietnamese?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Rainy",
+    "text": "Rainy",
+    "subtext": "",
+    "answer": "Rainy",
+    "answer_vi": "Có mưa",
     "options": [
+      "Rainy",
+      "Sunny",
+      "Windy",
+      "Summer"
+    ],
+    "options_en": [
+      "Rainy",
+      "Sunny",
+      "Windy",
+      "Summer"
+    ],
+    "options_vi": [
+      "Có mưa",
+      "Có nắng",
+      "Có gió",
+      "Mùa hè"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Windy",
+    "text": "Windy",
+    "subtext": "",
+    "answer": "Windy",
+    "answer_vi": "Có gió",
+    "options": [
+      "Windy",
+      "Sunny",
+      "Rainy",
+      "Summer"
+    ],
+    "options_en": [
+      "Windy",
+      "Sunny",
+      "Rainy",
+      "Summer"
+    ],
+    "options_vi": [
+      "Có gió",
+      "Có nắng",
+      "Có mưa",
+      "Mùa hè"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Summer",
+    "text": "Summer",
+    "subtext": "",
+    "answer": "Summer",
+    "answer_vi": "Mùa hè",
+    "options": [
+      "Summer",
+      "Sunny",
+      "Rainy",
+      "Windy"
+    ],
+    "options_en": [
+      "Summer",
+      "Sunny",
+      "Rainy",
+      "Windy"
+    ],
+    "options_vi": [
       "Mùa hè",
+      "Có nắng",
+      "Có mưa",
+      "Có gió"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Winter",
+    "text": "Winter",
+    "subtext": "",
+    "answer": "Winter",
+    "answer_vi": "Mùa đông",
+    "options": [
+      "Winter",
+      "Sunny",
+      "Rainy",
+      "Windy"
+    ],
+    "options_en": [
+      "Winter",
+      "Sunny",
+      "Rainy",
+      "Windy"
+    ],
+    "options_vi": [
       "Mùa đông",
-      "Trời mưa",
-      "Trời nắng"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Summer",
-        "translation": "Mùa hè"
-      },
-      {
-        "hindi": "Winter",
-        "translation": "Mùa đông"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Cloudy",
-        "translation": "Trời nhiều mây",
-        "audio": "Cloudy"
-      },
-      {
-        "hindi": "Spring",
-        "translation": "Mùa xuân",
-        "audio": "Spring"
-      }
+      "Có nắng",
+      "Có mưa",
+      "Có gió"
     ]
   },
   {
     "type": "MultipleChoice",
-    "question": "What is 'Cloudy' in Vietnamese?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Spring",
+    "text": "Spring",
+    "subtext": "",
+    "answer": "Spring",
+    "answer_vi": "Mùa xuân",
     "options": [
+      "Spring",
+      "Sunny",
+      "Rainy",
+      "Windy"
+    ],
+    "options_en": [
+      "Spring",
+      "Sunny",
+      "Rainy",
+      "Windy"
+    ],
+    "options_vi": [
       "Mùa xuân",
-      "Trời nắng",
-      "Trời nhiều mây",
-      "Mùa đông"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Cloudy",
-        "translation": "Trời nhiều mây"
-      },
-      {
-        "hindi": "Spring",
-        "translation": "Mùa xuân"
-      }
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
-    "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
-    "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
-    "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
-    "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
-    "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
-    "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
-    "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
-    "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
-    "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
-    "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Có nắng",
+      "Có mưa",
+      "Có gió"
     ]
   },
   {
@@ -301,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Sunny",
+        "english": "Có nắng"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Rainy",
+        "english": "Có mưa"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Windy",
+        "english": "Có gió"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Summer",
+        "english": "Mùa hè"
       }
     ]
   }

@@ -1,151 +1,81 @@
 [
   {
-    "type": "TeachRule",
-    "title": "To Be",
-    "rule": "Động từ To Be: am, is, are."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "am",
-    "english": "là (đi với I)",
-    "audio": "am"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "is",
-    "english": "là (đi với he, she, it)",
-    "audio": "is"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "are",
-    "english": "là (đi với you, we, they)",
-    "audio": "are"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "am",
-    "options": [
-      "là (đi với I)",
-      "là (đi với he)",
-      "là (đi với you)",
-      "là"
-    ],
-    "answer": "là (đi với I)",
-    "audio": "am"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I am",
-    "english": "Tôi là",
-    "audio": "i_am"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "You are",
-    "english": "Bạn là",
-    "audio": "you_are"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "He is",
-    "options": [
-      "Tôi là",
-      "Cô ấy là",
-      "Anh ấy là",
-      "Họ là"
-    ],
-    "answer": "Anh ấy là",
-    "audio": "he_is"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "She is",
-    "english": "Cô ấy là",
-    "audio": "she_is"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "I am",
-        "english": "Tôi là"
-      },
-      {
-        "hindi": "You are",
-        "english": "Bạn là"
-      },
-      {
-        "hindi": "He is",
-        "english": "Anh ấy là"
-      },
-      {
-        "hindi": "They are",
-        "english": "Họ là"
-      }
+    "type": "Introduction",
+    "title": "To Be: Present",
+    "description": "Master vocabulary and expressions for To Be: Present.",
+    "keyPoints": [
+      "Learn Am and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Am",
+    "english": "Am",
+    "vietnamese": "Thì / Là / Ở (đi với I)",
+    "audio": "Am"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Is",
+    "english": "Is",
+    "vietnamese": "Thì / Là / Ở (đi với số ít)",
+    "audio": "Is"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Are",
+    "english": "Are",
+    "vietnamese": "Thì / Là / Ở (đi với số nhiều)",
+    "audio": "Are"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Happy",
+    "english": "Happy",
+    "vietnamese": "Hạnh phúc / Vui vẻ",
+    "audio": "Happy"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Sad",
+    "english": "Sad",
+    "vietnamese": "Buồn bã",
+    "audio": "Sad"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Tired",
+    "english": "Tired",
+    "vietnamese": "Mệt mỏi",
+    "audio": "Tired"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Am",
+    "text": "Am",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Am",
+    "answer_vi": "Thì / Là / Ở (đi với I)",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Am",
+      "Is",
+      "Are",
+      "Happy"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Am",
+      "Is",
+      "Are",
+      "Happy"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Thì / Là / Ở (đi với I)",
+      "Thì / Là / Ở (đi với số ít)",
+      "Thì / Là / Ở (đi với số nhiều)",
+      "Hạnh phúc / Vui vẻ"
     ]
   },
   {
@@ -153,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Is",
+    "text": "Is",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Is",
+    "answer_vi": "Thì / Là / Ở (đi với số ít)",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Is",
+      "Am",
+      "Are",
+      "Happy"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Is",
+      "Am",
+      "Are",
+      "Happy"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Thì / Là / Ở (đi với số ít)",
+      "Thì / Là / Ở (đi với I)",
+      "Thì / Là / Ở (đi với số nhiều)",
+      "Hạnh phúc / Vui vẻ"
     ]
   },
   {
@@ -181,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Are",
+    "text": "Are",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Are",
+    "answer_vi": "Thì / Là / Ở (đi với số nhiều)",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Are",
+      "Am",
+      "Is",
+      "Happy"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Are",
+      "Am",
+      "Is",
+      "Happy"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Thì / Là / Ở (đi với số nhiều)",
+      "Thì / Là / Ở (đi với I)",
+      "Thì / Là / Ở (đi với số ít)",
+      "Hạnh phúc / Vui vẻ"
     ]
   },
   {
@@ -209,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Happy",
+    "text": "Happy",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Happy",
+    "answer_vi": "Hạnh phúc / Vui vẻ",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Happy",
+      "Am",
+      "Is",
+      "Are"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Happy",
+      "Am",
+      "Is",
+      "Are"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Hạnh phúc / Vui vẻ",
+      "Thì / Là / Ở (đi với I)",
+      "Thì / Là / Ở (đi với số ít)",
+      "Thì / Là / Ở (đi với số nhiều)"
     ]
   },
   {
@@ -237,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Sad",
+    "text": "Sad",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Sad",
+    "answer_vi": "Buồn bã",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Sad",
+      "Am",
+      "Is",
+      "Are"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Sad",
+      "Am",
+      "Is",
+      "Are"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Buồn bã",
+      "Thì / Là / Ở (đi với I)",
+      "Thì / Là / Ở (đi với số ít)",
+      "Thì / Là / Ở (đi với số nhiều)"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Tired",
+    "text": "Tired",
+    "subtext": "",
+    "answer": "Tired",
+    "answer_vi": "Mệt mỏi",
+    "options": [
+      "Tired",
+      "Am",
+      "Is",
+      "Are"
+    ],
+    "options_en": [
+      "Tired",
+      "Am",
+      "Is",
+      "Are"
+    ],
+    "options_vi": [
+      "Mệt mỏi",
+      "Thì / Là / Ở (đi với I)",
+      "Thì / Là / Ở (đi với số ít)",
+      "Thì / Là / Ở (đi với số nhiều)"
     ]
   },
   {
@@ -265,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Am",
+        "english": "Thì / Là / Ở (đi với I)"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Is",
+        "english": "Thì / Là / Ở (đi với số ít)"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Are",
+        "english": "Thì / Là / Ở (đi với số nhiều)"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Happy",
+        "english": "Hạnh phúc / Vui vẻ"
       }
     ]
   }

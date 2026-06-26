@@ -1,151 +1,81 @@
 [
   {
-    "type": "TeachRule",
+    "type": "Introduction",
     "title": "Clothing",
-    "rule": "Trang phục và quần áo."
+    "description": "Master vocabulary and expressions for Clothing.",
+    "keyPoints": [
+      "Learn Shirt and related terms."
+    ]
   },
   {
     "type": "Flashcard",
     "hindi": "Shirt",
-    "english": "Áo sơ mi",
-    "audio": "shirt"
+    "english": "Shirt",
+    "vietnamese": "Áo sơ mi",
+    "audio": "Shirt"
   },
   {
     "type": "Flashcard",
     "hindi": "Pants",
-    "english": "Quần dài",
-    "audio": "pants"
+    "english": "Pants",
+    "vietnamese": "Quần dài",
+    "audio": "Pants"
   },
   {
     "type": "Flashcard",
     "hindi": "Dress",
-    "english": "Váy liền",
-    "audio": "dress"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "Shirt",
-    "options": [
-      "Áo sơ mi",
-      "Quần dài",
-      "Váy liền",
-      "Giày"
-    ],
-    "answer": "Áo sơ mi",
-    "audio": "shirt"
+    "english": "Dress",
+    "vietnamese": "Váy liền",
+    "audio": "Dress"
   },
   {
     "type": "Flashcard",
     "hindi": "Skirt",
-    "english": "Chân váy",
-    "audio": "skirt"
+    "english": "Skirt",
+    "vietnamese": "Chân váy",
+    "audio": "Skirt"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoes",
-    "english": "Giày",
-    "audio": "shoes"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "Pants",
-    "options": [
-      "Quần dài",
-      "Áo sơ mi",
-      "Mũ",
-      "Áo khoác"
-    ],
-    "answer": "Quần dài",
-    "audio": "pants"
+    "english": "Shoes",
+    "vietnamese": "Giày",
+    "audio": "Shoes"
   },
   {
     "type": "Flashcard",
     "hindi": "Hat",
-    "english": "Mũ",
-    "audio": "hat"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Dress",
-        "english": "Váy liền"
-      },
-      {
-        "hindi": "Skirt",
-        "english": "Chân váy"
-      },
-      {
-        "hindi": "Shoes",
-        "english": "Giày"
-      },
-      {
-        "hindi": "Hat",
-        "english": "Mũ"
-      }
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "english": "Hat",
+    "vietnamese": "Cái mũ",
+    "audio": "Hat"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Shirt",
+    "text": "Shirt",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Shirt",
+    "answer_vi": "Áo sơ mi",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Shirt",
+      "Pants",
+      "Dress",
+      "Skirt"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Shirt",
+      "Pants",
+      "Dress",
+      "Skirt"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Áo sơ mi",
+      "Quần dài",
+      "Váy liền",
+      "Chân váy"
     ]
   },
   {
@@ -153,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Pants",
+    "text": "Pants",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Pants",
+    "answer_vi": "Quần dài",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Pants",
+      "Shirt",
+      "Dress",
+      "Skirt"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Pants",
+      "Shirt",
+      "Dress",
+      "Skirt"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Quần dài",
+      "Áo sơ mi",
+      "Váy liền",
+      "Chân váy"
     ]
   },
   {
@@ -181,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Dress",
+    "text": "Dress",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Dress",
+    "answer_vi": "Váy liền",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Dress",
+      "Shirt",
+      "Pants",
+      "Skirt"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Dress",
+      "Shirt",
+      "Pants",
+      "Skirt"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Váy liền",
+      "Áo sơ mi",
+      "Quần dài",
+      "Chân váy"
     ]
   },
   {
@@ -209,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Skirt",
+    "text": "Skirt",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Skirt",
+    "answer_vi": "Chân váy",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Skirt",
+      "Shirt",
+      "Pants",
+      "Dress"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Skirt",
+      "Shirt",
+      "Pants",
+      "Dress"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Chân váy",
+      "Áo sơ mi",
+      "Quần dài",
+      "Váy liền"
     ]
   },
   {
@@ -237,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Shoes",
+    "text": "Shoes",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Shoes",
+    "answer_vi": "Giày",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Shoes",
+      "Shirt",
+      "Pants",
+      "Dress"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Shoes",
+      "Shirt",
+      "Pants",
+      "Dress"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Giày",
+      "Áo sơ mi",
+      "Quần dài",
+      "Váy liền"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Hat",
+    "text": "Hat",
+    "subtext": "",
+    "answer": "Hat",
+    "answer_vi": "Cái mũ",
+    "options": [
+      "Hat",
+      "Shirt",
+      "Pants",
+      "Dress"
+    ],
+    "options_en": [
+      "Hat",
+      "Shirt",
+      "Pants",
+      "Dress"
+    ],
+    "options_vi": [
+      "Cái mũ",
+      "Áo sơ mi",
+      "Quần dài",
+      "Váy liền"
     ]
   },
   {
@@ -265,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Shirt",
+        "english": "Áo sơ mi"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Pants",
+        "english": "Quần dài"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Dress",
+        "english": "Váy liền"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Skirt",
+        "english": "Chân váy"
       }
     ]
   }

@@ -1,75 +1,239 @@
 [
   {
-    "type": "TeachRule",
+    "type": "Introduction",
     "title": "Body Parts",
-    "rule": "Các bộ phận trên cơ thể."
+    "description": "Master vocabulary and expressions for Body Parts.",
+    "keyPoints": [
+      "Learn Head and related terms."
+    ]
   },
   {
     "type": "Flashcard",
     "hindi": "Head",
-    "english": "Đầu",
-    "audio": "head"
+    "english": "Head",
+    "vietnamese": "Đầu",
+    "audio": "Head"
   },
   {
     "type": "Flashcard",
     "hindi": "Eye",
-    "english": "Mắt",
-    "audio": "eye"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Ear",
-    "english": "Tai",
-    "audio": "ear"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "Head",
-    "options": [
-      "Mũi",
-      "Đầu",
-      "Tai",
-      "Miệng"
-    ],
-    "answer": "Đầu",
-    "audio": "head"
+    "english": "Eye",
+    "vietnamese": "Mắt",
+    "audio": "Eye"
   },
   {
     "type": "Flashcard",
     "hindi": "Nose",
-    "english": "Mũi",
-    "audio": "nose"
+    "english": "Nose",
+    "vietnamese": "Mũi",
+    "audio": "Nose"
   },
   {
     "type": "Flashcard",
     "hindi": "Mouth",
-    "english": "Miệng",
-    "audio": "mouth"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "Eye",
-    "options": [
-      "Mắt",
-      "Tay",
-      "Chân",
-      "Tai"
-    ],
-    "answer": "Mắt",
-    "audio": "eye"
+    "english": "Mouth",
+    "vietnamese": "Miệng",
+    "audio": "Mouth"
   },
   {
     "type": "Flashcard",
     "hindi": "Hand",
-    "english": "Tay",
-    "audio": "hand"
+    "english": "Hand",
+    "vietnamese": "Bàn tay",
+    "audio": "Hand"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Foot",
+    "english": "Foot",
+    "vietnamese": "Bàn chân",
+    "audio": "Foot"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Head",
+    "text": "Head",
+    "subtext": "",
+    "answer": "Head",
+    "answer_vi": "Đầu",
+    "options": [
+      "Head",
+      "Eye",
+      "Nose",
+      "Mouth"
+    ],
+    "options_en": [
+      "Head",
+      "Eye",
+      "Nose",
+      "Mouth"
+    ],
+    "options_vi": [
+      "Đầu",
+      "Mắt",
+      "Mũi",
+      "Miệng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Eye",
+    "text": "Eye",
+    "subtext": "",
+    "answer": "Eye",
+    "answer_vi": "Mắt",
+    "options": [
+      "Eye",
+      "Head",
+      "Nose",
+      "Mouth"
+    ],
+    "options_en": [
+      "Eye",
+      "Head",
+      "Nose",
+      "Mouth"
+    ],
+    "options_vi": [
+      "Mắt",
+      "Đầu",
+      "Mũi",
+      "Miệng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Nose",
+    "text": "Nose",
+    "subtext": "",
+    "answer": "Nose",
+    "answer_vi": "Mũi",
+    "options": [
+      "Nose",
+      "Head",
+      "Eye",
+      "Mouth"
+    ],
+    "options_en": [
+      "Nose",
+      "Head",
+      "Eye",
+      "Mouth"
+    ],
+    "options_vi": [
+      "Mũi",
+      "Đầu",
+      "Mắt",
+      "Miệng"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Mouth",
+    "text": "Mouth",
+    "subtext": "",
+    "answer": "Mouth",
+    "answer_vi": "Miệng",
+    "options": [
+      "Mouth",
+      "Head",
+      "Eye",
+      "Nose"
+    ],
+    "options_en": [
+      "Mouth",
+      "Head",
+      "Eye",
+      "Nose"
+    ],
+    "options_vi": [
+      "Miệng",
+      "Đầu",
+      "Mắt",
+      "Mũi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Hand",
+    "text": "Hand",
+    "subtext": "",
+    "answer": "Hand",
+    "answer_vi": "Bàn tay",
+    "options": [
+      "Hand",
+      "Head",
+      "Eye",
+      "Nose"
+    ],
+    "options_en": [
+      "Hand",
+      "Head",
+      "Eye",
+      "Nose"
+    ],
+    "options_vi": [
+      "Bàn tay",
+      "Đầu",
+      "Mắt",
+      "Mũi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Foot",
+    "text": "Foot",
+    "subtext": "",
+    "answer": "Foot",
+    "answer_vi": "Bàn chân",
+    "options": [
+      "Foot",
+      "Head",
+      "Eye",
+      "Nose"
+    ],
+    "options_en": [
+      "Foot",
+      "Head",
+      "Eye",
+      "Nose"
+    ],
+    "options_vi": [
+      "Bàn chân",
+      "Đầu",
+      "Mắt",
+      "Mũi"
+    ]
   },
   {
     "type": "MatchPairs",
+    "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Ear",
-        "english": "Tai"
+        "hindi": "Head",
+        "english": "Đầu"
+      },
+      {
+        "hindi": "Eye",
+        "english": "Mắt"
       },
       {
         "hindi": "Nose",
@@ -78,207 +242,6 @@
       {
         "hindi": "Mouth",
         "english": "Miệng"
-      },
-      {
-        "hindi": "Hand",
-        "english": "Tay"
-      }
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
-    "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
-    "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
-    "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
-    "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
-    "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
-    "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
-    "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
-    "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
-    "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
-    "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match the English words with their Vietnamese meanings",
-    "pairs": [
-      {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
-      },
-      {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
-      },
-      {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
-      },
-      {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
       }
     ]
   }

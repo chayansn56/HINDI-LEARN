@@ -43,10 +43,18 @@
     "audio": "Former days"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Accustomed to",
+    "english": "Accustomed to",
+    "vietnamese": "Quen với việc gì",
+    "audio": "Accustomed to"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "We would go to the beach",
     "text": "We would go to the beach",
     "subtext": "",
     "answer": "We would go to the beach",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "I used to read daily",
     "text": "I used to read daily",
     "subtext": "",
     "answer": "I used to read daily",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Habitual routine",
     "text": "Habitual routine",
     "subtext": "",
     "answer": "Habitual routine",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Past practice",
     "text": "Past practice",
     "subtext": "",
     "answer": "Past practice",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Former days",
     "text": "Former days",
     "subtext": "",
     "answer": "Former days",
@@ -181,6 +193,48 @@
       "Tôi đã từng đọc sách mỗi ngày",
       "Thói quen thường nhật"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Accustomed to",
+    "text": "Accustomed to",
+    "subtext": "",
+    "answer": "Accustomed to",
+    "answer_vi": "Quen với việc gì",
+    "options": [
+      "Accustomed to",
+      "We would go to the beach",
+      "I used to read daily",
+      "Habitual routine"
+    ],
+    "options_en": [
+      "Accustomed to",
+      "We would go to the beach",
+      "I used to read daily",
+      "Habitual routine"
+    ],
+    "options_vi": [
+      "Quen với việc gì",
+      "Chúng tôi đã thường ra bãi biển",
+      "Tôi đã từng đọc sách mỗi ngày",
+      "Thói quen thường nhật"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Chúng tôi thường ra bãi biển.",
+    "hindiWords": [
+      "We",
+      "would",
+      "go",
+      "to",
+      "the",
+      "beach"
+    ],
+    "correctHindiSentence": "We would go to the beach"
   },
   {
     "type": "MatchPairs",

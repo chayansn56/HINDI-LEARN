@@ -1,151 +1,81 @@
 [
   {
-    "type": "TeachRule",
-    "title": "Numbers",
-    "rule": "Học số đếm cơ bản trong tiếng Anh."
+    "type": "Introduction",
+    "title": "Numbers 1-100",
+    "description": "Master vocabulary and expressions for Numbers 1-100.",
+    "keyPoints": [
+      "Learn One and related terms."
+    ]
   },
   {
     "type": "Flashcard",
     "hindi": "One",
-    "english": "Một",
-    "audio": "one"
+    "english": "One",
+    "vietnamese": "Số một",
+    "audio": "One"
   },
   {
     "type": "Flashcard",
-    "hindi": "Two",
-    "english": "Hai",
-    "audio": "two"
+    "hindi": "Ten",
+    "english": "Ten",
+    "vietnamese": "Số mười",
+    "audio": "Ten"
   },
   {
     "type": "Flashcard",
-    "hindi": "Three",
-    "english": "Ba",
-    "audio": "three"
+    "hindi": "Fifty",
+    "english": "Fifty",
+    "vietnamese": "Số năm mươi",
+    "audio": "Fifty"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hundred",
+    "english": "Hundred",
+    "vietnamese": "Một trăm",
+    "audio": "Hundred"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "First",
+    "english": "First",
+    "vietnamese": "Đầu tiên / Thứ nhất",
+    "audio": "First"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Second",
+    "english": "Second",
+    "vietnamese": "Thứ hai / Giây",
+    "audio": "Second"
   },
   {
     "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
     "hindi": "One",
+    "text": "One",
+    "subtext": "",
+    "answer": "One",
+    "answer_vi": "Số một",
     "options": [
-      "Một",
-      "Hai",
-      "Ba",
-      "Bốn"
+      "One",
+      "Ten",
+      "Fifty",
+      "Hundred"
     ],
-    "answer": "Một",
-    "audio": "one"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Ten",
-    "english": "Mười",
-    "audio": "ten"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Twenty",
-    "english": "Hai mươi",
-    "audio": "twenty"
-  },
-  {
-    "type": "MultipleChoice",
-    "hindi": "Ten",
-    "options": [
-      "Năm",
-      "Mười",
-      "Hai mươi",
+    "options_en": [
+      "One",
+      "Ten",
+      "Fifty",
+      "Hundred"
+    ],
+    "options_vi": [
+      "Số một",
+      "Số mười",
+      "Số năm mươi",
       "Một trăm"
-    ],
-    "answer": "Mười",
-    "audio": "ten"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "One hundred",
-    "english": "Một trăm",
-    "audio": "one_hundred"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Two",
-        "english": "Hai"
-      },
-      {
-        "hindi": "Three",
-        "english": "Ba"
-      },
-      {
-        "hindi": "Twenty",
-        "english": "Hai mươi"
-      },
-      {
-        "hindi": "One hundred",
-        "english": "Một trăm"
-      }
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
-    "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
-    "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
     ]
   },
   {
@@ -153,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Ten",
+    "text": "Ten",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Ten",
+    "answer_vi": "Số mười",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Ten",
+      "One",
+      "Fifty",
+      "Hundred"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Ten",
+      "One",
+      "Fifty",
+      "Hundred"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Số mười",
+      "Số một",
+      "Số năm mươi",
+      "Một trăm"
     ]
   },
   {
@@ -181,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Fifty",
+    "text": "Fifty",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Fifty",
+    "answer_vi": "Số năm mươi",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Fifty",
+      "One",
+      "Ten",
+      "Hundred"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Fifty",
+      "One",
+      "Ten",
+      "Hundred"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Số năm mươi",
+      "Số một",
+      "Số mười",
+      "Một trăm"
     ]
   },
   {
@@ -209,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Hundred",
+    "text": "Hundred",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Hundred",
+    "answer_vi": "Một trăm",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Hundred",
+      "One",
+      "Ten",
+      "Fifty"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Hundred",
+      "One",
+      "Ten",
+      "Fifty"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Một trăm",
+      "Số một",
+      "Số mười",
+      "Số năm mươi"
     ]
   },
   {
@@ -237,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "First",
+    "text": "First",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "First",
+    "answer_vi": "Đầu tiên / Thứ nhất",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "First",
+      "One",
+      "Ten",
+      "Fifty"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "First",
+      "One",
+      "Ten",
+      "Fifty"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Đầu tiên / Thứ nhất",
+      "Số một",
+      "Số mười",
+      "Số năm mươi"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Second",
+    "text": "Second",
+    "subtext": "",
+    "answer": "Second",
+    "answer_vi": "Thứ hai / Giây",
+    "options": [
+      "Second",
+      "One",
+      "Ten",
+      "Fifty"
+    ],
+    "options_en": [
+      "Second",
+      "One",
+      "Ten",
+      "Fifty"
+    ],
+    "options_vi": [
+      "Thứ hai / Giây",
+      "Số một",
+      "Số mười",
+      "Số năm mươi"
     ]
   },
   {
@@ -265,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "One",
+        "english": "Số một"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Ten",
+        "english": "Số mười"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Fifty",
+        "english": "Số năm mươi"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Hundred",
+        "english": "Một trăm"
       }
     ]
   }

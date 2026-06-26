@@ -1,149 +1,81 @@
 [
   {
-    "id": "n1",
-    "type": "TeachRule",
-    "content": "Modal verbs add meaning like ability, obligation, or advice. 'can' = có thể, 'must' = phải, 'should' = nên."
-  },
-  {
-    "id": "n2",
-    "type": "Flashcard",
-    "hindi": "I can swim",
-    "english": "Tôi có thể bơi",
-    "audio": "I can swim"
-  },
-  {
-    "id": "n3",
-    "type": "Flashcard",
-    "hindi": "You should go",
-    "english": "Bạn nên đi",
-    "audio": "You should go"
-  },
-  {
-    "id": "n4",
-    "type": "Flashcard",
-    "hindi": "We must study",
-    "english": "Chúng ta phải học",
-    "audio": "We must study"
-  },
-  {
-    "id": "n5",
-    "type": "MultipleChoice",
-    "hindi": "She can help",
-    "english": "Cô ấy có thể giúp",
-    "options": [
-      "Cô ấy có thể giúp",
-      "Cô ấy phải giúp",
-      "Cô ấy nên giúp"
-    ],
-    "audio": "She can help"
-  },
-  {
-    "id": "n6",
-    "type": "MultipleChoice",
-    "hindi": "He should sleep",
-    "english": "Anh ấy nên ngủ",
-    "options": [
-      "Anh ấy nên ngủ",
-      "Anh ấy có thể ngủ",
-      "Anh ấy phải ngủ"
-    ],
-    "audio": "He should sleep"
-  },
-  {
-    "id": "n7",
-    "type": "MatchPairs",
-    "pairs": {
-      "I can swim": "Tôi có thể bơi",
-      "You should go": "Bạn nên đi",
-      "We must study": "Chúng ta phải học",
-      "They can win": "Họ có thể thắng"
-    }
-  },
-  {
-    "id": "n8",
-    "type": "TeachRule",
-    "content": "'Could' is used for past ability or polite requests. Example: Could you help me? (Bạn có thể giúp tôi không?)"
-  },
-  {
-    "id": "n9",
-    "type": "Flashcard",
-    "hindi": "Could you help me?",
-    "english": "Bạn có thể giúp tôi không?",
-    "audio": "Could you help me?"
-  },
-  {
-    "id": "n10",
-    "type": "MultipleChoice",
-    "hindi": "I could swim",
-    "english": "Tôi đã có thể bơi",
-    "options": [
-      "Tôi đã có thể bơi",
-      "Tôi có thể bơi",
-      "Tôi sẽ bơi"
-    ],
-    "audio": "I could swim"
+    "type": "Introduction",
+    "title": "Modal Verbs",
+    "description": "Master vocabulary and expressions for Modal Verbs.",
+    "keyPoints": [
+      "Learn Can and related terms."
+    ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Can",
+    "english": "Can",
+    "vietnamese": "Có thể",
+    "audio": "Can"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Should",
+    "english": "Should",
+    "vietnamese": "Nên",
+    "audio": "Should"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Must",
+    "english": "Must",
+    "vietnamese": "Phải / Bắt buộc",
+    "audio": "Must"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "May",
+    "english": "May",
+    "vietnamese": "Có thể / Xin phép",
+    "audio": "May"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Could",
+    "english": "Could",
+    "vietnamese": "Đã có thể / Có thể (lịch sự)",
+    "audio": "Could"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Would",
+    "english": "Would",
+    "vietnamese": "Sẽ / Muốn",
+    "audio": "Would"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Can",
+    "text": "Can",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Can",
+    "answer_vi": "Có thể",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Can",
+      "Should",
+      "Must",
+      "May"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Can",
+      "Should",
+      "Must",
+      "May"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Có thể",
+      "Nên",
+      "Phải / Bắt buộc",
+      "Có thể / Xin phép"
     ]
   },
   {
@@ -151,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Should",
+    "text": "Should",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Should",
+    "answer_vi": "Nên",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Should",
+      "Can",
+      "Must",
+      "May"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Should",
+      "Can",
+      "Must",
+      "May"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Nên",
+      "Có thể",
+      "Phải / Bắt buộc",
+      "Có thể / Xin phép"
     ]
   },
   {
@@ -179,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Must",
+    "text": "Must",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Must",
+    "answer_vi": "Phải / Bắt buộc",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Must",
+      "Can",
+      "Should",
+      "May"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Must",
+      "Can",
+      "Should",
+      "May"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Phải / Bắt buộc",
+      "Có thể",
+      "Nên",
+      "Có thể / Xin phép"
     ]
   },
   {
@@ -207,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "May",
+    "text": "May",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "May",
+    "answer_vi": "Có thể / Xin phép",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "May",
+      "Can",
+      "Should",
+      "Must"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "May",
+      "Can",
+      "Should",
+      "Must"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Có thể / Xin phép",
+      "Có thể",
+      "Nên",
+      "Phải / Bắt buộc"
     ]
   },
   {
@@ -235,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Could",
+    "text": "Could",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Could",
+    "answer_vi": "Đã có thể / Có thể (lịch sự)",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Could",
+      "Can",
+      "Should",
+      "Must"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Could",
+      "Can",
+      "Should",
+      "Must"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Đã có thể / Có thể (lịch sự)",
+      "Có thể",
+      "Nên",
+      "Phải / Bắt buộc"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Would",
+    "text": "Would",
+    "subtext": "",
+    "answer": "Would",
+    "answer_vi": "Sẽ / Muốn",
+    "options": [
+      "Would",
+      "Can",
+      "Should",
+      "Must"
+    ],
+    "options_en": [
+      "Would",
+      "Can",
+      "Should",
+      "Must"
+    ],
+    "options_vi": [
+      "Sẽ / Muốn",
+      "Có thể",
+      "Nên",
+      "Phải / Bắt buộc"
     ]
   },
   {
@@ -263,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Can",
+        "english": "Có thể"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Should",
+        "english": "Nên"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Must",
+        "english": "Phải / Bắt buộc"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "May",
+        "english": "Có thể / Xin phép"
       }
     ]
   }

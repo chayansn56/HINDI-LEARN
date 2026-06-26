@@ -1,187 +1,168 @@
 [
   {
-    "type": "TeachRules",
+    "type": "Introduction",
     "title": "Adjectives: Opposites",
-    "explanation": "Learn opposite adjectives."
+    "description": "Master vocabulary and expressions for Adjectives: Opposites.",
+    "keyPoints": [
+      "Learn Big and related terms."
+    ]
   },
   {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Big",
-        "translation": "Lớn",
-        "audio": "Big"
-      },
-      {
-        "hindi": "Small",
-        "translation": "Nhỏ",
-        "audio": "Small"
-      }
+    "type": "Flashcard",
+    "hindi": "Big",
+    "english": "Big",
+    "vietnamese": "To / Lớn",
+    "audio": "Big"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Small",
+    "english": "Small",
+    "vietnamese": "Nhỏ / Bé",
+    "audio": "Small"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hot",
+    "english": "Hot",
+    "vietnamese": "Nóng",
+    "audio": "Hot"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cold",
+    "english": "Cold",
+    "vietnamese": "Lạnh",
+    "audio": "Cold"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "New",
+    "english": "New",
+    "vietnamese": "Mới",
+    "audio": "New"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Old",
+    "english": "Old",
+    "vietnamese": "Cũ / Già",
+    "audio": "Old"
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Big",
+    "text": "Big",
+    "subtext": "",
+    "answer": "Big",
+    "answer_vi": "To / Lớn",
+    "options": [
+      "Big",
+      "Small",
+      "Hot",
+      "Cold"
+    ],
+    "options_en": [
+      "Big",
+      "Small",
+      "Hot",
+      "Cold"
+    ],
+    "options_vi": [
+      "To / Lớn",
+      "Nhỏ / Bé",
+      "Nóng",
+      "Lạnh"
     ]
   },
   {
     "type": "MultipleChoice",
-    "question": "What is 'Small' in Vietnamese?",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Small",
+    "text": "Small",
+    "subtext": "",
+    "answer": "Small",
+    "answer_vi": "Nhỏ / Bé",
     "options": [
-      "Lớn",
+      "Small",
+      "Big",
+      "Hot",
+      "Cold"
+    ],
+    "options_en": [
+      "Small",
+      "Big",
+      "Hot",
+      "Cold"
+    ],
+    "options_vi": [
+      "Nhỏ / Bé",
+      "To / Lớn",
       "Nóng",
+      "Lạnh"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Hot",
+    "text": "Hot",
+    "subtext": "",
+    "answer": "Hot",
+    "answer_vi": "Nóng",
+    "options": [
+      "Hot",
+      "Big",
+      "Small",
+      "Cold"
+    ],
+    "options_en": [
+      "Hot",
+      "Big",
+      "Small",
+      "Cold"
+    ],
+    "options_vi": [
+      "Nóng",
+      "To / Lớn",
+      "Nhỏ / Bé",
+      "Lạnh"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Cold",
+    "text": "Cold",
+    "subtext": "",
+    "answer": "Cold",
+    "answer_vi": "Lạnh",
+    "options": [
+      "Cold",
+      "Big",
+      "Small",
+      "Hot"
+    ],
+    "options_en": [
+      "Cold",
+      "Big",
+      "Small",
+      "Hot"
+    ],
+    "options_vi": [
       "Lạnh",
-      "Nhỏ"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Big",
-        "translation": "Lớn"
-      },
-      {
-        "hindi": "Small",
-        "translation": "Nhỏ"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Hot",
-        "translation": "Nóng",
-        "audio": "Hot"
-      },
-      {
-        "hindi": "Cold",
-        "translation": "Lạnh",
-        "audio": "Cold"
-      }
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "What is 'Hot' in Vietnamese?",
-    "options": [
-      "Lớn",
-      "Nhỏ",
-      "Nóng",
-      "Lạnh"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Hot",
-        "translation": "Nóng"
-      },
-      {
-        "hindi": "Cold",
-        "translation": "Lạnh"
-      }
-    ]
-  },
-  {
-    "type": "Flashcards",
-    "items": [
-      {
-        "hindi": "Fast",
-        "translation": "Nhanh",
-        "audio": "Fast"
-      },
-      {
-        "hindi": "Slow",
-        "translation": "Chậm",
-        "audio": "Slow"
-      }
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "What is 'Slow' in Vietnamese?",
-    "options": [
-      "Nhanh",
-      "Chậm",
-      "Nóng",
-      "Lạnh"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Fast",
-        "translation": "Nhanh"
-      },
-      {
-        "hindi": "Slow",
-        "translation": "Chậm"
-      }
-    ]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
-    "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
-    "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
-    ],
-    "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "To / Lớn",
+      "Nhỏ / Bé",
+      "Nóng"
     ]
   },
   {
@@ -189,27 +170,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "New",
+    "text": "New",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "New",
+    "answer_vi": "Mới",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "New",
+      "Big",
+      "Small",
+      "Hot"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "New",
+      "Big",
+      "Small",
+      "Hot"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Mới",
+      "To / Lớn",
+      "Nhỏ / Bé",
+      "Nóng"
     ]
   },
   {
@@ -217,83 +199,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Old",
+    "text": "Old",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Old",
+    "answer_vi": "Cũ / Già",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Old",
+      "Big",
+      "Small",
+      "Hot"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Old",
+      "Big",
+      "Small",
+      "Hot"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
-    "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
-    "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
-    ]
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Choose the correct translation:",
-    "prompt_en": "Choose the correct translation:",
-    "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
-    "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
-    "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
-    ],
-    "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Cũ / Già",
+      "To / Lớn",
+      "Nhỏ / Bé",
+      "Nóng"
     ]
   },
   {
@@ -301,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Big",
+        "english": "To / Lớn"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Small",
+        "english": "Nhỏ / Bé"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Hot",
+        "english": "Nóng"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Cold",
+        "english": "Lạnh"
       }
     ]
   }

@@ -43,10 +43,18 @@
     "audio": "Success"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Milestone",
+    "english": "Milestone",
+    "vietnamese": "Cột mốc quan trọng",
+    "audio": "Milestone"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Congratulations",
     "text": "Congratulations",
     "subtext": "",
     "answer": "Congratulations",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Fluency progress",
     "text": "Fluency progress",
     "subtext": "",
     "answer": "Fluency progress",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Completed level",
     "text": "Completed level",
     "subtext": "",
     "answer": "Completed level",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Vocabulary review",
     "text": "Vocabulary review",
     "subtext": "",
     "answer": "Vocabulary review",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Success",
     "text": "Success",
     "subtext": "",
     "answer": "Success",
@@ -181,6 +193,46 @@
       "Tiến trình trôi chảy",
       "Đã hoàn thành cấp độ"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Milestone",
+    "text": "Milestone",
+    "subtext": "",
+    "answer": "Milestone",
+    "answer_vi": "Cột mốc quan trọng",
+    "options": [
+      "Milestone",
+      "Congratulations",
+      "Fluency progress",
+      "Completed level"
+    ],
+    "options_en": [
+      "Milestone",
+      "Congratulations",
+      "Fluency progress",
+      "Completed level"
+    ],
+    "options_vi": [
+      "Cột mốc quan trọng",
+      "Xin chúc mừng",
+      "Tiến trình trôi chảy",
+      "Đã hoàn thành cấp độ"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Chúc mừng thành công của bạn.",
+    "hindiWords": [
+      "Congratulations",
+      "on",
+      "your",
+      "success"
+    ],
+    "correctHindiSentence": "Congratulations on your success"
   },
   {
     "type": "MatchPairs",

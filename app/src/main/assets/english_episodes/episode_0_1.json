@@ -1,151 +1,81 @@
 [
   {
-    "type": "TeachRule",
-    "title": "Bảng chữ cái tiếng Anh",
-    "content": "Bảng chữ cái tiếng Anh có 26 chữ cái. Cách viết giống tiếng Việt nhưng cách đọc hoàn toàn khác."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "A",
-    "english": "A",
-    "vietnamese": "Chữ A (đọc là /eɪ/)",
-    "audio": "A"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "B",
-    "english": "B",
-    "vietnamese": "Chữ B (đọc là /biː/)",
-    "audio": "B"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "C",
-    "english": "C",
-    "vietnamese": "Chữ C (đọc là /siː/)",
-    "audio": "C"
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "Chữ cái nào sau đây đọc là /biː/?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "B"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Apple",
-    "english": "Apple",
-    "vietnamese": "Quả táo (bắt đầu bằng A)",
-    "audio": "Apple"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Boy",
-    "english": "Boy",
-    "vietnamese": "Cậu bé (bắt đầu bằng B)",
-    "audio": "Boy"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "Cat",
-    "english": "Cat",
-    "vietnamese": "Con mèo (bắt đầu bằng C)",
-    "audio": "Cat"
-  },
-  {
-    "type": "MultipleChoice",
-    "question": "Từ nào có nghĩa là 'Quả táo'?",
-    "options": [
-      "Boy",
-      "Apple",
-      "Cat",
-      "Dog"
-    ],
-    "answer": "Apple"
-  },
-  {
-    "type": "MatchPairs",
-    "pairs": [
-      {
-        "hindi": "Apple",
-        "vietnamese": "Quả táo"
-      },
-      {
-        "hindi": "Boy",
-        "vietnamese": "Cậu bé"
-      },
-      {
-        "hindi": "Cat",
-        "vietnamese": "Con mèo"
-      }
+    "type": "Introduction",
+    "title": "The English Alphabet",
+    "description": "Master vocabulary and expressions for The English Alphabet.",
+    "keyPoints": [
+      "Learn Alphabet and related terms."
     ]
   },
   {
     "type": "Flashcard",
-    "hindi": "Excuse me",
-    "english": "Excuse me",
-    "vietnamese": "Xin lỗi cho tôi hỏi",
-    "audio": "Excuse me"
+    "hindi": "Alphabet",
+    "english": "Alphabet",
+    "vietnamese": "Bảng chữ cái",
+    "audio": "Alphabet"
   },
   {
     "type": "Flashcard",
-    "hindi": "Where is the restroom?",
-    "english": "Where is the restroom?",
-    "vietnamese": "Nhà vệ sinh ở đâu?",
-    "audio": "Where is the restroom?"
+    "hindi": "Letter",
+    "english": "Letter",
+    "vietnamese": "Chữ cái",
+    "audio": "Letter"
   },
   {
     "type": "Flashcard",
-    "hindi": "How much does it cost?",
-    "english": "How much does it cost?",
-    "vietnamese": "Cái này giá bao nhiêu?",
-    "audio": "How much does it cost?"
+    "hindi": "Word",
+    "english": "Word",
+    "vietnamese": "Từ",
+    "audio": "Word"
   },
   {
     "type": "Flashcard",
-    "hindi": "Can you help me?",
-    "english": "Can you help me?",
-    "vietnamese": "Bạn có thể giúp tôi không?",
-    "audio": "Can you help me?"
+    "hindi": "Name",
+    "english": "Name",
+    "vietnamese": "Tên",
+    "audio": "Name"
   },
   {
     "type": "Flashcard",
-    "hindi": "I don't understand",
-    "english": "I don't understand",
-    "vietnamese": "Tôi không hiểu",
-    "audio": "I don't understand"
+    "hindi": "Spell",
+    "english": "Spell",
+    "vietnamese": "Đánh vần",
+    "audio": "Spell"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Write",
+    "english": "Write",
+    "vietnamese": "Viết",
+    "audio": "Write"
   },
   {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Excuse me",
+    "hindi": "Alphabet",
+    "text": "Alphabet",
     "subtext": "",
-    "answer": "Excuse me",
-    "answer_vi": "Xin lỗi cho tôi hỏi",
+    "answer": "Alphabet",
+    "answer_vi": "Bảng chữ cái",
     "options": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Alphabet",
+      "Letter",
+      "Word",
+      "Name"
     ],
     "options_en": [
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?",
-      "Can you help me?"
+      "Alphabet",
+      "Letter",
+      "Word",
+      "Name"
     ],
     "options_vi": [
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Bảng chữ cái",
+      "Chữ cái",
+      "Từ",
+      "Tên"
     ]
   },
   {
@@ -153,27 +83,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Where is the restroom?",
+    "hindi": "Letter",
+    "text": "Letter",
     "subtext": "",
-    "answer": "Where is the restroom?",
-    "answer_vi": "Nhà vệ sinh ở đâu?",
+    "answer": "Letter",
+    "answer_vi": "Chữ cái",
     "options": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Letter",
+      "Alphabet",
+      "Word",
+      "Name"
     ],
     "options_en": [
-      "Where is the restroom?",
-      "Excuse me",
-      "How much does it cost?",
-      "Can you help me?"
+      "Letter",
+      "Alphabet",
+      "Word",
+      "Name"
     ],
     "options_vi": [
-      "Nhà vệ sinh ở đâu?",
-      "Xin lỗi cho tôi hỏi",
-      "Cái này giá bao nhiêu?",
-      "Bạn có thể giúp tôi không?"
+      "Chữ cái",
+      "Bảng chữ cái",
+      "Từ",
+      "Tên"
     ]
   },
   {
@@ -181,27 +112,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "How much does it cost?",
+    "hindi": "Word",
+    "text": "Word",
     "subtext": "",
-    "answer": "How much does it cost?",
-    "answer_vi": "Cái này giá bao nhiêu?",
+    "answer": "Word",
+    "answer_vi": "Từ",
     "options": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Word",
+      "Alphabet",
+      "Letter",
+      "Name"
     ],
     "options_en": [
-      "How much does it cost?",
-      "Excuse me",
-      "Where is the restroom?",
-      "Can you help me?"
+      "Word",
+      "Alphabet",
+      "Letter",
+      "Name"
     ],
     "options_vi": [
-      "Cái này giá bao nhiêu?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Bạn có thể giúp tôi không?"
+      "Từ",
+      "Bảng chữ cái",
+      "Chữ cái",
+      "Tên"
     ]
   },
   {
@@ -209,27 +141,28 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "Can you help me?",
+    "hindi": "Name",
+    "text": "Name",
     "subtext": "",
-    "answer": "Can you help me?",
-    "answer_vi": "Bạn có thể giúp tôi không?",
+    "answer": "Name",
+    "answer_vi": "Tên",
     "options": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Name",
+      "Alphabet",
+      "Letter",
+      "Word"
     ],
     "options_en": [
-      "Can you help me?",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Name",
+      "Alphabet",
+      "Letter",
+      "Word"
     ],
     "options_vi": [
-      "Bạn có thể giúp tôi không?",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Tên",
+      "Bảng chữ cái",
+      "Chữ cái",
+      "Từ"
     ]
   },
   {
@@ -237,27 +170,57 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "text": "I don't understand",
+    "hindi": "Spell",
+    "text": "Spell",
     "subtext": "",
-    "answer": "I don't understand",
-    "answer_vi": "Tôi không hiểu",
+    "answer": "Spell",
+    "answer_vi": "Đánh vần",
     "options": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Spell",
+      "Alphabet",
+      "Letter",
+      "Word"
     ],
     "options_en": [
-      "I don't understand",
-      "Excuse me",
-      "Where is the restroom?",
-      "How much does it cost?"
+      "Spell",
+      "Alphabet",
+      "Letter",
+      "Word"
     ],
     "options_vi": [
-      "Tôi không hiểu",
-      "Xin lỗi cho tôi hỏi",
-      "Nhà vệ sinh ở đâu?",
-      "Cái này giá bao nhiêu?"
+      "Đánh vần",
+      "Bảng chữ cái",
+      "Chữ cái",
+      "Từ"
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Write",
+    "text": "Write",
+    "subtext": "",
+    "answer": "Write",
+    "answer_vi": "Viết",
+    "options": [
+      "Write",
+      "Alphabet",
+      "Letter",
+      "Word"
+    ],
+    "options_en": [
+      "Write",
+      "Alphabet",
+      "Letter",
+      "Word"
+    ],
+    "options_vi": [
+      "Viết",
+      "Bảng chữ cái",
+      "Chữ cái",
+      "Từ"
     ]
   },
   {
@@ -265,20 +228,20 @@
     "instruction": "Match the English words with their Vietnamese meanings",
     "pairs": [
       {
-        "hindi": "Excuse me",
-        "english": "Xin lỗi cho tôi hỏi"
+        "hindi": "Alphabet",
+        "english": "Bảng chữ cái"
       },
       {
-        "hindi": "Where is the restroom?",
-        "english": "Nhà vệ sinh ở đâu?"
+        "hindi": "Letter",
+        "english": "Chữ cái"
       },
       {
-        "hindi": "How much does it cost?",
-        "english": "Cái này giá bao nhiêu?"
+        "hindi": "Word",
+        "english": "Từ"
       },
       {
-        "hindi": "Can you help me?",
-        "english": "Bạn có thể giúp tôi không?"
+        "hindi": "Name",
+        "english": "Tên"
       }
     ]
   }

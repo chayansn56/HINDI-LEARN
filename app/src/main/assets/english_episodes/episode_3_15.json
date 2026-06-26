@@ -43,10 +43,18 @@
     "audio": "Knowledge acquired"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Milestone achieved",
+    "english": "Milestone achieved",
+    "vietnamese": "Đạt được cột mốc quan trọng",
+    "audio": "Milestone achieved"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Graduation certificate",
     "text": "Graduation certificate",
     "subtext": "",
     "answer": "Graduation certificate",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Academic success",
     "text": "Academic success",
     "subtext": "",
     "answer": "Academic success",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Fluent communication",
     "text": "Fluent communication",
     "subtext": "",
     "answer": "Fluent communication",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Best of luck",
     "text": "Best of luck",
     "subtext": "",
     "answer": "Best of luck",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Knowledge acquired",
     "text": "Knowledge acquired",
     "subtext": "",
     "answer": "Knowledge acquired",
@@ -181,6 +193,47 @@
       "Thành công học tập",
       "Giao tiếp trôi chảy"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Milestone achieved",
+    "text": "Milestone achieved",
+    "subtext": "",
+    "answer": "Milestone achieved",
+    "answer_vi": "Đạt được cột mốc quan trọng",
+    "options": [
+      "Milestone achieved",
+      "Graduation certificate",
+      "Academic success",
+      "Fluent communication"
+    ],
+    "options_en": [
+      "Milestone achieved",
+      "Graduation certificate",
+      "Academic success",
+      "Fluent communication"
+    ],
+    "options_vi": [
+      "Đạt được cột mốc quan trọng",
+      "Chứng chỉ tốt nghiệp",
+      "Thành công học tập",
+      "Giao tiếp trôi chảy"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Chúc bạn may mắn nhất.",
+    "hindiWords": [
+      "Best",
+      "of",
+      "luck",
+      "to",
+      "you"
+    ],
+    "correctHindiSentence": "Best of luck to you"
   },
   {
     "type": "MatchPairs",

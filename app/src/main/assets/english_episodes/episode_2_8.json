@@ -43,10 +43,18 @@
     "audio": "Spicy"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Oven",
+    "english": "Oven",
+    "vietnamese": "Lò nướng",
+    "audio": "Oven"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Recipe",
     "text": "Recipe",
     "subtext": "",
     "answer": "Recipe",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Ingredients",
     "text": "Ingredients",
     "subtext": "",
     "answer": "Ingredients",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "To boil",
     "text": "To boil",
     "subtext": "",
     "answer": "To boil",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Delicious",
     "text": "Delicious",
     "subtext": "",
     "answer": "Delicious",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Spicy",
     "text": "Spicy",
     "subtext": "",
     "answer": "Spicy",
@@ -181,6 +193,47 @@
       "Thành phần nguyên liệu",
       "Luộc / Đun sôi"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Oven",
+    "text": "Oven",
+    "subtext": "",
+    "answer": "Oven",
+    "answer_vi": "Lò nướng",
+    "options": [
+      "Oven",
+      "Recipe",
+      "Ingredients",
+      "To boil"
+    ],
+    "options_en": [
+      "Oven",
+      "Recipe",
+      "Ingredients",
+      "To boil"
+    ],
+    "options_vi": [
+      "Lò nướng",
+      "Công thức nấu ăn",
+      "Thành phần nguyên liệu",
+      "Luộc / Đun sôi"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Món ăn này rất cay.",
+    "hindiWords": [
+      "This",
+      "food",
+      "is",
+      "very",
+      "spicy"
+    ],
+    "correctHindiSentence": "This food is very spicy"
   },
   {
     "type": "MatchPairs",

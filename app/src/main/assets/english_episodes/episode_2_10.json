@@ -43,10 +43,18 @@
     "audio": "Is it on sale?"
   },
   {
+    "type": "Flashcard",
+    "hindi": "Expensive",
+    "english": "Expensive",
+    "vietnamese": "Đắt tiền / Mắc",
+    "audio": "Expensive"
+  },
+  {
     "type": "MultipleChoice",
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Receipt",
     "text": "Receipt",
     "subtext": "",
     "answer": "Receipt",
@@ -75,6 +83,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Refund",
     "text": "Refund",
     "subtext": "",
     "answer": "Refund",
@@ -103,6 +112,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Discount",
     "text": "Discount",
     "subtext": "",
     "answer": "Discount",
@@ -131,6 +141,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Fitting room",
     "text": "Fitting room",
     "subtext": "",
     "answer": "Fitting room",
@@ -159,6 +170,7 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Is it on sale?",
     "text": "Is it on sale?",
     "subtext": "",
     "answer": "Is it on sale?",
@@ -181,6 +193,47 @@
       "Hoàn tiền",
       "Sự giảm giá"
     ]
+  },
+  {
+    "type": "MultipleChoice",
+    "prompt": "Choose the correct translation:",
+    "prompt_en": "Choose the correct translation:",
+    "prompt_vi": "Chọn bản dịch đúng:",
+    "hindi": "Expensive",
+    "text": "Expensive",
+    "subtext": "",
+    "answer": "Expensive",
+    "answer_vi": "Đắt tiền / Mắc",
+    "options": [
+      "Expensive",
+      "Receipt",
+      "Refund",
+      "Discount"
+    ],
+    "options_en": [
+      "Expensive",
+      "Receipt",
+      "Refund",
+      "Discount"
+    ],
+    "options_vi": [
+      "Đắt tiền / Mắc",
+      "Hóa đơn thanh toán",
+      "Hoàn tiền",
+      "Sự giảm giá"
+    ]
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "Cái này giá bao nhiêu?",
+    "hindiWords": [
+      "How",
+      "much",
+      "does",
+      "this",
+      "cost"
+    ],
+    "correctHindiSentence": "How much does this cost"
   },
   {
     "type": "MatchPairs",
