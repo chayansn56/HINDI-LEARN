@@ -41,11 +41,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "डॉक्टर",
-    "transliteration": "doctor",
-    "english": "Doctor",
-    "vietnamese": "Bác sĩ",
-    "audio": "डॉक्टर"
+    "hindi": "मरीज़",
+    "transliteration": "mareez",
+    "english": "Patient",
+    "vietnamese": "Bệnh nhân",
+    "audio": "मरीज़"
   },
   {
     "type": "MultipleChoice",
@@ -168,25 +168,25 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "hindi": "डॉक्टर",
-    "text": "डॉक्टर",
+    "hindi": "मरीज़",
+    "text": "मरीज़",
     "subtext": "",
-    "answer": "Doctor",
-    "answer_vi": "Bác sĩ",
+    "answer": "Patient",
+    "answer_vi": "Bệnh nhân",
     "options": [
-      "Doctor",
+      "Patient",
       "Sick / Ill",
       "Pain",
       "Medicine"
     ],
     "options_en": [
-      "Doctor",
+      "Patient",
       "Sick / Ill",
       "Pain",
       "Medicine"
     ],
     "options_vi": [
-      "Bác sĩ",
+      "Bệnh nhân",
       "Ốm / Bệnh",
       "Đau",
       "Thuốc"

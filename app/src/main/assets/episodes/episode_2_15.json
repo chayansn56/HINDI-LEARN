@@ -9,11 +9,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफलता",
-    "transliteration": "safalta",
-    "english": "Success",
-    "vietnamese": "Sự thành công",
-    "audio": "सफलता"
+    "hindi": "प्रगति",
+    "transliteration": "pragati",
+    "english": "Progress",
+    "vietnamese": "Tiến trình",
+    "audio": "प्रगति"
   },
   {
     "type": "Flashcard",
@@ -52,25 +52,25 @@
     "prompt": "Choose the correct translation:",
     "prompt_en": "Choose the correct translation:",
     "prompt_vi": "Chọn bản dịch đúng:",
-    "hindi": "सफलता",
-    "text": "सफलता",
+    "hindi": "प्रगति",
+    "text": "प्रगति",
     "subtext": "",
-    "answer": "Success",
-    "answer_vi": "Sự thành công",
+    "answer": "Progress",
+    "answer_vi": "Tiến trình",
     "options": [
-      "Success",
+      "Progress",
       "Congratulations",
       "Fluent / Fluency",
       "Level"
     ],
     "options_en": [
-      "Success",
+      "Progress",
       "Congratulations",
       "Fluent / Fluency",
       "Level"
     ],
     "options_vi": [
-      "Sự thành công",
+      "Tiến trình",
       "Chúc mừng",
       "Trôi chảy",
       "Cấp độ"
@@ -88,19 +88,19 @@
     "answer_vi": "Chúc mừng",
     "options": [
       "Congratulations",
-      "Success",
+      "Progress",
       "Fluent / Fluency",
       "Level"
     ],
     "options_en": [
       "Congratulations",
-      "Success",
+      "Progress",
       "Fluent / Fluency",
       "Level"
     ],
     "options_vi": [
       "Chúc mừng",
-      "Sự thành công",
+      "Tiến trình",
       "Trôi chảy",
       "Cấp độ"
     ]
@@ -117,19 +117,19 @@
     "answer_vi": "Trôi chảy",
     "options": [
       "Fluent / Fluency",
-      "Success",
+      "Progress",
       "Congratulations",
       "Level"
     ],
     "options_en": [
       "Fluent / Fluency",
-      "Success",
+      "Progress",
       "Congratulations",
       "Level"
     ],
     "options_vi": [
       "Trôi chảy",
-      "Sự thành công",
+      "Tiến trình",
       "Chúc mừng",
       "Cấp độ"
     ]
@@ -146,19 +146,19 @@
     "answer_vi": "Cấp độ",
     "options": [
       "Level",
-      "Success",
+      "Progress",
       "Congratulations",
       "Fluent / Fluency"
     ],
     "options_en": [
       "Level",
-      "Success",
+      "Progress",
       "Congratulations",
       "Fluent / Fluency"
     ],
     "options_vi": [
       "Cấp độ",
-      "Sự thành công",
+      "Tiến trình",
       "Chúc mừng",
       "Trôi chảy"
     ]
@@ -175,41 +175,41 @@
     "answer_vi": "Hoàn thành",
     "options": [
       "Complete / Finished",
-      "Success",
+      "Progress",
       "Congratulations",
       "Fluent / Fluency"
     ],
     "options_en": [
       "Complete / Finished",
-      "Success",
+      "Progress",
       "Congratulations",
       "Fluent / Fluency"
     ],
     "options_vi": [
       "Hoàn thành",
-      "Sự thành công",
+      "Tiến trình",
       "Chúc mừng",
       "Trôi chảy"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "Congratulations on your success.",
+    "englishSentence": "Congratulations on your progress.",
     "hindiWords": [
       "बधाई",
-      "सफलता",
+      "प्रगति",
       "पर",
       "आपकी"
     ],
-    "correctHindiSentence": "आपकी सफलता पर बधाई"
+    "correctHindiSentence": "आपकी प्रगति पर बधाई"
   },
   {
     "type": "MatchPairs",
     "instruction": "Match the Hindi words with their English meanings",
     "pairs": [
       {
-        "hindi": "सफलता",
-        "english": "Success"
+        "hindi": "प्रगति",
+        "english": "Progress"
       },
       {
         "hindi": "बधाई",
