@@ -166,7 +166,7 @@ fun AcademyDashboard(
                             contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp)
                         ) {
                             Text(
-                                text = "अ",
+                                text = if (isEnglishCourse) "A" else "अ",
                                 style = MaterialTheme.typography.titleMedium,
                                 fontWeight = FontWeight.Bold,
                                 color = DeepSaffron
@@ -321,7 +321,7 @@ fun AcademyDashboard(
                     CategoryCard(
                         title = if (isVi) "Văn hóa" else "Culture",
                         subtitle = if (isVi) "Lễ hội, Ẩm thực." else "Festivals, Food.",
-                        emoji = "🇮🇳",
+                        emoji = if (isEnglishCourse) "🇺🇸" else "🇮🇳",
                         onClick = { onModuleSelected("culture") },
                         tintColor = Color(0xFFF9F0DF)
                     )
@@ -373,7 +373,7 @@ fun AcademyDashboard(
                 ) {
                     CategoryCard(
                         title = if (isVi) "Truyện" else "Stories",
-                        subtitle = if (isVi) "Các câu chuyện ngắn." else "6 immersive stories about Indian life.",
+                        subtitle = if (isVi) "Các câu chuyện ngắn." else if (isEnglishCourse) "6 immersive stories about American life." else "6 immersive stories about Indian life.",
                         emoji = "🎭",
                         onClick = onStoriesSelected,
                         tintColor = Color(0xFFEDE4F8)
