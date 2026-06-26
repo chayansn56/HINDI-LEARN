@@ -159,7 +159,13 @@ fun AITutorScreen(
                         modifier = Modifier.weight(1f).padding(horizontal = 8.dp),
                         placeholder = { Text("Type or speak...") },
                         shape = RoundedCornerShape(24.dp),
-                        singleLine = true
+                        singleLine = true,
+                        keyboardOptions = androidx.compose.foundation.text.KeyboardOptions(
+                            imeAction = androidx.compose.ui.text.input.ImeAction.Send
+                        ),
+                        keyboardActions = androidx.compose.foundation.text.KeyboardActions(
+                            onSend = { handleSend() }
+                        )
                     )
 
                     IconButton(onClick = { handleSend() }, enabled = currentInput.isNotBlank()) {

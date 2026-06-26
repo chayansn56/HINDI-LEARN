@@ -221,6 +221,41 @@ fun ChatInterface(isVi: Boolean, scenario: String) {
                 onValueChange = { inputText = it },
                 modifier = Modifier.weight(1f).clip(RoundedCornerShape(24.dp)),
                 placeholder = { Text(if (isVi) "Nói gì đó..." else "Say something...") },
+                singleLine = true,
+                keyboardOptions = androidx.compose.foundation.text.KeyboardOptions(
+                    imeAction = androidx.compose.ui.text.input.ImeAction.Send
+                ),
+                keyboardActions = androidx.compose.foundation.text.KeyboardActions(
+                    onSend = {
+                        if (inputText.isNotBlank() && !isTyping) {
+                            val userText = inputText
+                            inputText = ""
+                            messages = messages + ChatMessage(userText, true)
+                            
+                            isTyping = true
+                            coroutineScope.launch {
+                                val targetLanguage = if (UserManager.progress.selectedCourse == "ENGLISH") "English" else "Hindi"
+                                val nativeLanguage = if (isVi) "Vietnamese" else "English"
+                                
+                                val systemPrompt = """
+                                    You are a helpful AI language tutor. 
+                                    The user is practicing speaking $targetLanguage in this scenario: $scenario. 
+                                    Respond in $targetLanguage, but keep it simple. If the user makes a mistake, gently correct them in $nativeLanguage.
+                                    Keep responses very short (1-2 sentences).
+                                """.trimIndent()
+                                
+                                val chatHistory = messages.map { Pair(it.text, it.isUser) }
+                                
+                                val reply = com.example.hindilearn.data.OpenAiService.generateChatResponse(systemPrompt, chatHistory)
+                                    ?: (if (isVi) "Xin lỗi, tôi không thể kết nối. Vui lòng thử lại." else "Sorry, I couldn't connect. Please try again.")
+                                    
+                                isTyping = false
+                                messages = messages + ChatMessage(reply, false)
+                                tts?.speak(reply, android.speech.tts.TextToSpeech.QUEUE_FLUSH, null, null)
+                            }
+                        }
+                    }
+                ),
                 colors = TextFieldDefaults.colors(
                     focusedIndicatorColor = Color.Transparent,
                     unfocusedIndicatorColor = Color.Transparent
