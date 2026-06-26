@@ -228,17 +228,38 @@ fun AcademyDashboard(
 
             // Foundations
             item {
-                CategorySectionTitle(if (isVi) "Giai đoạn 0" else "Phase 0")
+                CategorySectionTitle(if (isVi) "Học viện chính" else "Core Academy")
                 Row(
                     modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 24.dp),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
                     CategoryCard(
-                        title = if (isVi) "Nền tảng" else "Foundations",
+                        title = if (isVi) "Giai đoạn 0: Nền tảng" else "Phase 0: Foundations",
                         subtitle = if (isVi) { if (isEnglishCourse) "Học tiếng Anh từ con số 0." else "Học tiếng Hindi từ con số 0." } else { if (isEnglishCourse) "Learn English from zero." else "Learn Hindi from zero." },
                         emoji = "🌱",
                         onClick = { onModuleSelected("phase_0") },
                         tintColor = Color(0xFFE2F4E3)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Giai đoạn 1: Tiểu học" else "Phase 1: Elementary",
+                        subtitle = if (isVi) "Từ vựng đời sống & Điều hướng." else "Life vocab & Navigation.",
+                        emoji = "🌿",
+                        onClick = { onModuleSelected("phase_1") },
+                        tintColor = Color(0xFFD5F0D7)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Giai đoạn 2: Trôi chảy" else "Phase 2: Fluency",
+                        subtitle = if (isVi) "Ngữ pháp trung cấp." else "Intermediate grammar.",
+                        emoji = "🌳",
+                        onClick = { onModuleSelected("phase_2") },
+                        tintColor = Color(0xFFC7ECCB)
+                    )
+                    CategoryCard(
+                        title = if (isVi) "Giai đoạn 3: Thành thạo" else "Phase 3: Mastery",
+                        subtitle = if (isVi) "Giao tiếp nâng cao." else "Advanced conversation.",
+                        emoji = "👑",
+                        onClick = { onModuleSelected("phase_3") },
+                        tintColor = Color(0xFFB9E8BF)
                     )
                     CategoryCard(
                         title = if (isVi) "Luyện phát âm" else "Pronunciation Lab",
