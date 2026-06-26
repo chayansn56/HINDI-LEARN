@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Car / Train / Cart",
     "transliteration": "",
-    "english": "गाड़ी",
-    "vietnamese": "Xe hơi / Xe lửa",
+    "english": "Xe hơi / Xe lửa",
+    "vietnamese": "",
     "audio": "Car / Train / Cart"
   },
   {
     "type": "Flashcard",
     "hindi": "Business / Trade",
     "transliteration": "",
-    "english": "व्यापार",
-    "vietnamese": "Kinh doanh / Thương mại",
+    "english": "Kinh doanh / Thương mại",
+    "vietnamese": "",
     "audio": "Business / Trade"
   },
   {
     "type": "Flashcard",
     "hindi": "Police station",
     "transliteration": "",
-    "english": "थाना",
-    "vietnamese": "Đồn cảnh sát",
+    "english": "Đồn cảnh sát",
+    "vietnamese": "",
     "audio": "Police station"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Car / Train / Cart'",
     "text": "Car / Train / Cart",
     "subtext": "",
-    "answer": "गाड़ी",
+    "answer": "Car / Train / Cart",
     "answer_vi": "Xe hơi / Xe lửa",
     "options": [
-      "गाड़ी",
-      "व्यापार",
-      "थाना",
-      "सफ़र​"
+      "Car / Train / Cart",
+      "Business / Trade",
+      "Police station",
+      "Journey"
     ],
     "options_vi": [
       "Xe hơi / Xe lửa",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Profession / Business",
     "transliteration": "",
-    "english": "व्यवसाय",
-    "vietnamese": "Nghề nghiệp / Doanh nghiệp",
+    "english": "Nghề nghiệp / Doanh nghiệp",
+    "vietnamese": "",
     "audio": "Profession / Business"
   },
   {
     "type": "Flashcard",
     "hindi": "Train station",
     "transliteration": "",
-    "english": "रेलवे स्टेशन",
-    "vietnamese": "Ga tàu hỏa",
+    "english": "Ga tàu hỏa",
+    "vietnamese": "",
     "audio": "Train station"
   },
   {
     "type": "Flashcard",
     "hindi": "Hotel",
     "transliteration": "",
-    "english": "होटल",
-    "vietnamese": "Khách sạn",
+    "english": "Khách sạn",
+    "vietnamese": "",
     "audio": "Hotel"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र",
-      "व्यवसाय",
-      "रेलवे स्टेशन",
-      "होटल"
+      "Journey",
+      "Profession / Business",
+      "Train station",
+      "Hotel"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Be careful / Watch out.",
     "transliteration": "",
-    "english": "सावधान रहें।",
-    "vietnamese": "Hãy cẩn thận.",
+    "english": "Hãy cẩn thận.",
+    "vietnamese": "",
     "audio": "Be careful / Watch out."
   },
   {
     "type": "Flashcard",
     "hindi": "Vacant room",
     "transliteration": "",
-    "english": "खाली कमरा",
-    "vietnamese": "Phòng trống",
+    "english": "Phòng trống",
+    "vietnamese": "",
     "audio": "Vacant room"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​​​​​​​​​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​​​​​​​​​",
-      "सावधान रहें।",
-      "खाली कमरा",
-      "सफ़र​​"
+      "Journey",
+      "Be careful / Watch out.",
+      "Vacant room",
+      "Journey"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Ticket",
     "transliteration": "",
-    "english": "टिकट",
-    "vietnamese": "Vé",
+    "english": "Vé",
+    "vietnamese": "",
     "audio": "Ticket"
   },
   {
     "type": "Flashcard",
     "hindi": "Carefree / Cool",
     "transliteration": "",
-    "english": "बिंदास",
-    "vietnamese": "Sống thoải mái / Vô tư",
+    "english": "Sống thoải mái / Vô tư",
+    "vietnamese": "",
     "audio": "Carefree / Cool"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Ticket'",
     "text": "Ticket",
     "subtext": "",
-    "answer": "टिकट",
+    "answer": "Ticket",
     "answer_vi": "Vé",
     "options": [
-      "टिकट",
-      "बिंदास",
-      "सफ़र​​​​​​​​​​​",
-      "सफ़र​​​"
+      "Ticket",
+      "Carefree / Cool",
+      "Journey",
+      "Journey"
     ],
     "options_vi": [
       "Vé",
@@ -355,23 +355,29 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a गाड़ी / Nó là một Xe hơi / Xe lửa",
+    "englishSentence": "Xe lửa",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Car / Train / Cart"
+      "Car",
+      "/",
+      "Train",
+      "/",
+      "Cart"
     ],
     "correctHindiSentence": "It is a Car / Train / Cart"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like व्यापार / Tôi thích Kinh doanh / Thương mại",
+    "englishSentence": "Thương mại",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Business / Trade"
+      "Business",
+      "/",
+      "Trade"
     ],
     "correctHindiSentence": "I really like Business / Trade"
   },

@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_19",
-  "title": "Days & Months",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Days & Months",
-      "explanation": "Learn the days of the week and months of the year."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Monday",
-          "translation": "Thứ hai",
-          "audio": "Monday"
-        },
-        {
-          "hindi": "Tuesday",
-          "translation": "Thứ ba",
-          "audio": "Tuesday"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Monday' in Vietnamese?",
-      "options": [
-        "Thứ ba",
-        "Thứ hai",
-        "Thứ tư",
-        "Chủ nhật"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Monday",
-          "translation": "Thứ hai"
-        },
-        {
-          "hindi": "Tuesday",
-          "translation": "Thứ ba"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "January",
-          "translation": "Tháng một",
-          "audio": "January"
-        },
-        {
-          "hindi": "February",
-          "translation": "Tháng hai",
-          "audio": "February"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'January' in Vietnamese?",
-      "options": [
-        "Thứ hai",
-        "Thứ ba",
-        "Tháng một",
-        "Tháng hai"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "January",
-          "translation": "Tháng một"
-        },
-        {
-          "hindi": "February",
-          "translation": "Tháng hai"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "March",
-          "translation": "Tháng ba",
-          "audio": "March"
-        },
-        {
-          "hindi": "April",
-          "translation": "Tháng tư",
-          "audio": "April"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'April' in Vietnamese?",
-      "options": [
-        "Tháng một",
-        "Tháng hai",
-        "Tháng ba",
-        "Tháng tư"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "March",
-          "translation": "Tháng ba"
-        },
-        {
-          "hindi": "April",
-          "translation": "Tháng tư"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Days & Months",
+    "explanation": "Learn the days of the week and months of the year."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Monday",
+        "translation": "Thứ hai",
+        "audio": "Monday"
+      },
+      {
+        "hindi": "Tuesday",
+        "translation": "Thứ ba",
+        "audio": "Tuesday"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Monday' in Vietnamese?",
+    "options": [
+      "Thứ ba",
+      "Thứ hai",
+      "Thứ tư",
+      "Chủ nhật"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Monday",
+        "translation": "Thứ hai"
+      },
+      {
+        "hindi": "Tuesday",
+        "translation": "Thứ ba"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "January",
+        "translation": "Tháng một",
+        "audio": "January"
+      },
+      {
+        "hindi": "February",
+        "translation": "Tháng hai",
+        "audio": "February"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'January' in Vietnamese?",
+    "options": [
+      "Thứ hai",
+      "Thứ ba",
+      "Tháng một",
+      "Tháng hai"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "January",
+        "translation": "Tháng một"
+      },
+      {
+        "hindi": "February",
+        "translation": "Tháng hai"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "March",
+        "translation": "Tháng ba",
+        "audio": "March"
+      },
+      {
+        "hindi": "April",
+        "translation": "Tháng tư",
+        "audio": "April"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'April' in Vietnamese?",
+    "options": [
+      "Tháng một",
+      "Tháng hai",
+      "Tháng ba",
+      "Tháng tư"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "March",
+        "translation": "Tháng ba"
+      },
+      {
+        "hindi": "April",
+        "translation": "Tháng tư"
+      }
+    ]
+  }
+]

@@ -64,11 +64,15 @@ fun LanguageSelectionScreen(
                 
                 LanguageCard(title = "Học tiếng Anh \uD83C\uDDEC\uD83C\uDDE7", subtitle = "Dành cho người Việt học tiếng Anh") {
                     UserManager.updateLanguage("VI")
-                    UserManager.progress.selectedCourse = "ENGLISH"
+                    UserManager.progress = UserManager.progress.copy(selectedCourse = "ENGLISH")
                     UserManager.save()
                     onLanguageSelected()
                 }
             } else if (currentStep == "HINDI_LANG_SELECTION") {
+                TextButton(onClick = { currentStep = "TARGET_SELECTION" }) {
+                    Text("← Back / Quay lại", style = MaterialTheme.typography.bodyMedium)
+                }
+                Spacer(modifier = Modifier.height(8.dp))
                 Text(
                     "Choose instruction language / Chọn ngôn ngữ hướng dẫn:",
                     style = MaterialTheme.typography.bodyLarge,
@@ -78,7 +82,7 @@ fun LanguageSelectionScreen(
                 
                 LanguageCard(title = "English \uD83C\uDDEC\uD83C\uDDE7", subtitle = "Learn Hindi with English instructions") {
                     UserManager.updateLanguage("EN")
-                    UserManager.progress.selectedCourse = "HINDI"
+                    UserManager.progress = UserManager.progress.copy(selectedCourse = "HINDI")
                     UserManager.save()
                     onLanguageSelected()
                 }
@@ -87,7 +91,7 @@ fun LanguageSelectionScreen(
                 
                 LanguageCard(title = "Tiếng Việt \uD83C\uDDFB\uD83C\uDDF3", subtitle = "Học tiếng Hindi với hướng dẫn Tiếng Việt") {
                     UserManager.updateLanguage("VI")
-                    UserManager.progress.selectedCourse = "HINDI"
+                    UserManager.progress = UserManager.progress.copy(selectedCourse = "HINDI")
                     UserManager.save()
                     onLanguageSelected()
                 }

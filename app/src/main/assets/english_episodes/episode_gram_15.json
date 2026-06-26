@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Word",
     "transliteration": "",
-    "english": "शब्द",
-    "vietnamese": "Từ ngữ",
+    "english": "Từ ngữ",
+    "vietnamese": "",
     "audio": "Word"
   },
   {
     "type": "Flashcard",
     "hindi": "To do a U-turn / go back on word",
     "transliteration": "",
-    "english": "पलटी मारना",
-    "vietnamese": "Lật lọng / Nuốt lời",
+    "english": "Lật lọng / Nuốt lời",
+    "vietnamese": "",
     "audio": "To do a U-turn / go back on word"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Right now",
     "transliteration": "",
-    "english": "अभी",
-    "vietnamese": "Ngay bây giờ",
+    "english": "Ngay bây giờ",
+    "vietnamese": "",
     "audio": "Right now"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Word'",
     "text": "Word",
     "subtext": "",
-    "answer": "शब्द",
+    "answer": "Word",
     "answer_vi": "Từ ngữ",
     "options": [
-      "शब्द",
-      "पलटी मारना",
-      "बर्फ़​​​​​​​​",
-      "अभी"
+      "Word",
+      "To do a U-turn / go back on word",
+      "Snow / Ice",
+      "Right now"
     ],
     "options_vi": [
       "Từ ngữ",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Time",
     "transliteration": "",
-    "english": "समय",
-    "vietnamese": "Thời gian",
+    "english": "Thời gian",
+    "vietnamese": "",
     "audio": "Time"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know",
     "transliteration": "",
-    "english": "मुझे नहीं मालूम",
-    "vietnamese": "Tôi không biết",
+    "english": "Tôi không biết",
+    "vietnamese": "",
     "audio": "I don't know"
   },
   {
     "type": "Flashcard",
     "hindi": "What time is it?",
     "transliteration": "",
-    "english": "क्या समय हुआ है?",
-    "vietnamese": "Mấy giờ rồi?",
+    "english": "Mấy giờ rồi?",
+    "vietnamese": "",
     "audio": "What time is it?"
   },
   {
@@ -134,19 +134,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​​​​​",
-      "समय",
-      "मुझे नहीं मालूम",
-      "क्या समय हुआ है?"
+      "Snow / Ice",
+      "Time",
+      "I don't know",
+      "Time"
     ],
     "options_vi": [
       "Tuyết / Đá",
       "Thời gian",
       "Tôi không biết",
-      "Mấy giờ rồi?"
+      "Thời gian"
     ]
   },
   {
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know.",
     "transliteration": "",
-    "english": "पता नहीं।",
-    "vietnamese": "Tôi không biết.",
+    "english": "Tôi không biết.",
+    "vietnamese": "",
     "audio": "I don't know."
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​",
-      "पता नहीं।",
-      "बर्फ़​​​​​​​​​",
-      "बर्फ़​"
+      "Snow / Ice",
+      "I don't know.",
+      "Snow / Ice",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "to know",
     "transliteration": "",
-    "english": "जानना",
-    "vietnamese": "Biết",
+    "english": "Biết",
+    "vietnamese": "",
     "audio": "to know"
   },
   {
     "type": "Flashcard",
     "hindi": "As for / Then",
     "transliteration": "",
-    "english": "तो",
-    "vietnamese": "Thì / Vậy thì",
+    "english": "Thì / Vậy thì",
+    "vietnamese": "",
     "audio": "As for / Then"
   },
   {
     "type": "Flashcard",
     "hindi": "Knowledge",
     "transliteration": "",
-    "english": "विद्या",
-    "vietnamese": "Kiến thức",
+    "english": "Kiến thức",
+    "vietnamese": "",
     "audio": "Knowledge"
   },
   {
     "type": "Flashcard",
     "hindi": "after (time)",
     "transliteration": "",
-    "english": "के बाद",
-    "vietnamese": "Sau khi (thời gian)",
+    "english": "Sau khi (thời gian)",
+    "vietnamese": "",
     "audio": "after (time)"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to know'",
     "text": "to know",
     "subtext": "",
-    "answer": "जानना",
+    "answer": "to know",
     "answer_vi": "Biết",
     "options": [
-      "जानना",
-      "तो",
-      "विद्या",
-      "के बाद"
+      "to know",
+      "As for / Then",
+      "Knowledge",
+      "after (time)"
     ],
     "options_vi": [
       "Biết",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a शब्द / Nó là một Từ ngữ",
+    "englishSentence": "Nó là một Từ ngữ",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like पलटी मारना / Tôi thích Lật lọng / Nuốt lời",
+    "englishSentence": "Nuốt lời",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To do a U-turn / go back on word"
+      "To",
+      "do",
+      "a",
+      "U-turn",
+      "/",
+      "go",
+      "back",
+      "on",
+      "word"
     ],
     "correctHindiSentence": "I really like To do a U-turn / go back on word"
   },

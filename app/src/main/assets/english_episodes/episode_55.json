@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Country",
     "transliteration": "",
-    "english": "देश​​​​​​​",
-    "vietnamese": "Đất nước",
+    "english": "Đất nước",
+    "vietnamese": "",
     "audio": "Country"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Country'",
     "text": "Country",
     "subtext": "",
-    "answer": "देश​​​​​​​",
+    "answer": "Country",
     "answer_vi": "Đất nước",
     "options": [
-      "देश​​​​​​​",
-      "बताना​​​​​​​",
-      "बादल​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Country",
+      "To tell / explain",
+      "Cloud",
+      "To read"
     ],
     "options_vi": [
       "Đất nước",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Passport",
     "transliteration": "",
-    "english": "पासपोर्ट",
-    "vietnamese": "Hộ chiếu",
+    "english": "Hộ chiếu",
+    "vietnamese": "",
     "audio": "Passport"
   },
   {
     "type": "Flashcard",
     "hindi": "Garden",
     "transliteration": "",
-    "english": "बग़ीचा​",
-    "vietnamese": "Khu vườn",
+    "english": "Khu vườn",
+    "vietnamese": "",
     "audio": "Garden"
   },
   {
     "type": "Flashcard",
     "hindi": "Friday",
     "transliteration": "",
-    "english": "शुक्रवार",
-    "vietnamese": "Thứ sáu",
+    "english": "Thứ sáu",
+    "vietnamese": "",
     "audio": "Friday"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
     "text": "To play",
     "subtext": "",
-    "answer": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To play",
     "answer_vi": "Chơi",
     "options": [
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पासपोर्ट",
-      "बग़ीचा​",
-      "शुक्रवार"
+      "To play",
+      "Passport",
+      "Garden",
+      "Friday"
     ],
     "options_vi": [
       "Chơi",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "The weather is very nice.",
     "transliteration": "",
-    "english": "मौसम बहुत अच्छा है।",
-    "vietnamese": "Thời tiết rất đẹp.",
+    "english": "Thời tiết rất đẹp.",
+    "vietnamese": "",
     "audio": "The weather is very nice."
   },
   {
     "type": "Flashcard",
     "hindi": "I am hungry.",
     "transliteration": "",
-    "english": "मुझे भूख लगी है।",
-    "vietnamese": "Tôi đói.",
+    "english": "Tôi đói.",
+    "vietnamese": "",
     "audio": "I am hungry."
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मौसम बहुत अच्छा है।",
-      "मुझे भूख लगी है।",
-      "देखना​​"
+      "To cry",
+      "The weather is very nice.",
+      "I am hungry.",
+      "To see / watch"
     ],
     "options_vi": [
       "Khóc",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the देश​​​​​​​ / Tôi thấy Đất nước",
+    "englishSentence": "Tôi thấy Đất nước",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,15 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बताना​​​​​​​ / Tôi muốn Kể / Giải thích",
+    "englishSentence": "Giải thích",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To tell / explain"
+      "To",
+      "tell",
+      "/",
+      "explain"
     ],
     "correctHindiSentence": "I want a To tell / explain"
   },

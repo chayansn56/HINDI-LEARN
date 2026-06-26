@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "6",
     "transliteration": "",
-    "english": "६",
-    "vietnamese": "Sáu",
+    "english": "Sáu",
+    "vietnamese": "",
     "audio": "6"
   },
   {
     "type": "Flashcard",
     "hindi": "Wait a minute",
     "transliteration": "",
-    "english": "एक मिनट रुकिए",
-    "vietnamese": "Chờ một phút",
+    "english": "Chờ một phút",
+    "vietnamese": "",
     "audio": "Wait a minute"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho '6'",
     "text": "6",
     "subtext": "",
-    "answer": "६",
+    "answer": "6",
     "answer_vi": "Sáu",
     "options": [
-      "६",
-      "एक मिनट रुकिए",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "6",
+      "Wait a minute",
+      "To ask",
+      "To sell"
     ],
     "options_vi": [
       "Sáu",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Romance",
     "transliteration": "",
-    "english": "रोमांस",
-    "vietnamese": "Sự lãng mạn",
+    "english": "Sự lãng mạn",
+    "vietnamese": "",
     "audio": "Romance"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Someone / Anyone",
     "transliteration": "",
-    "english": "कोई",
-    "vietnamese": "Ai đó / Người nào đó",
+    "english": "Ai đó / Người nào đó",
+    "vietnamese": "",
     "audio": "Someone / Anyone"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Romance'",
     "text": "Romance",
     "subtext": "",
-    "answer": "रोमांस",
+    "answer": "Romance",
     "answer_vi": "Sự lãng mạn",
     "options": [
-      "रोमांस",
-      "पेन​​​​​​​​​​​",
-      "पूछना​​​",
-      "कोई"
+      "Romance",
+      "Pen",
+      "To ask",
+      "Someone / Anyone"
     ],
     "options_vi": [
       "Sự lãng mạn",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloth / Dress",
     "transliteration": "",
-    "english": "कपड़ा​​​​​​​​",
-    "vietnamese": "Quần áo",
+    "english": "Quần áo",
+    "vietnamese": "",
     "audio": "Cloth / Dress"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
     "text": "To make / build",
     "subtext": "",
-    "answer": "बनाना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
     "options": [
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​​",
-      "कपड़ा​​​​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To make / build",
+      "To sing",
+      "Cloth / Dress",
+      "To see / watch"
     ],
     "options_vi": [
       "Chế tạo / Tạo ra",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the ६ / Tôi thấy Sáu",
+    "englishSentence": "Tôi thấy Sáu",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,14 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a एक मिनट रुकिए / Tôi muốn Chờ một phút",
+    "englishSentence": "Tôi muốn Chờ một phút",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Wait a minute"
+      "Wait",
+      "a",
+      "minute"
     ],
     "correctHindiSentence": "I want a Wait a minute"
   },

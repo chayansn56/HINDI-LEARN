@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Where",
     "transliteration": "",
-    "english": "कहाँ",
-    "vietnamese": "Ở đâu",
+    "english": "Ở đâu",
+    "vietnamese": "",
     "audio": "Where"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom (relative plural)",
     "transliteration": "",
-    "english": "जिन्हें",
-    "vietnamese": "Người mà (số nhiều)",
+    "english": "Người mà (số nhiều)",
+    "vietnamese": "",
     "audio": "Whom (relative plural)"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
     "text": "Notebook",
     "subtext": "",
-    "answer": "कापी​",
+    "answer": "Notebook",
     "answer_vi": "Sổ tay",
     "options": [
-      "कापी​",
-      "कापी​​​​​​​",
-      "कहाँ",
-      "जिन्हें"
+      "Notebook",
+      "Notebook",
+      "Where",
+      "Whom (relative plural)"
     ],
     "options_vi": [
       "Sổ tay",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Friendship",
     "transliteration": "",
-    "english": "दोस्ती",
-    "vietnamese": "Tình bạn",
+    "english": "Tình bạn",
+    "vietnamese": "",
     "audio": "Friendship"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes, I am ready.",
     "transliteration": "",
-    "english": "हाँ, मैं तैयार हूँ।",
-    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "english": "Vâng, tôi sẵn sàng rồi.",
+    "vietnamese": "",
     "audio": "Yes, I am ready."
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​",
-      "दोस्ती",
-      "हाँ, मैं तैयार हूँ।",
-      "बर्फ़​"
+      "Snow / Ice",
+      "Friendship",
+      "Yes, I am ready.",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Right now",
     "transliteration": "",
-    "english": "अभी",
-    "vietnamese": "Ngay bây giờ",
+    "english": "Ngay bây giờ",
+    "vietnamese": "",
     "audio": "Right now"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom / To whom",
     "transliteration": "",
-    "english": "किसे",
-    "vietnamese": "Ai / Cho ai",
+    "english": "Ai / Cho ai",
+    "vietnamese": "",
     "audio": "Whom / To whom"
   },
   {
     "type": "Flashcard",
     "hindi": "Where is the station?",
     "transliteration": "",
-    "english": "स्टेशन कहाँ है?",
-    "vietnamese": "Nhà ga ở đâu?",
+    "english": "Nhà ga ở đâu?",
+    "vietnamese": "",
     "audio": "Where is the station?"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -216,18 +216,18 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Right now'",
     "text": "Right now",
     "subtext": "",
-    "answer": "अभी",
+    "answer": "Right now",
     "answer_vi": "Ngay bây giờ",
     "options": [
-      "अभी",
-      "किसे",
-      "स्टेशन कहाँ है?",
-      "बर्फ़​​​​​​​​​​"
+      "Right now",
+      "Whom / To whom",
+      "Where",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Ngay bây giờ",
       "Ai / Cho ai",
-      "Nhà ga ở đâu?",
+      "Ở đâu",
       "Tuyết / Đá"
     ]
   },
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Show-off / Bragging",
     "transliteration": "",
-    "english": "हवाबाज़ी",
-    "vietnamese": "Sự khoe khoang",
+    "english": "Sự khoe khoang",
+    "vietnamese": "",
     "audio": "Show-off / Bragging"
   },
   {
     "type": "Flashcard",
     "hindi": "Hello (highly respectful)",
     "transliteration": "",
-    "english": "नमस्ते जी",
-    "vietnamese": "Kính chào quý vị",
+    "english": "Kính chào quý vị",
+    "vietnamese": "",
     "audio": "Hello (highly respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "No problem, it happens.",
     "transliteration": "",
-    "english": "कोई बात नहीं, चलता है।",
-    "vietnamese": "Không sao đâu, chuyện thường thôi.",
+    "english": "Không sao đâu, chuyện thường thôi.",
+    "vietnamese": "",
     "audio": "No problem, it happens."
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Show-off / Bragging'",
     "text": "Show-off / Bragging",
     "subtext": "",
-    "answer": "हवाबाज़ी",
+    "answer": "Show-off / Bragging",
     "answer_vi": "Sự khoe khoang",
     "options": [
-      "हवाबाज़ी",
-      "नमस्ते जी",
-      "कोई बात नहीं, चलता है।",
-      "बर्फ़​​​​​​​​"
+      "Show-off / Bragging",
+      "Hello (highly respectful)",
+      "No problem, it happens.",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Sự khoe khoang",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a कापी​ / Nó là một Sổ tay",
+    "englishSentence": "Nó là một Sổ tay",
     "hindiWords": [
       "It",
       "is",
@@ -366,7 +366,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कापी​​​​​​​ / Tôi thích Sổ tay",
+    "englishSentence": "Tôi thích Sổ tay",
     "hindiWords": [
       "I",
       "really",

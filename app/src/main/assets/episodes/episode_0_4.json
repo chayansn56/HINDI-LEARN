@@ -1,61 +1,75 @@
 [
   {
     "type": "Introduction",
-    "title": "Where is the Hotel?",
-    "description": "Delhi is huge. Sometimes you need to know where something is.",
+    "title": "Navigation",
+    "description": "Getting lost in Connaught Place.",
     "keyPoints": [
-      "कहाँ (Kahan) = Where"
+      "Pay attention to the vocabulary.",
+      "Practice speaking aloud."
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Navigation",
+    "title_vi": "Navigation",
+    "paragraphs": [
+      {
+        "hindi": "आप रास्ता भूल गए हैं।",
+        "translation": "You have lost your way."
+      },
+      {
+        "hindi": "मेट्रो स्टेशन कहाँ है?",
+        "translation": "Where is the metro station?"
+      }
+    ],
+    "question_en": "What are you asking for?",
+    "question_vi": "Bạn đang hỏi về cái gì?",
+    "options": [
+      {
+        "text": "Location",
+        "isCorrect": true
+      },
+      {
+        "text": "Time",
+        "isCorrect": false
+      }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Where is...",
-    "explanation": "To ask 'Where is [something]?', you say '[something] kahan hai?'",
-    "simpleRule": "_____ कहाँ है?"
+    "title": "Important Word",
+    "explanation": "The word कहाँ means Where (Ở đâu).",
+    "simpleRule": "कहाँ = Where"
   },
   {
     "type": "VocabularyContext",
-    "word": "होटल",
-    "translation": "Hotel",
-    "contextSentenceHindi": "होटल कहाँ है?",
-    "contextSentenceTranslation": "Where is the hotel?",
-    "memoryTrick": "It sounds just like Hotel!"
+    "word": "कहाँ",
+    "translation": "Where",
+    "contextSentenceHindi": "स्टेशन कहाँ है?",
+    "contextSentenceTranslation": "Where",
+    "memoryTrick": "Remember कहाँ as Where."
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "Where is the hotel?",
-    "hindiWords": ["होटल", "कहाँ", "है?"],
-    "correctOrder": ["होटल", "कहाँ", "है?"]
-  },
-  {
-    "type": "StoryMode",
-    "title_en": "Getting Lost",
-    "title_vi": "Bị lạc",
-    "paragraphs": [
-      {
-        "hindi": "You are wandering the streets of Connaught Place.",
-        "translation": "You are wandering the streets of Connaught Place."
-      },
-      {
-        "hindi": "You see a police officer.",
-        "translation": "You see a police officer."
-      },
-      {
-        "hindi": "नमस्ते। होटल कहाँ है?",
-        "translation": "Hello. Where is the hotel?"
-      }
+    "type": "Listening",
+    "audio": "कहाँ",
+    "translation_en": "Where",
+    "options_en": [
+      "Location",
+      "Time",
+      "Something else",
+      "Nothing"
     ],
-    "question_en": "What did you ask the officer?",
-    "question_vi": "Bạn đã hỏi viên cảnh sát điều gì?",
-    "options": [
-      {
-        "text": "Where is the hotel?",
-        "isCorrect": true
-      },
-      {
-        "text": "I want water.",
-        "isCorrect": false
-      }
+    "translation_vi": "Ở đâu",
+    "options_vi": [
+      "Vị trí",
+      "Thời gian",
+      "Khác",
+      "Không có gì"
     ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "स्टेशन कहाँ है?",
+    "translation": "Where"
   }
 ]

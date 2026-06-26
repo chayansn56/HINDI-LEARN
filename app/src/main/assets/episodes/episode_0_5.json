@@ -1,61 +1,75 @@
 [
   {
     "type": "Introduction",
-    "title": "Your First Conversation",
-    "description": "It's Day 5. Let's put everything you learned together.",
+    "title": "First Conversation",
+    "description": "Putting it all together.",
     "keyPoints": [
-      "You know how to say Hello.",
-      "You know how to ask for things.",
-      "You know how to ask where things are."
+      "Pay attention to the vocabulary.",
+      "Practice speaking aloud."
     ]
   },
   {
-    "type": "DialogueMode",
-    "title": "A Friendly Encounter",
-    "lines": [
+    "type": "StoryMode",
+    "title_en": "First Conversation",
+    "title_vi": "First Conversation",
+    "paragraphs": [
       {
-        "speaker": "John",
-        "hindi": "नमस्ते। आप कैसे हैं?",
-        "translation": "Hello. How are you?"
+        "hindi": "दुकानदार पूछता है: क्या आप ठीक हैं?",
+        "translation": "The shopkeeper asks: Are you okay?"
       },
       {
-        "speaker": "Local",
-        "hindi": "नमस्ते! मैं ठीक हूँ।",
-        "translation": "Hello! I am fine."
+        "hindi": "हाँ, मैं ठीक हूँ।",
+        "translation": "Yes, I am fine."
+      }
+    ],
+    "question_en": "Are you okay?",
+    "question_vi": "Bạn có ổn không?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": true
       },
       {
-        "speaker": "John",
-        "hindi": "मुझे चाय चाहिए।",
-        "translation": "I want tea."
-      },
-      {
-        "speaker": "Local",
-        "hindi": "ज़रूर। (Sure)",
-        "translation": "Sure."
-      },
-      {
-        "speaker": "John",
-        "hindi": "धन्यवाद।",
-        "translation": "Thank you."
+        "text": "No",
+        "isCorrect": false
       }
     ]
   },
   {
-    "type": "SentenceBuilder",
-    "englishSentence": "I want tea. Where is the hotel?",
-    "hindiWords": ["मुझे", "चाय", "चाहिए।", "होटल", "कहाँ", "है?"],
-    "correctOrder": ["मुझे", "चाय", "चाहिए।", "होटल", "कहाँ", "है?"]
+    "type": "TeachRule",
+    "title": "Important Word",
+    "explanation": "The word हाँ means Yes (Vâng / Có).",
+    "simpleRule": "हाँ = Yes"
   },
   {
-    "type": "MultipleChoice",
-    "prompt_en": "What is the polite way to say Hello?",
-    "prompt_vi": "Cách lịch sự để nói Xin chào là gì?",
-    "text": "Hello",
-    "subtext": "",
-    "options": [
-      { "text": "नमस्ते (Namaste)", "isCorrect": true },
-      { "text": "चाय (Chai)", "isCorrect": false },
-      { "text": "कहाँ (Kahan)", "isCorrect": false }
+    "type": "VocabularyContext",
+    "word": "हाँ",
+    "translation": "Yes",
+    "contextSentenceHindi": "हाँ, मैं ठीक हूँ।",
+    "contextSentenceTranslation": "Yes",
+    "memoryTrick": "Remember हाँ as Yes."
+  },
+  {
+    "type": "Listening",
+    "audio": "हाँ",
+    "translation_en": "Yes",
+    "options_en": [
+      "Yes",
+      "No",
+      "Something else",
+      "Nothing"
+    ],
+    "translation_vi": "Vâng / Có",
+    "options_vi": [
+      "Vâng",
+      "Không",
+      "Khác",
+      "Không có gì"
     ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "हाँ, मैं ठीक हूँ।",
+    "translation": "Yes"
   }
 ]

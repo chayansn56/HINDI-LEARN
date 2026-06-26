@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Hospital",
     "transliteration": "",
-    "english": "अस्पताल",
-    "vietnamese": "Bệnh viện",
+    "english": "Bệnh viện",
+    "vietnamese": "",
     "audio": "Hospital"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Fire'",
     "text": "Fire",
     "subtext": "",
-    "answer": "आग​​​​",
+    "answer": "Fire",
     "answer_vi": "Lửa",
     "options": [
-      "आग​​​​",
-      "मदद​​​​​​​",
-      "मदद​",
-      "अस्पताल"
+      "Fire",
+      "Help",
+      "Help",
+      "Hospital"
     ],
     "options_vi": [
       "Lửa",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Help me!",
     "transliteration": "",
-    "english": "मदद कीजिए!",
-    "vietnamese": "Giúp tôi với!",
+    "english": "Giúp tôi với!",
+    "vietnamese": "",
     "audio": "Help me!"
   },
   {
     "type": "Flashcard",
     "hindi": "Pain",
     "transliteration": "",
-    "english": "दर्द",
-    "vietnamese": "Đau",
+    "english": "Đau",
+    "vietnamese": "",
     "audio": "Pain"
   },
   {
     "type": "Flashcard",
     "hindi": "Doctor",
     "transliteration": "",
-    "english": "डॉक्टर",
-    "vietnamese": "Bác sĩ",
+    "english": "Bác sĩ",
+    "vietnamese": "",
     "audio": "Doctor"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Fire'",
     "text": "Fire",
     "subtext": "",
-    "answer": "आग​​​​​​​",
+    "answer": "Fire",
     "answer_vi": "Lửa",
     "options": [
-      "आग​​​​​​​",
-      "मदद कीजिए!",
-      "दर्द",
-      "डॉक्टर"
+      "Fire",
+      "Help me!",
+      "Pain",
+      "Doctor"
     ],
     "options_vi": [
       "Lửa",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "to help",
     "transliteration": "",
-    "english": "मदद करना",
-    "vietnamese": "Giúp đỡ",
+    "english": "Giúp đỡ",
+    "vietnamese": "",
     "audio": "to help"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Fire'",
     "text": "Fire",
     "subtext": "",
-    "answer": "आग​",
+    "answer": "Fire",
     "answer_vi": "Lửa",
     "options": [
-      "आग​",
-      "मदद करना",
-      "आग​​​​​",
-      "मदद​​​​​​"
+      "Fire",
+      "to help",
+      "Fire",
+      "Help"
     ],
     "options_vi": [
       "Lửa",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Police",
     "transliteration": "",
-    "english": "पुलिस",
-    "vietnamese": "Cảnh sát",
+    "english": "Cảnh sát",
+    "vietnamese": "",
     "audio": "Police"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Fire'",
     "text": "Fire",
     "subtext": "",
-    "answer": "आग​​​",
+    "answer": "Fire",
     "answer_vi": "Lửa",
     "options": [
-      "आग​​​",
-      "मदद​​​​​",
-      "पुलिस",
-      "आग​​​​​​"
+      "Fire",
+      "Help",
+      "Police",
+      "Fire"
     ],
     "options_vi": [
       "Lửa",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a आग​​​​ / Nó là một Lửa",
+    "englishSentence": "Nó là một Lửa",
     "hindiWords": [
       "It",
       "is",
@@ -366,7 +366,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like मदद​​​​​​​ / Tôi thích Sự giúp đỡ",
+    "englishSentence": "Tôi thích Sự giúp đỡ",
     "hindiWords": [
       "I",
       "really",

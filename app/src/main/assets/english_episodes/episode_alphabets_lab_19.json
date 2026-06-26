@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Kurta",
     "transliteration": "",
-    "english": "कुर्ता",
-    "vietnamese": "Áo dài nam Kurta",
+    "english": "Áo dài nam Kurta",
+    "vietnamese": "",
     "audio": "Kurta"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​​​​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Kurta'",
     "text": "Kurta",
     "subtext": "",
-    "answer": "कुर्ता",
+    "answer": "Kurta",
     "answer_vi": "Áo dài nam Kurta",
     "options": [
-      "कुर्ता",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "धोना​​​​​​​",
-      "बारिश​​​​​​​​"
+      "Kurta",
+      "To laugh",
+      "To wash",
+      "Rain"
     ],
     "options_vi": [
       "Áo dài nam Kurta",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Mountain",
     "transliteration": "",
-    "english": "पहाड़​​",
-    "vietnamese": "Ngọn núi",
+    "english": "Ngọn núi",
+    "vietnamese": "",
     "audio": "Mountain"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Mountain'",
     "text": "Mountain",
     "subtext": "",
-    "answer": "पहाड़​​",
+    "answer": "Mountain",
     "answer_vi": "Ngọn núi",
     "options": [
-      "पहाड़​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बादल​​"
+      "Mountain",
+      "To ask",
+      "To ask",
+      "Cloud"
     ],
     "options_vi": [
       "Ngọn núi",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​​​​​​​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
     "type": "Flashcard",
     "hindi": "His / Her (distant)",
     "transliteration": "",
-    "english": "उसका",
-    "vietnamese": "Của anh/chị ấy (xa)",
+    "english": "Của anh/chị ấy (xa)",
+    "vietnamese": "",
     "audio": "His / Her (distant)"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Road'",
     "text": "Road",
     "subtext": "",
-    "answer": "सड़क​​​​​​​",
+    "answer": "Road",
     "answer_vi": "Đường",
     "options": [
-      "सड़क​​​​​​​",
-      "उसका",
-      "लेना​​​​​​​​​​​​​​​​​​",
-      "बारिश​"
+      "Road",
+      "His / Her (distant)",
+      "To take",
+      "Rain"
     ],
     "options_vi": [
       "Đường",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "I am getting late.",
     "transliteration": "",
-    "english": "मुझे देर हो रही है।",
-    "vietnamese": "Tôi đang bị trễ.",
+    "english": "Tôi đang bị trễ.",
+    "vietnamese": "",
     "audio": "I am getting late."
   },
   {
     "type": "Flashcard",
     "hindi": "Client / Customer",
     "transliteration": "",
-    "english": "ग्राहक",
-    "vietnamese": "Khách hàng",
+    "english": "Khách hàng",
+    "vietnamese": "",
     "audio": "Client / Customer"
   },
   {
     "type": "Flashcard",
     "hindi": "To them / him / her (formal)",
     "transliteration": "",
-    "english": "उन्हें",
-    "vietnamese": "Cho họ / Cho ngài ấy",
+    "english": "Cho họ / Cho ngài ấy",
+    "vietnamese": "",
     "audio": "To them / him / her (formal)"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मुझे देर हो रही है।",
-      "ग्राहक",
-      "उन्हें"
+      "To stand",
+      "I am getting late.",
+      "Client / Customer",
+      "To them / him / her (formal)"
     ],
     "options_vi": [
       "Đứng",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a कुर्ता / Nó là một Áo dài nam Kurta",
+    "englishSentence": "Nó là một Áo dài nam Kurta",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Cười lớn",
+    "englishSentence": "Tôi thích Cười lớn",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To laugh"
+      "To",
+      "laugh"
     ],
     "correctHindiSentence": "I really like To laugh"
   },

@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_24",
-  "title": "Present Continuous",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Present Continuous Tense",
-      "explanation": "We use Present Continuous Tense to describe actions happening right now."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "I am eating",
-          "translation": "Tôi đang ăn",
-          "audio": "I am eating"
-        },
-        {
-          "hindi": "She is running",
-          "translation": "Cô ấy đang chạy",
-          "audio": "She is running"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'I am eating' in Vietnamese?",
-      "options": [
-        "Tôi đang ăn",
-        "Cô ấy đang chạy",
-        "Họ đang ngủ",
-        "Anh ấy đang bơi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "I am eating",
-          "translation": "Tôi đang ăn"
-        },
-        {
-          "hindi": "She is running",
-          "translation": "Cô ấy đang chạy"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "They are sleeping",
-          "translation": "Họ đang ngủ",
-          "audio": "They are sleeping"
-        },
-        {
-          "hindi": "He is swimming",
-          "translation": "Anh ấy đang bơi",
-          "audio": "He is swimming"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'They are sleeping' in Vietnamese?",
-      "options": [
-        "Họ đang ngủ",
-        "Tôi đang ăn",
-        "Cô ấy đang chạy",
-        "Anh ấy đang bơi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "They are sleeping",
-          "translation": "Họ đang ngủ"
-        },
-        {
-          "hindi": "He is swimming",
-          "translation": "Anh ấy đang bơi"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "We are walking",
-          "translation": "Chúng tôi đang đi bộ",
-          "audio": "We are walking"
-        },
-        {
-          "hindi": "You are reading",
-          "translation": "Bạn đang đọc",
-          "audio": "You are reading"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'You are reading' in Vietnamese?",
-      "options": [
-        "Tôi đang ăn",
-        "Chúng tôi đang đi bộ",
-        "Bạn đang đọc",
-        "Họ đang ngủ"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "We are walking",
-          "translation": "Chúng tôi đang đi bộ"
-        },
-        {
-          "hindi": "You are reading",
-          "translation": "Bạn đang đọc"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Present Continuous Tense",
+    "explanation": "We use Present Continuous Tense to describe actions happening right now."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "I am eating",
+        "translation": "Tôi đang ăn",
+        "audio": "I am eating"
+      },
+      {
+        "hindi": "She is running",
+        "translation": "Cô ấy đang chạy",
+        "audio": "She is running"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'I am eating' in Vietnamese?",
+    "options": [
+      "Tôi đang ăn",
+      "Cô ấy đang chạy",
+      "Họ đang ngủ",
+      "Anh ấy đang bơi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "I am eating",
+        "translation": "Tôi đang ăn"
+      },
+      {
+        "hindi": "She is running",
+        "translation": "Cô ấy đang chạy"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "They are sleeping",
+        "translation": "Họ đang ngủ",
+        "audio": "They are sleeping"
+      },
+      {
+        "hindi": "He is swimming",
+        "translation": "Anh ấy đang bơi",
+        "audio": "He is swimming"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'They are sleeping' in Vietnamese?",
+    "options": [
+      "Họ đang ngủ",
+      "Tôi đang ăn",
+      "Cô ấy đang chạy",
+      "Anh ấy đang bơi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "They are sleeping",
+        "translation": "Họ đang ngủ"
+      },
+      {
+        "hindi": "He is swimming",
+        "translation": "Anh ấy đang bơi"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "We are walking",
+        "translation": "Chúng tôi đang đi bộ",
+        "audio": "We are walking"
+      },
+      {
+        "hindi": "You are reading",
+        "translation": "Bạn đang đọc",
+        "audio": "You are reading"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'You are reading' in Vietnamese?",
+    "options": [
+      "Tôi đang ăn",
+      "Chúng tôi đang đi bộ",
+      "Bạn đang đọc",
+      "Họ đang ngủ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "We are walking",
+        "translation": "Chúng tôi đang đi bộ"
+      },
+      {
+        "hindi": "You are reading",
+        "translation": "Bạn đang đọc"
+      }
+    ]
+  }
+]

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "Hospital",
     "transliteration": "",
-    "english": "अस्पताल",
-    "vietnamese": "Bệnh viện",
+    "english": "Bệnh viện",
+    "vietnamese": "",
     "audio": "Hospital"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​​​​​​​",
-      "अस्पताल"
+      "To stand",
+      "To write",
+      "To teach",
+      "Hospital"
     ],
     "options_vi": [
       "Đứng",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Prayer / Blessing",
     "transliteration": "",
-    "english": "दुआ",
-    "vietnamese": "Lời cầu nguyện",
+    "english": "Lời cầu nguyện",
+    "vietnamese": "",
     "audio": "Prayer / Blessing"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Prayer / Blessing'",
     "text": "Prayer / Blessing",
     "subtext": "",
-    "answer": "दुआ",
+    "answer": "Prayer / Blessing",
     "answer_vi": "Lời cầu nguyện",
     "options": [
-      "दुआ",
-      "तारा​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मिट्टी​​​​​"
+      "Prayer / Blessing",
+      "Star",
+      "To speak",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Lời cầu nguyện",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना",
-      "खड़े होना​​​​​​​​​​​​​​​​​​",
-      "बादल​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To work",
+      "To stand",
+      "Cloud",
+      "To take"
     ],
     "options_vi": [
       "Làm việc",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the खड़े होना​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Đứng",
+    "englishSentence": "Tôi thấy Đứng",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To stand"
+      "To",
+      "stand"
     ],
     "correctHindiSentence": "I see the To stand"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Viết",
+    "englishSentence": "Tôi muốn Viết",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To write"
+      "To",
+      "write"
     ],
     "correctHindiSentence": "I want a To write"
   },

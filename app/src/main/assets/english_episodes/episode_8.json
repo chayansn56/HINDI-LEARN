@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Yearning / Restlessness",
     "transliteration": "",
-    "english": "तड़प",
-    "vietnamese": "Sự khắc khoải / Khao khát",
+    "english": "Sự khắc khoải / Khao khát",
+    "vietnamese": "",
     "audio": "Yearning / Restlessness"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Mother",
     "transliteration": "",
-    "english": "माँ",
-    "vietnamese": "Mẹ",
+    "english": "Mẹ",
+    "vietnamese": "",
     "audio": "Mother"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Yearning / Restlessness'",
     "text": "Yearning / Restlessness",
     "subtext": "",
-    "answer": "तड़प",
+    "answer": "Yearning / Restlessness",
     "answer_vi": "Sự khắc khoải / Khao khát",
     "options": [
-      "तड़प",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "माँ",
-      "खड़े होना​​​​​​​​​​​​​​​​​​"
+      "Yearning / Restlessness",
+      "To play",
+      "Mother",
+      "To stand"
     ],
     "options_vi": [
       "Sự khắc khoải / Khao khát",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Isn't it?",
     "transliteration": "",
-    "english": "ना",
-    "vietnamese": "Phải không?",
+    "english": "Phải không?",
+    "vietnamese": "",
     "audio": "Isn't it?"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
@@ -161,19 +161,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Isn't it?'",
     "text": "Isn't it?",
     "subtext": "",
-    "answer": "ना",
+    "answer": "Isn't it?",
     "answer_vi": "Phải không?",
     "options": [
-      "ना",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​​​​",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Isn't it?",
+      "Isn't it?",
+      "Isn't it?",
+      "Isn't it?"
     ],
     "options_vi": [
       "Phải không?",
-      "Kể / Giải thích",
-      "Cười lớn",
-      "Mua"
+      "Phải không?",
+      "Phải không?",
+      "Phải không?"
     ]
   },
   {
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Samosa",
     "transliteration": "",
-    "english": "समोसा",
-    "vietnamese": "Bánh gối chiên Samosa",
+    "english": "Bánh gối chiên Samosa",
+    "vietnamese": "",
     "audio": "Samosa"
   },
   {
     "type": "Flashcard",
     "hindi": "City",
     "transliteration": "",
-    "english": "शहर",
-    "vietnamese": "Thành phố",
+    "english": "Thành phố",
+    "vietnamese": "",
     "audio": "City"
   },
   {
     "type": "Flashcard",
     "hindi": "Mountain",
     "transliteration": "",
-    "english": "पहाड़​",
-    "vietnamese": "Ngọn núi",
+    "english": "Ngọn núi",
+    "vietnamese": "",
     "audio": "Mountain"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​​​​​​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Samosa'",
     "text": "Samosa",
     "subtext": "",
-    "answer": "समोसा",
+    "answer": "Samosa",
     "answer_vi": "Bánh gối chiên Samosa",
     "options": [
-      "समोसा",
-      "शहर",
-      "पहाड़​",
-      "बारिश​​​​​​​​​​"
+      "Samosa",
+      "City",
+      "Mountain",
+      "Rain"
     ],
     "options_vi": [
       "Bánh gối chiên Samosa",
@@ -300,23 +300,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the तड़प / Tôi thấy Sự khắc khoải / Khao khát",
+    "englishSentence": "Khao khát",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Yearning / Restlessness"
+      "Yearning",
+      "/",
+      "Restlessness"
     ],
     "correctHindiSentence": "I see the Yearning / Restlessness"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Chơi",
+    "englishSentence": "Tôi muốn Chơi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To play"
+      "To",
+      "play"
     ],
     "correctHindiSentence": "I want a To play"
   },

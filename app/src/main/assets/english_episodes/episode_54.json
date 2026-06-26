@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​​​"
+      "To ask",
+      "To sell",
+      "To listen / hear",
+      "To teach"
     ],
     "options_vi": [
       "Hỏi",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "1",
     "transliteration": "",
-    "english": "१",
-    "vietnamese": "Một",
+    "english": "Một",
+    "vietnamese": "",
     "audio": "1"
   },
   {
     "type": "Flashcard",
     "hindi": "Investment",
     "transliteration": "",
-    "english": "निवेश",
-    "vietnamese": "Sự đầu tư",
+    "english": "Sự đầu tư",
+    "vietnamese": "",
     "audio": "Investment"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​​​​​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho '1'",
     "text": "1",
     "subtext": "",
-    "answer": "१",
+    "answer": "1",
     "answer_vi": "Một",
     "options": [
-      "१",
-      "निवेश",
-      "जूता​​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​"
+      "1",
+      "Investment",
+      "Shoe",
+      "To sell"
     ],
     "options_vi": [
       "Một",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
     "text": "To sleep",
     "subtext": "",
-    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sleep",
     "answer_vi": "Ngủ",
     "options": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पेन",
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To sleep",
+      "To stand",
+      "Pen",
+      "To do"
     ],
     "options_vi": [
       "Ngủ",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Hỏi",
+    "englishSentence": "Tôi thấy Hỏi",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To ask"
+      "To",
+      "ask"
     ],
     "correctHindiSentence": "I see the To ask"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Bán",
+    "englishSentence": "Tôi muốn Bán",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sell"
+      "To",
+      "sell"
     ],
     "correctHindiSentence": "I want a To sell"
   },

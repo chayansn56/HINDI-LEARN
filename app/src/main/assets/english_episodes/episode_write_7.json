@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "कापी​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​"
+      "To write",
+      "Notebook",
+      "To write",
+      "To read"
     ],
     "options_vi": [
       "Viết",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
     "text": "Notebook",
     "subtext": "",
-    "answer": "कापी​​​",
+    "answer": "Notebook",
     "answer_vi": "Sổ tay",
     "options": [
-      "कापी​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​"
+      "Notebook",
+      "To read",
+      "To read",
+      "To open"
     ],
     "options_vi": [
       "Sổ tay",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Paper",
     "transliteration": "",
-    "english": "काग़ज़",
-    "vietnamese": "Giấy",
+    "english": "Giấy",
+    "vietnamese": "",
     "audio": "Paper"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
     "text": "To read",
     "subtext": "",
-    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "काग़ज़",
-      "पढ़ना​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​"
+      "To read",
+      "Paper",
+      "To read",
+      "To open"
     ],
     "options_vi": [
       "Đọc",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "कलम",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "Letter (mail)",
     "transliteration": "",
-    "english": "पत्र",
-    "vietnamese": "Thư tay",
+    "english": "Thư tay",
+    "vietnamese": "",
     "audio": "Letter (mail)"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना",
-      "खोलना​​​​​​​​​​​​​​​​​​​​",
-      "कलम",
-      "पत्र"
+      "To write",
+      "To open",
+      "Pen",
+      "Letter (mail)"
     ],
     "options_vi": [
       "Viết",
@@ -355,18 +355,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Viết",
+    "englishSentence": "Nó là một Viết",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To write"
+      "To",
+      "write"
     ],
     "correctHindiSentence": "It is a To write"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कापी​​​​ / Tôi thích Sổ tay",
+    "englishSentence": "Tôi thích Sổ tay",
     "hindiWords": [
       "I",
       "really",

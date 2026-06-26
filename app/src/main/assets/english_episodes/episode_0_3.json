@@ -1,75 +1,92 @@
-{
-  "id": "episode_0_3",
-  "title": "Tricky Sounds (th, sh, ch)",
-  "description": "Learn how to pronounce common tricky sounds in English: th, sh, ch.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "title": "Âm kép: th, sh, ch",
-      "content": "Một số âm tiết kết hợp hai chữ cái tạo thành âm mới. Ví dụ: 'sh' đọc như 's' mạnh, 'ch' đọc như 'ch' trong tiếng Việt nhưng bật hơi."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "She",
-      "english": "She",
-      "vietnamese": "Cô ấy (âm 'sh')",
-      "audio": "She"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Shoe",
-      "english": "Shoe",
-      "vietnamese": "Chiếc giày",
-      "audio": "Shoe"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Từ 'Shoe' có nghĩa là gì?",
-      "options": ["Cô ấy", "Chiếc giày", "Cái ghế", "Cảm ơn"],
-      "answer": "Chiếc giày"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Chair",
-      "english": "Chair",
-      "vietnamese": "Cái ghế (âm 'ch')",
-      "audio": "Chair"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Child",
-      "english": "Child",
-      "vietnamese": "Đứa trẻ",
-      "audio": "Child"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Think",
-      "english": "Think",
-      "vietnamese": "Nghĩ (âm 'th' vô thanh)",
-      "audio": "Think"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "This",
-      "english": "This",
-      "vietnamese": "Này (âm 'th' hữu thanh)",
-      "audio": "This"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Từ nào chứa âm 'ch'?",
-      "options": ["She", "Chair", "Think", "Shoe"],
-      "answer": "Chair"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"hindi": "She", "vietnamese": "Cô ấy"},
-        {"hindi": "Chair", "vietnamese": "Cái ghế"},
-        {"hindi": "Think", "vietnamese": "Nghĩ"},
-        {"hindi": "This", "vietnamese": "Này"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Âm kép: th, sh, ch",
+    "content": "Một số âm tiết kết hợp hai chữ cái tạo thành âm mới. Ví dụ: 'sh' đọc như 's' mạnh, 'ch' đọc như 'ch' trong tiếng Việt nhưng bật hơi."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "She",
+    "english": "She",
+    "vietnamese": "Cô ấy (âm 'sh')",
+    "audio": "She"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoe",
+    "english": "Shoe",
+    "vietnamese": "Chiếc giày",
+    "audio": "Shoe"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Từ 'Shoe' có nghĩa là gì?",
+    "options": [
+      "Cô ấy",
+      "Chiếc giày",
+      "Cái ghế",
+      "Cảm ơn"
+    ],
+    "answer": "Chiếc giày"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Chair",
+    "english": "Chair",
+    "vietnamese": "Cái ghế (âm 'ch')",
+    "audio": "Chair"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Child",
+    "english": "Child",
+    "vietnamese": "Đứa trẻ",
+    "audio": "Child"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Think",
+    "english": "Think",
+    "vietnamese": "Nghĩ (âm 'th' vô thanh)",
+    "audio": "Think"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "This",
+    "english": "This",
+    "vietnamese": "Này (âm 'th' hữu thanh)",
+    "audio": "This"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Từ nào chứa âm 'ch'?",
+    "options": [
+      "She",
+      "Chair",
+      "Think",
+      "Shoe"
+    ],
+    "answer": "Chair"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "She",
+        "vietnamese": "Cô ấy"
+      },
+      {
+        "hindi": "Chair",
+        "vietnamese": "Cái ghế"
+      },
+      {
+        "hindi": "Think",
+        "vietnamese": "Nghĩ"
+      },
+      {
+        "hindi": "This",
+        "vietnamese": "Này"
+      }
+    ]
+  }
+]

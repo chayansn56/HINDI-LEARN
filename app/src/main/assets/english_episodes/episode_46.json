@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Woman",
     "transliteration": "",
-    "english": "औरत",
-    "vietnamese": "Người phụ nữ",
+    "english": "Người phụ nữ",
+    "vietnamese": "",
     "audio": "Woman"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloth / Dress",
     "transliteration": "",
-    "english": "कपड़ा​​​​​​",
-    "vietnamese": "Quần áo",
+    "english": "Quần áo",
+    "vietnamese": "",
     "audio": "Cloth / Dress"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Woman'",
     "text": "Woman",
     "subtext": "",
-    "answer": "औरत",
+    "answer": "Woman",
     "answer_vi": "Người phụ nữ",
     "options": [
-      "औरत",
-      "कपड़ा​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​",
-      "ताला​​"
+      "Woman",
+      "Cloth / Dress",
+      "To read",
+      "Lock"
     ],
     "options_vi": [
       "Người phụ nữ",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "were (masculine plural)",
     "transliteration": "",
-    "english": "थे",
-    "vietnamese": "Đã là (nam số nhiều)",
+    "english": "Đã là (nam số nhiều)",
+    "vietnamese": "",
     "audio": "were (masculine plural)"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​​​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'were (masculine plural)'",
     "text": "were (masculine plural)",
     "subtext": "",
-    "answer": "थे",
+    "answer": "were (masculine plural)",
     "answer_vi": "Đã là (nam số nhiều)",
     "options": [
-      "थे",
-      "जूता​​",
-      "पैसा​​​​​",
-      "मिट्टी​"
+      "were (masculine plural)",
+      "Shoe",
+      "Money",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Đã là (nam số nhiều)",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Apple",
     "transliteration": "",
-    "english": "सेब",
-    "vietnamese": "Quả táo",
+    "english": "Quả táo",
+    "vietnamese": "",
     "audio": "Apple"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
     "text": "To run",
     "subtext": "",
-    "answer": "दौड़ना​​​​​​​​​​​​​​​​",
+    "answer": "To run",
     "answer_vi": "Chạy",
     "options": [
-      "दौड़ना​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सेब",
-      "बनाना​​​​​​​​​​​​​​​"
+      "To run",
+      "To stand",
+      "Apple",
+      "To make / build"
     ],
     "options_vi": [
       "Chạy",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the औरत / Tôi thấy Người phụ nữ",
+    "englishSentence": "Tôi thấy Người phụ nữ",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,14 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a कपड़ा​​​​​​ / Tôi muốn Quần áo",
+    "englishSentence": "Tôi muốn Quần áo",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Cloth / Dress"
+      "Cloth",
+      "/",
+      "Dress"
     ],
     "correctHindiSentence": "I want a Cloth / Dress"
   },

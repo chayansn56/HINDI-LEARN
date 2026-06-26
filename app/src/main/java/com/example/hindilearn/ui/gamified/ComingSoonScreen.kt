@@ -30,10 +30,10 @@ fun ComingSoonScreen(
             modifier = modifier.fillMaxSize()
         ) {
             TopAppBar(
-                title = { Text("Coming Soon", color = TextDark, fontWeight = FontWeight.Bold) },
+                title = { Text("Coming Soon", color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold) },
                 navigationIcon = {
                     IconButton(onClick = onBack) {
-                        Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = TextDark)
+                        Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = MaterialTheme.colorScheme.onSurface)
                     }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -73,7 +73,7 @@ fun ComingSoonScreen(
                             text = title,
                             style = MaterialTheme.typography.headlineMedium,
                             fontWeight = FontWeight.ExtraBold,
-                            color = TextDark,
+                            color = MaterialTheme.colorScheme.onSurface,
                             textAlign = TextAlign.Center
                         )
                         
@@ -82,7 +82,7 @@ fun ComingSoonScreen(
                         Text(
                             text = description,
                             style = MaterialTheme.typography.bodyLarge,
-                            color = TextDark.copy(alpha = 0.8f),
+                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.8f),
                             textAlign = TextAlign.Center
                         )
                         
@@ -91,7 +91,7 @@ fun ComingSoonScreen(
                         Text(
                             text = "“Rahul is currently preparing these lessons. The VIETANA educators are working hard to bring you high quality Hindi conversations and stories.”",
                             style = MaterialTheme.typography.bodyMedium,
-                            color = TextDark.copy(alpha = 0.6f),
+                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                             textAlign = TextAlign.Center,
                             fontStyle = androidx.compose.ui.text.font.FontStyle.Italic
                         )

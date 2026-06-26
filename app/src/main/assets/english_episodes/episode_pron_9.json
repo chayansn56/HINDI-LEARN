@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
     "text": "Cloud",
     "subtext": "",
-    "answer": "बादल​",
+    "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
-      "बादल​",
-      "सुनना​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​"
+      "Cloud",
+      "To listen / hear",
+      "To listen / hear",
+      "To speak"
     ],
     "options_vi": [
       "Đám mây",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बादल​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​"
+      "To speak",
+      "Cloud",
+      "To speak",
+      "To speak"
     ],
     "options_vi": [
       "Nói",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Speak louder.",
     "transliteration": "",
-    "english": "ज़ोर से बोलिए।",
-    "vietnamese": "Nói to lên.",
+    "english": "Nói to lên.",
+    "vietnamese": "",
     "audio": "Speak louder."
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Speak louder.'",
     "text": "Speak louder.",
     "subtext": "",
-    "answer": "ज़ोर से बोलिए।",
+    "answer": "Speak louder.",
     "answer_vi": "Nói to lên.",
     "options": [
-      "ज़ोर से बोलिए।",
-      "बोलना​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​"
+      "Speak louder.",
+      "To speak",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
       "Nói to lên.",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​",
-      "सुनना​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To speak",
+      "To listen / hear",
+      "To speak",
+      "To speak"
     ],
     "options_vi": [
       "Nói",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बादल​ / Nó là một Đám mây",
+    "englishSentence": "Nó là một Đám mây",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,15 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सुनना​​ / Tôi thích Nghe",
+    "englishSentence": "Tôi thích Nghe",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "I really like To listen / hear"
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​",
-      "दौड़ना​​​​​",
-      "मदद​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To stand",
+      "To run",
+      "Help",
+      "To stand"
     ],
     "options_vi": [
       "Đứng",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Bus stop",
     "transliteration": "",
-    "english": "बस स्टैंड",
-    "vietnamese": "Trạm xe buýt",
+    "english": "Trạm xe buýt",
+    "vietnamese": "",
     "audio": "Bus stop"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Bus stop'",
     "text": "Bus stop",
     "subtext": "",
-    "answer": "बस स्टैंड",
+    "answer": "Bus stop",
     "answer_vi": "Trạm xe buýt",
     "options": [
-      "बस स्टैंड",
-      "काम करना​",
-      "दफ़्तर​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Bus stop",
+      "To work",
+      "Office",
+      "To stand"
     ],
     "options_vi": [
       "Trạm xe buýt",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Rupee / Money",
     "transliteration": "",
-    "english": "रुपया",
-    "vietnamese": "Đồng rupee / Tiền",
+    "english": "Đồng rupee / Tiền",
+    "vietnamese": "",
     "audio": "Rupee / Money"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Rupee / Money'",
     "text": "Rupee / Money",
     "subtext": "",
-    "answer": "रुपया",
+    "answer": "Rupee / Money",
     "answer_vi": "Đồng rupee / Tiền",
     "options": [
-      "रुपया",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​"
+      "Rupee / Money",
+      "To wake up",
+      "To ask",
+      "To speak"
     ],
     "options_vi": [
       "Đồng rupee / Tiền",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the खड़े होना​​​​​​​​​​​​​​​​ / Tôi thấy Đứng",
+    "englishSentence": "Tôi thấy Đứng",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To stand"
+      "To",
+      "stand"
     ],
     "correctHindiSentence": "I see the To stand"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a दौड़ना​​​​​ / Tôi muốn Chạy",
+    "englishSentence": "Tôi muốn Chạy",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To run"
+      "To",
+      "run"
     ],
     "correctHindiSentence": "I want a To run"
   },

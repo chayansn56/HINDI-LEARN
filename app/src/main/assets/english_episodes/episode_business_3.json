@@ -1,20 +1,102 @@
-{
-  "title": "Job Interviews",
-  "nodes": [
-    {"type": "Flashcard", "hindi": "Resume", "english": "Sơ yếu lý lịch", "audio": "Resume"},
-    {"type": "Flashcard", "hindi": "Experience", "english": "Kinh nghiệm", "audio": "Experience"},
-    {"type": "Flashcard", "hindi": "Strengths", "english": "Điểm mạnh", "audio": "Strengths"},
-    {"type": "Flashcard", "hindi": "Weaknesses", "english": "Điểm yếu", "audio": "Weaknesses"},
-    {"type": "MultipleChoice", "hindi": "Tell me about yourself.", "english": "Hãy kể cho tôi nghe về bản thân bạn.", "audio": "Tell me about yourself.", "options": ["Hãy kể cho tôi nghe về bản thân bạn.", "Tại sao bạn muốn làm việc ở đây?", "Điểm mạnh của bạn là gì?", "Bạn kỳ vọng mức lương bao nhiêu?"], "answer": "Hãy kể cho tôi nghe về bản thân bạn."},
-    {"type": "MultipleChoice", "hindi": "Why should we hire you?", "english": "Tại sao chúng tôi nên thuê bạn?", "audio": "Why should we hire you?", "options": ["Tại sao chúng tôi nên thuê bạn?", "Bạn có câu hỏi nào không?", "Kinh nghiệm của bạn là gì?", "Mục tiêu nghề nghiệp của bạn là gì?"], "answer": "Tại sao chúng tôi nên thuê bạn?"},
-    {"type": "MatchPairs", "pairs": [
-      {"hindi": "Skill", "english": "Kỹ năng", "audio": "Skill"},
-      {"hindi": "Qualification", "english": "Trình độ chuyên môn", "audio": "Qualification"},
-      {"hindi": "Reference", "english": "Người giới thiệu", "audio": "Reference"},
-      {"hindi": "Position", "english": "Vị trí", "audio": "Position"}
-    ]},
-    {"type": "Flashcard", "hindi": "Candidate", "english": "Ứng viên", "audio": "Candidate"},
-    {"type": "Flashcard", "hindi": "Hired", "english": "Được tuyển dụng", "audio": "Hired"},
-    {"type": "MultipleChoice", "hindi": "Do you have any questions for us?", "english": "Bạn có bất kỳ câu hỏi nào cho chúng tôi không?", "audio": "Do you have any questions for us?", "options": ["Bạn có bất kỳ câu hỏi nào cho chúng tôi không?", "Bạn có thể bắt đầu khi nào?", "Buổi phỏng vấn kết thúc.", "Cảm ơn bạn đã đến."], "answer": "Bạn có bất kỳ câu hỏi nào cho chúng tôi không?"}
-  ]
-}
+[
+  {
+    "type": "Flashcard",
+    "hindi": "Resume",
+    "english": "Sơ yếu lý lịch",
+    "audio": "Resume"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Experience",
+    "english": "Kinh nghiệm",
+    "audio": "Experience"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Strengths",
+    "english": "Điểm mạnh",
+    "audio": "Strengths"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Weaknesses",
+    "english": "Điểm yếu",
+    "audio": "Weaknesses"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Tell me about yourself.",
+    "english": "Hãy kể cho tôi nghe về bản thân bạn.",
+    "audio": "Tell me about yourself.",
+    "options": [
+      "Hãy kể cho tôi nghe về bản thân bạn.",
+      "Tại sao bạn muốn làm việc ở đây?",
+      "Điểm mạnh của bạn là gì?",
+      "Bạn kỳ vọng mức lương bao nhiêu?"
+    ],
+    "answer": "Hãy kể cho tôi nghe về bản thân bạn."
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Why should we hire you?",
+    "english": "Tại sao chúng tôi nên thuê bạn?",
+    "audio": "Why should we hire you?",
+    "options": [
+      "Tại sao chúng tôi nên thuê bạn?",
+      "Bạn có câu hỏi nào không?",
+      "Kinh nghiệm của bạn là gì?",
+      "Mục tiêu nghề nghiệp của bạn là gì?"
+    ],
+    "answer": "Tại sao chúng tôi nên thuê bạn?"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Skill",
+        "english": "Kỹ năng",
+        "audio": "Skill"
+      },
+      {
+        "hindi": "Qualification",
+        "english": "Trình độ chuyên môn",
+        "audio": "Qualification"
+      },
+      {
+        "hindi": "Reference",
+        "english": "Người giới thiệu",
+        "audio": "Reference"
+      },
+      {
+        "hindi": "Position",
+        "english": "Vị trí",
+        "audio": "Position"
+      }
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Candidate",
+    "english": "Ứng viên",
+    "audio": "Candidate"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hired",
+    "english": "Được tuyển dụng",
+    "audio": "Hired"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Do you have any questions for us?",
+    "english": "Bạn có bất kỳ câu hỏi nào cho chúng tôi không?",
+    "audio": "Do you have any questions for us?",
+    "options": [
+      "Bạn có bất kỳ câu hỏi nào cho chúng tôi không?",
+      "Bạn có thể bắt đầu khi nào?",
+      "Buổi phỏng vấn kết thúc.",
+      "Cảm ơn bạn đã đến."
+    ],
+    "answer": "Bạn có bất kỳ câu hỏi nào cho chúng tôi không?"
+  }
+]

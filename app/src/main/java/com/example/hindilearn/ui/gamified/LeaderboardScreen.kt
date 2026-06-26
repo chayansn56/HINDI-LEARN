@@ -12,6 +12,7 @@ import androidx.compose.material.icons.filled.EmojiEvents
 import androidx.compose.material.icons.filled.Star
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -29,30 +30,35 @@ fun LeaderboardScreen(onBack: () -> Unit, modifier: Modifier = Modifier) {
     val progress = UserManager.progress
     val isVi = progress.selectedLanguage == "VI"
 
-    // Mock competitors
-    val competitors = listOf(
-        LeaderboardUser("Priya", 1500),
-        LeaderboardUser("Rahul", 1200),
-        LeaderboardUser("Emma", 950),
-        LeaderboardUser("Arjun", 800),
-        LeaderboardUser("Sophia", 600),
-        LeaderboardUser("Vikram", 400),
-        LeaderboardUser("Aisha", 250),
-        LeaderboardUser("Leo", 100)
-    )
+    val userName = progress.userName.takeIf { it.isNotBlank() } ?: if (isVi) "Bạn" else "You"
+    
+    // Dynamically scale competitors based on user XP
+    val baseXP = maxOf(progress.xp, 100)
+    val competitors = remember(progress.xp) {
+        listOf(
+            LeaderboardUser("Priya", (baseXP * 1.5).toInt()),
+            LeaderboardUser("Rahul", (baseXP * 1.2).toInt()),
+            LeaderboardUser("Emma", (baseXP * 1.05).toInt()),
+            LeaderboardUser("Arjun", (baseXP * 0.95).toInt()),
+            LeaderboardUser("Sophia", (baseXP * 0.8).toInt()),
+            LeaderboardUser("Vikram", (baseXP * 0.6).toInt()),
+            LeaderboardUser("Aisha", (baseXP * 0.4).toInt()),
+            LeaderboardUser("Leo", (baseXP * 0.2).toInt())
+        )
+    }
 
     // Insert current user and sort
-    val allUsers = (competitors + LeaderboardUser(if (isVi) "Lan (Bạn)" else "You", progress.xp, true))
+    val allUsers = (competitors + LeaderboardUser(userName, progress.xp, true))
         .sortedByDescending { it.xp }
 
     PremiumBackground {
         Scaffold(
             topBar = {
                 TopAppBar(
-                    title = { Text(if (isVi) "Bảng Xếp Hạng" else "Leaderboard", fontWeight = FontWeight.Bold, color = TextDark) },
+                    title = { Text(if (isVi) "Bảng Xếp Hạng" else "Leaderboard", fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface) },
                     navigationIcon = {
                         IconButton(onClick = onBack) {
-                            Icon(Icons.Default.ArrowBack, contentDescription = "Back", tint = TextDark)
+                            Icon(Icons.Default.ArrowBack, contentDescription = "Back", tint = MaterialTheme.colorScheme.onSurface)
                         }
                     },
                     colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -132,7 +138,7 @@ fun LeaderboardRow(rank: Int, user: LeaderboardUser) {
                     1 -> PremiumGold
                     2 -> Color(0xFFC0C0C0) // Silver
                     3 -> Color(0xFFCD7F32) // Bronze
-                    else -> TextDark.copy(alpha = 0.5f)
+                    else -> MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
                 },
                 modifier = Modifier.width(32.dp)
             )
@@ -155,7 +161,7 @@ fun LeaderboardRow(rank: Int, user: LeaderboardUser) {
                 text = user.name,
                 style = MaterialTheme.typography.titleMedium,
                 fontWeight = if (user.isMe) FontWeight.Bold else FontWeight.Medium,
-                color = TextDark,
+                color = MaterialTheme.colorScheme.onSurface,
                 modifier = Modifier.weight(1f)
             )
 
@@ -165,7 +171,7 @@ fun LeaderboardRow(rank: Int, user: LeaderboardUser) {
                     text = "${user.xp}",
                     style = MaterialTheme.typography.titleMedium,
                     fontWeight = FontWeight.Bold,
-                    color = TextDark
+                    color = MaterialTheme.colorScheme.onSurface
                 )
                 Spacer(modifier = Modifier.width(4.dp))
                 Icon(Icons.Default.Star, contentDescription = "XP", tint = PremiumGold, modifier = Modifier.size(16.dp))

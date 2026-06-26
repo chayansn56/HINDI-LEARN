@@ -128,14 +128,18 @@ fun LessonScreen(
 
     var tts by remember { mutableStateOf<TextToSpeech?>(null) }
 
+    val isEnglishCourse = com.example.hindilearn.data.UserManager.progress.selectedCourse == "ENGLISH"
     DisposableEffect(context) {
-        val textToSpeech = TextToSpeech(context) { status ->
-            if (status == TextToSpeech.SUCCESS) tts?.language = Locale.forLanguageTag("hi-IN")
+        var ttsInstance: TextToSpeech? = null
+        ttsInstance = TextToSpeech(context) { status ->
+            if (status == TextToSpeech.SUCCESS) {
+                ttsInstance?.language = if (isEnglishCourse) Locale.US else Locale.forLanguageTag("hi-IN")
+            }
         }
-        tts = textToSpeech
+        tts = ttsInstance
         onDispose {
-            textToSpeech.stop()
-            textToSpeech.shutdown()
+            ttsInstance?.stop()
+            ttsInstance?.shutdown()
         }
     }
 
@@ -173,11 +177,21 @@ fun LessonScreen(
                             Icon(Icons.Default.Face, contentDescription = "Vietana Guide", modifier = Modifier.padding(24.dp), tint = com.example.hindilearn.theme.DeepSaffron)
                         }
                         Spacer(modifier = Modifier.height(24.dp))
-                        Text("Welcome back!", style = MaterialTheme.typography.displaySmall, fontWeight = FontWeight.ExtraBold, color = com.example.hindilearn.theme.TextDark)
+                        val isVi = UserManager.progress.selectedLanguage == "VI"
+                        Text(
+                            if (isVi) "Chào mừng trở lại!" else "Welcome back!",
+                            style = MaterialTheme.typography.displaySmall, fontWeight = FontWeight.ExtraBold, color = MaterialTheme.colorScheme.onSurface
+                        )
                         Spacer(modifier = Modifier.height(8.dp))
-                        Text("Let's master this unit together.", style = MaterialTheme.typography.titleMedium, color = com.example.hindilearn.theme.TextDark.copy(alpha=0.8f))
+                        Text(
+                            if (isVi) "Hãy cùng chinh phục bài học này!" else "Let's master this unit together.",
+                            style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.8f)
+                        )
                         Spacer(modifier = Modifier.height(48.dp))
-                        PremiumButton(text = "Start Learning", onClick = { showWelcome = false })
+                        PremiumButton(
+                            text = if (isVi) "Bắt đầu học" else "Start Learning",
+                            onClick = { showWelcome = false }
+                        )
                     }
                 }
             } else if (lessonFinished) {
@@ -194,7 +208,7 @@ fun LessonScreen(
                         val titleMsg = if (episode != null) "Great job on ${episode.title}!" else "You mastered this unit."
                         val confMsg = episode?.confidenceMessage ?: "I am so proud of your progress."
                         
-                        Text("🎉 Amazing!", style = MaterialTheme.typography.displayMedium, fontWeight = FontWeight.ExtraBold, color = com.example.hindilearn.theme.TextDark, textAlign = TextAlign.Center)
+                        Text("🎉 Amazing!", style = MaterialTheme.typography.displayMedium, fontWeight = FontWeight.ExtraBold, color = MaterialTheme.colorScheme.onSurface, textAlign = TextAlign.Center)
                         
                         Spacer(modifier = Modifier.height(16.dp))
                         
@@ -203,7 +217,7 @@ fun LessonScreen(
                                 modifier = Modifier.padding(24.dp),
                                 horizontalAlignment = Alignment.CenterHorizontally
                             ) {
-                                Text(titleMsg, style = MaterialTheme.typography.titleLarge, color = com.example.hindilearn.theme.TextDark, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
+                                Text(titleMsg, style = MaterialTheme.typography.titleLarge, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
                                 Spacer(modifier = Modifier.height(16.dp))
                                 
                                 Text("Today you can:", style = MaterialTheme.typography.bodyLarge, color = com.example.hindilearn.theme.DeepSaffron, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
@@ -213,7 +227,7 @@ fun LessonScreen(
                                     Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp, horizontal = 16.dp)) {
                                         Icon(Icons.Default.Check, contentDescription = "Check", tint = com.example.hindilearn.theme.SoftGreen, modifier = Modifier.size(20.dp))
                                         Spacer(modifier = Modifier.width(8.dp))
-                                        Text(achievement, style = MaterialTheme.typography.bodyMedium, color = com.example.hindilearn.theme.TextDark)
+                                        Text(achievement, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface)
                                     }
                                 }
                                 
@@ -226,8 +240,12 @@ fun LessonScreen(
                                         }
                                         Spacer(modifier = Modifier.width(16.dp))
                                         Column {
-                                            Text("Rahul says:", style = MaterialTheme.typography.labelSmall, color = com.example.hindilearn.theme.TextDark.copy(alpha=0.6f))
-                                            Text("“$confMsg”", style = MaterialTheme.typography.bodyMedium, color = com.example.hindilearn.theme.TextDark, fontWeight = FontWeight.Medium)
+                                            val isViFinish = UserManager.progress.selectedLanguage == "VI"
+                                            Text(
+                                                if (isViFinish) "Rahul nói:" else "Rahul says:",
+                                                style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.6f)
+                                            )
+                                            Text("“$confMsg”", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Medium)
                                         }
                                     }
                                 }
@@ -256,7 +274,10 @@ fun LessonScreen(
             } else if (exerciseQueue.isNotEmpty()) {
                 val currentEx = exerciseQueue.first()
                 Column(
-                    modifier = Modifier.fillMaxSize().padding(padding).padding(16.dp),
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(padding)
+                        .padding(16.dp),
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
                 
@@ -279,6 +300,7 @@ fun LessonScreen(
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                                 if (isCorrect == false) {
                                     UserManager.loseHeart()
+                                    UserManager.incrementMistake(targetEx.text)
                                     exerciseQueue.add(targetEx)
                                 }
                             }
@@ -291,6 +313,7 @@ fun LessonScreen(
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                                 if (isCorrect == false) {
                                     UserManager.loseHeart()
+                                    UserManager.incrementMistake(targetEx.englishSentence)
                                     exerciseQueue.add(targetEx)
                                 }
                             }
@@ -301,6 +324,7 @@ fun LessonScreen(
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                                 if (isCorrect == false) {
                                     UserManager.loseHeart()
+                                    UserManager.incrementMistake(targetEx.audioText)
                                     exerciseQueue.add(targetEx)
                                 }
                             }
@@ -329,6 +353,7 @@ fun LessonScreen(
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                                 if (!ans) {
                                     UserManager.loseHeart()
+                                    UserManager.incrementMistake(targetEx.hindiPhrase)
                                     exerciseQueue.add(targetEx)
                                 }
                             }
@@ -339,6 +364,7 @@ fun LessonScreen(
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                                 if (!ans) {
                                     UserManager.loseHeart()
+                                    UserManager.incrementMistake(targetEx.context_en)
                                     exerciseQueue.add(targetEx)
                                 }
                             }
@@ -388,6 +414,18 @@ fun LessonScreen(
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                                 if (!ans) {
                                     UserManager.loseHeart()
+                                    UserManager.incrementMistake(targetEx.title_en)
+                                    exerciseQueue.add(targetEx)
+                                }
+                            }
+                        }
+                        is Exercise.MatchPairs -> MatchPairsUI(targetEx, isCorrect) { ans ->
+                            if (isCorrect == null) {
+                                isCorrect = ans
+                                haptic.performHapticFeedback(HapticFeedbackType.LongPress)
+                                if (!ans) {
+                                    UserManager.loseHeart()
+                                    UserManager.incrementMistake(targetEx.instruction)
                                     exerciseQueue.add(targetEx)
                                 }
                             }
@@ -416,7 +454,12 @@ fun LessonScreen(
                     enter = slideInVertically(initialOffsetY = { it }),
                     exit = slideOutVertically(targetOffsetY = { it })
                 ) {
-                    val msg = if (isCorrect == true) "Correct!" else "Oops! Let's try that again."
+                    val isViMsg = UserManager.progress.selectedLanguage == "VI"
+                    val msg = if (isCorrect == true) {
+                        if (isViMsg) "Chính xác! 🎉" else "Correct! 🎉"
+                    } else {
+                        if (isViMsg) "Thử lại nhé! 💪" else "Oops! Let's try that again. 💪"
+                    }
                     val color = if (isCorrect == true) com.example.hindilearn.theme.SoftGreen else com.example.hindilearn.theme.SoftRed
                     val textColor = if (isCorrect == true) com.example.hindilearn.theme.TextDark else Color.White
                     

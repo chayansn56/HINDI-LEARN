@@ -1,20 +1,102 @@
-{
-  "title": "Negotiations",
-  "nodes": [
-    {"type": "Flashcard", "hindi": "Proposal", "english": "Bản đề xuất", "audio": "Proposal"},
-    {"type": "Flashcard", "hindi": "Compromise", "english": "Thỏa hiệp", "audio": "Compromise"},
-    {"type": "Flashcard", "hindi": "Agreement", "english": "Thỏa thuận", "audio": "Agreement"},
-    {"type": "Flashcard", "hindi": "Counteroffer", "english": "Lời đề nghị phản hồi", "audio": "Counteroffer"},
-    {"type": "MultipleChoice", "hindi": "We can offer a discount.", "english": "Chúng tôi có thể giảm giá.", "audio": "We can offer a discount.", "options": ["Chúng tôi có thể giảm giá.", "Giá này đã cố định.", "Đó là đề nghị cuối cùng.", "Chúng tôi không thể giảm giá."], "answer": "Chúng tôi có thể giảm giá."},
-    {"type": "MultipleChoice", "hindi": "That sounds fair.", "english": "Điều đó nghe có vẻ công bằng.", "audio": "That sounds fair.", "options": ["Điều đó nghe có vẻ công bằng.", "Tôi không đồng ý.", "Đó là một ý kiến tồi.", "Chúng ta cần thảo luận thêm."], "answer": "Điều đó nghe có vẻ công bằng."},
-    {"type": "MatchPairs", "pairs": [
-      {"hindi": "Terms", "english": "Điều khoản", "audio": "Terms"},
-      {"hindi": "Budget", "english": "Ngân sách", "audio": "Budget"},
-      {"hindi": "Deadline", "english": "Hạn chót", "audio": "Deadline"},
-      {"hindi": "Contract", "english": "Hợp đồng", "audio": "Contract"}
-    ]},
-    {"type": "Flashcard", "hindi": "Flexible", "english": "Linh hoạt", "audio": "Flexible"},
-    {"type": "Flashcard", "hindi": "Bottom line", "english": "Giới hạn cuối / Điểm cốt lõi", "audio": "Bottom line"},
-    {"type": "MultipleChoice", "hindi": "Let's reach a win-win solution.", "english": "Hãy đạt được một giải pháp đôi bên cùng có lợi.", "audio": "Let's reach a win-win solution.", "options": ["Hãy đạt được một giải pháp đôi bên cùng có lợi.", "Tôi muốn mọi thứ.", "Đây là một sự nhượng bộ.", "Bạn cần phải lùi bước."], "answer": "Hãy đạt được một giải pháp đôi bên cùng có lợi."}
-  ]
-}
+[
+  {
+    "type": "Flashcard",
+    "hindi": "Proposal",
+    "english": "Bản đề xuất",
+    "audio": "Proposal"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Compromise",
+    "english": "Thỏa hiệp",
+    "audio": "Compromise"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Agreement",
+    "english": "Thỏa thuận",
+    "audio": "Agreement"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Counteroffer",
+    "english": "Lời đề nghị phản hồi",
+    "audio": "Counteroffer"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "We can offer a discount.",
+    "english": "Chúng tôi có thể giảm giá.",
+    "audio": "We can offer a discount.",
+    "options": [
+      "Chúng tôi có thể giảm giá.",
+      "Giá này đã cố định.",
+      "Đó là đề nghị cuối cùng.",
+      "Chúng tôi không thể giảm giá."
+    ],
+    "answer": "Chúng tôi có thể giảm giá."
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "That sounds fair.",
+    "english": "Điều đó nghe có vẻ công bằng.",
+    "audio": "That sounds fair.",
+    "options": [
+      "Điều đó nghe có vẻ công bằng.",
+      "Tôi không đồng ý.",
+      "Đó là một ý kiến tồi.",
+      "Chúng ta cần thảo luận thêm."
+    ],
+    "answer": "Điều đó nghe có vẻ công bằng."
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Terms",
+        "english": "Điều khoản",
+        "audio": "Terms"
+      },
+      {
+        "hindi": "Budget",
+        "english": "Ngân sách",
+        "audio": "Budget"
+      },
+      {
+        "hindi": "Deadline",
+        "english": "Hạn chót",
+        "audio": "Deadline"
+      },
+      {
+        "hindi": "Contract",
+        "english": "Hợp đồng",
+        "audio": "Contract"
+      }
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Flexible",
+    "english": "Linh hoạt",
+    "audio": "Flexible"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bottom line",
+    "english": "Giới hạn cuối / Điểm cốt lõi",
+    "audio": "Bottom line"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Let's reach a win-win solution.",
+    "english": "Hãy đạt được một giải pháp đôi bên cùng có lợi.",
+    "audio": "Let's reach a win-win solution.",
+    "options": [
+      "Hãy đạt được một giải pháp đôi bên cùng có lợi.",
+      "Tôi muốn mọi thứ.",
+      "Đây là một sự nhượng bộ.",
+      "Bạn cần phải lùi bước."
+    ],
+    "answer": "Hãy đạt được một giải pháp đôi bên cùng có lợi."
+  }
+]

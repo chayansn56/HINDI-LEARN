@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Awesome / Superb",
     "transliteration": "",
-    "english": "झकास",
-    "vietnamese": "Tuyệt vời",
+    "english": "Tuyệt vời",
+    "vietnamese": "",
     "audio": "Awesome / Superb"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "Experience",
     "transliteration": "",
-    "english": "अनुभव",
-    "vietnamese": "Kinh nghiệm",
+    "english": "Kinh nghiệm",
+    "vietnamese": "",
     "audio": "Experience"
   },
   {
     "type": "Flashcard",
     "hindi": "Let's start.",
     "transliteration": "",
-    "english": "चलो शुरू करते हैं।",
-    "vietnamese": "Hãy bắt đầu thôi.",
+    "english": "Hãy bắt đầu thôi.",
+    "vietnamese": "",
     "audio": "Let's start."
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Awesome / Superb'",
     "text": "Awesome / Superb",
     "subtext": "",
-    "answer": "झकास",
+    "answer": "Awesome / Superb",
     "answer_vi": "Tuyệt vời",
     "options": [
-      "झकास",
-      "करना​​​​​​​​​​​​​​​​​​​​",
-      "अनुभव",
-      "चलो शुरू करते हैं।"
+      "Awesome / Superb",
+      "To do",
+      "Experience",
+      "Let's start."
     ],
     "options_vi": [
       "Tuyệt vời",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Road'",
     "text": "Road",
     "subtext": "",
-    "answer": "सड़क​",
+    "answer": "Road",
     "answer_vi": "Đường",
     "options": [
-      "सड़क​",
-      "सुनना​​​​​​​​​​​​​​",
-      "जूता​​​",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​"
+      "Road",
+      "To listen / hear",
+      "Shoe",
+      "To walk / move"
     ],
     "options_vi": [
       "Đường",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes",
     "transliteration": "",
-    "english": "हाँ",
-    "vietnamese": "Vâng / Có",
+    "english": "Vâng / Có",
+    "vietnamese": "",
     "audio": "Yes"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Father",
     "transliteration": "",
-    "english": "पिता",
-    "vietnamese": "Cha",
+    "english": "Cha",
+    "vietnamese": "",
     "audio": "Father"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "हाँ",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पिता"
+      "To stand",
+      "Yes",
+      "To take",
+      "Father"
     ],
     "options_vi": [
       "Đứng",
@@ -300,23 +300,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the झकास / Tôi thấy Tuyệt vời",
+    "englishSentence": "Tôi thấy Tuyệt vời",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Awesome / Superb"
+      "Awesome",
+      "/",
+      "Superb"
     ],
     "correctHindiSentence": "I see the Awesome / Superb"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a करना​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Làm",
+    "englishSentence": "Tôi muốn Làm",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To do"
+      "To",
+      "do"
     ],
     "correctHindiSentence": "I want a To do"
   },

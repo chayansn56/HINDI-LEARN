@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Train station",
     "transliteration": "",
-    "english": "रेलवे स्टेशन",
-    "vietnamese": "Ga tàu hỏa",
+    "english": "Ga tàu hỏa",
+    "vietnamese": "",
     "audio": "Train station"
   },
   {
     "type": "Flashcard",
     "hindi": "Carefree / Cool",
     "transliteration": "",
-    "english": "बिंदास",
-    "vietnamese": "Sống thoải mái / Vô tư",
+    "english": "Sống thoải mái / Vô tư",
+    "vietnamese": "",
     "audio": "Carefree / Cool"
   },
   {
     "type": "Flashcard",
     "hindi": "Bus stop",
     "transliteration": "",
-    "english": "बस स्टैंड",
-    "vietnamese": "Trạm xe buýt",
+    "english": "Trạm xe buýt",
+    "vietnamese": "",
     "audio": "Bus stop"
   },
   {
     "type": "Flashcard",
     "hindi": "Restroom / Toilet",
     "transliteration": "",
-    "english": "शौचालय",
-    "vietnamese": "Nhà vệ sinh",
+    "english": "Nhà vệ sinh",
+    "vietnamese": "",
     "audio": "Restroom / Toilet"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Train station'",
     "text": "Train station",
     "subtext": "",
-    "answer": "रेलवे स्टेशन",
+    "answer": "Train station",
     "answer_vi": "Ga tàu hỏa",
     "options": [
-      "रेलवे स्टेशन",
-      "बिंदास",
-      "बस स्टैंड",
-      "शौचालय"
+      "Train station",
+      "Carefree / Cool",
+      "Bus stop",
+      "Restroom / Toilet"
     ],
     "options_vi": [
       "Ga tàu hỏa",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Business / Trade",
     "transliteration": "",
-    "english": "व्यापार",
-    "vietnamese": "Kinh doanh / Thương mại",
+    "english": "Kinh doanh / Thương mại",
+    "vietnamese": "",
     "audio": "Business / Trade"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​​​​​​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​​​​​​",
-      "सफ़र​​​​​​​​​​​",
-      "व्यापार",
-      "सफ़र"
+      "Journey",
+      "Journey",
+      "Business / Trade",
+      "Journey"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Ticket",
     "transliteration": "",
-    "english": "टिकट",
-    "vietnamese": "Vé",
+    "english": "Vé",
+    "vietnamese": "",
     "audio": "Ticket"
   },
   {
     "type": "Flashcard",
     "hindi": "Car / Train / Cart",
     "transliteration": "",
-    "english": "गाड़ी",
-    "vietnamese": "Xe hơi / Xe lửa",
+    "english": "Xe hơi / Xe lửa",
+    "vietnamese": "",
     "audio": "Car / Train / Cart"
   },
   {
     "type": "Flashcard",
     "hindi": "Police station",
     "transliteration": "",
-    "english": "थाना",
-    "vietnamese": "Đồn cảnh sát",
+    "english": "Đồn cảnh sát",
+    "vietnamese": "",
     "audio": "Police station"
   },
   {
     "type": "Flashcard",
     "hindi": "Ticket counter",
     "transliteration": "",
-    "english": "टिकट काउंटर",
-    "vietnamese": "Quầy bán vé",
+    "english": "Quầy bán vé",
+    "vietnamese": "",
     "audio": "Ticket counter"
   },
   {
@@ -216,19 +216,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Ticket'",
     "text": "Ticket",
     "subtext": "",
-    "answer": "टिकट",
+    "answer": "Ticket",
     "answer_vi": "Vé",
     "options": [
-      "टिकट",
-      "गाड़ी",
-      "थाना",
-      "टिकट काउंटर"
+      "Ticket",
+      "Car / Train / Cart",
+      "Police station",
+      "Ticket"
     ],
     "options_vi": [
       "Vé",
       "Xe hơi / Xe lửa",
       "Đồn cảnh sát",
-      "Quầy bán vé"
+      "Vé"
     ]
   },
   {
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Vacant room",
     "transliteration": "",
-    "english": "खाली कमरा",
-    "vietnamese": "Phòng trống",
+    "english": "Phòng trống",
+    "vietnamese": "",
     "audio": "Vacant room"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Where is the station?",
     "transliteration": "",
-    "english": "स्टेशन कहाँ है?",
-    "vietnamese": "Nhà ga ở đâu?",
+    "english": "Nhà ga ở đâu?",
+    "vietnamese": "",
     "audio": "Where is the station?"
   },
   {
     "type": "Flashcard",
     "hindi": "Airport",
     "transliteration": "",
-    "english": "हवाई अड्डा",
-    "vietnamese": "Sân bay",
+    "english": "Sân bay",
+    "vietnamese": "",
     "audio": "Airport"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Vacant room'",
     "text": "Vacant room",
     "subtext": "",
-    "answer": "खाली कमरा",
+    "answer": "Vacant room",
     "answer_vi": "Phòng trống",
     "options": [
-      "खाली कमरा",
-      "सफ़र​​​​​​​​​",
-      "स्टेशन कहाँ है?",
-      "हवाई अड्डा"
+      "Vacant room",
+      "Journey",
+      "Where is the station?",
+      "Airport"
     ],
     "options_vi": [
       "Phòng trống",
@@ -355,23 +355,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a रेलवे स्टेशन / Nó là một Ga tàu hỏa",
+    "englishSentence": "Nó là một Ga tàu hỏa",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Train station"
+      "Train",
+      "station"
     ],
     "correctHindiSentence": "It is a Train station"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like बिंदास / Tôi thích Sống thoải mái / Vô tư",
+    "englishSentence": "Vô tư",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Carefree / Cool"
+      "Carefree",
+      "/",
+      "Cool"
     ],
     "correctHindiSentence": "I really like Carefree / Cool"
   },

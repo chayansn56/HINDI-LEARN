@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Listen to me.",
     "transliteration": "",
-    "english": "मेरी बात सुनो।",
-    "vietnamese": "Hãy nghe tôi nói.",
+    "english": "Hãy nghe tôi nói.",
+    "vietnamese": "",
     "audio": "Listen to me."
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Do you speak English?",
     "transliteration": "",
-    "english": "क्या आप अंग्रेज़ी बोलते हैं?",
-    "vietnamese": "Bạn có nói tiếng Anh không?",
+    "english": "Bạn có nói tiếng Anh không?",
+    "vietnamese": "",
     "audio": "Do you speak English?"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Listen to me.'",
     "text": "Listen to me.",
     "subtext": "",
-    "answer": "मेरी बात सुनो।",
+    "answer": "Listen to me.",
     "answer_vi": "Hãy nghe tôi nói.",
     "options": [
-      "मेरी बात सुनो।",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "क्या आप अंग्रेज़ी बोलते हैं?",
-      "बोलना​​​​​​​​​"
+      "Listen to me.",
+      "To listen / hear",
+      "Do you speak English?",
+      "To speak"
     ],
     "options_vi": [
       "Hãy nghe tôi nói.",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
-      "बादल​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To listen / hear",
+      "Cloud",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
       "Nghe",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Please say it again.",
     "transliteration": "",
-    "english": "फिर से कहिए।",
-    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "english": "Làm ơn nói lại lần nữa.",
+    "vietnamese": "",
     "audio": "Please say it again."
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "फिर से कहिए।"
+      "To speak",
+      "To listen / hear",
+      "To listen / hear",
+      "Please say it again."
     ],
     "options_vi": [
       "Nói",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Please speak slowly.",
     "transliteration": "",
-    "english": "कृपया धीरे बोलिए।",
-    "vietnamese": "Làm ơn nói chậm lại.",
+    "english": "Làm ơn nói chậm lại.",
+    "vietnamese": "",
     "audio": "Please speak slowly."
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Please speak slowly.'",
     "text": "Please speak slowly.",
     "subtext": "",
-    "answer": "कृपया धीरे बोलिए।",
+    "answer": "Please speak slowly.",
     "answer_vi": "Làm ơn nói chậm lại.",
     "options": [
-      "कृपया धीरे बोलिए।",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​"
+      "Please speak slowly.",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
       "Làm ơn nói chậm lại.",
@@ -355,23 +355,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a मेरी बात सुनो। / Nó là một Hãy nghe tôi nói.",
+    "englishSentence": "Nó là một Hãy nghe tôi nói.",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Listen to me."
+      "Listen",
+      "to",
+      "me."
     ],
     "correctHindiSentence": "It is a Listen to me."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Nghe",
+    "englishSentence": "Tôi thích Nghe",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "I really like To listen / hear"
   },

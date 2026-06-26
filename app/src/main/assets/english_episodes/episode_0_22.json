@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_22",
-  "title": "Prepositions of Place",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Prepositions of Place",
-      "explanation": "Learn prepositions of place."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "In",
-          "translation": "Trong",
-          "audio": "In"
-        },
-        {
-          "hindi": "On",
-          "translation": "Trên",
-          "audio": "On"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'In' in Vietnamese?",
-      "options": [
-        "Trong",
-        "Trên",
-        "Dưới",
-        "Đằng sau"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "In",
-          "translation": "Trong"
-        },
-        {
-          "hindi": "On",
-          "translation": "Trên"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Under",
-          "translation": "Dưới",
-          "audio": "Under"
-        },
-        {
-          "hindi": "Behind",
-          "translation": "Đằng sau",
-          "audio": "Behind"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Under' in Vietnamese?",
-      "options": [
-        "Trong",
-        "Trên",
-        "Dưới",
-        "Đằng sau"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Under",
-          "translation": "Dưới"
-        },
-        {
-          "hindi": "Behind",
-          "translation": "Đằng sau"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Next to",
-          "translation": "Bên cạnh",
-          "audio": "Next to"
-        },
-        {
-          "hindi": "In front of",
-          "translation": "Đằng trước",
-          "audio": "In front of"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Next to' in Vietnamese?",
-      "options": [
-        "Bên cạnh",
-        "Đằng trước",
-        "Trong",
-        "Trên"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Next to",
-          "translation": "Bên cạnh"
-        },
-        {
-          "hindi": "In front of",
-          "translation": "Đằng trước"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Prepositions of Place",
+    "explanation": "Learn prepositions of place."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "In",
+        "translation": "Trong",
+        "audio": "In"
+      },
+      {
+        "hindi": "On",
+        "translation": "Trên",
+        "audio": "On"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'In' in Vietnamese?",
+    "options": [
+      "Trong",
+      "Trên",
+      "Dưới",
+      "Đằng sau"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "In",
+        "translation": "Trong"
+      },
+      {
+        "hindi": "On",
+        "translation": "Trên"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Under",
+        "translation": "Dưới",
+        "audio": "Under"
+      },
+      {
+        "hindi": "Behind",
+        "translation": "Đằng sau",
+        "audio": "Behind"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Under' in Vietnamese?",
+    "options": [
+      "Trong",
+      "Trên",
+      "Dưới",
+      "Đằng sau"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Under",
+        "translation": "Dưới"
+      },
+      {
+        "hindi": "Behind",
+        "translation": "Đằng sau"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Next to",
+        "translation": "Bên cạnh",
+        "audio": "Next to"
+      },
+      {
+        "hindi": "In front of",
+        "translation": "Đằng trước",
+        "audio": "In front of"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Next to' in Vietnamese?",
+    "options": [
+      "Bên cạnh",
+      "Đằng trước",
+      "Trong",
+      "Trên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Next to",
+        "translation": "Bên cạnh"
+      },
+      {
+        "hindi": "In front of",
+        "translation": "Đằng trước"
+      }
+    ]
+  }
+]

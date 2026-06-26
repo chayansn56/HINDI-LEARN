@@ -1,15 +1,88 @@
-{
-  "title": "Basic Greetings",
-  "nodes": [
-    {"type": "TeachRule", "title": "Basic Greetings", "rule": "Hôm nay chúng ta sẽ học các câu chào hỏi cơ bản trong tiếng Anh."},
-    {"type": "Flashcard", "hindi": "Hello", "english": "Xin chào", "audio": "hello"},
-    {"type": "Flashcard", "hindi": "Goodbye", "english": "Tạm biệt", "audio": "goodbye"},
-    {"type": "Flashcard", "hindi": "Good morning", "english": "Chào buổi sáng", "audio": "good_morning"},
-    {"type": "MultipleChoice", "hindi": "Hello", "options": ["Xin chào", "Tạm biệt", "Cảm ơn", "Xin lỗi"], "answer": "Xin chào", "audio": "hello"},
-    {"type": "Flashcard", "hindi": "Good night", "english": "Chúc ngủ ngon", "audio": "good_night"},
-    {"type": "Flashcard", "hindi": "Thank you", "english": "Cảm ơn", "audio": "thank_you"},
-    {"type": "MultipleChoice", "hindi": "Goodbye", "options": ["Cảm ơn", "Xin chào", "Tạm biệt", "Chào buổi sáng"], "answer": "Tạm biệt", "audio": "goodbye"},
-    {"type": "Flashcard", "hindi": "Sorry", "english": "Xin lỗi", "audio": "sorry"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Thank you", "english": "Cảm ơn"}, {"hindi": "Sorry", "english": "Xin lỗi"}, {"hindi": "Good morning", "english": "Chào buổi sáng"}, {"hindi": "Good night", "english": "Chúc ngủ ngon"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Basic Greetings",
+    "rule": "Hôm nay chúng ta sẽ học các câu chào hỏi cơ bản trong tiếng Anh."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hello",
+    "english": "Xin chào",
+    "audio": "hello"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Goodbye",
+    "english": "Tạm biệt",
+    "audio": "goodbye"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Good morning",
+    "english": "Chào buổi sáng",
+    "audio": "good_morning"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Hello",
+    "options": [
+      "Xin chào",
+      "Tạm biệt",
+      "Cảm ơn",
+      "Xin lỗi"
+    ],
+    "answer": "Xin chào",
+    "audio": "hello"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Good night",
+    "english": "Chúc ngủ ngon",
+    "audio": "good_night"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Thank you",
+    "english": "Cảm ơn",
+    "audio": "thank_you"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Goodbye",
+    "options": [
+      "Cảm ơn",
+      "Xin chào",
+      "Tạm biệt",
+      "Chào buổi sáng"
+    ],
+    "answer": "Tạm biệt",
+    "audio": "goodbye"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sorry",
+    "english": "Xin lỗi",
+    "audio": "sorry"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Thank you",
+        "english": "Cảm ơn"
+      },
+      {
+        "hindi": "Sorry",
+        "english": "Xin lỗi"
+      },
+      {
+        "hindi": "Good morning",
+        "english": "Chào buổi sáng"
+      },
+      {
+        "hindi": "Good night",
+        "english": "Chúc ngủ ngon"
+      }
+    ]
+  }
+]

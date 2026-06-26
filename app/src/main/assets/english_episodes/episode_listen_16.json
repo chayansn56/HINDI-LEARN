@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
     "text": "To learn",
     "subtext": "",
-    "answer": "सीखना​​​​​​​​​​​​​​​​​​",
+    "answer": "To learn",
     "answer_vi": "Học",
     "options": [
-      "सीखना​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​",
-      "बादल​​​​​​​​"
+      "To learn",
+      "To learn",
+      "To listen / hear",
+      "Cloud"
     ],
     "options_vi": [
       "Học",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
     "text": "To learn",
     "subtext": "",
-    "answer": "सीखना​",
+    "answer": "To learn",
     "answer_vi": "Học",
     "options": [
-      "सीखना​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To learn",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
       "Học",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​",
-      "सीखना​​​​"
+      "Soil / Earth",
+      "To listen / hear",
+      "To listen / hear",
+      "To learn"
     ],
     "options_vi": [
       "Đất",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "near / near to / possess (have)",
     "transliteration": "",
-    "english": "के पास",
-    "vietnamese": "Gần / Có",
+    "english": "Gần / Có",
+    "vietnamese": "",
     "audio": "near / near to / possess (have)"
   },
   {
     "type": "Flashcard",
     "hindi": "LOL / Laughing Out Loud",
     "transliteration": "",
-    "english": "लोल",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "LOL / Laughing Out Loud"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
     "text": "To learn",
     "subtext": "",
-    "answer": "सीखना",
+    "answer": "To learn",
     "answer_vi": "Học",
     "options": [
-      "सीखना",
-      "मिट्टी​",
-      "के पास",
-      "लोल"
+      "To learn",
+      "Soil / Earth",
+      "near / near to / possess (have)",
+      "LOL / Laughing Out Loud"
     ],
     "options_vi": [
       "Học",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सीखना​​​​​​​​​​​​​​​​​​ / Nó là một Học",
+    "englishSentence": "Nó là một Học",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To learn"
+      "To",
+      "learn"
     ],
     "correctHindiSentence": "It is a To learn"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Học",
+    "englishSentence": "Tôi thích Học",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To learn"
+      "To",
+      "learn"
     ],
     "correctHindiSentence": "I really like To learn"
   },

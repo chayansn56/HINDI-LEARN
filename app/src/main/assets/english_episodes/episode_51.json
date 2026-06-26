@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "From me / With me",
     "transliteration": "",
-    "english": "मुझसे",
-    "vietnamese": "Từ tôi / Với tôi",
+    "english": "Từ tôi / Với tôi",
+    "vietnamese": "",
     "audio": "From me / With me"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'From me / With me'",
     "text": "From me / With me",
     "subtext": "",
-    "answer": "मुझसे",
+    "answer": "From me / With me",
     "answer_vi": "Từ tôi / Với tôi",
     "options": [
-      "मुझसे",
-      "सफ़र​",
-      "लेना​​​",
-      "लिखना​​​​​​​​​"
+      "From me / With me",
+      "Journey",
+      "To take",
+      "To write"
     ],
     "options_vi": [
       "Từ tôi / Với tôi",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To cry",
+      "To take",
+      "To sing",
+      "To play"
     ],
     "options_vi": [
       "Khóc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "Airport",
     "transliteration": "",
-    "english": "हवाई अड्डा",
-    "vietnamese": "Sân bay",
+    "english": "Sân bay",
+    "vietnamese": "",
     "audio": "Airport"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
     "text": "To make / build",
     "subtext": "",
-    "answer": "बनाना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
     "options": [
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​",
-      "बंद करना​​​​​​​​​​​​​​​",
-      "हवाई अड्डा",
-      "बर्फ़​​​​​​​"
+      "To make / build",
+      "To close",
+      "Airport",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Chế tạo / Tạo ra",
@@ -300,18 +300,22 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the मुझसे / Tôi thấy Từ tôi / Với tôi",
+    "englishSentence": "Với tôi",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "From me / With me"
+      "From",
+      "me",
+      "/",
+      "With",
+      "me"
     ],
     "correctHindiSentence": "I see the From me / With me"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सफ़र​ / Tôi muốn Chuyến đi",
+    "englishSentence": "Tôi muốn Chuyến đi",
     "hindiWords": [
       "I",
       "want",

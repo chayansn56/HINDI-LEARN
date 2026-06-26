@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "Path / Way",
     "transliteration": "",
-    "english": "रास्ता​​​​",
-    "vietnamese": "Đường đi",
+    "english": "Đường đi",
+    "vietnamese": "",
     "audio": "Path / Way"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To tell / explain'",
     "text": "To tell / explain",
     "subtext": "",
-    "answer": "बताना​​​​​​​​​",
+    "answer": "To tell / explain",
     "answer_vi": "Kể / Giải thích",
     "options": [
-      "बताना​​​​​​​​​",
-      "रास्ता​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खड़े होना"
+      "To tell / explain",
+      "Path / Way",
+      "To listen / hear",
+      "To stand"
     ],
     "options_vi": [
       "Kể / Giải thích",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Country",
     "transliteration": "",
-    "english": "देश​​​​​",
-    "vietnamese": "Đất nước",
+    "english": "Đất nước",
+    "vietnamese": "",
     "audio": "Country"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​",
-      "देश​​​​​"
+      "To speak",
+      "To play",
+      "To ask",
+      "Country"
     ],
     "options_vi": [
       "Nói",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Dance",
     "transliteration": "",
-    "english": "नृत्य",
-    "vietnamese": "Điệu nhảy",
+    "english": "Điệu nhảy",
+    "vietnamese": "",
     "audio": "Dance"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
     "type": "Flashcard",
     "hindi": "Medicine",
     "transliteration": "",
-    "english": "दवाई",
-    "vietnamese": "Thuốc",
+    "english": "Thuốc",
+    "vietnamese": "",
     "audio": "Medicine"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Dance'",
     "text": "Dance",
     "subtext": "",
-    "answer": "नृत्य",
+    "answer": "Dance",
     "answer_vi": "Điệu nhảy",
     "options": [
-      "नृत्य",
-      "बारिश​​​​​​",
-      "दवाई",
-      "बताना​​​"
+      "Dance",
+      "Rain",
+      "Medicine",
+      "To tell / explain"
     ],
     "options_vi": [
       "Điệu nhảy",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​​​​​​"
+      "To cry",
+      "To make / build",
+      "To ask",
+      "To cry"
     ],
     "options_vi": [
       "Khóc",
@@ -355,23 +355,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बताना​​​​​​​​​ / Nó là một Kể / Giải thích",
+    "englishSentence": "Giải thích",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To tell / explain"
+      "To",
+      "tell",
+      "/",
+      "explain"
     ],
     "correctHindiSentence": "It is a To tell / explain"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like रास्ता​​​​ / Tôi thích Đường đi",
+    "englishSentence": "Tôi thích Đường đi",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Path / Way"
+      "Path",
+      "/",
+      "Way"
     ],
     "correctHindiSentence": "I really like Path / Way"
   },

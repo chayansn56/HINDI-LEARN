@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​​​​​​​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​",
-      "पैसा​​​​​​​​​"
+      "To ask",
+      "To learn",
+      "To walk / move",
+      "Money"
     ],
     "options_vi": [
       "Hỏi",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "Eid",
     "transliteration": "",
-    "english": "ईद",
-    "vietnamese": "Lễ hội Eid",
+    "english": "Lễ hội Eid",
+    "vietnamese": "",
     "audio": "Eid"
   },
   {
     "type": "Flashcard",
     "hindi": "Temple",
     "transliteration": "",
-    "english": "मंदिर",
-    "vietnamese": "Đền thờ",
+    "english": "Đền thờ",
+    "vietnamese": "",
     "audio": "Temple"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
     "text": "To wake up",
     "subtext": "",
-    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wake up",
     "answer_vi": "Thức dậy",
     "options": [
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बैठना​​​​​​​​​​​​",
-      "ईद",
-      "मंदिर"
+      "To wake up",
+      "To sit",
+      "Eid",
+      "Temple"
     ],
     "options_vi": [
       "Thức dậy",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Romance",
     "transliteration": "",
-    "english": "रोमांस",
-    "vietnamese": "Sự lãng mạn",
+    "english": "Sự lãng mạn",
+    "vietnamese": "",
     "audio": "Romance"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "9",
     "transliteration": "",
-    "english": "९",
-    "vietnamese": "Chín",
+    "english": "Chín",
+    "vietnamese": "",
     "audio": "9"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Romance'",
     "text": "Romance",
     "subtext": "",
-    "answer": "रोमांस",
+    "answer": "Romance",
     "answer_vi": "Sự lãng mạn",
     "options": [
-      "रोमांस",
-      "देखना​​​​​​​​",
-      "९",
-      "देना​​​​​​​​​​​​​​​​​​​​"
+      "Romance",
+      "To see / watch",
+      "9",
+      "To give"
     ],
     "options_vi": [
       "Sự lãng mạn",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Hỏi",
+    "englishSentence": "Tôi thấy Hỏi",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To ask"
+      "To",
+      "ask"
     ],
     "correctHindiSentence": "I see the To ask"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सीखना​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Học",
+    "englishSentence": "Tôi muốn Học",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To learn"
+      "To",
+      "learn"
     ],
     "correctHindiSentence": "I want a To learn"
   },

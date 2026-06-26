@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "Until / Up to",
     "transliteration": "",
-    "english": "तक",
-    "vietnamese": "Cho đến khi",
+    "english": "Cho đến khi",
+    "vietnamese": "",
     "audio": "Until / Up to"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​​​​​​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
     "text": "To teach",
     "subtext": "",
-    "answer": "sिखाना​​​​​​​​​",
+    "answer": "To teach",
     "answer_vi": "Dạy",
     "options": [
-      "sिखाना​​​​​​​​​",
-      "तक",
-      "पैसा​​​​​​​​",
-      "पेन​​​​​​​​​​"
+      "To teach",
+      "Until / Up to",
+      "Money",
+      "Pen"
     ],
     "options_vi": [
       "Dạy",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Read (root)",
     "transliteration": "",
-    "english": "पढ़",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "Read (root)"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
     "text": "To read",
     "subtext": "",
-    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़"
+      "To read",
+      "To give",
+      "To run",
+      "Read (root)"
     ],
     "options_vi": [
       "Đọc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "Spoon",
     "transliteration": "",
-    "english": "चम्मच​​​​​​​​​",
-    "vietnamese": "Thìa",
+    "english": "Thìa",
+    "vietnamese": "",
     "audio": "Spoon"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चम्मच​​​​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "गाँव​​​​​"
+      "To cry",
+      "Spoon",
+      "To cry",
+      "Village"
     ],
     "options_vi": [
       "Khóc",
@@ -300,23 +300,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the sिखाना​​​​​​​​​ / Tôi thấy Dạy",
+    "englishSentence": "Tôi thấy Dạy",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To teach"
+      "To",
+      "teach"
     ],
     "correctHindiSentence": "I see the To teach"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a तक / Tôi muốn Cho đến khi",
+    "englishSentence": "Tôi muốn Cho đến khi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Until / Up to"
+      "Until",
+      "/",
+      "Up",
+      "to"
     ],
     "correctHindiSentence": "I want a Until / Up to"
   },

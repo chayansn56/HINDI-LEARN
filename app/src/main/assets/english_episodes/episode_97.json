@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "to have to / obligation",
     "transliteration": "",
-    "english": "पड़ना",
-    "vietnamese": "Phải / Bắt buộc",
+    "english": "Phải / Bắt buộc",
+    "vietnamese": "",
     "audio": "to have to / obligation"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloth / Dress",
     "transliteration": "",
-    "english": "कपड़ा",
-    "vietnamese": "Quần áo",
+    "english": "Quần áo",
+    "vietnamese": "",
     "audio": "Cloth / Dress"
   },
   {
     "type": "Flashcard",
     "hindi": "Our (feminine)",
     "transliteration": "",
-    "english": "हमारी",
-    "vietnamese": "Của chúng tôi (giống cái)",
+    "english": "Của chúng tôi (giống cái)",
+    "vietnamese": "",
     "audio": "Our (feminine)"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to have to / obligation'",
     "text": "to have to / obligation",
     "subtext": "",
-    "answer": "पड़ना",
+    "answer": "to have to / obligation",
     "answer_vi": "Phải / Bắt buộc",
     "options": [
-      "पड़ना",
-      "कपड़ा",
-      "हमारी",
-      "सुनना​​​​​"
+      "to have to / obligation",
+      "Cloth / Dress",
+      "Our (feminine)",
+      "To listen / hear"
     ],
     "options_vi": [
       "Phải / Bắt buộc",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Silver",
     "transliteration": "",
-    "english": "चाँदी​​​​​",
-    "vietnamese": "Bạc",
+    "english": "Bạc",
+    "vietnamese": "",
     "audio": "Silver"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "How many",
     "transliteration": "",
-    "english": "कितने",
-    "vietnamese": "Bao nhiêu (số lượng)",
+    "english": "Bao nhiêu (số lượng)",
+    "vietnamese": "",
     "audio": "How many"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Silver'",
     "text": "Silver",
     "subtext": "",
-    "answer": "चाँदी​​​​​",
+    "answer": "Silver",
     "answer_vi": "Bạc",
     "options": [
-      "चाँदी​​​​​",
-      "गाँव​​​",
-      "कितने",
-      "साफ करना​​​​​​​​​​"
+      "Silver",
+      "Village",
+      "How many",
+      "To clean"
     ],
     "options_vi": [
       "Bạc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "Budget",
     "transliteration": "",
-    "english": "बजट",
-    "vietnamese": "Ngân sách",
+    "english": "Ngân sách",
+    "vietnamese": "",
     "audio": "Budget"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​",
-      "बजट",
-      "बेचना​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​"
+      "To cry",
+      "Budget",
+      "To sell",
+      "To see / watch"
     ],
     "options_vi": [
       "Khóc",
@@ -300,23 +300,29 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पड़ना / Tôi thấy Phải / Bắt buộc",
+    "englishSentence": "Bắt buộc",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "to have to / obligation"
+      "to",
+      "have",
+      "to",
+      "/",
+      "obligation"
     ],
     "correctHindiSentence": "I see the to have to / obligation"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a कपड़ा / Tôi muốn Quần áo",
+    "englishSentence": "Tôi muốn Quần áo",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Cloth / Dress"
+      "Cloth",
+      "/",
+      "Dress"
     ],
     "correctHindiSentence": "I want a Cloth / Dress"
   },

@@ -1,65 +1,83 @@
-{
-  "title": "Vowel Pairs",
-  "description": "Learn to distinguish between confusing vowel sounds.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "content": "Nguyên âm tiếng Anh có thể phân thành âm ngắn và âm dài. Phân biệt sai âm có thể làm sai nghĩa của từ (ví dụ: ship vs sheep)."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Ship",
-      "translation": "Con tàu (âm /ɪ/ ngắn)",
-      "audio": "ship"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Sheep",
-      "translation": "Con cừu (âm /i:/ dài)",
-      "audio": "sheep"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Bed",
-      "translation": "Cái giường (âm /e/ ngắn)",
-      "audio": "bed"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Bad",
-      "translation": "Tệ, xấu (âm /æ/ bẹt)",
-      "audio": "bad"
-    },
-    {
-      "type": "TeachRule",
-      "content": "Cặp âm /u:/ và /ʊ/ cũng cần lưu ý: pool (hồ bơi) vs pull (kéo)."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Pool",
-      "translation": "Hồ bơi (âm /u:/ dài)",
-      "audio": "pool"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Từ 'sheep' có chứa nguyên âm nào?",
-      "options": ["/ɪ/ ngắn", "/i:/ dài", "/e/", "/æ/"],
-      "correctAnswer": "/i:/ dài"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Trong hai từ sau, từ nào chứa âm ngắn: 'slip' hay 'sleep'?",
-      "options": ["slip", "sleep", "Cả hai", "Không từ nào"],
-      "correctAnswer": "slip"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"left": "Ship", "right": "Con tàu (/ɪ/)"},
-        {"left": "Sheep", "right": "Con cừu (/i:/)"},
-        {"left": "Pull", "right": "Kéo (/ʊ/)"},
-        {"left": "Pool", "right": "Hồ bơi (/u:/)"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "content": "Nguyên âm tiếng Anh có thể phân thành âm ngắn và âm dài. Phân biệt sai âm có thể làm sai nghĩa của từ (ví dụ: ship vs sheep)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ship",
+    "translation": "Con tàu (âm /ɪ/ ngắn)",
+    "audio": "ship"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sheep",
+    "translation": "Con cừu (âm /i:/ dài)",
+    "audio": "sheep"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bed",
+    "translation": "Cái giường (âm /e/ ngắn)",
+    "audio": "bed"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bad",
+    "translation": "Tệ, xấu (âm /æ/ bẹt)",
+    "audio": "bad"
+  },
+  {
+    "type": "TeachRule",
+    "content": "Cặp âm /u:/ và /ʊ/ cũng cần lưu ý: pool (hồ bơi) vs pull (kéo)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pool",
+    "translation": "Hồ bơi (âm /u:/ dài)",
+    "audio": "pool"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Từ 'sheep' có chứa nguyên âm nào?",
+    "options": [
+      "/ɪ/ ngắn",
+      "/i:/ dài",
+      "/e/",
+      "/æ/"
+    ],
+    "correctAnswer": "/i:/ dài"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Trong hai từ sau, từ nào chứa âm ngắn: 'slip' hay 'sleep'?",
+    "options": [
+      "slip",
+      "sleep",
+      "Cả hai",
+      "Không từ nào"
+    ],
+    "correctAnswer": "slip"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "left": "Ship",
+        "right": "Con tàu (/ɪ/)"
+      },
+      {
+        "left": "Sheep",
+        "right": "Con cừu (/i:/)"
+      },
+      {
+        "left": "Pull",
+        "right": "Kéo (/ʊ/)"
+      },
+      {
+        "left": "Pool",
+        "right": "Hồ bơi (/u:/)"
+      }
+    ]
+  }
+]

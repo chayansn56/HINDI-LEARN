@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "40",
     "transliteration": "",
-    "english": "४०",
-    "vietnamese": "Bốn mươi",
+    "english": "Bốn mươi",
+    "vietnamese": "",
     "audio": "40"
   },
   {
     "type": "Flashcard",
     "hindi": "River",
     "transliteration": "",
-    "english": "नदी​​​​​",
-    "vietnamese": "Con sông",
+    "english": "Con sông",
+    "vietnamese": "",
     "audio": "River"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho '40'",
     "text": "40",
     "subtext": "",
-    "answer": "४०",
+    "answer": "40",
     "answer_vi": "Bốn mươi",
     "options": [
-      "४०",
-      "नदी​​​​​",
-      "रोना​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "40",
+      "River",
+      "To cry",
+      "To walk / move"
     ],
     "options_vi": [
       "Bốn mươi",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "No doubt.",
     "transliteration": "",
-    "english": "कोई शक नहीं।",
-    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "english": "Không còn nghi ngờ gì nữa.",
+    "vietnamese": "",
     "audio": "No doubt."
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "Bride",
     "transliteration": "",
-    "english": "दुल्हन",
-    "vietnamese": "Cô dâu",
+    "english": "Cô dâu",
+    "vietnamese": "",
     "audio": "Bride"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'No doubt.'",
     "text": "No doubt.",
     "subtext": "",
-    "answer": "कोई शक नहीं।",
+    "answer": "No doubt.",
     "answer_vi": "Không còn nghi ngờ gì nữa.",
     "options": [
-      "कोई शक नहीं।",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​​",
-      "दुल्हन"
+      "No doubt.",
+      "To stand",
+      "To clean",
+      "Bride"
     ],
     "options_vi": [
       "Không còn nghi ngờ gì nữa.",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​​​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Rain'",
     "text": "Rain",
     "subtext": "",
-    "answer": "बारिश​​​​​​​",
+    "answer": "Rain",
     "answer_vi": "Cơn mưa",
     "options": [
-      "बारिश​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना",
-      "लेना​​​​​​"
+      "Rain",
+      "To speak",
+      "To clean",
+      "To take"
     ],
     "options_vi": [
       "Cơn mưa",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the ४० / Tôi thấy Bốn mươi",
+    "englishSentence": "Tôi thấy Bốn mươi",
     "hindiWords": [
       "I",
       "see",
@@ -311,7 +311,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a नदी​​​​​ / Tôi muốn Con sông",
+    "englishSentence": "Tôi muốn Con sông",
     "hindiWords": [
       "I",
       "want",

@@ -25,12 +25,17 @@ object CurriculumManager {
 
         try {
             val fileName = "${folder}/${nodeId}.json"
-            val inputStream: InputStream = context.assets.open(fileName)
-            val size = inputStream.available()
-            val buffer = ByteArray(size)
-            inputStream.read(buffer)
-            inputStream.close()
-            val jsonString = String(buffer, Charsets.UTF_8)
+            val overrideFile = CurriculumSyncManager.getLocalOverrideFile(context, "${nodeId}.json")
+            val jsonString = if (overrideFile != null) {
+                overrideFile.readText()
+            } else {
+                val inputStream: InputStream = context.assets.open(fileName)
+                val size = inputStream.available()
+                val buffer = ByteArray(size)
+                inputStream.read(buffer)
+                inputStream.close()
+                String(buffer, Charsets.UTF_8)
+            }
             
             val array = try {
                 val obj = org.json.JSONObject(jsonString)

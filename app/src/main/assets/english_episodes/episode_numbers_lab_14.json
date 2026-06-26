@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Listen to me.",
     "transliteration": "",
-    "english": "मेरी बात सुनो।",
-    "vietnamese": "Hãy nghe tôi nói.",
+    "english": "Hãy nghe tôi nói.",
+    "vietnamese": "",
     "audio": "Listen to me."
   },
   {
     "type": "Flashcard",
     "hindi": "Sentence",
     "transliteration": "",
-    "english": "वाक्य",
-    "vietnamese": "Câu",
+    "english": "Câu",
+    "vietnamese": "",
     "audio": "Sentence"
   },
   {
     "type": "Flashcard",
     "hindi": "Someone / Anyone",
     "transliteration": "",
-    "english": "कोई",
-    "vietnamese": "Ai đó / Người nào đó",
+    "english": "Ai đó / Người nào đó",
+    "vietnamese": "",
     "audio": "Someone / Anyone"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मेरी बात सुनो।",
-      "वाक्य",
-      "कोई"
+      "To listen / hear",
+      "Listen to me.",
+      "Sentence",
+      "Someone / Anyone"
     ],
     "options_vi": [
       "Nghe",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​​​​​​​​​​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Did / Done",
     "transliteration": "",
-    "english": "किया",
-    "vietnamese": "Đã làm",
+    "english": "Đã làm",
+    "vietnamese": "",
     "audio": "Did / Done"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Money'",
     "text": "Money",
     "subtext": "",
-    "answer": "पैसा​​​​​​​​​​​​",
+    "answer": "Money",
     "answer_vi": "Tiền",
     "options": [
-      "पैसा​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "किया"
+      "Money",
+      "To listen / hear",
+      "To listen / hear",
+      "Did / Done"
     ],
     "options_vi": [
       "Tiền",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​",
-      "पैसा​​​"
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear",
+      "Money"
     ],
     "options_vi": [
       "Nghe",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​​​​​​​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Money'",
     "text": "Money",
     "subtext": "",
-    "answer": "पैसा​​",
+    "answer": "Money",
     "answer_vi": "Tiền",
     "options": [
-      "पैसा​​",
-      "सुनना​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पैसा​​​​​​​​​"
+      "Money",
+      "To listen / hear",
+      "To listen / hear",
+      "Money"
     ],
     "options_vi": [
       "Tiền",
@@ -355,23 +355,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Nghe",
+    "englishSentence": "Nó là một Nghe",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "It is a To listen / hear"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like मेरी बात सुनो। / Tôi thích Hãy nghe tôi nói.",
+    "englishSentence": "Tôi thích Hãy nghe tôi nói.",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Listen to me."
+      "Listen",
+      "to",
+      "me."
     ],
     "correctHindiSentence": "I really like Listen to me."
   },

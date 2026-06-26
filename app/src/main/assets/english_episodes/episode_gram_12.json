@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Sentence",
     "transliteration": "",
-    "english": "वाक्य",
-    "vietnamese": "Câu",
+    "english": "Câu",
+    "vietnamese": "",
     "audio": "Sentence"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know",
     "transliteration": "",
-    "english": "मुझे नहीं मालूम",
-    "vietnamese": "Tôi không biết",
+    "english": "Tôi không biết",
+    "vietnamese": "",
     "audio": "I don't know"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​​",
-      "वाक्य",
-      "मुझे नहीं मालूम",
-      "बर्फ़​​​​​​​​​​"
+      "Snow / Ice",
+      "Sentence",
+      "I don't know",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "What time is it?",
     "transliteration": "",
-    "english": "क्या समय हुआ है?",
-    "vietnamese": "Mấy giờ rồi?",
+    "english": "Mấy giờ rồi?",
+    "vietnamese": "",
     "audio": "What time is it?"
   },
   {
     "type": "Flashcard",
     "hindi": "Just then / That is why",
     "transliteration": "",
-    "english": "तभी",
-    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "english": "Ngay lúc đó / Chính vì vậy",
+    "vietnamese": "",
     "audio": "Just then / That is why"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "I know",
     "transliteration": "",
-    "english": "मुझे पता है",
-    "vietnamese": "Tôi biết",
+    "english": "Tôi biết",
+    "vietnamese": "",
     "audio": "I know"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'What time is it?'",
     "text": "What time is it?",
     "subtext": "",
-    "answer": "क्या समय हुआ है?",
+    "answer": "What time is it?",
     "answer_vi": "Mấy giờ rồi?",
     "options": [
-      "क्या समय हुआ है?",
-      "तभी",
-      "बर्फ़​​​​​​​​",
-      "मुझे पता है"
+      "What time is it?",
+      "Just then / That is why",
+      "Snow / Ice",
+      "I know"
     ],
     "options_vi": [
       "Mấy giờ rồi?",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "to know",
     "transliteration": "",
-    "english": "जानना",
-    "vietnamese": "Biết",
+    "english": "Biết",
+    "vietnamese": "",
     "audio": "to know"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​",
-      "जानना",
-      "बर्फ़​​",
-      "बर्फ़​​​​​​​​​"
+      "Snow / Ice",
+      "to know",
+      "Snow / Ice",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Right now",
     "transliteration": "",
-    "english": "अभी",
-    "vietnamese": "Ngay bây giờ",
+    "english": "Ngay bây giờ",
+    "vietnamese": "",
     "audio": "Right now"
   },
   {
     "type": "Flashcard",
     "hindi": "As for / Then",
     "transliteration": "",
-    "english": "तो",
-    "vietnamese": "Thì / Vậy thì",
+    "english": "Thì / Vậy thì",
+    "vietnamese": "",
     "audio": "As for / Then"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know.",
     "transliteration": "",
-    "english": "पता नहीं।",
-    "vietnamese": "Tôi không biết.",
+    "english": "Tôi không biết.",
+    "vietnamese": "",
     "audio": "I don't know."
   },
   {
     "type": "Flashcard",
     "hindi": "To do a U-turn / go back on word",
     "transliteration": "",
-    "english": "पलटी मारना",
-    "vietnamese": "Lật lọng / Nuốt lời",
+    "english": "Lật lọng / Nuốt lời",
+    "vietnamese": "",
     "audio": "To do a U-turn / go back on word"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Right now'",
     "text": "Right now",
     "subtext": "",
-    "answer": "अभी",
+    "answer": "Right now",
     "answer_vi": "Ngay bây giờ",
     "options": [
-      "अभी",
-      "तो",
-      "पता नहीं।",
-      "पलटी मारना"
+      "Right now",
+      "As for / Then",
+      "I don't know.",
+      "To do a U-turn / go back on word"
     ],
     "options_vi": [
       "Ngay bây giờ",
@@ -355,18 +355,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बर्फ़​​​​​​​ / Nó là một Tuyết / Đá",
+    "englishSentence": "Đá",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Snow / Ice"
+      "Snow",
+      "/",
+      "Ice"
     ],
     "correctHindiSentence": "It is a Snow / Ice"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like वाक्य / Tôi thích Câu",
+    "englishSentence": "Tôi thích Câu",
     "hindiWords": [
       "I",
       "really",

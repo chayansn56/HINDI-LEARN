@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To eat / Food",
     "transliteration": "",
-    "english": "खाना",
-    "vietnamese": "Ăn / Đồ ăn",
+    "english": "Ăn / Đồ ăn",
+    "vietnamese": "",
     "audio": "To eat / Food"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "inside of",
     "transliteration": "",
-    "english": "के अंदर",
-    "vietnamese": "Bên trong của",
+    "english": "Bên trong của",
+    "vietnamese": "",
     "audio": "inside of"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To eat / Food'",
     "text": "To eat / Food",
     "subtext": "",
-    "answer": "खाना",
+    "answer": "To eat / Food",
     "answer_vi": "Ăn / Đồ ăn",
     "options": [
-      "खाना",
-      "मदद​​​​​​​​",
-      "के अंदर",
-      "बादल​​​​"
+      "To eat / Food",
+      "Help",
+      "inside of",
+      "Cloud"
     ],
     "options_vi": [
       "Ăn / Đồ ăn",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "were (masculine plural)",
     "transliteration": "",
-    "english": "थे",
-    "vietnamese": "Đã là (nam số nhiều)",
+    "english": "Đã là (nam số nhiều)",
+    "vietnamese": "",
     "audio": "were (masculine plural)"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Do you remember?",
     "transliteration": "",
-    "english": "क्या आपको याद है?",
-    "vietnamese": "Bạn có nhớ không?",
+    "english": "Bạn có nhớ không?",
+    "vietnamese": "",
     "audio": "Do you remember?"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​",
-      "थे",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "क्या आपको याद है?"
+      "To stand",
+      "were (masculine plural)",
+      "To run",
+      "Do you remember?"
     ],
     "options_vi": [
       "Đứng",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "My (feminine)",
     "transliteration": "",
-    "english": "मेरी",
-    "vietnamese": "Của tôi (giống cái)",
+    "english": "Của tôi (giống cái)",
+    "vietnamese": "",
     "audio": "My (feminine)"
   },
   {
@@ -243,16 +243,16 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
     "text": "To teach",
     "subtext": "",
-    "answer": "sिखाना​​​​​​",
-    "answer_vi": "Dạy",
+    "answer": "To eat / Food",
+    "answer_vi": "Ăn / Đồ ăn",
     "options": [
-      "sिखाना​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मेरी"
+      "To eat / Food",
+      "To clean",
+      "To speak",
+      "My (feminine)"
     ],
     "options_vi": [
-      "Dạy",
+      "Ăn / Đồ ăn",
       "Dọn dẹp / Lau chùi",
       "Nói",
       "Của tôi (giống cái)"
@@ -300,18 +300,21 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the खाना / Tôi thấy Ăn / Đồ ăn",
+    "englishSentence": "Đồ ăn",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To eat / Food"
+      "To",
+      "eat",
+      "/",
+      "Food"
     ],
     "correctHindiSentence": "I see the To eat / Food"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a मदद​​​​​​​​ / Tôi muốn Sự giúp đỡ",
+    "englishSentence": "Tôi muốn Sự giúp đỡ",
     "hindiWords": [
       "I",
       "want",

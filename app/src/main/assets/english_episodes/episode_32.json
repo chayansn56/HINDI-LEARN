@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "To this / him / her (near)",
     "transliteration": "",
-    "english": "इसे",
-    "vietnamese": "Cho người/vật này",
+    "english": "Cho người/vật này",
+    "vietnamese": "",
     "audio": "To this / him / her (near)"
   },
   {
     "type": "Flashcard",
     "hindi": "Carefree / Cool",
     "transliteration": "",
-    "english": "बिंदास",
-    "vietnamese": "Sống thoải mái / Vô tư",
+    "english": "Sống thoải mái / Vô tư",
+    "vietnamese": "",
     "audio": "Carefree / Cool"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​​​",
-      "इसे",
-      "बिंदास",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Soil / Earth",
+      "To this / him / her (near)",
+      "Carefree / Cool",
+      "To sleep"
     ],
     "options_vi": [
       "Đất",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "Their / His / Her (formal near)",
     "transliteration": "",
-    "english": "इनका",
-    "vietnamese": "Của họ / Của ngài ấy (gần)",
+    "english": "Của họ / Của ngài ấy (gần)",
+    "vietnamese": "",
     "audio": "Their / His / Her (formal near)"
   },
   {
     "type": "Flashcard",
     "hindi": "City",
     "transliteration": "",
-    "english": "शहर​​​​​",
-    "vietnamese": "Thành phố",
+    "english": "Thành phố",
+    "vietnamese": "",
     "audio": "City"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
     "text": "To read",
     "subtext": "",
-    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "इनका",
-      "शहर​​​​​"
+      "To read",
+      "To see / watch",
+      "Their / His / Her (formal near)",
+      "City"
     ],
     "options_vi": [
       "Đọc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
     "text": "To play",
     "subtext": "",
-    "answer": "खेलना​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To play",
     "answer_vi": "Chơi",
     "options": [
-      "खेलना​​​​​​​​​​​​​​​​​​​​​",
-      "जूता​​​",
-      "लेना​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​​​"
+      "To play",
+      "Shoe",
+      "To take",
+      "To sell"
     ],
     "options_vi": [
       "Chơi",
@@ -300,23 +300,31 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the मिट्टी​​​​​ / Tôi thấy Đất",
+    "englishSentence": "Tôi thấy Đất",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Soil / Earth"
+      "Soil",
+      "/",
+      "Earth"
     ],
     "correctHindiSentence": "I see the Soil / Earth"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a इसे / Tôi muốn Cho người/vật này",
+    "englishSentence": "vật này",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To this / him / her (near)"
+      "To",
+      "this",
+      "/",
+      "him",
+      "/",
+      "her",
+      "(near)"
     ],
     "correctHindiSentence": "I want a To this / him / her (near)"
   },

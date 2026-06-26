@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Can / Able to",
     "transliteration": "",
-    "english": "सकता है",
-    "vietnamese": "Có thể",
+    "english": "Có thể",
+    "vietnamese": "",
     "audio": "Can / Able to"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Can / Able to'",
     "text": "Can / Able to",
     "subtext": "",
-    "answer": "सकता है",
+    "answer": "Can / Able to",
     "answer_vi": "Có thể",
     "options": [
-      "सकता है",
-      "चलना​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​",
-      "मदद​​"
+      "Can / Able to",
+      "To walk / move",
+      "To teach",
+      "Help"
     ],
     "options_vi": [
       "Có thể",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "From this / it (near)",
     "transliteration": "",
-    "english": "इससे",
-    "vietnamese": "Từ cái này",
+    "english": "Từ cái này",
+    "vietnamese": "",
     "audio": "From this / it (near)"
   },
   {
     "type": "Flashcard",
     "hindi": "Speak louder.",
     "transliteration": "",
-    "english": "ज़ोर से बोलिए।",
-    "vietnamese": "Nói to lên.",
+    "english": "Nói to lên.",
+    "vietnamese": "",
     "audio": "Speak louder."
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'From this / it (near)'",
     "text": "From this / it (near)",
     "subtext": "",
-    "answer": "इससे",
+    "answer": "From this / it (near)",
     "answer_vi": "Từ cái này",
     "options": [
-      "इससे",
-      "ज़ोर से बोलिए।",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देना​​​"
+      "From this / it (near)",
+      "Speak louder.",
+      "To write",
+      "To give"
     ],
     "options_vi": [
       "Từ cái này",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
     "text": "Cloud",
     "subtext": "",
-    "answer": "बादल​​​​​​",
+    "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
-      "बादल​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​",
-      "दफ़्तर​​​​​",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Cloud",
+      "To tell / explain",
+      "Office",
+      "To teach"
     ],
     "options_vi": [
       "Đám mây",
@@ -300,23 +300,29 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the सकता है / Tôi thấy Có thể",
+    "englishSentence": "Tôi thấy Có thể",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Can / Able to"
+      "Can",
+      "/",
+      "Able",
+      "to"
     ],
     "correctHindiSentence": "I see the Can / Able to"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a चलना​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Đi bộ / Di chuyển",
+    "englishSentence": "Di chuyển",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To walk / move"
+      "To",
+      "walk",
+      "/",
+      "move"
     ],
     "correctHindiSentence": "I want a To walk / move"
   },

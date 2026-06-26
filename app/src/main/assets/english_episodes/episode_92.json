@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "Country",
     "transliteration": "",
-    "english": "देश​",
-    "vietnamese": "Đất nước",
+    "english": "Đất nước",
+    "vietnamese": "",
     "audio": "Country"
   },
   {
     "type": "Flashcard",
     "hindi": "What else is going on? / What's up?",
     "transliteration": "",
-    "english": "और क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì mới không?",
+    "english": "Có chuyện gì mới không?",
+    "vietnamese": "",
     "audio": "What else is going on? / What's up?"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
     "text": "To walk / move",
     "subtext": "",
-    "answer": "चलना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To walk / move",
     "answer_vi": "Đi bộ / Di chuyển",
     "options": [
-      "चलना​​​​​​​​​​​​​​​​​​​​",
-      "देश​",
-      "और क्या चल रहा है?",
-      "बादल​​​"
+      "To walk / move",
+      "Country",
+      "What else is going on? / What's up?",
+      "Cloud"
     ],
     "options_vi": [
       "Đi bộ / Di chuyển",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "World",
     "transliteration": "",
-    "english": "दुनया​​​​",
-    "vietnamese": "Thế giới",
+    "english": "Thế giới",
+    "vietnamese": "",
     "audio": "World"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "are",
     "transliteration": "",
-    "english": "हैं",
-    "vietnamese": "Là (số nhiều)",
+    "english": "Là (số nhiều)",
+    "vietnamese": "",
     "audio": "are"
   },
   {
     "type": "Flashcard",
     "hindi": "Luggage / Stuff",
     "transliteration": "",
-    "english": "सामान",
-    "vietnamese": "Hành lý",
+    "english": "Hành lý",
+    "vietnamese": "",
     "audio": "Luggage / Stuff"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'World'",
     "text": "World",
     "subtext": "",
-    "answer": "दुनया​​​​",
+    "answer": "World",
     "answer_vi": "Thế giới",
     "options": [
-      "दुनया​​​​",
-      "खोलना​​​​​​​​​​​​​",
-      "हैं",
-      "सामान"
+      "World",
+      "To open",
+      "are",
+      "Luggage / Stuff"
     ],
     "options_vi": [
       "Thế giới",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Also / Too",
     "transliteration": "",
-    "english": "भी",
-    "vietnamese": "Cũng vậy",
+    "english": "Cũng vậy",
+    "vietnamese": "",
     "audio": "Also / Too"
   },
   {
     "type": "Flashcard",
     "hindi": "World",
     "transliteration": "",
-    "english": "दुनया​​​​​​",
-    "vietnamese": "Thế giới",
+    "english": "Thế giới",
+    "vietnamese": "",
     "audio": "World"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Also / Too'",
     "text": "Also / Too",
     "subtext": "",
-    "answer": "भी",
+    "answer": "Also / Too",
     "answer_vi": "Cũng vậy",
     "options": [
-      "भी",
-      "दुनया​​​​​​",
-      "पूछना",
-      "करना​​​​​​​​​​​​​​​​​​​​​​"
+      "Also / Too",
+      "World",
+      "To ask",
+      "To do"
     ],
     "options_vi": [
       "Cũng vậy",
@@ -300,18 +300,21 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the चलना​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Đi bộ / Di chuyển",
+    "englishSentence": "Di chuyển",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To walk / move"
+      "To",
+      "walk",
+      "/",
+      "move"
     ],
     "correctHindiSentence": "I see the To walk / move"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a देश​ / Tôi muốn Đất nước",
+    "englishSentence": "Tôi muốn Đất nước",
     "hindiWords": [
       "I",
       "want",

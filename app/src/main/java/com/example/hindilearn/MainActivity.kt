@@ -16,6 +16,7 @@ class MainActivity : ComponentActivity() {
     super.onCreate(savedInstanceState)
 
     com.example.hindilearn.data.UserManager.init(this)
+    com.example.hindilearn.data.SrsManager.init(this)
 
     enableEdgeToEdge()
     setContent {

@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Room",
     "transliteration": "",
-    "english": "कमरा",
-    "vietnamese": "Căn phòng",
+    "english": "Căn phòng",
+    "vietnamese": "",
     "audio": "Room"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Luggage / Stuff",
     "transliteration": "",
-    "english": "सामान",
-    "vietnamese": "Hành lý",
+    "english": "Hành lý",
+    "vietnamese": "",
     "audio": "Luggage / Stuff"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​",
-      "कमरा",
-      "सफ़र​​​​​",
-      "सामान"
+      "Journey",
+      "Room",
+      "Journey",
+      "Luggage / Stuff"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Where is the station?",
     "transliteration": "",
-    "english": "स्टेशन कहाँ है?",
-    "vietnamese": "Nhà ga ở đâu?",
+    "english": "Nhà ga ở đâu?",
+    "vietnamese": "",
     "audio": "Where is the station?"
   },
   {
     "type": "Flashcard",
     "hindi": "Listen carefully.",
     "transliteration": "",
-    "english": "ध्यान से सुनो।",
-    "vietnamese": "Nghe cho kỹ nhé.",
+    "english": "Nghe cho kỹ nhé.",
+    "vietnamese": "",
     "audio": "Listen carefully."
   },
   {
     "type": "Flashcard",
     "hindi": "Carefree / Cool",
     "transliteration": "",
-    "english": "बिंदास",
-    "vietnamese": "Sống thoải mái / Vô tư",
+    "english": "Sống thoải mái / Vô tư",
+    "vietnamese": "",
     "audio": "Carefree / Cool"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​​​​​​​​​​​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​​​​​​​​​​​",
-      "स्टेशन कहाँ है?",
-      "ध्यान से सुनो।",
-      "बिंदास"
+      "Journey",
+      "Where is the station?",
+      "Listen carefully.",
+      "Carefree / Cool"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Bus stop",
     "transliteration": "",
-    "english": "बस स्टैंड",
-    "vietnamese": "Trạm xe buýt",
+    "english": "Trạm xe buýt",
+    "vietnamese": "",
     "audio": "Bus stop"
   },
   {
     "type": "Flashcard",
     "hindi": "Vacant room",
     "transliteration": "",
-    "english": "खाली कमरा",
-    "vietnamese": "Phòng trống",
+    "english": "Phòng trống",
+    "vietnamese": "",
     "audio": "Vacant room"
   },
   {
     "type": "Flashcard",
     "hindi": "Map",
     "transliteration": "",
-    "english": "नक्शा",
-    "vietnamese": "Bản đồ",
+    "english": "Bản đồ",
+    "vietnamese": "",
     "audio": "Map"
   },
   {
@@ -216,18 +216,18 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​​​​​​​​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​​​​​​​​",
-      "बस स्टैंड",
-      "खाली कमरा",
-      "नक्शा"
+      "Journey",
+      "Bus stop",
+      "Room",
+      "Map"
     ],
     "options_vi": [
       "Chuyến đi",
       "Trạm xe buýt",
-      "Phòng trống",
+      "Căn phòng",
       "Bản đồ"
     ]
   },
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Police station",
     "transliteration": "",
-    "english": "थाना",
-    "vietnamese": "Đồn cảnh sát",
+    "english": "Đồn cảnh sát",
+    "vietnamese": "",
     "audio": "Police station"
   },
   {
     "type": "Flashcard",
     "hindi": "Strong / Robust / Awesome",
     "transliteration": "",
-    "english": "तगड़ा",
-    "vietnamese": "Mạnh mẽ / Tuyệt vời",
+    "english": "Mạnh mẽ / Tuyệt vời",
+    "vietnamese": "",
     "audio": "Strong / Robust / Awesome"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​​",
-      "थाना",
-      "तगड़ा",
-      "सफ़र​​​​​​​​​"
+      "Journey",
+      "Police station",
+      "Strong / Robust / Awesome",
+      "Journey"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सफ़र​ / Nó là một Chuyến đi",
+    "englishSentence": "Nó là một Chuyến đi",
     "hindiWords": [
       "It",
       "is",
@@ -366,7 +366,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कमरा / Tôi thích Căn phòng",
+    "englishSentence": "Tôi thích Căn phòng",
     "hindiWords": [
       "I",
       "really",

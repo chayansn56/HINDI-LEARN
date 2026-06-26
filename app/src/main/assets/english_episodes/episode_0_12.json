@@ -1,15 +1,88 @@
-{
-  "title": "Food & Drink",
-  "nodes": [
-    {"type": "TeachRule", "title": "Food", "rule": "Đồ ăn và thức uống."},
-    {"type": "Flashcard", "hindi": "Water", "english": "Nước", "audio": "water"},
-    {"type": "Flashcard", "hindi": "Rice", "english": "Gạo/Cơm", "audio": "rice"},
-    {"type": "Flashcard", "hindi": "Bread", "english": "Bánh mì", "audio": "bread"},
-    {"type": "MultipleChoice", "hindi": "Water", "options": ["Nước", "Trà", "Cơm", "Thịt"], "answer": "Nước", "audio": "water"},
-    {"type": "Flashcard", "hindi": "Meat", "english": "Thịt", "audio": "meat"},
-    {"type": "Flashcard", "hindi": "Fish", "english": "Cá", "audio": "fish"},
-    {"type": "MultipleChoice", "hindi": "Bread", "options": ["Bánh mì", "Cơm", "Cá", "Rau"], "answer": "Bánh mì", "audio": "bread"},
-    {"type": "Flashcard", "hindi": "Vegetable", "english": "Rau", "audio": "vegetable"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Rice", "english": "Gạo/Cơm"}, {"hindi": "Meat", "english": "Thịt"}, {"hindi": "Fish", "english": "Cá"}, {"hindi": "Vegetable", "english": "Rau"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Food",
+    "rule": "Đồ ăn và thức uống."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Water",
+    "english": "Nước",
+    "audio": "water"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Rice",
+    "english": "Gạo/Cơm",
+    "audio": "rice"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bread",
+    "english": "Bánh mì",
+    "audio": "bread"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Water",
+    "options": [
+      "Nước",
+      "Trà",
+      "Cơm",
+      "Thịt"
+    ],
+    "answer": "Nước",
+    "audio": "water"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Meat",
+    "english": "Thịt",
+    "audio": "meat"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Fish",
+    "english": "Cá",
+    "audio": "fish"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Bread",
+    "options": [
+      "Bánh mì",
+      "Cơm",
+      "Cá",
+      "Rau"
+    ],
+    "answer": "Bánh mì",
+    "audio": "bread"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Vegetable",
+    "english": "Rau",
+    "audio": "vegetable"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Rice",
+        "english": "Gạo/Cơm"
+      },
+      {
+        "hindi": "Meat",
+        "english": "Thịt"
+      },
+      {
+        "hindi": "Fish",
+        "english": "Cá"
+      },
+      {
+        "hindi": "Vegetable",
+        "english": "Rau"
+      }
+    ]
+  }
+]

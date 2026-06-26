@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "मित्र",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "How much is it?",
     "transliteration": "",
-    "english": "कितना हुआ?",
-    "vietnamese": "Bao nhiêu tiền?",
+    "english": "Bao nhiêu tiền?",
+    "vietnamese": "",
     "audio": "How much is it?"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Friend'",
     "text": "Friend",
     "subtext": "",
-    "answer": "मित्र",
+    "answer": "Friend",
     "answer_vi": "Bạn bè",
     "options": [
-      "मित्र",
-      "कापी​​​​​​",
-      "कितना हुआ?",
-      "कापी​"
+      "Friend",
+      "Notebook",
+      "How much is it?",
+      "Notebook"
     ],
     "options_vi": [
       "Bạn bè",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Knowledge",
     "transliteration": "",
-    "english": "विद्या",
-    "vietnamese": "Kiến thức",
+    "english": "Kiến thức",
+    "vietnamese": "",
     "audio": "Knowledge"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know.",
     "transliteration": "",
-    "english": "पता नहीं।",
-    "vietnamese": "Tôi không biết.",
+    "english": "Tôi không biết.",
+    "vietnamese": "",
     "audio": "I don't know."
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Knowledge'",
     "text": "Knowledge",
     "subtext": "",
-    "answer": "विद्या",
+    "answer": "Knowledge",
     "answer_vi": "Kiến thức",
     "options": [
-      "विद्या",
-      "पता नहीं।",
-      "कापी​​​​​​​​",
-      "बर्फ़​​​​​"
+      "Knowledge",
+      "I don't know.",
+      "Notebook",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Kiến thức",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To act pricey / show attitude",
     "transliteration": "",
-    "english": "भाव खाना",
-    "vietnamese": "Làm kiêu / Tỏ vẻ",
+    "english": "Làm kiêu / Tỏ vẻ",
+    "vietnamese": "",
     "audio": "To act pricey / show attitude"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "No doubt.",
     "transliteration": "",
-    "english": "कोई शक नहीं।",
-    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "english": "Không còn nghi ngờ gì nữa.",
+    "vietnamese": "",
     "audio": "No doubt."
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To act pricey / show attitude'",
     "text": "To act pricey / show attitude",
     "subtext": "",
-    "answer": "भाव खाना",
+    "answer": "To act pricey / show attitude",
     "answer_vi": "Làm kiêu / Tỏ vẻ",
     "options": [
-      "भाव खाना",
-      "कापी​​",
-      "कोई शक नहीं।",
-      "कापी​​​​​​​​​​"
+      "To act pricey / show attitude",
+      "Notebook",
+      "No doubt.",
+      "Notebook"
     ],
     "options_vi": [
       "Làm kiêu / Tỏ vẻ",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "No problem / It's okay.",
     "transliteration": "",
-    "english": "कोई बात नहीं।",
-    "vietnamese": "Không sao đâu.",
+    "english": "Không sao đâu.",
+    "vietnamese": "",
     "audio": "No problem / It's okay."
   },
   {
     "type": "Flashcard",
     "hindi": "Friend / Buddy",
     "transliteration": "",
-    "english": "यार",
-    "vietnamese": "Bạn ơi / Bạn bè",
+    "english": "Bạn ơi / Bạn bè",
+    "vietnamese": "",
     "audio": "Friend / Buddy"
   },
   {
     "type": "Flashcard",
     "hindi": "What nonsense!",
     "transliteration": "",
-    "english": "क्या बकवास है!",
-    "vietnamese": "Thật vớ vẩn!",
+    "english": "Thật vớ vẩn!",
+    "vietnamese": "",
     "audio": "What nonsense!"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes",
     "transliteration": "",
-    "english": "हाँ",
-    "vietnamese": "Vâng / Có",
+    "english": "Vâng / Có",
+    "vietnamese": "",
     "audio": "Yes"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'No problem / It's okay.'",
     "text": "No problem / It's okay.",
     "subtext": "",
-    "answer": "कोई बात नहीं।",
+    "answer": "No problem / It's okay.",
     "answer_vi": "Không sao đâu.",
     "options": [
-      "कोई बात नहीं।",
-      "यार",
-      "क्या बकवास है!",
-      "हाँ"
+      "No problem / It's okay.",
+      "Friend / Buddy",
+      "What nonsense!",
+      "Yes"
     ],
     "options_vi": [
       "Không sao đâu.",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a मित्र / Nó là một Bạn bè",
+    "englishSentence": "Nó là một Bạn bè",
     "hindiWords": [
       "It",
       "is",
@@ -366,7 +366,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कापी​​​​​​ / Tôi thích Sổ tay",
+    "englishSentence": "Tôi thích Sổ tay",
     "hindiWords": [
       "I",
       "really",

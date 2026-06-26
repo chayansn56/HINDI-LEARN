@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "Business / Trade",
     "transliteration": "",
-    "english": "व्यापार",
-    "vietnamese": "Kinh doanh / Thương mại",
+    "english": "Kinh doanh / Thương mại",
+    "vietnamese": "",
     "audio": "Business / Trade"
   },
   {
     "type": "Flashcard",
     "hindi": "to understand",
     "transliteration": "",
-    "english": "समझना",
-    "vietnamese": "Hiểu",
+    "english": "Hiểu",
+    "vietnamese": "",
     "audio": "to understand"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
     "text": "To make / build",
     "subtext": "",
-    "answer": "बनाना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
     "options": [
-      "बनाना​​​​​​​​​​​​​​​​​​​​",
-      "व्यापार",
-      "समझना",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To make / build",
+      "Business / Trade",
+      "to understand",
+      "To speak"
     ],
     "options_vi": [
       "Chế tạo / Tạo ra",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​​​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​",
-      "ताला​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​"
+      "To speak",
+      "Lock",
+      "To listen / hear",
+      "To clean"
     ],
     "options_vi": [
       "Nói",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "Son",
     "transliteration": "",
-    "english": "बेटा",
-    "vietnamese": "Con trai (đối với cha mẹ)",
+    "english": "Con trai (đối với cha mẹ)",
+    "vietnamese": "",
     "audio": "Son"
   },
   {
     "type": "Flashcard",
     "hindi": "Blessing",
     "transliteration": "",
-    "english": "आशीर्वाद",
-    "vietnamese": "Lời chúc phúc / Sự ban phước",
+    "english": "Lời chúc phúc / Sự ban phước",
+    "vietnamese": "",
     "audio": "Blessing"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
     "text": "To learn",
     "subtext": "",
-    "answer": "सीखना​​​​​​​​​​​​​​​",
+    "answer": "To learn",
     "answer_vi": "Học",
     "options": [
-      "सीखना​​​​​​​​​​​​​​​",
-      "बेटा",
-      "आशीर्वाद",
-      "लेना​​​​​​​​​​​​​​​​​"
+      "To learn",
+      "Son",
+      "Blessing",
+      "To take"
     ],
     "options_vi": [
       "Học",
@@ -300,23 +300,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बनाना​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Chế tạo / Tạo ra",
+    "englishSentence": "Tạo ra",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To make / build"
+      "To",
+      "make",
+      "/",
+      "build"
     ],
     "correctHindiSentence": "I see the To make / build"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a व्यापार / Tôi muốn Kinh doanh / Thương mại",
+    "englishSentence": "Thương mại",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Business / Trade"
+      "Business",
+      "/",
+      "Trade"
     ],
     "correctHindiSentence": "I want a Business / Trade"
   },

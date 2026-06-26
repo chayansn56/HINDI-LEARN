@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "Please wait a minute.",
     "transliteration": "",
-    "english": "एक मिनट रुकिए।",
-    "vietnamese": "Làm ơn đợi một phút.",
+    "english": "Làm ơn đợi một phút.",
+    "vietnamese": "",
     "audio": "Please wait a minute."
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​",
-      "एक मिनट रुकिए।"
+      "To speak",
+      "To clean",
+      "To clean",
+      "Please wait a minute."
     ],
     "options_vi": [
       "Nói",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "World",
     "transliteration": "",
-    "english": "दुनया​",
-    "vietnamese": "Thế giới",
+    "english": "Thế giới",
+    "vietnamese": "",
     "audio": "World"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To them / him / her (formal near)",
     "transliteration": "",
-    "english": "इनन्हें",
-    "vietnamese": "Cho họ / Cho ngài ấy (gần)",
+    "english": "Cho họ / Cho ngài ấy (gần)",
+    "vietnamese": "",
     "audio": "To them / him / her (formal near)"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'World'",
     "text": "World",
     "subtext": "",
-    "answer": "दुनया​",
+    "answer": "World",
     "answer_vi": "Thế giới",
     "options": [
-      "दुनया​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​",
-      "इनन्हें",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "World",
+      "To run",
+      "To them / him / her (formal near)",
+      "To sit"
     ],
     "options_vi": [
       "Thế giới",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
     "text": "To sing",
     "subtext": "",
-    "answer": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sing",
     "answer_vi": "Hát",
     "options": [
-      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​",
-      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​"
+      "To sing",
+      "To ask",
+      "To give",
+      "To ask"
     ],
     "options_vi": [
       "Hát",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बोलना​​​​​​​​​​​​​​​​​​​ / Tôi thấy Nói",
+    "englishSentence": "Tôi thấy Nói",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To speak"
+      "To",
+      "speak"
     ],
     "correctHindiSentence": "I see the To speak"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Dọn dẹp / Lau chùi",
+    "englishSentence": "Lau chùi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To clean"
+      "To",
+      "clean"
     ],
     "correctHindiSentence": "I want a To clean"
   },

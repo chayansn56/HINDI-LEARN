@@ -1,15 +1,88 @@
-{
-  "title": "Body Parts",
-  "nodes": [
-    {"type": "TeachRule", "title": "Body Parts", "rule": "Các bộ phận trên cơ thể."},
-    {"type": "Flashcard", "hindi": "Head", "english": "Đầu", "audio": "head"},
-    {"type": "Flashcard", "hindi": "Eye", "english": "Mắt", "audio": "eye"},
-    {"type": "Flashcard", "hindi": "Ear", "english": "Tai", "audio": "ear"},
-    {"type": "MultipleChoice", "hindi": "Head", "options": ["Mũi", "Đầu", "Tai", "Miệng"], "answer": "Đầu", "audio": "head"},
-    {"type": "Flashcard", "hindi": "Nose", "english": "Mũi", "audio": "nose"},
-    {"type": "Flashcard", "hindi": "Mouth", "english": "Miệng", "audio": "mouth"},
-    {"type": "MultipleChoice", "hindi": "Eye", "options": ["Mắt", "Tay", "Chân", "Tai"], "answer": "Mắt", "audio": "eye"},
-    {"type": "Flashcard", "hindi": "Hand", "english": "Tay", "audio": "hand"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Ear", "english": "Tai"}, {"hindi": "Nose", "english": "Mũi"}, {"hindi": "Mouth", "english": "Miệng"}, {"hindi": "Hand", "english": "Tay"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Body Parts",
+    "rule": "Các bộ phận trên cơ thể."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Head",
+    "english": "Đầu",
+    "audio": "head"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Eye",
+    "english": "Mắt",
+    "audio": "eye"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ear",
+    "english": "Tai",
+    "audio": "ear"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Head",
+    "options": [
+      "Mũi",
+      "Đầu",
+      "Tai",
+      "Miệng"
+    ],
+    "answer": "Đầu",
+    "audio": "head"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Nose",
+    "english": "Mũi",
+    "audio": "nose"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mouth",
+    "english": "Miệng",
+    "audio": "mouth"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Eye",
+    "options": [
+      "Mắt",
+      "Tay",
+      "Chân",
+      "Tai"
+    ],
+    "answer": "Mắt",
+    "audio": "eye"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hand",
+    "english": "Tay",
+    "audio": "hand"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Ear",
+        "english": "Tai"
+      },
+      {
+        "hindi": "Nose",
+        "english": "Mũi"
+      },
+      {
+        "hindi": "Mouth",
+        "english": "Miệng"
+      },
+      {
+        "hindi": "Hand",
+        "english": "Tay"
+      }
+    ]
+  }
+]

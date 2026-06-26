@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Pain",
     "transliteration": "",
-    "english": "दर्द",
-    "vietnamese": "Đau",
+    "english": "Đau",
+    "vietnamese": "",
     "audio": "Pain"
   },
   {
     "type": "Flashcard",
     "hindi": "Don't bore me",
     "transliteration": "",
-    "english": "पका मत",
-    "vietnamese": "Đừng làm tôi chán nữa",
+    "english": "Đừng làm tôi chán nữa",
+    "vietnamese": "",
     "audio": "Don't bore me"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Pain'",
     "text": "Pain",
     "subtext": "",
-    "answer": "दर्द",
+    "answer": "Pain",
     "answer_vi": "Đau",
     "options": [
-      "दर्द",
-      "पका मत",
-      "जागना​​​​​​​​​​​​​​​​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​"
+      "Pain",
+      "Don't bore me",
+      "To wake up",
+      "To wake up"
     ],
     "options_vi": [
       "Đau",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Also / Too",
     "transliteration": "",
-    "english": "भी",
-    "vietnamese": "Cũng vậy",
+    "english": "Cũng vậy",
+    "vietnamese": "",
     "audio": "Also / Too"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Path / Way",
     "transliteration": "",
-    "english": "रास्ता​​",
-    "vietnamese": "Đường đi",
+    "english": "Đường đi",
+    "vietnamese": "",
     "audio": "Path / Way"
   },
   {
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​​​​​​​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Also / Too'",
     "text": "Also / Too",
     "subtext": "",
-    "answer": "भी",
+    "answer": "Also / Too",
     "answer_vi": "Cũng vậy",
     "options": [
-      "भी",
-      "सुनना​​​​​",
-      "रास्ता​​",
-      "प्याला​​​​​​​"
+      "Also / Too",
+      "To listen / hear",
+      "Path / Way",
+      "Cup"
     ],
     "options_vi": [
       "Cũng vậy",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
     "text": "To wash",
     "subtext": "",
-    "answer": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wash",
     "answer_vi": "Rửa / Giặt",
     "options": [
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To wash",
+      "To write",
+      "To laugh",
+      "To make / build"
     ],
     "options_vi": [
       "Rửa / Giặt",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Plate",
     "transliteration": "",
-    "english": "थाली",
-    "vietnamese": "Đĩa đựng thức ăn",
+    "english": "Đĩa đựng thức ăn",
+    "vietnamese": "",
     "audio": "Plate"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "Gurudwara",
     "transliteration": "",
-    "english": "गुरुद्वारा",
-    "vietnamese": "Đền thờ đạo Sikh Gurudwara",
+    "english": "Đền thờ đạo Sikh Gurudwara",
+    "vietnamese": "",
     "audio": "Gurudwara"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Plate'",
     "text": "Plate",
     "subtext": "",
-    "answer": "थाली",
+    "answer": "Plate",
     "answer_vi": "Đĩa đựng thức ăn",
     "options": [
-      "थाली",
-      "sिखाना​​​​​​",
-      "गुरुद्वारा",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​"
+      "Plate",
+      "To teach",
+      "Gurudwara",
+      "To write"
     ],
     "options_vi": [
       "Đĩa đựng thức ăn",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a दर्द / Nó là một Đau",
+    "englishSentence": "Nó là một Đau",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,14 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like पका मत / Tôi thích Đừng làm tôi chán nữa",
+    "englishSentence": "Tôi thích Đừng làm tôi chán nữa",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Don't bore me"
+      "Don't",
+      "bore",
+      "me"
     ],
     "correctHindiSentence": "I really like Don't bore me"
   },

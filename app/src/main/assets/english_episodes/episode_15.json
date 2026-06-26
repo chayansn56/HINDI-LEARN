@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "was (masculine)",
     "transliteration": "",
-    "english": "था",
-    "vietnamese": "Đã là (nam)",
+    "english": "Đã là (nam)",
+    "vietnamese": "",
     "audio": "was (masculine)"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
     "text": "To wake up",
     "subtext": "",
-    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wake up",
     "answer_vi": "Thức dậy",
     "options": [
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "काम करना​​​​​​",
-      "था",
-      "हँसना​​​​​​​​​"
+      "To wake up",
+      "To work",
+      "was (masculine)",
+      "To laugh"
     ],
     "options_vi": [
       "Thức dậy",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Please speak slowly.",
     "transliteration": "",
-    "english": "कृपया धीरे बोलिए।",
-    "vietnamese": "Làm ơn nói chậm lại.",
+    "english": "Làm ơn nói chậm lại.",
+    "vietnamese": "",
     "audio": "Please speak slowly."
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Please speak slowly.'",
     "text": "Please speak slowly.",
     "subtext": "",
-    "answer": "कृपया धीरे बोलिए।",
+    "answer": "Please speak slowly.",
     "answer_vi": "Làm ơn nói chậm lại.",
     "options": [
-      "कृपया धीरे बोलिए।",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Please speak slowly.",
+      "To tell / explain",
+      "To make / build",
+      "To open"
     ],
     "options_vi": [
       "Làm ơn nói chậm lại.",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Employee",
     "transliteration": "",
-    "english": "कर्मचारी",
-    "vietnamese": "Nhân viên",
+    "english": "Nhân viên",
+    "vietnamese": "",
     "audio": "Employee"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
     "text": "To take",
     "subtext": "",
-    "answer": "लेना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To take",
     "answer_vi": "Lấy / Nhận",
     "options": [
-      "लेना​​​​​​​​​​​​​​​​​​​​",
-      "कर्मचारी",
-      "देना​​​​​​​​​​",
-      "समुद्र​​​​​​​​​"
+      "To take",
+      "Employee",
+      "To give",
+      "Sea / Ocean"
     ],
     "options_vi": [
       "Lấy / Nhận",
@@ -300,23 +300,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Thức dậy",
+    "englishSentence": "Tôi thấy Thức dậy",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To wake up"
+      "To",
+      "wake",
+      "up"
     ],
     "correctHindiSentence": "I see the To wake up"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a काम करना​​​​​​ / Tôi muốn Làm việc",
+    "englishSentence": "Tôi muốn Làm việc",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To work"
+      "To",
+      "work"
     ],
     "correctHindiSentence": "I want a To work"
   },

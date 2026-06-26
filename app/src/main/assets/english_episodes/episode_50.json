@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sell'",
     "text": "To sell",
     "subtext": "",
-    "answer": "बेचना​​​​​​​​​​​​​​​​​​",
+    "answer": "To sell",
     "answer_vi": "Bán",
     "options": [
-      "बेचना​​​​​​​​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​",
-      "करना​​​​​​​​​​​​​​​​​"
+      "To sell",
+      "To sing",
+      "To laugh",
+      "To do"
     ],
     "options_vi": [
       "Bán",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Hero",
     "transliteration": "",
-    "english": "हीरो",
-    "vietnamese": "Nam chính / Anh hùng",
+    "english": "Nam chính / Anh hùng",
+    "vietnamese": "",
     "audio": "Hero"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​​​​​​​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "Today",
     "transliteration": "",
-    "english": "आज",
-    "vietnamese": "Hôm nay",
+    "english": "Hôm nay",
+    "vietnamese": "",
     "audio": "Today"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Hero'",
     "text": "Hero",
     "subtext": "",
-    "answer": "हीरो",
+    "answer": "Hero",
     "answer_vi": "Nam chính / Anh hùng",
     "options": [
-      "हीरो",
-      "जूता​​​​​​​​​",
-      "करना​​​​​​​​​​​​​​​",
-      "आज"
+      "Hero",
+      "Shoe",
+      "To do",
+      "Today"
     ],
     "options_vi": [
       "Nam chính / Anh hùng",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "How many",
     "transliteration": "",
-    "english": "कितने",
-    "vietnamese": "Bao nhiêu (số lượng)",
+    "english": "Bao nhiêu (số lượng)",
+    "vietnamese": "",
     "audio": "How many"
   },
   {
     "type": "Flashcard",
     "hindi": "Movie",
     "transliteration": "",
-    "english": "फ़िल्म",
-    "vietnamese": "Bộ phim",
+    "english": "Bộ phim",
+    "vietnamese": "",
     "audio": "Movie"
   },
   {
     "type": "Flashcard",
     "hindi": "Oath / Vow",
     "transliteration": "",
-    "english": "क़सम",
-    "vietnamese": "Lời thề",
+    "english": "Lời thề",
+    "vietnamese": "",
     "audio": "Oath / Vow"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'How many'",
     "text": "How many",
     "subtext": "",
-    "answer": "कितने",
+    "answer": "How many",
     "answer_vi": "Bao nhiêu (số lượng)",
     "options": [
-      "कितने",
-      "फ़िल्म",
-      "क़सम",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "How many",
+      "Movie",
+      "Oath / Vow",
+      "To learn"
     ],
     "options_vi": [
       "Bao nhiêu (số lượng)",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बेचना​​​​​​​​​​​​​​​​​​ / Tôi thấy Bán",
+    "englishSentence": "Tôi thấy Bán",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To sell"
+      "To",
+      "sell"
     ],
     "correctHindiSentence": "I see the To sell"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "englishSentence": "Tôi muốn Hát",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sing"
+      "To",
+      "sing"
     ],
     "correctHindiSentence": "I want a To sing"
   },

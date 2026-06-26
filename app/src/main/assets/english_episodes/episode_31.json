@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Word",
     "transliteration": "",
-    "english": "शब्द",
-    "vietnamese": "Từ ngữ",
+    "english": "Từ ngữ",
+    "vietnamese": "",
     "audio": "Word"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "Failure",
     "transliteration": "",
-    "english": "असफलता",
-    "vietnamese": "Sự thất bại",
+    "english": "Sự thất bại",
+    "vietnamese": "",
     "audio": "Failure"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Word'",
     "text": "Word",
     "subtext": "",
-    "answer": "शब्द",
+    "answer": "Word",
     "answer_vi": "Từ ngữ",
     "options": [
-      "शब्द",
-      "सफ़र​​",
-      "बेचना​​​​​​​​​​​​​​​​​",
-      "असफलता"
+      "Word",
+      "Journey",
+      "To sell",
+      "Failure"
     ],
     "options_vi": [
       "Từ ngữ",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "60",
     "transliteration": "",
-    "english": "६०",
-    "vietnamese": "Sáu mươi",
+    "english": "Sáu mươi",
+    "vietnamese": "",
     "audio": "60"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​​​​​​​​​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​",
-      "६०",
-      "पैसा​​​​​​​​​​​"
+      "To stand",
+      "To stand",
+      "60",
+      "Money"
     ],
     "options_vi": [
       "Đứng",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
     "text": "To wake up",
     "subtext": "",
-    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wake up",
     "answer_vi": "Thức dậy",
     "options": [
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To wake up",
+      "To run",
+      "To listen / hear",
+      "To play"
     ],
     "options_vi": [
       "Thức dậy",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the शब्द / Tôi thấy Từ ngữ",
+    "englishSentence": "Tôi thấy Từ ngữ",
     "hindiWords": [
       "I",
       "see",
@@ -311,7 +311,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सफ़र​​ / Tôi muốn Chuyến đi",
+    "englishSentence": "Tôi muốn Chuyến đi",
     "hindiWords": [
       "I",
       "want",

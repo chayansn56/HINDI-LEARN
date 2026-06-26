@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Mister",
     "transliteration": "",
-    "english": "श्रीमान",
-    "vietnamese": "Ông / Ngài",
+    "english": "Ông / Ngài",
+    "vietnamese": "",
     "audio": "Mister"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Mister'",
     "text": "Mister",
     "subtext": "",
-    "answer": "श्रीमान",
+    "answer": "Mister",
     "answer_vi": "Ông / Ngài",
     "options": [
-      "श्रीमान",
-      "बताना​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​"
+      "Mister",
+      "To tell / explain",
+      "To ask",
+      "To walk / move"
     ],
     "options_vi": [
       "Ông / Ngài",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Gold",
     "transliteration": "",
-    "english": "सोना",
-    "vietnamese": "Vàng",
+    "english": "Vàng",
+    "vietnamese": "",
     "audio": "Gold"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes",
     "transliteration": "",
-    "english": "हाँ",
-    "vietnamese": "Vâng / Có",
+    "english": "Vâng / Có",
+    "vietnamese": "",
     "audio": "Yes"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
@@ -161,18 +161,18 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Gold'",
     "text": "Gold",
     "subtext": "",
-    "answer": "सोना",
+    "answer": "Gold",
     "answer_vi": "Vàng",
     "options": [
-      "सोना",
-      "हाँ",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Gold",
+      "Yes",
+      "Gold",
+      "To make / build"
     ],
     "options_vi": [
       "Vàng",
       "Vâng / Có",
-      "Ngủ",
+      "Vàng",
       "Chế tạo / Tạo ra"
     ]
   },
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "River",
     "transliteration": "",
-    "english": "नदी​​​​​​​​​",
-    "vietnamese": "Con sông",
+    "english": "Con sông",
+    "vietnamese": "",
     "audio": "River"
   },
   {
     "type": "Flashcard",
     "hindi": "GB (Gigabyte)",
     "transliteration": "",
-    "english": "जीबी",
-    "vietnamese": "GB (Gigabyte)",
+    "english": "GB (Gigabyte)",
+    "vietnamese": "",
     "audio": "GB (Gigabyte)"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
     "text": "To learn",
     "subtext": "",
-    "answer": "सीखना​​​​​​",
+    "answer": "To learn",
     "answer_vi": "Học",
     "options": [
-      "सीखना​​​​​​",
-      "काम करना​​​​​​​​",
-      "नदी​​​​​​​​​",
-      "जीबी"
+      "To learn",
+      "To work",
+      "River",
+      "GB (Gigabyte)"
     ],
     "options_vi": [
       "Học",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the श्रीमान / Tôi thấy Ông / Ngài",
+    "englishSentence": "Ngài",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,15 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बताना​​​​​ / Tôi muốn Kể / Giải thích",
+    "englishSentence": "Giải thích",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To tell / explain"
+      "To",
+      "tell",
+      "/",
+      "explain"
     ],
     "correctHindiSentence": "I want a To tell / explain"
   },

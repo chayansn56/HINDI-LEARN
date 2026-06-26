@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "दोस्त",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
     "type": "Flashcard",
     "hindi": "Friendship",
     "transliteration": "",
-    "english": "दोस्ती",
-    "vietnamese": "Tình bạn",
+    "english": "Tình bạn",
+    "vietnamese": "",
     "audio": "Friendship"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend / Buddy",
     "transliteration": "",
-    "english": "यार",
-    "vietnamese": "Bạn ơi / Bạn bè",
+    "english": "Bạn ơi / Bạn bè",
+    "vietnamese": "",
     "audio": "Friend / Buddy"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "मित्र",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
@@ -52,17 +52,17 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Friend'",
     "text": "Friend",
     "subtext": "",
-    "answer": "दोस्त",
+    "answer": "Friend",
     "answer_vi": "Bạn bè",
     "options": [
-      "दोस्त",
-      "दोस्ती",
-      "यार",
-      "मित्र"
+      "Friend",
+      "Friend",
+      "Friend / Buddy",
+      "Friend"
     ],
     "options_vi": [
       "Bạn bè",
-      "Tình bạn",
+      "Bạn bè",
       "Bạn ơi / Bạn bè",
       "Bạn bè"
     ]
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Phone",
     "transliteration": "",
-    "english": "फ़ोन",
-    "vietnamese": "Điện thoại",
+    "english": "Điện thoại",
+    "vietnamese": "",
     "audio": "Phone"
   },
   {
     "type": "Flashcard",
     "hindi": "Oh friend! / Oh man!",
     "transliteration": "",
-    "english": "अरे यार!",
-    "vietnamese": "Trời ơi bạn ơi!",
+    "english": "Trời ơi bạn ơi!",
+    "vietnamese": "",
     "audio": "Oh friend! / Oh man!"
   },
   {
     "type": "Flashcard",
     "hindi": "Message",
     "transliteration": "",
-    "english": "संदेश",
-    "vietnamese": "Tin nhắn",
+    "english": "Tin nhắn",
+    "vietnamese": "",
     "audio": "Message"
   },
   {
     "type": "Flashcard",
     "hindi": "Message",
     "transliteration": "",
-    "english": "मैसेज",
-    "vietnamese": "Tin nhắn",
+    "english": "Tin nhắn",
+    "vietnamese": "",
     "audio": "Message"
   },
   {
@@ -134,17 +134,17 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Phone'",
     "text": "Phone",
     "subtext": "",
-    "answer": "फ़ोन",
+    "answer": "Phone",
     "answer_vi": "Điện thoại",
     "options": [
-      "फ़ोन",
-      "अरे यार!",
-      "संदेश",
-      "मैसेज"
+      "Phone",
+      "Friend / Buddy",
+      "Message",
+      "Message"
     ],
     "options_vi": [
       "Điện thoại",
-      "Trời ơi bạn ơi!",
+      "Bạn ơi / Bạn bè",
       "Tin nhắn",
       "Tin nhắn"
     ]
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Status / Story",
     "transliteration": "",
-    "english": "स्टेटस",
-    "vietnamese": "Trạng thái / Tin trạng thái",
+    "english": "Trạng thái / Tin trạng thái",
+    "vietnamese": "",
     "audio": "Status / Story"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "Silver",
     "transliteration": "",
-    "english": "चाँदी​​​​​​​​​",
-    "vietnamese": "Bạc",
+    "english": "Bạc",
+    "vietnamese": "",
     "audio": "Silver"
   },
   {
     "type": "Flashcard",
     "hindi": "Money / Paisa",
     "transliteration": "",
-    "english": "पैसा",
-    "vietnamese": "Tiền xu / Tiền",
+    "english": "Tiền xu / Tiền",
+    "vietnamese": "",
     "audio": "Money / Paisa"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Status / Story'",
     "text": "Status / Story",
     "subtext": "",
-    "answer": "स्टेटस",
+    "answer": "Status / Story",
     "answer_vi": "Trạng thái / Tin trạng thái",
     "options": [
-      "स्टेटस",
-      "सोना​​",
-      "चाँदी​​​​​​​​​",
-      "पैसा"
+      "Status / Story",
+      "To sleep",
+      "Silver",
+      "Money / Paisa"
     ],
     "options_vi": [
       "Trạng thái / Tin trạng thái",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Spice / Spice mix",
     "transliteration": "",
-    "english": "मसाला",
-    "vietnamese": "Hỗn hợp gia vị Masala",
+    "english": "Hỗn hợp gia vị Masala",
+    "vietnamese": "",
     "audio": "Spice / Spice mix"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मसाला",
-      "खेलना​​​​​​​",
-      "मिट्टी​​"
+      "To open",
+      "Spice / Spice mix",
+      "To play",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Mở",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a दोस्त / Nó là một Bạn bè",
+    "englishSentence": "Nó là một Bạn bè",
     "hindiWords": [
       "It",
       "is",
@@ -366,7 +366,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like दोस्ती / Tôi thích Tình bạn",
+    "englishSentence": "Tôi thích Tình bạn",
     "hindiWords": [
       "I",
       "really",

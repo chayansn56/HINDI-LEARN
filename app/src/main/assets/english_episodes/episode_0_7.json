@@ -1,15 +1,88 @@
-{
-  "title": "Simple Pronouns",
-  "nodes": [
-    {"type": "TeachRule", "title": "Pronouns", "rule": "Đại từ nhân xưng cơ bản."},
-    {"type": "Flashcard", "hindi": "I", "english": "Tôi", "audio": "i"},
-    {"type": "Flashcard", "hindi": "You", "english": "Bạn", "audio": "you"},
-    {"type": "Flashcard", "hindi": "He", "english": "Anh ấy", "audio": "he"},
-    {"type": "MultipleChoice", "hindi": "I", "options": ["Bạn", "Tôi", "Anh ấy", "Cô ấy"], "answer": "Tôi", "audio": "i"},
-    {"type": "Flashcard", "hindi": "She", "english": "Cô ấy", "audio": "she"},
-    {"type": "Flashcard", "hindi": "We", "english": "Chúng tôi", "audio": "we"},
-    {"type": "MultipleChoice", "hindi": "You", "options": ["Cô ấy", "Bạn", "Chúng tôi", "Họ"], "answer": "Bạn", "audio": "you"},
-    {"type": "Flashcard", "hindi": "They", "english": "Họ", "audio": "they"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "He", "english": "Anh ấy"}, {"hindi": "She", "english": "Cô ấy"}, {"hindi": "We", "english": "Chúng tôi"}, {"hindi": "They", "english": "Họ"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Pronouns",
+    "rule": "Đại từ nhân xưng cơ bản."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I",
+    "english": "Tôi",
+    "audio": "i"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "You",
+    "english": "Bạn",
+    "audio": "you"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "He",
+    "english": "Anh ấy",
+    "audio": "he"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "I",
+    "options": [
+      "Bạn",
+      "Tôi",
+      "Anh ấy",
+      "Cô ấy"
+    ],
+    "answer": "Tôi",
+    "audio": "i"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "She",
+    "english": "Cô ấy",
+    "audio": "she"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "We",
+    "english": "Chúng tôi",
+    "audio": "we"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "You",
+    "options": [
+      "Cô ấy",
+      "Bạn",
+      "Chúng tôi",
+      "Họ"
+    ],
+    "answer": "Bạn",
+    "audio": "you"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "They",
+    "english": "Họ",
+    "audio": "they"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "He",
+        "english": "Anh ấy"
+      },
+      {
+        "hindi": "She",
+        "english": "Cô ấy"
+      },
+      {
+        "hindi": "We",
+        "english": "Chúng tôi"
+      },
+      {
+        "hindi": "They",
+        "english": "Họ"
+      }
+    ]
+  }
+]

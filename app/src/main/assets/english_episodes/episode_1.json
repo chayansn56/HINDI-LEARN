@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "What does this mean?",
     "transliteration": "",
-    "english": "इसका क्या मतलब है?",
-    "vietnamese": "Cái này có nghĩa là gì?",
+    "english": "Cái này có nghĩa là gì?",
+    "vietnamese": "",
     "audio": "What does this mean?"
   },
   {
     "type": "Flashcard",
     "hindi": "What time is it?",
     "transliteration": "",
-    "english": "क्या समय हुआ है?",
-    "vietnamese": "Mấy giờ rồi?",
+    "english": "Mấy giờ rồi?",
+    "vietnamese": "",
     "audio": "What time is it?"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​​​",
-      "आग​",
-      "इसका क्या मतलब है?",
-      "क्या समय हुआ है?"
+      "Snow / Ice",
+      "Fire",
+      "What does this mean?",
+      "What time is it?"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Pilgrimage",
     "transliteration": "",
-    "english": "तीर्थयात्रा",
-    "vietnamese": "Cuộc hành hương",
+    "english": "Cuộc hành hương",
+    "vietnamese": "",
     "audio": "Pilgrimage"
   },
   {
     "type": "Flashcard",
     "hindi": "Go straight.",
     "transliteration": "",
-    "english": "सीधे चलिए।",
-    "vietnamese": "Đi thẳng.",
+    "english": "Đi thẳng.",
+    "vietnamese": "",
     "audio": "Go straight."
   },
   {
     "type": "Flashcard",
     "hindi": "Applaud / Clapping",
     "transliteration": "",
-    "english": "तालियाँ",
-    "vietnamese": "Tràng pháo tay",
+    "english": "Tràng pháo tay",
+    "vietnamese": "",
     "audio": "Applaud / Clapping"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​",
-      "तीर्थयात्रा",
-      "सीधे चलिए।",
-      "तालियाँ"
+      "To ask",
+      "Pilgrimage",
+      "Go straight.",
+      "Applaud / Clapping"
     ],
     "options_vi": [
       "Hỏi",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "GB (Gigabyte)",
     "transliteration": "",
-    "english": "जीबी",
-    "vietnamese": "GB (Gigabyte)",
+    "english": "GB (Gigabyte)",
+    "vietnamese": "",
     "audio": "GB (Gigabyte)"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
     "text": "To sleep",
     "subtext": "",
-    "answer": "सोना​​​​​​​​",
+    "answer": "To sleep",
     "answer_vi": "Ngủ",
     "options": [
-      "सोना​​​​​​​​",
-      "जीबी",
-      "बैठना​​​",
-      "पूछना​​​​​​​​​​​​​​​​​"
+      "To sleep",
+      "GB (Gigabyte)",
+      "To sit",
+      "To ask"
     ],
     "options_vi": [
       "Ngủ",
@@ -300,18 +300,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बर्फ़​​​​​​​​ / Tôi thấy Tuyết / Đá",
+    "englishSentence": "Đá",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Snow / Ice"
+      "Snow",
+      "/",
+      "Ice"
     ],
     "correctHindiSentence": "I see the Snow / Ice"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a आग​ / Tôi muốn Lửa",
+    "englishSentence": "Tôi muốn Lửa",
     "hindiWords": [
       "I",
       "want",

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Who",
     "transliteration": "",
-    "english": "कौन",
-    "vietnamese": "Ai",
+    "english": "Ai",
+    "vietnamese": "",
     "audio": "Who"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
     "text": "Sea / Ocean",
     "subtext": "",
-    "answer": "समुद्र​​​",
+    "answer": "Sea / Ocean",
     "answer_vi": "Biển",
     "options": [
-      "समुद्र​​​",
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​",
-      "कौन"
+      "Sea / Ocean",
+      "To clean",
+      "To take",
+      "Who"
     ],
     "options_vi": [
       "Biển",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बताना​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​"
+      "To ask",
+      "To teach",
+      "To tell / explain",
+      "To wash"
     ],
     "options_vi": [
       "Hỏi",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "What a shame.",
     "transliteration": "",
-    "english": "शर्म की बात है।",
-    "vietnamese": "Thật đáng hổ thẹn.",
+    "english": "Thật đáng hổ thẹn.",
+    "vietnamese": "",
     "audio": "What a shame."
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know.",
     "transliteration": "",
-    "english": "पता नहीं।",
-    "vietnamese": "Tôi không biết.",
+    "english": "Tôi không biết.",
+    "vietnamese": "",
     "audio": "I don't know."
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'What a shame.'",
     "text": "What a shame.",
     "subtext": "",
-    "answer": "शर्म की बात है।",
+    "answer": "What a shame.",
     "answer_vi": "Thật đáng hổ thẹn.",
     "options": [
-      "शर्म की बात है।",
-      "सुनना​​​",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पता नहीं।"
+      "What a shame.",
+      "To listen / hear",
+      "To buy",
+      "I don't know."
     ],
     "options_vi": [
       "Thật đáng hổ thẹn.",
@@ -300,23 +300,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the समुद्र​​​ / Tôi thấy Biển",
+    "englishSentence": "Tôi thấy Biển",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Sea / Ocean"
+      "Sea",
+      "/",
+      "Ocean"
     ],
     "correctHindiSentence": "I see the Sea / Ocean"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Dọn dẹp / Lau chùi",
+    "englishSentence": "Lau chùi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To clean"
+      "To",
+      "clean"
     ],
     "correctHindiSentence": "I want a To clean"
   },

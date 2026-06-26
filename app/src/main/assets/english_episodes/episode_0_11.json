@@ -1,15 +1,88 @@
-{
-  "title": "Family Members",
-  "nodes": [
-    {"type": "TeachRule", "title": "Family", "rule": "Các thành viên trong gia đình."},
-    {"type": "Flashcard", "hindi": "Mother", "english": "Mẹ", "audio": "mother"},
-    {"type": "Flashcard", "hindi": "Father", "english": "Bố", "audio": "father"},
-    {"type": "Flashcard", "hindi": "Brother", "english": "Anh/em trai", "audio": "brother"},
-    {"type": "MultipleChoice", "hindi": "Mother", "options": ["Mẹ", "Bố", "Chị gái", "Ông"], "answer": "Mẹ", "audio": "mother"},
-    {"type": "Flashcard", "hindi": "Sister", "english": "Chị/em gái", "audio": "sister"},
-    {"type": "Flashcard", "hindi": "Grandmother", "english": "Bà", "audio": "grandmother"},
-    {"type": "MultipleChoice", "hindi": "Father", "options": ["Bố", "Chú", "Anh trai", "Ông"], "answer": "Bố", "audio": "father"},
-    {"type": "Flashcard", "hindi": "Grandfather", "english": "Ông", "audio": "grandfather"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Brother", "english": "Anh/em trai"}, {"hindi": "Sister", "english": "Chị/em gái"}, {"hindi": "Grandmother", "english": "Bà"}, {"hindi": "Grandfather", "english": "Ông"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Family",
+    "rule": "Các thành viên trong gia đình."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Mother",
+    "english": "Mẹ",
+    "audio": "mother"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Father",
+    "english": "Bố",
+    "audio": "father"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Brother",
+    "english": "Anh/em trai",
+    "audio": "brother"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Mother",
+    "options": [
+      "Mẹ",
+      "Bố",
+      "Chị gái",
+      "Ông"
+    ],
+    "answer": "Mẹ",
+    "audio": "mother"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sister",
+    "english": "Chị/em gái",
+    "audio": "sister"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Grandmother",
+    "english": "Bà",
+    "audio": "grandmother"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Father",
+    "options": [
+      "Bố",
+      "Chú",
+      "Anh trai",
+      "Ông"
+    ],
+    "answer": "Bố",
+    "audio": "father"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Grandfather",
+    "english": "Ông",
+    "audio": "grandfather"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Brother",
+        "english": "Anh/em trai"
+      },
+      {
+        "hindi": "Sister",
+        "english": "Chị/em gái"
+      },
+      {
+        "hindi": "Grandmother",
+        "english": "Bà"
+      },
+      {
+        "hindi": "Grandfather",
+        "english": "Ông"
+      }
+    ]
+  }
+]

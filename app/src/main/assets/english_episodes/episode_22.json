@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "Boy",
     "transliteration": "",
-    "english": "लड़का",
-    "vietnamese": "Cậu bé",
+    "english": "Cậu bé",
+    "vietnamese": "",
     "audio": "Boy"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लड़का",
-      "खरीदना​​​​​​​",
-      "sिखाना"
+      "To cry",
+      "Boy",
+      "To buy",
+      "To teach"
     ],
     "options_vi": [
       "Khóc",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "Right (direction)",
     "transliteration": "",
-    "english": "दाएँ",
-    "vietnamese": "Bên phải",
+    "english": "Bên phải",
+    "vietnamese": "",
     "audio": "Right (direction)"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Money'",
     "text": "Money",
     "subtext": "",
-    "answer": "पैसा​​",
+    "answer": "Money",
     "answer_vi": "Tiền",
     "options": [
-      "पैसा​​",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "दाएँ",
-      "sिखाना​​​​​​​​​​​​​​"
+      "Money",
+      "To sleep",
+      "Right (direction)",
+      "To teach"
     ],
     "options_vi": [
       "Tiền",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Five",
     "transliteration": "",
-    "english": "पाँच",
-    "vietnamese": "Số năm",
+    "english": "Số năm",
+    "vietnamese": "",
     "audio": "Five"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
     "text": "To read",
     "subtext": "",
-    "answer": "पढ़ना",
+    "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़ना",
-      "पाँच",
-      "गाना​​​​​​​​",
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​"
+      "To read",
+      "Five",
+      "To sing",
+      "To close"
     ],
     "options_vi": [
       "Đọc",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Khóc",
+    "englishSentence": "Tôi thấy Khóc",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To cry"
+      "To",
+      "cry"
     ],
     "correctHindiSentence": "I see the To cry"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a लड़का / Tôi muốn Cậu bé",
+    "englishSentence": "Tôi muốn Cậu bé",
     "hindiWords": [
       "I",
       "want",

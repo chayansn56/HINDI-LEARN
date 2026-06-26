@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Thank you for helping me.",
     "transliteration": "",
-    "english": "मेरी मदद करने के लिए धन्यवाद।",
-    "vietnamese": "Cảm ơn vì đã giúp tôi.",
+    "english": "Cảm ơn vì đã giúp tôi.",
+    "vietnamese": "",
     "audio": "Thank you for helping me."
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Help'",
     "text": "Help",
     "subtext": "",
-    "answer": "मदद​​",
+    "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
     "options": [
-      "मदद​​",
-      "मेरी मदद करने के लिए धन्यवाद।",
-      "आग",
-      "मदद​​​​​"
+      "Help",
+      "Thank you for helping me.",
+      "Fire",
+      "Help"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Hospital",
     "transliteration": "",
-    "english": "अस्पताल",
-    "vietnamese": "Bệnh viện",
+    "english": "Bệnh viện",
+    "vietnamese": "",
     "audio": "Hospital"
   },
   {
     "type": "Flashcard",
     "hindi": "Doctor",
     "transliteration": "",
-    "english": "डॉक्टर",
-    "vietnamese": "Bác sĩ",
+    "english": "Bác sĩ",
+    "vietnamese": "",
     "audio": "Doctor"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Help'",
     "text": "Help",
     "subtext": "",
-    "answer": "मदद​",
+    "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
     "options": [
-      "मदद​",
-      "आग​​​​​​​​",
-      "अस्पताल",
-      "डॉक्टर"
+      "Help",
+      "Fire",
+      "Hospital",
+      "Doctor"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Medicine",
     "transliteration": "",
-    "english": "दवाई",
-    "vietnamese": "Thuốc",
+    "english": "Thuốc",
+    "vietnamese": "",
     "audio": "Medicine"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "I need help.",
     "transliteration": "",
-    "english": "मुझे मदद चाहिए।",
-    "vietnamese": "Tôi cần giúp đỡ.",
+    "english": "Tôi cần giúp đỡ.",
+    "vietnamese": "",
     "audio": "I need help."
   },
   {
     "type": "Flashcard",
     "hindi": "to help",
     "transliteration": "",
-    "english": "मदद करना",
-    "vietnamese": "Giúp đỡ",
+    "english": "Giúp đỡ",
+    "vietnamese": "",
     "audio": "to help"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Medicine'",
     "text": "Medicine",
     "subtext": "",
-    "answer": "दवाई",
+    "answer": "Medicine",
     "answer_vi": "Thuốc",
     "options": [
-      "दवाई",
-      "मदद​​​​​​",
-      "मुझे मदद चाहिए।",
-      "मदद करना"
+      "Medicine",
+      "Help",
+      "I need help.",
+      "to help"
     ],
     "options_vi": [
       "Thuốc",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Police",
     "transliteration": "",
-    "english": "पुलिस",
-    "vietnamese": "Cảnh sát",
+    "english": "Cảnh sát",
+    "vietnamese": "",
     "audio": "Police"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Help'",
     "text": "Help",
     "subtext": "",
-    "answer": "मदद​​​​​​​",
+    "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
     "options": [
-      "मदद​​​​​​​",
-      "आग​​​​​​​​​​",
-      "पुलिस",
-      "आग​​​​​"
+      "Help",
+      "Fire",
+      "Police",
+      "Fire"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a मदद​​ / Nó là một Sự giúp đỡ",
+    "englishSentence": "Nó là một Sự giúp đỡ",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,16 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like मेरी मदद करने के लिए धन्यवाद। / Tôi thích Cảm ơn vì đã giúp tôi.",
+    "englishSentence": "Tôi thích Cảm ơn vì đã giúp tôi.",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Thank you for helping me."
+      "Thank",
+      "you",
+      "for",
+      "helping",
+      "me."
     ],
     "correctHindiSentence": "I really like Thank you for helping me."
   },

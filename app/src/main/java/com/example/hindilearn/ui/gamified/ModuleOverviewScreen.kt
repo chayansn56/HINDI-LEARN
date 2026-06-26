@@ -231,6 +231,76 @@ fun translateTitle(title: String, isVi: Boolean): String {
         "Labials & Semivowels" -> "Âm môi & Bán nguyên âm"
         "Conjuncts & Nuqta" -> "Phụ âm ghép & Dấu phụ"
 
+        // English Curriculum
+        "The English Alphabet" -> "Bảng chữ cái tiếng Anh"
+        "Vowels & Consonants" -> "Nguyên âm & Phụ âm"
+        "Tricky Sounds (th, sh, ch)" -> "Các âm khó (th, sh, ch)"
+        "Final Sounds (s, t, d)" -> "Âm cuối (s, t, d)"
+        "Word Stress Basics" -> "Cơ bản về trọng âm từ"
+        "Basic Greetings" -> "Chào hỏi cơ bản"
+        "Simple Pronouns" -> "Đại từ đơn giản"
+        "To Be: Present" -> "Động từ To Be: Hiện tại"
+        "Numbers 1-100" -> "Số đếm 1-100"
+        "Telling Time" -> "Cách xem giờ"
+        "Family Members" -> "Các thành viên gia đình"
+        "Food & Drink" -> "Đồ ăn & Thức uống"
+        "Body Parts" -> "Các bộ phận cơ thể"
+        "Colors & Shapes" -> "Màu sắc & Hình dạng"
+        "Clothing" -> "Quần áo"
+        "Simple Present Tense" -> "Thì hiện tại đơn"
+        "Action Verbs" -> "Động từ hành động"
+        "Daily Routine" -> "Thói quen hàng ngày"
+        "Days & Months" -> "Ngày & Tháng"
+        "Weather & Seasons" -> "Thời tiết & Mùa"
+        "Adjectives: Opposites" -> "Tính từ: Từ trái nghĩa"
+        "Prepositions of Place" -> "Giới từ chỉ nơi chốn"
+        "Asking Questions" -> "Đặt câu hỏi"
+        "Present Continuous" -> "Thì hiện tại tiếp diễn"
+        "Simple Past Tense" -> "Thì quá khứ đơn"
+        "Past Continuous" -> "Thì quá khứ tiếp diễn"
+        "Future with Will" -> "Tương lai với Will"
+        "Future with Going To" -> "Tương lai với Going To"
+        "Modal Verbs" -> "Động từ khiếm khuyết"
+        "Foundation Final Exam" -> "Bài kiểm tra cuối khóa nền tảng"
+
+        // English Special Hubs
+        "IT & Tech English" -> "Tiếng Anh CNTT & Công nghệ"
+        "Software Terms" -> "Thuật ngữ phần mềm"
+        "Agile Meetings" -> "Các cuộc họp Agile"
+        "Code Reviews" -> "Đánh giá mã nguồn (Code Review)"
+        "Tech Presentations" -> "Thuyết trình công nghệ"
+        "Bug Reports" -> "Báo cáo lỗi (Bug Report)"
+        "Tourism & Hospitality" -> "Du lịch & Khách sạn"
+        "Hotel Reception" -> "Lễ tân khách sạn"
+        "Restaurant Service" -> "Dịch vụ nhà hàng"
+        "Tour Guiding" -> "Hướng dẫn viên du lịch"
+        "Handling Complaints" -> "Xử lý phàn nàn"
+        "Concierge" -> "Dịch vụ hỗ trợ khách hàng"
+        "Office Business" -> "Tiếng Anh văn phòng"
+        "Formal Emails" -> "Email trang trọng"
+        "Negotiations" -> "Đàm phán"
+        "Job Interviews" -> "Phỏng vấn xin việc"
+        "Sales Pitches" -> "Bài thuyết trình bán hàng"
+        "Networking" -> "Xây dựng mạng lưới quan hệ"
+        "IELTS Prep" -> "Luyện thi IELTS"
+        "Academic Vocabulary" -> "Từ vựng học thuật"
+        "Essay Structures" -> "Cấu trúc bài luận"
+        "Speaking Part 1" -> "Speaking Phần 1"
+        "Speaking Part 2" -> "Speaking Phần 2"
+        "Speaking Part 3" -> "Speaking Phần 3"
+        "Pronunciation Mastery" -> "Làm chủ phát âm"
+        "Word Stress" -> "Trọng âm từ"
+        "Intonation" -> "Ngữ điệu"
+        "Connected Speech" -> "Âm nối"
+        "Final Consonants" -> "Phụ âm cuối"
+        "Vowel Pairs" -> "Cặp nguyên âm"
+        "Kids Vocabulary" -> "Từ vựng cho trẻ em"
+        "Animals" -> "Động vật"
+        "Colors" -> "Màu sắc"
+        "Toys" -> "Đồ chơi"
+        "School" -> "Trường học"
+        "Cartoons" -> "Phim hoạt hình"
+
         else -> title
     }
 }
@@ -281,10 +351,10 @@ fun ModuleOverviewScreen(
             modifier = modifier.fillMaxSize()
         ) {
             TopAppBar(
-                title = { Text(translateTitle(season.title, isVi), color = TextDark, fontWeight = FontWeight.Bold) },
+                title = { Text(translateTitle(season.title, isVi), color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold) },
                 navigationIcon = {
                     IconButton(onClick = onBack) {
-                        Icon(Icons.Default.ArrowBack, contentDescription = "Back", tint = TextDark)
+                        Icon(Icons.Default.ArrowBack, contentDescription = "Back", tint = MaterialTheme.colorScheme.onSurface)
                     }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -301,7 +371,7 @@ fun ModuleOverviewScreen(
                         Text(
                             text = translateDesc(season.description, isVi),
                             style = MaterialTheme.typography.bodyLarge,
-                            color = TextDark.copy(alpha = 0.8f)
+                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.8f)
                         )
                         Spacer(modifier = Modifier.height(8.dp))
                         Text(
@@ -374,13 +444,13 @@ fun EpisodeListCard(
                     text = translateTitle(episode.title, isVi),
                     style = MaterialTheme.typography.titleMedium,
                     fontWeight = FontWeight.Bold,
-                    color = TextDark
+                    color = MaterialTheme.colorScheme.onSurface
                 )
                 Spacer(modifier = Modifier.height(4.dp))
                 Text(
                     text = translateDesc(episode.synopsis, isVi),
                     style = MaterialTheme.typography.bodyMedium,
-                    color = TextDark.copy(alpha = 0.7f)
+                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f)
                 )
             }
 

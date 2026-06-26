@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​​​​​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​​​​​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
     "type": "Flashcard",
     "hindi": "I am proud of you.",
     "transliteration": "",
-    "english": "मुझे तुम पर गर्व है।",
-    "vietnamese": "Tôi tự hào về bạn.",
+    "english": "Tôi tự hào về bạn.",
+    "vietnamese": "",
     "audio": "I am proud of you."
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cup'",
     "text": "Cup",
     "subtext": "",
-    "answer": "प्याला​​​​​",
+    "answer": "Cup",
     "answer_vi": "Tách",
     "options": [
-      "प्याला​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बारिश​​​​​​​​​",
-      "मुझे तुम पर गर्व है।"
+      "Cup",
+      "To learn",
+      "Rain",
+      "I am proud of you."
     ],
     "options_vi": [
       "Tách",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "Hello, how are you?",
     "transliteration": "",
-    "english": "नमस्ते, आप कैसे हैं?",
-    "vietnamese": "Xin chào, bạn khỏe không?",
+    "english": "Xin chào, bạn khỏe không?",
+    "vietnamese": "",
     "audio": "Hello, how are you?"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
     "text": "To see / watch",
     "subtext": "",
-    "answer": "देखना​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
     "options": [
-      "देखना​​​​​​​​​​​​​​​​​​​​​",
-      "समुद्र​​​​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "नमस्ते, आप कैसे हैं?"
+      "To see / watch",
+      "Sea / Ocean",
+      "To wash",
+      "Hello, how are you?"
     ],
     "options_vi": [
       "Nhìn / Xem",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "God bless you.",
     "transliteration": "",
-    "english": "भगवान आपका भला करे।",
-    "vietnamese": "Thần linh ban phước cho bạn.",
+    "english": "Thần linh ban phước cho bạn.",
+    "vietnamese": "",
     "audio": "God bless you."
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'God bless you.'",
     "text": "God bless you.",
     "subtext": "",
-    "answer": "भगवान आपका भला करे।",
+    "answer": "God bless you.",
     "answer_vi": "Thần linh ban phước cho bạn.",
     "options": [
-      "भगवान आपका भला करे।",
-      "हँसना​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "God bless you.",
+      "To laugh",
+      "To listen / hear",
+      "To cry"
     ],
     "options_vi": [
       "Thần linh ban phước cho bạn.",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "Rate / Door",
     "transliteration": "",
-    "english": "दर",
-    "vietnamese": "Tỷ lệ / Cửa",
+    "english": "Tỷ lệ / Cửa",
+    "vietnamese": "",
     "audio": "Rate / Door"
   },
   {
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To tell / explain'",
     "text": "To tell / explain",
     "subtext": "",
-    "answer": "बताना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To tell / explain",
     "answer_vi": "Kể / Giải thích",
     "options": [
-      "बताना​​​​​​​​​​​​​​​​​​​​",
-      "बादल​​​​​​​",
-      "दर",
-      "सड़क​"
+      "To tell / explain",
+      "Cloud",
+      "Rate / Door",
+      "Road"
     ],
     "options_vi": [
       "Kể / Giải thích",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a प्याला​​​​​ / Nó là một Tách",
+    "englishSentence": "Nó là một Tách",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Học",
+    "englishSentence": "Tôi thích Học",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To learn"
+      "To",
+      "learn"
     ],
     "correctHindiSentence": "I really like To learn"
   },

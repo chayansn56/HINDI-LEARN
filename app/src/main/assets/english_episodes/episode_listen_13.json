@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
     "text": "Cloud",
     "subtext": "",
-    "answer": "बादल​​​​​​",
+    "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
-      "बादल​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​"
+      "Cloud",
+      "To listen / hear",
+      "To learn",
+      "To listen / hear"
     ],
     "options_vi": [
       "Đám mây",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To them / him / her (formal near)",
     "transliteration": "",
-    "english": "इनन्हें",
-    "vietnamese": "Cho họ / Cho ngài ấy (gần)",
+    "english": "Cho họ / Cho ngài ấy (gần)",
+    "vietnamese": "",
     "audio": "To them / him / her (formal near)"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​",
-      "इनन्हें"
+      "To listen / hear",
+      "To learn",
+      "To learn",
+      "To them / him / her (formal near)"
     ],
     "options_vi": [
       "Nghe",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Yearning / Restlessness",
     "transliteration": "",
-    "english": "तड़प",
-    "vietnamese": "Sự khắc khoải / Khao khát",
+    "english": "Sự khắc khoải / Khao khát",
+    "vietnamese": "",
     "audio": "Yearning / Restlessness"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​",
-      "तड़प",
-      "मिट्टी",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Soil / Earth",
+      "Yearning / Restlessness",
+      "Soil / Earth",
+      "To learn"
     ],
     "options_vi": [
       "Đất",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "LOL / Laughing Out Loud",
     "transliteration": "",
-    "english": "लोल",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "LOL / Laughing Out Loud"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​​​​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लोल",
-      "सुनना​​​​​​​​​​​​"
+      "Soil / Earth",
+      "To learn",
+      "LOL / Laughing Out Loud",
+      "To listen / hear"
     ],
     "options_vi": [
       "Đất",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बादल​​​​​​ / Nó là một Đám mây",
+    "englishSentence": "Nó là một Đám mây",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,15 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Nghe",
+    "englishSentence": "Tôi thích Nghe",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "I really like To listen / hear"
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Saturday",
     "transliteration": "",
-    "english": "शनिवार",
-    "vietnamese": "Thứ bảy",
+    "english": "Thứ bảy",
+    "vietnamese": "",
     "audio": "Saturday"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Husband",
     "transliteration": "",
-    "english": "पति",
-    "vietnamese": "Chồng",
+    "english": "Chồng",
+    "vietnamese": "",
     "audio": "Husband"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​",
-      "शनिवार",
-      "दौड़ना​​​​​​",
-      "पति"
+      "Snow / Ice",
+      "Saturday",
+      "To run",
+      "Husband"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Seven",
     "transliteration": "",
-    "english": "सात",
-    "vietnamese": "Số bảy",
+    "english": "Số bảy",
+    "vietnamese": "",
     "audio": "Seven"
   },
   {
     "type": "Flashcard",
     "hindi": "Work / Job",
     "transliteration": "",
-    "english": "काम",
-    "vietnamese": "Công việc",
+    "english": "Công việc",
+    "vietnamese": "",
     "audio": "Work / Job"
   },
   {
     "type": "Flashcard",
     "hindi": "I",
     "transliteration": "",
-    "english": "मैं",
-    "vietnamese": "Tôi",
+    "english": "Tôi",
+    "vietnamese": "",
     "audio": "I"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Seven'",
     "text": "Seven",
     "subtext": "",
-    "answer": "सात",
+    "answer": "Seven",
     "answer_vi": "Số bảy",
     "options": [
-      "सात",
-      "काम",
-      "मैं",
-      "देखना​​​​​​​​​​​​​​​​​​"
+      "Seven",
+      "Work / Job",
+      "I",
+      "To see / watch"
     ],
     "options_vi": [
       "Số bảy",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "are",
     "transliteration": "",
-    "english": "हैं",
-    "vietnamese": "Là (số nhiều)",
+    "english": "Là (số nhiều)",
+    "vietnamese": "",
     "audio": "are"
   },
   {
     "type": "Flashcard",
     "hindi": "Champion / Champ",
     "transliteration": "",
-    "english": "चैंप",
-    "vietnamese": "Nhà vô địch",
+    "english": "Nhà vô địch",
+    "vietnamese": "",
     "audio": "Champion / Champ"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'are'",
     "text": "are",
     "subtext": "",
-    "answer": "हैं",
+    "answer": "are",
     "answer_vi": "Là (số nhiều)",
     "options": [
-      "हैं",
-      "चैंप",
-      "लिखना​​",
-      "हँसना​​​​"
+      "are",
+      "Champion / Champ",
+      "To write",
+      "To laugh"
     ],
     "options_vi": [
       "Là (số nhiều)",
@@ -300,18 +300,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बर्फ़​​ / Tôi thấy Tuyết / Đá",
+    "englishSentence": "Đá",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Snow / Ice"
+      "Snow",
+      "/",
+      "Ice"
     ],
     "correctHindiSentence": "I see the Snow / Ice"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a शनिवार / Tôi muốn Thứ bảy",
+    "englishSentence": "Tôi muốn Thứ bảy",
     "hindiWords": [
       "I",
       "want",

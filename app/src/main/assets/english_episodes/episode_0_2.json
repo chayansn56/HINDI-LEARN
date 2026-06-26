@@ -1,75 +1,92 @@
-{
-  "id": "episode_0_2",
-  "title": "Vowels & Consonants",
-  "description": "Learn about the 5 vowels and 21 consonants in English.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "title": "Nguyên âm và Phụ âm",
-      "content": "Tiếng Anh có 5 nguyên âm (Vowels): A, E, I, O, U. Các chữ cái còn lại là phụ âm (Consonants)."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "A",
-      "english": "A",
-      "vietnamese": "Nguyên âm A",
-      "audio": "A"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "E",
-      "english": "E",
-      "vietnamese": "Nguyên âm E",
-      "audio": "E"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Chữ cái nào là nguyên âm?",
-      "options": ["B", "C", "D", "E"],
-      "answer": "E"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Elephant",
-      "english": "Elephant",
-      "vietnamese": "Con voi",
-      "audio": "Elephant"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Ice cream",
-      "english": "Ice cream",
-      "vietnamese": "Kem",
-      "audio": "Ice cream"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Orange",
-      "english": "Orange",
-      "vietnamese": "Quả cam",
-      "audio": "Orange"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Umbrella",
-      "english": "Umbrella",
-      "vietnamese": "Cái ô",
-      "audio": "Umbrella"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Từ nào có nghĩa là 'Cái ô'?",
-      "options": ["Orange", "Elephant", "Umbrella", "Ice cream"],
-      "answer": "Umbrella"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"hindi": "E", "vietnamese": "Nguyên âm"},
-        {"hindi": "B", "vietnamese": "Phụ âm"},
-        {"hindi": "Orange", "vietnamese": "Quả cam"},
-        {"hindi": "Ice cream", "vietnamese": "Kem"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Nguyên âm và Phụ âm",
+    "content": "Tiếng Anh có 5 nguyên âm (Vowels): A, E, I, O, U. Các chữ cái còn lại là phụ âm (Consonants)."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "A",
+    "english": "A",
+    "vietnamese": "Nguyên âm A",
+    "audio": "A"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "E",
+    "english": "E",
+    "vietnamese": "Nguyên âm E",
+    "audio": "E"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Chữ cái nào là nguyên âm?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Elephant",
+    "english": "Elephant",
+    "vietnamese": "Con voi",
+    "audio": "Elephant"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ice cream",
+    "english": "Ice cream",
+    "vietnamese": "Kem",
+    "audio": "Ice cream"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Orange",
+    "english": "Orange",
+    "vietnamese": "Quả cam",
+    "audio": "Orange"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Umbrella",
+    "english": "Umbrella",
+    "vietnamese": "Cái ô",
+    "audio": "Umbrella"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Từ nào có nghĩa là 'Cái ô'?",
+    "options": [
+      "Orange",
+      "Elephant",
+      "Umbrella",
+      "Ice cream"
+    ],
+    "answer": "Umbrella"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "E",
+        "vietnamese": "Nguyên âm"
+      },
+      {
+        "hindi": "B",
+        "vietnamese": "Phụ âm"
+      },
+      {
+        "hindi": "Orange",
+        "vietnamese": "Quả cam"
+      },
+      {
+        "hindi": "Ice cream",
+        "vietnamese": "Kem"
+      }
+    ]
+  }
+]

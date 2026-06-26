@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sell'",
     "text": "To sell",
     "subtext": "",
-    "answer": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sell",
     "answer_vi": "Bán",
     "options": [
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​",
-      "देखना",
-      "चलना​​​​​​​​​​​​​​​"
+      "To sell",
+      "To take",
+      "To see / watch",
+      "To walk / move"
     ],
     "options_vi": [
       "Bán",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To clean'",
     "text": "To clean",
     "subtext": "",
-    "answer": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To clean",
     "answer_vi": "Dọn dẹp / Lau chùi",
     "options": [
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देखना​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​"
+      "To clean",
+      "To see / watch",
+      "To wash",
+      "To clean"
     ],
     "options_vi": [
       "Dọn dẹp / Lau chùi",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "It was a great pleasure meeting you.",
     "transliteration": "",
-    "english": "आपसे मिलकर बहुत खुशी हुई।",
-    "vietnamese": "Rất vui được gặp ngài.",
+    "english": "Rất vui được gặp ngài.",
+    "vietnamese": "",
     "audio": "It was a great pleasure meeting you."
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To buy'",
     "text": "To buy",
     "subtext": "",
-    "answer": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To buy",
     "answer_vi": "Mua",
     "options": [
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​",
-      "आपसे मिलकर बहुत खुशी हुई।",
-      "बैठना​​​​​​​"
+      "To buy",
+      "To see / watch",
+      "It was a great pleasure meeting you.",
+      "To sit"
     ],
     "options_vi": [
       "Mua",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बेचना​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Bán",
+    "englishSentence": "Tôi thấy Bán",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To sell"
+      "To",
+      "sell"
     ],
     "correctHindiSentence": "I see the To sell"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a लेना​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Lấy / Nhận",
+    "englishSentence": "Nhận",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To take"
+      "To",
+      "take"
     ],
     "correctHindiSentence": "I want a To take"
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Black",
     "transliteration": "",
-    "english": "काला",
-    "vietnamese": "Màu đen",
+    "english": "Màu đen",
+    "vietnamese": "",
     "audio": "Black"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
     "text": "To take",
     "subtext": "",
-    "answer": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To take",
     "answer_vi": "Lấy / Nhận",
     "options": [
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "काला",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To take",
+      "Black",
+      "To teach",
+      "To stand"
     ],
     "options_vi": [
       "Lấy / Nhận",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Read (root)",
     "transliteration": "",
-    "english": "पढ़",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "Read (root)"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Read (root)'",
     "text": "Read (root)",
     "subtext": "",
-    "answer": "पढ़",
+    "answer": "Read (root)",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़",
-      "सोना​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Read (root)",
+      "To sleep",
+      "To teach",
+      "To open"
     ],
     "options_vi": [
       "Đọc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Bathroom",
     "transliteration": "",
-    "english": "बाथरूम",
-    "vietnamese": "Nhà tắm / Toilet",
+    "english": "Nhà tắm / Toilet",
+    "vietnamese": "",
     "audio": "Bathroom"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "City",
     "transliteration": "",
-    "english": "शहर",
-    "vietnamese": "Thành phố",
+    "english": "Thành phố",
+    "vietnamese": "",
     "audio": "City"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Bathroom'",
     "text": "Bathroom",
     "subtext": "",
-    "answer": "बाथरूम",
+    "answer": "Bathroom",
     "answer_vi": "Nhà tắm / Toilet",
     "options": [
-      "बाथरूम",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बंद करना​​​​​​",
-      "शहर"
+      "Bathroom",
+      "To ask",
+      "To close",
+      "City"
     ],
     "options_vi": [
       "Nhà tắm / Toilet",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Lấy / Nhận",
+    "englishSentence": "Nhận",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To take"
+      "To",
+      "take"
     ],
     "correctHindiSentence": "I see the To take"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a काला / Tôi muốn Màu đen",
+    "englishSentence": "Tôi muốn Màu đen",
     "hindiWords": [
       "I",
       "want",

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​​​​​​​​​​​​​​​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​"
+      "To open",
+      "To listen / hear",
+      "To do",
+      "To wash"
     ],
     "options_vi": [
       "Mở",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "under / below",
     "transliteration": "",
-    "english": "के नीचे",
-    "vietnamese": "Dưới / Phía dưới",
+    "english": "Dưới / Phía dưới",
+    "vietnamese": "",
     "audio": "under / below"
   },
   {
     "type": "Flashcard",
     "hindi": "1",
     "transliteration": "",
-    "english": "१",
-    "vietnamese": "Một",
+    "english": "Một",
+    "vietnamese": "",
     "audio": "1"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
     "text": "To sing",
     "subtext": "",
-    "answer": "गाना​​​​​​​​​",
+    "answer": "To sing",
     "answer_vi": "Hát",
     "options": [
-      "गाना​​​​​​​​​",
-      "के नीचे",
-      "१",
-      "बेचना​"
+      "To sing",
+      "under / below",
+      "1",
+      "To sell"
     ],
     "options_vi": [
       "Hát",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "Product",
     "transliteration": "",
-    "english": "उत्पाद",
-    "vietnamese": "Sản phẩm",
+    "english": "Sản phẩm",
+    "vietnamese": "",
     "audio": "Product"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To buy'",
     "text": "To buy",
     "subtext": "",
-    "answer": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To buy",
     "answer_vi": "Mua",
     "options": [
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​",
-      "बंद करना​​",
-      "उत्पाद"
+      "To buy",
+      "To walk / move",
+      "To close",
+      "Product"
     ],
     "options_vi": [
       "Mua",
@@ -300,23 +300,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the खोलना​​​​​​​​​​​​​​​ / Tôi thấy Mở",
+    "englishSentence": "Tôi thấy Mở",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To open"
+      "To",
+      "open"
     ],
     "correctHindiSentence": "I see the To open"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Nghe",
+    "englishSentence": "Tôi muốn Nghe",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "I want a To listen / hear"
   },

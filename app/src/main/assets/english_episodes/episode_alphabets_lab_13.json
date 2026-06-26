@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
     "text": "Cloud",
     "subtext": "",
-    "answer": "बादल",
+    "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
-      "बादल",
-      "लिखना​​​​​",
-      "खेलना​​",
-      "sिखाना​​​​​​​​​​"
+      "Cloud",
+      "To write",
+      "To play",
+      "To teach"
     ],
     "options_vi": [
       "Đám mây",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "Path / Way",
     "transliteration": "",
-    "english": "रास्ता​​​​​​​",
-    "vietnamese": "Đường đi",
+    "english": "Đường đi",
+    "vietnamese": "",
     "audio": "Path / Way"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
     "text": "To wake up",
     "subtext": "",
-    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wake up",
     "answer_vi": "Thức dậy",
     "options": [
-      "जागना​​​​​​​​​​​​​​​​​​​​​",
-      "रास्ता​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​"
+      "To wake up",
+      "Path / Way",
+      "To speak",
+      "To teach"
     ],
     "options_vi": [
       "Thức dậy",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "You are welcome",
     "transliteration": "",
-    "english": "आपका स्वागत है।",
-    "vietnamese": "Không có gì / Chào mừng bạn",
+    "english": "Không có gì / Chào mừng bạn",
+    "vietnamese": "",
     "audio": "You are welcome"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Passport",
     "transliteration": "",
-    "english": "पासपोर्ट",
-    "vietnamese": "Hộ chiếu",
+    "english": "Hộ chiếu",
+    "vietnamese": "",
     "audio": "Passport"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'You are welcome'",
     "text": "You are welcome",
     "subtext": "",
-    "answer": "आपका स्वागत है।",
+    "answer": "You are welcome",
     "answer_vi": "Không có gì / Chào mừng bạn",
     "options": [
-      "आपका स्वागत है।",
-      "खेलना​​​​​​​​​​​",
-      "पासपोर्ट",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​"
+      "You are welcome",
+      "To play",
+      "Passport",
+      "To speak"
     ],
     "options_vi": [
       "Không có gì / Chào mừng bạn",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Daughter-in-law",
     "transliteration": "",
-    "english": "बहू",
-    "vietnamese": "Con dâu / Vợ",
+    "english": "Con dâu / Vợ",
+    "vietnamese": "",
     "audio": "Daughter-in-law"
   },
   {
     "type": "Flashcard",
     "hindi": "Their / His / Her (formal)",
     "transliteration": "",
-    "english": "उनका",
-    "vietnamese": "Của họ / Của ngài ấy",
+    "english": "Của họ / Của ngài ấy",
+    "vietnamese": "",
     "audio": "Their / His / Her (formal)"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Daughter-in-law'",
     "text": "Daughter-in-law",
     "subtext": "",
-    "answer": "बहू",
+    "answer": "Daughter-in-law",
     "answer_vi": "Con dâu / Vợ",
     "options": [
-      "बहू",
-      "उनका",
-      "समुद्र​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​"
+      "Daughter-in-law",
+      "Their / His / Her (formal)",
+      "Sea / Ocean",
+      "To tell / explain"
     ],
     "options_vi": [
       "Con dâu / Vợ",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बादल / Nó là một Đám mây",
+    "englishSentence": "Nó là một Đám mây",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like लिखना​​​​​ / Tôi thích Viết",
+    "englishSentence": "Tôi thích Viết",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To write"
+      "To",
+      "write"
     ],
     "correctHindiSentence": "I really like To write"
   },

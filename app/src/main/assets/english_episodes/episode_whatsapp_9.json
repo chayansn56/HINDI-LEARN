@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "दोस्त",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
     "type": "Flashcard",
     "hindi": "Friendship",
     "transliteration": "",
-    "english": "दोस्ती",
-    "vietnamese": "Tình bạn",
+    "english": "Tình bạn",
+    "vietnamese": "",
     "audio": "Friendship"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend / Buddy",
     "transliteration": "",
-    "english": "यार",
-    "vietnamese": "Bạn ơi / Bạn bè",
+    "english": "Bạn ơi / Bạn bè",
+    "vietnamese": "",
     "audio": "Friend / Buddy"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "मित्र",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
@@ -52,17 +52,17 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Friend'",
     "text": "Friend",
     "subtext": "",
-    "answer": "दोस्त",
+    "answer": "Friend",
     "answer_vi": "Bạn bè",
     "options": [
-      "दोस्त",
-      "दोस्ती",
-      "यार",
-      "मित्र"
+      "Friend",
+      "Friend",
+      "Friend / Buddy",
+      "Friend"
     ],
     "options_vi": [
       "Bạn bè",
-      "Tình bạn",
+      "Bạn bè",
       "Bạn ơi / Bạn bè",
       "Bạn bè"
     ]
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Phone",
     "transliteration": "",
-    "english": "फ़ोन",
-    "vietnamese": "Điện thoại",
+    "english": "Điện thoại",
+    "vietnamese": "",
     "audio": "Phone"
   },
   {
     "type": "Flashcard",
     "hindi": "Oh friend! / Oh man!",
     "transliteration": "",
-    "english": "अरे यार!",
-    "vietnamese": "Trời ơi bạn ơi!",
+    "english": "Trời ơi bạn ơi!",
+    "vietnamese": "",
     "audio": "Oh friend! / Oh man!"
   },
   {
     "type": "Flashcard",
     "hindi": "Message",
     "transliteration": "",
-    "english": "संदेश",
-    "vietnamese": "Tin nhắn",
+    "english": "Tin nhắn",
+    "vietnamese": "",
     "audio": "Message"
   },
   {
     "type": "Flashcard",
     "hindi": "Message",
     "transliteration": "",
-    "english": "मैसेज",
-    "vietnamese": "Tin nhắn",
+    "english": "Tin nhắn",
+    "vietnamese": "",
     "audio": "Message"
   },
   {
@@ -134,17 +134,17 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Phone'",
     "text": "Phone",
     "subtext": "",
-    "answer": "फ़ोन",
+    "answer": "Phone",
     "answer_vi": "Điện thoại",
     "options": [
-      "फ़ोन",
-      "अरे यार!",
-      "संदेश",
-      "मैसेज"
+      "Phone",
+      "Friend / Buddy",
+      "Message",
+      "Message"
     ],
     "options_vi": [
       "Điện thoại",
-      "Trời ơi bạn ơi!",
+      "Bạn ơi / Bạn bè",
       "Tin nhắn",
       "Tin nhắn"
     ]
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Status / Story",
     "transliteration": "",
-    "english": "स्टेटस",
-    "vietnamese": "Trạng thái / Tin trạng thái",
+    "english": "Trạng thái / Tin trạng thái",
+    "vietnamese": "",
     "audio": "Status / Story"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -216,19 +216,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Status / Story'",
     "text": "Status / Story",
     "subtext": "",
-    "answer": "स्टेटस",
+    "answer": "Status / Story",
     "answer_vi": "Trạng thái / Tin trạng thái",
     "options": [
-      "स्टेटस",
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Status / Story",
+      "To do",
+      "To learn",
+      "To do"
     ],
     "options_vi": [
       "Trạng thái / Tin trạng thái",
       "Làm",
       "Học",
-      "Dọn dẹp / Lau chùi"
+      "Làm"
     ]
   },
   {
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Picture / Photo",
     "transliteration": "",
-    "english": "तस्वीर",
-    "vietnamese": "Bức ảnh",
+    "english": "Bức ảnh",
+    "vietnamese": "",
     "audio": "Picture / Photo"
   },
   {
     "type": "Flashcard",
     "hindi": "80",
     "transliteration": "",
-    "english": "८०",
-    "vietnamese": "Tám mươi",
+    "english": "Tám mươi",
+    "vietnamese": "",
     "audio": "80"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Picture / Photo'",
     "text": "Picture / Photo",
     "subtext": "",
-    "answer": "तस्वीर",
+    "answer": "Picture / Photo",
     "answer_vi": "Bức ảnh",
     "options": [
-      "तस्वीर",
-      "८०",
-      "तारा​​​​​​​​​​",
-      "खड़े होना​"
+      "Picture / Photo",
+      "80",
+      "Star",
+      "To stand"
     ],
     "options_vi": [
       "Bức ảnh",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a दोस्त / Nó là một Bạn bè",
+    "englishSentence": "Nó là một Bạn bè",
     "hindiWords": [
       "It",
       "is",
@@ -366,7 +366,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like दोस्ती / Tôi thích Tình bạn",
+    "englishSentence": "Tôi thích Tình bạn",
     "hindiWords": [
       "I",
       "really",

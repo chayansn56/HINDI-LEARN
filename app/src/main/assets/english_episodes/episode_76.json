@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "Question",
     "transliteration": "",
-    "english": "प्रश्न",
-    "vietnamese": "Câu hỏi",
+    "english": "Câu hỏi",
+    "vietnamese": "",
     "audio": "Question"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
     "text": "To laugh",
     "subtext": "",
-    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To laugh",
     "answer_vi": "Cười lớn",
     "options": [
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "प्रश्न",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मिट्टी​​​"
+      "To laugh",
+      "Question",
+      "To buy",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Cười lớn",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "From this / it (near)",
     "transliteration": "",
-    "english": "इससे",
-    "vietnamese": "Từ cái này",
+    "english": "Từ cái này",
+    "vietnamese": "",
     "audio": "From this / it (near)"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
     "text": "Sea / Ocean",
     "subtext": "",
-    "answer": "समुद्र​​​​​",
+    "answer": "Sea / Ocean",
     "answer_vi": "Biển",
     "options": [
-      "समुद्र​​​​​",
-      "समुद्र​​​​​​​​​​",
-      "मदद​​​​",
-      "इससे"
+      "Sea / Ocean",
+      "Sea / Ocean",
+      "Help",
+      "From this / it (near)"
     ],
     "options_vi": [
       "Biển",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "are",
     "transliteration": "",
-    "english": "हो",
-    "vietnamese": "Là (bạn)",
+    "english": "Là (bạn)",
+    "vietnamese": "",
     "audio": "are"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "Service",
     "transliteration": "",
-    "english": "सेवा",
-    "vietnamese": "Dịch vụ",
+    "english": "Dịch vụ",
+    "vietnamese": "",
     "audio": "Service"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'are'",
     "text": "are",
     "subtext": "",
-    "answer": "हो",
+    "answer": "are",
     "answer_vi": "Là (bạn)",
     "options": [
-      "हो",
-      "सीखना​​​​​​​​",
-      "धोना​​​​​",
-      "सेवा"
+      "are",
+      "To learn",
+      "To wash",
+      "Service"
     ],
     "options_vi": [
       "Là (bạn)",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Cười lớn",
+    "englishSentence": "Tôi thấy Cười lớn",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To laugh"
+      "To",
+      "laugh"
     ],
     "correctHindiSentence": "I see the To laugh"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a प्रश्न / Tôi muốn Câu hỏi",
+    "englishSentence": "Tôi muốn Câu hỏi",
     "hindiWords": [
       "I",
       "want",

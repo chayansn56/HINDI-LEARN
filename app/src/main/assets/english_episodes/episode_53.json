@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "It is very expensive.",
     "transliteration": "",
-    "english": "बहुत महँगा है।",
-    "vietnamese": "Rất đắt.",
+    "english": "Rất đắt.",
+    "vietnamese": "",
     "audio": "It is very expensive."
   },
   {
     "type": "Flashcard",
     "hindi": "Enough / Stop",
     "transliteration": "",
-    "english": "बस",
-    "vietnamese": "Đủ rồi / Thôi",
+    "english": "Đủ rồi / Thôi",
+    "vietnamese": "",
     "audio": "Enough / Stop"
   },
   {
     "type": "Flashcard",
     "hindi": "Three",
     "transliteration": "",
-    "english": "तीन",
-    "vietnamese": "Số ba",
+    "english": "Số ba",
+    "vietnamese": "",
     "audio": "Three"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'It is very expensive.'",
     "text": "It is very expensive.",
     "subtext": "",
-    "answer": "बहुत महँगा है।",
+    "answer": "It is very expensive.",
     "answer_vi": "Rất đắt.",
     "options": [
-      "बहुत महँगा है।",
-      "बस",
-      "तीन",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "It is very expensive.",
+      "Enough / Stop",
+      "Three",
+      "To read"
     ],
     "options_vi": [
       "Rất đắt.",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
     "text": "To see / watch",
     "subtext": "",
-    "answer": "देखना​",
+    "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
     "options": [
-      "देखना​",
-      "करना​​​​​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​",
-      "आग​​​​​​​"
+      "To see / watch",
+      "To do",
+      "To stand",
+      "Fire"
     ],
     "options_vi": [
       "Nhìn / Xem",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Worship Ritual",
     "transliteration": "",
-    "english": "पूजा",
-    "vietnamese": "Nghi lễ thờ cúng",
+    "english": "Nghi lễ thờ cúng",
+    "vietnamese": "",
     "audio": "Worship Ritual"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
     "text": "To take",
     "subtext": "",
-    "answer": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To take",
     "answer_vi": "Lấy / Nhận",
     "options": [
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूजा",
-      "बंद करना​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To take",
+      "Worship Ritual",
+      "To close",
+      "To listen / hear"
     ],
     "options_vi": [
       "Lấy / Nhận",
@@ -300,23 +300,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बहुत महँगा है। / Tôi thấy Rất đắt.",
+    "englishSentence": "Tôi thấy Rất đắt.",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "It is very expensive."
+      "It",
+      "is",
+      "very",
+      "expensive."
     ],
     "correctHindiSentence": "I see the It is very expensive."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बस / Tôi muốn Đủ rồi / Thôi",
+    "englishSentence": "Thôi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Enough / Stop"
+      "Enough",
+      "/",
+      "Stop"
     ],
     "correctHindiSentence": "I want a Enough / Stop"
   },

@@ -62,7 +62,11 @@ fun RevisionScreen(
     var tts by remember { mutableStateOf<TextToSpeech?>(null) }
     var weakWordsList = remember { mutableStateListOf<RevisionWord>() }
 
-    val nextReviewWord = {
+    val nextReviewWord = { correct: Boolean ->
+        val currentWord = reviewQueue.getOrNull(currentReviewWordIdx)
+        if (currentWord != null) {
+            com.example.hindilearn.data.SrsManager.processReview(currentWord.hindi, correct)
+        }
         isCardFlipped = false
         if (currentReviewWordIdx + 1 < reviewQueue.size) {
             currentReviewWordIdx++
@@ -72,19 +76,24 @@ fun RevisionScreen(
     }
 
     DisposableEffect(context) {
-        val textToSpeech = TextToSpeech(context) { status ->
+        var textToSpeech: TextToSpeech? = null
+        textToSpeech = TextToSpeech(context) { status ->
             if (status == TextToSpeech.SUCCESS) {
-                tts?.language = Locale.forLanguageTag("hi-IN")
+                val ttsLocale = if (UserManager.progress.selectedCourse == "ENGLISH")
+                    Locale.forLanguageTag("en-US")
+                else
+                    Locale.forLanguageTag("hi-IN")
+                textToSpeech?.language = ttsLocale
             }
         }
         tts = textToSpeech
         onDispose {
-            textToSpeech.stop()
-            textToSpeech.shutdown()
+            textToSpeech?.stop()
+            textToSpeech?.shutdown()
         }
     }
 
-    // Load words from assets/episodes/master_vocab.json
+    // Load words from assets/episodes/master_vocab.json and check SRS
     LaunchedEffect(Unit) {
         try {
             val inputStream: InputStream = context.assets.open("episodes/master_vocab.json")
@@ -98,31 +107,29 @@ fun RevisionScreen(
             val allWords = mutableListOf<RevisionWord>()
             for (i in 0 until jsonArray.length()) {
                 val obj = jsonArray.getJSONObject(i)
-                allWords.add(
-                    RevisionWord(
-                        hindi = obj.getString("hindi"),
-                        transliteration = obj.getString("transliteration"),
-                        english = obj.getString("english"),
-                        vietnamese = obj.getString("vietnamese"),
-                        category = obj.getString("category"),
-                        usageNote = obj.optString("usage_note")
-                    )
+                val word = RevisionWord(
+                    hindi = obj.getString("hindi"),
+                    transliteration = obj.getString("transliteration"),
+                    english = obj.getString("english"),
+                    vietnamese = obj.getString("vietnamese"),
+                    category = obj.getString("category"),
+                    usageNote = obj.optString("usage_note")
                 )
+                allWords.add(word)
+                // Seed to SRS if not exists
+                com.example.hindilearn.data.SrsManager.addWordIfNotExists(word.hindi)
             }
             
-            val mistakeMap = progress.mistakeMap
-            // Sort by mistake count descending
-            val sortedWords = allWords.sortedByDescending { word ->
-                mistakeMap[word.hindi] ?: 0
-            }
+            val dueItemIds = com.example.hindilearn.data.SrsManager.getDueItems()
+            val dueWords = allWords.filter { dueItemIds.contains(it.hindi) }.shuffled()
             
-            // Sample top 5 weak words
+            // Sample top 5 words for dashboard
             weakWordsList.clear()
-            weakWordsList.addAll(sortedWords.take(5))
+            weakWordsList.addAll(dueWords.take(5))
             
-            // Populate review queue with top 6 words
+            // Populate review queue (max 10 for a session)
             reviewQueue.clear()
-            reviewQueue.addAll(sortedWords.take(6))
+            reviewQueue.addAll(dueWords.take(10))
         } catch (e: Exception) {
             e.printStackTrace()
         }
@@ -137,10 +144,10 @@ fun RevisionScreen(
                     containerColor = Color.Transparent,
                     topBar = {
                         TopAppBar(
-                            title = { Text(if (isVi) "Trung tâm ôn tập" else "Revision Center", color = TextDark, fontWeight = FontWeight.Bold) },
+                            title = { Text(if (isVi) "Trung tâm ôn tập" else "Revision Center", color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold) },
                             navigationIcon = {
                                 IconButton(onClick = onBack) {
-                                    Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = TextDark)
+                                    Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = MaterialTheme.colorScheme.onSurface)
                                 }
                             },
                             colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -178,7 +185,7 @@ fun RevisionScreen(
                                             icon = "🪙"
                                         )
                                         StatBlock(
-                                            value = "5/5",
+                                            value = "${progress.hearts}/5",
                                             label = if (isVi) "Trái tim" else "Hearts",
                                             icon = "❤️"
                                         )
@@ -193,7 +200,7 @@ fun RevisionScreen(
                                 text = if (isVi) "Từ vựng cần củng cố" else "Words Needing Practice",
                                 style = MaterialTheme.typography.titleLarge,
                                 fontWeight = FontWeight.ExtraBold,
-                                color = TextDark
+                                color = MaterialTheme.colorScheme.onSurface
                             )
                             Spacer(modifier = Modifier.height(8.dp))
                             GlassCard(modifier = Modifier.fillMaxWidth()) {
@@ -214,11 +221,11 @@ fun RevisionScreen(
                                             }
                                             Spacer(modifier = Modifier.width(16.dp))
                                             Column(modifier = Modifier.weight(1f)) {
-                                                Text(word.hindi, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = TextDark)
+                                                Text(word.hindi, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface)
                                                 Text(
                                                     text = "/${word.transliteration}/ \u2022 ${if (isVi) word.vietnamese else word.english}",
                                                     style = MaterialTheme.typography.bodyMedium,
-                                                    color = TextDark.copy(alpha = 0.6f)
+                                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
                                                 )
                                             }
                                             IconButton(onClick = {
@@ -258,13 +265,13 @@ fun RevisionScreen(
                             title = { 
                                 Text(
                                     text = if (reviewFinished) "Review Complete" else "Flashcard ${currentReviewWordIdx + 1}/${reviewQueue.size}", 
-                                    color = TextDark, 
+                                    color = MaterialTheme.colorScheme.onSurface, 
                                     fontWeight = FontWeight.Bold
                                 ) 
                             },
                             navigationIcon = {
                                 IconButton(onClick = { isReviewing = false }) {
-                                    Icon(Icons.Default.Close, contentDescription = "Close", tint = TextDark)
+                                    Icon(Icons.Default.Close, contentDescription = "Close", tint = MaterialTheme.colorScheme.onSurface)
                                 }
                             },
                             colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -285,7 +292,7 @@ fun RevisionScreen(
                                 Text(
                                     text = if (isVi) "Chạm vào thẻ để lật xem nghĩa!" else "Tap the card to reveal the translation!",
                                     style = MaterialTheme.typography.bodyMedium,
-                                    color = TextDark.copy(alpha = 0.7f),
+                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f),
                                     textAlign = TextAlign.Center
                                 )
 
@@ -306,7 +313,7 @@ fun RevisionScreen(
                                         Box(modifier = Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
                                             Column(horizontalAlignment = Alignment.CenterHorizontally) {
                                                 if (!isCardFlipped) {
-                                                    Text(activeWord.hindi, fontSize = 56.sp, fontWeight = FontWeight.Black, color = TextDark, textAlign = TextAlign.Center)
+                                                    Text(activeWord.hindi, fontSize = 56.sp, fontWeight = FontWeight.Black, color = MaterialTheme.colorScheme.onSurface, textAlign = TextAlign.Center)
                                                     Spacer(modifier = Modifier.height(12.dp))
                                                     Text("/${activeWord.transliteration}/", style = MaterialTheme.typography.titleMedium, color = DeepSaffron)
                                                 } else {
@@ -314,7 +321,7 @@ fun RevisionScreen(
                                                         text = if (isVi) activeWord.vietnamese else activeWord.english,
                                                         fontSize = 32.sp,
                                                         fontWeight = FontWeight.ExtraBold,
-                                                        color = TextDark,
+                                                        color = MaterialTheme.colorScheme.onSurface,
                                                         textAlign = TextAlign.Center
                                                     )
                                                     if (activeWord.usageNote.isNotEmpty()) {
@@ -322,7 +329,7 @@ fun RevisionScreen(
                                                         Text(
                                                             text = activeWord.usageNote,
                                                             style = MaterialTheme.typography.bodyMedium,
-                                                            color = TextDark.copy(alpha = 0.6f),
+                                                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                                                             textAlign = TextAlign.Center
                                                         )
                                                     }
@@ -339,7 +346,7 @@ fun RevisionScreen(
                                         horizontalArrangement = Arrangement.spacedBy(16.dp)
                                     ) {
                                         Button(
-                                            onClick = { nextReviewWord() },
+                                            onClick = { nextReviewWord(false) },
                                             colors = ButtonDefaults.buttonColors(containerColor = SoftRed),
                                             modifier = Modifier.weight(1f).height(56.dp),
                                             shape = RoundedCornerShape(16.dp)
@@ -347,7 +354,7 @@ fun RevisionScreen(
                                             Text("Hard", fontWeight = FontWeight.Bold, color = Color.White)
                                         }
                                         Button(
-                                            onClick = { nextReviewWord() },
+                                            onClick = { nextReviewWord(true) },
                                             colors = ButtonDefaults.buttonColors(containerColor = DeepSaffron),
                                             modifier = Modifier.weight(1f).height(56.dp),
                                             shape = RoundedCornerShape(16.dp)
@@ -355,12 +362,12 @@ fun RevisionScreen(
                                             Text("Good", fontWeight = FontWeight.Bold, color = Color.White)
                                         }
                                         Button(
-                                            onClick = { nextReviewWord() },
+                                            onClick = { nextReviewWord(true) },
                                             colors = ButtonDefaults.buttonColors(containerColor = SoftGreen),
                                             modifier = Modifier.weight(1f).height(56.dp),
                                             shape = RoundedCornerShape(16.dp)
                                         ) {
-                                            Text("Easy", fontWeight = FontWeight.Bold, color = TextDark)
+                                            Text("Easy", fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface)
                                         }
                                     }
                                 } else {
@@ -384,14 +391,14 @@ fun RevisionScreen(
                                     text = if (isVi) "Ôn tập hoàn tất!" else "Review Complete!",
                                     style = MaterialTheme.typography.headlineLarge,
                                     fontWeight = FontWeight.ExtraBold,
-                                    color = TextDark
+                                    color = MaterialTheme.colorScheme.onSurface
                                 )
                                 Spacer(modifier = Modifier.height(12.dp))
                                 Text(
                                     text = if (isVi) "Bạn đã hoàn thành củng cố từ vựng hôm nay." 
                                            else "You have completed your daily vocabulary revision.",
                                     style = MaterialTheme.typography.bodyLarge,
-                                    color = TextDark.copy(alpha = 0.8f),
+                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.8f),
                                     textAlign = TextAlign.Center
                                 )
                                 Spacer(modifier = Modifier.height(32.dp))
@@ -441,7 +448,7 @@ fun StatBlock(
             Text(icon, fontSize = 22.sp)
         }
         Spacer(modifier = Modifier.height(8.dp))
-        Text(value, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.ExtraBold, color = TextDark)
-        Text(label, style = MaterialTheme.typography.bodySmall, color = TextDark.copy(alpha = 0.5f))
+        Text(value, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.ExtraBold, color = MaterialTheme.colorScheme.onSurface)
+        Text(label, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f))
     }
 }

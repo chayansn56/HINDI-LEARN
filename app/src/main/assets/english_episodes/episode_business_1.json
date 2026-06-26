@@ -1,20 +1,102 @@
-{
-  "title": "Formal Emails",
-  "nodes": [
-    {"type": "Flashcard", "hindi": "Attachment", "english": "Tập tin đính kèm", "audio": "Attachment"},
-    {"type": "Flashcard", "hindi": "Subject line", "english": "Dòng tiêu đề", "audio": "Subject line"},
-    {"type": "Flashcard", "hindi": "Sincerely", "english": "Trân trọng", "audio": "Sincerely"},
-    {"type": "Flashcard", "hindi": "Regards", "english": "Trân trọng / Kính thư", "audio": "Regards"},
-    {"type": "MultipleChoice", "hindi": "Please find attached the report.", "english": "Vui lòng xem báo cáo đính kèm.", "audio": "Please find attached the report.", "options": ["Vui lòng xem báo cáo đính kèm.", "Tôi đã gửi báo cáo rồi.", "Bạn có nhận được email không?", "Đây là báo cáo của tuần trước."], "answer": "Vui lòng xem báo cáo đính kèm."},
-    {"type": "MultipleChoice", "hindi": "I look forward to hearing from you.", "english": "Tôi mong nhận được phản hồi từ bạn.", "audio": "I look forward to hearing from you.", "options": ["Tôi mong nhận được phản hồi từ bạn.", "Cảm ơn bạn đã đọc email.", "Hãy liên lạc sớm nhé.", "Tôi sẽ gọi lại sau."], "answer": "Tôi mong nhận được phản hồi từ bạn."},
-    {"type": "MatchPairs", "pairs": [
-      {"hindi": "Forward", "english": "Chuyển tiếp", "audio": "Forward"},
-      {"hindi": "Reply all", "english": "Trả lời tất cả", "audio": "Reply all"},
-      {"hindi": "CC", "english": "Đồng gửi", "audio": "CC"},
-      {"hindi": "Draft", "english": "Bản nháp", "audio": "Draft"}
-    ]},
-    {"type": "Flashcard", "hindi": "Clarify", "english": "Làm rõ", "audio": "Clarify"},
-    {"type": "Flashcard", "hindi": "Confirm", "english": "Xác nhận", "audio": "Confirm"},
-    {"type": "MultipleChoice", "hindi": "If you have any questions, let me know.", "english": "Nếu bạn có bất kỳ câu hỏi nào, hãy cho tôi biết.", "audio": "If you have any questions, let me know.", "options": ["Nếu bạn có bất kỳ câu hỏi nào, hãy cho tôi biết.", "Tôi không có câu hỏi nào.", "Vui lòng trả lời tôi.", "Đây là tất cả thông tin."], "answer": "Nếu bạn có bất kỳ câu hỏi nào, hãy cho tôi biết."}
-  ]
-}
+[
+  {
+    "type": "Flashcard",
+    "hindi": "Attachment",
+    "english": "Tập tin đính kèm",
+    "audio": "Attachment"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Subject line",
+    "english": "Dòng tiêu đề",
+    "audio": "Subject line"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Sincerely",
+    "english": "Trân trọng",
+    "audio": "Sincerely"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Regards",
+    "english": "Trân trọng / Kính thư",
+    "audio": "Regards"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Please find attached the report.",
+    "english": "Vui lòng xem báo cáo đính kèm.",
+    "audio": "Please find attached the report.",
+    "options": [
+      "Vui lòng xem báo cáo đính kèm.",
+      "Tôi đã gửi báo cáo rồi.",
+      "Bạn có nhận được email không?",
+      "Đây là báo cáo của tuần trước."
+    ],
+    "answer": "Vui lòng xem báo cáo đính kèm."
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "I look forward to hearing from you.",
+    "english": "Tôi mong nhận được phản hồi từ bạn.",
+    "audio": "I look forward to hearing from you.",
+    "options": [
+      "Tôi mong nhận được phản hồi từ bạn.",
+      "Cảm ơn bạn đã đọc email.",
+      "Hãy liên lạc sớm nhé.",
+      "Tôi sẽ gọi lại sau."
+    ],
+    "answer": "Tôi mong nhận được phản hồi từ bạn."
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Forward",
+        "english": "Chuyển tiếp",
+        "audio": "Forward"
+      },
+      {
+        "hindi": "Reply all",
+        "english": "Trả lời tất cả",
+        "audio": "Reply all"
+      },
+      {
+        "hindi": "CC",
+        "english": "Đồng gửi",
+        "audio": "CC"
+      },
+      {
+        "hindi": "Draft",
+        "english": "Bản nháp",
+        "audio": "Draft"
+      }
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Clarify",
+    "english": "Làm rõ",
+    "audio": "Clarify"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Confirm",
+    "english": "Xác nhận",
+    "audio": "Confirm"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "If you have any questions, let me know.",
+    "english": "Nếu bạn có bất kỳ câu hỏi nào, hãy cho tôi biết.",
+    "audio": "If you have any questions, let me know.",
+    "options": [
+      "Nếu bạn có bất kỳ câu hỏi nào, hãy cho tôi biết.",
+      "Tôi không có câu hỏi nào.",
+      "Vui lòng trả lời tôi.",
+      "Đây là tất cả thông tin."
+    ],
+    "answer": "Nếu bạn có bất kỳ câu hỏi nào, hãy cho tôi biết."
+  }
+]

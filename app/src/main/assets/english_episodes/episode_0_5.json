@@ -1,75 +1,92 @@
-{
-  "id": "episode_0_5",
-  "title": "Word Stress Basics",
-  "description": "Learn how to stress the correct syllable in English words.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "title": "Trọng âm của từ (Word Stress)",
-      "content": "Tiếng Anh không có dấu như tiếng Việt, thay vào đó là trọng âm. Một từ có nhiều âm tiết sẽ có một âm tiết được đọc nhấn mạnh hơn, cao hơn và dài hơn."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Teacher",
-      "english": "Teacher",
-      "vietnamese": "Giáo viên (trọng âm rơi vào âm đầu: TEA-cher)",
-      "audio": "Teacher"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Student",
-      "english": "Student",
-      "vietnamese": "Học sinh (STU-dent)",
-      "audio": "Student"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Trọng âm của từ 'Teacher' rơi vào âm tiết thứ mấy?",
-      "options": ["Thứ nhất", "Thứ hai", "Thứ ba", "Không có trọng âm"],
-      "answer": "Thứ nhất"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Today",
-      "english": "Today",
-      "vietnamese": "Hôm nay (trọng âm âm hai: to-DAY)",
-      "audio": "Today"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Begin",
-      "english": "Begin",
-      "vietnamese": "Bắt đầu (be-GIN)",
-      "audio": "Begin"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Banana",
-      "english": "Banana",
-      "vietnamese": "Quả chuối (ba-NA-na)",
-      "audio": "Banana"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Computer",
-      "english": "Computer",
-      "vietnamese": "Máy tính (com-PU-ter)",
-      "audio": "Computer"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Trọng âm của từ 'Banana' nằm ở âm tiết nào?",
-      "options": ["ba-", "-NA-", "-na", "Không rõ"],
-      "answer": "-NA-"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"hindi": "Teacher", "vietnamese": "Giáo viên"},
-        {"hindi": "Begin", "vietnamese": "Bắt đầu"},
-        {"hindi": "Banana", "vietnamese": "Quả chuối"},
-        {"hindi": "Computer", "vietnamese": "Máy tính"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Trọng âm của từ (Word Stress)",
+    "content": "Tiếng Anh không có dấu như tiếng Việt, thay vào đó là trọng âm. Một từ có nhiều âm tiết sẽ có một âm tiết được đọc nhấn mạnh hơn, cao hơn và dài hơn."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Teacher",
+    "english": "Teacher",
+    "vietnamese": "Giáo viên (trọng âm rơi vào âm đầu: TEA-cher)",
+    "audio": "Teacher"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Student",
+    "english": "Student",
+    "vietnamese": "Học sinh (STU-dent)",
+    "audio": "Student"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Trọng âm của từ 'Teacher' rơi vào âm tiết thứ mấy?",
+    "options": [
+      "Thứ nhất",
+      "Thứ hai",
+      "Thứ ba",
+      "Không có trọng âm"
+    ],
+    "answer": "Thứ nhất"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Today",
+    "english": "Today",
+    "vietnamese": "Hôm nay (trọng âm âm hai: to-DAY)",
+    "audio": "Today"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Begin",
+    "english": "Begin",
+    "vietnamese": "Bắt đầu (be-GIN)",
+    "audio": "Begin"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Banana",
+    "english": "Banana",
+    "vietnamese": "Quả chuối (ba-NA-na)",
+    "audio": "Banana"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Computer",
+    "english": "Computer",
+    "vietnamese": "Máy tính (com-PU-ter)",
+    "audio": "Computer"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Trọng âm của từ 'Banana' nằm ở âm tiết nào?",
+    "options": [
+      "ba-",
+      "-NA-",
+      "-na",
+      "Không rõ"
+    ],
+    "answer": "-NA-"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Teacher",
+        "vietnamese": "Giáo viên"
+      },
+      {
+        "hindi": "Begin",
+        "vietnamese": "Bắt đầu"
+      },
+      {
+        "hindi": "Banana",
+        "vietnamese": "Quả chuối"
+      },
+      {
+        "hindi": "Computer",
+        "vietnamese": "Máy tính"
+      }
+    ]
+  }
+]

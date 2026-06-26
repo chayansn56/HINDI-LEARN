@@ -1,59 +1,77 @@
-{
-  "title": "Connected Speech",
-  "description": "Learn how English words link together in natural speech.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "content": "Trong giao tiếp tự nhiên, người bản xứ thường nối các từ lại với nhau (Connected Speech), đặc biệt là khi một từ kết thúc bằng phụ âm và từ tiếp theo bắt đầu bằng nguyên âm."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "I want to",
-      "translation": "Tôi muốn (Thường đọc là 'I wanna')",
-      "audio": "I wanna"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Going to",
-      "translation": "Sẽ làm gì (Thường đọc là 'Gonna')",
-      "audio": "gonna"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "An apple",
-      "translation": "Một quả táo (Đọc nối thành 'a-napple')",
-      "audio": "an apple"
-    },
-    {
-      "type": "TeachRule",
-      "content": "Nối âm tiết cũng xảy ra khi hai phụ âm giống nhau đứng cạnh nhau, chúng ta thường chỉ phát âm một lần."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Bad dog",
-      "translation": "Chó hư (Đọc là 'ba-dog')",
-      "audio": "bad dog"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Trong văn nói tự nhiên, cụm từ 'want to' thường được phát âm thành:",
-      "options": ["wanna", "gonna", "gotta", "wanna to"],
-      "correctAnswer": "wanna"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Khi đọc cụm 'an apple', người bản xứ sẽ có xu hướng phát âm thành:",
-      "options": ["a - napple", "an - pple", "a - apple", "an - apple"],
-      "correctAnswer": "a - napple"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"left": "want to", "right": "wanna"},
-        {"left": "going to", "right": "gonna"},
-        {"left": "got to", "right": "gotta"},
-        {"left": "let me", "right": "lemme"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "content": "Trong giao tiếp tự nhiên, người bản xứ thường nối các từ lại với nhau (Connected Speech), đặc biệt là khi một từ kết thúc bằng phụ âm và từ tiếp theo bắt đầu bằng nguyên âm."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I want to",
+    "translation": "Tôi muốn (Thường đọc là 'I wanna')",
+    "audio": "I wanna"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Going to",
+    "translation": "Sẽ làm gì (Thường đọc là 'Gonna')",
+    "audio": "gonna"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "An apple",
+    "translation": "Một quả táo (Đọc nối thành 'a-napple')",
+    "audio": "an apple"
+  },
+  {
+    "type": "TeachRule",
+    "content": "Nối âm tiết cũng xảy ra khi hai phụ âm giống nhau đứng cạnh nhau, chúng ta thường chỉ phát âm một lần."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Bad dog",
+    "translation": "Chó hư (Đọc là 'ba-dog')",
+    "audio": "bad dog"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Trong văn nói tự nhiên, cụm từ 'want to' thường được phát âm thành:",
+    "options": [
+      "wanna",
+      "gonna",
+      "gotta",
+      "wanna to"
+    ],
+    "correctAnswer": "wanna"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Khi đọc cụm 'an apple', người bản xứ sẽ có xu hướng phát âm thành:",
+    "options": [
+      "a - napple",
+      "an - pple",
+      "a - apple",
+      "an - apple"
+    ],
+    "correctAnswer": "a - napple"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "left": "want to",
+        "right": "wanna"
+      },
+      {
+        "left": "going to",
+        "right": "gonna"
+      },
+      {
+        "left": "got to",
+        "right": "gotta"
+      },
+      {
+        "left": "let me",
+        "right": "lemme"
+      }
+    ]
+  }
+]

@@ -84,14 +84,14 @@ fun AchievementsScreen(
                     Icon(
                         imageVector = Icons.AutoMirrored.Filled.ArrowBack,
                         contentDescription = "Back",
-                        tint = TextDark
+                        tint = MaterialTheme.colorScheme.onSurface
                     )
                 }
                 Spacer(modifier = Modifier.width(8.dp))
                 Text(
                     text = if (isVi) "Thành tích & Huy hiệu" else "Achievements & Badges",
                     style = MaterialTheme.typography.titleLarge,
-                    color = TextDark,
+                    color = MaterialTheme.colorScheme.onSurface,
                     fontWeight = FontWeight.Bold
                 )
             }
@@ -142,14 +142,14 @@ fun AchievementsScreen(
                                 Text(
                                     text = if (isVi) ach.titleVi else ach.titleEn,
                                     style = MaterialTheme.typography.titleMedium,
-                                    color = TextDark,
+                                    color = MaterialTheme.colorScheme.onSurface,
                                     fontWeight = FontWeight.Bold
                                 )
                                 Spacer(modifier = Modifier.height(4.dp))
                                 Text(
                                     text = if (isVi) ach.descVi else ach.descEn,
                                     style = MaterialTheme.typography.bodyMedium,
-                                    color = TextDark.copy(alpha = 0.7f)
+                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f)
                                 )
                                 if (isUnlocked) {
                                     Spacer(modifier = Modifier.height(6.dp))

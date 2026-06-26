@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​​​​​​​​​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
     "text": "To wash",
     "subtext": "",
-    "answer": "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wash",
     "answer_vi": "Rửa / Giặt",
     "options": [
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "समुद्र​​​",
-      "सड़क​​​​​​​​​"
+      "To wash",
+      "To take",
+      "Sea / Ocean",
+      "Road"
     ],
     "options_vi": [
       "Rửa / Giặt",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "are",
     "transliteration": "",
-    "english": "हो",
-    "vietnamese": "Là (bạn)",
+    "english": "Là (bạn)",
+    "vietnamese": "",
     "audio": "are"
   },
   {
     "type": "Flashcard",
     "hindi": "Wise / Scholar",
     "transliteration": "",
-    "english": "ज्ञानी",
-    "vietnamese": "Người thông thái",
+    "english": "Người thông thái",
+    "vietnamese": "",
     "audio": "Wise / Scholar"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To clean'",
     "text": "To clean",
     "subtext": "",
-    "answer": "साफ करना​​​​​​​​​​",
+    "answer": "To clean",
     "answer_vi": "Dọn dẹp / Lau chùi",
     "options": [
-      "साफ करना​​​​​​​​​​",
-      "गाँव​​​​​​",
-      "हो",
-      "ज्ञानी"
+      "To clean",
+      "Village",
+      "are",
+      "Wise / Scholar"
     ],
     "options_vi": [
       "Dọn dẹp / Lau chùi",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Remember.",
     "transliteration": "",
-    "english": "याद रखना।",
-    "vietnamese": "Hãy nhớ lấy.",
+    "english": "Hãy nhớ lấy.",
+    "vietnamese": "",
     "audio": "Remember."
   },
   {
     "type": "Flashcard",
     "hindi": "Paternal Grandmother",
     "transliteration": "",
-    "english": "दादी",
-    "vietnamese": "Bà nội",
+    "english": "Bà nội",
+    "vietnamese": "",
     "audio": "Paternal Grandmother"
   },
   {
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Remember.'",
     "text": "Remember.",
     "subtext": "",
-    "answer": "याद रखना।",
+    "answer": "Remember.",
     "answer_vi": "Hãy nhớ lấy.",
     "options": [
-      "याद रखना।",
-      "दादी",
-      "प्याला​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Remember.",
+      "Paternal Grandmother",
+      "Cup",
+      "To take"
     ],
     "options_vi": [
       "Hãy nhớ lấy.",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "Trust / Belief",
     "transliteration": "",
-    "english": "विश्वास",
-    "vietnamese": "Niềm tin",
+    "english": "Niềm tin",
+    "vietnamese": "",
     "audio": "Trust / Belief"
   },
   {
     "type": "Flashcard",
     "hindi": "Show-off / Bragging",
     "transliteration": "",
-    "english": "हवाबाज़ी",
-    "vietnamese": "Sự khoe khoang",
+    "english": "Sự khoe khoang",
+    "vietnamese": "",
     "audio": "Show-off / Bragging"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "विश्वास",
-      "हवाबाज़ी",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To cry",
+      "Trust / Belief",
+      "Show-off / Bragging",
+      "To laugh"
     ],
     "options_vi": [
       "Khóc",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a धोना​​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Rửa / Giặt",
+    "englishSentence": "Giặt",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To wash"
+      "To",
+      "wash"
     ],
     "correctHindiSentence": "It is a To wash"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Lấy / Nhận",
+    "englishSentence": "Nhận",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To take"
+      "To",
+      "take"
     ],
     "correctHindiSentence": "I really like To take"
   },

@@ -1,65 +1,83 @@
-{
-  "title": "Code Reviews",
-  "description": "Key phrases for providing and receiving constructive code reviews.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "content": "Code Review (Đánh giá mã nguồn) là bước quan trọng. Việc đưa ra nhận xét cần lịch sự, mang tính xây dựng và rõ ràng."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Pull Request (PR)",
-      "translation": "Yêu cầu gộp mã nguồn",
-      "audio": "pull request"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Looks good to me (LGTM)",
-      "translation": "Trông ổn đấy (Thường dùng để duyệt PR)",
-      "audio": "looks good to me"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Merge conflict",
-      "translation": "Xung đột mã nguồn khi gộp",
-      "audio": "merge conflict"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Refactor",
-      "translation": "Tái cấu trúc mã nguồn (cải thiện code mà không đổi chức năng)",
-      "audio": "refactor"
-    },
-    {
-      "type": "TeachRule",
-      "content": "Thay vì nói 'This is wrong', hãy nói 'Could we try this approach instead?' (Chúng ta có thể thử cách tiếp cận này không?)"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Typo",
-      "translation": "Lỗi đánh máy",
-      "audio": "typo"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "LGTM thường có nghĩa là gì trong quá trình Code Review?",
-      "options": ["Let's Go To Meeting", "Looks Good To Me", "Leave Good Tips Man", "Log Good Time Management"],
-      "correctAnswer": "Looks Good To Me"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Khi mã nguồn mới không tương thích với mã nguồn hiện tại, nó tạo ra:",
-      "options": ["Pull Request", "LGTM", "Merge conflict", "Typo"],
-      "correctAnswer": "Merge conflict"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"left": "Pull Request", "right": "Yêu cầu gộp mã"},
-        {"left": "Merge conflict", "right": "Xung đột mã nguồn"},
-        {"left": "Refactor", "right": "Tái cấu trúc code"},
-        {"left": "LGTM", "right": "Duyệt / Trông ổn đấy"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "content": "Code Review (Đánh giá mã nguồn) là bước quan trọng. Việc đưa ra nhận xét cần lịch sự, mang tính xây dựng và rõ ràng."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pull Request (PR)",
+    "translation": "Yêu cầu gộp mã nguồn",
+    "audio": "pull request"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Looks good to me (LGTM)",
+    "translation": "Trông ổn đấy (Thường dùng để duyệt PR)",
+    "audio": "looks good to me"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Merge conflict",
+    "translation": "Xung đột mã nguồn khi gộp",
+    "audio": "merge conflict"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Refactor",
+    "translation": "Tái cấu trúc mã nguồn (cải thiện code mà không đổi chức năng)",
+    "audio": "refactor"
+  },
+  {
+    "type": "TeachRule",
+    "content": "Thay vì nói 'This is wrong', hãy nói 'Could we try this approach instead?' (Chúng ta có thể thử cách tiếp cận này không?)"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Typo",
+    "translation": "Lỗi đánh máy",
+    "audio": "typo"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "LGTM thường có nghĩa là gì trong quá trình Code Review?",
+    "options": [
+      "Let's Go To Meeting",
+      "Looks Good To Me",
+      "Leave Good Tips Man",
+      "Log Good Time Management"
+    ],
+    "correctAnswer": "Looks Good To Me"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Khi mã nguồn mới không tương thích với mã nguồn hiện tại, nó tạo ra:",
+    "options": [
+      "Pull Request",
+      "LGTM",
+      "Merge conflict",
+      "Typo"
+    ],
+    "correctAnswer": "Merge conflict"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "left": "Pull Request",
+        "right": "Yêu cầu gộp mã"
+      },
+      {
+        "left": "Merge conflict",
+        "right": "Xung đột mã nguồn"
+      },
+      {
+        "left": "Refactor",
+        "right": "Tái cấu trúc code"
+      },
+      {
+        "left": "LGTM",
+        "right": "Duyệt / Trông ổn đấy"
+      }
+    ]
+  }
+]

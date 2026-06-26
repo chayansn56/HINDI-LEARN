@@ -1,74 +1,88 @@
-{
-  "id": "episode_0_1",
-  "title": "The English Alphabet",
-  "description": "Introduction to the 26 letters of the English alphabet.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "title": "Bảng chữ cái tiếng Anh",
-      "content": "Bảng chữ cái tiếng Anh có 26 chữ cái. Cách viết giống tiếng Việt nhưng cách đọc hoàn toàn khác."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "A",
-      "english": "A",
-      "vietnamese": "Chữ A (đọc là /eɪ/)",
-      "audio": "A"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "B",
-      "english": "B",
-      "vietnamese": "Chữ B (đọc là /biː/)",
-      "audio": "B"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "C",
-      "english": "C",
-      "vietnamese": "Chữ C (đọc là /siː/)",
-      "audio": "C"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Chữ cái nào sau đây đọc là /biː/?",
-      "options": ["A", "B", "C", "D"],
-      "answer": "B"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Apple",
-      "english": "Apple",
-      "vietnamese": "Quả táo (bắt đầu bằng A)",
-      "audio": "Apple"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Boy",
-      "english": "Boy",
-      "vietnamese": "Cậu bé (bắt đầu bằng B)",
-      "audio": "Boy"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Cat",
-      "english": "Cat",
-      "vietnamese": "Con mèo (bắt đầu bằng C)",
-      "audio": "Cat"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Từ nào có nghĩa là 'Quả táo'?",
-      "options": ["Boy", "Apple", "Cat", "Dog"],
-      "answer": "Apple"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"hindi": "Apple", "vietnamese": "Quả táo"},
-        {"hindi": "Boy", "vietnamese": "Cậu bé"},
-        {"hindi": "Cat", "vietnamese": "Con mèo"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Bảng chữ cái tiếng Anh",
+    "content": "Bảng chữ cái tiếng Anh có 26 chữ cái. Cách viết giống tiếng Việt nhưng cách đọc hoàn toàn khác."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "A",
+    "english": "A",
+    "vietnamese": "Chữ A (đọc là /eɪ/)",
+    "audio": "A"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "B",
+    "english": "B",
+    "vietnamese": "Chữ B (đọc là /biː/)",
+    "audio": "B"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "C",
+    "english": "C",
+    "vietnamese": "Chữ C (đọc là /siː/)",
+    "audio": "C"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Chữ cái nào sau đây đọc là /biː/?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Apple",
+    "english": "Apple",
+    "vietnamese": "Quả táo (bắt đầu bằng A)",
+    "audio": "Apple"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Boy",
+    "english": "Boy",
+    "vietnamese": "Cậu bé (bắt đầu bằng B)",
+    "audio": "Boy"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cat",
+    "english": "Cat",
+    "vietnamese": "Con mèo (bắt đầu bằng C)",
+    "audio": "Cat"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Từ nào có nghĩa là 'Quả táo'?",
+    "options": [
+      "Boy",
+      "Apple",
+      "Cat",
+      "Dog"
+    ],
+    "answer": "Apple"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Apple",
+        "vietnamese": "Quả táo"
+      },
+      {
+        "hindi": "Boy",
+        "vietnamese": "Cậu bé"
+      },
+      {
+        "hindi": "Cat",
+        "vietnamese": "Con mèo"
+      }
+    ]
+  }
+]

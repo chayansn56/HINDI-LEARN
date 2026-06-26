@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "All good.",
     "transliteration": "",
-    "english": "सब बढ़िया।",
-    "vietnamese": "Mọi thứ đều tốt.",
+    "english": "Mọi thứ đều tốt.",
+    "vietnamese": "",
     "audio": "All good."
   },
   {
     "type": "Flashcard",
     "hindi": "Strong / Robust / Awesome",
     "transliteration": "",
-    "english": "तगड़ा",
-    "vietnamese": "Mạnh mẽ / Tuyệt vời",
+    "english": "Mạnh mẽ / Tuyệt vời",
+    "vietnamese": "",
     "audio": "Strong / Robust / Awesome"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'All good.'",
     "text": "All good.",
     "subtext": "",
-    "answer": "सब बढ़िया।",
+    "answer": "All good.",
     "answer_vi": "Mọi thứ đều tốt.",
     "options": [
-      "सब बढ़िया।",
-      "तगड़ा",
-      "सुनना​​​​​​​​​​​​​​​​​​​​",
-      "समुद्र​​​​​​​​​"
+      "All good.",
+      "Strong / Robust / Awesome",
+      "To listen / hear",
+      "Sea / Ocean"
     ],
     "options_vi": [
       "Mọi thứ đều tốt.",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
     "text": "To wash",
     "subtext": "",
-    "answer": "धोना​​​",
+    "answer": "To wash",
     "answer_vi": "Rửa / Giặt",
     "options": [
-      "धोना​​​",
-      "साफ करना​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "ताला"
+      "To wash",
+      "To clean",
+      "To write",
+      "Lock"
     ],
     "options_vi": [
       "Rửa / Giặt",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
     "text": "To walk / move",
     "subtext": "",
-    "answer": "चलना​​​​​​​​​​​​​​​​​​​",
+    "answer": "To walk / move",
     "answer_vi": "Đi bộ / Di chuyển",
     "options": [
-      "चलना​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​",
-      "लेना​​​​​​​​​",
-      "देखना​​​​​​​​​"
+      "To walk / move",
+      "To speak",
+      "To take",
+      "To see / watch"
     ],
     "options_vi": [
       "Đi bộ / Di chuyển",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​​​​​​​​​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Yoga",
     "transliteration": "",
-    "english": "योगा",
-    "vietnamese": "Môn Yoga",
+    "english": "Môn Yoga",
+    "vietnamese": "",
     "audio": "Yoga"
   },
   {
     "type": "Flashcard",
     "hindi": "Blessing",
     "transliteration": "",
-    "english": "आशीर्वाद",
-    "vietnamese": "Lời chúc phúc / Sự ban phước",
+    "english": "Lời chúc phúc / Sự ban phước",
+    "vietnamese": "",
     "audio": "Blessing"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
     "text": "Lock",
     "subtext": "",
-    "answer": "ताला​​​​​​​​​​​",
+    "answer": "Lock",
     "answer_vi": "Ổ khóa",
     "options": [
-      "ताला​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "योगा",
-      "आशीर्वाद"
+      "Lock",
+      "To listen / hear",
+      "Yoga",
+      "Blessing"
     ],
     "options_vi": [
       "Ổ khóa",
@@ -355,23 +355,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सब बढ़िया। / Nó là một Mọi thứ đều tốt.",
+    "englishSentence": "Nó là một Mọi thứ đều tốt.",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "All good."
+      "All",
+      "good."
     ],
     "correctHindiSentence": "It is a All good."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like तगड़ा / Tôi thích Mạnh mẽ / Tuyệt vời",
+    "englishSentence": "Tuyệt vời",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Strong / Robust / Awesome"
+      "Strong",
+      "/",
+      "Robust",
+      "/",
+      "Awesome"
     ],
     "correctHindiSentence": "I really like Strong / Robust / Awesome"
   },

@@ -1,15 +1,88 @@
-{
-  "title": "To Be: Present",
-  "nodes": [
-    {"type": "TeachRule", "title": "To Be", "rule": "Động từ To Be: am, is, are."},
-    {"type": "Flashcard", "hindi": "am", "english": "là (đi với I)", "audio": "am"},
-    {"type": "Flashcard", "hindi": "is", "english": "là (đi với he, she, it)", "audio": "is"},
-    {"type": "Flashcard", "hindi": "are", "english": "là (đi với you, we, they)", "audio": "are"},
-    {"type": "MultipleChoice", "hindi": "am", "options": ["là (đi với I)", "là (đi với he)", "là (đi với you)", "là"], "answer": "là (đi với I)", "audio": "am"},
-    {"type": "Flashcard", "hindi": "I am", "english": "Tôi là", "audio": "i_am"},
-    {"type": "Flashcard", "hindi": "You are", "english": "Bạn là", "audio": "you_are"},
-    {"type": "MultipleChoice", "hindi": "He is", "options": ["Tôi là", "Cô ấy là", "Anh ấy là", "Họ là"], "answer": "Anh ấy là", "audio": "he_is"},
-    {"type": "Flashcard", "hindi": "She is", "english": "Cô ấy là", "audio": "she_is"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "I am", "english": "Tôi là"}, {"hindi": "You are", "english": "Bạn là"}, {"hindi": "He is", "english": "Anh ấy là"}, {"hindi": "They are", "english": "Họ là"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "To Be",
+    "rule": "Động từ To Be: am, is, are."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "am",
+    "english": "là (đi với I)",
+    "audio": "am"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "is",
+    "english": "là (đi với he, she, it)",
+    "audio": "is"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "are",
+    "english": "là (đi với you, we, they)",
+    "audio": "are"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "am",
+    "options": [
+      "là (đi với I)",
+      "là (đi với he)",
+      "là (đi với you)",
+      "là"
+    ],
+    "answer": "là (đi với I)",
+    "audio": "am"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "I am",
+    "english": "Tôi là",
+    "audio": "i_am"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "You are",
+    "english": "Bạn là",
+    "audio": "you_are"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "He is",
+    "options": [
+      "Tôi là",
+      "Cô ấy là",
+      "Anh ấy là",
+      "Họ là"
+    ],
+    "answer": "Anh ấy là",
+    "audio": "he_is"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "She is",
+    "english": "Cô ấy là",
+    "audio": "she_is"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "I am",
+        "english": "Tôi là"
+      },
+      {
+        "hindi": "You are",
+        "english": "Bạn là"
+      },
+      {
+        "hindi": "He is",
+        "english": "Anh ấy là"
+      },
+      {
+        "hindi": "They are",
+        "english": "Họ là"
+      }
+    ]
+  }
+]

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "People",
     "transliteration": "",
-    "english": "लोग",
-    "vietnamese": "Mọi người",
+    "english": "Mọi người",
+    "vietnamese": "",
     "audio": "People"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "2",
     "transliteration": "",
-    "english": "२",
-    "vietnamese": "Hai",
+    "english": "Hai",
+    "vietnamese": "",
     "audio": "2"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
     "text": "To make / build",
     "subtext": "",
-    "answer": "बनाना​​​​​​​​​​​​​​​​​​",
+    "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
     "options": [
-      "बनाना​​​​​​​​​​​​​​​​​​",
-      "लोग",
-      "बेचना​​​​​​",
-      "२"
+      "To make / build",
+      "People",
+      "To sell",
+      "2"
     ],
     "options_vi": [
       "Chế tạo / Tạo ra",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
     "text": "To wash",
     "subtext": "",
-    "answer": "धोना​​​​​​​​​​​​​​​​",
+    "answer": "To wash",
     "answer_vi": "Rửa / Giặt",
     "options": [
-      "धोना​​​​​​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​"
+      "To wash",
+      "To tell / explain",
+      "To take",
+      "To ask"
     ],
     "options_vi": [
       "Rửa / Giặt",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​​​​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To clean'",
     "text": "To clean",
     "subtext": "",
-    "answer": "साफ करना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To clean",
     "answer_vi": "Dọn dẹp / Lau chùi",
     "options": [
-      "साफ करना​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​​​​​",
-      "बारिश​​​​​​​​",
-      "साफ करना​​​​​​​​​​"
+      "To clean",
+      "To walk / move",
+      "Rain",
+      "To clean"
     ],
     "options_vi": [
       "Dọn dẹp / Lau chùi",
@@ -300,18 +300,21 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बनाना​​​​​​​​​​​​​​​​​​ / Tôi thấy Chế tạo / Tạo ra",
+    "englishSentence": "Tạo ra",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To make / build"
+      "To",
+      "make",
+      "/",
+      "build"
     ],
     "correctHindiSentence": "I see the To make / build"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a लोग / Tôi muốn Mọi người",
+    "englishSentence": "Tôi muốn Mọi người",
     "hindiWords": [
       "I",
       "want",

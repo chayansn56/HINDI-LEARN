@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "No / Not",
     "transliteration": "",
-    "english": "नहीं",
-    "vietnamese": "Không",
+    "english": "Không",
+    "vietnamese": "",
     "audio": "No / Not"
   },
   {
     "type": "Flashcard",
     "hindi": "Why",
     "transliteration": "",
-    "english": "क्यों",
-    "vietnamese": "Tại sao",
+    "english": "Tại sao",
+    "vietnamese": "",
     "audio": "Why"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'No / Not'",
     "text": "No / Not",
     "subtext": "",
-    "answer": "नहीं",
+    "answer": "No / Not",
     "answer_vi": "Không",
     "options": [
-      "नहीं",
-      "क्यों",
-      "बर्फ़​",
-      "कापी​​​​​​​​"
+      "No / Not",
+      "Why",
+      "Snow / Ice",
+      "Notebook"
     ],
     "options_vi": [
       "Không",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom (relative plural)",
     "transliteration": "",
-    "english": "जिन्हें",
-    "vietnamese": "Người mà (số nhiều)",
+    "english": "Người mà (số nhiều)",
+    "vietnamese": "",
     "audio": "Whom (relative plural)"
   },
   {
     "type": "Flashcard",
     "hindi": "No doubt.",
     "transliteration": "",
-    "english": "कोई शक नहीं।",
-    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "english": "Không còn nghi ngờ gì nữa.",
+    "vietnamese": "",
     "audio": "No doubt."
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -134,18 +134,18 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
     "text": "Notebook",
     "subtext": "",
-    "answer": "कापी​​​​​​​​​​",
+    "answer": "Notebook",
     "answer_vi": "Sổ tay",
     "options": [
-      "कापी​​​​​​​​​​",
-      "जिन्हें",
-      "कोई शक नहीं।",
-      "कापी​​​​"
+      "Notebook",
+      "Whom (relative plural)",
+      "No / Not",
+      "Notebook"
     ],
     "options_vi": [
       "Sổ tay",
       "Người mà (số nhiều)",
-      "Không còn nghi ngờ gì nữa.",
+      "Không",
       "Sổ tay"
     ]
   },
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "What do you say? / What's up?",
     "transliteration": "",
-    "english": "क्या बोलता है?",
-    "vietnamese": "Bạn nói gì thế? / Thế nào?",
+    "english": "Bạn nói gì thế? / Thế nào?",
+    "vietnamese": "",
     "audio": "What do you say? / What's up?"
   },
   {
     "type": "Flashcard",
     "hindi": "How are you? (Formal)",
     "transliteration": "",
-    "english": "आप कैसे हैं?",
-    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "english": "Bạn khỏe không? (Lịch sự)",
+    "vietnamese": "",
     "audio": "How are you? (Formal)"
   },
   {
     "type": "Flashcard",
     "hindi": "Yesterday / Tomorrow",
     "transliteration": "",
-    "english": "कल",
-    "vietnamese": "Hôm qua / Ngày mai",
+    "english": "Hôm qua / Ngày mai",
+    "vietnamese": "",
     "audio": "Yesterday / Tomorrow"
   },
   {
     "type": "Flashcard",
     "hindi": "What's up?",
     "transliteration": "",
-    "english": "क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì thế?",
+    "english": "Có chuyện gì thế?",
+    "vietnamese": "",
     "audio": "What's up?"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'What do you say? / What's up?'",
     "text": "What do you say? / What's up?",
     "subtext": "",
-    "answer": "क्या बोलता है?",
+    "answer": "What do you say? / What's up?",
     "answer_vi": "Bạn nói gì thế? / Thế nào?",
     "options": [
-      "क्या बोलता है?",
-      "आप कैसे हैं?",
-      "कल",
-      "क्या चल रहा है?"
+      "What do you say? / What's up?",
+      "How are you? (Formal)",
+      "Yesterday / Tomorrow",
+      "What's up?"
     ],
     "options_vi": [
       "Bạn nói gì thế? / Thế nào?",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Yes-man / Flatterer",
     "transliteration": "",
-    "english": "चमचा",
-    "vietnamese": "Kẻ nịnh bợ / Tay sai",
+    "english": "Kẻ nịnh bợ / Tay sai",
+    "vietnamese": "",
     "audio": "Yes-man / Flatterer"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Reverent hello to Grandma",
     "transliteration": "",
-    "english": "प्रणाम दादी जी",
-    "vietnamese": "Kính chào bà nội kính yêu",
+    "english": "Kính chào bà nội kính yêu",
+    "vietnamese": "",
     "audio": "Reverent hello to Grandma"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Yes-man / Flatterer'",
     "text": "Yes-man / Flatterer",
     "subtext": "",
-    "answer": "चमचा",
+    "answer": "Yes-man / Flatterer",
     "answer_vi": "Kẻ nịnh bợ / Tay sai",
     "options": [
-      "चमचा",
-      "कापी​​​​​​​​​​​",
-      "प्रणाम दादी जी",
-      "बर्फ़​​​​​​​​​"
+      "Yes-man / Flatterer",
+      "Notebook",
+      "Reverent hello to Grandma",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Kẻ nịnh bợ / Tay sai",
@@ -355,18 +355,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a नहीं / Nó là một Không",
+    "englishSentence": "Nó là một Không",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "No / Not"
+      "No",
+      "/",
+      "Not"
     ],
     "correctHindiSentence": "It is a No / Not"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like क्यों / Tôi thích Tại sao",
+    "englishSentence": "Tôi thích Tại sao",
     "hindiWords": [
       "I",
       "really",

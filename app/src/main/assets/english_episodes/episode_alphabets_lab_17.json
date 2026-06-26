@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Garden",
     "transliteration": "",
-    "english": "बग़ीचा​​​​​​​​​​​",
-    "vietnamese": "Khu vườn",
+    "english": "Khu vườn",
+    "vietnamese": "",
     "audio": "Garden"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना",
-    "vietnamese": "Cười",
+    "english": "Cười",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​",
-      "बग़ीचा​​​​​​​​​​​",
-      "बर्फ़​​​",
-      "हँसना"
+      "To listen / hear",
+      "Garden",
+      "Snow / Ice",
+      "To laugh"
     ],
     "options_vi": [
       "Nghe",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "Reduce price a bit.",
     "transliteration": "",
-    "english": "थोड़ा कम कीजिए।",
-    "vietnamese": "Giảm giá một chút.",
+    "english": "Giảm giá một chút.",
+    "vietnamese": "",
     "audio": "Reduce price a bit."
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
     "text": "Cloud",
     "subtext": "",
-    "answer": "बादल​​​​​​",
+    "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
-      "बादल​​​​​​",
-      "sिखाना​​​​​​",
-      "थोड़ा कम कीजिए।",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Cloud",
+      "To teach",
+      "Reduce price a bit.",
+      "To teach"
     ],
     "options_vi": [
       "Đám mây",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "His / Her (distant feminine)",
     "transliteration": "",
-    "english": "उसकी",
-    "vietnamese": "Của anh/chị ấy (xa - giống cái)",
+    "english": "Của anh/chị ấy (xa - giống cái)",
+    "vietnamese": "",
     "audio": "His / Her (distant feminine)"
   },
   {
     "type": "Flashcard",
     "hindi": "Sunday",
     "transliteration": "",
-    "english": "रविवार",
-    "vietnamese": "Chủ nhật",
+    "english": "Chủ nhật",
+    "vietnamese": "",
     "audio": "Sunday"
   },
   {
     "type": "Flashcard",
     "hindi": "Loan / Debt",
     "transliteration": "",
-    "english": "ऋण",
-    "vietnamese": "Khoản nợ / Vay",
+    "english": "Khoản nợ / Vay",
+    "vietnamese": "",
     "audio": "Loan / Debt"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To close'",
     "text": "To close",
     "subtext": "",
-    "answer": "बंद करना",
+    "answer": "To close",
     "answer_vi": "Đóng",
     "options": [
-      "बंद करना",
-      "उसकी",
-      "रविवार",
-      "ऋण"
+      "To close",
+      "His / Her (distant feminine)",
+      "Sunday",
+      "Loan / Debt"
     ],
     "options_vi": [
       "Đóng",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Sage / Rishi",
     "transliteration": "",
-    "english": "ऋषि",
-    "vietnamese": "Nhà hiền triết",
+    "english": "Nhà hiền triết",
+    "vietnamese": "",
     "audio": "Sage / Rishi"
   },
   {
     "type": "Flashcard",
     "hindi": "Ear",
     "transliteration": "",
-    "english": "कान",
-    "vietnamese": "Tai",
+    "english": "Tai",
+    "vietnamese": "",
     "audio": "Ear"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "ऋषि",
-      "कान"
+      "To ask",
+      "To stand",
+      "Sage / Rishi",
+      "Ear"
     ],
     "options_vi": [
       "Hỏi",
@@ -355,18 +355,21 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सुनना​​​​​ / Nó là một Nghe",
+    "englishSentence": "Nó là một Nghe",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "It is a To listen / hear"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like बग़ीचा​​​​​​​​​​​ / Tôi thích Khu vườn",
+    "englishSentence": "Tôi thích Khu vườn",
     "hindiWords": [
       "I",
       "really",

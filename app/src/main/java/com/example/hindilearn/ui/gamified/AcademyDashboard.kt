@@ -35,6 +35,7 @@ fun AcademyDashboard(
     onAchievementsSelected: () -> Unit,
     onLeaderboardSelected: () -> Unit,
     onRoleplaySelected: () -> Unit,
+    onPronunciationLabSelected: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val context = LocalContext.current
@@ -43,9 +44,15 @@ fun AcademyDashboard(
     val lang = progress.selectedLanguage ?: "EN"
     val isVi = lang == "VI"
     val isHindiCourse = progress.selectedCourse == "HINDI"
+    val isEnglishCourse = progress.selectedCourse == "ENGLISH"
     
-    val userName = if (isVi) "Lan 🇻🇳" else "John 🇺🇸"
-    val greeting = if (isVi) "Xin chào, $userName" else "Good Afternoon, $userName"
+    val userName = progress.userName.ifBlank { if (isVi) "Bạn" else "Friend" }
+    val greetingPrefix = when (java.util.Calendar.getInstance().get(java.util.Calendar.HOUR_OF_DAY)) {
+        in 5..11 -> if (isVi) "Chào buổi sáng," else "Good Morning,"
+        in 12..17 -> if (isVi) "Chào buổi chiều," else "Good Afternoon,"
+        in 18..21 -> if (isVi) "Chào buổi tối," else "Good Evening,"
+        else -> if (isVi) "Chúc ngủ ngon," else "Good Night,"
+    }
     
     val showToast = { msg: String ->
         Toast.makeText(context, msg, Toast.LENGTH_SHORT).show()
@@ -84,7 +91,7 @@ fun AcademyDashboard(
                             Text(
                                 text = if (isVi) "ứng dụng bởi VIETANA" else "app by VIETANA",
                                 style = MaterialTheme.typography.labelSmall,
-                                color = TextDark.copy(alpha = 0.5f)
+                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
                             )
                         }
 
@@ -112,19 +119,19 @@ fun AcademyDashboard(
 
                             Row(verticalAlignment = Alignment.CenterVertically) {
                                 Icon(Icons.Default.LocalFireDepartment, contentDescription = "Streak", tint = DeepSaffron, modifier = Modifier.size(18.dp))
-                                Text("${progress.streak}", style = MaterialTheme.typography.bodyMedium, color = TextDark, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
+                                Text("${progress.streak}", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
                             }
 
                             Row(verticalAlignment = Alignment.CenterVertically) {
                                 Icon(Icons.Default.Star, contentDescription = "XP", tint = PremiumGold, modifier = Modifier.size(18.dp))
-                                Text("${progress.xp}", style = MaterialTheme.typography.bodyMedium, color = TextDark, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
+                                Text("${progress.xp}", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
                             }
 
                             IconButton(
                                 onClick = onSettingsSelected,
                                 modifier = Modifier.size(36.dp)
                             ) {
-                                Icon(Icons.Default.Settings, contentDescription = "Settings", tint = TextDark, modifier = Modifier.size(20.dp))
+                                Icon(Icons.Default.Settings, contentDescription = "Settings", tint = MaterialTheme.colorScheme.onSurface, modifier = Modifier.size(20.dp))
                             }
                         }
                     }
@@ -138,16 +145,15 @@ fun AcademyDashboard(
                         verticalAlignment = Alignment.CenterVertically
                     ) {
                         Column {
-                            val greetingPrefix = if (isVi) "Xin chào," else "Good Afternoon,"
                             Text(
                                 text = greetingPrefix,
                                 style = MaterialTheme.typography.bodyMedium,
-                                color = TextDark.copy(alpha = 0.6f)
+                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
                             )
                             Text(
                                 text = userName,
                                 style = MaterialTheme.typography.headlineMedium,
-                                color = TextDark,
+                                color = MaterialTheme.colorScheme.onSurface,
                                 fontWeight = FontWeight.Black
                             )
                         }
@@ -195,8 +201,8 @@ fun AcademyDashboard(
                             }
                             Text((if (isVi) "BÀI TIẾP THEO • " else "UP NEXT • ") + moduleLabel, style = MaterialTheme.typography.labelSmall, color = RoyalBlue, fontWeight = FontWeight.Bold)
                             Spacer(modifier = Modifier.height(8.dp))
-                            Text(nextEpisode.title, style = MaterialTheme.typography.headlineSmall, color = TextDark, fontWeight = FontWeight.Bold)
-                            Text(nextEpisode.synopsis, style = MaterialTheme.typography.bodyMedium, color = TextDark.copy(alpha=0.7f))
+                            Text(nextEpisode.title, style = MaterialTheme.typography.headlineSmall, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold)
+                            Text(nextEpisode.synopsis, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.7f))
                             Spacer(modifier = Modifier.height(16.dp))
                             PremiumButton(
                                 text = if (isVi) "Tiếp tục \u2192" else "Continue \u2192",
@@ -213,7 +219,7 @@ fun AcademyDashboard(
                 Text(
                     text = if (isVi) "Chọn nội dung học" else "Choose What To Learn",
                     style = MaterialTheme.typography.titleLarge,
-                    color = TextDark,
+                    color = MaterialTheme.colorScheme.onSurface,
                     fontWeight = FontWeight.Bold,
                     modifier = Modifier.padding(horizontal = 24.dp)
                 )
@@ -229,7 +235,7 @@ fun AcademyDashboard(
                 ) {
                     CategoryCard(
                         title = if (isVi) "Nền tảng" else "Foundations",
-                        subtitle = if (isVi) "Học tiếng Hindi từ con số 0." else "Learn Hindi from zero.",
+                        subtitle = if (isVi) { if (isEnglishCourse) "Học tiếng Anh từ con số 0." else "Học tiếng Hindi từ con số 0." } else { if (isEnglishCourse) "Learn English from zero." else "Learn Hindi from zero." },
                         emoji = "🌱",
                         onClick = { onModuleSelected("phase_0") },
                         tintColor = Color(0xFFE2F4E3)
@@ -238,7 +244,7 @@ fun AcademyDashboard(
                         title = if (isVi) "Luyện phát âm" else "Pronunciation Lab",
                         subtitle = if (isVi) "Âm thanh, Giọng điệu." else "Sounds, Accents.",
                         emoji = "🧠",
-                        onClick = { onModuleSelected("pron") },
+                        onClick = onPronunciationLabSelected,
                         tintColor = Color(0xFFE2F4E3)
                     )
                     CategoryCard(
@@ -250,7 +256,7 @@ fun AcademyDashboard(
                     )
                     CategoryCard(
                         title = if (isVi) "Góc bảng chữ cái" else "Alphabet Hub",
-                        subtitle = if (isVi) "Hindi & Âm tương đồng." else "Hindi Alphabets vs VI Sounds.",
+                        subtitle = if (isVi) { if (isEnglishCourse) "Bảng chữ cái & Âm tiếng Anh." else "Hindi & Âm tương đồng." } else { if (isEnglishCourse) "English Alphabets & Sounds." else "Hindi Alphabets vs VI Sounds." },
                         emoji = "🔤",
                         onClick = { onModuleSelected("alphabets_lab") },
                         tintColor = Color(0xFFE2F4E3)
@@ -320,35 +326,35 @@ fun AcademyDashboard(
                         tintColor = Color(0xFFF9F0DF)
                     )
                     CategoryCard(
-                        title = if (isVi) "Hindi du lịch" else "Travel Hindi",
+                        title = if (isVi) { if (isEnglishCourse) "Tiếng Anh Du Lịch" else "Hindi du lịch" } else { if (isEnglishCourse) "Travel English" else "Travel Hindi" },
                         subtitle = if (isVi) "Sân bay, Taxi." else "Airport, Taxi.",
                         emoji = "✈️",
                         onClick = { onModuleSelected("travel") },
                         tintColor = Color(0xFFF9F0DF)
                     )
                     CategoryCard(
-                        title = if (isVi) "Hindi thương mại" else "Business Hindi",
+                        title = if (isVi) { if (isEnglishCourse) "Tiếng Anh Thương Mại" else "Hindi thương mại" } else { if (isEnglishCourse) "Business English" else "Business Hindi" },
                         subtitle = if (isVi) "Cuộc họp, Email." else "Meetings, Emails.",
                         emoji = "💼",
                         onClick = { onModuleSelected("business") },
                         tintColor = Color(0xFFF9F0DF)
                     )
                     CategoryCard(
-                        title = if (isVi) "Hindi Bollywood" else "Bollywood Hindi",
+                        title = if (isVi) { if (isEnglishCourse) "Văn Hóa Pop Mỹ" else "Hindi Bollywood" } else { if (isEnglishCourse) "American Pop Culture" else "Bollywood Hindi" },
                         subtitle = if (isVi) "Bài hát, Biểu cảm." else "Songs, Expressions.",
                         emoji = "🎵",
                         onClick = { onModuleSelected("bollywood") },
                         tintColor = Color(0xFFF9F0DF)
                     )
                     CategoryCard(
-                        title = if (isVi) "Hindi WhatsApp" else "WhatsApp Hindi",
+                        title = if (isVi) { if (isEnglishCourse) "Tiếng Anh Mạng Xã Hội" else "Hindi WhatsApp" } else { if (isEnglishCourse) "Social Media English" else "WhatsApp Hindi" },
                         subtitle = if (isVi) "Trò chuyện hiện đại." else "Modern conversations.",
                         emoji = "💬",
                         onClick = { onModuleSelected("whatsapp") },
                         tintColor = Color(0xFFF9F0DF)
                     )
                     CategoryCard(
-                        title = if (isVi) "Hindi khẩn cấp" else "Emergency Hindi",
+                        title = if (isVi) { if (isEnglishCourse) "Tiếng Anh Khẩn Cấp" else "Hindi khẩn cấp" } else { if (isEnglishCourse) "Emergency English" else "Emergency Hindi" },
                         subtitle = if (isVi) "Y tế & Khẩn cấp." else "Medical & Urgent help.",
                         emoji = "🚨",
                         onClick = { onModuleSelected("emerg") },
@@ -367,7 +373,7 @@ fun AcademyDashboard(
                 ) {
                     CategoryCard(
                         title = if (isVi) "Truyện" else "Stories",
-                        subtitle = if (isVi) "Các câu chuyện ngắn." else "ELDER SISTER Di, mom, the greatman JIJU.",
+                        subtitle = if (isVi) "Các câu chuyện ngắn." else "6 immersive stories about Indian life.",
                         emoji = "🎭",
                         onClick = onStoriesSelected,
                         tintColor = Color(0xFFEDE4F8)

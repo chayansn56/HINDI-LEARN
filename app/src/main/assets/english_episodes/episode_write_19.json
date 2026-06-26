@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "It is very expensive.",
     "transliteration": "",
-    "english": "बहुत महँगा है।",
-    "vietnamese": "Rất đắt.",
+    "english": "Rất đắt.",
+    "vietnamese": "",
     "audio": "It is very expensive."
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
-      "बहुत महँगा है।"
+      "To write",
+      "To open",
+      "To open",
+      "It is very expensive."
     ],
     "options_vi": [
       "Viết",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​​​​​​​​​​​​​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​​​​​​​​​​​​​",
-      "कापी​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पेन​​​​​​​​​​​"
+      "To open",
+      "Notebook",
+      "To open",
+      "Pen"
     ],
     "options_vi": [
       "Mở",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
     "text": "Notebook",
     "subtext": "",
-    "answer": "कापी​​​​​​​​​",
+    "answer": "Notebook",
     "answer_vi": "Sổ tay",
     "options": [
-      "कापी​​​​​​​​​",
-      "खोलना​​​​​",
-      "पेन​​​",
-      "पढ़ना​​​​​​​"
+      "Notebook",
+      "To open",
+      "Pen",
+      "To read"
     ],
     "options_vi": [
       "Sổ tay",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "Flatbread",
     "transliteration": "",
-    "english": "रोटी",
-    "vietnamese": "Bánh mì dẹt",
+    "english": "Bánh mì dẹt",
+    "vietnamese": "",
     "audio": "Flatbread"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
     "text": "To read",
     "subtext": "",
-    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​",
+    "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​",
-      "पेन​​​​",
-      "रोटी",
-      "खोलना​​​​​​​​​​​​​​​"
+      "To read",
+      "Pen",
+      "Flatbread",
+      "To open"
     ],
     "options_vi": [
       "Đọc",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Viết",
+    "englishSentence": "Nó là một Viết",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To write"
+      "To",
+      "write"
     ],
     "correctHindiSentence": "It is a To write"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like खोलना​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Mở",
+    "englishSentence": "Tôi thích Mở",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To open"
+      "To",
+      "open"
     ],
     "correctHindiSentence": "I really like To open"
   },

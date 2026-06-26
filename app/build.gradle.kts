@@ -14,6 +14,14 @@ android {
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
+        
+        val properties = java.util.Properties()
+        val localPropertiesFile = project.rootProject.file("local.properties")
+        if (localPropertiesFile.exists()) {
+            properties.load(localPropertiesFile.inputStream())
+        }
+        val groqKey = properties.getProperty("GROQ_API_KEY", "")
+        buildConfigField("String", "GROQ_API_KEY", "\"$groqKey\"")
     }
 
     signingConfigs {
@@ -39,7 +47,7 @@ android {
     buildFeatures {
       compose = true
       aidl = false
-      buildConfig = false
+      buildConfig = true
       shaders = false
     }
 
@@ -75,6 +83,7 @@ dependencies {
   implementation("androidx.compose.material:material-icons-extended")
   implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
   implementation("com.airbnb.android:lottie-compose:6.4.0")
+  implementation("androidx.compose.ui:ui-text-google-fonts:1.6.8")
   
   // Room Database
   implementation("androidx.room:room-runtime:2.6.1")
@@ -82,6 +91,7 @@ dependencies {
   ksp("androidx.room:room-compiler:2.6.1")
   
   // Tooling
+  implementation("com.squareup.okhttp3:okhttp:4.12.0")
   debugImplementation(libs.androidx.compose.ui.tooling)
   // Instrumented tests
   androidTestImplementation(libs.androidx.compose.ui.test.junit4)

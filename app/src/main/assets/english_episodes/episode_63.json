@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "to drink",
     "transliteration": "",
-    "english": "पीना",
-    "vietnamese": "Uống",
+    "english": "Uống",
+    "vietnamese": "",
     "audio": "to drink"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
     "text": "to drink",
     "subtext": "",
-    "answer": "पीना",
+    "answer": "to drink",
     "answer_vi": "Uống",
     "options": [
-      "पीना",
-      "गाँव​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​"
+      "to drink",
+      "Village",
+      "To read",
+      "To take"
     ],
     "options_vi": [
       "Uống",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "No / Not",
     "transliteration": "",
-    "english": "नहीं",
-    "vietnamese": "Không",
+    "english": "Không",
+    "vietnamese": "",
     "audio": "No / Not"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To close'",
     "text": "To close",
     "subtext": "",
-    "answer": "बंद करना",
+    "answer": "To close",
     "answer_vi": "Đóng",
     "options": [
-      "बंद करना",
-      "दौड़ना​​​​​​",
-      "नहीं",
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To close",
+      "To run",
+      "No / Not",
+      "To sell"
     ],
     "options_vi": [
       "Đóng",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
     "text": "To do",
     "subtext": "",
-    "answer": "करना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To do",
     "answer_vi": "Làm",
     "options": [
-      "करना​​​​​​​​​​​​​​​​​​​​​​",
-      "दफ़्तर​​​",
-      "बैठना​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To do",
+      "Office",
+      "To sit",
+      "To listen / hear"
     ],
     "options_vi": [
       "Làm",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पीना / Tôi thấy Uống",
+    "englishSentence": "Tôi thấy Uống",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "to drink"
+      "to",
+      "drink"
     ],
     "correctHindiSentence": "I see the to drink"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a गाँव​​​​​​ / Tôi muốn Ngôi làng",
+    "englishSentence": "Tôi muốn Ngôi làng",
     "hindiWords": [
       "I",
       "want",

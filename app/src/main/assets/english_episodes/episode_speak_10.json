@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "How much is it?",
     "transliteration": "",
-    "english": "कितना हुआ?",
-    "vietnamese": "Bao nhiêu tiền?",
+    "english": "Bao nhiêu tiền?",
+    "vietnamese": "",
     "audio": "How much is it?"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​",
-      "कापी",
-      "कितना हुआ?",
-      "कापी​"
+      "Snow / Ice",
+      "Notebook",
+      "How much is it?",
+      "Notebook"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Yes, absolutely.",
     "transliteration": "",
-    "english": "हाँ, बिल्कुल।",
-    "vietnamese": "Vâng, hoàn toàn đồng ý.",
+    "english": "Vâng, hoàn toàn đồng ý.",
+    "vietnamese": "",
     "audio": "Yes, absolutely."
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Nonsense / Rubbish",
     "transliteration": "",
-    "english": "बकवास",
-    "vietnamese": "Vớ vẩn",
+    "english": "Vớ vẩn",
+    "vietnamese": "",
     "audio": "Nonsense / Rubbish"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Yes, absolutely.'",
     "text": "Yes, absolutely.",
     "subtext": "",
-    "answer": "हाँ, बिल्कुल।",
+    "answer": "Yes, absolutely.",
     "answer_vi": "Vâng, hoàn toàn đồng ý.",
     "options": [
-      "हाँ, बिल्कुल।",
-      "कापी​​​​​",
-      "कापी​​",
-      "बकवास"
+      "Yes, absolutely.",
+      "Notebook",
+      "Notebook",
+      "Nonsense / Rubbish"
     ],
     "options_vi": [
       "Vâng, hoàn toàn đồng ý.",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend / Buddy",
     "transliteration": "",
-    "english": "यार",
-    "vietnamese": "Bạn ơi / Bạn bè",
+    "english": "Bạn ơi / Bạn bè",
+    "vietnamese": "",
     "audio": "Friend / Buddy"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "दोस्त",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
     "type": "Flashcard",
     "hindi": "No (respectful)",
     "transliteration": "",
-    "english": "जी नहीं",
-    "vietnamese": "Không (Lịch sự)",
+    "english": "Không (Lịch sự)",
+    "vietnamese": "",
     "audio": "No (respectful)"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​​​",
-      "यार",
-      "दोस्त",
-      "जी नहीं"
+      "Snow / Ice",
+      "Friend / Buddy",
+      "Friend",
+      "No (respectful)"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Name",
     "transliteration": "",
-    "english": "नाम",
-    "vietnamese": "Tên",
+    "english": "Tên",
+    "vietnamese": "",
     "audio": "Name"
   },
   {
     "type": "Flashcard",
     "hindi": "What's up?",
     "transliteration": "",
-    "english": "क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì thế?",
+    "english": "Có chuyện gì thế?",
+    "vietnamese": "",
     "audio": "What's up?"
   },
   {
     "type": "Flashcard",
     "hindi": "How sad!",
     "transliteration": "",
-    "english": "कितना दुखद है!",
-    "vietnamese": "Thật là buồn!",
+    "english": "Thật là buồn!",
+    "vietnamese": "",
     "audio": "How sad!"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
     "text": "Notebook",
     "subtext": "",
-    "answer": "कापी​​​​",
+    "answer": "Notebook",
     "answer_vi": "Sổ tay",
     "options": [
-      "कापी​​​​",
-      "नाम",
-      "क्या चल रहा है?",
-      "कितना दुखद है!"
+      "Notebook",
+      "Name",
+      "What's up?",
+      "How sad!"
     ],
     "options_vi": [
       "Sổ tay",
@@ -355,18 +355,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बर्फ़​​​ / Nó là một Tuyết / Đá",
+    "englishSentence": "Đá",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Snow / Ice"
+      "Snow",
+      "/",
+      "Ice"
     ],
     "correctHindiSentence": "It is a Snow / Ice"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कापी / Tôi thích Sổ tay",
+    "englishSentence": "Tôi thích Sổ tay",
     "hindiWords": [
       "I",
       "really",

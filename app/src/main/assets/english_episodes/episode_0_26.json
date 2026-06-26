@@ -1,91 +1,86 @@
-{
-  "id": "episode_0_26",
-  "title": "Past Continuous",
-  "description": "Learn to talk about actions happening in the past.",
-  "nodes": [
-    {
-      "id": "n1",
-      "type": "TeachRule",
-      "content": "To talk about an action that was happening at a specific time in the past, use 'was/were + verb-ing'.\nExample: 'I was sleeping' (Tôi đang ngủ)."
-    },
-    {
-      "id": "n2",
-      "type": "Flashcard",
-      "hindi": "I was sleeping",
-      "english": "Tôi đang ngủ",
-      "audio": "I was sleeping"
-    },
-    {
-      "id": "n3",
-      "type": "Flashcard",
-      "hindi": "They were playing",
-      "english": "Họ đang chơi",
-      "audio": "They were playing"
-    },
-    {
-      "id": "n4",
-      "type": "Flashcard",
-      "hindi": "She was reading",
-      "english": "Cô ấy đang đọc",
-      "audio": "She was reading"
-    },
-    {
-      "id": "n5",
-      "type": "MultipleChoice",
-      "hindi": "I was eating",
-      "english": "Tôi đang ăn",
-      "options": [
-        "Tôi đang ăn",
-        "Tôi đã ăn",
-        "Tôi sẽ ăn"
-      ],
-      "audio": "I was eating"
-    },
-    {
-      "id": "n6",
-      "type": "MultipleChoice",
-      "hindi": "We were working",
-      "english": "Chúng tôi đang làm việc",
-      "options": [
-        "Chúng tôi đang làm việc",
-        "Họ đang làm việc",
-        "Tôi đang làm việc"
-      ],
-      "audio": "We were working"
-    },
-    {
-      "id": "n7",
-      "type": "MatchPairs",
-      "pairs": {
-        "I was sleeping": "Tôi đang ngủ",
-        "She was reading": "Cô ấy đang đọc",
-        "They were playing": "Họ đang chơi",
-        "He was eating": "Anh ấy đang ăn"
-      }
-    },
-    {
-      "id": "n8",
-      "type": "TeachRule",
-      "content": "Negative (was not/were not). Example: I wasn't sleeping (Tôi không đang ngủ)."
-    },
-    {
-      "id": "n9",
-      "type": "Flashcard",
-      "hindi": "I wasn't listening",
-      "english": "Tôi không đang nghe",
-      "audio": "I wasn't listening"
-    },
-    {
-      "id": "n10",
-      "type": "MultipleChoice",
-      "hindi": "They weren't running",
-      "english": "Họ không đang chạy",
-      "options": [
-        "Họ không đang chạy",
-        "Họ đang chạy",
-        "Họ đã chạy"
-      ],
-      "audio": "They weren't running"
+[
+  {
+    "id": "n1",
+    "type": "TeachRule",
+    "content": "To talk about an action that was happening at a specific time in the past, use 'was/were + verb-ing'.\nExample: 'I was sleeping' (Tôi đang ngủ)."
+  },
+  {
+    "id": "n2",
+    "type": "Flashcard",
+    "hindi": "I was sleeping",
+    "english": "Tôi đang ngủ",
+    "audio": "I was sleeping"
+  },
+  {
+    "id": "n3",
+    "type": "Flashcard",
+    "hindi": "They were playing",
+    "english": "Họ đang chơi",
+    "audio": "They were playing"
+  },
+  {
+    "id": "n4",
+    "type": "Flashcard",
+    "hindi": "She was reading",
+    "english": "Cô ấy đang đọc",
+    "audio": "She was reading"
+  },
+  {
+    "id": "n5",
+    "type": "MultipleChoice",
+    "hindi": "I was eating",
+    "english": "Tôi đang ăn",
+    "options": [
+      "Tôi đang ăn",
+      "Tôi đã ăn",
+      "Tôi sẽ ăn"
+    ],
+    "audio": "I was eating"
+  },
+  {
+    "id": "n6",
+    "type": "MultipleChoice",
+    "hindi": "We were working",
+    "english": "Chúng tôi đang làm việc",
+    "options": [
+      "Chúng tôi đang làm việc",
+      "Họ đang làm việc",
+      "Tôi đang làm việc"
+    ],
+    "audio": "We were working"
+  },
+  {
+    "id": "n7",
+    "type": "MatchPairs",
+    "pairs": {
+      "I was sleeping": "Tôi đang ngủ",
+      "She was reading": "Cô ấy đang đọc",
+      "They were playing": "Họ đang chơi",
+      "He was eating": "Anh ấy đang ăn"
     }
-  ]
-}
+  },
+  {
+    "id": "n8",
+    "type": "TeachRule",
+    "content": "Negative (was not/were not). Example: I wasn't sleeping (Tôi không đang ngủ)."
+  },
+  {
+    "id": "n9",
+    "type": "Flashcard",
+    "hindi": "I wasn't listening",
+    "english": "Tôi không đang nghe",
+    "audio": "I wasn't listening"
+  },
+  {
+    "id": "n10",
+    "type": "MultipleChoice",
+    "hindi": "They weren't running",
+    "english": "Họ không đang chạy",
+    "options": [
+      "Họ không đang chạy",
+      "Họ đang chạy",
+      "Họ đã chạy"
+    ],
+    "audio": "They weren't running"
+  }
+]

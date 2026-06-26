@@ -23,13 +23,25 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.example.hindilearn.theme.*
 
+import androidx.compose.foundation.isSystemInDarkTheme
+
 // Premium Background Generator (Animated)
 @Composable
 fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
+    val isDark = isSystemInDarkTheme()
+    val isEnglishCourse = com.example.hindilearn.data.UserManager.progress.selectedCourse == "ENGLISH"
     val infiniteTransition = rememberInfiniteTransition(label = "bg")
     val color1 by infiniteTransition.animateColor(
-        initialValue = WarmIvory,
-        targetValue = DeepSaffron.copy(alpha = 0.1f),
+        initialValue = if (isDark) {
+            if (isEnglishCourse) Color(0xFF050B14) else Color(0xFF0F0F1A)
+        } else {
+            if (isEnglishCourse) EnglishSky else WarmIvory
+        },
+        targetValue = if (isDark) {
+            if (isEnglishCourse) EnglishNavy.copy(alpha = 0.5f) else DeepSaffron.copy(alpha = 0.2f)
+        } else {
+            if (isEnglishCourse) EnglishCrimson.copy(alpha = 0.1f) else DeepSaffron.copy(alpha = 0.1f)
+        },
         animationSpec = infiniteRepeatable(
             animation = tween(4000, easing = LinearEasing),
             repeatMode = RepeatMode.Reverse
@@ -37,8 +49,16 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
         label = "c1"
     )
     val color2 by infiniteTransition.animateColor(
-        initialValue = DeepSaffron.copy(alpha = 0.05f),
-        targetValue = RoyalBlue.copy(alpha = 0.05f),
+        initialValue = if (isDark) {
+            if (isEnglishCourse) EnglishCrimson.copy(alpha = 0.2f) else DeepSaffron.copy(alpha = 0.1f)
+        } else {
+            if (isEnglishCourse) EnglishNavy.copy(alpha = 0.1f) else DeepSaffron.copy(alpha = 0.05f)
+        },
+        targetValue = if (isDark) {
+            if (isEnglishCourse) EnglishNavy.copy(alpha = 0.2f) else RoyalBlue.copy(alpha = 0.15f)
+        } else {
+            if (isEnglishCourse) EnglishCrimson.copy(alpha = 0.05f) else RoyalBlue.copy(alpha = 0.05f)
+        },
         animationSpec = infiniteRepeatable(
             animation = tween(5000, easing = LinearEasing),
             repeatMode = RepeatMode.Reverse
@@ -57,7 +77,7 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
             // Optional watermark
             Text(
                 "VIETANA",
-                color = DeepSaffron.copy(alpha = 0.05f),
+                color = if (isDark) DeepSaffron.copy(alpha = 0.03f) else DeepSaffron.copy(alpha = 0.05f),
                 style = MaterialTheme.typography.displayLarge.copy(fontWeight = FontWeight.Black),
                 modifier = Modifier.align(Alignment.Center)
             )
@@ -71,21 +91,28 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
 fun GlassCard(
     modifier: Modifier = Modifier,
     shape: Shape = RoundedCornerShape(32.dp),
-    containerColor: Color = PureWhite.copy(alpha = 0.9f),
+    containerColor: Color = Color.Unspecified, // Evaluated inside
     content: @Composable () -> Unit
 ) {
-    Surface(
+    val isDark = isSystemInDarkTheme()
+    
+    Box(
         modifier = modifier
             .shadow(
-                elevation = 16.dp,
-                shape = shape,
-                spotColor = RoyalBlue.copy(alpha = 0.05f),
-                ambientColor = RoyalBlue.copy(alpha = 0.05f)
+                elevation = 12.dp,
+                shape = RoundedCornerShape(24.dp),
+                spotColor = Color.Black.copy(alpha = 0.2f)
             )
-            .clip(shape),
-        color = containerColor,
-        shape = shape,
-        shadowElevation = 0.dp
+            .clip(RoundedCornerShape(24.dp))
+            .background(
+                Brush.linearGradient(
+                    colors = listOf(
+                        SurfaceTranslucent.copy(alpha = 0.4f),
+                        SurfaceTranslucent.copy(alpha = 0.1f)
+                    )
+                )
+            )
+            .background(if (isDark) SurfaceDarkTranslucent else SurfaceTranslucent)
     ) {
         content()
     }

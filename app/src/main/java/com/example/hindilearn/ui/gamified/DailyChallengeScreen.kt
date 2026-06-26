@@ -82,6 +82,7 @@ fun DailyChallengeScreen(
     var isAnswerChecked by remember { mutableStateOf(false) }
     var isCorrect by remember { mutableStateOf<Boolean?>(null) }
     var challengeFinished by remember { mutableStateOf(false) }
+    var alreadyCompletedToday by remember { mutableStateOf(false) }
     
     // Word ordering states
     var selectedOrderWords by remember { mutableStateOf(listOf<String>()) }
@@ -109,20 +110,28 @@ fun DailyChallengeScreen(
     }
 
     DisposableEffect(context) {
-        val textToSpeech = TextToSpeech(context) { status ->
+        var textToSpeech: TextToSpeech? = null
+        textToSpeech = TextToSpeech(context) { status ->
             if (status == TextToSpeech.SUCCESS) {
-                tts?.language = Locale.forLanguageTag("hi-IN")
+                textToSpeech?.language = Locale.forLanguageTag("hi-IN")
             }
         }
         tts = textToSpeech
         onDispose {
-            textToSpeech.stop()
-            textToSpeech.shutdown()
+            textToSpeech?.stop()
+            textToSpeech?.shutdown()
         }
     }
 
     // Load master vocab and generate 5 dynamic questions
     LaunchedEffect(Unit) {
+        // Check if challenge already completed today
+        val sdf = java.text.SimpleDateFormat("yyyy-MM-dd", java.util.Locale.US)
+        val today = sdf.format(java.util.Date())
+        if (UserManager.progress.lastChallengeDate == today) {
+            alreadyCompletedToday = true
+            return@LaunchedEffect
+        }
         try {
             val inputStream: InputStream = context.assets.open("episodes/master_vocab.json")
             val size = inputStream.available()
@@ -188,22 +197,36 @@ fun DailyChallengeScreen(
                 )
             )
 
-            // Q3: Fill in blank postposition
+            // Q3: Fill in blank - DYNAMIC from vocab
+            val w3 = randomWords.getOrNull(2) ?: randomWords[0]
+            val fillPrompts = listOf(
+                Triple("${w3["hindi"]} _____ (${w3["english"]} / ${w3["vietnamese"]})", "में", listOf("में", "पर", "से", "को")),
+                Triple("मेज़ _____ किताब है (The book is on the table)", "पर", listOf("में", "पर", "से", "को")),
+                Triple("वह स्कूल _____ आता है (He comes from school)", "से", listOf("में", "पर", "से", "को")),
+                Triple("मुझे पानी _____ दो (Give me water)", "को", listOf("में", "पर", "से", "को"))
+            ).random()
             questionsList.add(
                 ChallengeQuestion.FillInBlank(
-                    prompt = "कमरे _____ (In the room / Trong phòng)",
-                    translation = "In / Trong",
-                    options = listOf("में", "पर", "से", "को").shuffled(),
-                    answer = "में"
+                    prompt = fillPrompts.first,
+                    translation = fillPrompts.second,
+                    options = fillPrompts.third.shuffled(),
+                    answer = fillPrompts.second
                 )
             )
 
-            // Q4: Word Ordering
+            // Q4: Word Ordering - DYNAMIC
+            val wordOrderSentences = listOf(
+                Triple("I am fine. / Tôi khỏe.", "मैं ठीक हूँ", listOf("हूँ", "मैं", "ठीक")),
+                Triple("She is good. / Cô ấy tốt.", "वह अच्छी है", listOf("वह", "अच्छी", "है")),
+                Triple("Water is sweet. / Nước ngọt.", "पानी मीठा है", listOf("पानी", "मीठा", "है")),
+                Triple("He is a student. / Anh ấy là học sinh.", "वह एक छात्र है", listOf("वह", "एक", "छात्र", "है")),
+                Triple("My name is Raj. / Tên tôi là Raj.", "मेरा नाम राज है", listOf("मेरा", "नाम", "राज", "है"))
+            ).random()
             questionsList.add(
                 ChallengeQuestion.WordOrder(
-                    english = "I am fine. / Tôi khỏe.",
-                    correctOrder = "मैं ठीक हूँ",
-                    wordsBank = listOf("हूँ", "मैं", "ठीक").shuffled()
+                    english = wordOrderSentences.first,
+                    correctOrder = wordOrderSentences.second,
+                    wordsBank = wordOrderSentences.third.shuffled()
                 )
             )
 
@@ -244,7 +267,9 @@ fun DailyChallengeScreen(
             topBar = {
                 TopAppBar(
                     title = { 
-                        if (!challengeFinished && questions.isNotEmpty()) {
+                        if (alreadyCompletedToday) {
+                            Text(if (isVi) "Đã hoàn thành!" else "Challenge Completed!", color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold)
+                        } else if (!challengeFinished && questions.isNotEmpty()) {
                             val progressPercent = (currentQuestionIdx).toFloat() / questions.size.toFloat()
                             AnimatedProgressBar(
                                 progress = progressPercent,
@@ -252,12 +277,12 @@ fun DailyChallengeScreen(
                                 color = DeepSaffron
                             )
                         } else {
-                            Text(if (isVi) "Hoàn thành!" else "Challenge Completed!", color = TextDark, fontWeight = FontWeight.Bold)
+                            Text(if (isVi) "Hoàn thành!" else "Challenge Completed!", color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold)
                         }
                     },
                     navigationIcon = {
                         IconButton(onClick = onBack) {
-                            Icon(Icons.Default.Close, contentDescription = "Close", tint = TextDark)
+                            Icon(Icons.Default.Close, contentDescription = "Close", tint = MaterialTheme.colorScheme.onSurface)
                         }
                     },
                     colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -268,7 +293,30 @@ fun DailyChallengeScreen(
                 modifier = Modifier.fillMaxSize().padding(padding).padding(16.dp),
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
-                if (!challengeFinished && questions.isNotEmpty()) {
+                if (alreadyCompletedToday) {
+                    Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                            Icon(Icons.Default.Check, contentDescription = "Done", tint = SoftGreen, modifier = Modifier.size(100.dp))
+                            Spacer(modifier = Modifier.height(24.dp))
+                            Text(
+                                text = if (isVi) "Bạn đã hoàn thành thử thách hôm nay!" else "You've already completed today's challenge!",
+                                style = MaterialTheme.typography.titleLarge,
+                                fontWeight = FontWeight.Bold,
+                                color = MaterialTheme.colorScheme.onSurface,
+                                textAlign = TextAlign.Center
+                            )
+                            Spacer(modifier = Modifier.height(16.dp))
+                            Text(
+                                text = if (isVi) "Hãy quay lại vào ngày mai để nhận thử thách mới." else "Come back tomorrow for a new challenge.",
+                                style = MaterialTheme.typography.bodyLarge,
+                                color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.7f),
+                                textAlign = TextAlign.Center
+                            )
+                            Spacer(modifier = Modifier.height(32.dp))
+                            PremiumButton(text = if (isVi) "Quay lại" else "Go Back", onClick = onBack)
+                        }
+                    }
+                } else if (!challengeFinished && questions.isNotEmpty()) {
                     val currentQuestion = questions[currentQuestionIdx]
 
                     Box(modifier = Modifier.weight(1f).fillMaxWidth(), contentAlignment = Alignment.TopCenter) {
@@ -282,7 +330,7 @@ fun DailyChallengeScreen(
                                                    (if (isVi) "Chọn nghĩa của từ sau:" else "Choose the meaning of the word:"),
                                         style = MaterialTheme.typography.titleLarge,
                                         fontWeight = FontWeight.Bold,
-                                        color = TextDark,
+                                        color = MaterialTheme.colorScheme.onSurface,
                                         textAlign = TextAlign.Center
                                     )
                                     Spacer(modifier = Modifier.height(32.dp))
@@ -314,7 +362,7 @@ fun DailyChallengeScreen(
                                                 modifier = Modifier.padding(32.dp),
                                                 horizontalAlignment = Alignment.CenterHorizontally
                                             ) {
-                                                Text(currentQuestion.hindi, fontSize = 52.sp, fontWeight = FontWeight.Black, color = TextDark)
+                                                Text(currentQuestion.hindi, fontSize = 52.sp, fontWeight = FontWeight.Black, color = MaterialTheme.colorScheme.onSurface)
                                                 Spacer(modifier = Modifier.height(16.dp))
                                                 IconButton(
                                                     onClick = { AudioHelper.playAudio(context, "", tts, currentQuestion.hindi) }
@@ -348,7 +396,7 @@ fun DailyChallengeScreen(
                                                 modifier = Modifier.padding(16.dp),
                                                 style = MaterialTheme.typography.titleMedium,
                                                 fontWeight = FontWeight.Bold,
-                                                color = TextDark,
+                                                color = MaterialTheme.colorScheme.onSurface,
                                                 textAlign = TextAlign.Center
                                             )
                                         }
@@ -362,7 +410,7 @@ fun DailyChallengeScreen(
                                         text = if (isVi) "Điền vào chỗ trống:" else "Fill in the blank:",
                                         style = MaterialTheme.typography.titleLarge,
                                         fontWeight = FontWeight.Bold,
-                                        color = TextDark
+                                        color = MaterialTheme.colorScheme.onSurface
                                     )
                                     Spacer(modifier = Modifier.height(32.dp))
                                     Text(
@@ -395,7 +443,7 @@ fun DailyChallengeScreen(
                                                 modifier = Modifier.padding(16.dp),
                                                 style = MaterialTheme.typography.titleMedium,
                                                 fontWeight = FontWeight.Bold,
-                                                color = TextDark,
+                                                color = MaterialTheme.colorScheme.onSurface,
                                                 textAlign = TextAlign.Center
                                             )
                                         }
@@ -409,7 +457,7 @@ fun DailyChallengeScreen(
                                         text = if (isVi) "Sắp xếp thứ tự các từ:" else "Arrange the words in order:",
                                         style = MaterialTheme.typography.titleLarge,
                                         fontWeight = FontWeight.Bold,
-                                        color = TextDark
+                                        color = MaterialTheme.colorScheme.onSurface
                                     )
                                     Spacer(modifier = Modifier.height(16.dp))
                                     Text(
@@ -468,7 +516,7 @@ fun DailyChallengeScreen(
                                         text = if (isVi) "Ghép cặp từ tương ứng:" else "Match the pairs:",
                                         style = MaterialTheme.typography.titleLarge,
                                         fontWeight = FontWeight.Bold,
-                                        color = TextDark
+                                        color = MaterialTheme.colorScheme.onSurface
                                     )
                                     Spacer(modifier = Modifier.height(16.dp))
 
@@ -505,7 +553,7 @@ fun DailyChallengeScreen(
                                                         modifier = Modifier.padding(16.dp),
                                                         style = MaterialTheme.typography.bodyLarge,
                                                         fontWeight = FontWeight.Bold,
-                                                        color = TextDark,
+                                                        color = MaterialTheme.colorScheme.onSurface,
                                                         textAlign = TextAlign.Center
                                                     )
                                                 }
@@ -538,7 +586,7 @@ fun DailyChallengeScreen(
                                                         modifier = Modifier.padding(16.dp),
                                                         style = MaterialTheme.typography.bodyLarge,
                                                         fontWeight = FontWeight.Bold,
-                                                        color = TextDark,
+                                                        color = MaterialTheme.colorScheme.onSurface,
                                                         textAlign = TextAlign.Center
                                                     )
                                                 }
@@ -664,7 +712,7 @@ fun DailyChallengeScreen(
                             text = if (isVi) "Thử thách hoàn thành!" else "Daily Challenge Cleared!",
                             style = MaterialTheme.typography.headlineLarge,
                             fontWeight = FontWeight.ExtraBold,
-                            color = TextDark,
+                            color = MaterialTheme.colorScheme.onSurface,
                             textAlign = TextAlign.Center
                         )
                         Spacer(modifier = Modifier.height(12.dp))
@@ -672,7 +720,7 @@ fun DailyChallengeScreen(
                             text = if (isVi) "Bạn nhận được các phần thưởng củng cố hôm nay." 
                                    else "You have successfully claimed today's rewards.",
                             style = MaterialTheme.typography.bodyLarge,
-                            color = TextDark.copy(alpha = 0.8f),
+                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.8f),
                             textAlign = TextAlign.Center
                         )
                         Spacer(modifier = Modifier.height(32.dp))
@@ -684,12 +732,12 @@ fun DailyChallengeScreen(
                             ) {
                                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                                     Text("+20 XP", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold, color = PremiumGold)
-                                    Text("Experience", style = MaterialTheme.typography.bodyMedium, color = TextDark.copy(alpha = 0.6f))
+                                    Text("Experience", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f))
                                 }
-                                VerticalDivider(modifier = Modifier.width(1.dp).height(40.dp), color = TextDark.copy(alpha = 0.1f))
+                                VerticalDivider(modifier = Modifier.width(1.dp).height(40.dp), color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.1f))
                                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                                     Text("+10 Coins", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold, color = DeepSaffron)
-                                    Text("Academy Coins", style = MaterialTheme.typography.bodyMedium, color = TextDark.copy(alpha = 0.6f))
+                                    Text("Academy Coins", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f))
                                 }
                             }
                         }
@@ -699,6 +747,7 @@ fun DailyChallengeScreen(
                         PremiumButton(
                             text = if (isVi) "Nhận phần thưởng" else "Claim Rewards",
                             onClick = {
+                                UserManager.markChallengeCompleted()
                                 UserManager.addXp(20)
                                 UserManager.unlockAchievement("ach_daily_warrior")
                                 onBack()

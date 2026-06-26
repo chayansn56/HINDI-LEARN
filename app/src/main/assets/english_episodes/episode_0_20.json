@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_20",
-  "title": "Weather & Seasons",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Weather & Seasons",
-      "explanation": "Learn to talk about the weather and seasons."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Sunny",
-          "translation": "Trời nắng",
-          "audio": "Sunny"
-        },
-        {
-          "hindi": "Rainy",
-          "translation": "Trời mưa",
-          "audio": "Rainy"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Sunny' in Vietnamese?",
-      "options": [
-        "Trời mưa",
-        "Trời nắng",
-        "Mùa hè",
-        "Mùa đông"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Sunny",
-          "translation": "Trời nắng"
-        },
-        {
-          "hindi": "Rainy",
-          "translation": "Trời mưa"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Summer",
-          "translation": "Mùa hè",
-          "audio": "Summer"
-        },
-        {
-          "hindi": "Winter",
-          "translation": "Mùa đông",
-          "audio": "Winter"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Winter' in Vietnamese?",
-      "options": [
-        "Mùa hè",
-        "Mùa đông",
-        "Trời mưa",
-        "Trời nắng"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Summer",
-          "translation": "Mùa hè"
-        },
-        {
-          "hindi": "Winter",
-          "translation": "Mùa đông"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Cloudy",
-          "translation": "Trời nhiều mây",
-          "audio": "Cloudy"
-        },
-        {
-          "hindi": "Spring",
-          "translation": "Mùa xuân",
-          "audio": "Spring"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Cloudy' in Vietnamese?",
-      "options": [
-        "Mùa xuân",
-        "Trời nắng",
-        "Trời nhiều mây",
-        "Mùa đông"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Cloudy",
-          "translation": "Trời nhiều mây"
-        },
-        {
-          "hindi": "Spring",
-          "translation": "Mùa xuân"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Weather & Seasons",
+    "explanation": "Learn to talk about the weather and seasons."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Sunny",
+        "translation": "Trời nắng",
+        "audio": "Sunny"
+      },
+      {
+        "hindi": "Rainy",
+        "translation": "Trời mưa",
+        "audio": "Rainy"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Sunny' in Vietnamese?",
+    "options": [
+      "Trời mưa",
+      "Trời nắng",
+      "Mùa hè",
+      "Mùa đông"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Sunny",
+        "translation": "Trời nắng"
+      },
+      {
+        "hindi": "Rainy",
+        "translation": "Trời mưa"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Summer",
+        "translation": "Mùa hè",
+        "audio": "Summer"
+      },
+      {
+        "hindi": "Winter",
+        "translation": "Mùa đông",
+        "audio": "Winter"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Winter' in Vietnamese?",
+    "options": [
+      "Mùa hè",
+      "Mùa đông",
+      "Trời mưa",
+      "Trời nắng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Summer",
+        "translation": "Mùa hè"
+      },
+      {
+        "hindi": "Winter",
+        "translation": "Mùa đông"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Cloudy",
+        "translation": "Trời nhiều mây",
+        "audio": "Cloudy"
+      },
+      {
+        "hindi": "Spring",
+        "translation": "Mùa xuân",
+        "audio": "Spring"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Cloudy' in Vietnamese?",
+    "options": [
+      "Mùa xuân",
+      "Trời nắng",
+      "Trời nhiều mây",
+      "Mùa đông"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Cloudy",
+        "translation": "Trời nhiều mây"
+      },
+      {
+        "hindi": "Spring",
+        "translation": "Mùa xuân"
+      }
+    ]
+  }
+]

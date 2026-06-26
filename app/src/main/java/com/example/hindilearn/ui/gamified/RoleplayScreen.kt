@@ -10,6 +10,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.Mic
 import androidx.compose.material.icons.filled.Send
+import androidx.compose.material.icons.filled.Stop
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -37,10 +38,10 @@ fun RoleplayScreen(onBack: () -> Unit, modifier: Modifier = Modifier) {
         Scaffold(
             topBar = {
                 TopAppBar(
-                    title = { Text(if (isVi) "Giao tiếp AI" else "AI Roleplay", fontWeight = FontWeight.Bold, color = TextDark) },
+                    title = { Text(if (isVi) "Giao tiếp AI" else "AI Roleplay", fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface) },
                     navigationIcon = {
                         IconButton(onClick = onBack) {
-                            Icon(Icons.Default.ArrowBack, contentDescription = "Back", tint = TextDark)
+                            Icon(Icons.Default.ArrowBack, contentDescription = "Back", tint = MaterialTheme.colorScheme.onSurface)
                         }
                     },
                     colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -71,7 +72,7 @@ fun ScenarioSelection(isVi: Boolean, onSelect: (String) -> Unit) {
             text = if (isVi) "Chọn một tình huống" else "Choose a Scenario",
             style = MaterialTheme.typography.headlineMedium,
             fontWeight = FontWeight.Bold,
-            color = TextDark
+            color = MaterialTheme.colorScheme.onSurface
         )
         Spacer(modifier = Modifier.height(24.dp))
 
@@ -92,7 +93,7 @@ fun ScenarioSelection(isVi: Boolean, onSelect: (String) -> Unit) {
                 Row(modifier = Modifier.padding(24.dp), verticalAlignment = Alignment.CenterVertically) {
                     Text("🤖", style = MaterialTheme.typography.headlineMedium)
                     Spacer(modifier = Modifier.width(16.dp))
-                    Text(scenario, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = TextDark)
+                    Text(scenario, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface)
                 }
             }
         }
@@ -101,7 +102,42 @@ fun ScenarioSelection(isVi: Boolean, onSelect: (String) -> Unit) {
 
 @Composable
 fun ChatInterface(isVi: Boolean, scenario: String) {
+    val context = androidx.compose.ui.platform.LocalContext.current
     val coroutineScope = rememberCoroutineScope()
+    
+    var tts by remember { mutableStateOf<android.speech.tts.TextToSpeech?>(null) }
+    var isTtsReady by remember { mutableStateOf(false) }
+    var hasPermission by remember { mutableStateOf(false) }
+    val permissionLauncher = androidx.activity.compose.rememberLauncherForActivityResult(
+        contract = androidx.activity.result.contract.ActivityResultContracts.RequestPermission(),
+        onResult = { hasPermission = it }
+    )
+    
+    LaunchedEffect(Unit) {
+        permissionLauncher.launch(android.Manifest.permission.RECORD_AUDIO)
+    }
+    
+    DisposableEffect(context) {
+        var newTts: android.speech.tts.TextToSpeech? = null
+        newTts = android.speech.tts.TextToSpeech(context) { status ->
+            if (status == android.speech.tts.TextToSpeech.SUCCESS) {
+                val locale = if (UserManager.progress.selectedCourse == "ENGLISH") {
+                    java.util.Locale.US
+                } else {
+                    java.util.Locale("hi", "IN")
+                }
+                newTts?.language = locale
+                isTtsReady = true
+            }
+        }
+        tts = newTts
+        
+        onDispose {
+            newTts?.stop()
+            newTts?.shutdown()
+        }
+    }
+
     var messages by remember { 
         mutableStateOf(listOf(
             ChatMessage(
@@ -115,8 +151,47 @@ fun ChatInterface(isVi: Boolean, scenario: String) {
             )
         )) 
     }
+    
+    // Speak initial message when TTS is ready
+    LaunchedEffect(isTtsReady) {
+        if (isTtsReady && messages.isNotEmpty()) {
+            tts?.speak(messages.first().text, android.speech.tts.TextToSpeech.QUEUE_FLUSH, null, null)
+        }
+    }
+
     var inputText by remember { mutableStateOf("") }
     var isTyping by remember { mutableStateOf(false) }
+    var isListening by remember { mutableStateOf(false) }
+
+    val speechRecognizer = remember { android.speech.SpeechRecognizer.createSpeechRecognizer(context) }
+    val intent = remember {
+        android.content.Intent(android.speech.RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
+            putExtra(android.speech.RecognizerIntent.EXTRA_LANGUAGE_MODEL, android.speech.RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
+            putExtra(android.speech.RecognizerIntent.EXTRA_LANGUAGE, if (UserManager.progress.selectedCourse == "ENGLISH") java.util.Locale.US.toString() else "hi-IN")
+        }
+    }
+
+    DisposableEffect(Unit) {
+        val listener = object : android.speech.RecognitionListener {
+            override fun onReadyForSpeech(params: android.os.Bundle?) {}
+            override fun onBeginningOfSpeech() {}
+            override fun onRmsChanged(rmsdB: Float) {}
+            override fun onBufferReceived(buffer: ByteArray?) {}
+            override fun onEndOfSpeech() { isListening = false }
+            override fun onError(error: Int) { isListening = false }
+            override fun onResults(results: android.os.Bundle?) {
+                val matches = results?.getStringArrayList(android.speech.SpeechRecognizer.RESULTS_RECOGNITION)
+                if (!matches.isNullOrEmpty()) {
+                    inputText = matches[0]
+                }
+                isListening = false
+            }
+            override fun onPartialResults(partialResults: android.os.Bundle?) {}
+            override fun onEvent(eventType: Int, params: android.os.Bundle?) {}
+        }
+        speechRecognizer.setRecognitionListener(listener)
+        onDispose { speechRecognizer.destroy() }
+    }
 
     Column(modifier = Modifier.fillMaxSize()) {
         // Chat History
@@ -154,18 +229,33 @@ fun ChatInterface(isVi: Boolean, scenario: String) {
             Spacer(modifier = Modifier.width(8.dp))
             IconButton(
                 onClick = {
-                    if (inputText.isNotBlank()) {
+                    if (inputText.isNotBlank() && !isTyping) {
                         val userText = inputText
                         inputText = ""
                         messages = messages + ChatMessage(userText, true)
                         
-                        // Mock AI response
                         isTyping = true
                         coroutineScope.launch {
-                            delay(1500)
+                            val targetLanguage = if (UserManager.progress.selectedCourse == "ENGLISH") "English" else "Hindi"
+                            val nativeLanguage = if (isVi) "Vietnamese" else "English"
+                            
+                            val systemPrompt = """
+                                You are a helpful AI language tutor. 
+                                The user is practicing speaking ${'$'}targetLanguage in this scenario: ${'$'}scenario. 
+                                Respond in ${'$'}targetLanguage, but keep it simple. If the user makes a mistake, gently correct them in ${'$'}nativeLanguage.
+                                Keep responses very short (1-2 sentences).
+                            """.trimIndent()
+                            
+                            val chatHistory = messages.map { Pair(it.text, it.isUser) }
+                            
+                            val reply = com.example.hindilearn.data.OpenAiService.generateChatResponse(systemPrompt, chatHistory)
+                                ?: (if (isVi) "Xin lỗi, tôi không thể kết nối. Vui lòng thử lại." else "Sorry, I couldn't connect. Please try again.")
+                                
                             isTyping = false
-                            val reply = if (isVi) "Thật tuyệt vời! Còn gì nữa không?" else "That's great! Anything else?"
                             messages = messages + ChatMessage(reply, false)
+                            
+                            // Voice-to-Voice: speak the reply!
+                            tts?.speak(reply, android.speech.tts.TextToSpeech.QUEUE_FLUSH, null, null)
                         }
                     }
                 },
@@ -175,10 +265,20 @@ fun ChatInterface(isVi: Boolean, scenario: String) {
             }
             Spacer(modifier = Modifier.width(8.dp))
             IconButton(
-                onClick = { /* Handle Voice Input via intent in real app */ },
-                modifier = Modifier.background(SoftGreen, CircleShape).size(48.dp)
+                onClick = {
+                    if (hasPermission && !isTyping) {
+                        if (isListening) {
+                            speechRecognizer.stopListening()
+                        } else {
+                            inputText = ""
+                            speechRecognizer.startListening(intent)
+                            isListening = true
+                        }
+                    }
+                },
+                modifier = Modifier.background(if (isListening) Color.Red else SoftGreen, CircleShape).size(48.dp)
             ) {
-                Icon(Icons.Default.Mic, contentDescription = "Mic", tint = RoyalBlue)
+                Icon(if (isListening) Icons.Default.Stop else Icons.Default.Mic, contentDescription = "Mic", tint = if (isListening) Color.White else RoyalBlue)
             }
         }
     }

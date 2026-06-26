@@ -231,8 +231,10 @@ fun ListeningUI(ex: Exercise.Listening, tts: TextToSpeech?, isCorrect: Boolean?,
 
 @Composable
 fun DrawingUI(ex: Exercise.Drawing, isCorrect: Boolean?, onAnswer: (Boolean) -> Unit) {
+    val context = LocalContext.current
     val paths = remember { androidx.compose.runtime.mutableStateListOf<Path>() }
     var currentPath by remember { mutableStateOf<Path?>(null) }
+    val isVi = com.example.hindilearn.data.UserManager.progress.selectedLanguage == "VI"
     
     Column(modifier = Modifier.fillMaxSize(), horizontalAlignment = Alignment.CenterHorizontally) {
         Text("Draw this character", style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold)
@@ -300,11 +302,26 @@ fun DrawingUI(ex: Exercise.Drawing, isCorrect: Boolean?, onAnswer: (Boolean) -> 
         Box(modifier = Modifier.fillMaxWidth().height(80.dp).padding(bottom = 16.dp), contentAlignment = Alignment.BottomCenter) {
             if (isCorrect == null) {
                 Button(
-                    onClick = { onAnswer(true) },
+                    onClick = { 
+                        var isValid = false
+                        if (paths.isNotEmpty()) {
+                            var totalWidth = 0f
+                            var totalHeight = 0f
+                            paths.forEach { path ->
+                                val bounds = path.getBounds()
+                                totalWidth += bounds.width
+                                totalHeight += bounds.height
+                            }
+                            if (totalWidth > 50f || totalHeight > 50f) {
+                                isValid = true
+                            }
+                        }
+                        onAnswer(isValid)
+                    },
                     modifier = Modifier.fillMaxWidth().height(64.dp),
                     shape = RoundedCornerShape(20.dp)
                 ) {
-                    Text("Verify Drawing", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+                    Text(if (isVi) "Kiểm tra" else "Verify Drawing", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
                 }
             }
         }
@@ -553,63 +570,167 @@ fun GrammarRuleUI(ex: Exercise.GrammarRule, onAnswer: (Boolean) -> Unit) {
 @Composable
 fun SpeakingUI(ex: Exercise.Speaking, isCorrect: Boolean?, onAnswer: (Boolean) -> Unit) {
     val context = LocalContext.current
+    val isVi = UserManager.progress.selectedLanguage == "VI"
+    val isEnglishCourse = UserManager.progress.selectedCourse == "ENGLISH"
     var isListening by remember { mutableStateOf(false) }
     var recognizedText by remember { mutableStateOf("") }
-    
-    // We mock the permission launcher for now since a true runtime request needs Accompanist or native launcher
-    val launcher = androidx.activity.compose.rememberLauncherForActivityResult(
+    var hasPermission by remember { mutableStateOf(false) }
+    var errorMsg by remember { mutableStateOf<String?>(null) }
+
+    val permissionLauncher = androidx.activity.compose.rememberLauncherForActivityResult(
         androidx.activity.result.contract.ActivityResultContracts.RequestPermission()
-    ) { isGranted: Boolean ->
-        if (isGranted) {
-            isListening = true
-            // In a real app, instantiate SpeechRecognizer here and startListening(Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH))
-            // For cinematic simulation, we'll pretend they spoke the phrase perfectly after 2 seconds
-            android.os.Handler(android.os.Looper.getMainLooper()).postDelayed({
-                recognizedText = ex.hindiPhrase
-                isListening = false
-                onAnswer(true)
-            }, 2000)
+    ) { granted -> hasPermission = granted }
+
+    LaunchedEffect(Unit) {
+        permissionLauncher.launch(android.Manifest.permission.RECORD_AUDIO)
+    }
+
+    val speechRecognizer = remember { android.speech.SpeechRecognizer.createSpeechRecognizer(context) }
+    val speechIntent = remember {
+        android.content.Intent(android.speech.RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
+            putExtra(android.speech.RecognizerIntent.EXTRA_LANGUAGE_MODEL, android.speech.RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
+            putExtra(android.speech.RecognizerIntent.EXTRA_LANGUAGE, if (isEnglishCourse) java.util.Locale.US.toString() else "hi-IN")
+            putExtra(android.speech.RecognizerIntent.EXTRA_MAX_RESULTS, 3)
         }
     }
 
+    DisposableEffect(Unit) {
+        val listener = object : android.speech.RecognitionListener {
+            override fun onReadyForSpeech(params: android.os.Bundle?) { errorMsg = null }
+            override fun onBeginningOfSpeech() {}
+            override fun onRmsChanged(rmsdB: Float) {}
+            override fun onBufferReceived(buffer: ByteArray?) {}
+            override fun onEndOfSpeech() { isListening = false }
+            override fun onError(error: Int) {
+                isListening = false
+                errorMsg = when (error) {
+                    android.speech.SpeechRecognizer.ERROR_NO_MATCH -> if (isVi) "Không nghe thấy. Thử lại!" else "Didn't catch that. Try again!"
+                    android.speech.SpeechRecognizer.ERROR_SPEECH_TIMEOUT -> if (isVi) "Hết thời gian. Nói to hơn!" else "Timed out. Speak louder!"
+                    else -> if (isVi) "Lỗi. Thử lại!" else "Error. Try again!"
+                }
+            }
+            override fun onResults(results: android.os.Bundle?) {
+                val matches = results?.getStringArrayList(android.speech.SpeechRecognizer.RESULTS_RECOGNITION)
+                if (!matches.isNullOrEmpty()) {
+                    recognizedText = matches[0]
+                    // Fuzzy match: compare recognized text to target phrase
+                    val target = ex.hindiPhrase.lowercase().trim()
+                    val spoken = matches[0].lowercase().trim()
+                    val similarity = calculateSimilarity(target, spoken)
+                    if (similarity >= 0.6) {
+                        onAnswer(true)
+                    } else {
+                        // Check other results too
+                        val anyMatch = matches.any { m ->
+                            calculateSimilarity(target, m.lowercase().trim()) >= 0.6
+                        }
+                        onAnswer(anyMatch)
+                    }
+                } else {
+                    errorMsg = if (isVi) "Không nhận được. Thử lại!" else "No speech detected. Try again!"
+                }
+                isListening = false
+            }
+            override fun onPartialResults(partialResults: android.os.Bundle?) {}
+            override fun onEvent(eventType: Int, params: android.os.Bundle?) {}
+        }
+        speechRecognizer.setRecognitionListener(listener)
+        onDispose { speechRecognizer.destroy() }
+    }
+
     Column(modifier = Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
-        Text("Speak this phrase", style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold)
+        Text(
+            if (isVi) "Hãy nói câu này" else "Speak this phrase",
+            style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold
+        )
         Spacer(modifier = Modifier.height(24.dp))
-        
+
         Text(ex.hindiPhrase, style = MaterialTheme.typography.displayLarge, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.primary)
         Spacer(modifier = Modifier.height(8.dp))
         Text(ex.translation, style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
-        
-        Spacer(modifier = Modifier.height(64.dp))
-        
+
+        Spacer(modifier = Modifier.height(48.dp))
+
         // Microphone Button
         val animScale by androidx.compose.animation.core.animateFloatAsState(
-            targetValue = if (isListening) 1.5f else 1.0f,
+            targetValue = if (isListening) 1.3f else 1.0f,
             animationSpec = androidx.compose.animation.core.tween(500)
         )
-        
+
         IconButton(
             onClick = {
-                if (isCorrect == null && !isListening) {
-                    launcher.launch(android.Manifest.permission.RECORD_AUDIO)
+                if (isCorrect == null && !isListening && hasPermission) {
+                    recognizedText = ""
+                    errorMsg = null
+                    speechRecognizer.startListening(speechIntent)
+                    isListening = true
+                } else if (!hasPermission) {
+                    permissionLauncher.launch(android.Manifest.permission.RECORD_AUDIO)
                 }
             },
             modifier = Modifier
                 .size(100.dp)
                 .scale(animScale)
-                .background(if (isListening) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primaryContainer, RoundedCornerShape(50.dp))
+                .background(
+                    if (isListening) MaterialTheme.colorScheme.error
+                    else MaterialTheme.colorScheme.primaryContainer,
+                    RoundedCornerShape(50.dp)
+                )
         ) {
-            Icon(Icons.Default.Mic, contentDescription = "Speak", tint = if (isListening) Color.White else MaterialTheme.colorScheme.primary, modifier = Modifier.size(48.dp))
+            Icon(
+                if (isListening) Icons.Default.Close else Icons.Default.Mic,
+                contentDescription = "Speak",
+                tint = if (isListening) Color.White else MaterialTheme.colorScheme.primary,
+                modifier = Modifier.size(48.dp)
+            )
         }
-        
+
         Spacer(modifier = Modifier.height(24.dp))
         if (isListening) {
-            Text("Listening...", style = MaterialTheme.typography.bodyLarge, color = MaterialTheme.colorScheme.error)
+            Text(
+                if (isVi) "Đang nghe..." else "Listening...",
+                style = MaterialTheme.typography.bodyLarge,
+                color = MaterialTheme.colorScheme.error
+            )
         } else if (recognizedText.isNotEmpty()) {
-            Text("You said: $recognizedText", style = MaterialTheme.typography.bodyLarge)
+            Text(
+                (if (isVi) "Bạn nói: " else "You said: ") + recognizedText,
+                style = MaterialTheme.typography.bodyLarge,
+                color = if (isCorrect == true) com.example.hindilearn.theme.SoftGreen else com.example.hindilearn.theme.SoftRed
+            )
+        } else if (errorMsg != null) {
+            Text(errorMsg!!, style = MaterialTheme.typography.bodyMedium, color = com.example.hindilearn.theme.SoftRed)
+        } else if (!hasPermission) {
+            Text(
+                if (isVi) "Cần cấp quyền micro" else "Microphone permission required",
+                color = com.example.hindilearn.theme.SoftRed
+            )
         }
     }
 }
+
+// Levenshtein-based similarity score (0.0 to 1.0)
+private fun calculateSimilarity(s1: String, s2: String): Double {
+    if (s1 == s2) return 1.0
+    if (s1.isEmpty() || s2.isEmpty()) return 0.0
+    val maxLen = maxOf(s1.length, s2.length)
+    val distance = levenshteinDistance(s1, s2)
+    return 1.0 - (distance.toDouble() / maxLen.toDouble())
+}
+
+private fun levenshteinDistance(s1: String, s2: String): Int {
+    val dp = Array(s1.length + 1) { IntArray(s2.length + 1) }
+    for (i in 0..s1.length) dp[i][0] = i
+    for (j in 0..s2.length) dp[0][j] = j
+    for (i in 1..s1.length) {
+        for (j in 1..s2.length) {
+            val cost = if (s1[i - 1] == s2[j - 1]) 0 else 1
+            dp[i][j] = minOf(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j - 1] + cost)
+        }
+    }
+    return dp[s1.length][s2.length]
+}
+
 
 @Composable
 fun CulturalDialogueUI(ex: Exercise.CulturalDialogue, isCorrect: Boolean?, onAnswer: (Boolean) -> Unit) {
@@ -679,12 +800,12 @@ fun StoryModeUI(ex: Exercise.StoryMode, isCorrect: Boolean?, onAnswer: (Boolean)
             ) {
                 com.example.hindilearn.ui.gamified.GlassCard(modifier = Modifier.fillMaxWidth()) {
                     Column(modifier = Modifier.padding(24.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-                        Text(p.hindi, style = MaterialTheme.typography.headlineLarge, fontWeight = FontWeight.Bold, color = com.example.hindilearn.theme.TextDark, textAlign = TextAlign.Center)
+                        Text(p.hindi, style = MaterialTheme.typography.headlineLarge, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface, textAlign = TextAlign.Center)
                         Spacer(modifier = Modifier.height(16.dp))
-                        Text(p.translation, style = MaterialTheme.typography.titleMedium, color = com.example.hindilearn.theme.TextDark.copy(alpha=0.7f), textAlign = TextAlign.Center)
+                        Text(p.translation, style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.7f), textAlign = TextAlign.Center)
                         
                         Spacer(modifier = Modifier.height(48.dp))
-                        Text("Tap anywhere to continue", style = MaterialTheme.typography.labelMedium, color = com.example.hindilearn.theme.TextDark.copy(alpha=0.4f))
+                        Text("Tap anywhere to continue", style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.4f))
                     }
                 }
             }
@@ -699,7 +820,7 @@ fun StoryModeUI(ex: Exercise.StoryMode, isCorrect: Boolean?, onAnswer: (Boolean)
             androidx.compose.foundation.lazy.LazyColumn(modifier = Modifier.weight(1f)) {
                 item {
                     Spacer(modifier = Modifier.height(24.dp))
-                    Text(if (isVi) ex.question_vi else ex.question_en, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold, color = com.example.hindilearn.theme.TextDark)
+                    Text(if (isVi) ex.question_vi else ex.question_en, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface)
                     Spacer(modifier = Modifier.height(16.dp))
                     
                     ex.options.forEach { opt ->
@@ -712,7 +833,7 @@ fun StoryModeUI(ex: Exercise.StoryMode, isCorrect: Boolean?, onAnswer: (Boolean)
                             colors = CardDefaults.cardColors(containerColor = color),
                             shape = RoundedCornerShape(16.dp)
                         ) {
-                            Text(opt.text, modifier = Modifier.padding(16.dp), style = MaterialTheme.typography.titleMedium, color = com.example.hindilearn.theme.TextDark)
+                            Text(opt.text, modifier = Modifier.padding(16.dp), style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onSurface)
                         }
                     }
                 }
@@ -1059,7 +1180,7 @@ fun VocabularyContextUI(ex: Exercise.VocabularyContext, tts: TextToSpeech?, onAn
 fun DialogueModeUI(ex: Exercise.DialogueMode, tts: TextToSpeech?, onAnswer: (Boolean) -> Unit) {
     val context = LocalContext.current
     Column(modifier = Modifier.fillMaxSize()) {
-        Text(ex.title, style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold, color = com.example.hindilearn.theme.TextDark)
+        Text(ex.title, style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface)
         Spacer(modifier = Modifier.height(16.dp))
         
         LazyColumn(modifier = Modifier.weight(1f), contentPadding = PaddingValues(vertical = 16.dp)) {
@@ -1078,11 +1199,11 @@ fun DialogueModeUI(ex: Exercise.DialogueMode, tts: TextToSpeech?, onAnswer: (Boo
                         modifier = Modifier.fillMaxWidth(0.85f)
                     ) {
                         Column(modifier = Modifier.padding(16.dp).background(if (isFirstSpeaker) com.example.hindilearn.theme.WarmIvory.copy(alpha=0.5f) else com.example.hindilearn.theme.DeepSaffron.copy(alpha=0.1f))) {
-                            Text(line.speaker, style = MaterialTheme.typography.labelSmall, color = com.example.hindilearn.theme.TextDark.copy(alpha=0.6f))
+                            Text(line.speaker, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.6f))
                             Spacer(modifier = Modifier.height(4.dp))
-                            Text(line.hindi, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = com.example.hindilearn.theme.TextDark)
+                            Text(line.hindi, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface)
                             Spacer(modifier = Modifier.height(4.dp))
-                            Text(line.translation, style = MaterialTheme.typography.bodyMedium, color = com.example.hindilearn.theme.TextDark.copy(alpha=0.8f))
+                            Text(line.translation, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface.copy(alpha=0.8f))
                             
                             IconButton(onClick = { AudioHelper.playAudio(context, line.hindi, tts, line.hindi) }, modifier = Modifier.align(Alignment.End).size(32.dp)) {
                                 Icon(Icons.AutoMirrored.Filled.VolumeUp, contentDescription = "Listen", tint = com.example.hindilearn.theme.DeepSaffron, modifier = Modifier.size(20.dp))
@@ -1097,5 +1218,129 @@ fun DialogueModeUI(ex: Exercise.DialogueMode, tts: TextToSpeech?, onAnswer: (Boo
             text = "Continue →",
             onClick = { onAnswer(true) }
         )
+    }
+}
+
+@Composable
+fun MatchPairsUI(ex: Exercise.MatchPairs, isCorrect: Boolean?, onAnswer: (Boolean) -> Unit) {
+    val context = LocalContext.current
+    var selectedLeft by remember { mutableStateOf<String?>(null) }
+    var selectedRight by remember { mutableStateOf<String?>(null) }
+    var matchedPairs by remember { mutableStateOf(setOf<String>()) }
+    var wrongAttempts by remember { mutableStateOf(0) }
+    var flashWrong by remember { mutableStateOf(false) }
+
+    val leftItems = remember { ex.pairs.map { it.first }.shuffled() }
+    val rightItems = remember { ex.pairs.map { it.second }.shuffled() }
+
+    LaunchedEffect(selectedLeft, selectedRight) {
+        if (selectedLeft != null && selectedRight != null) {
+            val correctPair = ex.pairs.find { it.first == selectedLeft && it.second == selectedRight }
+            if (correctPair != null) {
+                matchedPairs = matchedPairs + selectedLeft!!
+                selectedLeft = null
+                selectedRight = null
+                if (matchedPairs.size == ex.pairs.size) {
+                    onAnswer(true)
+                }
+            } else {
+                flashWrong = true
+                kotlinx.coroutines.delay(500)
+                flashWrong = false
+                wrongAttempts++
+                selectedLeft = null
+                selectedRight = null
+                if (wrongAttempts >= 3) {
+                    onAnswer(false)
+                }
+            }
+        }
+    }
+
+    Column(modifier = Modifier.fillMaxWidth().verticalScroll(rememberScrollState()), horizontalAlignment = Alignment.CenterHorizontally) {
+        Text("Match the pairs", style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold)
+        Spacer(modifier = Modifier.height(24.dp))
+
+        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
+            // Left Column (Hindi)
+            Column(modifier = Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                leftItems.forEach { item ->
+                    val isMatched = matchedPairs.contains(item)
+                    val isSelected = selectedLeft == item
+                    MatchCard(
+                        text = item,
+                        isSelected = isSelected,
+                        isMatched = isMatched,
+                        isError = flashWrong && isSelected,
+                        onClick = {
+                            if (!isMatched && !flashWrong) selectedLeft = if (isSelected) null else item
+                        }
+                    )
+                }
+            }
+
+            Spacer(modifier = Modifier.width(16.dp))
+
+            // Right Column (Translations)
+            Column(modifier = Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                rightItems.forEach { item ->
+                    val matchedLeft = ex.pairs.find { it.second == item }?.first
+                    val isMatched = matchedLeft != null && matchedPairs.contains(matchedLeft)
+                    val isSelected = selectedRight == item
+                    MatchCard(
+                        text = item,
+                        isSelected = isSelected,
+                        isMatched = isMatched,
+                        isError = flashWrong && isSelected,
+                        onClick = {
+                            if (!isMatched && !flashWrong) selectedRight = if (isSelected) null else item
+                        }
+                    )
+                }
+            }
+        }
+    }
+}
+
+@Composable
+fun MatchCard(
+    text: String,
+    isSelected: Boolean,
+    isMatched: Boolean,
+    isError: Boolean,
+    onClick: () -> Unit
+) {
+    val bgColor = when {
+        isError -> com.example.hindilearn.theme.SoftRed
+        isMatched -> Color.LightGray.copy(alpha = 0.5f)
+        isSelected -> com.example.hindilearn.theme.PremiumGold.copy(alpha = 0.5f)
+        else -> MaterialTheme.colorScheme.surfaceVariant
+    }
+    val textColor = when {
+        isError -> Color.White
+        isMatched -> Color.Gray
+        isSelected -> MaterialTheme.colorScheme.onSurface
+        else -> MaterialTheme.colorScheme.onSurfaceVariant
+    }
+
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .height(64.dp)
+            .clickable(enabled = !isMatched, onClick = onClick),
+        shape = RoundedCornerShape(12.dp),
+        colors = CardDefaults.cardColors(containerColor = bgColor),
+        elevation = CardDefaults.cardElevation(defaultElevation = if (isMatched) 0.dp else 4.dp)
+    ) {
+        Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            Text(
+                text = text,
+                style = MaterialTheme.typography.bodyLarge,
+                fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Medium,
+                color = textColor,
+                textAlign = TextAlign.Center,
+                modifier = Modifier.padding(horizontal = 8.dp)
+            )
+        }
     }
 }

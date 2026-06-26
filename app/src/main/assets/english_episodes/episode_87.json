@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Ahead / Forward",
     "transliteration": "",
-    "english": "आगे",
-    "vietnamese": "Phía trước",
+    "english": "Phía trước",
+    "vietnamese": "",
     "audio": "Ahead / Forward"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Leaf",
     "transliteration": "",
-    "english": "पत्ता",
-    "vietnamese": "Lá cây",
+    "english": "Lá cây",
+    "vietnamese": "",
     "audio": "Leaf"
   },
   {
     "type": "Flashcard",
     "hindi": "Are you joking?",
     "transliteration": "",
-    "english": "मज़ाक कर रहे हो क्या?",
-    "vietnamese": "Bạn đùa à?",
+    "english": "Bạn đùa à?",
+    "vietnamese": "",
     "audio": "Are you joking?"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Ahead / Forward'",
     "text": "Ahead / Forward",
     "subtext": "",
-    "answer": "आगे",
+    "answer": "Ahead / Forward",
     "answer_vi": "Phía trước",
     "options": [
-      "आगे",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पत्ता",
-      "मज़ाक कर रहे हो क्या?"
+      "Ahead / Forward",
+      "To listen / hear",
+      "Leaf",
+      "Are you joking?"
     ],
     "options_vi": [
       "Phía trước",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Village'",
     "text": "Village",
     "subtext": "",
-    "answer": "गाँव​​​​​​​",
+    "answer": "Village",
     "answer_vi": "Ngôi làng",
     "options": [
-      "गाँव​​​​​​​",
-      "सीखना​​​​​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Village",
+      "To learn",
+      "To sell",
+      "To wake up"
     ],
     "options_vi": [
       "Ngôi làng",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "will be (masculine plural)",
     "transliteration": "",
-    "english": "होंगे",
-    "vietnamese": "Sẽ là (nam số nhiều)",
+    "english": "Sẽ là (nam số nhiều)",
+    "vietnamese": "",
     "audio": "will be (masculine plural)"
   },
   {
     "type": "Flashcard",
     "hindi": "Third wheel / Spoil sport",
     "transliteration": "",
-    "english": "कबाब में हड्डी",
-    "vietnamese": "Kẻ thứ ba phá đám",
+    "english": "Kẻ thứ ba phá đám",
+    "vietnamese": "",
     "audio": "Third wheel / Spoil sport"
   },
   {
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​​​​​​​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'will be (masculine plural)'",
     "text": "will be (masculine plural)",
     "subtext": "",
-    "answer": "होंगे",
+    "answer": "will be (masculine plural)",
     "answer_vi": "Sẽ là (nam số nhiều)",
     "options": [
-      "होंगे",
-      "कबाब में हड्डी",
-      "प्याला​​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "will be (masculine plural)",
+      "Third wheel / Spoil sport",
+      "Cup",
+      "To wake up"
     ],
     "options_vi": [
       "Sẽ là (nam số nhiều)",
@@ -300,23 +300,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the आगे / Tôi thấy Phía trước",
+    "englishSentence": "Tôi thấy Phía trước",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Ahead / Forward"
+      "Ahead",
+      "/",
+      "Forward"
     ],
     "correctHindiSentence": "I see the Ahead / Forward"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Nghe",
+    "englishSentence": "Tôi muốn Nghe",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "I want a To listen / hear"
   },

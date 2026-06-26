@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "am",
     "transliteration": "",
-    "english": "हूँ",
-    "vietnamese": "Là (tôi)",
+    "english": "Là (tôi)",
+    "vietnamese": "",
     "audio": "am"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​​​​​​​​​​​​​​",
-      "बंद करना​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​​​​​​​​​",
-      "हूँ"
+      "To cry",
+      "To close",
+      "To teach",
+      "am"
     ],
     "options_vi": [
       "Khóc",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "How many",
     "transliteration": "",
-    "english": "कितने",
-    "vietnamese": "Bao nhiêu (số lượng)",
+    "english": "Bao nhiêu (số lượng)",
+    "vietnamese": "",
     "audio": "How many"
   },
   {
     "type": "Flashcard",
     "hindi": "The weather is very nice.",
     "transliteration": "",
-    "english": "मौसम बहुत अच्छा है।",
-    "vietnamese": "Thời tiết rất đẹp.",
+    "english": "Thời tiết rất đẹp.",
+    "vietnamese": "",
     "audio": "The weather is very nice."
   },
   {
     "type": "Flashcard",
     "hindi": "Right (direction)",
     "transliteration": "",
-    "english": "दाएँ",
-    "vietnamese": "Bên phải",
+    "english": "Bên phải",
+    "vietnamese": "",
     "audio": "Right (direction)"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
     "text": "Star",
     "subtext": "",
-    "answer": "तारा​​​​​",
+    "answer": "Star",
     "answer_vi": "Ngôi sao",
     "options": [
-      "तारा​​​​​",
-      "कितने",
-      "मौसम बहुत अच्छा है।",
-      "दाएँ"
+      "Star",
+      "How many",
+      "The weather is very nice.",
+      "Right (direction)"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
     "text": "To take",
     "subtext": "",
-    "answer": "लेना​​​​​​​​​​​​​​​",
+    "answer": "To take",
     "answer_vi": "Lấy / Nhận",
     "options": [
-      "लेना​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​"
+      "To take",
+      "To learn",
+      "To take",
+      "To take"
     ],
     "options_vi": [
       "Lấy / Nhận",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Remember.",
     "transliteration": "",
-    "english": "याद रखना।",
-    "vietnamese": "Hãy nhớ lấy.",
+    "english": "Hãy nhớ lấy.",
+    "vietnamese": "",
     "audio": "Remember."
   },
   {
     "type": "Flashcard",
     "hindi": "about / regarding",
     "transliteration": "",
-    "english": "के बारे में",
-    "vietnamese": "Về / Liên quan đến",
+    "english": "Về / Liên quan đến",
+    "vietnamese": "",
     "audio": "about / regarding"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Remember.'",
     "text": "Remember.",
     "subtext": "",
-    "answer": "याद रखना।",
+    "answer": "Remember.",
     "answer_vi": "Hãy nhớ lấy.",
     "options": [
-      "याद रखना।",
-      "के बारे में",
-      "जागना​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Remember.",
+      "about / regarding",
+      "To wake up",
+      "To take"
     ],
     "options_vi": [
       "Hãy nhớ lấy.",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a रोना​​​​​​​​​​​​​​​​​​​​​ / Nó là một Khóc",
+    "englishSentence": "Nó là một Khóc",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To cry"
+      "To",
+      "cry"
     ],
     "correctHindiSentence": "It is a To cry"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like बंद करना​​​​​​​​​​​​​​​​​​ / Tôi thích Đóng",
+    "englishSentence": "Tôi thích Đóng",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To close"
+      "To",
+      "close"
     ],
     "correctHindiSentence": "I really like To close"
   },

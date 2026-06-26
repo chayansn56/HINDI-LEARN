@@ -1,101 +1,98 @@
-{
-    "title": "School",
-    "nodes": [
-        {
-            "type": "Flashcard",
-            "hindi": "Book",
-            "translation": "Quyển sách",
-            "audio": "Book"
-        },
-        {
-            "type": "Flashcard",
-            "hindi": "Pen",
-            "translation": "Cái bút",
-            "audio": "Pen"
-        },
-        {
-            "type": "TeachRules",
-            "hindi": "Read a book.",
-            "translation": "Đọc sách.",
-            "audio": "Read a book"
-        },
-        {
-            "type": "MultipleChoice",
-            "hindi": "Pencil",
-            "translation": "Bút chì",
-            "options": [
-                "Bút chì",
-                "Cục tẩy",
-                "Cái thước",
-                "Ba lô"
-            ],
-            "correctAnswer": "Bút chì",
-            "audio": "Pencil"
-        },
-        {
-            "type": "MultipleChoice",
-            "hindi": "Teacher",
-            "translation": "Giáo viên",
-            "options": [
-                "Giáo viên",
-                "Học sinh",
-                "Hiệu trưởng",
-                "Bạn học"
-            ],
-            "correctAnswer": "Giáo viên",
-            "audio": "Teacher"
-        },
-        {
-            "type": "MatchPairs",
-            "pairs": [
-                {
-                    "hindi": "Eraser",
-                    "translation": "Cục tẩy"
-                },
-                {
-                    "hindi": "Ruler",
-                    "translation": "Cái thước"
-                },
-                {
-                    "hindi": "Desk",
-                    "translation": "Bàn học"
-                },
-                {
-                    "hindi": "Chair",
-                    "translation": "Cái ghế"
-                }
-            ]
-        },
-        {
-            "type": "Flashcard",
-            "hindi": "Classroom",
-            "translation": "Phòng học",
-            "audio": "Classroom"
-        },
-        {
-            "type": "Flashcard",
-            "hindi": "Student",
-            "translation": "Học sinh",
-            "audio": "Student"
-        },
-        {
-            "type": "MultipleChoice",
-            "hindi": "Backpack",
-            "translation": "Ba lô",
-            "options": [
-                "Ba lô",
-                "Hộp bút",
-                "Sách bài tập",
-                "Bảng đen"
-            ],
-            "correctAnswer": "Ba lô",
-            "audio": "Backpack"
-        },
-        {
-            "type": "TeachRules",
-            "hindi": "Listen to the teacher.",
-            "translation": "Lắng nghe giáo viên.",
-            "audio": "Listen to the teacher"
-        }
+[
+  {
+    "type": "Flashcard",
+    "hindi": "Book",
+    "translation": "Quyển sách",
+    "audio": "Book"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pen",
+    "translation": "Cái bút",
+    "audio": "Pen"
+  },
+  {
+    "type": "TeachRules",
+    "hindi": "Read a book.",
+    "translation": "Đọc sách.",
+    "audio": "Read a book"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Pencil",
+    "translation": "Bút chì",
+    "options": [
+      "Bút chì",
+      "Cục tẩy",
+      "Cái thước",
+      "Ba lô"
+    ],
+    "correctAnswer": "Bút chì",
+    "audio": "Pencil"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Teacher",
+    "translation": "Giáo viên",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Hiệu trưởng",
+      "Bạn học"
+    ],
+    "correctAnswer": "Giáo viên",
+    "audio": "Teacher"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Eraser",
+        "translation": "Cục tẩy"
+      },
+      {
+        "hindi": "Ruler",
+        "translation": "Cái thước"
+      },
+      {
+        "hindi": "Desk",
+        "translation": "Bàn học"
+      },
+      {
+        "hindi": "Chair",
+        "translation": "Cái ghế"
+      }
     ]
-}
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Classroom",
+    "translation": "Phòng học",
+    "audio": "Classroom"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Student",
+    "translation": "Học sinh",
+    "audio": "Student"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Backpack",
+    "translation": "Ba lô",
+    "options": [
+      "Ba lô",
+      "Hộp bút",
+      "Sách bài tập",
+      "Bảng đen"
+    ],
+    "correctAnswer": "Ba lô",
+    "audio": "Backpack"
+  },
+  {
+    "type": "TeachRules",
+    "hindi": "Listen to the teacher.",
+    "translation": "Lắng nghe giáo viên.",
+    "audio": "Listen to the teacher"
+  }
+]

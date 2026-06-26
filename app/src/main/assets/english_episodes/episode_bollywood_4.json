@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Let's start.",
     "transliteration": "",
-    "english": "चलो शुरू करते हैं।",
-    "vietnamese": "Hãy bắt đầu thôi.",
+    "english": "Hãy bắt đầu thôi.",
+    "vietnamese": "",
     "audio": "Let's start."
   },
   {
     "type": "Flashcard",
     "hindi": "To sing / Song",
     "transliteration": "",
-    "english": "गाना",
-    "vietnamese": "Hát / Bài hát",
+    "english": "Hát / Bài hát",
+    "vietnamese": "",
     "audio": "To sing / Song"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Let's start.'",
     "text": "Let's start.",
     "subtext": "",
-    "answer": "चलो शुरू करते हैं।",
+    "answer": "Let's start.",
     "answer_vi": "Hãy bắt đầu thôi.",
     "options": [
-      "चलो शुरू करते हैं।",
-      "गाना",
-      "तारा​​​",
-      "तारा​​​​​​​​​​"
+      "Let's start.",
+      "To sing / Song",
+      "Star",
+      "Star"
     ],
     "options_vi": [
       "Hãy bắt đầu thôi.",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance",
     "transliteration": "",
-    "english": "नृत्य",
-    "vietnamese": "Điệu nhảy",
+    "english": "Điệu nhảy",
+    "vietnamese": "",
     "audio": "Dance"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
     "text": "Star",
     "subtext": "",
-    "answer": "तारा​​",
+    "answer": "Star",
     "answer_vi": "Ngôi sao",
     "options": [
-      "तारा​​",
-      "नृत्य",
-      "तारा​​​​​​​​",
-      "तारा​​​​​​​​​​​​"
+      "Star",
+      "Dance",
+      "Star",
+      "Star"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Cinema / Theater",
     "transliteration": "",
-    "english": "सिनेमा",
-    "vietnamese": "Điện ảnh",
+    "english": "Điện ảnh",
+    "vietnamese": "",
     "audio": "Cinema / Theater"
   },
   {
     "type": "Flashcard",
     "hindi": "Actress",
     "transliteration": "",
-    "english": "अभिनेत्री",
-    "vietnamese": "Nữ diễn viên",
+    "english": "Nữ diễn viên",
+    "vietnamese": "",
     "audio": "Actress"
   },
   {
     "type": "Flashcard",
     "hindi": "Movie",
     "transliteration": "",
-    "english": "फ़िल्म",
-    "vietnamese": "Bộ phim",
+    "english": "Bộ phim",
+    "vietnamese": "",
     "audio": "Movie"
   },
   {
     "type": "Flashcard",
     "hindi": "Hero",
     "transliteration": "",
-    "english": "हीरो",
-    "vietnamese": "Nam chính / Anh hùng",
+    "english": "Nam chính / Anh hùng",
+    "vietnamese": "",
     "audio": "Hero"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cinema / Theater'",
     "text": "Cinema / Theater",
     "subtext": "",
-    "answer": "सिनेमा",
+    "answer": "Cinema / Theater",
     "answer_vi": "Điện ảnh",
     "options": [
-      "सिनेमा",
-      "अभिनेत्री",
-      "फ़िल्म",
-      "हीरो"
+      "Cinema / Theater",
+      "Actress",
+      "Movie",
+      "Hero"
     ],
     "options_vi": [
       "Điện ảnh",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Dance, my love",
     "transliteration": "",
-    "english": "नच बलिए",
-    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "english": "Nhảy đi tình yêu của tôi",
+    "vietnamese": "",
     "audio": "Dance, my love"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "सितारा",
-    "vietnamese": "Ngôi sao điện ảnh",
+    "english": "Ngôi sao điện ảnh",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Dance, my love'",
     "text": "Dance, my love",
     "subtext": "",
-    "answer": "नच बलिए",
+    "answer": "Dance, my love",
     "answer_vi": "Nhảy đi tình yêu của tôi",
     "options": [
-      "नच बलिए",
-      "तारा​​​​​​​​​",
-      "तारा​",
-      "सितारा"
+      "Dance, my love",
+      "Star",
+      "Star",
+      "Star"
     ],
     "options_vi": [
       "Nhảy đi tình yêu của tôi",
@@ -355,23 +355,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a चलो शुरू करते हैं। / Nó là một Hãy bắt đầu thôi.",
+    "englishSentence": "Nó là một Hãy bắt đầu thôi.",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Let's start."
+      "Let's",
+      "start."
     ],
     "correctHindiSentence": "It is a Let's start."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like गाना / Tôi thích Hát / Bài hát",
+    "englishSentence": "Bài hát",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To sing / Song"
+      "To",
+      "sing",
+      "/",
+      "Song"
     ],
     "correctHindiSentence": "I really like To sing / Song"
   },

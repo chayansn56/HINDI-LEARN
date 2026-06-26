@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "I don't know",
     "transliteration": "",
-    "english": "मुझे नहीं मालूम",
-    "vietnamese": "Tôi không biết",
+    "english": "Tôi không biết",
+    "vietnamese": "",
     "audio": "I don't know"
   },
   {
     "type": "Flashcard",
     "hindi": "How much is it?",
     "transliteration": "",
-    "english": "कितना हुआ?",
-    "vietnamese": "Bao nhiêu tiền?",
+    "english": "Bao nhiêu tiền?",
+    "vietnamese": "",
     "audio": "How much is it?"
   },
   {
     "type": "Flashcard",
     "hindi": "To act pricey / show attitude",
     "transliteration": "",
-    "english": "भाव खाना",
-    "vietnamese": "Làm kiêu / Tỏ vẻ",
+    "english": "Làm kiêu / Tỏ vẻ",
+    "vietnamese": "",
     "audio": "To act pricey / show attitude"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom (relative plural)",
     "transliteration": "",
-    "english": "जिन्हें",
-    "vietnamese": "Người mà (số nhiều)",
+    "english": "Người mà (số nhiều)",
+    "vietnamese": "",
     "audio": "Whom (relative plural)"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'I don't know'",
     "text": "I don't know",
     "subtext": "",
-    "answer": "मुझे नहीं मालूम",
+    "answer": "I don't know",
     "answer_vi": "Tôi không biết",
     "options": [
-      "मुझे नहीं मालूम",
-      "कितना हुआ?",
-      "भाव खाना",
-      "जिन्हें"
+      "I don't know",
+      "How much is it?",
+      "To act pricey / show attitude",
+      "Whom (relative plural)"
     ],
     "options_vi": [
       "Tôi không biết",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Who",
     "transliteration": "",
-    "english": "कौन",
-    "vietnamese": "Ai",
+    "english": "Ai",
+    "vietnamese": "",
     "audio": "Who"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes, I am ready.",
     "transliteration": "",
-    "english": "हाँ, मैं तैयार हूँ।",
-    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "english": "Vâng, tôi sẵn sàng rồi.",
+    "vietnamese": "",
     "audio": "Yes, I am ready."
   },
   {
     "type": "Flashcard",
     "hindi": "Afternoon",
     "transliteration": "",
-    "english": "दोपहर",
-    "vietnamese": "Buổi trưa",
+    "english": "Buổi trưa",
+    "vietnamese": "",
     "audio": "Afternoon"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
     "text": "Notebook",
     "subtext": "",
-    "answer": "कापी​​​​​",
+    "answer": "Notebook",
     "answer_vi": "Sổ tay",
     "options": [
-      "कापी​​​​​",
-      "कौन",
-      "हाँ, मैं तैयार हूँ।",
-      "दोपहर"
+      "Notebook",
+      "Who",
+      "Yes, I am ready.",
+      "Afternoon"
     ],
     "options_vi": [
       "Sổ tay",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Where",
     "transliteration": "",
-    "english": "कहाँ",
-    "vietnamese": "Ở đâu",
+    "english": "Ở đâu",
+    "vietnamese": "",
     "audio": "Where"
   },
   {
     "type": "Flashcard",
     "hindi": "When (relative)",
     "transliteration": "",
-    "english": "जब",
-    "vietnamese": "Khi mà",
+    "english": "Khi mà",
+    "vietnamese": "",
     "audio": "When (relative)"
   },
   {
     "type": "Flashcard",
     "hindi": "What is the plan?",
     "transliteration": "",
-    "english": "सीन क्या है?",
-    "vietnamese": "Kế hoạch là gì thế?",
+    "english": "Kế hoạch là gì thế?",
+    "vietnamese": "",
     "audio": "What is the plan?"
   },
   {
     "type": "Flashcard",
     "hindi": "How much",
     "transliteration": "",
-    "english": "कितना",
-    "vietnamese": "Bao nhiêu",
+    "english": "Bao nhiêu",
+    "vietnamese": "",
     "audio": "How much"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Where'",
     "text": "Where",
     "subtext": "",
-    "answer": "कहाँ",
+    "answer": "Where",
     "answer_vi": "Ở đâu",
     "options": [
-      "कहाँ",
-      "जब",
-      "सीन क्या है?",
-      "कितना"
+      "Where",
+      "When (relative)",
+      "What is the plan?",
+      "How much"
     ],
     "options_vi": [
       "Ở đâu",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Please say it again.",
     "transliteration": "",
-    "english": "फिर से कहिए।",
-    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "english": "Làm ơn nói lại lần nữa.",
+    "vietnamese": "",
     "audio": "Please say it again."
   },
   {
     "type": "Flashcard",
     "hindi": "to know",
     "transliteration": "",
-    "english": "जानना",
-    "vietnamese": "Biết",
+    "english": "Biết",
+    "vietnamese": "",
     "audio": "to know"
   },
   {
     "type": "Flashcard",
     "hindi": "Reverent hello to Grandma",
     "transliteration": "",
-    "english": "प्रणाम दादी जी",
-    "vietnamese": "Kính chào bà nội kính yêu",
+    "english": "Kính chào bà nội kính yêu",
+    "vietnamese": "",
     "audio": "Reverent hello to Grandma"
   },
   {
     "type": "Flashcard",
     "hindi": "No way!",
     "transliteration": "",
-    "english": "घंटा",
-    "vietnamese": "Không đời nào / Thôi đi",
+    "english": "Không đời nào / Thôi đi",
+    "vietnamese": "",
     "audio": "No way!"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Please say it again.'",
     "text": "Please say it again.",
     "subtext": "",
-    "answer": "फिर से कहिए।",
+    "answer": "Please say it again.",
     "answer_vi": "Làm ơn nói lại lần nữa.",
     "options": [
-      "फिर से कहिए।",
-      "जानना",
-      "प्रणाम दादी जी",
-      "घंटा"
+      "Please say it again.",
+      "to know",
+      "Reverent hello to Grandma",
+      "No way!"
     ],
     "options_vi": [
       "Làm ơn nói lại lần nữa.",
@@ -355,23 +355,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a मुझे नहीं मालूम / Nó là một Tôi không biết",
+    "englishSentence": "Nó là một Tôi không biết",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "I don't know"
+      "I",
+      "don't",
+      "know"
     ],
     "correctHindiSentence": "It is a I don't know"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कितना हुआ? / Tôi thích Bao nhiêu tiền?",
+    "englishSentence": "Tôi thích Bao nhiêu tiền?",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "How much is it?"
+      "How",
+      "much",
+      "is",
+      "it?"
     ],
     "correctHindiSentence": "I really like How much is it?"
   },

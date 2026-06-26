@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
     "type": "Flashcard",
     "hindi": "Metro",
     "transliteration": "",
-    "english": "मेट्रो",
-    "vietnamese": "Tàu điện ngầm",
+    "english": "Tàu điện ngầm",
+    "vietnamese": "",
     "audio": "Metro"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't like this.",
     "transliteration": "",
-    "english": "मुझे यह पसंद नहीं है।",
-    "vietnamese": "Tôi không thích cái này.",
+    "english": "Tôi không thích cái này.",
+    "vietnamese": "",
     "audio": "I don't like this."
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
     "text": "To do",
     "subtext": "",
-    "answer": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To do",
     "answer_vi": "Làm",
     "options": [
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बारिश​​​​",
-      "मेट्रो",
-      "मुझे यह पसंद नहीं है।"
+      "To do",
+      "Rain",
+      "Metro",
+      "I don't like this."
     ],
     "options_vi": [
       "Làm",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
     "text": "Lock",
     "subtext": "",
-    "answer": "ताला",
+    "answer": "Lock",
     "answer_vi": "Ổ khóa",
     "options": [
-      "ताला",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Lock",
+      "To read",
+      "To open",
+      "To listen / hear"
     ],
     "options_vi": [
       "Ổ khóa",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "7",
     "transliteration": "",
-    "english": "७",
-    "vietnamese": "Bảy",
+    "english": "Bảy",
+    "vietnamese": "",
     "audio": "7"
   },
   {
     "type": "Flashcard",
     "hindi": "It was a great pleasure meeting you.",
     "transliteration": "",
-    "english": "आपसे मिलकर बहुत खुशी हुई।",
-    "vietnamese": "Rất vui được gặp ngài.",
+    "english": "Rất vui được gặp ngài.",
+    "vietnamese": "",
     "audio": "It was a great pleasure meeting you."
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "I am hungry.",
     "transliteration": "",
-    "english": "मुझे भूख लगी है।",
-    "vietnamese": "Tôi đói.",
+    "english": "Tôi đói.",
+    "vietnamese": "",
     "audio": "I am hungry."
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho '7'",
     "text": "7",
     "subtext": "",
-    "answer": "७",
+    "answer": "7",
     "answer_vi": "Bảy",
     "options": [
-      "७",
-      "आपसे मिलकर बहुत खुशी हुई।",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मुझे भूख लगी है।"
+      "7",
+      "It was a great pleasure meeting you.",
+      "To sleep",
+      "I am hungry."
     ],
     "options_vi": [
       "Bảy",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the करना​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Làm",
+    "englishSentence": "Tôi thấy Làm",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To do"
+      "To",
+      "do"
     ],
     "correctHindiSentence": "I see the To do"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बारिश​​​​ / Tôi muốn Cơn mưa",
+    "englishSentence": "Tôi muốn Cơn mưa",
     "hindiWords": [
       "I",
       "want",

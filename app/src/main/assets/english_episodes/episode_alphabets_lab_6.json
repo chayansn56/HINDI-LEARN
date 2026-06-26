@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "His / Her (distant)",
     "transliteration": "",
-    "english": "उसका",
-    "vietnamese": "Của anh/chị ấy (xa)",
+    "english": "Của anh/chị ấy (xa)",
+    "vietnamese": "",
     "audio": "His / Her (distant)"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
     "text": "Lock",
     "subtext": "",
-    "answer": "ताला",
+    "answer": "Lock",
     "answer_vi": "Ổ khóa",
     "options": [
-      "ताला",
-      "लिखना​​​​​​​​​​​​​​",
-      "उसका",
-      "चलना"
+      "Lock",
+      "To write",
+      "His / Her (distant)",
+      "To walk / move"
     ],
     "options_vi": [
       "Ổ khóa",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Police station",
     "transliteration": "",
-    "english": "थाना",
-    "vietnamese": "Đồn cảnh sát",
+    "english": "Đồn cảnh sát",
+    "vietnamese": "",
     "audio": "Police station"
   },
   {
     "type": "Flashcard",
     "hindi": "Wednesday",
     "transliteration": "",
-    "english": "बुधवार",
-    "vietnamese": "Thứ tư",
+    "english": "Thứ tư",
+    "vietnamese": "",
     "audio": "Wednesday"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Police station'",
     "text": "Police station",
     "subtext": "",
-    "answer": "थाना",
+    "answer": "Police station",
     "answer_vi": "Đồn cảnh sát",
     "options": [
-      "थाना",
-      "बुधवार",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Police station",
+      "Wednesday",
+      "To write",
+      "To listen / hear"
     ],
     "options_vi": [
       "Đồn cảnh sát",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​​​​​​​​​​​​​"
+      "To listen / hear",
+      "To tell / explain",
+      "To clean",
+      "To see / watch"
     ],
     "options_vi": [
       "Nghe",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Hatred",
     "transliteration": "",
-    "english": "नफ़रत",
-    "vietnamese": "Sự ghét bỏ / Căm thù",
+    "english": "Sự ghét bỏ / Căm thù",
+    "vietnamese": "",
     "audio": "Hatred"
   },
   {
     "type": "Flashcard",
     "hindi": "Yearning / Restlessness",
     "transliteration": "",
-    "english": "तड़प",
-    "vietnamese": "Sự khắc khoải / Khao khát",
+    "english": "Sự khắc khoải / Khao khát",
+    "vietnamese": "",
     "audio": "Yearning / Restlessness"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Hatred'",
     "text": "Hatred",
     "subtext": "",
-    "answer": "नफ़रत",
+    "answer": "Hatred",
     "answer_vi": "Sự ghét bỏ / Căm thù",
     "options": [
-      "नफ़रत",
-      "तड़प",
-      "खड़े होना​​​​​​​​",
-      "तारा"
+      "Hatred",
+      "Yearning / Restlessness",
+      "To stand",
+      "Star"
     ],
     "options_vi": [
       "Sự ghét bỏ / Căm thù",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a ताला / Nó là một Ổ khóa",
+    "englishSentence": "Nó là một Ổ khóa",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like लिखना​​​​​​​​​​​​​​ / Tôi thích Viết",
+    "englishSentence": "Tôi thích Viết",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To write"
+      "To",
+      "write"
     ],
     "correctHindiSentence": "I really like To write"
   },

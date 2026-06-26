@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
     "text": "To see / watch",
     "subtext": "",
-    "answer": "देखना​​​​​​​​​​​​​​​",
+    "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
     "options": [
-      "देखना​​​​​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To see / watch",
+      "To tell / explain",
+      "To buy",
+      "To work"
     ],
     "options_vi": [
       "Nhìn / Xem",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Silver",
     "transliteration": "",
-    "english": "चाँदी",
-    "vietnamese": "Bạc",
+    "english": "Bạc",
+    "vietnamese": "",
     "audio": "Silver"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "4",
     "transliteration": "",
-    "english": "४",
-    "vietnamese": "Bốn",
+    "english": "Bốn",
+    "vietnamese": "",
     "audio": "4"
   },
   {
     "type": "Flashcard",
     "hindi": "Of (masc. sing.)",
     "transliteration": "",
-    "english": "का",
-    "vietnamese": "Của (nam số ít)",
+    "english": "Của (nam số ít)",
+    "vietnamese": "",
     "audio": "Of (masc. sing.)"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Silver'",
     "text": "Silver",
     "subtext": "",
-    "answer": "चाँदी",
+    "answer": "Silver",
     "answer_vi": "Bạc",
     "options": [
-      "चाँदी",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "४",
-      "का"
+      "Silver",
+      "To work",
+      "4",
+      "Of (masc. sing.)"
     ],
     "options_vi": [
       "Bạc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To make / build'",
     "text": "To make / build",
     "subtext": "",
-    "answer": "बनाना​​​",
+    "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
     "options": [
-      "बनाना​​​",
-      "पूछना​​​​​​​​​​​",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​"
+      "To make / build",
+      "To ask",
+      "To sleep",
+      "To ask"
     ],
     "options_vi": [
       "Chế tạo / Tạo ra",
@@ -300,23 +300,29 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the देखना​​​​​​​​​​​​​​​ / Tôi thấy Nhìn / Xem",
+    "englishSentence": "Xem",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To see / watch"
+      "To",
+      "see",
+      "/",
+      "watch"
     ],
     "correctHindiSentence": "I see the To see / watch"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बताना​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Kể / Giải thích",
+    "englishSentence": "Giải thích",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To tell / explain"
+      "To",
+      "tell",
+      "/",
+      "explain"
     ],
     "correctHindiSentence": "I want a To tell / explain"
   },

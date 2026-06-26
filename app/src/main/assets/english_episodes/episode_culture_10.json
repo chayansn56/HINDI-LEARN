@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "to drink",
     "transliteration": "",
-    "english": "पीना",
-    "vietnamese": "Uống",
+    "english": "Uống",
+    "vietnamese": "",
     "audio": "to drink"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance",
     "transliteration": "",
-    "english": "नृत्य",
-    "vietnamese": "Điệu nhảy",
+    "english": "Điệu nhảy",
+    "vietnamese": "",
     "audio": "Dance"
   },
   {
     "type": "Flashcard",
     "hindi": "Let's start.",
     "transliteration": "",
-    "english": "चलो शुरू करते हैं।",
-    "vietnamese": "Hãy bắt đầu thôi.",
+    "english": "Hãy bắt đầu thôi.",
+    "vietnamese": "",
     "audio": "Let's start."
   },
   {
     "type": "Flashcard",
     "hindi": "Car / Train / Cart",
     "transliteration": "",
-    "english": "गाड़ी",
-    "vietnamese": "Xe hơi / Xe lửa",
+    "english": "Xe hơi / Xe lửa",
+    "vietnamese": "",
     "audio": "Car / Train / Cart"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
     "text": "to drink",
     "subtext": "",
-    "answer": "पीना",
+    "answer": "to drink",
     "answer_vi": "Uống",
     "options": [
-      "पीना",
-      "नृत्य",
-      "चलो शुरू करते हैं।",
-      "गाड़ी"
+      "to drink",
+      "Dance",
+      "Let's start.",
+      "Car / Train / Cart"
     ],
     "options_vi": [
       "Uống",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To eat / Food",
     "transliteration": "",
-    "english": "खाना",
-    "vietnamese": "Ăn / Đồ ăn",
+    "english": "Ăn / Đồ ăn",
+    "vietnamese": "",
     "audio": "To eat / Food"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Defiled food",
     "transliteration": "",
-    "english": "जूठा",
-    "vietnamese": "Thức ăn thừa / Ô uế",
+    "english": "Thức ăn thừa / Ô uế",
+    "vietnamese": "",
     "audio": "Defiled food"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To eat / Food'",
     "text": "To eat / Food",
     "subtext": "",
-    "answer": "खाना",
+    "answer": "To eat / Food",
     "answer_vi": "Ăn / Đồ ăn",
     "options": [
-      "खाना",
-      "मिट्टी​​​​​",
-      "मिट्टी​​​​",
-      "जूठा"
+      "To eat / Food",
+      "Soil / Earth",
+      "Soil / Earth",
+      "Defiled food"
     ],
     "options_vi": [
       "Ăn / Đồ ăn",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance, my love",
     "transliteration": "",
-    "english": "नच बलिए",
-    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "english": "Nhảy đi tình yêu của tôi",
+    "vietnamese": "",
     "audio": "Dance, my love"
   },
   {
     "type": "Flashcard",
     "hindi": "Festival",
     "transliteration": "",
-    "english": "त्योहार",
-    "vietnamese": "Lễ hội",
+    "english": "Lễ hội",
+    "vietnamese": "",
     "audio": "Festival"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​​​​​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​​​​​​​",
-      "नच बलिए",
-      "त्योहार",
-      "मिट्टी​​​​​​​"
+      "Soil / Earth",
+      "Dance, my love",
+      "Festival",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Đất",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Drinking water",
     "transliteration": "",
-    "english": "पीने का पानी",
-    "vietnamese": "Nước uống",
+    "english": "Nước uống",
+    "vietnamese": "",
     "audio": "Drinking water"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Client / Customer",
     "transliteration": "",
-    "english": "ग्राहक",
-    "vietnamese": "Khách hàng",
+    "english": "Khách hàng",
+    "vietnamese": "",
     "audio": "Client / Customer"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Drinking water'",
     "text": "Drinking water",
     "subtext": "",
-    "answer": "पीने का पानी",
+    "answer": "Drinking water",
     "answer_vi": "Nước uống",
     "options": [
-      "पीने का पानी",
-      "मिट्टी​​​​​​",
-      "ग्राहक",
-      "मिट्टी​​​​​​​​"
+      "Drinking water",
+      "Soil / Earth",
+      "Client / Customer",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Nước uống",
@@ -355,18 +355,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a पीना / Nó là một Uống",
+    "englishSentence": "Nó là một Uống",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "to drink"
+      "to",
+      "drink"
     ],
     "correctHindiSentence": "It is a to drink"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like नृत्य / Tôi thích Điệu nhảy",
+    "englishSentence": "Tôi thích Điệu nhảy",
     "hindiWords": [
       "I",
       "really",

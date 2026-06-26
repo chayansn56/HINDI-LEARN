@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_23",
-  "title": "Asking Questions",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Asking Questions",
-      "explanation": "Learn words to ask questions."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "What",
-          "translation": "Cái gì",
-          "audio": "What"
-        },
-        {
-          "hindi": "Where",
-          "translation": "Ở đâu",
-          "audio": "Where"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Where' in Vietnamese?",
-      "options": [
-        "Cái gì",
-        "Ở đâu",
-        "Khi nào",
-        "Tại sao"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "What",
-          "translation": "Cái gì"
-        },
-        {
-          "hindi": "Where",
-          "translation": "Ở đâu"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "When",
-          "translation": "Khi nào",
-          "audio": "When"
-        },
-        {
-          "hindi": "Why",
-          "translation": "Tại sao",
-          "audio": "Why"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Why' in Vietnamese?",
-      "options": [
-        "Cái gì",
-        "Tại sao",
-        "Khi nào",
-        "Ở đâu"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "When",
-          "translation": "Khi nào"
-        },
-        {
-          "hindi": "Why",
-          "translation": "Tại sao"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Who",
-          "translation": "Ai",
-          "audio": "Who"
-        },
-        {
-          "hindi": "How",
-          "translation": "Như thế nào",
-          "audio": "How"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Who' in Vietnamese?",
-      "options": [
-        "Cái gì",
-        "Ở đâu",
-        "Ai",
-        "Tại sao"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Who",
-          "translation": "Ai"
-        },
-        {
-          "hindi": "How",
-          "translation": "Như thế nào"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Asking Questions",
+    "explanation": "Learn words to ask questions."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "What",
+        "translation": "Cái gì",
+        "audio": "What"
+      },
+      {
+        "hindi": "Where",
+        "translation": "Ở đâu",
+        "audio": "Where"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Where' in Vietnamese?",
+    "options": [
+      "Cái gì",
+      "Ở đâu",
+      "Khi nào",
+      "Tại sao"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "What",
+        "translation": "Cái gì"
+      },
+      {
+        "hindi": "Where",
+        "translation": "Ở đâu"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "When",
+        "translation": "Khi nào",
+        "audio": "When"
+      },
+      {
+        "hindi": "Why",
+        "translation": "Tại sao",
+        "audio": "Why"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Why' in Vietnamese?",
+    "options": [
+      "Cái gì",
+      "Tại sao",
+      "Khi nào",
+      "Ở đâu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "When",
+        "translation": "Khi nào"
+      },
+      {
+        "hindi": "Why",
+        "translation": "Tại sao"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Who",
+        "translation": "Ai",
+        "audio": "Who"
+      },
+      {
+        "hindi": "How",
+        "translation": "Như thế nào",
+        "audio": "How"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Who' in Vietnamese?",
+    "options": [
+      "Cái gì",
+      "Ở đâu",
+      "Ai",
+      "Tại sao"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Who",
+        "translation": "Ai"
+      },
+      {
+        "hindi": "How",
+        "translation": "Như thế nào"
+      }
+    ]
+  }
+]

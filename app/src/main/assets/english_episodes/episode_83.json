@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "Bathroom",
     "transliteration": "",
-    "english": "बाथरूम",
-    "vietnamese": "Nhà tắm / Toilet",
+    "english": "Nhà tắm / Toilet",
+    "vietnamese": "",
     "audio": "Bathroom"
   },
   {
     "type": "Flashcard",
     "hindi": "I like this.",
     "transliteration": "",
-    "english": "मुझे यह पसंद है।",
-    "vietnamese": "Tôi thích cái này.",
+    "english": "Tôi thích cái này.",
+    "vietnamese": "",
     "audio": "I like this."
   },
   {
     "type": "Flashcard",
     "hindi": "Hello (highly respectful)",
     "transliteration": "",
-    "english": "नमस्ते जी",
-    "vietnamese": "Kính chào quý vị",
+    "english": "Kính chào quý vị",
+    "vietnamese": "",
     "audio": "Hello (highly respectful)"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
     "text": "To sleep",
     "subtext": "",
-    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sleep",
     "answer_vi": "Ngủ",
     "options": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बाथरूम",
-      "मुझे यह पसंद है।",
-      "नमस्ते जी"
+      "To sleep",
+      "Bathroom",
+      "I like this.",
+      "Hello (highly respectful)"
     ],
     "options_vi": [
       "Ngủ",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​​​​​​​​",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना​​​​​​​​",
-      "देखना​​​​​​​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​​​​​​​​​​​​​"
+      "To work",
+      "To see / watch",
+      "To run",
+      "To buy"
     ],
     "options_vi": [
       "Làm việc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "9",
     "transliteration": "",
-    "english": "९",
-    "vietnamese": "Chín",
+    "english": "Chín",
+    "vietnamese": "",
     "audio": "9"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "९",
-      "खरीदना​​​​​​​​​​"
+      "To open",
+      "To read",
+      "9",
+      "To buy"
     ],
     "options_vi": [
       "Mở",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Ngủ",
+    "englishSentence": "Tôi thấy Ngủ",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To sleep"
+      "To",
+      "sleep"
     ],
     "correctHindiSentence": "I see the To sleep"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बाथरूम / Tôi muốn Nhà tắm / Toilet",
+    "englishSentence": "Toilet",
     "hindiWords": [
       "I",
       "want",

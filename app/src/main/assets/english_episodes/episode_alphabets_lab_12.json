@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Share / Stock",
     "transliteration": "",
-    "english": "शेयर",
-    "vietnamese": "Cổ phiếu",
+    "english": "Cổ phiếu",
+    "vietnamese": "",
     "audio": "Share / Stock"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Share / Stock'",
     "text": "Share / Stock",
     "subtext": "",
-    "answer": "शेयर",
+    "answer": "Share / Stock",
     "answer_vi": "Cổ phiếu",
     "options": [
-      "शेयर",
-      "sिखाना​​",
-      "पूछना",
-      "चलना​​​​​​​​"
+      "Share / Stock",
+      "To teach",
+      "To ask",
+      "To walk / move"
     ],
     "options_vi": [
       "Cổ phiếu",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "सितारा",
-    "vietnamese": "Ngôi sao điện ảnh",
+    "english": "Ngôi sao điện ảnh",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To tell / explain'",
     "text": "To tell / explain",
     "subtext": "",
-    "answer": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To tell / explain",
     "answer_vi": "Kể / Giải thích",
     "options": [
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​",
-      "सितारा",
-      "समुद्र​​​​​​​​"
+      "To tell / explain",
+      "To take",
+      "Star",
+      "Sea / Ocean"
     ],
     "options_vi": [
       "Kể / Giải thích",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Are you ready?",
     "transliteration": "",
-    "english": "क्या आप तैयार हैं?",
-    "vietnamese": "Bạn đã sẵn sàng chưa?",
+    "english": "Bạn đã sẵn sàng chưa?",
+    "vietnamese": "",
     "audio": "Are you ready?"
   },
   {
     "type": "Flashcard",
     "hindi": "Henna / Mehndi",
     "transliteration": "",
-    "english": "मेहंदी",
-    "vietnamese": "Nghệ thuật vẽ Henna",
+    "english": "Nghệ thuật vẽ Henna",
+    "vietnamese": "",
     "audio": "Henna / Mehndi"
   },
   {
     "type": "Flashcard",
     "hindi": "What do you say? / What's up?",
     "transliteration": "",
-    "english": "क्या बोलता है?",
-    "vietnamese": "Bạn nói gì thế? / Thế nào?",
+    "english": "Bạn nói gì thế? / Thế nào?",
+    "vietnamese": "",
     "audio": "What do you say? / What's up?"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "क्या आप तैयार हैं?",
-      "मेहंदी",
-      "क्या बोलता है?"
+      "To stand",
+      "Are you ready?",
+      "Henna / Mehndi",
+      "What do you say? / What's up?"
     ],
     "options_vi": [
       "Đứng",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
     "text": "To see / watch",
     "subtext": "",
-    "answer": "देखना​​​​",
+    "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
     "options": [
-      "देखना​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​"
+      "To see / watch",
+      "To learn",
+      "To play",
+      "To cry"
     ],
     "options_vi": [
       "Nhìn / Xem",
@@ -355,23 +355,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a शेयर / Nó là một Cổ phiếu",
+    "englishSentence": "Nó là một Cổ phiếu",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Share / Stock"
+      "Share",
+      "/",
+      "Stock"
     ],
     "correctHindiSentence": "It is a Share / Stock"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like sिखाना​​ / Tôi thích Dạy",
+    "englishSentence": "Tôi thích Dạy",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To teach"
+      "To",
+      "teach"
     ],
     "correctHindiSentence": "I really like To teach"
   },

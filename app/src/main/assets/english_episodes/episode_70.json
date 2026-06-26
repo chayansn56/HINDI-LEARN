@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​​​​​​​​​​​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
     "type": "Flashcard",
     "hindi": "Don't worry.",
     "transliteration": "",
-    "english": "चिंता मत करो।",
-    "vietnamese": "Đừng lo lắng.",
+    "english": "Đừng lo lắng.",
+    "vietnamese": "",
     "audio": "Don't worry."
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Supply",
     "transliteration": "",
-    "english": "आपूर्ति",
-    "vietnamese": "Nguồn cung",
+    "english": "Nguồn cung",
+    "vietnamese": "",
     "audio": "Supply"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cup'",
     "text": "Cup",
     "subtext": "",
-    "answer": "प्याला​​​​​​​​​​​",
+    "answer": "Cup",
     "answer_vi": "Tách",
     "options": [
-      "प्याला​​​​​​​​​​​",
-      "चिंता मत करो।",
-      "लिखना​​​​​​​​​​​​​​​​​​​",
-      "आपूर्ति"
+      "Cup",
+      "Don't worry.",
+      "To write",
+      "Supply"
     ],
     "options_vi": [
       "Tách",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Expensive",
     "transliteration": "",
-    "english": "महँगा",
-    "vietnamese": "Đắt đỏ",
+    "english": "Đắt đỏ",
+    "vietnamese": "",
     "audio": "Expensive"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "Sheep",
     "transliteration": "",
-    "english": "भेड़",
-    "vietnamese": "Con cừu",
+    "english": "Con cừu",
+    "vietnamese": "",
     "audio": "Sheep"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "महँगा",
-      "दफ़्तर​​​​​​",
-      "भेड़"
+      "To speak",
+      "Expensive",
+      "Office",
+      "Sheep"
     ],
     "options_vi": [
       "Nói",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "Tears",
     "transliteration": "",
-    "english": "आँसू",
-    "vietnamese": "Nước mắt",
+    "english": "Nước mắt",
+    "vietnamese": "",
     "audio": "Tears"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
     "text": "To sing",
     "subtext": "",
-    "answer": "गाना​​​​​​",
+    "answer": "To sing",
     "answer_vi": "Hát",
     "options": [
-      "गाना​​​​​​",
-      "हँसना​​​​​​​​​​​​​",
-      "आँसू",
-      "लिखना​"
+      "To sing",
+      "To laugh",
+      "Tears",
+      "To write"
     ],
     "options_vi": [
       "Hát",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the प्याला​​​​​​​​​​​ / Tôi thấy Tách",
+    "englishSentence": "Tôi thấy Tách",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a चिंता मत करो। / Tôi muốn Đừng lo lắng.",
+    "englishSentence": "Tôi muốn Đừng lo lắng.",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Don't worry."
+      "Don't",
+      "worry."
     ],
     "correctHindiSentence": "I want a Don't worry."
   },

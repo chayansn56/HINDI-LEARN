@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_25",
-  "title": "Simple Past Tense",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Simple Past Tense",
-      "explanation": "We use Simple Past Tense to describe completed actions in the past."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "I ate",
-          "translation": "Tôi đã ăn",
-          "audio": "I ate"
-        },
-        {
-          "hindi": "He worked",
-          "translation": "Anh ấy đã làm việc",
-          "audio": "He worked"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'I ate' in Vietnamese?",
-      "options": [
-        "Tôi đã ngủ",
-        "Tôi đã đi",
-        "Tôi đã ăn",
-        "Anh ấy đã làm việc"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "I ate",
-          "translation": "Tôi đã ăn"
-        },
-        {
-          "hindi": "He worked",
-          "translation": "Anh ấy đã làm việc"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "We went",
-          "translation": "Chúng tôi đã đi",
-          "audio": "We went"
-        },
-        {
-          "hindi": "They slept",
-          "translation": "Họ đã ngủ",
-          "audio": "They slept"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'We went' in Vietnamese?",
-      "options": [
-        "Chúng tôi đã đi",
-        "Họ đã ngủ",
-        "Tôi đã ăn",
-        "Anh ấy đã làm việc"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "We went",
-          "translation": "Chúng tôi đã đi"
-        },
-        {
-          "hindi": "They slept",
-          "translation": "Họ đã ngủ"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "She studied",
-          "translation": "Cô ấy đã học",
-          "audio": "She studied"
-        },
-        {
-          "hindi": "You played",
-          "translation": "Bạn đã chơi",
-          "audio": "You played"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'She studied' in Vietnamese?",
-      "options": [
-        "Tôi đã ăn",
-        "Bạn đã chơi",
-        "Cô ấy đã học",
-        "Chúng tôi đã đi"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "She studied",
-          "translation": "Cô ấy đã học"
-        },
-        {
-          "hindi": "You played",
-          "translation": "Bạn đã chơi"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Simple Past Tense",
+    "explanation": "We use Simple Past Tense to describe completed actions in the past."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "I ate",
+        "translation": "Tôi đã ăn",
+        "audio": "I ate"
+      },
+      {
+        "hindi": "He worked",
+        "translation": "Anh ấy đã làm việc",
+        "audio": "He worked"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'I ate' in Vietnamese?",
+    "options": [
+      "Tôi đã ngủ",
+      "Tôi đã đi",
+      "Tôi đã ăn",
+      "Anh ấy đã làm việc"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "I ate",
+        "translation": "Tôi đã ăn"
+      },
+      {
+        "hindi": "He worked",
+        "translation": "Anh ấy đã làm việc"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "We went",
+        "translation": "Chúng tôi đã đi",
+        "audio": "We went"
+      },
+      {
+        "hindi": "They slept",
+        "translation": "Họ đã ngủ",
+        "audio": "They slept"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'We went' in Vietnamese?",
+    "options": [
+      "Chúng tôi đã đi",
+      "Họ đã ngủ",
+      "Tôi đã ăn",
+      "Anh ấy đã làm việc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "We went",
+        "translation": "Chúng tôi đã đi"
+      },
+      {
+        "hindi": "They slept",
+        "translation": "Họ đã ngủ"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "She studied",
+        "translation": "Cô ấy đã học",
+        "audio": "She studied"
+      },
+      {
+        "hindi": "You played",
+        "translation": "Bạn đã chơi",
+        "audio": "You played"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'She studied' in Vietnamese?",
+    "options": [
+      "Tôi đã ăn",
+      "Bạn đã chơi",
+      "Cô ấy đã học",
+      "Chúng tôi đã đi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "She studied",
+        "translation": "Cô ấy đã học"
+      },
+      {
+        "hindi": "You played",
+        "translation": "Bạn đã chơi"
+      }
+    ]
+  }
+]

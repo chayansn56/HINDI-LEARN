@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "सितारा",
-    "vietnamese": "Ngôi sao điện ảnh",
+    "english": "Ngôi sao điện ảnh",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
     "text": "To see / watch",
     "subtext": "",
-    "answer": "देखना",
+    "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
     "options": [
-      "देखना",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "समुद्र​",
-      "सितारा"
+      "To see / watch",
+      "To laugh",
+      "Sea / Ocean",
+      "Star"
     ],
     "options_vi": [
       "Nhìn / Xem",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "Direction",
     "transliteration": "",
-    "english": "ओर",
-    "vietnamese": "Hướng / Phía",
+    "english": "Hướng / Phía",
+    "vietnamese": "",
     "audio": "Direction"
   },
   {
     "type": "Flashcard",
     "hindi": "Path / Way",
     "transliteration": "",
-    "english": "रास्ता​​​​",
-    "vietnamese": "Đường đi",
+    "english": "Đường đi",
+    "vietnamese": "",
     "audio": "Path / Way"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sing'",
     "text": "To sing",
     "subtext": "",
-    "answer": "गाना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sing",
     "answer_vi": "Hát",
     "options": [
-      "गाना​​​​​​​​​​​​​​​​​​​​​​​",
-      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "ओर",
-      "रास्ता​​​​"
+      "To sing",
+      "To give",
+      "Direction",
+      "Path / Way"
     ],
     "options_vi": [
       "Hát",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Gold",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Vàng",
+    "english": "Vàng",
+    "vietnamese": "",
     "audio": "Gold"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
     "text": "Cloud",
     "subtext": "",
-    "answer": "बादल​​​​​​​​​",
+    "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
-      "बादल​​​​​​​​​",
-      "खेलना​​​​​​​​​​​​​​​​​​",
-      "सोना​​​​​​​​​​​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Cloud",
+      "To play",
+      "Gold",
+      "To sing"
     ],
     "options_vi": [
       "Đám mây",
@@ -300,23 +300,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the देखना / Tôi thấy Nhìn / Xem",
+    "englishSentence": "Xem",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To see / watch"
+      "To",
+      "see",
+      "/",
+      "watch"
     ],
     "correctHindiSentence": "I see the To see / watch"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Cười lớn",
+    "englishSentence": "Tôi muốn Cười lớn",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To laugh"
+      "To",
+      "laugh"
     ],
     "correctHindiSentence": "I want a To laugh"
   },

@@ -1,15 +1,88 @@
-{
-  "title": "Colors & Shapes",
-  "nodes": [
-    {"type": "TeachRule", "title": "Colors and Shapes", "rule": "Màu sắc và Hình khối."},
-    {"type": "Flashcard", "hindi": "Red", "english": "Màu đỏ", "audio": "red"},
-    {"type": "Flashcard", "hindi": "Blue", "english": "Màu xanh dương", "audio": "blue"},
-    {"type": "Flashcard", "hindi": "Green", "english": "Màu xanh lá cây", "audio": "green"},
-    {"type": "MultipleChoice", "hindi": "Red", "options": ["Màu vàng", "Màu đỏ", "Màu đen", "Màu trắng"], "answer": "Màu đỏ", "audio": "red"},
-    {"type": "Flashcard", "hindi": "Yellow", "english": "Màu vàng", "audio": "yellow"},
-    {"type": "Flashcard", "hindi": "Circle", "english": "Hình tròn", "audio": "circle"},
-    {"type": "MultipleChoice", "hindi": "Blue", "options": ["Màu xanh dương", "Màu đỏ", "Hình vuông", "Màu xanh lá cây"], "answer": "Màu xanh dương", "audio": "blue"},
-    {"type": "Flashcard", "hindi": "Square", "english": "Hình vuông", "audio": "square"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Green", "english": "Màu xanh lá cây"}, {"hindi": "Yellow", "english": "Màu vàng"}, {"hindi": "Circle", "english": "Hình tròn"}, {"hindi": "Square", "english": "Hình vuông"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Colors and Shapes",
+    "rule": "Màu sắc và Hình khối."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Red",
+    "english": "Màu đỏ",
+    "audio": "red"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Blue",
+    "english": "Màu xanh dương",
+    "audio": "blue"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Green",
+    "english": "Màu xanh lá cây",
+    "audio": "green"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Red",
+    "options": [
+      "Màu vàng",
+      "Màu đỏ",
+      "Màu đen",
+      "Màu trắng"
+    ],
+    "answer": "Màu đỏ",
+    "audio": "red"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Yellow",
+    "english": "Màu vàng",
+    "audio": "yellow"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Circle",
+    "english": "Hình tròn",
+    "audio": "circle"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Blue",
+    "options": [
+      "Màu xanh dương",
+      "Màu đỏ",
+      "Hình vuông",
+      "Màu xanh lá cây"
+    ],
+    "answer": "Màu xanh dương",
+    "audio": "blue"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Square",
+    "english": "Hình vuông",
+    "audio": "square"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Green",
+        "english": "Màu xanh lá cây"
+      },
+      {
+        "hindi": "Yellow",
+        "english": "Màu vàng"
+      },
+      {
+        "hindi": "Circle",
+        "english": "Hình tròn"
+      },
+      {
+        "hindi": "Square",
+        "english": "Hình vuông"
+      }
+    ]
+  }
+]

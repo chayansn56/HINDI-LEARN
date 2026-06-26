@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
     "text": "To take",
     "subtext": "",
-    "answer": "लेना​​​​​​​​​​​​​​",
+    "answer": "To take",
     "answer_vi": "Lấy / Nhận",
     "options": [
-      "लेना​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​",
-      "पढ़ना​​​​​​​​​​​​​​​​"
+      "To take",
+      "To read",
+      "To write",
+      "To read"
     ],
     "options_vi": [
       "Lấy / Nhận",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​​​​​​​​​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "How many",
     "transliteration": "",
-    "english": "कितने",
-    "vietnamese": "Bao nhiêu (số lượng)",
+    "english": "Bao nhiêu (số lượng)",
+    "vietnamese": "",
     "audio": "How many"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Road'",
     "text": "Road",
     "subtext": "",
-    "answer": "सड़क​​​​​​​​​",
+    "answer": "Road",
     "answer_vi": "Đường",
     "options": [
-      "सड़क​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​",
-      "बर्फ़​​​​​​​",
-      "कितने"
+      "Road",
+      "To take",
+      "Snow / Ice",
+      "How many"
     ],
     "options_vi": [
       "Đường",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To flatter / lick",
     "transliteration": "",
-    "english": "चाटना",
-    "vietnamese": "Nịnh bợ / Xu nịnh",
+    "english": "Nịnh bợ / Xu nịnh",
+    "vietnamese": "",
     "audio": "To flatter / lick"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "Villain",
     "transliteration": "",
-    "english": "विलेन",
-    "vietnamese": "Nhân vật phản diện",
+    "english": "Nhân vật phản diện",
+    "vietnamese": "",
     "audio": "Villain"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To flatter / lick'",
     "text": "To flatter / lick",
     "subtext": "",
-    "answer": "चाटना",
+    "answer": "To flatter / lick",
     "answer_vi": "Nịnh bợ / Xu nịnh",
     "options": [
-      "चाटना",
-      "गाँव​​​​​",
-      "विलेन",
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​"
+      "To flatter / lick",
+      "Village",
+      "Villain",
+      "To close"
     ],
     "options_vi": [
       "Nịnh bợ / Xu nịnh",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​​​",
-      "खरीदना​​​​​​​​​​​​​​​​​",
-      "दफ़्तर​​​​​​​​​"
+      "To speak",
+      "To buy",
+      "To buy",
+      "Office"
     ],
     "options_vi": [
       "Nói",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a लेना​​​​​​​​​​​​​​ / Nó là một Lấy / Nhận",
+    "englishSentence": "Nhận",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To take"
+      "To",
+      "take"
     ],
     "correctHindiSentence": "It is a To take"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like पढ़ना​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Đọc",
+    "englishSentence": "Tôi thích Đọc",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To read"
+      "To",
+      "read"
     ],
     "correctHindiSentence": "I really like To read"
   },

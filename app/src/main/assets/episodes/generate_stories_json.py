@@ -1,0 +1,225 @@
+import json
+
+stories = [
+    {
+        "id": "story_1",
+        "titleHi": "दीदी की चाय",
+        "titleEn": "Sister's Special Tea",
+        "titleVi": "Trà đặc biệt của chị gái",
+        "descriptionEn": "Learn household words while making masala chai.",
+        "descriptionVi": "Học từ vựng gia đình trong khi pha trà masala.",
+        "characterIcon": "🫖",
+        "imageDrawableName": "story_tea_time",
+        "paragraphs": [
+            {
+                "hindi": "दीदी रसोई में विशेष मसाला चाय बना रही हैं।",
+                "english": "ELDER SISTER Di is making special masala chai in the kitchen.",
+                "vietnamese": "Chị Di đang pha trà sữa masala đặc biệt trong bếp."
+            },
+            {
+                "hindi": "वह अदरक, इलायची और थोड़ी चीनी डालती हैं।",
+                "english": "She adds ginger, cardamom, and a little sugar.",
+                "vietnamese": "Chị ấy thêm gừng, bạch đậu khấu và một ít đường."
+            },
+            {
+                "hindi": "जीजू आते हैं और कहते हैं: मुझे भी एक cup गर्म चाय चाहिए!",
+                "english": "Jiju comes and says: I want a cup of hot tea too!",
+                "vietnamese": "Jiju đến và nói: Tôi cũng muốn một tách trà nóng!"
+            },
+            {
+                "hindi": "माँ मुस्कुराती हैं और कहती हैं: चाय तैयार है, चलो साथ में पीते हैं!",
+                "english": "Mom smiles and says: Tea is ready, let's drink together!",
+                "vietnamese": "Mẹ mỉm cười và nói: Trà đã sẵn sàng, chúng ta cùng uống nhé!"
+            }
+        ],
+        "questionEn": "What is ELDER SISTER Di making?",
+        "questionVi": "Chị Di đang pha đồ uống gì?",
+        "options": ["चाय (Tea / Trà)", "कॉफ़ी (Coffee / Cà phê)", "पानी (Water / Nước)"],
+        "correctOptionIdx": 0
+    },
+    {
+        "id": "story_2",
+        "titleHi": "माँ का खाना",
+        "titleEn": "Mom's Special Recipe",
+        "titleVi": "Công thức đặc biệt của Mẹ",
+        "descriptionEn": "Join Mom in cooking delicious Indian dishes.",
+        "descriptionVi": "Cùng mẹ nấu những món ăn Ấn Độ thơm ngon.",
+        "characterIcon": "🥘",
+        "imageDrawableName": "story_mom_cooking",
+        "paragraphs": [
+            {
+                "hindi": "माँ परिवार के लिए स्वादिष्ट खाना बना रही हैं।",
+                "english": "Mom is cooking delicious food for the family.",
+                "vietnamese": "Mẹ đang nấu những món ăn ngon cho cả gia đình."
+            },
+            {
+                "hindi": "वह गर्म रोटी, पीली दाल और पनीर की सब्ज़ी बनाती हैं।",
+                "english": "She makes hot rotis, yellow dal, and paneer sabzi.",
+                "vietnamese": "Mẹ làm bánh roti nóng, súp đậu lăng vàng và món phô mai paneer."
+            },
+            {
+                "hindi": "दीदी ताज़ी सब्ज़ियाँ काटने में माँ की मदद करती हैं।",
+                "english": "ELDER SISTER Di helps mom cut the fresh vegetables.",
+                "vietnamese": "Chị Di giúp mẹ thái rau củ tươi."
+            },
+            {
+                "hindi": "जीजू अंदर आते हैं और कहते हैं: खुशबू बहुत अच्छी है! मुझे बहुत भूख लगी है।",
+                "english": "Jiju walks in and says: The smell is amazing! I am very hungry.",
+                "vietnamese": "Jiju đi vào và nói: Mùi thơm quá! Tôi đang rất đói."
+            }
+        ],
+        "questionEn": "Who is cooking the food?",
+        "questionVi": "Ai đang nấu ăn?",
+        "options": ["जीजू (Jiju / Anh rể)", "माँ (Mom / Mẹ)", "दीदी (Didi / Chị gái)"],
+        "correctOptionIdx": 1
+    },
+    {
+        "id": "story_3",
+        "titleHi": "जीजू की यात्रा",
+        "titleEn": "The Greatman JIJU's Adventure",
+        "titleVi": "Cuộc phiêu lưu của Jiju tuyệt vời",
+        "descriptionEn": "Jiju travels to Agra to visit the Taj Mahal.",
+        "descriptionVi": "Jiju đi du lịch đến Agra để ngắm đền Taj Mahal.",
+        "characterIcon": "🚄",
+        "imageDrawableName": "story_jiju_taj",
+        "paragraphs": [
+            {
+                "hindi": "महान जीजू आज ताजमहल देखने के लिए आगरा जा रहे हैं।",
+                "english": "The greatman Jiju is traveling to Agra today to see the Taj Mahal.",
+                "vietnamese": "Jiju tuyệt vời hôm nay đang đi du lịch đến Agra để ngắm Taj Mahal."
+            },
+            {
+                "hindi": "वह दिल्ली स्टेशन से सुबह की ट्रेन में चढ़ते हैं।",
+                "english": "He boards the early morning train from Delhi station.",
+                "vietnamese": "Anh ấy lên chuyến tàu sớm vào buổi sáng từ ga Delhi."
+            },
+            {
+                "hindi": "ट्रेन में, जीजू एक स्थानीय यात्री से बात करते हैं और अपनी हिंदी का अभ्यास करते हैं।",
+                "english": "On the train, Jiju talks to a local traveler and practices his Hindi.",
+                "vietnamese": "Trên tàu, Jiju nói chuyện với một du khách địa phương và thực hành tiếng Hindi."
+            },
+            {
+                "hindi": "दीदी उन्हें फोन करके पूछती हैं: जीजू, क्या आप आगरा पहुँच गए?",
+                "english": "ELDER SISTER Di calls him to check: Jiju, did you reach Agra?",
+                "vietnamese": "Chị Di gọi điện kiểm tra: Jiju, anh đã đến Agra chưa?"
+            }
+        ],
+        "questionEn": "Where is Jiju going?",
+        "questionVi": "Jiju đang đi du lịch ở đâu?",
+        "options": ["दिल्ली (Delhi / Delhi)", "आगरा (Agra / Agra)", "मुंबई (Mumbai / Mumbai)"],
+        "correctOptionIdx": 1
+    },
+    {
+        "id": "story_4",
+        "titleHi": "पारिवारिक मिलन",
+        "titleEn": "Family Gathering",
+        "titleVi": "Quây quanh gia đình",
+        "descriptionEn": "A happy Sunday in the family living room.",
+        "descriptionVi": "Một ngày Chủ nhật hạnh phúc trong phòng khách gia đình.",
+        "characterIcon": "🏡",
+        "imageDrawableName": "story_family_sunday",
+        "paragraphs": [
+            {
+                "hindi": "आज एक सुंदर रविवार है और परिवार बैठक में इकट्ठा हुआ है।",
+                "english": "Today is a beautiful Sunday and the family is gathered in the living room.",
+                "vietnamese": "Hôm nay là một ngày Chủ nhật đẹp trời và cả gia đình đang quây quần trong phòng khách."
+            },
+            {
+                "hindi": "माँ सोफे पर बैठी हैं और हिंदी की किताब पढ़ रही हैं।",
+                "english": "Mom is sitting on the sofa and reading a Hindi book.",
+                "vietnamese": "Mẹ đang ngồi trên ghế sofa và đọc một cuốn sách tiếng Hindi."
+            },
+            {
+                "hindi": "दीदी और जीजू साथ में एक बोर्ड गेम खेल रहे हैं।",
+                "english": "ELDER SISTER Di and Jiju are playing a board game together.",
+                "vietnamese": "Chị Di và Jiju đang chơi cờ cùng nhau."
+            },
+            {
+                "hindi": "सब लोग हँस रहे हैं और खुशी की कहानियाँ साझा कर रहे हैं।",
+                "english": "Everyone is laughing and sharing happy stories.",
+                "vietnamese": "Mọi người đang cười nói vui vẻ và chia sẻ những câu chuyện hạnh phúc."
+            }
+        ],
+        "questionEn": "What day is it today?",
+        "questionVi": "Hôm nay là ngày thứ mấy?",
+        "options": ["रविवार (Sunday / Chủ nhật)", "सोमवार (Monday / Thứ hai)", "शनिवार (Saturday / Thứ bảy)"],
+        "correctOptionIdx": 0
+    },
+    {
+        "id": "story_5",
+        "titleHi": "दीदी का जन्मदिन",
+        "titleEn": "Didi's Surprise Birthday",
+        "titleVi": "Sinh nhật bất ngờ của chị Di",
+        "descriptionEn": "Help Jiju and Mom plan a surprise birthday party for Didi.",
+        "descriptionVi": "Giúp Jiju và Mẹ lên kế hoạch cho bữa tiệc sinh nhật bất ngờ của chị Di.",
+        "characterIcon": "🎂",
+        "imageDrawableName": "story_didi_birthday",
+        "paragraphs": [
+            {
+                "hindi": "दीदी का जन्मदिन है और जीजू कुछ विशेष करना चाहते हैं।",
+                "english": "It is Didi's birthday and Jiju wants to do something special.",
+                "vietnamese": "Hôm nay là sinh nhật của chị Di và Jiju muốn làm điều gì đó đặc biệt."
+            },
+            {
+                "hindi": "वह माँ के साथ मिलकर एक सुंदर केक बनाते हैं।",
+                "english": "He together with Mom bakes a beautiful cake.",
+                "vietnamese": "Anh ấy cùng với Mẹ nướng một chiếc bánh kem thật đẹp."
+            },
+            {
+                "hindi": "कमरे को गुब्बारों और रंग-बिरंगे बैनरों से सजाया जाता है।",
+                "english": "The room is decorated with balloons and colorful banners.",
+                "vietnamese": "Căn phòng được trang trí bằng bóng bay và các biểu ngữ đầy màu sắc."
+            },
+            {
+                "hindi": "जब दीदी घर आती हैं, तो सब चिल्लाते हैं: जन्मदिन मुबारक हो!",
+                "english": "When Didi comes home, everyone shouts: Happy Birthday!",
+                "vietnamese": "Khi chị Di về đến nhà, mọi người reo hò: Chúc mừng sinh nhật!"
+            }
+        ],
+        "questionEn": "What are Jiju and Mom making?",
+        "questionVi": "Jiju và Mẹ đang làm gì?",
+        "options": ["चाय (Tea / Trà)", "केक (Cake / Bánh kem)", "रोटी (Roti / Bánh mì)"],
+        "correctOptionIdx": 1
+    },
+    {
+        "id": "story_6",
+        "titleHi": "भारतीय बाज़ार",
+        "titleEn": "The Bustling Indian Market",
+        "titleVi": "Khu chợ Ấn Độ nhộn nhịp",
+        "descriptionEn": "Join the family on a trip to a vibrant Indian market.",
+        "descriptionVi": "Cùng gia đình đi dạo một khu chợ Ấn Độ nhộn nhịp.",
+        "characterIcon": "🛍️",
+        "imageDrawableName": "story_indian_market",
+        "paragraphs": [
+            {
+                "hindi": "परिवार एक बड़े और रंगीन भारतीय बाज़ार में जाता है।",
+                "english": "The family goes to a large and colorful Indian market.",
+                "vietnamese": "Gia đình đi đến một khu chợ Ấn Độ lớn và đầy màu sắc."
+            },
+            {
+                "hindi": "यहाँ बहुत सी दुकानें हैं जो कपड़े, गहने और खिलौने बेच रही हैं।",
+                "english": "There are many shops selling clothes, jewelry, and toys.",
+                "vietnamese": "Có rất nhiều cửa hàng bán quần áo, đồ trang sức và đồ chơi."
+            },
+            {
+                "hindi": "दीदी एक सुंदर लाल साड़ी देखती हैं और उसे खरीदती हैं।",
+                "english": "ELDER SISTER Di sees a beautiful red saree and buys it.",
+                "vietnamese": "Chị Di nhìn thấy một chiếc sari màu đỏ tuyệt đẹp và mua nó."
+            },
+            {
+                "hindi": "जीजू सबको जलेबी और समोसे खिलाते हैं, जो बहुत स्वादिष्ट हैं।",
+                "english": "Jiju feeds everyone jalebi and samosas, which are very tasty.",
+                "vietnamese": "Jiju đãi mọi người bánh jalebi và samosa, chúng rất ngon."
+            }
+        ],
+        "questionEn": "What did ELDER SISTER Di buy?",
+        "questionVi": "Chị Di đã mua gì?",
+        "options": ["समोसे (Samosas / Samosas)", "लाल साड़ी (Red saree / Sari màu đỏ)", "खिलौने (Toys / Đồ chơi)"],
+        "correctOptionIdx": 1
+    }
+]
+
+with open("/Users/chayansoni/.gemini/antigravity/scratch/HindiLearn/app/src/main/assets/episodes/stories.json", "w") as f:
+    json.dump(stories, f, indent=2, ensure_ascii=False)
+    
+print("Generated all 6 stories!")

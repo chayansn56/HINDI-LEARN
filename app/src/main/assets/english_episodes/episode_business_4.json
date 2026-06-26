@@ -1,20 +1,102 @@
-{
-  "title": "Sales Pitches",
-  "nodes": [
-    {"type": "Flashcard", "hindi": "Target audience", "english": "Khách hàng mục tiêu", "audio": "Target audience"},
-    {"type": "Flashcard", "hindi": "Benefit", "english": "Lợi ích", "audio": "Benefit"},
-    {"type": "Flashcard", "hindi": "Feature", "english": "Tính năng", "audio": "Feature"},
-    {"type": "Flashcard", "hindi": "Presentation", "english": "Bài thuyết trình", "audio": "Presentation"},
-    {"type": "MultipleChoice", "hindi": "This product saves you time.", "english": "Sản phẩm này giúp bạn tiết kiệm thời gian.", "audio": "This product saves you time.", "options": ["Sản phẩm này giúp bạn tiết kiệm thời gian.", "Sản phẩm này rất đắt.", "Nó rất khó sử dụng.", "Nó không phổ biến."], "answer": "Sản phẩm này giúp bạn tiết kiệm thời gian."},
-    {"type": "MultipleChoice", "hindi": "What sets us apart from competitors?", "english": "Điều gì làm chúng tôi khác biệt so với các đối thủ?", "audio": "What sets us apart from competitors?", "options": ["Điều gì làm chúng tôi khác biệt so với các đối thủ?", "Tại sao bạn không thích nó?", "Sản phẩm của chúng tôi rẻ nhất.", "Chúng tôi không có đối thủ."], "answer": "Điều gì làm chúng tôi khác biệt so với các đối thủ?"},
-    {"type": "MatchPairs", "pairs": [
-      {"hindi": "Demonstrate", "english": "Trình diễn / Chứng minh", "audio": "Demonstrate"},
-      {"hindi": "Convince", "english": "Thuyết phục", "audio": "Convince"},
-      {"hindi": "Invest", "english": "Đầu tư", "audio": "Invest"},
-      {"hindi": "Profit", "english": "Lợi nhuận", "audio": "Profit"}
-    ]},
-    {"type": "Flashcard", "hindi": "Solution", "english": "Giải pháp", "audio": "Solution"},
-    {"type": "Flashcard", "hindi": "Guarantee", "english": "Đảm bảo / Bảo hành", "audio": "Guarantee"},
-    {"type": "MultipleChoice", "hindi": "Are you ready to make a purchase?", "english": "Bạn đã sẵn sàng mua hàng chưa?", "audio": "Are you ready to make a purchase?", "options": ["Bạn đã sẵn sàng mua hàng chưa?", "Bạn cần suy nghĩ thêm?", "Bạn muốn xem sản phẩm khác?", "Cảm ơn bạn đã lắng nghe."], "answer": "Bạn đã sẵn sàng mua hàng chưa?"}
-  ]
-}
+[
+  {
+    "type": "Flashcard",
+    "hindi": "Target audience",
+    "english": "Khách hàng mục tiêu",
+    "audio": "Target audience"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Benefit",
+    "english": "Lợi ích",
+    "audio": "Benefit"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Feature",
+    "english": "Tính năng",
+    "audio": "Feature"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Presentation",
+    "english": "Bài thuyết trình",
+    "audio": "Presentation"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "This product saves you time.",
+    "english": "Sản phẩm này giúp bạn tiết kiệm thời gian.",
+    "audio": "This product saves you time.",
+    "options": [
+      "Sản phẩm này giúp bạn tiết kiệm thời gian.",
+      "Sản phẩm này rất đắt.",
+      "Nó rất khó sử dụng.",
+      "Nó không phổ biến."
+    ],
+    "answer": "Sản phẩm này giúp bạn tiết kiệm thời gian."
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "What sets us apart from competitors?",
+    "english": "Điều gì làm chúng tôi khác biệt so với các đối thủ?",
+    "audio": "What sets us apart from competitors?",
+    "options": [
+      "Điều gì làm chúng tôi khác biệt so với các đối thủ?",
+      "Tại sao bạn không thích nó?",
+      "Sản phẩm của chúng tôi rẻ nhất.",
+      "Chúng tôi không có đối thủ."
+    ],
+    "answer": "Điều gì làm chúng tôi khác biệt so với các đối thủ?"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Demonstrate",
+        "english": "Trình diễn / Chứng minh",
+        "audio": "Demonstrate"
+      },
+      {
+        "hindi": "Convince",
+        "english": "Thuyết phục",
+        "audio": "Convince"
+      },
+      {
+        "hindi": "Invest",
+        "english": "Đầu tư",
+        "audio": "Invest"
+      },
+      {
+        "hindi": "Profit",
+        "english": "Lợi nhuận",
+        "audio": "Profit"
+      }
+    ]
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Solution",
+    "english": "Giải pháp",
+    "audio": "Solution"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Guarantee",
+    "english": "Đảm bảo / Bảo hành",
+    "audio": "Guarantee"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Are you ready to make a purchase?",
+    "english": "Bạn đã sẵn sàng mua hàng chưa?",
+    "audio": "Are you ready to make a purchase?",
+    "options": [
+      "Bạn đã sẵn sàng mua hàng chưa?",
+      "Bạn cần suy nghĩ thêm?",
+      "Bạn muốn xem sản phẩm khác?",
+      "Cảm ơn bạn đã lắng nghe."
+    ],
+    "answer": "Bạn đã sẵn sàng mua hàng chưa?"
+  }
+]

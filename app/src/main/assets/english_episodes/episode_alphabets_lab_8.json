@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "Country",
     "transliteration": "",
-    "english": "देश​",
-    "vietnamese": "Đất nước",
+    "english": "Đất nước",
+    "vietnamese": "",
     "audio": "Country"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To close'",
     "text": "To close",
     "subtext": "",
-    "answer": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To close",
     "answer_vi": "Đóng",
     "options": [
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​",
-      "देश​"
+      "To close",
+      "To learn",
+      "To learn",
+      "Country"
     ],
     "options_vi": [
       "Đóng",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Beloved / Darling",
     "transliteration": "",
-    "english": "सनम",
-    "vietnamese": "Người thương",
+    "english": "Người thương",
+    "vietnamese": "",
     "audio": "Beloved / Darling"
   },
   {
     "type": "Flashcard",
     "hindi": "No doubt.",
     "transliteration": "",
-    "english": "कोई शक नहीं।",
-    "vietnamese": "Không còn nghi ngờ gì nữa.",
+    "english": "Không còn nghi ngờ gì nữa.",
+    "vietnamese": "",
     "audio": "No doubt."
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Beloved / Darling'",
     "text": "Beloved / Darling",
     "subtext": "",
-    "answer": "सनम",
+    "answer": "Beloved / Darling",
     "answer_vi": "Người thương",
     "options": [
-      "सनम",
-      "कोई शक नहीं।",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​"
+      "Beloved / Darling",
+      "No doubt.",
+      "To stand",
+      "To write"
     ],
     "options_vi": [
       "Người thương",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​",
-      "सीखना​​​​​​​",
-      "गाँव​​​​​",
-      "खरीदना​​​​​​​​​​​​​​"
+      "To listen / hear",
+      "To learn",
+      "Village",
+      "To buy"
     ],
     "options_vi": [
       "Nghe",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "Crazy (in love - fem)",
     "transliteration": "",
-    "english": "दीवानी",
-    "vietnamese": "Kẻ điên tình (nữ)",
+    "english": "Kẻ điên tình (nữ)",
+    "vietnamese": "",
     "audio": "Crazy (in love - fem)"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​​​​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
     "text": "Lock",
     "subtext": "",
-    "answer": "ताला​​​​",
+    "answer": "Lock",
     "answer_vi": "Ổ khóa",
     "options": [
-      "ताला​​​​",
-      "दीवानी",
-      "दफ़्तर​​​​",
-      "प्याला​​​​"
+      "Lock",
+      "Crazy (in love - fem)",
+      "Office",
+      "Cup"
     ],
     "options_vi": [
       "Ổ khóa",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बंद करना​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Đóng",
+    "englishSentence": "Nó là một Đóng",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To close"
+      "To",
+      "close"
     ],
     "correctHindiSentence": "It is a To close"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सीखना​​​​​​​​​​​​​​​ / Tôi thích Học",
+    "englishSentence": "Tôi thích Học",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To learn"
+      "To",
+      "learn"
     ],
     "correctHindiSentence": "I really like To learn"
   },

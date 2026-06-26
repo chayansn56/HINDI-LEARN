@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "to think",
     "transliteration": "",
-    "english": "सोचना",
-    "vietnamese": "Suy nghĩ",
+    "english": "Suy nghĩ",
+    "vietnamese": "",
     "audio": "to think"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to think'",
     "text": "to think",
     "subtext": "",
-    "answer": "सोचना",
+    "answer": "to think",
     "answer_vi": "Suy nghĩ",
     "options": [
-      "सोचना",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​"
+      "to think",
+      "To read",
+      "To read",
+      "To read"
     ],
     "options_vi": [
       "Suy nghĩ",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "Are you ready?",
     "transliteration": "",
-    "english": "क्या आप तैयार हैं?",
-    "vietnamese": "Bạn đã sẵn sàng chưa?",
+    "english": "Bạn đã sẵn sàng chưa?",
+    "vietnamese": "",
     "audio": "Are you ready?"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Pen'",
     "text": "Pen",
     "subtext": "",
-    "answer": "पेन​​​​​​​",
+    "answer": "Pen",
     "answer_vi": "Bút",
     "options": [
-      "पेन​​​​​​​",
-      "क्या आप तैयार हैं?",
-      "खोलना​​​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Pen",
+      "Are you ready?",
+      "To open",
+      "To write"
     ],
     "options_vi": [
       "Bút",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Word",
     "transliteration": "",
-    "english": "शब्द",
-    "vietnamese": "Từ ngữ",
+    "english": "Từ ngữ",
+    "vietnamese": "",
     "audio": "Word"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​",
-      "शब्द",
-      "पेन​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To write",
+      "Word",
+      "Pen",
+      "To open"
     ],
     "options_vi": [
       "Viết",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Letter (mail)",
     "transliteration": "",
-    "english": "पत्र",
-    "vietnamese": "Thư tay",
+    "english": "Thư tay",
+    "vietnamese": "",
     "audio": "Letter (mail)"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​​​​​​​​​​​​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​​​​​​​​​​​​",
-      "कापी​​​​​​​​​",
-      "लिखना​​​​​​​​​​",
-      "पत्र"
+      "To open",
+      "Notebook",
+      "To write",
+      "Letter (mail)"
     ],
     "options_vi": [
       "Mở",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सोचना / Nó là một Suy nghĩ",
+    "englishSentence": "Nó là một Suy nghĩ",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "to think"
+      "to",
+      "think"
     ],
     "correctHindiSentence": "It is a to think"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Đọc",
+    "englishSentence": "Tôi thích Đọc",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To read"
+      "To",
+      "read"
     ],
     "correctHindiSentence": "I really like To read"
   },

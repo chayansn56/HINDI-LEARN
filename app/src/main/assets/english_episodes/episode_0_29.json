@@ -1,91 +1,86 @@
-{
-  "id": "episode_0_29",
-  "title": "Modal Verbs",
-  "description": "Learn to use can, could, should, and must.",
-  "nodes": [
-    {
-      "id": "n1",
-      "type": "TeachRule",
-      "content": "Modal verbs add meaning like ability, obligation, or advice. 'can' = có thể, 'must' = phải, 'should' = nên."
-    },
-    {
-      "id": "n2",
-      "type": "Flashcard",
-      "hindi": "I can swim",
-      "english": "Tôi có thể bơi",
-      "audio": "I can swim"
-    },
-    {
-      "id": "n3",
-      "type": "Flashcard",
-      "hindi": "You should go",
-      "english": "Bạn nên đi",
-      "audio": "You should go"
-    },
-    {
-      "id": "n4",
-      "type": "Flashcard",
-      "hindi": "We must study",
-      "english": "Chúng ta phải học",
-      "audio": "We must study"
-    },
-    {
-      "id": "n5",
-      "type": "MultipleChoice",
-      "hindi": "She can help",
-      "english": "Cô ấy có thể giúp",
-      "options": [
-        "Cô ấy có thể giúp",
-        "Cô ấy phải giúp",
-        "Cô ấy nên giúp"
-      ],
-      "audio": "She can help"
-    },
-    {
-      "id": "n6",
-      "type": "MultipleChoice",
-      "hindi": "He should sleep",
-      "english": "Anh ấy nên ngủ",
-      "options": [
-        "Anh ấy nên ngủ",
-        "Anh ấy có thể ngủ",
-        "Anh ấy phải ngủ"
-      ],
-      "audio": "He should sleep"
-    },
-    {
-      "id": "n7",
-      "type": "MatchPairs",
-      "pairs": {
-        "I can swim": "Tôi có thể bơi",
-        "You should go": "Bạn nên đi",
-        "We must study": "Chúng ta phải học",
-        "They can win": "Họ có thể thắng"
-      }
-    },
-    {
-      "id": "n8",
-      "type": "TeachRule",
-      "content": "'Could' is used for past ability or polite requests. Example: Could you help me? (Bạn có thể giúp tôi không?)"
-    },
-    {
-      "id": "n9",
-      "type": "Flashcard",
-      "hindi": "Could you help me?",
-      "english": "Bạn có thể giúp tôi không?",
-      "audio": "Could you help me?"
-    },
-    {
-      "id": "n10",
-      "type": "MultipleChoice",
-      "hindi": "I could swim",
-      "english": "Tôi đã có thể bơi",
-      "options": [
-        "Tôi đã có thể bơi",
-        "Tôi có thể bơi",
-        "Tôi sẽ bơi"
-      ],
-      "audio": "I could swim"
+[
+  {
+    "id": "n1",
+    "type": "TeachRule",
+    "content": "Modal verbs add meaning like ability, obligation, or advice. 'can' = có thể, 'must' = phải, 'should' = nên."
+  },
+  {
+    "id": "n2",
+    "type": "Flashcard",
+    "hindi": "I can swim",
+    "english": "Tôi có thể bơi",
+    "audio": "I can swim"
+  },
+  {
+    "id": "n3",
+    "type": "Flashcard",
+    "hindi": "You should go",
+    "english": "Bạn nên đi",
+    "audio": "You should go"
+  },
+  {
+    "id": "n4",
+    "type": "Flashcard",
+    "hindi": "We must study",
+    "english": "Chúng ta phải học",
+    "audio": "We must study"
+  },
+  {
+    "id": "n5",
+    "type": "MultipleChoice",
+    "hindi": "She can help",
+    "english": "Cô ấy có thể giúp",
+    "options": [
+      "Cô ấy có thể giúp",
+      "Cô ấy phải giúp",
+      "Cô ấy nên giúp"
+    ],
+    "audio": "She can help"
+  },
+  {
+    "id": "n6",
+    "type": "MultipleChoice",
+    "hindi": "He should sleep",
+    "english": "Anh ấy nên ngủ",
+    "options": [
+      "Anh ấy nên ngủ",
+      "Anh ấy có thể ngủ",
+      "Anh ấy phải ngủ"
+    ],
+    "audio": "He should sleep"
+  },
+  {
+    "id": "n7",
+    "type": "MatchPairs",
+    "pairs": {
+      "I can swim": "Tôi có thể bơi",
+      "You should go": "Bạn nên đi",
+      "We must study": "Chúng ta phải học",
+      "They can win": "Họ có thể thắng"
     }
-  ]
-}
+  },
+  {
+    "id": "n8",
+    "type": "TeachRule",
+    "content": "'Could' is used for past ability or polite requests. Example: Could you help me? (Bạn có thể giúp tôi không?)"
+  },
+  {
+    "id": "n9",
+    "type": "Flashcard",
+    "hindi": "Could you help me?",
+    "english": "Bạn có thể giúp tôi không?",
+    "audio": "Could you help me?"
+  },
+  {
+    "id": "n10",
+    "type": "MultipleChoice",
+    "hindi": "I could swim",
+    "english": "Tôi đã có thể bơi",
+    "options": [
+      "Tôi đã có thể bơi",
+      "Tôi có thể bơi",
+      "Tôi sẽ bơi"
+    ],
+    "audio": "I could swim"
+  }
+]

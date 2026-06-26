@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Yes, I am sure.",
     "transliteration": "",
-    "english": "हाँ, मुझे यकीन है।",
-    "vietnamese": "Vâng, tôi chắc chắn.",
+    "english": "Vâng, tôi chắc chắn.",
+    "vietnamese": "",
     "audio": "Yes, I am sure."
   },
   {
     "type": "Flashcard",
     "hindi": "Whom (relative singular)",
     "transliteration": "",
-    "english": "जिसे",
-    "vietnamese": "Người mà (số ít)",
+    "english": "Người mà (số ít)",
+    "vietnamese": "",
     "audio": "Whom (relative singular)"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes (respectful)",
     "transliteration": "",
-    "english": "जी हाँ",
-    "vietnamese": "Vâng (Lịch sự)",
+    "english": "Vâng (Lịch sự)",
+    "vietnamese": "",
     "audio": "Yes (respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "दोस्त",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Yes, I am sure.'",
     "text": "Yes, I am sure.",
     "subtext": "",
-    "answer": "हाँ, मुझे यकीन है।",
+    "answer": "Yes, I am sure.",
     "answer_vi": "Vâng, tôi chắc chắn.",
     "options": [
-      "हाँ, मुझे यकीन है।",
-      "जिसे",
-      "जी हाँ",
-      "दोस्त"
+      "Yes, I am sure.",
+      "Whom (relative singular)",
+      "Yes (respectful)",
+      "Friend"
     ],
     "options_vi": [
       "Vâng, tôi chắc chắn.",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Yesterday / Tomorrow",
     "transliteration": "",
-    "english": "कल",
-    "vietnamese": "Hôm qua / Ngày mai",
+    "english": "Hôm qua / Ngày mai",
+    "vietnamese": "",
     "audio": "Yesterday / Tomorrow"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Reverent hello to Grandma",
     "transliteration": "",
-    "english": "प्रणाम दादी जी",
-    "vietnamese": "Kính chào bà nội kính yêu",
+    "english": "Kính chào bà nội kính yêu",
+    "vietnamese": "",
     "audio": "Reverent hello to Grandma"
   },
   {
     "type": "Flashcard",
     "hindi": "Just then / That is why",
     "transliteration": "",
-    "english": "तभी",
-    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "english": "Ngay lúc đó / Chính vì vậy",
+    "vietnamese": "",
     "audio": "Just then / That is why"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Yesterday / Tomorrow'",
     "text": "Yesterday / Tomorrow",
     "subtext": "",
-    "answer": "कल",
+    "answer": "Yesterday / Tomorrow",
     "answer_vi": "Hôm qua / Ngày mai",
     "options": [
-      "कल",
-      "बर्फ़​​​​​",
-      "प्रणाम दादी जी",
-      "तभी"
+      "Yesterday / Tomorrow",
+      "Snow / Ice",
+      "Reverent hello to Grandma",
+      "Just then / That is why"
     ],
     "options_vi": [
       "Hôm qua / Ngày mai",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "When",
     "transliteration": "",
-    "english": "कब",
-    "vietnamese": "Khi nào",
+    "english": "Khi nào",
+    "vietnamese": "",
     "audio": "When"
   },
   {
     "type": "Flashcard",
     "hindi": "How are you? (Formal)",
     "transliteration": "",
-    "english": "आप कैसे हैं?",
-    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "english": "Bạn khỏe không? (Lịch sự)",
+    "vietnamese": "",
     "audio": "How are you? (Formal)"
   },
   {
     "type": "Flashcard",
     "hindi": "Afternoon",
     "transliteration": "",
-    "english": "दोपहर",
-    "vietnamese": "Buổi trưa",
+    "english": "Buổi trưa",
+    "vietnamese": "",
     "audio": "Afternoon"
   },
   {
     "type": "Flashcard",
     "hindi": "No (respectful)",
     "transliteration": "",
-    "english": "जी नहीं",
-    "vietnamese": "Không (Lịch sự)",
+    "english": "Không (Lịch sự)",
+    "vietnamese": "",
     "audio": "No (respectful)"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'When'",
     "text": "When",
     "subtext": "",
-    "answer": "कब",
+    "answer": "When",
     "answer_vi": "Khi nào",
     "options": [
-      "कब",
-      "आप कैसे हैं?",
-      "दोपहर",
-      "जी नहीं"
+      "When",
+      "How are you? (Formal)",
+      "Afternoon",
+      "No (respectful)"
     ],
     "options_vi": [
       "Khi nào",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Name",
     "transliteration": "",
-    "english": "नाम",
-    "vietnamese": "Tên",
+    "english": "Tên",
+    "vietnamese": "",
     "audio": "Name"
   },
   {
     "type": "Flashcard",
     "hindi": "How sad!",
     "transliteration": "",
-    "english": "कितना दुखद है!",
-    "vietnamese": "Thật là buồn!",
+    "english": "Thật là buồn!",
+    "vietnamese": "",
     "audio": "How sad!"
   },
   {
     "type": "Flashcard",
     "hindi": "Hello, how are you?",
     "transliteration": "",
-    "english": "नमस्ते, आप कैसे हैं?",
-    "vietnamese": "Xin chào, bạn khỏe không?",
+    "english": "Xin chào, bạn khỏe không?",
+    "vietnamese": "",
     "audio": "Hello, how are you?"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -298,18 +298,18 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Name'",
     "text": "Name",
     "subtext": "",
-    "answer": "नाम",
+    "answer": "Name",
     "answer_vi": "Tên",
     "options": [
-      "नाम",
-      "कितना दुखद है!",
-      "नमस्ते, आप कैसे हैं?",
-      "कापी"
+      "Name",
+      "How sad!",
+      "How are you? (Formal)",
+      "Notebook"
     ],
     "options_vi": [
       "Tên",
       "Thật là buồn!",
-      "Xin chào, bạn khỏe không?",
+      "Bạn khỏe không? (Lịch sự)",
       "Sổ tay"
     ]
   },
@@ -355,23 +355,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a हाँ, मुझे यकीन है। / Nó là một Vâng, tôi chắc chắn.",
+    "englishSentence": "Nó là một Vâng, tôi chắc chắn.",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Yes, I am sure."
+      "Yes,",
+      "I",
+      "am",
+      "sure."
     ],
     "correctHindiSentence": "It is a Yes, I am sure."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like जिसे / Tôi thích Người mà (số ít)",
+    "englishSentence": "Tôi thích Người mà (số ít)",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Whom (relative singular)"
+      "Whom",
+      "(relative",
+      "singular)"
     ],
     "correctHindiSentence": "I really like Whom (relative singular)"
   },

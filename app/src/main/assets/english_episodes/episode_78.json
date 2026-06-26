@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Monday",
     "transliteration": "",
-    "english": "सोमवार",
-    "vietnamese": "Thứ hai",
+    "english": "Thứ hai",
+    "vietnamese": "",
     "audio": "Monday"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Expensive",
     "transliteration": "",
-    "english": "महँगा",
-    "vietnamese": "Đắt đỏ",
+    "english": "Đắt đỏ",
+    "vietnamese": "",
     "audio": "Expensive"
   },
   {
     "type": "Flashcard",
     "hindi": "against",
     "transliteration": "",
-    "english": "के विरुद्ध",
-    "vietnamese": "Chống lại / Phản đối",
+    "english": "Chống lại / Phản đối",
+    "vietnamese": "",
     "audio": "against"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Monday'",
     "text": "Monday",
     "subtext": "",
-    "answer": "सोमवार",
+    "answer": "Monday",
     "answer_vi": "Thứ hai",
     "options": [
-      "सोमवार",
-      "सुनना​​​​​​​​​​​​​​​​​",
-      "महँगा",
-      "के विरुद्ध"
+      "Monday",
+      "To listen / hear",
+      "Expensive",
+      "against"
     ],
     "options_vi": [
       "Thứ hai",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "How much is it?",
     "transliteration": "",
-    "english": "कितना हुआ?",
-    "vietnamese": "Bao nhiêu tiền?",
+    "english": "Bao nhiêu tiền?",
+    "vietnamese": "",
     "audio": "How much is it?"
   },
   {
     "type": "Flashcard",
     "hindi": "Flatbread",
     "transliteration": "",
-    "english": "रोटी",
-    "vietnamese": "Bánh mì dẹt",
+    "english": "Bánh mì dẹt",
+    "vietnamese": "",
     "audio": "Flatbread"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "कितना हुआ?",
-      "रोटी",
-      "देना​​​​​​​​​​​​​​​"
+      "To write",
+      "How much is it?",
+      "Flatbread",
+      "To give"
     ],
     "options_vi": [
       "Viết",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To you / You (formal)",
     "transliteration": "",
-    "english": "आपको",
-    "vietnamese": "Cho ngài / Bạn",
+    "english": "Cho ngài / Bạn",
+    "vietnamese": "",
     "audio": "To you / You (formal)"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To you / You (formal)'",
     "text": "To you / You (formal)",
     "subtext": "",
-    "answer": "आपको",
+    "answer": "To you / You (formal)",
     "answer_vi": "Cho ngài / Bạn",
     "options": [
-      "आपको",
-      "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देना​"
+      "To you / You (formal)",
+      "To sing",
+      "To listen / hear",
+      "To give"
     ],
     "options_vi": [
       "Cho ngài / Bạn",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the सोमवार / Tôi thấy Thứ hai",
+    "englishSentence": "Tôi thấy Thứ hai",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,15 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सुनना​​​​​​​​​​​​​​​​​ / Tôi muốn Nghe",
+    "englishSentence": "Tôi muốn Nghe",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "I want a To listen / hear"
   },

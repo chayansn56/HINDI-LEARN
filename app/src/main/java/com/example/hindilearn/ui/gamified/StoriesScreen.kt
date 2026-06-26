@@ -71,236 +71,82 @@ fun StoriesScreen(
     var tts by remember { mutableStateOf<TextToSpeech?>(null) }
     
     DisposableEffect(context) {
-        val textToSpeech = TextToSpeech(context) { status ->
+        var textToSpeech: TextToSpeech? = null
+        textToSpeech = TextToSpeech(context) { status ->
             if (status == TextToSpeech.SUCCESS) {
-                tts?.language = Locale.forLanguageTag("hi-IN")
+                val ttsLocale = if (UserManager.progress.selectedCourse == "ENGLISH")
+                    Locale.forLanguageTag("en-US")
+                else
+                    Locale.forLanguageTag("hi-IN")
+                textToSpeech?.language = ttsLocale
             }
         }
         tts = textToSpeech
         onDispose {
-            textToSpeech.stop()
-            textToSpeech.shutdown()
+            textToSpeech?.stop()
+            textToSpeech?.shutdown()
         }
     }
 
-    val stories = listOf(
-        Story(
-            id = "story_1",
-            titleHi = "दीदी की चाय",
-            titleEn = "ELDER SISTER Di's Tea Time",
-            titleVi = "Giờ uống trà của chị Di",
-            descriptionEn = "Learn kitchen vocabulary with ELDER SISTER Di and Jiju.",
-            descriptionVi = "Học từ vựng nhà bếp cùng chị Di và anh rể Jiju.",
-            characterIcon = "☕",
-            imageDrawableName = "story_tea_time",
-            paragraphs = listOf(
-                StoryParagraph(
-                    "दीदी रसोई में विशेष मसाला चाय बना रही हैं।",
-                    "ELDER SISTER Di is making special masala chai in the kitchen.",
-                    "Chị Di đang pha trà sữa masala đặc biệt trong bếp."
-                ),
-                StoryParagraph(
-                    "वह अदरक, इलायची और थोड़ी चीनी डालती हैं।",
-                    "She adds ginger, cardamom, and a little sugar.",
-                    "Chị ấy thêm gừng, bạch đậu khấu và một ít đường."
-                ),
-                StoryParagraph(
-                    "जीजू आते हैं और कहते हैं: मुझे भी एक cup गर्म चाय चाहिए!",
-                    "Jiju comes and says: I want a cup of hot tea too!",
-                    "Jiju đến và nói: Tôi cũng muốn một tách trà nóng!"
-                ),
-                StoryParagraph(
-                    "माँ मुस्कुराती हैं और कहती हैं: चाय तैयार है, चलो साथ में पीते हैं!",
-                    "Mom smiles and says: Tea is ready, let's drink together!",
-                    "Mẹ mỉm cười và nói: Trà đã sẵn sàng, chúng ta cùng uống nhé!"
+    var stories = remember { androidx.compose.runtime.mutableStateListOf<Story>() }
+    
+    androidx.compose.runtime.LaunchedEffect(Unit) {
+        try {
+            val inputStream = context.assets.open("episodes/stories.json")
+            val size = inputStream.available()
+            val buffer = ByteArray(size)
+            inputStream.read(buffer)
+            inputStream.close()
+            val jsonString = String(buffer, Charsets.UTF_8)
+            val jsonArray = org.json.JSONArray(jsonString)
+            
+            val parsedStories = mutableListOf<Story>()
+            for (i in 0 until jsonArray.length()) {
+                val obj = jsonArray.getJSONObject(i)
+                
+                val paragraphsArray = obj.getJSONArray("paragraphs")
+                val paragraphs = mutableListOf<StoryParagraph>()
+                for (j in 0 until paragraphsArray.length()) {
+                    val pObj = paragraphsArray.getJSONObject(j)
+                    paragraphs.add(
+                        StoryParagraph(
+                            hindi = pObj.getString("hindi"),
+                            english = pObj.getString("english"),
+                            vietnamese = pObj.getString("vietnamese")
+                        )
+                    )
+                }
+                
+                val optionsArray = obj.getJSONArray("options")
+                val options = mutableListOf<String>()
+                for (j in 0 until optionsArray.length()) {
+                    options.add(optionsArray.getString(j))
+                }
+                
+                parsedStories.add(
+                    Story(
+                        id = obj.getString("id"),
+                        titleHi = obj.getString("titleHi"),
+                        titleEn = obj.getString("titleEn"),
+                        titleVi = obj.getString("titleVi"),
+                        descriptionEn = obj.getString("descriptionEn"),
+                        descriptionVi = obj.getString("descriptionVi"),
+                        characterIcon = obj.getString("characterIcon"),
+                        imageDrawableName = obj.getString("imageDrawableName"),
+                        paragraphs = paragraphs,
+                        questionEn = obj.getString("questionEn"),
+                        questionVi = obj.getString("questionVi"),
+                        options = options,
+                        correctOptionIdx = obj.getInt("correctOptionIdx")
+                    )
                 )
-            ),
-            questionEn = "What is ELDER SISTER Di making?",
-            questionVi = "Chị Di đang pha đồ uống gì?",
-            options = listOf("चाय (Tea / Trà)", "कॉफ़ी (Coffee / Cà phê)", "पानी (Water / Nước)"),
-            correctOptionIdx = 0
-        ),
-        Story(
-            id = "story_2",
-            titleHi = "माँ का खाना",
-            titleEn = "Mom's Special Recipe",
-            titleVi = "Công thức đặc biệt của Mẹ",
-            descriptionEn = "Join Mom in cooking delicious Indian dishes.",
-            descriptionVi = "Cùng mẹ nấu những món ăn Ấn Độ thơm ngon.",
-            characterIcon = "🥘",
-            imageDrawableName = "story_mom_cooking",
-            paragraphs = listOf(
-                StoryParagraph(
-                    "माँ परिवार के लिए स्वादिष्ट खाना बना रही हैं।",
-                    "Mom is cooking delicious food for the family.",
-                    "Mẹ đang nấu những món ăn ngon cho cả gia đình."
-                ),
-                StoryParagraph(
-                    "वह गर्म रोटी, पीली दाल और पनीर की सब्ज़ी बनाती हैं।",
-                    "She makes hot rotis, yellow dal, and paneer sabzi.",
-                    "Mẹ làm bánh roti nóng, súp đậu lăng vàng và món phô mai paneer."
-                ),
-                StoryParagraph(
-                    "दीदी ताज़ी सब्ज़ियाँ काटने में माँ की मदद करती हैं।",
-                    "ELDER SISTER Di helps mom cut the fresh vegetables.",
-                    "Chị Di giúp mẹ thái rau củ tươi."
-                ),
-                StoryParagraph(
-                    "जीजू अंदर आते हैं और कहते हैं: खुशबू बहुत अच्छी है! मुझे बहुत भूख लगी है।",
-                    "Jiju walks in and says: The smell is amazing! I am very hungry.",
-                    "Jiju đi vào và nói: Mùi thơm quá! Tôi đang rất đói."
-                )
-            ),
-            questionEn = "Who is cooking the food?",
-            questionVi = "Ai đang nấu ăn?",
-            options = listOf("जीजू (Jiju / Anh rể)", "माँ (Mom / Mẹ)", "दीदी (Didi / Chị gái)"),
-            correctOptionIdx = 1
-        ),
-        Story(
-            id = "story_3",
-            titleHi = "जीजू की यात्रा",
-            titleEn = "The Greatman JIJU's Adventure",
-            titleVi = "Cuộc phiêu lưu của Jiju tuyệt vời",
-            descriptionEn = "Jiju travels to Agra to visit the Taj Mahal.",
-            descriptionVi = "Jiju đi du lịch đến Agra để ngắm đền Taj Mahal.",
-            characterIcon = "🚄",
-            imageDrawableName = "story_jiju_taj",
-            paragraphs = listOf(
-                StoryParagraph(
-                    "महान जीजू आज ताजमहल देखने के लिए आगरा जा रहे हैं।",
-                    "The greatman Jiju is traveling to Agra today to see the Taj Mahal.",
-                    "Jiju tuyệt vời hôm nay đang đi du lịch đến Agra để ngắm Taj Mahal."
-                ),
-                StoryParagraph(
-                    "वह दिल्ली स्टेशन से सुबह की ट्रेन में चढ़ते हैं।",
-                    "He boards the early morning train from Delhi station.",
-                    "Anh ấy lên chuyến tàu sớm vào buổi sáng từ ga Delhi."
-                ),
-                StoryParagraph(
-                    "ट्रेन में, जीजू एक स्थानीय यात्री से बात करते हैं और अपनी हिंदी का अभ्यास करते हैं।",
-                    "On the train, Jiju talks to a local traveler and practices his Hindi.",
-                    "Trên tàu, Jiju nói chuyện với một du khách địa phương và thực hành tiếng Hindi."
-                ),
-                StoryParagraph(
-                    "दीदी उन्हें फोन करके पूछती हैं: जीजू, क्या आप आगरा पहुँच गए?",
-                    "ELDER SISTER Di calls him to check: Jiju, did you reach Agra?",
-                    "Chị Di gọi điện kiểm tra: Jiju, anh đã đến Agra chưa?"
-                )
-            ),
-            questionEn = "Where is Jiju going?",
-            questionVi = "Jiju đang đi du lịch ở đâu?",
-            options = listOf("दिल्ली (Delhi / Delhi)", "आगरा (Agra / Agra)", "मुंबई (Mumbai / Mumbai)"),
-            correctOptionIdx = 1
-        ),
-        Story(
-            id = "story_4",
-            titleHi = "पारिवारिक मिलन",
-            titleEn = "Family Gathering",
-            titleVi = "Quây quanh gia đình",
-            descriptionEn = "A happy Sunday in the family living room.",
-            descriptionVi = "Một ngày Chủ nhật hạnh phúc trong phòng khách gia đình.",
-            characterIcon = "🏡",
-            imageDrawableName = "story_family_sunday",
-            paragraphs = listOf(
-                StoryParagraph(
-                    "आज एक सुंदर रविवार है और परिवार बैठक में इकट्ठा हुआ है।",
-                    "Today is a beautiful Sunday and the family is gathered in the living room.",
-                    "Hôm nay là một ngày Chủ nhật đẹp trời và cả gia đình đang quây quần trong phòng khách."
-                ),
-                StoryParagraph(
-                    "माँ सोफे पर बैठी हैं और हिंदी की किताब पढ़ रही हैं।",
-                    "Mom is sitting on the sofa and reading a Hindi book.",
-                    "Mẹ đang ngồi trên ghế sofa và đọc một cuốn sách tiếng Hindi."
-                ),
-                StoryParagraph(
-                    "दीदी और जीजू साथ में एक बोर्ड गेम खेल रहे हैं।",
-                    "ELDER SISTER Di and Jiju are playing a board game together.",
-                    "Chị Di và Jiju đang chơi cờ cùng nhau."
-                ),
-                StoryParagraph(
-                    "सब लोग हँस रहे हैं और खुशी की कहानियाँ साझा कर रहे हैं।",
-                    "Everyone is laughing and sharing happy stories.",
-                    "Mọi người đang cười nói vui vẻ và chia sẻ những câu chuyện hạnh phúc."
-                )
-            ),
-            questionEn = "What day is it today?",
-            questionVi = "Hôm nay là ngày thứ mấy?",
-            options = listOf("रविवार (Sunday / Chủ nhật)", "सोमवार (Monday / Thứ hai)", "शनिवार (Saturday / Thứ bảy)"),
-            correctOptionIdx = 0
-        ),
-        Story(
-            id = "story_5",
-            titleHi = "दीदी का जन्मदिन",
-            titleEn = "Didi's Surprise Birthday",
-            titleVi = "Sinh nhật bất ngờ của chị Di",
-            descriptionEn = "Help Jiju and Mom plan a surprise birthday party for Didi.",
-            descriptionVi = "Giúp Jiju và Mẹ lên kế hoạch cho bữa tiệc sinh nhật bất ngờ của chị Di.",
-            characterIcon = "🎂",
-            imageDrawableName = "story_didi_birthday",
-            paragraphs = listOf(
-                StoryParagraph(
-                    "दीदी का जन्मदिन है और जीजू कुछ विशेष करना चाहते हैं।",
-                    "It is Didi's birthday and Jiju wants to do something special.",
-                    "Hôm nay là sinh nhật của chị Di và Jiju muốn làm điều gì đó đặc biệt."
-                ),
-                StoryParagraph(
-                    "वह माँ के साथ मिलकर एक सुंदर केक बनाते हैं।",
-                    "He together with Mom bakes a beautiful cake.",
-                    "Anh ấy cùng với Mẹ nướng một chiếc bánh kem thật đẹp."
-                ),
-                StoryParagraph(
-                    "कमरे को गुब्बारों और रंग-बिरंगे बैनरों से सजाया जाता है।",
-                    "The room is decorated with balloons and colorful banners.",
-                    "Căn phòng được trang trí bằng bóng bay và các biểu ngữ đầy màu sắc."
-                ),
-                StoryParagraph(
-                    "जब दीदी घर आती हैं, तो सब चिल्लाते हैं: जन्मदिन मुबारक हो!",
-                    "When Didi comes home, everyone shouts: Happy Birthday!",
-                    "Khi chị Di về đến nhà, mọi người reo hò: Chúc mừng sinh nhật!"
-                )
-            ),
-            questionEn = "What do Jiju and Mom bake for Didi?",
-            questionVi = "Jiju và Mẹ nướng cái gì cho chị Di?",
-            options = listOf("केक (Cake / Bánh kem)", "समोसा (Samosa / Bánh gối Samosa)", "चाय (Tea / Trà)"),
-            correctOptionIdx = 0
-        ),
-        Story(
-            id = "story_6",
-            titleHi = "बाज़ार की सैर",
-            titleEn = "A Trip to the Indian Market",
-            titleVi = "Chuyến tham quan chợ Ấn Độ",
-            descriptionEn = "Jiju and Didi go shopping for spices and mangoes.",
-            descriptionVi = "Jiju và chị Di đi mua sắm gia vị và xoài ở chợ.",
-            characterIcon = "🛍️",
-            imageDrawableName = "story_indian_market",
-            paragraphs = listOf(
-                StoryParagraph(
-                    "जीजू और दीदी ताज़े फल खरीदने के लिए भारतीय बाज़ार जाते हैं।",
-                    "Jiju and Didi go to the Indian market to buy fresh fruits.",
-                    "Jiju và chị Di đến chợ Ấn Độ để mua trái cây tươi."
-                ),
-                StoryParagraph(
-                    "दुकानदार बहुत सारे मीठे और ताज़े आम दिखाता है।",
-                    "The shopkeeper shows many sweet and fresh mangoes.",
-                    "Người bán hàng giới thiệu rất nhiều xoài ngọt và tươi."
-                ),
-                StoryParagraph(
-                    "जीजू पूछते हैं: भाई साहब, ये आम कैसे दिए?",
-                    "Jiju asks: Brother, how much are these mangoes?",
-                    "Jiju hỏi: Anh ơi, những quả xoài này giá bao nhiêu?"
-                ),
-                StoryParagraph(
-                    "दीदी कुछ ताजे मसाले भी खरीदती हैं जैसे हल्दी और लाल मिर्च।",
-                    "Didi also buys some fresh spices like turmeric and red chili.",
-                    "Chị Di cũng mua một số gia vị tươi như nghệ và ớt đỏ."
-                )
-            ),
-            questionEn = "What fruit does the shopkeeper show to Jiju and Didi?",
-            questionVi = "Người bán hàng giới thiệu loại trái cây nào cho Jiju và chị Di?",
-            options = listOf("आम (Mango / Xoài)", "सेब (Apple / Táo)", "केला (Banana / Chuối)"),
-            correctOptionIdx = 0
-        )
-    )
+            }
+            stories.clear()
+            stories.addAll(parsedStories)
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+    }
 
     PremiumBackground {
         Crossfade(targetState = activeStory, label = "ReaderTransition") { story ->
@@ -311,10 +157,10 @@ fun StoriesScreen(
                     containerColor = Color.Transparent,
                     topBar = {
                         TopAppBar(
-                            title = { Text(if (isVi) "Góc kể chuyện" else "Stories Center", color = TextDark, fontWeight = FontWeight.Bold) },
+                            title = { Text(if (isVi) "Góc kể chuyện" else "Stories Center", color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold) },
                             navigationIcon = {
                                 IconButton(onClick = onBack) {
-                                    Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = TextDark)
+                                    Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = MaterialTheme.colorScheme.onSurface)
                                 }
                             },
                             colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -407,13 +253,13 @@ fun StoryListCard(
                     if (isVi) story.titleVi else story.titleEn,
                     style = MaterialTheme.typography.titleLarge,
                     fontWeight = FontWeight.ExtraBold,
-                    color = TextDark
+                    color = MaterialTheme.colorScheme.onSurface
                 )
                 Spacer(modifier = Modifier.height(4.dp))
                 Text(
                     if (isVi) story.descriptionVi else story.descriptionEn,
                     style = MaterialTheme.typography.bodyMedium,
-                    color = TextDark.copy(alpha = 0.6f)
+                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
                 )
             }
             Spacer(modifier = Modifier.width(8.dp))
@@ -447,10 +293,10 @@ fun ReaderView(
         containerColor = Color.Transparent,
         topBar = {
             TopAppBar(
-                title = { Text(if (isVi) story.titleVi else story.titleEn, color = TextDark, fontWeight = FontWeight.Bold) },
+                title = { Text(if (isVi) story.titleVi else story.titleEn, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold) },
                 navigationIcon = {
                     IconButton(onClick = onClose) {
-                        Icon(Icons.Default.Close, contentDescription = "Close", tint = TextDark)
+                        Icon(Icons.Default.Close, contentDescription = "Close", tint = MaterialTheme.colorScheme.onSurface)
                     }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
@@ -480,7 +326,7 @@ fun ReaderView(
                         if (isVi) story.titleVi else story.titleEn,
                         style = MaterialTheme.typography.titleLarge,
                         fontWeight = FontWeight.Bold,
-                        color = TextDark,
+                        color = MaterialTheme.colorScheme.onSurface,
                         textAlign = TextAlign.Center
                     )
 
@@ -538,7 +384,7 @@ fun ReaderView(
                             text = if (isVi) story.questionVi else story.questionEn,
                             style = MaterialTheme.typography.titleMedium,
                             fontWeight = FontWeight.Bold,
-                            color = TextDark
+                            color = MaterialTheme.colorScheme.onSurface
                         )
                         Spacer(modifier = Modifier.height(16.dp))
 
@@ -573,7 +419,7 @@ fun ReaderView(
                                         text = option,
                                         style = MaterialTheme.typography.bodyLarge,
                                         fontWeight = FontWeight.Medium,
-                                        color = TextDark
+                                        color = MaterialTheme.colorScheme.onSurface
                                     )
                                 }
                             }
@@ -646,14 +492,14 @@ fun ParagraphCard(
                     text = para.hindi,
                     fontSize = 22.sp,
                     fontWeight = FontWeight.Bold,
-                    color = TextDark,
+                    color = MaterialTheme.colorScheme.onSurface,
                     lineHeight = 28.sp
                 )
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
                     text = if (isVi) para.vietnamese else para.english,
                     style = MaterialTheme.typography.bodyLarge,
-                    color = TextDark.copy(alpha = 0.7f)
+                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f)
                 )
             }
             Spacer(modifier = Modifier.width(16.dp))

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Account",
     "transliteration": "",
-    "english": "खाता",
-    "vietnamese": "Tài khoản",
+    "english": "Tài khoản",
+    "vietnamese": "",
     "audio": "Account"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "It is impossible.",
     "transliteration": "",
-    "english": "यह नामुमकिन है।",
-    "vietnamese": "Không thể nào.",
+    "english": "Không thể nào.",
+    "vietnamese": "",
     "audio": "It is impossible."
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Account'",
     "text": "Account",
     "subtext": "",
-    "answer": "खाता",
+    "answer": "Account",
     "answer_vi": "Tài khoản",
     "options": [
-      "खाता",
-      "चलना​​​​​​​​​​​​​​​​​​​",
-      "यह नामुमकिन है।",
-      "देना​​​​​​"
+      "Account",
+      "To walk / move",
+      "It is impossible.",
+      "To give"
     ],
     "options_vi": [
       "Tài khoản",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
     "text": "To wash",
     "subtext": "",
-    "answer": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wash",
     "answer_vi": "Rửa / Giặt",
     "options": [
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​"
+      "To wash",
+      "To listen / hear",
+      "To sleep",
+      "To listen / hear"
     ],
     "options_vi": [
       "Rửa / Giặt",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "It is possible.",
     "transliteration": "",
-    "english": "यह मुमकिन है।",
-    "vietnamese": "Có khả năng đó.",
+    "english": "Có khả năng đó.",
+    "vietnamese": "",
     "audio": "It is possible."
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "90",
     "transliteration": "",
-    "english": "९०",
-    "vietnamese": "Chín mươi",
+    "english": "Chín mươi",
+    "vietnamese": "",
     "audio": "90"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'It is possible.'",
     "text": "It is possible.",
     "subtext": "",
-    "answer": "यह मुमकिन है।",
+    "answer": "It is possible.",
     "answer_vi": "Có khả năng đó.",
     "options": [
-      "यह मुमकिन है।",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​",
-      "९०"
+      "It is possible.",
+      "To teach",
+      "To clean",
+      "90"
     ],
     "options_vi": [
       "Có khả năng đó.",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the खाता / Tôi thấy Tài khoản",
+    "englishSentence": "Tôi thấy Tài khoản",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,15 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a चलना​​​​​​​​​​​​​​​​​​​ / Tôi muốn Đi bộ / Di chuyển",
+    "englishSentence": "Di chuyển",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To walk / move"
+      "To",
+      "walk",
+      "/",
+      "move"
     ],
     "correctHindiSentence": "I want a To walk / move"
   },

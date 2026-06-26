@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "Dream",
     "transliteration": "",
-    "english": "सपना",
-    "vietnamese": "Giấc mơ",
+    "english": "Giấc mơ",
+    "vietnamese": "",
     "audio": "Dream"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "Crazy (in love - masc)",
     "transliteration": "",
-    "english": "दीवाना",
-    "vietnamese": "Kẻ điên tình (nam)",
+    "english": "Kẻ điên tình (nam)",
+    "vietnamese": "",
     "audio": "Crazy (in love - masc)"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
     "text": "To wake up",
     "subtext": "",
-    "answer": "जागना​​​​​​​​",
+    "answer": "To wake up",
     "answer_vi": "Thức dậy",
     "options": [
-      "जागना​​​​​​​​",
-      "सपना",
-      "बेचना",
-      "दीवाना"
+      "To wake up",
+      "Dream",
+      "To sell",
+      "Crazy (in love - masc)"
     ],
     "options_vi": [
       "Thức dậy",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "Vermilion",
     "transliteration": "",
-    "english": "सिंदूर",
-    "vietnamese": "Bột đỏ son",
+    "english": "Bột đỏ son",
+    "vietnamese": "",
     "audio": "Vermilion"
   },
   {
     "type": "Flashcard",
     "hindi": "Hospital",
     "transliteration": "",
-    "english": "अस्पताल",
-    "vietnamese": "Bệnh viện",
+    "english": "Bệnh viện",
+    "vietnamese": "",
     "audio": "Hospital"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To see / watch'",
     "text": "To see / watch",
     "subtext": "",
-    "answer": "देखना​​​​​​​​​​​​​",
+    "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
     "options": [
-      "देखना​​​​​​​​​​​​​",
-      "सिंदूर",
-      "अस्पताल",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​"
+      "To see / watch",
+      "Vermilion",
+      "Hospital",
+      "To tell / explain"
     ],
     "options_vi": [
       "Nhìn / Xem",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Picture / Photo",
     "transliteration": "",
-    "english": "तस्वीर",
-    "vietnamese": "Bức ảnh",
+    "english": "Bức ảnh",
+    "vietnamese": "",
     "audio": "Picture / Photo"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Picture / Photo'",
     "text": "Picture / Photo",
     "subtext": "",
-    "answer": "तस्वीर",
+    "answer": "Picture / Photo",
     "answer_vi": "Bức ảnh",
     "options": [
-      "तस्वीर",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
-      "खेलना​​",
-      "धोना​"
+      "Picture / Photo",
+      "To run",
+      "To play",
+      "To wash"
     ],
     "options_vi": [
       "Bức ảnh",
@@ -300,18 +300,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the जागना​​​​​​​​ / Tôi thấy Thức dậy",
+    "englishSentence": "Tôi thấy Thức dậy",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To wake up"
+      "To",
+      "wake",
+      "up"
     ],
     "correctHindiSentence": "I see the To wake up"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सपना / Tôi muốn Giấc mơ",
+    "englishSentence": "Tôi muốn Giấc mơ",
     "hindiWords": [
       "I",
       "want",

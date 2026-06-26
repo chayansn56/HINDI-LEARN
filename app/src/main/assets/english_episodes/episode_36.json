@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "to drink",
     "transliteration": "",
-    "english": "पीना",
-    "vietnamese": "Uống",
+    "english": "Uống",
+    "vietnamese": "",
     "audio": "to drink"
   },
   {
     "type": "Flashcard",
     "hindi": "Wants",
     "transliteration": "",
-    "english": "चाहता है",
-    "vietnamese": "Muốn",
+    "english": "Muốn",
+    "vietnamese": "",
     "audio": "Wants"
   },
   {
     "type": "Flashcard",
     "hindi": "Bindi",
     "transliteration": "",
-    "english": "बिंदी",
-    "vietnamese": "Nốt đỏ trán Bindi",
+    "english": "Nốt đỏ trán Bindi",
+    "vietnamese": "",
     "audio": "Bindi"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
     "text": "to drink",
     "subtext": "",
-    "answer": "पीना",
+    "answer": "to drink",
     "answer_vi": "Uống",
     "options": [
-      "पीना",
-      "चाहता है",
-      "बिंदी",
-      "तारा​​​​​​​​​​​​"
+      "to drink",
+      "Wants",
+      "Bindi",
+      "Star"
     ],
     "options_vi": [
       "Uống",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "Difference",
     "transliteration": "",
-    "english": "फ़र्क",
-    "vietnamese": "Sự khác biệt",
+    "english": "Sự khác biệt",
+    "vietnamese": "",
     "audio": "Difference"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
     "text": "To sleep",
     "subtext": "",
-    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sleep",
     "answer_vi": "Ngủ",
     "options": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "आग​​​​​​​​​​",
-      "फ़र्क",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To sleep",
+      "Fire",
+      "Difference",
+      "To walk / move"
     ],
     "options_vi": [
       "Ngủ",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Boys",
     "transliteration": "",
-    "english": "लड़के",
-    "vietnamese": "Các cậu bé",
+    "english": "Các cậu bé",
+    "vietnamese": "",
     "audio": "Boys"
   },
   {
     "type": "Flashcard",
     "hindi": "Spoon",
     "transliteration": "",
-    "english": "चम्मच​​",
-    "vietnamese": "Thìa",
+    "english": "Thìa",
+    "vietnamese": "",
     "audio": "Spoon"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लड़के",
-      "चम्मच​​"
+      "To write",
+      "To stand",
+      "Boys",
+      "Spoon"
     ],
     "options_vi": [
       "Viết",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पीना / Tôi thấy Uống",
+    "englishSentence": "Tôi thấy Uống",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "to drink"
+      "to",
+      "drink"
     ],
     "correctHindiSentence": "I see the to drink"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a चाहता है / Tôi muốn Muốn",
+    "englishSentence": "Tôi muốn Muốn",
     "hindiWords": [
       "I",
       "want",

@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Truth alone triumphs",
     "transliteration": "",
-    "english": "सत्यमेव जयते",
-    "vietnamese": "Sự thật luôn chiến thắng",
+    "english": "Sự thật luôn chiến thắng",
+    "vietnamese": "",
     "audio": "Truth alone triumphs"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "Path / Way",
     "transliteration": "",
-    "english": "रास्ता​​​​​​​",
-    "vietnamese": "Đường đi",
+    "english": "Đường đi",
+    "vietnamese": "",
     "audio": "Path / Way"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Truth alone triumphs'",
     "text": "Truth alone triumphs",
     "subtext": "",
-    "answer": "सत्यमेव जयते",
+    "answer": "Truth alone triumphs",
     "answer_vi": "Sự thật luôn chiến thắng",
     "options": [
-      "सत्यमेव जयते",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​",
-      "रास्ता​​​​​​​"
+      "Truth alone triumphs",
+      "To laugh",
+      "To teach",
+      "Path / Way"
     ],
     "options_vi": [
       "Sự thật luôn chiến thắng",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "That is right",
     "transliteration": "",
-    "english": "सही है",
-    "vietnamese": "Đúng thế",
+    "english": "Đúng thế",
+    "vietnamese": "",
     "audio": "That is right"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
     "text": "Office",
     "subtext": "",
-    "answer": "दफ़्तर​​​",
+    "answer": "Office",
     "answer_vi": "Văn phòng",
     "options": [
-      "दफ़्तर​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सही है",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Office",
+      "To speak",
+      "That is right",
+      "To walk / move"
     ],
     "options_vi": [
       "Văn phòng",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "As much as",
     "transliteration": "",
-    "english": "जितना",
-    "vietnamese": "Bao nhiêu tùy ý",
+    "english": "Bao nhiêu tùy ý",
+    "vietnamese": "",
     "audio": "As much as"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Tears",
     "transliteration": "",
-    "english": "आँसू",
-    "vietnamese": "Nước mắt",
+    "english": "Nước mắt",
+    "vietnamese": "",
     "audio": "Tears"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​",
-      "जितना",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "आँसू"
+      "To stand",
+      "As much as",
+      "To ask",
+      "Tears"
     ],
     "options_vi": [
       "Đứng",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Country",
     "transliteration": "",
-    "english": "देश​​​​",
-    "vietnamese": "Đất nước",
+    "english": "Đất nước",
+    "vietnamese": "",
     "audio": "Country"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "It is possible.",
     "transliteration": "",
-    "english": "यह मुमकिन है।",
-    "vietnamese": "Có khả năng đó.",
+    "english": "Có khả năng đó.",
+    "vietnamese": "",
     "audio": "It is possible."
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Country'",
     "text": "Country",
     "subtext": "",
-    "answer": "देश​​​​",
+    "answer": "Country",
     "answer_vi": "Đất nước",
     "options": [
-      "देश​​​​",
-      "पढ़ना​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "यह मुमकिन है।"
+      "Country",
+      "To read",
+      "To learn",
+      "It is possible."
     ],
     "options_vi": [
       "Đất nước",
@@ -355,23 +355,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सत्यमेव जयते / Nó là một Sự thật luôn chiến thắng",
+    "englishSentence": "Nó là một Sự thật luôn chiến thắng",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Truth alone triumphs"
+      "Truth",
+      "alone",
+      "triumphs"
     ],
     "correctHindiSentence": "It is a Truth alone triumphs"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Cười lớn",
+    "englishSentence": "Tôi thích Cười lớn",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To laugh"
+      "To",
+      "laugh"
     ],
     "correctHindiSentence": "I really like To laugh"
   },

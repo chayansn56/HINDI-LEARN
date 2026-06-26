@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "What else is going on? / What's up?",
     "transliteration": "",
-    "english": "और क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì mới không?",
+    "english": "Có chuyện gì mới không?",
+    "vietnamese": "",
     "audio": "What else is going on? / What's up?"
   },
   {
     "type": "Flashcard",
     "hindi": "Reverent Hello",
     "transliteration": "",
-    "english": "प्रणाम",
-    "vietnamese": "Kính chào",
+    "english": "Kính chào",
+    "vietnamese": "",
     "audio": "Reverent Hello"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'What else is going on? / What's up?'",
     "text": "What else is going on? / What's up?",
     "subtext": "",
-    "answer": "और क्या चल रहा है?",
+    "answer": "What else is going on? / What's up?",
     "answer_vi": "Có chuyện gì mới không?",
     "options": [
-      "और क्या चल रहा है?",
-      "प्रणाम",
-      "कापी​​​​​",
-      "बर्फ़​​​​​​​"
+      "What else is going on? / What's up?",
+      "Reverent Hello",
+      "Notebook",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Có chuyện gì mới không?",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Hello (highly respectful)",
     "transliteration": "",
-    "english": "नमस्ते जी",
-    "vietnamese": "Kính chào quý vị",
+    "english": "Kính chào quý vị",
+    "vietnamese": "",
     "audio": "Hello (highly respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes, I am ready.",
     "transliteration": "",
-    "english": "हाँ, मैं तैयार हूँ।",
-    "vietnamese": "Vâng, tôi sẵn sàng rồi.",
+    "english": "Vâng, tôi sẵn sàng rồi.",
+    "vietnamese": "",
     "audio": "Yes, I am ready."
   },
   {
     "type": "Flashcard",
     "hindi": "How's it going? / How are you?",
     "transliteration": "",
-    "english": "क्या हाल है?",
-    "vietnamese": "Thế nào rồi?",
+    "english": "Thế nào rồi?",
+    "vietnamese": "",
     "audio": "How's it going? / How are you?"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Hello (highly respectful)'",
     "text": "Hello (highly respectful)",
     "subtext": "",
-    "answer": "नमस्ते जी",
+    "answer": "Hello (highly respectful)",
     "answer_vi": "Kính chào quý vị",
     "options": [
-      "नमस्ते जी",
-      "कापी​​​​​​​​​​​",
-      "हाँ, मैं तैयार हूँ।",
-      "क्या हाल है?"
+      "Hello (highly respectful)",
+      "Notebook",
+      "Yes, I am ready.",
+      "How's it going? / How are you?"
     ],
     "options_vi": [
       "Kính chào quý vị",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Whose (singular)",
     "transliteration": "",
-    "english": "किसका",
-    "vietnamese": "Của ai",
+    "english": "Của ai",
+    "vietnamese": "",
     "audio": "Whose (singular)"
   },
   {
     "type": "Flashcard",
     "hindi": "How much is it?",
     "transliteration": "",
-    "english": "कितना हुआ?",
-    "vietnamese": "Bao nhiêu tiền?",
+    "english": "Bao nhiêu tiền?",
+    "vietnamese": "",
     "audio": "How much is it?"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​",
-      "किसका",
-      "कितना हुआ?",
-      "बर्फ़​​​"
+      "Snow / Ice",
+      "Whose (singular)",
+      "How much is it?",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "I did not understand.",
     "transliteration": "",
-    "english": "मुझे समझ नहीं आया।",
-    "vietnamese": "Tôi không hiểu.",
+    "english": "Tôi không hiểu.",
+    "vietnamese": "",
     "audio": "I did not understand."
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Hello / Greetings",
     "transliteration": "",
-    "english": "नमस्ते",
-    "vietnamese": "Xin chào",
+    "english": "Xin chào",
+    "vietnamese": "",
     "audio": "Hello / Greetings"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Notebook'",
     "text": "Notebook",
     "subtext": "",
-    "answer": "कापी​​​​​​​​​",
+    "answer": "Notebook",
     "answer_vi": "Sổ tay",
     "options": [
-      "कापी​​​​​​​​​",
-      "मुझे समझ नहीं आया।",
-      "बर्फ़​​​​​​​​​​",
-      "नमस्ते"
+      "Notebook",
+      "I did not understand.",
+      "Snow / Ice",
+      "Hello / Greetings"
     ],
     "options_vi": [
       "Sổ tay",
@@ -355,23 +355,31 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a और क्या चल रहा है? / Nó là một Có chuyện gì mới không?",
+    "englishSentence": "Nó là một Có chuyện gì mới không?",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "What else is going on? / What's up?"
+      "What",
+      "else",
+      "is",
+      "going",
+      "on?",
+      "/",
+      "What's",
+      "up?"
     ],
     "correctHindiSentence": "It is a What else is going on? / What's up?"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like प्रणाम / Tôi thích Kính chào",
+    "englishSentence": "Tôi thích Kính chào",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Reverent Hello"
+      "Reverent",
+      "Hello"
     ],
     "correctHindiSentence": "I really like Reverent Hello"
   },

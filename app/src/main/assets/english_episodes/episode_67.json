@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "instead of",
     "transliteration": "",
-    "english": "के बजाय",
-    "vietnamese": "Thay vì",
+    "english": "Thay vì",
+    "vietnamese": "",
     "audio": "instead of"
   },
   {
     "type": "Flashcard",
     "hindi": "Silver",
     "transliteration": "",
-    "english": "चाँदी​​​",
-    "vietnamese": "Bạc",
+    "english": "Bạc",
+    "vietnamese": "",
     "audio": "Silver"
   },
   {
     "type": "Flashcard",
     "hindi": "Fish",
     "transliteration": "",
-    "english": "मछली",
-    "vietnamese": "Con cá",
+    "english": "Con cá",
+    "vietnamese": "",
     "audio": "Fish"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
     "text": "To sleep",
     "subtext": "",
-    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sleep",
     "answer_vi": "Ngủ",
     "options": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "के बजाय",
-      "चाँदी​​​",
-      "मछली"
+      "To sleep",
+      "instead of",
+      "Silver",
+      "Fish"
     ],
     "options_vi": [
       "Ngủ",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Auspicious necklace",
     "transliteration": "",
-    "english": "मंगलसूत्र",
-    "vietnamese": "Dây chuyền cưới Mangalsutra",
+    "english": "Dây chuyền cưới Mangalsutra",
+    "vietnamese": "",
     "audio": "Auspicious necklace"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Auspicious necklace'",
     "text": "Auspicious necklace",
     "subtext": "",
-    "answer": "मंगलसूत्र",
+    "answer": "Auspicious necklace",
     "answer_vi": "Dây chuyền cưới Mangalsutra",
     "options": [
-      "मंगलसूत्र",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पैसा​​",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Auspicious necklace",
+      "To speak",
+      "Money",
+      "To laugh"
     ],
     "options_vi": [
       "Dây chuyền cưới Mangalsutra",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -243,19 +243,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
     "text": "To do",
     "subtext": "",
-    "answer": "करना​​​​​​",
+    "answer": "To do",
     "answer_vi": "Làm",
     "options": [
-      "करना​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खेलना​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​"
+      "To do",
+      "To cry",
+      "To play",
+      "To do"
     ],
     "options_vi": [
       "Làm",
       "Khóc",
       "Chơi",
-      "Dọn dẹp / Lau chùi"
+      "Làm"
     ]
   },
   {
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Ngủ",
+    "englishSentence": "Tôi thấy Ngủ",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To sleep"
+      "To",
+      "sleep"
     ],
     "correctHindiSentence": "I see the To sleep"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a के बजाय / Tôi muốn Thay vì",
+    "englishSentence": "Tôi muốn Thay vì",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "instead of"
+      "instead",
+      "of"
     ],
     "correctHindiSentence": "I want a instead of"
   },

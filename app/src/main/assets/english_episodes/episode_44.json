@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Crow",
     "transliteration": "",
-    "english": "कौआ",
-    "vietnamese": "Con quạ",
+    "english": "Con quạ",
+    "vietnamese": "",
     "audio": "Crow"
   },
   {
     "type": "Flashcard",
     "hindi": "Silver",
     "transliteration": "",
-    "english": "चाँदी",
-    "vietnamese": "Bạc",
+    "english": "Bạc",
+    "vietnamese": "",
     "audio": "Silver"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Crow'",
     "text": "Crow",
     "subtext": "",
-    "answer": "कौआ",
+    "answer": "Crow",
     "answer_vi": "Con quạ",
     "options": [
-      "कौआ",
-      "चाँदी",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Crow",
+      "Silver",
+      "To write",
+      "To sell"
     ],
     "options_vi": [
       "Con quạ",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​​​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "Restroom / Toilet",
     "transliteration": "",
-    "english": "शौचालय",
-    "vietnamese": "Nhà vệ sinh",
+    "english": "Nhà vệ sinh",
+    "vietnamese": "",
     "audio": "Restroom / Toilet"
   },
   {
     "type": "Flashcard",
     "hindi": "Country",
     "transliteration": "",
-    "english": "देश​​​​​",
-    "vietnamese": "Đất nước",
+    "english": "Đất nước",
+    "vietnamese": "",
     "audio": "Country"
   },
   {
     "type": "Flashcard",
     "hindi": "Yes",
     "transliteration": "",
-    "english": "हाँ",
-    "vietnamese": "Vâng / Có",
+    "english": "Vâng / Có",
+    "vietnamese": "",
     "audio": "Yes"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
     "text": "Lock",
     "subtext": "",
-    "answer": "ताला​​​​​",
+    "answer": "Lock",
     "answer_vi": "Ổ khóa",
     "options": [
-      "ताला​​​​​",
-      "शौचालय",
-      "देश​​​​​",
-      "हाँ"
+      "Lock",
+      "Restroom / Toilet",
+      "Country",
+      "Yes"
     ],
     "options_vi": [
       "Ổ khóa",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Spoon",
     "transliteration": "",
-    "english": "चम्मच​​",
-    "vietnamese": "Thìa",
+    "english": "Thìa",
+    "vietnamese": "",
     "audio": "Spoon"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Touching feet for blessings",
     "transliteration": "",
-    "english": "चरण स्पर्श",
-    "vietnamese": "Chạm chân xin phước lành",
+    "english": "Chạm chân xin phước lành",
+    "vietnamese": "",
     "audio": "Touching feet for blessings"
   },
   {
     "type": "Flashcard",
     "hindi": "Auspicious necklace",
     "transliteration": "",
-    "english": "मंगलसूत्र",
-    "vietnamese": "Dây chuyền cưới Mangalsutra",
+    "english": "Dây chuyền cưới Mangalsutra",
+    "vietnamese": "",
     "audio": "Auspicious necklace"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Spoon'",
     "text": "Spoon",
     "subtext": "",
-    "answer": "चम्मच​​",
+    "answer": "Spoon",
     "answer_vi": "Thìa",
     "options": [
-      "चम्मच​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​",
-      "चरण स्पर्श",
-      "मंगलसूत्र"
+      "Spoon",
+      "To speak",
+      "Touching feet for blessings",
+      "Auspicious necklace"
     ],
     "options_vi": [
       "Thìa",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the कौआ / Tôi thấy Con quạ",
+    "englishSentence": "Tôi thấy Con quạ",
     "hindiWords": [
       "I",
       "see",
@@ -311,7 +311,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a चाँदी / Tôi muốn Bạc",
+    "englishSentence": "Tôi muốn Bạc",
     "hindiWords": [
       "I",
       "want",

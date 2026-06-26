@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Road'",
     "text": "Road",
     "subtext": "",
-    "answer": "सड़क​​",
+    "answer": "Road",
     "answer_vi": "Đường",
     "options": [
-      "सड़क​​",
-      "गाना​​​​​​​​​​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Road",
+      "To sing",
+      "To wake up",
+      "To cry"
     ],
     "options_vi": [
       "Đường",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Night",
     "transliteration": "",
-    "english": "रात",
-    "vietnamese": "Đêm",
+    "english": "Đêm",
+    "vietnamese": "",
     "audio": "Night"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "Defiled food",
     "transliteration": "",
-    "english": "जूठा",
-    "vietnamese": "Thức ăn thừa / Ô uế",
+    "english": "Thức ăn thừa / Ô uế",
+    "vietnamese": "",
     "audio": "Defiled food"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
     "text": "Star",
     "subtext": "",
-    "answer": "तारा​​​​​​",
+    "answer": "Star",
     "answer_vi": "Ngôi sao",
     "options": [
-      "तारा​​​​​​",
-      "रात",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​",
-      "जूठा"
+      "Star",
+      "Night",
+      "To buy",
+      "Defiled food"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​",
-      "खरीदना​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To listen / hear",
+      "To make / build",
+      "To buy",
+      "To stand"
     ],
     "options_vi": [
       "Nghe",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the सड़क​​ / Tôi thấy Đường",
+    "englishSentence": "Tôi thấy Đường",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "englishSentence": "Tôi muốn Hát",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sing"
+      "To",
+      "sing"
     ],
     "correctHindiSentence": "I want a To sing"
   },

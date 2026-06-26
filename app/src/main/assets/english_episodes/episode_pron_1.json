@@ -1,65 +1,81 @@
-{
-  "title": "Word Stress",
-  "description": "Learn how to stress the correct syllables in English words.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "content": "Trong tiếng Anh, trọng âm của từ (Word Stress) rất quan trọng để người bản xứ có thể hiểu bạn. Nhấn sai trọng âm có thể làm thay đổi nghĩa của từ hoặc khiến từ trở nên khó hiểu."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "PHO-tograph",
-      "translation": "Bức ảnh",
-      "audio": "photograph"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "pho-TO-grapher",
-      "translation": "Nhiếp ảnh gia",
-      "audio": "photographer"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "pho-to-GRA-phic",
-      "translation": "Thuộc về nhiếp ảnh",
-      "audio": "photographic"
-    },
-    {
-      "type": "TeachRule",
-      "content": "Một số từ thay đổi nghĩa tuỳ thuộc vào trọng âm: Danh từ thường nhấn âm tiết đầu, động từ thường nhấn âm tiết thứ hai."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "RE-cord (noun)",
-      "translation": "Bản ghi, kỷ lục (danh từ)",
-      "audio": "record noun"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "re-CORD (verb)",
-      "translation": "Ghi âm, ghi hình (động từ)",
-      "audio": "record verb"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Trọng âm của từ 'photographer' nằm ở âm tiết thứ mấy?",
-      "options": ["1", "2", "3", "4"],
-      "correctAnswer": "2"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Từ 'record' khi là động từ thì nhấn âm tiết thứ mấy?",
-      "options": ["1", "2"],
-      "correctAnswer": "2"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"left": "PHO-tograph", "right": "Bức ảnh"},
-        {"left": "pho-TO-grapher", "right": "Nhiếp ảnh gia"},
-        {"left": "RE-cord", "right": "Kỷ lục (danh từ)"},
-        {"left": "re-CORD", "right": "Ghi âm (động từ)"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "content": "Trong tiếng Anh, trọng âm của từ (Word Stress) rất quan trọng để người bản xứ có thể hiểu bạn. Nhấn sai trọng âm có thể làm thay đổi nghĩa của từ hoặc khiến từ trở nên khó hiểu."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "PHO-tograph",
+    "translation": "Bức ảnh",
+    "audio": "photograph"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "pho-TO-grapher",
+    "translation": "Nhiếp ảnh gia",
+    "audio": "photographer"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "pho-to-GRA-phic",
+    "translation": "Thuộc về nhiếp ảnh",
+    "audio": "photographic"
+  },
+  {
+    "type": "TeachRule",
+    "content": "Một số từ thay đổi nghĩa tuỳ thuộc vào trọng âm: Danh từ thường nhấn âm tiết đầu, động từ thường nhấn âm tiết thứ hai."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "RE-cord (noun)",
+    "translation": "Bản ghi, kỷ lục (danh từ)",
+    "audio": "record noun"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "re-CORD (verb)",
+    "translation": "Ghi âm, ghi hình (động từ)",
+    "audio": "record verb"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Trọng âm của từ 'photographer' nằm ở âm tiết thứ mấy?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Từ 'record' khi là động từ thì nhấn âm tiết thứ mấy?",
+    "options": [
+      "1",
+      "2"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "left": "PHO-tograph",
+        "right": "Bức ảnh"
+      },
+      {
+        "left": "pho-TO-grapher",
+        "right": "Nhiếp ảnh gia"
+      },
+      {
+        "left": "RE-cord",
+        "right": "Kỷ lục (danh từ)"
+      },
+      {
+        "left": "re-CORD",
+        "right": "Ghi âm (động từ)"
+      }
+    ]
+  }
+]

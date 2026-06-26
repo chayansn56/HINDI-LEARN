@@ -1,15 +1,88 @@
-{
-  "title": "Clothing",
-  "nodes": [
-    {"type": "TeachRule", "title": "Clothing", "rule": "Trang phục và quần áo."},
-    {"type": "Flashcard", "hindi": "Shirt", "english": "Áo sơ mi", "audio": "shirt"},
-    {"type": "Flashcard", "hindi": "Pants", "english": "Quần dài", "audio": "pants"},
-    {"type": "Flashcard", "hindi": "Dress", "english": "Váy liền", "audio": "dress"},
-    {"type": "MultipleChoice", "hindi": "Shirt", "options": ["Áo sơ mi", "Quần dài", "Váy liền", "Giày"], "answer": "Áo sơ mi", "audio": "shirt"},
-    {"type": "Flashcard", "hindi": "Skirt", "english": "Chân váy", "audio": "skirt"},
-    {"type": "Flashcard", "hindi": "Shoes", "english": "Giày", "audio": "shoes"},
-    {"type": "MultipleChoice", "hindi": "Pants", "options": ["Quần dài", "Áo sơ mi", "Mũ", "Áo khoác"], "answer": "Quần dài", "audio": "pants"},
-    {"type": "Flashcard", "hindi": "Hat", "english": "Mũ", "audio": "hat"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Dress", "english": "Váy liền"}, {"hindi": "Skirt", "english": "Chân váy"}, {"hindi": "Shoes", "english": "Giày"}, {"hindi": "Hat", "english": "Mũ"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Clothing",
+    "rule": "Trang phục và quần áo."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shirt",
+    "english": "Áo sơ mi",
+    "audio": "shirt"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Pants",
+    "english": "Quần dài",
+    "audio": "pants"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dress",
+    "english": "Váy liền",
+    "audio": "dress"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Shirt",
+    "options": [
+      "Áo sơ mi",
+      "Quần dài",
+      "Váy liền",
+      "Giày"
+    ],
+    "answer": "Áo sơ mi",
+    "audio": "shirt"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Skirt",
+    "english": "Chân váy",
+    "audio": "skirt"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Shoes",
+    "english": "Giày",
+    "audio": "shoes"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Pants",
+    "options": [
+      "Quần dài",
+      "Áo sơ mi",
+      "Mũ",
+      "Áo khoác"
+    ],
+    "answer": "Quần dài",
+    "audio": "pants"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hat",
+    "english": "Mũ",
+    "audio": "hat"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Dress",
+        "english": "Váy liền"
+      },
+      {
+        "hindi": "Skirt",
+        "english": "Chân váy"
+      },
+      {
+        "hindi": "Shoes",
+        "english": "Giày"
+      },
+      {
+        "hindi": "Hat",
+        "english": "Mũ"
+      }
+    ]
+  }
+]

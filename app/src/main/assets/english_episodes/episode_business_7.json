@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Money / Paisa",
     "transliteration": "",
-    "english": "पैसा",
-    "vietnamese": "Tiền xu / Tiền",
+    "english": "Tiền xu / Tiền",
+    "vietnamese": "",
     "audio": "Money / Paisa"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Money / Paisa'",
     "text": "Money / Paisa",
     "subtext": "",
-    "answer": "पैसा",
+    "answer": "Money / Paisa",
     "answer_vi": "Tiền xu / Tiền",
     "options": [
-      "पैसा",
-      "दफ़्तर​​​​​​​​",
-      "दफ़्तर​​​​",
-      "काम करना​​​​​​​​​"
+      "Money / Paisa",
+      "Office",
+      "Office",
+      "To work"
     ],
     "options_vi": [
       "Tiền xu / Tiền",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​​​​",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना​​​​",
-      "दफ़्तर​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​",
-      "दफ़्तर​​​​​​​"
+      "To work",
+      "Office",
+      "To work",
+      "Office"
     ],
     "options_vi": [
       "Làm việc",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Agreement / Contract",
     "transliteration": "",
-    "english": "समझौता",
-    "vietnamese": "Thỏa thuận / Hợp đồng",
+    "english": "Thỏa thuận / Hợp đồng",
+    "vietnamese": "",
     "audio": "Agreement / Contract"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Employee",
     "transliteration": "",
-    "english": "कर्मचारी",
-    "vietnamese": "Nhân viên",
+    "english": "Nhân viên",
+    "vietnamese": "",
     "audio": "Employee"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Agreement / Contract'",
     "text": "Agreement / Contract",
     "subtext": "",
-    "answer": "समझौता",
+    "answer": "Agreement / Contract",
     "answer_vi": "Thỏa thuận / Hợp đồng",
     "options": [
-      "समझौता",
-      "दफ़्तर​​​​​",
-      "काम करना​​​​​​​​​​​​​​​",
-      "कर्मचारी"
+      "Agreement / Contract",
+      "Office",
+      "To work",
+      "Employee"
     ],
     "options_vi": [
       "Thỏa thuận / Hợp đồng",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
@@ -298,18 +298,18 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​​​​​​​​​​​​​",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना​​​​​​​​​​​​​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​",
-      "पैसा​​",
-      "दफ़्तर​​​​​​​​​​​"
+      "To work",
+      "To work",
+      "Money / Paisa",
+      "Office"
     ],
     "options_vi": [
       "Làm việc",
       "Làm việc",
-      "Tiền",
+      "Tiền xu / Tiền",
       "Văn phòng"
     ]
   },
@@ -355,18 +355,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a पैसा / Nó là một Tiền xu / Tiền",
+    "englishSentence": "Tiền",
     "hindiWords": [
       "It",
       "is",
-      "a",
-      "Money / Paisa"
+      "money",
+      "/",
+      "Paisa"
     ],
-    "correctHindiSentence": "It is a Money / Paisa"
+    "correctHindiSentence": "It is money / Paisa"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like दफ़्तर​​​​​​​​ / Tôi thích Văn phòng",
+    "englishSentence": "Tôi thích Văn phòng",
     "hindiWords": [
       "I",
       "really",

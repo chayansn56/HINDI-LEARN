@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​",
-      "बोलना",
-      "दौड़ना​​​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​"
+      "To stand",
+      "To speak",
+      "To run",
+      "To make / build"
     ],
     "options_vi": [
       "Đứng",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Of (masc. sing.)",
     "transliteration": "",
-    "english": "का",
-    "vietnamese": "Của (nam số ít)",
+    "english": "Của (nam số ít)",
+    "vietnamese": "",
     "audio": "Of (masc. sing.)"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​",
-      "का",
-      "साफ करना​​​​​​​​​​​​​​​​"
+      "To write",
+      "To ask",
+      "Of (masc. sing.)",
+      "To clean"
     ],
     "options_vi": [
       "Viết",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Yes (respectful)",
     "transliteration": "",
-    "english": "जी हाँ",
-    "vietnamese": "Vâng (Lịch sự)",
+    "english": "Vâng (Lịch sự)",
+    "vietnamese": "",
     "audio": "Yes (respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "No problem",
     "transliteration": "",
-    "english": "कोई बात नहीं",
-    "vietnamese": "Không sao đâu",
+    "english": "Không sao đâu",
+    "vietnamese": "",
     "audio": "No problem"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Yes (respectful)'",
     "text": "Yes (respectful)",
     "subtext": "",
-    "answer": "जी हाँ",
+    "answer": "Yes (respectful)",
     "answer_vi": "Vâng (Lịch sự)",
     "options": [
-      "जी हाँ",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बैठना​",
-      "कोई बात नहीं"
+      "Yes (respectful)",
+      "To sleep",
+      "To sit",
+      "No problem"
     ],
     "options_vi": [
       "Vâng (Lịch sự)",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the खड़े होना​​​​​​​​​​​​ / Tôi thấy Đứng",
+    "englishSentence": "Tôi thấy Đứng",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To stand"
+      "To",
+      "stand"
     ],
     "correctHindiSentence": "I see the To stand"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बोलना / Tôi muốn Nói",
+    "englishSentence": "Tôi muốn Nói",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To speak"
+      "To",
+      "speak"
     ],
     "correctHindiSentence": "I want a To speak"
   },

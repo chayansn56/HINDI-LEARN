@@ -1,123 +1,119 @@
-{
-  "id": "episode_0_17",
-  "title": "Action Verbs",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Action Verbs",
-      "explanation": "Action verbs describe things that we do."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Run",
-          "translation": "Chạy",
-          "audio": "Run"
-        },
-        {
-          "hindi": "Walk",
-          "translation": "Đi bộ",
-          "audio": "Walk"
-        },
-        {
-          "hindi": "Jump",
-          "translation": "Nhảy",
-          "audio": "Jump"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Swim' in Vietnamese?",
-      "options": [
-        "Chạy",
-        "Đi bộ",
-        "Bơi",
-        "Nhảy"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Run",
-          "translation": "Chạy"
-        },
-        {
-          "hindi": "Read",
-          "translation": "Đọc"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Swim",
-          "translation": "Bơi",
-          "audio": "Swim"
-        },
-        {
-          "hindi": "Read",
-          "translation": "Đọc",
-          "audio": "Read"
-        },
-        {
-          "hindi": "Write",
-          "translation": "Viết",
-          "audio": "Write"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Read' in Vietnamese?",
-      "options": [
-        "Viết",
-        "Đọc",
-        "Bơi",
-        "Chạy"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Swim",
-          "translation": "Bơi"
-        },
-        {
-          "hindi": "Write",
-          "translation": "Viết"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Run' in Vietnamese?",
-      "options": [
-        "Đi bộ",
-        "Chạy",
-        "Nhảy",
-        "Bơi"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Walk",
-          "translation": "Đi bộ"
-        },
-        {
-          "hindi": "Jump",
-          "translation": "Nhảy"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Action Verbs",
+    "explanation": "Action verbs describe things that we do."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Run",
+        "translation": "Chạy",
+        "audio": "Run"
+      },
+      {
+        "hindi": "Walk",
+        "translation": "Đi bộ",
+        "audio": "Walk"
+      },
+      {
+        "hindi": "Jump",
+        "translation": "Nhảy",
+        "audio": "Jump"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Swim' in Vietnamese?",
+    "options": [
+      "Chạy",
+      "Đi bộ",
+      "Bơi",
+      "Nhảy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Run",
+        "translation": "Chạy"
+      },
+      {
+        "hindi": "Read",
+        "translation": "Đọc"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Swim",
+        "translation": "Bơi",
+        "audio": "Swim"
+      },
+      {
+        "hindi": "Read",
+        "translation": "Đọc",
+        "audio": "Read"
+      },
+      {
+        "hindi": "Write",
+        "translation": "Viết",
+        "audio": "Write"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Read' in Vietnamese?",
+    "options": [
+      "Viết",
+      "Đọc",
+      "Bơi",
+      "Chạy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Swim",
+        "translation": "Bơi"
+      },
+      {
+        "hindi": "Write",
+        "translation": "Viết"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Run' in Vietnamese?",
+    "options": [
+      "Đi bộ",
+      "Chạy",
+      "Nhảy",
+      "Bơi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Walk",
+        "translation": "Đi bộ"
+      },
+      {
+        "hindi": "Jump",
+        "translation": "Nhảy"
+      }
+    ]
+  }
+]

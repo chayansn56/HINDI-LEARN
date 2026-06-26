@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
     "text": "To run",
     "subtext": "",
-    "answer": "दौड़ना​​​​​​​​​​​",
+    "answer": "To run",
     "answer_vi": "Chạy",
     "options": [
-      "दौड़ना​​​​​​​​​​​",
-      "बंद करना​​​​​​",
-      "खेलना​​​​​",
-      "समुद्र​​​​​​​​"
+      "To run",
+      "To close",
+      "To play",
+      "Sea / Ocean"
     ],
     "options_vi": [
       "Chạy",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Henna / Mehndi",
     "transliteration": "",
-    "english": "मेहंदी",
-    "vietnamese": "Nghệ thuật vẽ Henna",
+    "english": "Nghệ thuật vẽ Henna",
+    "vietnamese": "",
     "audio": "Henna / Mehndi"
   },
   {
     "type": "Flashcard",
     "hindi": "One",
     "transliteration": "",
-    "english": "एक",
-    "vietnamese": "Số một",
+    "english": "Số một",
+    "vietnamese": "",
     "audio": "One"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
     "text": "To sleep",
     "subtext": "",
-    "answer": "सोना​​​​​​​​​​​​​​​​",
+    "answer": "To sleep",
     "answer_vi": "Ngủ",
     "options": [
-      "सोना​​​​​​​​​​​​​​​​",
-      "लिखना​",
-      "मेहंदी",
-      "एक"
+      "To sleep",
+      "To write",
+      "Henna / Mehndi",
+      "One"
     ],
     "options_vi": [
       "Ngủ",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sit'",
     "text": "To sit",
     "subtext": "",
-    "answer": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sit",
     "answer_vi": "Ngồi",
     "options": [
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To sit",
+      "To listen / hear",
+      "To see / watch",
+      "To speak"
     ],
     "options_vi": [
       "Ngồi",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the दौड़ना​​​​​​​​​​​ / Tôi thấy Chạy",
+    "englishSentence": "Tôi thấy Chạy",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To run"
+      "To",
+      "run"
     ],
     "correctHindiSentence": "I see the To run"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बंद करना​​​​​​ / Tôi muốn Đóng",
+    "englishSentence": "Tôi muốn Đóng",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To close"
+      "To",
+      "close"
     ],
     "correctHindiSentence": "I want a To close"
   },

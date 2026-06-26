@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "Value / Price",
     "transliteration": "",
-    "english": "मूल्य",
-    "vietnamese": "Giá trị",
+    "english": "Giá trị",
+    "vietnamese": "",
     "audio": "Value / Price"
   },
   {
     "type": "Flashcard",
     "hindi": "Salary / Pay",
     "transliteration": "",
-    "english": "वेतन",
-    "vietnamese": "Tiền lương",
+    "english": "Tiền lương",
+    "vietnamese": "",
     "audio": "Salary / Pay"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
     "text": "Office",
     "subtext": "",
-    "answer": "दफ़्तर​​​​​​",
+    "answer": "Office",
     "answer_vi": "Văn phòng",
     "options": [
-      "दफ़्तर​​​​​​",
-      "मूल्य",
-      "वेतन",
-      "काम करना​​​​​​​​​​​​​​"
+      "Office",
+      "Value / Price",
+      "Salary / Pay",
+      "To work"
     ],
     "options_vi": [
       "Văn phòng",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Meeting",
     "transliteration": "",
-    "english": "बैठक",
-    "vietnamese": "Cuộc họp",
+    "english": "Cuộc họp",
+    "vietnamese": "",
     "audio": "Meeting"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Work / Job",
     "transliteration": "",
-    "english": "काम",
-    "vietnamese": "Công việc",
+    "english": "Công việc",
+    "vietnamese": "",
     "audio": "Work / Job"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​​",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना​​",
-      "बैठक",
-      "काम करना​​​​​",
-      "काम"
+      "To work",
+      "Meeting",
+      "To work",
+      "Work / Job"
     ],
     "options_vi": [
       "Làm việc",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "It was a great pleasure meeting you.",
     "transliteration": "",
-    "english": "आपसे मिलकर बहुत खुशी हुई।",
-    "vietnamese": "Rất vui được gặp ngài.",
+    "english": "Rất vui được gặp ngài.",
+    "vietnamese": "",
     "audio": "It was a great pleasure meeting you."
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​​​​​​​​​​​​​​​​",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना​​​​​​​​​​​​​​​​",
-      "आपसे मिलकर बहुत खुशी हुई।",
-      "काम करना​​​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​"
+      "To work",
+      "It was a great pleasure meeting you.",
+      "To work",
+      "To work"
     ],
     "options_vi": [
       "Làm việc",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Money",
     "transliteration": "",
-    "english": "पैसा​",
-    "vietnamese": "Tiền",
+    "english": "Tiền",
+    "vietnamese": "",
     "audio": "Money"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
@@ -298,16 +298,16 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​",
-    "answer_vi": "Làm việc",
+    "answer": "Work / Job",
+    "answer_vi": "Công việc",
     "options": [
-      "काम करना​",
-      "पैसा​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​",
-      "काम करना​​​​​​​​​​​"
+      "Work / Job",
+      "Money",
+      "To work",
+      "To work"
     ],
     "options_vi": [
-      "Làm việc",
+      "Công việc",
       "Tiền",
       "Làm việc",
       "Làm việc"
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a दफ़्तर​​​​​​ / Nó là một Văn phòng",
+    "englishSentence": "Nó là một Văn phòng",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,14 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like मूल्य / Tôi thích Giá trị",
+    "englishSentence": "Tôi thích Giá trị",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Value / Price"
+      "Value",
+      "/",
+      "Price"
     ],
     "correctHindiSentence": "I really like Value / Price"
   },

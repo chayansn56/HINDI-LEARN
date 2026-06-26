@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "to be / to happen",
     "transliteration": "",
-    "english": "होना",
-    "vietnamese": "Thì / Là / Xảy ra",
+    "english": "Thì / Là / Xảy ra",
+    "vietnamese": "",
     "audio": "to be / to happen"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
@@ -79,19 +79,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To give'",
     "text": "To give",
     "subtext": "",
-    "answer": "देना​​​​​​​​",
+    "answer": "To give",
     "answer_vi": "Cho / Tặng",
     "options": [
-      "देना​​​​​​​​",
-      "होना",
-      "खोलना​​​​​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To give",
+      "to be / to happen",
+      "To open",
+      "to be / to happen"
     ],
     "options_vi": [
       "Cho / Tặng",
       "Thì / Là / Xảy ra",
       "Mở",
-      "Đứng"
+      "Thì / Là / Xảy ra"
     ]
   },
   {
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "3",
     "transliteration": "",
-    "english": "३",
-    "vietnamese": "Ba",
+    "english": "Ba",
+    "vietnamese": "",
     "audio": "3"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "How much is this?",
     "transliteration": "",
-    "english": "यह कितने का है?",
-    "vietnamese": "Cái này bao nhiêu tiền?",
+    "english": "Cái này bao nhiêu tiền?",
+    "vietnamese": "",
     "audio": "How much is this?"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho '3'",
     "text": "3",
     "subtext": "",
-    "answer": "३",
+    "answer": "3",
     "answer_vi": "Ba",
     "options": [
-      "३",
-      "धोना​",
-      "यह कितने का है?",
-      "सुनना​​​"
+      "3",
+      "To wash",
+      "How much is this?",
+      "To listen / hear"
     ],
     "options_vi": [
       "Ba",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloth / Dress",
     "transliteration": "",
-    "english": "कपड़ा",
-    "vietnamese": "Quần áo",
+    "english": "Quần áo",
+    "vietnamese": "",
     "audio": "Cloth / Dress"
   },
   {
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​​​​​​​​​​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
     "type": "Flashcard",
     "hindi": "No way!",
     "transliteration": "",
-    "english": "घंटा",
-    "vietnamese": "Không đời nào / Thôi đi",
+    "english": "Không đời nào / Thôi đi",
+    "vietnamese": "",
     "audio": "No way!"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To sleep'",
     "text": "To sleep",
     "subtext": "",
-    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To sleep",
     "answer_vi": "Ngủ",
     "options": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "कपड़ा",
-      "प्याला​​​​​​​​​​",
-      "घंटा"
+      "To sleep",
+      "Cloth / Dress",
+      "Cup",
+      "No way!"
     ],
     "options_vi": [
       "Ngủ",
@@ -300,23 +300,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the देना​​​​​​​​ / Tôi thấy Cho / Tặng",
+    "englishSentence": "Tặng",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To give"
+      "To",
+      "give"
     ],
     "correctHindiSentence": "I see the To give"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a होना / Tôi muốn Thì / Là / Xảy ra",
+    "englishSentence": "Xảy ra",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "to be / to happen"
+      "to",
+      "be",
+      "/",
+      "to",
+      "happen"
     ],
     "correctHindiSentence": "I want a to be / to happen"
   },

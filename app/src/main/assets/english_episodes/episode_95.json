@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Failure",
     "transliteration": "",
-    "english": "असफलता",
-    "vietnamese": "Sự thất bại",
+    "english": "Sự thất bại",
+    "vietnamese": "",
     "audio": "Failure"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Failure'",
     "text": "Failure",
     "subtext": "",
-    "answer": "असफलता",
+    "answer": "Failure",
     "answer_vi": "Sự thất bại",
     "options": [
-      "असफलता",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सोना​​​​​​​​​​​​​​​​​​​",
-      "बेचना​​​​​​​​​​​​"
+      "Failure",
+      "To sleep",
+      "To sleep",
+      "To sell"
     ],
     "options_vi": [
       "Sự thất bại",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "River",
     "transliteration": "",
-    "english": "नदी​​​​​​​​​",
-    "vietnamese": "Con sông",
+    "english": "Con sông",
+    "vietnamese": "",
     "audio": "River"
   },
   {
     "type": "Flashcard",
     "hindi": "And / More",
     "transliteration": "",
-    "english": "और",
-    "vietnamese": "Và / Thêm nữa",
+    "english": "Và / Thêm nữa",
+    "vietnamese": "",
     "audio": "And / More"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom (relative plural)",
     "transliteration": "",
-    "english": "जिन्हें",
-    "vietnamese": "Người mà (số nhiều)",
+    "english": "Người mà (số nhiều)",
+    "vietnamese": "",
     "audio": "Whom (relative plural)"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​​​​​​​​​​​​​​​​​​​​",
-      "नदी​​​​​​​​​",
-      "और",
-      "जिन्हें"
+      "To open",
+      "River",
+      "And / More",
+      "Whom (relative plural)"
     ],
     "options_vi": [
       "Mở",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Business / Trade",
     "transliteration": "",
-    "english": "व्यापार",
-    "vietnamese": "Kinh doanh / Thương mại",
+    "english": "Kinh doanh / Thương mại",
+    "vietnamese": "",
     "audio": "Business / Trade"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Business / Trade'",
     "text": "Business / Trade",
     "subtext": "",
-    "answer": "व्यापार",
+    "answer": "Business / Trade",
     "answer_vi": "Kinh doanh / Thương mại",
     "options": [
-      "व्यापार",
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Business / Trade",
+      "To close",
+      "To laugh",
+      "To sit"
     ],
     "options_vi": [
       "Kinh doanh / Thương mại",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the असफलता / Tôi thấy Sự thất bại",
+    "englishSentence": "Tôi thấy Sự thất bại",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Ngủ",
+    "englishSentence": "Tôi muốn Ngủ",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sleep"
+      "To",
+      "sleep"
     ],
     "correctHindiSentence": "I want a To sleep"
   },

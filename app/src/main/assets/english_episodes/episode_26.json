@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Police station",
     "transliteration": "",
-    "english": "थाना",
-    "vietnamese": "Đồn cảnh sát",
+    "english": "Đồn cảnh sát",
+    "vietnamese": "",
     "audio": "Police station"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "am",
     "transliteration": "",
-    "english": "हूँ",
-    "vietnamese": "Là (tôi)",
+    "english": "Là (tôi)",
+    "vietnamese": "",
     "audio": "am"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Police station'",
     "text": "Police station",
     "subtext": "",
-    "answer": "थाना",
+    "answer": "Police station",
     "answer_vi": "Đồn cảnh sát",
     "options": [
-      "थाना",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "हूँ"
+      "Police station",
+      "To sit",
+      "To tell / explain",
+      "am"
     ],
     "options_vi": [
       "Đồn cảnh sát",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "are",
     "transliteration": "",
-    "english": "हो",
-    "vietnamese": "Là (bạn)",
+    "english": "Là (bạn)",
+    "vietnamese": "",
     "audio": "are"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Rupee / Money",
     "transliteration": "",
-    "english": "रुपया",
-    "vietnamese": "Đồng rupee / Tiền",
+    "english": "Đồng rupee / Tiền",
+    "vietnamese": "",
     "audio": "Rupee / Money"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'are'",
     "text": "are",
     "subtext": "",
-    "answer": "हो",
+    "answer": "are",
     "answer_vi": "Là (bạn)",
     "options": [
-      "हो",
-      "पूछना​​​​​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "रुपया"
+      "are",
+      "To ask",
+      "To run",
+      "Rupee / Money"
     ],
     "options_vi": [
       "Là (bạn)",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "will be (masculine plural)",
     "transliteration": "",
-    "english": "होंगे",
-    "vietnamese": "Sẽ là (nam số nhiều)",
+    "english": "Sẽ là (nam số nhiều)",
+    "vietnamese": "",
     "audio": "will be (masculine plural)"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To sleep",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngủ",
+    "english": "Ngủ",
+    "vietnamese": "",
     "audio": "To sleep"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -243,16 +243,16 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'will be (masculine plural)'",
     "text": "will be (masculine plural)",
     "subtext": "",
-    "answer": "होंगे",
-    "answer_vi": "Sẽ là (nam số nhiều)",
+    "answer": "are",
+    "answer_vi": "Là (bạn)",
     "options": [
-      "होंगे",
-      "चलना​​​​​​​​​​​​​​​​​​​​",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​"
+      "are",
+      "To walk / move",
+      "To sleep",
+      "To read"
     ],
     "options_vi": [
-      "Sẽ là (nam số nhiều)",
+      "Là (bạn)",
       "Đi bộ / Di chuyển",
       "Ngủ",
       "Đọc"
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the थाना / Tôi thấy Đồn cảnh sát",
+    "englishSentence": "Tôi thấy Đồn cảnh sát",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Police station"
+      "Police",
+      "station"
     ],
     "correctHindiSentence": "I see the Police station"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Ngồi",
+    "englishSentence": "Tôi muốn Ngồi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sit"
+      "To",
+      "sit"
     ],
     "correctHindiSentence": "I want a To sit"
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "His / Her / Its (near)",
     "transliteration": "",
-    "english": "इसका",
-    "vietnamese": "Của anh/chị/nó (gần)",
+    "english": "Của anh/chị/nó (gần)",
+    "vietnamese": "",
     "audio": "His / Her / Its (near)"
   },
   {
     "type": "Flashcard",
     "hindi": "To / For",
     "transliteration": "",
-    "english": "को",
-    "vietnamese": "Cho / Tới",
+    "english": "Cho / Tới",
+    "vietnamese": "",
     "audio": "To / For"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Leaf",
     "transliteration": "",
-    "english": "पत्ता",
-    "vietnamese": "Lá cây",
+    "english": "Lá cây",
+    "vietnamese": "",
     "audio": "Leaf"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'His / Her / Its (near)'",
     "text": "His / Her / Its (near)",
     "subtext": "",
-    "answer": "इसका",
+    "answer": "His / Her / Its (near)",
     "answer_vi": "Của anh/chị/nó (gần)",
     "options": [
-      "इसका",
-      "को",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पत्ता"
+      "His / Her / Its (near)",
+      "To / For",
+      "To read",
+      "Leaf"
     ],
     "options_vi": [
       "Của anh/chị/nó (gần)",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "were (masculine plural)",
     "transliteration": "",
-    "english": "थे",
-    "vietnamese": "Đã là (nam số nhiều)",
+    "english": "Đã là (nam số nhiều)",
+    "vietnamese": "",
     "audio": "were (masculine plural)"
   },
   {
     "type": "Flashcard",
     "hindi": "Husband",
     "transliteration": "",
-    "english": "पति",
-    "vietnamese": "Chồng",
+    "english": "Chồng",
+    "vietnamese": "",
     "audio": "Husband"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To do'",
     "text": "To do",
     "subtext": "",
-    "answer": "करना​​​​​​​​​​​​​",
+    "answer": "To do",
     "answer_vi": "Làm",
     "options": [
-      "करना​​​​​​​​​​​​​",
-      "थे",
-      "पति",
-      "बेचना​​​​​​​​​​​​​​​"
+      "To do",
+      "were (masculine plural)",
+      "Husband",
+      "To sell"
     ],
     "options_vi": [
       "Làm",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "I am hungry.",
     "transliteration": "",
-    "english": "मुझे भूख लगी है।",
-    "vietnamese": "Tôi đói.",
+    "english": "Tôi đói.",
+    "vietnamese": "",
     "audio": "I am hungry."
   },
   {
     "type": "Flashcard",
     "hindi": "Shopkeeper",
     "transliteration": "",
-    "english": "दुकानदार",
-    "vietnamese": "Chủ cửa hàng",
+    "english": "Chủ cửa hàng",
+    "vietnamese": "",
     "audio": "Shopkeeper"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'I am hungry.'",
     "text": "I am hungry.",
     "subtext": "",
-    "answer": "मुझे भूख लगी है।",
+    "answer": "I am hungry.",
     "answer_vi": "Tôi đói.",
     "options": [
-      "मुझे भूख लगी है।",
-      "दुकानदार",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मिट्टी​​​​"
+      "I am hungry.",
+      "Shopkeeper",
+      "To listen / hear",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Tôi đói.",
@@ -300,23 +300,30 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the इसका / Tôi thấy Của anh/chị/nó (gần)",
+    "englishSentence": "nó (gần)",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "His / Her / Its (near)"
+      "His",
+      "/",
+      "Her",
+      "/",
+      "Its",
+      "(near)"
     ],
     "correctHindiSentence": "I see the His / Her / Its (near)"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a को / Tôi muốn Cho / Tới",
+    "englishSentence": "Tới",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To / For"
+      "To",
+      "/",
+      "For"
     ],
     "correctHindiSentence": "I want a To / For"
   },

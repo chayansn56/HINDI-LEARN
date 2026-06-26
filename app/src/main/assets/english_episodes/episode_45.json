@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "I am fine, thank you.",
     "transliteration": "",
-    "english": "मैं ठीक हूँ, धन्यवाद।",
-    "vietnamese": "Tôi khỏe, cảm ơn.",
+    "english": "Tôi khỏe, cảm ơn.",
+    "vietnamese": "",
     "audio": "I am fine, thank you."
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
     "text": "To walk / move",
     "subtext": "",
-    "answer": "चलना​​​​​​​",
+    "answer": "To walk / move",
     "answer_vi": "Đi bộ / Di chuyển",
     "options": [
-      "चलना​​​​​​​",
-      "मैं ठीक हूँ, धन्यवाद।",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "जागना​​​​​​​"
+      "To walk / move",
+      "I am fine, thank you.",
+      "To read",
+      "To wake up"
     ],
     "options_vi": [
       "Đi bộ / Di chuyển",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "How are you? (Formal)",
     "transliteration": "",
-    "english": "आप कैसे हैं?",
-    "vietnamese": "Bạn khỏe không? (Lịch sự)",
+    "english": "Bạn khỏe không? (Lịch sự)",
+    "vietnamese": "",
     "audio": "How are you? (Formal)"
   },
   {
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​​​​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'How are you? (Formal)'",
     "text": "How are you? (Formal)",
     "subtext": "",
-    "answer": "आप कैसे हैं?",
+    "answer": "How are you? (Formal)",
     "answer_vi": "Bạn khỏe không? (Lịch sự)",
     "options": [
-      "आप कैसे हैं?",
-      "ताला​​​​​​",
-      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​​​​​​​​"
+      "How are you? (Formal)",
+      "Lock",
+      "To give",
+      "To ask"
     ],
     "options_vi": [
       "Bạn khỏe không? (Lịch sự)",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom / To whom",
     "transliteration": "",
-    "english": "किसे",
-    "vietnamese": "Ai / Cho ai",
+    "english": "Ai / Cho ai",
+    "vietnamese": "",
     "audio": "Whom / To whom"
   },
   {
     "type": "Flashcard",
     "hindi": "Who / Which (relative)",
     "transliteration": "",
-    "english": "जो",
-    "vietnamese": "Người/Vật mà",
+    "english": "Người/Vật mà",
+    "vietnamese": "",
     "audio": "Who / Which (relative)"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
     "text": "Sea / Ocean",
     "subtext": "",
-    "answer": "समुद्र​​​​",
+    "answer": "Sea / Ocean",
     "answer_vi": "Biển",
     "options": [
-      "समुद्र​​​​",
-      "किसे",
-      "जो",
-      "सुनना​​​​​​​​​​​​​​​​​​"
+      "Sea / Ocean",
+      "Whom / To whom",
+      "Who / Which (relative)",
+      "To listen / hear"
     ],
     "options_vi": [
       "Biển",
@@ -300,23 +300,30 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the चलना​​​​​​​ / Tôi thấy Đi bộ / Di chuyển",
+    "englishSentence": "Di chuyển",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To walk / move"
+      "To",
+      "walk",
+      "/",
+      "move"
     ],
     "correctHindiSentence": "I see the To walk / move"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a मैं ठीक हूँ, धन्यवाद। / Tôi muốn Tôi khỏe, cảm ơn.",
+    "englishSentence": "Tôi muốn Tôi khỏe, cảm ơn.",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "I am fine, thank you."
+      "I",
+      "am",
+      "fine,",
+      "thank",
+      "you."
     ],
     "correctHindiSentence": "I want a I am fine, thank you."
   },

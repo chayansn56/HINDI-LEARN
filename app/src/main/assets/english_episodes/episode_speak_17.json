@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Oh friend! / Oh man!",
     "transliteration": "",
-    "english": "अरे यार!",
-    "vietnamese": "Trời ơi bạn ơi!",
+    "english": "Trời ơi bạn ơi!",
+    "vietnamese": "",
     "audio": "Oh friend! / Oh man!"
   },
   {
     "type": "Flashcard",
     "hindi": "to know",
     "transliteration": "",
-    "english": "जानना",
-    "vietnamese": "Biết",
+    "english": "Biết",
+    "vietnamese": "",
     "audio": "to know"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Now",
     "transliteration": "",
-    "english": "अब",
-    "vietnamese": "Bây giờ",
+    "english": "Bây giờ",
+    "vietnamese": "",
     "audio": "Now"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Oh friend! / Oh man!'",
     "text": "Oh friend! / Oh man!",
     "subtext": "",
-    "answer": "अरे यार!",
+    "answer": "Oh friend! / Oh man!",
     "answer_vi": "Trời ơi bạn ơi!",
     "options": [
-      "अरे यार!",
-      "जानना",
-      "बर्फ़​",
-      "अब"
+      "Oh friend! / Oh man!",
+      "to know",
+      "Snow / Ice",
+      "Now"
     ],
     "options_vi": [
       "Trời ơi bạn ơi!",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "What is the plan?",
     "transliteration": "",
-    "english": "सीन क्या है?",
-    "vietnamese": "Kế hoạch là gì thế?",
+    "english": "Kế hoạch là gì thế?",
+    "vietnamese": "",
     "audio": "What is the plan?"
   },
   {
     "type": "Flashcard",
     "hindi": "Hello (highly respectful)",
     "transliteration": "",
-    "english": "नमस्ते जी",
-    "vietnamese": "Kính chào quý vị",
+    "english": "Kính chào quý vị",
+    "vietnamese": "",
     "audio": "Hello (highly respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "Where (relative)",
     "transliteration": "",
-    "english": "जहाँ",
-    "vietnamese": "Nơi mà",
+    "english": "Nơi mà",
+    "vietnamese": "",
     "audio": "Where (relative)"
   },
   {
     "type": "Flashcard",
     "hindi": "Enough / Stop",
     "transliteration": "",
-    "english": "बस",
-    "vietnamese": "Đủ rồi / Thôi",
+    "english": "Đủ rồi / Thôi",
+    "vietnamese": "",
     "audio": "Enough / Stop"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'What is the plan?'",
     "text": "What is the plan?",
     "subtext": "",
-    "answer": "सीन क्या है?",
+    "answer": "What is the plan?",
     "answer_vi": "Kế hoạch là gì thế?",
     "options": [
-      "सीन क्या है?",
-      "नमस्ते जी",
-      "जहाँ",
-      "बस"
+      "What is the plan?",
+      "Hello (highly respectful)",
+      "Where (relative)",
+      "Enough / Stop"
     ],
     "options_vi": [
       "Kế hoạch là gì thế?",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "No (respectful)",
     "transliteration": "",
-    "english": "जी नहीं",
-    "vietnamese": "Không (Lịch sự)",
+    "english": "Không (Lịch sự)",
+    "vietnamese": "",
     "audio": "No (respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "How much",
     "transliteration": "",
-    "english": "कितना",
-    "vietnamese": "Bao nhiêu",
+    "english": "Bao nhiêu",
+    "vietnamese": "",
     "audio": "How much"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "What else is going on? / What's up?",
     "transliteration": "",
-    "english": "और क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì mới không?",
+    "english": "Có chuyện gì mới không?",
+    "vietnamese": "",
     "audio": "What else is going on? / What's up?"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'No (respectful)'",
     "text": "No (respectful)",
     "subtext": "",
-    "answer": "जी नहीं",
+    "answer": "No (respectful)",
     "answer_vi": "Không (Lịch sự)",
     "options": [
-      "जी नहीं",
-      "कितना",
-      "बर्फ़",
-      "और क्या चल रहा है?"
+      "No (respectful)",
+      "How much",
+      "Snow / Ice",
+      "What else is going on? / What's up?"
     ],
     "options_vi": [
       "Không (Lịch sự)",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Nose",
     "transliteration": "",
-    "english": "नाक",
-    "vietnamese": "Mũi",
+    "english": "Mũi",
+    "vietnamese": "",
     "audio": "Nose"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom / To whom",
     "transliteration": "",
-    "english": "किसे",
-    "vietnamese": "Ai / Cho ai",
+    "english": "Ai / Cho ai",
+    "vietnamese": "",
     "audio": "Whom / To whom"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​​​​",
-      "नाक",
-      "कापी",
-      "किसे"
+      "Snow / Ice",
+      "Nose",
+      "Notebook",
+      "Whom / To whom"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -355,23 +355,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a अरे यार! / Nó là một Trời ơi bạn ơi!",
+    "englishSentence": "Nó là một Trời ơi bạn ơi!",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Oh friend! / Oh man!"
+      "Oh",
+      "friend!",
+      "/",
+      "Oh",
+      "man!"
     ],
     "correctHindiSentence": "It is a Oh friend! / Oh man!"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like जानना / Tôi thích Biết",
+    "englishSentence": "Tôi thích Biết",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "to know"
+      "to",
+      "know"
     ],
     "correctHindiSentence": "I really like to know"
   },

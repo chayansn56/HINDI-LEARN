@@ -1,65 +1,83 @@
-{
-  "title": "Final Consonants",
-  "description": "Mastering the pronunciation of final consonant sounds.",
-  "nodes": [
-    {
-      "type": "TeachRule",
-      "content": "Phụ âm cuối (Final Consonants) cực kỳ quan trọng trong tiếng Anh. Không phát âm hoặc phát âm sai phụ âm cuối có thể gây hiểu nhầm."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Wife",
-      "translation": "Vợ (kết thúc bằng âm /f/)",
-      "audio": "wife"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Wine",
-      "translation": "Rượu vang (kết thúc bằng âm /n/)",
-      "audio": "wine"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "White",
-      "translation": "Màu trắng (kết thúc bằng âm /t/)",
-      "audio": "white"
-    },
-    {
-      "type": "TeachRule",
-      "content": "Phân biệt s/es: Thường có 3 cách đọc là /s/, /z/, và /ɪz/."
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Cats",
-      "translation": "Những con mèo (âm cuối /s/)",
-      "audio": "cats"
-    },
-    {
-      "type": "Flashcard",
-      "hindi": "Dogs",
-      "translation": "Những con chó (âm cuối /z/)",
-      "audio": "dogs"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Từ 'Buses' có âm cuối được phát âm là gì?",
-      "options": ["/s/", "/z/", "/ɪz/", "/d/"],
-      "correctAnswer": "/ɪz/"
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "Âm cuối của từ 'white' là:",
-      "options": ["/n/", "/t/", "/f/", "Không có"],
-      "correctAnswer": "/t/"
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {"left": "Cats", "right": "/s/"},
-        {"left": "Dogs", "right": "/z/"},
-        {"left": "Watches", "right": "/ɪz/"},
-        {"left": "Wife", "right": "/f/"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "content": "Phụ âm cuối (Final Consonants) cực kỳ quan trọng trong tiếng Anh. Không phát âm hoặc phát âm sai phụ âm cuối có thể gây hiểu nhầm."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Wife",
+    "translation": "Vợ (kết thúc bằng âm /f/)",
+    "audio": "wife"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Wine",
+    "translation": "Rượu vang (kết thúc bằng âm /n/)",
+    "audio": "wine"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "White",
+    "translation": "Màu trắng (kết thúc bằng âm /t/)",
+    "audio": "white"
+  },
+  {
+    "type": "TeachRule",
+    "content": "Phân biệt s/es: Thường có 3 cách đọc là /s/, /z/, và /ɪz/."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Cats",
+    "translation": "Những con mèo (âm cuối /s/)",
+    "audio": "cats"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Dogs",
+    "translation": "Những con chó (âm cuối /z/)",
+    "audio": "dogs"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Từ 'Buses' có âm cuối được phát âm là gì?",
+    "options": [
+      "/s/",
+      "/z/",
+      "/ɪz/",
+      "/d/"
+    ],
+    "correctAnswer": "/ɪz/"
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "Âm cuối của từ 'white' là:",
+    "options": [
+      "/n/",
+      "/t/",
+      "/f/",
+      "Không có"
+    ],
+    "correctAnswer": "/t/"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "left": "Cats",
+        "right": "/s/"
+      },
+      {
+        "left": "Dogs",
+        "right": "/z/"
+      },
+      {
+        "left": "Watches",
+        "right": "/ɪz/"
+      },
+      {
+        "left": "Wife",
+        "right": "/f/"
+      }
+    ]
+  }
+]

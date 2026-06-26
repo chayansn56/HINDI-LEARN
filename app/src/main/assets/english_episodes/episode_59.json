@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Daughter",
     "transliteration": "",
-    "english": "बेटी",
-    "vietnamese": "Con gái (đối với cha mẹ)",
+    "english": "Con gái (đối với cha mẹ)",
+    "vietnamese": "",
     "audio": "Daughter"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "Come inside.",
     "transliteration": "",
-    "english": "अंदर आओ।",
-    "vietnamese": "Vào trong đi.",
+    "english": "Vào trong đi.",
+    "vietnamese": "",
     "audio": "Come inside."
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Daughter'",
     "text": "Daughter",
     "subtext": "",
-    "answer": "बेटी",
+    "answer": "Daughter",
     "answer_vi": "Con gái (đối với cha mẹ)",
     "options": [
-      "बेटी",
-      "देना​​​​​​​​​​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "अंदर आओ।"
+      "Daughter",
+      "To give",
+      "To wash",
+      "Come inside."
     ],
     "options_vi": [
       "Con gái (đối với cha mẹ)",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Laddu",
     "transliteration": "",
-    "english": "लड्डू",
-    "vietnamese": "Bánh Laddu tròn",
+    "english": "Bánh Laddu tròn",
+    "vietnamese": "",
     "audio": "Laddu"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​",
-      "लड्डू",
-      "लेना​​​​​​​​​",
-      "लिखना​​​"
+      "To open",
+      "Laddu",
+      "To take",
+      "To write"
     ],
     "options_vi": [
       "Mở",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​​​​​​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
     "text": "Sea / Ocean",
     "subtext": "",
-    "answer": "समुद्र​​​​​​​​​​",
+    "answer": "Sea / Ocean",
     "answer_vi": "Biển",
     "options": [
-      "समुद्र​​​​​​​​​​",
-      "पूछना​​​​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Sea / Ocean",
+      "To ask",
+      "To ask",
+      "To listen / hear"
     ],
     "options_vi": [
       "Biển",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बेटी / Tôi thấy Con gái (đối với cha mẹ)",
+    "englishSentence": "Tôi thấy Con gái (đối với cha mẹ)",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a देना​​​​​​​​​​​​​​​​​ / Tôi muốn Cho / Tặng",
+    "englishSentence": "Tặng",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To give"
+      "To",
+      "give"
     ],
     "correctHindiSentence": "I want a To give"
   },

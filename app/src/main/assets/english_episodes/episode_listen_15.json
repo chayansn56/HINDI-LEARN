@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "near / near to / possess (have)",
     "transliteration": "",
-    "english": "के पास",
-    "vietnamese": "Gần / Có",
+    "english": "Gần / Có",
+    "vietnamese": "",
     "audio": "near / near to / possess (have)"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'near / near to / possess (have)'",
     "text": "near / near to / possess (have)",
     "subtext": "",
-    "answer": "के पास",
+    "answer": "near / near to / possess (have)",
     "answer_vi": "Gần / Có",
     "options": [
-      "के पास",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "near / near to / possess (have)",
+      "To listen / hear",
+      "To listen / hear",
+      "To learn"
     ],
     "options_vi": [
       "Gần / Có",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloud'",
     "text": "Cloud",
     "subtext": "",
-    "answer": "बादल​​​​​​​​​",
+    "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
-      "बादल​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​",
-      "सुनना​​​​​"
+      "Cloud",
+      "To listen / hear",
+      "To listen / hear",
+      "To listen / hear"
     ],
     "options_vi": [
       "Đám mây",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "Fear",
     "transliteration": "",
-    "english": "डर",
-    "vietnamese": "Sự sợ hãi",
+    "english": "Sự sợ hãi",
+    "vietnamese": "",
     "audio": "Fear"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
     "text": "To learn",
     "subtext": "",
-    "answer": "सीखना​​​​​​​​​​​​​",
+    "answer": "To learn",
     "answer_vi": "Học",
     "options": [
-      "सीखना​​​​​​​​​​​​​",
-      "बादल​​​​",
-      "बादल​​​​​​",
-      "डर"
+      "To learn",
+      "Cloud",
+      "Cloud",
+      "Fear"
     ],
     "options_vi": [
       "Học",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Keep quiet / Shut up.",
     "transliteration": "",
-    "english": "चुप रहो।",
-    "vietnamese": "Im lặng đi.",
+    "english": "Im lặng đi.",
+    "vietnamese": "",
     "audio": "Keep quiet / Shut up."
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​",
-      "चुप रहो।",
-      "सुनना​​​​​​​​​​​​​​​​​​"
+      "To listen / hear",
+      "To listen / hear",
+      "Keep quiet / Shut up.",
+      "To listen / hear"
     ],
     "options_vi": [
       "Nghe",
@@ -355,23 +355,32 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a के पास / Nó là một Gần / Có",
+    "englishSentence": "Có",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "near / near to / possess (have)"
+      "near",
+      "/",
+      "near",
+      "to",
+      "/",
+      "possess",
+      "(have)"
     ],
     "correctHindiSentence": "It is a near / near to / possess (have)"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सुनना​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Nghe",
+    "englishSentence": "Tôi thích Nghe",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To listen / hear"
+      "To",
+      "listen",
+      "/",
+      "hear"
     ],
     "correctHindiSentence": "I really like To listen / hear"
   },

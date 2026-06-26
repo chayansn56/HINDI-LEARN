@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Festival",
     "transliteration": "",
-    "english": "त्योहार",
-    "vietnamese": "Lễ hội",
+    "english": "Lễ hội",
+    "vietnamese": "",
     "audio": "Festival"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Car / Train / Cart",
     "transliteration": "",
-    "english": "गाड़ी",
-    "vietnamese": "Xe hơi / Xe lửa",
+    "english": "Xe hơi / Xe lửa",
+    "vietnamese": "",
     "audio": "Car / Train / Cart"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​​​​",
-      "त्योहार",
-      "मिट्टी​",
-      "गाड़ी"
+      "Soil / Earth",
+      "Festival",
+      "Soil / Earth",
+      "Car / Train / Cart"
     ],
     "options_vi": [
       "Đất",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Agentive particle",
     "transliteration": "",
-    "english": "ने",
-    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "english": "Hậu giới từ chỉ tác nhân",
+    "vietnamese": "",
     "audio": "Agentive particle"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Agentive particle'",
     "text": "Agentive particle",
     "subtext": "",
-    "answer": "ने",
+    "answer": "Agentive particle",
     "answer_vi": "Hậu giới từ chỉ tác nhân",
     "options": [
-      "ने",
-      "मिट्टी​​​​​​​",
-      "मिट्टी​​​​​​​​",
-      "मिट्टी​​​"
+      "Agentive particle",
+      "Soil / Earth",
+      "Soil / Earth",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Hậu giới từ chỉ tác nhân",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Let's start.",
     "transliteration": "",
-    "english": "चलो शुरू करते हैं।",
-    "vietnamese": "Hãy bắt đầu thôi.",
+    "english": "Hãy bắt đầu thôi.",
+    "vietnamese": "",
     "audio": "Let's start."
   },
   {
     "type": "Flashcard",
     "hindi": "Defiled food",
     "transliteration": "",
-    "english": "जूठा",
-    "vietnamese": "Thức ăn thừa / Ô uế",
+    "english": "Thức ăn thừa / Ô uế",
+    "vietnamese": "",
     "audio": "Defiled food"
   },
   {
     "type": "Flashcard",
     "hindi": "to drink",
     "transliteration": "",
-    "english": "पीना",
-    "vietnamese": "Uống",
+    "english": "Uống",
+    "vietnamese": "",
     "audio": "to drink"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance",
     "transliteration": "",
-    "english": "नृत्य",
-    "vietnamese": "Điệu nhảy",
+    "english": "Điệu nhảy",
+    "vietnamese": "",
     "audio": "Dance"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Let's start.'",
     "text": "Let's start.",
     "subtext": "",
-    "answer": "चलो शुरू करते हैं।",
+    "answer": "Let's start.",
     "answer_vi": "Hãy bắt đầu thôi.",
     "options": [
-      "चलो शुरू करते हैं।",
-      "जूठा",
-      "पीना",
-      "नृत्य"
+      "Let's start.",
+      "Defiled food",
+      "to drink",
+      "Dance"
     ],
     "options_vi": [
       "Hãy bắt đầu thôi.",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "To eat / Food",
     "transliteration": "",
-    "english": "खाना",
-    "vietnamese": "Ăn / Đồ ăn",
+    "english": "Ăn / Đồ ăn",
+    "vietnamese": "",
     "audio": "To eat / Food"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance, my love",
     "transliteration": "",
-    "english": "नच बलिए",
-    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "english": "Nhảy đi tình yêu của tôi",
+    "vietnamese": "",
     "audio": "Dance, my love"
   },
   {
     "type": "Flashcard",
     "hindi": "Drinking water",
     "transliteration": "",
-    "english": "पीने का पानी",
-    "vietnamese": "Nước uống",
+    "english": "Nước uống",
+    "vietnamese": "",
     "audio": "Drinking water"
   },
   {
@@ -298,19 +298,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​​​",
-      "खाना",
-      "नच बलिए",
-      "पीने का पानी"
+      "Soil / Earth",
+      "To eat / Food",
+      "Dance, my love",
+      "Agentive particle"
     ],
     "options_vi": [
       "Đất",
       "Ăn / Đồ ăn",
       "Nhảy đi tình yêu của tôi",
-      "Nước uống"
+      "Hậu giới từ chỉ tác nhân"
     ]
   },
   {
@@ -355,18 +355,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a मिट्टी​​​​​​ / Nó là một Đất",
+    "englishSentence": "Nó là một Đất",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Soil / Earth"
+      "Soil",
+      "/",
+      "Earth"
     ],
     "correctHindiSentence": "It is a Soil / Earth"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like त्योहार / Tôi thích Lễ hội",
+    "englishSentence": "Tôi thích Lễ hội",
     "hindiWords": [
       "I",
       "really",

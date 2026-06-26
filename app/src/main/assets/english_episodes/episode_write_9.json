@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "to drink",
     "transliteration": "",
-    "english": "पीना",
-    "vietnamese": "Uống",
+    "english": "Uống",
+    "vietnamese": "",
     "audio": "to drink"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Read (root)",
     "transliteration": "",
-    "english": "पढ़",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "Read (root)"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to drink'",
     "text": "to drink",
     "subtext": "",
-    "answer": "पीना",
+    "answer": "to drink",
     "answer_vi": "Uống",
     "options": [
-      "पीना",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​",
-      "पढ़"
+      "to drink",
+      "To read",
+      "To write",
+      "Read (root)"
     ],
     "options_vi": [
       "Uống",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​",
-      "कापी",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​"
+      "To write",
+      "Read (root)",
+      "Notebook",
+      "To open"
     ],
     "options_vi": [
       "Viết",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​",
-      "पढ़ना​​​​​​​​​​​"
+      "To write",
+      "To write",
+      "To open",
+      "Read (root)"
     ],
     "options_vi": [
       "Viết",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "Seen (read receipt)",
     "transliteration": "",
-    "english": "सीन",
-    "vietnamese": "Đã xem (tin nhắn)",
+    "english": "Đã xem (tin nhắn)",
+    "vietnamese": "",
     "audio": "Seen (read receipt)"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Pen'",
     "text": "Pen",
     "subtext": "",
-    "answer": "पेन​​​​​​​​​​",
+    "answer": "Pen",
     "answer_vi": "Bút",
     "options": [
-      "पेन​​​​​​​​​​",
-      "सीन",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​"
+      "Pen",
+      "Seen (read receipt)",
+      "Read (root)",
+      "Read (root)"
     ],
     "options_vi": [
       "Bút",
@@ -355,23 +355,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a पीना / Nó là một Uống",
+    "englishSentence": "Nó là một Uống",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "to drink"
+      "to",
+      "drink"
     ],
     "correctHindiSentence": "It is a to drink"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Đọc",
+    "englishSentence": "Tôi thích Đọc",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To read"
+      "To",
+      "read"
     ],
     "correctHindiSentence": "I really like To read"
   },

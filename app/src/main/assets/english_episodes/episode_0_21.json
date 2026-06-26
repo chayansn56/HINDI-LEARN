@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_21",
-  "title": "Adjectives: Opposites",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Adjectives: Opposites",
-      "explanation": "Learn opposite adjectives."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Big",
-          "translation": "Lớn",
-          "audio": "Big"
-        },
-        {
-          "hindi": "Small",
-          "translation": "Nhỏ",
-          "audio": "Small"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Small' in Vietnamese?",
-      "options": [
-        "Lớn",
-        "Nóng",
-        "Lạnh",
-        "Nhỏ"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Big",
-          "translation": "Lớn"
-        },
-        {
-          "hindi": "Small",
-          "translation": "Nhỏ"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Hot",
-          "translation": "Nóng",
-          "audio": "Hot"
-        },
-        {
-          "hindi": "Cold",
-          "translation": "Lạnh",
-          "audio": "Cold"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Hot' in Vietnamese?",
-      "options": [
-        "Lớn",
-        "Nhỏ",
-        "Nóng",
-        "Lạnh"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Hot",
-          "translation": "Nóng"
-        },
-        {
-          "hindi": "Cold",
-          "translation": "Lạnh"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Fast",
-          "translation": "Nhanh",
-          "audio": "Fast"
-        },
-        {
-          "hindi": "Slow",
-          "translation": "Chậm",
-          "audio": "Slow"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Slow' in Vietnamese?",
-      "options": [
-        "Nhanh",
-        "Chậm",
-        "Nóng",
-        "Lạnh"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Fast",
-          "translation": "Nhanh"
-        },
-        {
-          "hindi": "Slow",
-          "translation": "Chậm"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Adjectives: Opposites",
+    "explanation": "Learn opposite adjectives."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Big",
+        "translation": "Lớn",
+        "audio": "Big"
+      },
+      {
+        "hindi": "Small",
+        "translation": "Nhỏ",
+        "audio": "Small"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Small' in Vietnamese?",
+    "options": [
+      "Lớn",
+      "Nóng",
+      "Lạnh",
+      "Nhỏ"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Big",
+        "translation": "Lớn"
+      },
+      {
+        "hindi": "Small",
+        "translation": "Nhỏ"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Hot",
+        "translation": "Nóng",
+        "audio": "Hot"
+      },
+      {
+        "hindi": "Cold",
+        "translation": "Lạnh",
+        "audio": "Cold"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Hot' in Vietnamese?",
+    "options": [
+      "Lớn",
+      "Nhỏ",
+      "Nóng",
+      "Lạnh"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Hot",
+        "translation": "Nóng"
+      },
+      {
+        "hindi": "Cold",
+        "translation": "Lạnh"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Fast",
+        "translation": "Nhanh",
+        "audio": "Fast"
+      },
+      {
+        "hindi": "Slow",
+        "translation": "Chậm",
+        "audio": "Slow"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Slow' in Vietnamese?",
+    "options": [
+      "Nhanh",
+      "Chậm",
+      "Nóng",
+      "Lạnh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Fast",
+        "translation": "Nhanh"
+      },
+      {
+        "hindi": "Slow",
+        "translation": "Chậm"
+      }
+    ]
+  }
+]

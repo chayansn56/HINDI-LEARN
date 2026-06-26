@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Rain",
     "transliteration": "",
-    "english": "बारिश​​​",
-    "vietnamese": "Cơn mưa",
+    "english": "Cơn mưa",
+    "vietnamese": "",
     "audio": "Rain"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "Cinema / Theater",
     "transliteration": "",
-    "english": "सिनेमा",
-    "vietnamese": "Điện ảnh",
+    "english": "Điện ảnh",
+    "vietnamese": "",
     "audio": "Cinema / Theater"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
     "text": "To read",
     "subtext": "",
-    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बारिश​​​",
-      "धोना​​​​​",
-      "सिनेमा"
+      "To read",
+      "Rain",
+      "To wash",
+      "Cinema / Theater"
     ],
     "options_vi": [
       "Đọc",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "under / below",
     "transliteration": "",
-    "english": "के नीचे",
-    "vietnamese": "Dưới / Phía dưới",
+    "english": "Dưới / Phía dưới",
+    "vietnamese": "",
     "audio": "under / below"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "Train station",
     "transliteration": "",
-    "english": "रेलवे स्टेशन",
-    "vietnamese": "Ga tàu hỏa",
+    "english": "Ga tàu hỏa",
+    "vietnamese": "",
     "audio": "Train station"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
     "text": "Office",
     "subtext": "",
-    "answer": "दफ़्तर​​​​​​",
+    "answer": "Office",
     "answer_vi": "Văn phòng",
     "options": [
-      "दफ़्तर​​​​​​",
-      "के नीचे",
-      "जागना​​​​​​​​​​​",
-      "रेलवे स्टेशन"
+      "Office",
+      "under / below",
+      "To wake up",
+      "Train station"
     ],
     "options_vi": [
       "Văn phòng",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Tea",
     "transliteration": "",
-    "english": "चाय",
-    "vietnamese": "Trà",
+    "english": "Trà",
+    "vietnamese": "",
     "audio": "Tea"
   },
   {
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​",
-      "चाय",
-      "प्याला​",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To ask",
+      "Tea",
+      "Cup",
+      "To laugh"
     ],
     "options_vi": [
       "Hỏi",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Stomach",
     "transliteration": "",
-    "english": "पेट",
-    "vietnamese": "Bụng",
+    "english": "Bụng",
+    "vietnamese": "",
     "audio": "Stomach"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बर्फ़​​​​",
-      "पेट",
-      "सुनना"
+      "To ask",
+      "Snow / Ice",
+      "Stomach",
+      "To listen / hear"
     ],
     "options_vi": [
       "Hỏi",
@@ -355,18 +355,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​ / Nó là một Đọc",
+    "englishSentence": "Nó là một Đọc",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "To read"
+      "To",
+      "read"
     ],
     "correctHindiSentence": "It is a To read"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like बारिश​​​ / Tôi thích Cơn mưa",
+    "englishSentence": "Tôi thích Cơn mưa",
     "hindiWords": [
       "I",
       "really",

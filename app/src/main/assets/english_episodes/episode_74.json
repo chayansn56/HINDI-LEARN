@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "to begin to / to feel",
     "transliteration": "",
-    "english": "लगना",
-    "vietnamese": "Bắt đầu / Cảm thấy",
+    "english": "Bắt đầu / Cảm thấy",
+    "vietnamese": "",
     "audio": "to begin to / to feel"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To tell / explain'",
     "text": "To tell / explain",
     "subtext": "",
-    "answer": "बताना​​​​​​​​​​​​​",
+    "answer": "To tell / explain",
     "answer_vi": "Kể / Giải thích",
     "options": [
-      "बताना​​​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लगना"
+      "To tell / explain",
+      "To sing",
+      "To take",
+      "to begin to / to feel"
     ],
     "options_vi": [
       "Kể / Giải thích",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Thursday",
     "transliteration": "",
-    "english": "गुरुवार",
-    "vietnamese": "Thứ năm",
+    "english": "Thứ năm",
+    "vietnamese": "",
     "audio": "Thursday"
   },
   {
     "type": "Flashcard",
     "hindi": "Hey!",
     "transliteration": "",
-    "english": "ओये",
-    "vietnamese": "Này!",
+    "english": "Này!",
+    "vietnamese": "",
     "audio": "Hey!"
   },
   {
     "type": "Flashcard",
     "hindi": "Air / Wind",
     "transliteration": "",
-    "english": "हवा",
-    "vietnamese": "Không khí / Gió",
+    "english": "Không khí / Gió",
+    "vietnamese": "",
     "audio": "Air / Wind"
   },
   {
     "type": "Flashcard",
     "hindi": "were (masculine plural)",
     "transliteration": "",
-    "english": "थे",
-    "vietnamese": "Đã là (nam số nhiều)",
+    "english": "Đã là (nam số nhiều)",
+    "vietnamese": "",
     "audio": "were (masculine plural)"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Thursday'",
     "text": "Thursday",
     "subtext": "",
-    "answer": "गुरुवार",
+    "answer": "Thursday",
     "answer_vi": "Thứ năm",
     "options": [
-      "गुरुवार",
-      "ओये",
-      "हवा",
-      "थे"
+      "Thursday",
+      "Hey!",
+      "Air / Wind",
+      "were (masculine plural)"
     ],
     "options_vi": [
       "Thứ năm",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "to have to / obligation",
     "transliteration": "",
-    "english": "पड़ना",
-    "vietnamese": "Phải / Bắt buộc",
+    "english": "Phải / Bắt buộc",
+    "vietnamese": "",
     "audio": "to have to / obligation"
   },
   {
     "type": "Flashcard",
     "hindi": "Are you joking?",
     "transliteration": "",
-    "english": "मज़ाक कर रहे हो क्या?",
-    "vietnamese": "Bạn đùa à?",
+    "english": "Bạn đùa à?",
+    "vietnamese": "",
     "audio": "Are you joking?"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'to have to / obligation'",
     "text": "to have to / obligation",
     "subtext": "",
-    "answer": "पड़ना",
+    "answer": "to have to / obligation",
     "answer_vi": "Phải / Bắt buộc",
     "options": [
-      "पड़ना",
-      "मज़ाक कर रहे हो क्या?",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​"
+      "to have to / obligation",
+      "Are you joking?",
+      "To teach",
+      "To wash"
     ],
     "options_vi": [
       "Phải / Bắt buộc",
@@ -300,23 +300,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बताना​​​​​​​​​​​​​ / Tôi thấy Kể / Giải thích",
+    "englishSentence": "Giải thích",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To tell / explain"
+      "To",
+      "tell",
+      "/",
+      "explain"
     ],
     "correctHindiSentence": "I see the To tell / explain"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "englishSentence": "Tôi muốn Hát",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sing"
+      "To",
+      "sing"
     ],
     "correctHindiSentence": "I want a To sing"
   },

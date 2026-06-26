@@ -50,15 +50,16 @@ fun AlphabetScreen(
     var tts by remember { mutableStateOf<TextToSpeech?>(null) }
     
     DisposableEffect(context) {
-        val textToSpeech = TextToSpeech(context) { status ->
+        var textToSpeech: TextToSpeech? = null
+        textToSpeech = TextToSpeech(context) { status ->
             if (status == TextToSpeech.SUCCESS) {
-                tts?.language = Locale.forLanguageTag("hi-IN")
+                textToSpeech?.language = Locale.forLanguageTag("hi-IN")
             }
         }
         tts = textToSpeech
         onDispose {
-            textToSpeech.stop()
-            textToSpeech.shutdown()
+            textToSpeech?.stop()
+            textToSpeech?.shutdown()
         }
     }
 
@@ -132,7 +133,7 @@ fun AlphabetScreen(
                     title = { 
                         Text(
                             text = if (isVi) "Học bảng chữ cái" else "Alphabet Academy", 
-                            color = TextDark, 
+                            color = MaterialTheme.colorScheme.onSurface, 
                             fontWeight = FontWeight.Bold
                         ) 
                     },
@@ -141,7 +142,7 @@ fun AlphabetScreen(
                             Icon(
                                 imageVector = Icons.AutoMirrored.Filled.ArrowBack, 
                                 contentDescription = "Back", 
-                                tint = TextDark
+                                tint = MaterialTheme.colorScheme.onSurface
                             )
                         }
                     },
@@ -164,7 +165,7 @@ fun AlphabetScreen(
                         text = if (isVi) "Nhấn vào bất kỳ ký tự nào để nghe cách phát âm tiếng Hindi bản xứ!" 
                                else "Tap any letter to hear the native Hindi pronunciation!",
                         style = MaterialTheme.typography.bodyMedium,
-                        color = TextDark.copy(alpha = 0.8f),
+                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.8f),
                         modifier = Modifier.padding(16.dp),
                         textAlign = TextAlign.Center
                     )
@@ -183,14 +184,14 @@ fun AlphabetScreen(
                         onClick = { selectedTab = 0 },
                         text = { Text(if (isVi) "Nguyên âm" else "Vowels", fontWeight = FontWeight.Bold) },
                         selectedContentColor = DeepSaffron,
-                        unselectedContentColor = TextDark.copy(alpha = 0.6f)
+                        unselectedContentColor = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
                     )
                     Tab(
                         selected = selectedTab == 1,
                         onClick = { selectedTab = 1 },
                         text = { Text(if (isVi) "Phụ âm" else "Consonants", fontWeight = FontWeight.Bold) },
                         selectedContentColor = DeepSaffron,
-                        unselectedContentColor = TextDark.copy(alpha = 0.6f)
+                        unselectedContentColor = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
                     )
                 }
 
@@ -250,7 +251,7 @@ fun LetterCard(
                 text = letter.character,
                 fontSize = 44.sp,
                 fontWeight = FontWeight.Black,
-                color = TextDark,
+                color = MaterialTheme.colorScheme.onSurface,
                 textAlign = TextAlign.Center
             )
             Spacer(modifier = Modifier.height(4.dp))
@@ -265,7 +266,7 @@ fun LetterCard(
             Text(
                 text = if (isVi) letter.descriptionVi else letter.descriptionEn,
                 style = MaterialTheme.typography.bodySmall,
-                color = TextDark.copy(alpha = 0.6f),
+                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                 textAlign = TextAlign.Center,
                 maxLines = 2
             )

@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Agentive particle",
     "transliteration": "",
-    "english": "ने",
-    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "english": "Hậu giới từ chỉ tác nhân",
+    "vietnamese": "",
     "audio": "Agentive particle"
   },
   {
     "type": "Flashcard",
     "hindi": "Heart",
     "transliteration": "",
-    "english": "दिल",
-    "vietnamese": "Trái tim",
+    "english": "Trái tim",
+    "vietnamese": "",
     "audio": "Heart"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance, my love",
     "transliteration": "",
-    "english": "नच बलिए",
-    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "english": "Nhảy đi tình yêu của tôi",
+    "vietnamese": "",
     "audio": "Dance, my love"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Agentive particle'",
     "text": "Agentive particle",
     "subtext": "",
-    "answer": "ने",
+    "answer": "Agentive particle",
     "answer_vi": "Hậu giới từ chỉ tác nhân",
     "options": [
-      "ने",
-      "दिल",
-      "मिट्टी​​​​​​​​​",
-      "नच बलिए"
+      "Agentive particle",
+      "Heart",
+      "Soil / Earth",
+      "Dance, my love"
     ],
     "options_vi": [
       "Hậu giới từ chỉ tác nhân",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Drinking water",
     "transliteration": "",
-    "english": "पीने का पानी",
-    "vietnamese": "Nước uống",
+    "english": "Nước uống",
+    "vietnamese": "",
     "audio": "Drinking water"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "To eat / Food",
     "transliteration": "",
-    "english": "खाना",
-    "vietnamese": "Ăn / Đồ ăn",
+    "english": "Ăn / Đồ ăn",
+    "vietnamese": "",
     "audio": "To eat / Food"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -134,16 +134,16 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Drinking water'",
     "text": "Drinking water",
     "subtext": "",
-    "answer": "पीने का पानी",
-    "answer_vi": "Nước uống",
+    "answer": "Agentive particle",
+    "answer_vi": "Hậu giới từ chỉ tác nhân",
     "options": [
-      "पीने का पानी",
-      "मिट्टी​",
-      "खाना",
-      "मिट्टी​​​​​​​​"
+      "Agentive particle",
+      "Soil / Earth",
+      "To eat / Food",
+      "Soil / Earth"
     ],
     "options_vi": [
-      "Nước uống",
+      "Hậu giới từ chỉ tác nhân",
       "Đất",
       "Ăn / Đồ ăn",
       "Đất"
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Partnership",
     "transliteration": "",
-    "english": "साझेदारी",
-    "vietnamese": "Quan hệ đối tác",
+    "english": "Quan hệ đối tác",
+    "vietnamese": "",
     "audio": "Partnership"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance",
     "transliteration": "",
-    "english": "नृत्य",
-    "vietnamese": "Điệu nhảy",
+    "english": "Điệu nhảy",
+    "vietnamese": "",
     "audio": "Dance"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Partnership'",
     "text": "Partnership",
     "subtext": "",
-    "answer": "साझेदारी",
+    "answer": "Partnership",
     "answer_vi": "Quan hệ đối tác",
     "options": [
-      "साझेदारी",
-      "मिट्टी​​​​",
-      "नृत्य",
-      "मिट्टी​​"
+      "Partnership",
+      "Soil / Earth",
+      "Dance",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Quan hệ đối tác",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Defiled food",
     "transliteration": "",
-    "english": "जूठा",
-    "vietnamese": "Thức ăn thừa / Ô uế",
+    "english": "Thức ăn thừa / Ô uế",
+    "vietnamese": "",
     "audio": "Defiled food"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Car / Train / Cart",
     "transliteration": "",
-    "english": "गाड़ी",
-    "vietnamese": "Xe hơi / Xe lửa",
+    "english": "Xe hơi / Xe lửa",
+    "vietnamese": "",
     "audio": "Car / Train / Cart"
   },
   {
     "type": "Flashcard",
     "hindi": "Client / Customer",
     "transliteration": "",
-    "english": "ग्राहक",
-    "vietnamese": "Khách hàng",
+    "english": "Khách hàng",
+    "vietnamese": "",
     "audio": "Client / Customer"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Defiled food'",
     "text": "Defiled food",
     "subtext": "",
-    "answer": "जूठा",
+    "answer": "Defiled food",
     "answer_vi": "Thức ăn thừa / Ô uế",
     "options": [
-      "जूठा",
-      "मिट्टी​​​​​",
-      "गाड़ी",
-      "ग्राहक"
+      "Defiled food",
+      "Soil / Earth",
+      "Car / Train / Cart",
+      "Client / Customer"
     ],
     "options_vi": [
       "Thức ăn thừa / Ô uế",
@@ -355,18 +355,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a ने / Nó là một Hậu giới từ chỉ tác nhân",
+    "englishSentence": "Nó là một Hậu giới từ chỉ tác nhân",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Agentive particle"
+      "Agentive",
+      "particle"
     ],
     "correctHindiSentence": "It is a Agentive particle"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like दिल / Tôi thích Trái tim",
+    "englishSentence": "Tôi thích Trái tim",
     "hindiWords": [
       "I",
       "really",

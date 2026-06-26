@@ -1,15 +1,88 @@
-{
-  "title": "Telling Time",
-  "nodes": [
-    {"type": "TeachRule", "title": "Time", "rule": "Cách nói giờ trong tiếng Anh."},
-    {"type": "Flashcard", "hindi": "Time", "english": "Thời gian", "audio": "time"},
-    {"type": "Flashcard", "hindi": "Hour", "english": "Giờ", "audio": "hour"},
-    {"type": "Flashcard", "hindi": "Minute", "english": "Phút", "audio": "minute"},
-    {"type": "MultipleChoice", "hindi": "Time", "options": ["Giờ", "Phút", "Thời gian", "Giây"], "answer": "Thời gian", "audio": "time"},
-    {"type": "Flashcard", "hindi": "Morning", "english": "Buổi sáng", "audio": "morning"},
-    {"type": "Flashcard", "hindi": "Afternoon", "english": "Buổi chiều", "audio": "afternoon"},
-    {"type": "MultipleChoice", "hindi": "Hour", "options": ["Giờ", "Phút", "Ngày", "Tuần"], "answer": "Giờ", "audio": "hour"},
-    {"type": "Flashcard", "hindi": "Evening", "english": "Buổi tối", "audio": "evening"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Minute", "english": "Phút"}, {"hindi": "Morning", "english": "Buổi sáng"}, {"hindi": "Afternoon", "english": "Buổi chiều"}, {"hindi": "Evening", "english": "Buổi tối"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Time",
+    "rule": "Cách nói giờ trong tiếng Anh."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Time",
+    "english": "Thời gian",
+    "audio": "time"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Hour",
+    "english": "Giờ",
+    "audio": "hour"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Minute",
+    "english": "Phút",
+    "audio": "minute"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Time",
+    "options": [
+      "Giờ",
+      "Phút",
+      "Thời gian",
+      "Giây"
+    ],
+    "answer": "Thời gian",
+    "audio": "time"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Morning",
+    "english": "Buổi sáng",
+    "audio": "morning"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Afternoon",
+    "english": "Buổi chiều",
+    "audio": "afternoon"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Hour",
+    "options": [
+      "Giờ",
+      "Phút",
+      "Ngày",
+      "Tuần"
+    ],
+    "answer": "Giờ",
+    "audio": "hour"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Evening",
+    "english": "Buổi tối",
+    "audio": "evening"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Minute",
+        "english": "Phút"
+      },
+      {
+        "hindi": "Morning",
+        "english": "Buổi sáng"
+      },
+      {
+        "hindi": "Afternoon",
+        "english": "Buổi chiều"
+      },
+      {
+        "hindi": "Evening",
+        "english": "Buổi tối"
+      }
+    ]
+  }
+]

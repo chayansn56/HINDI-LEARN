@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Is everything okay?",
     "transliteration": "",
-    "english": "सब ठीक है?",
-    "vietnamese": "Mọi việc đều ổn chứ?",
+    "english": "Mọi việc đều ổn chứ?",
+    "vietnamese": "",
     "audio": "Is everything okay?"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Is everything okay?'",
     "text": "Is everything okay?",
     "subtext": "",
-    "answer": "सब ठीक है?",
+    "answer": "Is everything okay?",
     "answer_vi": "Mọi việc đều ổn chứ?",
     "options": [
-      "सब ठीक है?",
-      "लिखना​​​​",
-      "सीखना​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​​​​​​"
+      "Is everything okay?",
+      "To write",
+      "To learn",
+      "To laugh"
     ],
     "options_vi": [
       "Mọi việc đều ổn chứ?",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "Demand",
     "transliteration": "",
-    "english": "मांग",
-    "vietnamese": "Nhu cầu",
+    "english": "Nhu cầu",
+    "vietnamese": "",
     "audio": "Demand"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To take'",
     "text": "To take",
     "subtext": "",
-    "answer": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To take",
     "answer_vi": "Lấy / Nhận",
     "options": [
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "गाँव​​​​​​​​",
-      "मांग"
+      "To take",
+      "To make / build",
+      "Village",
+      "Demand"
     ],
     "options_vi": [
       "Lấy / Nhận",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
     "text": "To wake up",
     "subtext": "",
-    "answer": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To wake up",
     "answer_vi": "Thức dậy",
     "options": [
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To wake up",
+      "To cry",
+      "To learn",
+      "To clean"
     ],
     "options_vi": [
       "Thức dậy",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Ticket counter",
     "transliteration": "",
-    "english": "टिकट काउंटर",
-    "vietnamese": "Quầy bán vé",
+    "english": "Quầy bán vé",
+    "vietnamese": "",
     "audio": "Ticket counter"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Ticket counter'",
     "text": "Ticket counter",
     "subtext": "",
-    "answer": "टिकट काउंटर",
+    "answer": "Ticket counter",
     "answer_vi": "Quầy bán vé",
     "options": [
-      "टिकट काउंटर",
-      "बर्फ़​​​",
-      "जागना​​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Ticket counter",
+      "Snow / Ice",
+      "To wake up",
+      "To wake up"
     ],
     "options_vi": [
       "Quầy bán vé",
@@ -355,23 +355,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सब ठीक है? / Nó là một Mọi việc đều ổn chứ?",
+    "englishSentence": "Nó là một Mọi việc đều ổn chứ?",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Is everything okay?"
+      "Is",
+      "everything",
+      "okay?"
     ],
     "correctHindiSentence": "It is a Is everything okay?"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like लिखना​​​​ / Tôi thích Viết",
+    "englishSentence": "Tôi thích Viết",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To write"
+      "To",
+      "write"
     ],
     "correctHindiSentence": "I really like To write"
   },

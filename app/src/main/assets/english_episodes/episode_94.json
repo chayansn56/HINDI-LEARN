@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Milk",
     "transliteration": "",
-    "english": "दूध",
-    "vietnamese": "Sữa",
+    "english": "Sữa",
+    "vietnamese": "",
     "audio": "Milk"
   },
   {
     "type": "Flashcard",
     "hindi": "World",
     "transliteration": "",
-    "english": "दुनया​​​​​​​",
-    "vietnamese": "Thế giới",
+    "english": "Thế giới",
+    "vietnamese": "",
     "audio": "World"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "Villain",
     "transliteration": "",
-    "english": "विलेन",
-    "vietnamese": "Nhân vật phản diện",
+    "english": "Nhân vật phản diện",
+    "vietnamese": "",
     "audio": "Villain"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Milk'",
     "text": "Milk",
     "subtext": "",
-    "answer": "दूध",
+    "answer": "Milk",
     "answer_vi": "Sữa",
     "options": [
-      "दूध",
-      "दुनया​​​​​​​",
-      "बेचना​​",
-      "विलेन"
+      "Milk",
+      "World",
+      "To sell",
+      "Villain"
     ],
     "options_vi": [
       "Sữa",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "Name",
     "transliteration": "",
-    "english": "नाम",
-    "vietnamese": "Tên",
+    "english": "Tên",
+    "vietnamese": "",
     "audio": "Name"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To buy'",
     "text": "To buy",
     "subtext": "",
-    "answer": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To buy",
     "answer_vi": "Mua",
     "options": [
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​",
-      "करना​​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​​",
-      "नाम"
+      "To buy",
+      "To do",
+      "To stand",
+      "Name"
     ],
     "options_vi": [
       "Mua",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Wedding / Marriage",
     "transliteration": "",
-    "english": "शादी",
-    "vietnamese": "Đám cưới / Hôn nhân",
+    "english": "Đám cưới / Hôn nhân",
+    "vietnamese": "",
     "audio": "Wedding / Marriage"
   },
   {
     "type": "Flashcard",
     "hindi": "Blue",
     "transliteration": "",
-    "english": "नीला",
-    "vietnamese": "Màu xanh dương",
+    "english": "Màu xanh dương",
+    "vietnamese": "",
     "audio": "Blue"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To play'",
     "text": "To play",
     "subtext": "",
-    "answer": "खेलना​​​​​​​​​​",
+    "answer": "To play",
     "answer_vi": "Chơi",
     "options": [
-      "खेलना​​​​​​​​​​",
-      "शादी",
-      "नीला",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​"
+      "To play",
+      "Wedding / Marriage",
+      "Blue",
+      "To wash"
     ],
     "options_vi": [
       "Chơi",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the दूध / Tôi thấy Sữa",
+    "englishSentence": "Tôi thấy Sữa",
     "hindiWords": [
       "I",
       "see",
@@ -311,7 +311,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a दुनया​​​​​​​ / Tôi muốn Thế giới",
+    "englishSentence": "Tôi muốn Thế giới",
     "hindiWords": [
       "I",
       "want",

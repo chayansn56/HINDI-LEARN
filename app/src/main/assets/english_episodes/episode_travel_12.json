@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Bus stop",
     "transliteration": "",
-    "english": "बस स्टैंड",
-    "vietnamese": "Trạm xe buýt",
+    "english": "Trạm xe buýt",
+    "vietnamese": "",
     "audio": "Bus stop"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Listen carefully.",
     "transliteration": "",
-    "english": "ध्यान से सुनो।",
-    "vietnamese": "Nghe cho kỹ nhé.",
+    "english": "Nghe cho kỹ nhé.",
+    "vietnamese": "",
     "audio": "Listen carefully."
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Bus stop'",
     "text": "Bus stop",
     "subtext": "",
-    "answer": "बस स्टैंड",
+    "answer": "Bus stop",
     "answer_vi": "Trạm xe buýt",
     "options": [
-      "बस स्टैंड",
-      "सफ़र",
-      "सफ़र​​​​​​​",
-      "ध्यान से सुनो।"
+      "Bus stop",
+      "Journey",
+      "Journey",
+      "Listen carefully."
     ],
     "options_vi": [
       "Trạm xe buýt",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Carefree / Cool",
     "transliteration": "",
-    "english": "बिंदास",
-    "vietnamese": "Sống thoải mái / Vô tư",
+    "english": "Sống thoải mái / Vô tư",
+    "vietnamese": "",
     "audio": "Carefree / Cool"
   },
   {
     "type": "Flashcard",
     "hindi": "Police station",
     "transliteration": "",
-    "english": "थाना",
-    "vietnamese": "Đồn cảnh sát",
+    "english": "Đồn cảnh sát",
+    "vietnamese": "",
     "audio": "Police station"
   },
   {
     "type": "Flashcard",
     "hindi": "Train station",
     "transliteration": "",
-    "english": "रेलवे स्टेशन",
-    "vietnamese": "Ga tàu hỏa",
+    "english": "Ga tàu hỏa",
+    "vietnamese": "",
     "audio": "Train station"
   },
   {
     "type": "Flashcard",
     "hindi": "Ticket",
     "transliteration": "",
-    "english": "टिकट",
-    "vietnamese": "Vé",
+    "english": "Vé",
+    "vietnamese": "",
     "audio": "Ticket"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Carefree / Cool'",
     "text": "Carefree / Cool",
     "subtext": "",
-    "answer": "बिंदास",
+    "answer": "Carefree / Cool",
     "answer_vi": "Sống thoải mái / Vô tư",
     "options": [
-      "बिंदास",
-      "थाना",
-      "रेलवे स्टेशन",
-      "टिकट"
+      "Carefree / Cool",
+      "Police station",
+      "Train station",
+      "Ticket"
     ],
     "options_vi": [
       "Sống thoải mái / Vô tư",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Groom",
     "transliteration": "",
-    "english": "दुल्हा",
-    "vietnamese": "Chú rể",
+    "english": "Chú rể",
+    "vietnamese": "",
     "audio": "Groom"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Room",
     "transliteration": "",
-    "english": "कमरा",
-    "vietnamese": "Căn phòng",
+    "english": "Căn phòng",
+    "vietnamese": "",
     "audio": "Room"
   },
   {
     "type": "Flashcard",
     "hindi": "Restroom / Toilet",
     "transliteration": "",
-    "english": "शौचालय",
-    "vietnamese": "Nhà vệ sinh",
+    "english": "Nhà vệ sinh",
+    "vietnamese": "",
     "audio": "Restroom / Toilet"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Groom'",
     "text": "Groom",
     "subtext": "",
-    "answer": "दुल्हा",
+    "answer": "Groom",
     "answer_vi": "Chú rể",
     "options": [
-      "दुल्हा",
-      "सफ़र​​​​​​",
-      "कमरा",
-      "शौचालय"
+      "Groom",
+      "Journey",
+      "Room",
+      "Restroom / Toilet"
     ],
     "options_vi": [
       "Chú rể",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Groom's wedding procession",
     "transliteration": "",
-    "english": "बारात",
-    "vietnamese": "Đoàn rước dâu nhà trai",
+    "english": "Đoàn rước dâu nhà trai",
+    "vietnamese": "",
     "audio": "Groom's wedding procession"
   },
   {
     "type": "Flashcard",
     "hindi": "Map",
     "transliteration": "",
-    "english": "नक्शा",
-    "vietnamese": "Bản đồ",
+    "english": "Bản đồ",
+    "vietnamese": "",
     "audio": "Map"
   },
   {
     "type": "Flashcard",
     "hindi": "Luggage / Stuff",
     "transliteration": "",
-    "english": "सामान",
-    "vietnamese": "Hành lý",
+    "english": "Hành lý",
+    "vietnamese": "",
     "audio": "Luggage / Stuff"
   },
   {
     "type": "Flashcard",
     "hindi": "Ticket counter",
     "transliteration": "",
-    "english": "टिकट काउंटर",
-    "vietnamese": "Quầy bán vé",
+    "english": "Quầy bán vé",
+    "vietnamese": "",
     "audio": "Ticket counter"
   },
   {
@@ -298,19 +298,19 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Groom's wedding procession'",
     "text": "Groom's wedding procession",
     "subtext": "",
-    "answer": "बारात",
+    "answer": "Groom's wedding procession",
     "answer_vi": "Đoàn rước dâu nhà trai",
     "options": [
-      "बारात",
-      "नक्शा",
-      "सामान",
-      "टिकट काउंटर"
+      "Groom's wedding procession",
+      "Map",
+      "Luggage / Stuff",
+      "Ticket"
     ],
     "options_vi": [
       "Đoàn rước dâu nhà trai",
       "Bản đồ",
       "Hành lý",
-      "Quầy bán vé"
+      "Vé"
     ]
   },
   {
@@ -355,18 +355,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बस स्टैंड / Nó là một Trạm xe buýt",
+    "englishSentence": "Nó là một Trạm xe buýt",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Bus stop"
+      "Bus",
+      "stop"
     ],
     "correctHindiSentence": "It is a Bus stop"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सफ़र / Tôi thích Chuyến đi",
+    "englishSentence": "Tôi thích Chuyến đi",
     "hindiWords": [
       "I",
       "really",

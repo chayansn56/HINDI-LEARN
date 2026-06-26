@@ -5,6 +5,9 @@ import androidx.room.Room
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.mutableStateOf
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.Dispatchers
 
 data class UserProgress(
     var xp: Int = 0,
@@ -18,7 +21,9 @@ data class UserProgress(
     var unlockedMemories: List<String> = emptyList(),
     var unlockedAchievements: List<String> = emptyList(),
     var mistakeMap: Map<String, Int> = emptyMap(),
-    var lastPlayDate: Long = 0L
+    var lastPlayDate: Long = 0L,
+    var lastChallengeDate: String = "",
+    var userName: String = ""
 )
 
 object UserManager {
@@ -36,14 +41,33 @@ object UserManager {
         val entity = db?.userProgressDao()?.getProgress()
         if (entity != null) {
             val mistakes = mutableMapOf<String, Int>()
-            if (entity.mistakeMap.isNotEmpty()) {
-                entity.mistakeMap.split(",").forEach {
-                    val parts = it.split("=")
-                    if (parts.size == 2) {
-                        mistakes[parts[0]] = parts[1].toIntOrNull() ?: 0
+            if (entity.mistakeMap.isNotEmpty() && entity.mistakeMap.startsWith("{")) {
+                try {
+                    val jsonObj = org.json.JSONObject(entity.mistakeMap)
+                    val keys = jsonObj.keys()
+                    while (keys.hasNext()) {
+                        val k = keys.next()
+                        mistakes[k] = jsonObj.getInt(k)
                     }
-                }
+                } catch (e: Exception) { e.printStackTrace() }
             }
+            
+            val mems = mutableListOf<String>()
+            if (entity.unlockedMemories.isNotEmpty() && entity.unlockedMemories.startsWith("[")) {
+                try {
+                    val arr = org.json.JSONArray(entity.unlockedMemories)
+                    for (i in 0 until arr.length()) mems.add(arr.getString(i))
+                } catch (e: Exception) { e.printStackTrace() }
+            }
+            
+            val achs = mutableListOf<String>()
+            if (entity.unlockedAchievements.isNotEmpty() && entity.unlockedAchievements.startsWith("[")) {
+                try {
+                    val arr = org.json.JSONArray(entity.unlockedAchievements)
+                    for (i in 0 until arr.length()) achs.add(arr.getString(i))
+                } catch (e: Exception) { e.printStackTrace() }
+            }
+            
             progress = UserProgress(
                 xp = entity.xp,
                 streak = entity.streak,
@@ -53,10 +77,12 @@ object UserManager {
                 selectedLanguage = entity.selectedLanguage,
                 selectedCourse = entity.selectedCourse,
                 protagonistState = entity.protagonistState,
-                unlockedMemories = entity.unlockedMemories.split(",").filter { it.isNotEmpty() },
-                unlockedAchievements = entity.unlockedAchievements.split(",").filter { it.isNotEmpty() },
+                unlockedMemories = mems,
+                unlockedAchievements = achs,
                 mistakeMap = mistakes,
-                lastPlayDate = entity.lastPlayDate
+                lastPlayDate = entity.lastPlayDate,
+                lastChallengeDate = entity.lastChallengeDate,
+                userName = entity.userName
             )
         } else {
             save()
@@ -64,6 +90,11 @@ object UserManager {
     }
 
     fun save() {
+        val memsJson = org.json.JSONArray(progress.unlockedMemories).toString()
+        val achsJson = org.json.JSONArray(progress.unlockedAchievements).toString()
+        val mistakesObj = org.json.JSONObject()
+        progress.mistakeMap.forEach { (k, v) -> mistakesObj.put(k, v) }
+        
         db?.userProgressDao()?.saveProgress(UserProgressEntity(
             id = 1,
             xp = progress.xp,
@@ -74,11 +105,20 @@ object UserManager {
             selectedLanguage = progress.selectedLanguage ?: "EN",
             selectedCourse = progress.selectedCourse,
             protagonistState = progress.protagonistState,
-            unlockedMemories = progress.unlockedMemories.joinToString(","),
-            unlockedAchievements = progress.unlockedAchievements.joinToString(","),
-            mistakeMap = progress.mistakeMap.map { "${it.key}=${it.value}" }.joinToString(","),
-            lastPlayDate = progress.lastPlayDate
+            unlockedMemories = memsJson,
+            unlockedAchievements = achsJson,
+            mistakeMap = mistakesObj.toString(),
+            lastPlayDate = progress.lastPlayDate,
+            lastChallengeDate = progress.lastChallengeDate,
+            userName = progress.userName
         ))
+        
+        // Trigger Cloud Sync Backup (runs on IO thread internally or via GlobalScope to not block UI)
+        appContext?.let { ctx ->
+            kotlinx.coroutines.GlobalScope.launch(kotlinx.coroutines.Dispatchers.IO) {
+                CloudSyncManager.backupProgressToCloud(ctx, progress)
+            }
+        }
     }
 
     fun addXp(amount: Int) {
@@ -108,10 +148,23 @@ object UserManager {
     }
 
     fun incrementMistake(word: String) {
+        if (word.isBlank()) return
         val count = progress.mistakeMap[word] ?: 0
         progress = progress.copy(
             mistakeMap = progress.mistakeMap + (word to (count + 1))
         )
+        save()
+    }
+
+    fun markChallengeCompleted() {
+        val sdf = java.text.SimpleDateFormat("yyyy-MM-dd", java.util.Locale.US)
+        val today = sdf.format(java.util.Date())
+        progress = progress.copy(lastChallengeDate = today)
+        save()
+    }
+
+    fun updateUserName(name: String) {
+        progress = progress.copy(userName = name.trim())
         save()
     }
 
@@ -174,7 +227,24 @@ object UserManager {
                 "ach_alphabet_master" to Triple("Alphabet Master", 50, 25),
                 "ach_daily_warrior" to Triple("Daily Warrior", 30, 15),
                 "ach_xp_hundred" to Triple("Century Club", 40, 20),
-                "ach_explorer" to Triple("Cultural Explorer", 25, 12)
+                "ach_xp_thousand" to Triple("Grandmaster", 200, 100),
+                "ach_explorer" to Triple("Cultural Explorer", 25, 12),
+                "ach_srs_novice" to Triple("Memory Novice", 30, 15),
+                "ach_srs_expert" to Triple("Memory Expert", 100, 50),
+                "ach_story_reader" to Triple("Storybook", 40, 20),
+                "ach_perfect_score" to Triple("Flawless", 50, 25),
+                "ach_night_owl" to Triple("Night Owl", 20, 10),
+                "ach_early_bird" to Triple("Early Bird", 20, 10),
+                "ach_weekend_warrior" to Triple("Weekend Warrior", 30, 15),
+                "ach_polyglot" to Triple("Polyglot in Training", 50, 25),
+                "ach_streak_7" to Triple("1-Week Streak", 70, 35),
+                "ach_streak_30" to Triple("1-Month Streak", 300, 150),
+                "ach_voice_actor" to Triple("Voice Actor", 40, 20),
+                "ach_calligrapher" to Triple("Calligrapher", 40, 20),
+                "ach_grammar_nerd" to Triple("Grammar Nerd", 40, 20),
+                "ach_speed_reader" to Triple("Speed Reader", 30, 15),
+                "ach_film_buff" to Triple("Bollywood Buff", 50, 25),
+                "ach_foodie" to Triple("Street Foodie", 50, 25)
             )
             val info = achievementsMap[achievementId] ?: return
             

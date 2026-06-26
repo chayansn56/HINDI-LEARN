@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Word",
     "transliteration": "",
-    "english": "शब्द",
-    "vietnamese": "Từ ngữ",
+    "english": "Từ ngữ",
+    "vietnamese": "",
     "audio": "Word"
   },
   {
     "type": "Flashcard",
     "hindi": "to know",
     "transliteration": "",
-    "english": "जानना",
-    "vietnamese": "Biết",
+    "english": "Biết",
+    "vietnamese": "",
     "audio": "to know"
   },
   {
     "type": "Flashcard",
     "hindi": "To do a U-turn / go back on word",
     "transliteration": "",
-    "english": "पलटी मारना",
-    "vietnamese": "Lật lọng / Nuốt lời",
+    "english": "Lật lọng / Nuốt lời",
+    "vietnamese": "",
     "audio": "To do a U-turn / go back on word"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know",
     "transliteration": "",
-    "english": "मुझे नहीं मालूम",
-    "vietnamese": "Tôi không biết",
+    "english": "Tôi không biết",
+    "vietnamese": "",
     "audio": "I don't know"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Word'",
     "text": "Word",
     "subtext": "",
-    "answer": "शब्द",
+    "answer": "Word",
     "answer_vi": "Từ ngữ",
     "options": [
-      "शब्द",
-      "जानना",
-      "पलटी मारना",
-      "मुझे नहीं मालूम"
+      "Word",
+      "to know",
+      "To do a U-turn / go back on word",
+      "I don't know"
     ],
     "options_vi": [
       "Từ ngữ",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Time",
     "transliteration": "",
-    "english": "समय",
-    "vietnamese": "Thời gian",
+    "english": "Thời gian",
+    "vietnamese": "",
     "audio": "Time"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​",
-      "समय",
-      "बर्फ़",
-      "बर्फ़​"
+      "Snow / Ice",
+      "Time",
+      "Snow / Ice",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "before (time)",
     "transliteration": "",
-    "english": "के पहले",
-    "vietnamese": "Trước khi (thời gian)",
+    "english": "Trước khi (thời gian)",
+    "vietnamese": "",
     "audio": "before (time)"
   },
   {
     "type": "Flashcard",
     "hindi": "Just then / That is why",
     "transliteration": "",
-    "english": "तभी",
-    "vietnamese": "Ngay lúc đó / Chính vì vậy",
+    "english": "Ngay lúc đó / Chính vì vậy",
+    "vietnamese": "",
     "audio": "Just then / That is why"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​​",
-      "के पहले",
-      "तभी",
-      "बर्फ़​​​​"
+      "Snow / Ice",
+      "before (time)",
+      "Just then / That is why",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Now",
     "transliteration": "",
-    "english": "अब",
-    "vietnamese": "Bây giờ",
+    "english": "Bây giờ",
+    "vietnamese": "",
     "audio": "Now"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know.",
     "transliteration": "",
-    "english": "पता नहीं।",
-    "vietnamese": "Tôi không biết.",
+    "english": "Tôi không biết.",
+    "vietnamese": "",
     "audio": "I don't know."
   },
   {
     "type": "Flashcard",
     "hindi": "Sentence",
     "transliteration": "",
-    "english": "वाक्य",
-    "vietnamese": "Câu",
+    "english": "Câu",
+    "vietnamese": "",
     "audio": "Sentence"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Now'",
     "text": "Now",
     "subtext": "",
-    "answer": "अब",
+    "answer": "Now",
     "answer_vi": "Bây giờ",
     "options": [
-      "अब",
-      "पता नहीं।",
-      "वाक्य",
-      "बर्फ़​​​​​"
+      "Now",
+      "I don't know.",
+      "Sentence",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Bây giờ",
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a शब्द / Nó là một Từ ngữ",
+    "englishSentence": "Nó là một Từ ngữ",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like जानना / Tôi thích Biết",
+    "englishSentence": "Tôi thích Biết",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "to know"
+      "to",
+      "know"
     ],
     "correctHindiSentence": "I really like to know"
   },

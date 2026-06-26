@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Internet / Net",
     "transliteration": "",
-    "english": "नेट",
-    "vietnamese": "Mạng internet",
+    "english": "Mạng internet",
+    "vietnamese": "",
     "audio": "Internet / Net"
   },
   {
     "type": "Flashcard",
     "hindi": "Behind / Backward",
     "transliteration": "",
-    "english": "पीछे",
-    "vietnamese": "Phía sau",
+    "english": "Phía sau",
+    "vietnamese": "",
     "audio": "Behind / Backward"
   },
   {
     "type": "Flashcard",
     "hindi": "This is very easy.",
     "transliteration": "",
-    "english": "यह बहुत आसान है।",
-    "vietnamese": "Cái này rất dễ.",
+    "english": "Cái này rất dễ.",
+    "vietnamese": "",
     "audio": "This is very easy."
   },
   {
     "type": "Flashcard",
     "hindi": "Why",
     "transliteration": "",
-    "english": "क्यों",
-    "vietnamese": "Tại sao",
+    "english": "Tại sao",
+    "vietnamese": "",
     "audio": "Why"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Internet / Net'",
     "text": "Internet / Net",
     "subtext": "",
-    "answer": "नेट",
+    "answer": "Internet / Net",
     "answer_vi": "Mạng internet",
     "options": [
-      "नेट",
-      "पीछे",
-      "यह बहुत आसान है।",
-      "क्यों"
+      "Internet / Net",
+      "Behind / Backward",
+      "This is very easy.",
+      "Why"
     ],
     "options_vi": [
       "Mạng internet",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "Hello, how are you?",
     "transliteration": "",
-    "english": "नमस्ते, आप कैसे हैं?",
-    "vietnamese": "Xin chào, bạn khỏe không?",
+    "english": "Xin chào, bạn khỏe không?",
+    "vietnamese": "",
     "audio": "Hello, how are you?"
   },
   {
     "type": "Flashcard",
     "hindi": "Mouth",
     "transliteration": "",
-    "english": "मुँह",
-    "vietnamese": "Miệng",
+    "english": "Miệng",
+    "vietnamese": "",
     "audio": "Mouth"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To learn'",
     "text": "To learn",
     "subtext": "",
-    "answer": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To learn",
     "answer_vi": "Học",
     "options": [
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "नमस्ते, आप कैसे हैं?",
-      "मुँह",
-      "बोलना"
+      "To learn",
+      "Hello, how are you?",
+      "Mouth",
+      "To speak"
     ],
     "options_vi": [
       "Học",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wake up'",
     "text": "To wake up",
     "subtext": "",
-    "answer": "जागना​​​​​​​​",
+    "answer": "To wake up",
     "answer_vi": "Thức dậy",
     "options": [
-      "जागना​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​",
-      "जागना​​​​​​​​​​​​​",
-      "बैठना​​​​​​​​​​​​"
+      "To wake up",
+      "To wash",
+      "To wake up",
+      "To sit"
     ],
     "options_vi": [
       "Thức dậy",
@@ -300,23 +300,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the नेट / Tôi thấy Mạng internet",
+    "englishSentence": "Tôi thấy Mạng internet",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Internet / Net"
+      "Internet",
+      "/",
+      "Net"
     ],
     "correctHindiSentence": "I see the Internet / Net"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a पीछे / Tôi muốn Phía sau",
+    "englishSentence": "Tôi muốn Phía sau",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Behind / Backward"
+      "Behind",
+      "/",
+      "Backward"
     ],
     "correctHindiSentence": "I want a Behind / Backward"
   },

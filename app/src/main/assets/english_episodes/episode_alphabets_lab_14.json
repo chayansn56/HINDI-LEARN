@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Can / Able to",
     "transliteration": "",
-    "english": "सकता है",
-    "vietnamese": "Có thể",
+    "english": "Có thể",
+    "vietnamese": "",
     "audio": "Can / Able to"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
     "type": "Flashcard",
     "hindi": "When (relative)",
     "transliteration": "",
-    "english": "जब",
-    "vietnamese": "Khi mà",
+    "english": "Khi mà",
+    "vietnamese": "",
     "audio": "When (relative)"
   },
   {
     "type": "Flashcard",
     "hindi": "Please speak slowly.",
     "transliteration": "",
-    "english": "कृपया धीरे बोलिए।",
-    "vietnamese": "Làm ơn nói chậm lại.",
+    "english": "Làm ơn nói chậm lại.",
+    "vietnamese": "",
     "audio": "Please speak slowly."
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Can / Able to'",
     "text": "Can / Able to",
     "subtext": "",
-    "answer": "सकता है",
+    "answer": "Can / Able to",
     "answer_vi": "Có thể",
     "options": [
-      "सकता है",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "जब",
-      "कृपया धीरे बोलिए।"
+      "Can / Able to",
+      "To buy",
+      "When (relative)",
+      "Please speak slowly."
     ],
     "options_vi": [
       "Có thể",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Whom (relative singular)",
     "transliteration": "",
-    "english": "जिसे",
-    "vietnamese": "Người mà (số ít)",
+    "english": "Người mà (số ít)",
+    "vietnamese": "",
     "audio": "Whom (relative singular)"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Whom (relative singular)'",
     "text": "Whom (relative singular)",
     "subtext": "",
-    "answer": "जिसे",
+    "answer": "Whom (relative singular)",
     "answer_vi": "Người mà (số ít)",
     "options": [
-      "जिसे",
-      "हँसना​​​​​​​​​​",
-      "खेलना​​​​​​​​​​​​​",
-      "कापी​​​​"
+      "Whom (relative singular)",
+      "To laugh",
+      "To play",
+      "Notebook"
     ],
     "options_vi": [
       "Người mà (số ít)",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Sea / Ocean",
     "transliteration": "",
-    "english": "समुद्र​​​",
-    "vietnamese": "Biển",
+    "english": "Biển",
+    "vietnamese": "",
     "audio": "Sea / Ocean"
   },
   {
     "type": "Flashcard",
     "hindi": "To clean",
     "transliteration": "",
-    "english": "साफ करना",
-    "vietnamese": "Dọn dẹp / Lau chùi",
+    "english": "Dọn dẹp / Lau chùi",
+    "vietnamese": "",
     "audio": "To clean"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Sea / Ocean'",
     "text": "Sea / Ocean",
     "subtext": "",
-    "answer": "समुद्र​​​",
+    "answer": "Sea / Ocean",
     "answer_vi": "Biển",
     "options": [
-      "समुद्र​​​",
-      "साफ करना",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​"
+      "Sea / Ocean",
+      "To clean",
+      "To stand",
+      "To take"
     ],
     "options_vi": [
       "Biển",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
     "type": "Flashcard",
     "hindi": "Your (feminine formal)",
     "transliteration": "",
-    "english": "आपकी",
-    "vietnamese": "Của ngài / của anh/chị (giống cái)",
+    "english": "Của ngài / của anh/chị (giống cái)",
+    "vietnamese": "",
     "audio": "Your (feminine formal)"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​",
-      "बंद करना​​​​​​​​​​​",
-      "आपकी"
+      "To speak",
+      "To speak",
+      "To close",
+      "Your (feminine formal)"
     ],
     "options_vi": [
       "Nói",
@@ -355,23 +355,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सकता है / Nó là một Có thể",
+    "englishSentence": "Nó là một Có thể",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Can / Able to"
+      "Can",
+      "/",
+      "Able",
+      "to"
     ],
     "correctHindiSentence": "It is a Can / Able to"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thích Mua",
+    "englishSentence": "Tôi thích Mua",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "To buy"
+      "To",
+      "buy"
     ],
     "correctHindiSentence": "I really like To buy"
   },

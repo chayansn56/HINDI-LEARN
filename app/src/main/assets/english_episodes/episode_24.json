@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Iron",
     "transliteration": "",
-    "english": "लोहा",
-    "vietnamese": "Sắt",
+    "english": "Sắt",
+    "vietnamese": "",
     "audio": "Iron"
   },
   {
     "type": "Flashcard",
     "hindi": "Alright / Okay.",
     "transliteration": "",
-    "english": "ठीक है।",
-    "vietnamese": "Được rồi.",
+    "english": "Được rồi.",
+    "vietnamese": "",
     "audio": "Alright / Okay."
   },
   {
     "type": "Flashcard",
     "hindi": "Holi",
     "transliteration": "",
-    "english": "होली",
-    "vietnamese": "Lễ hội sắc màu Holi",
+    "english": "Lễ hội sắc màu Holi",
+    "vietnamese": "",
     "audio": "Holi"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't like this.",
     "transliteration": "",
-    "english": "मुझे यह पसंद नहीं है।",
-    "vietnamese": "Tôi không thích cái này.",
+    "english": "Tôi không thích cái này.",
+    "vietnamese": "",
     "audio": "I don't like this."
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Iron'",
     "text": "Iron",
     "subtext": "",
-    "answer": "लोहा",
+    "answer": "Iron",
     "answer_vi": "Sắt",
     "options": [
-      "लोहा",
-      "ठीक है।",
-      "होली",
-      "मुझे यह पसंद नहीं है।"
+      "Iron",
+      "Alright / Okay.",
+      "Holi",
+      "I don't like this."
     ],
     "options_vi": [
       "Sắt",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Bathroom",
     "transliteration": "",
-    "english": "बाथरूम",
-    "vietnamese": "Nhà tắm / Toilet",
+    "english": "Nhà tắm / Toilet",
+    "vietnamese": "",
     "audio": "Bathroom"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​​​​​​​​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Bathroom'",
     "text": "Bathroom",
     "subtext": "",
-    "answer": "बाथरूम",
+    "answer": "Bathroom",
     "answer_vi": "Nhà tắm / Toilet",
     "options": [
-      "बाथरूम",
-      "सफ़र​​​​",
-      "सड़क​​​​​​​​",
-      "पेन​​​​​​"
+      "Bathroom",
+      "Journey",
+      "Road",
+      "Pen"
     ],
     "options_vi": [
       "Nhà tắm / Toilet",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Smile",
     "transliteration": "",
-    "english": "मुस्कान",
-    "vietnamese": "Nụ cười",
+    "english": "Nụ cười",
+    "vietnamese": "",
     "audio": "Smile"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Smile'",
     "text": "Smile",
     "subtext": "",
-    "answer": "मुस्कान",
+    "answer": "Smile",
     "answer_vi": "Nụ cười",
     "options": [
-      "मुस्कान",
-      "हँसना​​​",
-      "देना​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Smile",
+      "To laugh",
+      "To give",
+      "To buy"
     ],
     "options_vi": [
       "Nụ cười",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the लोहा / Tôi thấy Sắt",
+    "englishSentence": "Tôi thấy Sắt",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,14 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a ठीक है। / Tôi muốn Được rồi.",
+    "englishSentence": "Tôi muốn Được rồi.",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Alright / Okay."
+      "Alright",
+      "/",
+      "Okay."
     ],
     "correctHindiSentence": "I want a Alright / Okay."
   },

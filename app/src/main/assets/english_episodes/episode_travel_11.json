@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Groom's wedding procession",
     "transliteration": "",
-    "english": "बारात",
-    "vietnamese": "Đoàn rước dâu nhà trai",
+    "english": "Đoàn rước dâu nhà trai",
+    "vietnamese": "",
     "audio": "Groom's wedding procession"
   },
   {
     "type": "Flashcard",
     "hindi": "Be careful / Watch out.",
     "transliteration": "",
-    "english": "सावधान रहें।",
-    "vietnamese": "Hãy cẩn thận.",
+    "english": "Hãy cẩn thận.",
+    "vietnamese": "",
     "audio": "Be careful / Watch out."
   },
   {
     "type": "Flashcard",
     "hindi": "Carefree / Cool",
     "transliteration": "",
-    "english": "बिंदास",
-    "vietnamese": "Sống thoải mái / Vô tư",
+    "english": "Sống thoải mái / Vô tư",
+    "vietnamese": "",
     "audio": "Carefree / Cool"
   },
   {
     "type": "Flashcard",
     "hindi": "Vacant room",
     "transliteration": "",
-    "english": "खाली कमरा",
-    "vietnamese": "Phòng trống",
+    "english": "Phòng trống",
+    "vietnamese": "",
     "audio": "Vacant room"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Groom's wedding procession'",
     "text": "Groom's wedding procession",
     "subtext": "",
-    "answer": "बारात",
+    "answer": "Groom's wedding procession",
     "answer_vi": "Đoàn rước dâu nhà trai",
     "options": [
-      "बारात",
-      "सावधान रहें।",
-      "बिंदास",
-      "खाली कमरा"
+      "Groom's wedding procession",
+      "Be careful / Watch out.",
+      "Carefree / Cool",
+      "Vacant room"
     ],
     "options_vi": [
       "Đoàn rước dâu nhà trai",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Car / Train / Cart",
     "transliteration": "",
-    "english": "गाड़ी",
-    "vietnamese": "Xe hơi / Xe lửa",
+    "english": "Xe hơi / Xe lửa",
+    "vietnamese": "",
     "audio": "Car / Train / Cart"
   },
   {
     "type": "Flashcard",
     "hindi": "Business / Trade",
     "transliteration": "",
-    "english": "व्यापार",
-    "vietnamese": "Kinh doanh / Thương mại",
+    "english": "Kinh doanh / Thương mại",
+    "vietnamese": "",
     "audio": "Business / Trade"
   },
   {
     "type": "Flashcard",
     "hindi": "Where is the station?",
     "transliteration": "",
-    "english": "स्टेशन कहाँ है?",
-    "vietnamese": "Nhà ga ở đâu?",
+    "english": "Nhà ga ở đâu?",
+    "vietnamese": "",
     "audio": "Where is the station?"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​​​​​​​​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​​​​​​​​",
-      "गाड़ी",
-      "व्यापार",
-      "स्टेशन कहाँ है?"
+      "Journey",
+      "Car / Train / Cart",
+      "Business / Trade",
+      "Where is the station?"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Groom",
     "transliteration": "",
-    "english": "दुल्हा",
-    "vietnamese": "Chú rể",
+    "english": "Chú rể",
+    "vietnamese": "",
     "audio": "Groom"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Train station",
     "transliteration": "",
-    "english": "रेलवे स्टेशन",
-    "vietnamese": "Ga tàu hỏa",
+    "english": "Ga tàu hỏa",
+    "vietnamese": "",
     "audio": "Train station"
   },
   {
     "type": "Flashcard",
     "hindi": "Airport",
     "transliteration": "",
-    "english": "हवाई अड्डा",
-    "vietnamese": "Sân bay",
+    "english": "Sân bay",
+    "vietnamese": "",
     "audio": "Airport"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Groom'",
     "text": "Groom",
     "subtext": "",
-    "answer": "दुल्हा",
+    "answer": "Groom",
     "answer_vi": "Chú rể",
     "options": [
-      "दुल्हा",
-      "सफ़र​",
-      "रेलवे स्टेशन",
-      "हवाई अड्डा"
+      "Groom",
+      "Journey",
+      "Train station",
+      "Airport"
     ],
     "options_vi": [
       "Chú rể",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Ticket",
     "transliteration": "",
-    "english": "टिकट",
-    "vietnamese": "Vé",
+    "english": "Vé",
+    "vietnamese": "",
     "audio": "Ticket"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र",
-      "टिकट",
-      "सफ़र​​​​​​",
-      "सफ़र​​​​"
+      "Journey",
+      "Ticket",
+      "Journey",
+      "Journey"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -355,23 +355,29 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a बारात / Nó là một Đoàn rước dâu nhà trai",
+    "englishSentence": "Nó là một Đoàn rước dâu nhà trai",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Groom's wedding procession"
+      "Groom's",
+      "wedding",
+      "procession"
     ],
     "correctHindiSentence": "It is a Groom's wedding procession"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like सावधान रहें। / Tôi thích Hãy cẩn thận.",
+    "englishSentence": "Tôi thích Hãy cẩn thận.",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Be careful / Watch out."
+      "Be",
+      "careful",
+      "/",
+      "Watch",
+      "out."
     ],
     "correctHindiSentence": "I really like Be careful / Watch out."
   },

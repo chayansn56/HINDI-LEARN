@@ -1,63 +1,75 @@
 [
   {
     "type": "Introduction",
-    "title": "Meeting New Friends",
-    "description": "It's your second day in Delhi. You met the taxi driver yesterday. Today, let's learn how to ask how someone is doing.",
+    "title": "First Greetings",
+    "description": "John meets Rahul at breakfast.",
     "keyPoints": [
-      "आप कैसे हैं? (Aap kaise hain) = How are you?"
+      "Pay attention to the vocabulary.",
+      "Practice speaking aloud."
     ]
   },
   {
-    "type": "DialogueMode",
-    "title": "Breakfast at the Hotel",
-    "lines": [
+    "type": "StoryMode",
+    "title_en": "First Greetings",
+    "title_vi": "First Greetings",
+    "paragraphs": [
       {
-        "speaker": "John",
-        "hindi": "नमस्ते।",
-        "translation": "Hello."
+        "hindi": "राहुल आपको नाश्ता देता है।",
+        "translation": "Rahul gives you breakfast."
       },
       {
-        "speaker": "Rahul",
-        "hindi": "नमस्ते। आप कैसे हैं?",
-        "translation": "Hello. How are you?"
+        "hindi": "धन्यवाद। (Dhanyavaad)",
+        "translation": "Thank you."
+      }
+    ],
+    "question_en": "What did you say to Rahul?",
+    "question_vi": "Bạn đã nói gì với Rahul?",
+    "options": [
+      {
+        "text": "Thank you",
+        "isCorrect": true
       },
       {
-        "speaker": "John",
-        "hindi": "मैं ठीक हूँ, धन्यवाद।",
-        "translation": "I am fine, thank you."
+        "text": "Sorry",
+        "isCorrect": false
       }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Asking How Someone Is",
-    "explanation": "'आप कैसे हैं?' (Aap kaise hain?) is the standard, polite way to ask someone how they are.",
-    "simpleRule": "आप (You) कैसे (How) हैं (Are)?"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "How are you?",
-    "hindiWords": ["आप", "कैसे", "हैं?"],
-    "correctOrder": ["आप", "कैसे", "हैं?"]
+    "title": "Important Word",
+    "explanation": "The word धन्यवाद means Thank you (Cảm ơn).",
+    "simpleRule": "धन्यवाद = Thank you"
   },
   {
     "type": "VocabularyContext",
     "word": "धन्यवाद",
     "translation": "Thank you",
-    "contextSentenceHindi": "मैं ठीक हूँ, धन्यवाद।",
-    "contextSentenceTranslation": "I am fine, thank you.",
-    "memoryTrick": "Dhanyavaad. A polite thank you."
+    "contextSentenceHindi": "धन्यवाद।",
+    "contextSentenceTranslation": "Thank you",
+    "memoryTrick": "Remember धन्यवाद as Thank you."
   },
   {
-    "type": "MultipleChoice",
-    "prompt_en": "What does 'धन्यवाद' mean?",
-    "prompt_vi": "'धन्यवाद' có nghĩa là gì?",
-    "text": "धन्यवाद",
-    "subtext": "Dhanyavaad",
-    "options": [
-      { "text": "Thank you", "isCorrect": true },
-      { "text": "Hello", "isCorrect": false },
-      { "text": "How are you", "isCorrect": false }
+    "type": "Listening",
+    "audio": "धन्यवाद",
+    "translation_en": "Thank you",
+    "options_en": [
+      "Thank you",
+      "Sorry",
+      "Something else",
+      "Nothing"
+    ],
+    "translation_vi": "Cảm ơn",
+    "options_vi": [
+      "Cảm ơn",
+      "Xin lỗi",
+      "Khác",
+      "Không có gì"
     ]
+  },
+  {
+    "type": "Speaking",
+    "hindiPhrase": "धन्यवाद।",
+    "translation": "Thank you"
   }
 ]

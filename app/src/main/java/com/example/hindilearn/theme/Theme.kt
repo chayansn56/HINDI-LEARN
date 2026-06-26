@@ -11,13 +11,13 @@ private val DarkColorScheme = darkColorScheme(
     primary = DeepSaffron,
     secondary = PremiumGold,
     tertiary = RoyalBlue,
-    background = WarmIvory,
-    surface = PureWhite,
+    background = Color(0xFF121212),
+    surface = Color(0xFF1E1E1E),
     onPrimary = TextLight,
     onSecondary = TextDark,
     onTertiary = TextLight,
-    onBackground = TextDark,
-    onSurface = TextDark,
+    onBackground = TextLight,
+    onSurface = TextLight,
 )
 
 private val LightColorScheme = lightColorScheme(
@@ -36,8 +36,13 @@ private val LightColorScheme = lightColorScheme(
 @Composable
 fun HindiLearnTheme(
   darkTheme: Boolean = isSystemInDarkTheme(),
+  dynamicColor: Boolean = true,
   content: @Composable () -> Unit,
 ) {
-  val colorScheme = if (darkTheme) DarkColorScheme else LightColorScheme
+  val colorScheme = when {
+      darkTheme -> DarkColorScheme
+      else -> LightColorScheme
+  }
+  
   MaterialTheme(colorScheme = colorScheme, typography = Typography, content = content)
 }

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Applaud / Clapping",
     "transliteration": "",
-    "english": "तालियाँ",
-    "vietnamese": "Tràng pháo tay",
+    "english": "Tràng pháo tay",
+    "vietnamese": "",
     "audio": "Applaud / Clapping"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "I want this.",
     "transliteration": "",
-    "english": "मुझे यह चाहिए।",
-    "vietnamese": "Tôi muốn cái này.",
+    "english": "Tôi muốn cái này.",
+    "vietnamese": "",
     "audio": "I want this."
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​​​​​​​​​​​​",
-      "तालियाँ",
-      "धोना​​​​",
-      "मुझे यह चाहिए।"
+      "To ask",
+      "Applaud / Clapping",
+      "To wash",
+      "I want this."
     ],
     "options_vi": [
       "Hỏi",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Myself / Yourself / Himself (colloquial)",
     "transliteration": "",
-    "english": "खुद",
-    "vietnamese": "Tự mình",
+    "english": "Tự mình",
+    "vietnamese": "",
     "audio": "Myself / Yourself / Himself (colloquial)"
   },
   {
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "Love (intense)",
     "transliteration": "",
-    "english": "इश्क़",
-    "vietnamese": "Tình yêu sâu đậm",
+    "english": "Tình yêu sâu đậm",
+    "vietnamese": "",
     "audio": "Love (intense)"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Myself / Yourself / Himself (colloquial)'",
     "text": "Myself / Yourself / Himself (colloquial)",
     "subtext": "",
-    "answer": "खुद",
+    "answer": "Myself / Yourself / Himself (colloquial)",
     "answer_vi": "Tự mình",
     "options": [
-      "खुद",
-      "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "इश्क़",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Myself / Yourself / Himself (colloquial)",
+      "To teach",
+      "Love (intense)",
+      "To listen / hear"
     ],
     "options_vi": [
       "Tự mình",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​​​​​​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "I am proud of you.",
     "transliteration": "",
-    "english": "मुझे तुम पर गर्व है।",
-    "vietnamese": "Tôi tự hào về bạn.",
+    "english": "Tôi tự hào về bạn.",
+    "vietnamese": "",
     "audio": "I am proud of you."
   },
   {
     "type": "Flashcard",
     "hindi": "World",
     "transliteration": "",
-    "english": "दुनया​​​",
-    "vietnamese": "Thế giới",
+    "english": "Thế giới",
+    "vietnamese": "",
     "audio": "World"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "जूता​​​​​​​​",
-      "मुझे तुम पर गर्व है।",
-      "दुनया​​​"
+      "To write",
+      "Shoe",
+      "I am proud of you.",
+      "World"
     ],
     "options_vi": [
       "Viết",
@@ -300,23 +300,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पूछना​​​​​​​​​​​​​​​​​​​ / Tôi thấy Hỏi",
+    "englishSentence": "Tôi thấy Hỏi",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To ask"
+      "To",
+      "ask"
     ],
     "correctHindiSentence": "I see the To ask"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a तालियाँ / Tôi muốn Tràng pháo tay",
+    "englishSentence": "Tôi muốn Tràng pháo tay",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Applaud / Clapping"
+      "Applaud",
+      "/",
+      "Clapping"
     ],
     "correctHindiSentence": "I want a Applaud / Clapping"
   },

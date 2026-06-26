@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Slink away / Slip out",
     "transliteration": "",
-    "english": "कट ले",
-    "vietnamese": "Lẻn đi thôi / Rút lui",
+    "english": "Lẻn đi thôi / Rút lui",
+    "vietnamese": "",
     "audio": "Slink away / Slip out"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To speak'",
     "text": "To speak",
     "subtext": "",
-    "answer": "बोलना​​​​​​​​​​​​​​​​​​",
+    "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
-      "बोलना​​​​​​​​​​​​​​​​​​",
-      "कट ले",
-      "सफ़र​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To speak",
+      "Slink away / Slip out",
+      "Journey",
+      "To open"
     ],
     "options_vi": [
       "Nói",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Lock'",
     "text": "Lock",
     "subtext": "",
-    "answer": "ताला​",
+    "answer": "Lock",
     "answer_vi": "Ổ khóa",
     "options": [
-      "ताला​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देना​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​"
+      "Lock",
+      "To stand",
+      "To give",
+      "To walk / move"
     ],
     "options_vi": [
       "Ổ khóa",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Nose",
     "transliteration": "",
-    "english": "नाक",
-    "vietnamese": "Mũi",
+    "english": "Mũi",
+    "vietnamese": "",
     "audio": "Nose"
   },
   {
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To open'",
     "text": "To open",
     "subtext": "",
-    "answer": "खोलना​​​​​​​​​​​​​​​​​​​",
+    "answer": "To open",
     "answer_vi": "Mở",
     "options": [
-      "खोलना​​​​​​​​​​​​​​​​​​​",
-      "नाक",
-      "दफ़्तर​​",
-      "गाँव​​"
+      "To open",
+      "Nose",
+      "Office",
+      "Village"
     ],
     "options_vi": [
       "Mở",
@@ -300,23 +300,28 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बोलना​​​​​​​​​​​​​​​​​​ / Tôi thấy Nói",
+    "englishSentence": "Tôi thấy Nói",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To speak"
+      "To",
+      "speak"
     ],
     "correctHindiSentence": "I see the To speak"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a कट ले / Tôi muốn Lẻn đi thôi / Rút lui",
+    "englishSentence": "Rút lui",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Slink away / Slip out"
+      "Slink",
+      "away",
+      "/",
+      "Slip",
+      "out"
     ],
     "correctHindiSentence": "I want a Slink away / Slip out"
   },

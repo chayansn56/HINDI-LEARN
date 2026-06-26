@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Worship Ritual",
     "transliteration": "",
-    "english": "पूजा",
-    "vietnamese": "Nghi lễ thờ cúng",
+    "english": "Nghi lễ thờ cúng",
+    "vietnamese": "",
     "audio": "Worship Ritual"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Worship Ritual'",
     "text": "Worship Ritual",
     "subtext": "",
-    "answer": "पूजा",
+    "answer": "Worship Ritual",
     "answer_vi": "Nghi lễ thờ cúng",
     "options": [
-      "पूजा",
-      "सीखना​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सफ़र​​​​​​​​​​​"
+      "Worship Ritual",
+      "To learn",
+      "To read",
+      "Journey"
     ],
     "options_vi": [
       "Nghi lễ thờ cúng",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "Water",
     "transliteration": "",
-    "english": "पानी",
-    "vietnamese": "Nước",
+    "english": "Nước",
+    "vietnamese": "",
     "audio": "Water"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​",
-      "बैठना​",
-      "पानी"
+      "To listen / hear",
+      "To walk / move",
+      "To sit",
+      "Water"
     ],
     "options_vi": [
       "Nghe",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "am",
     "transliteration": "",
-    "english": "हूँ",
-    "vietnamese": "Là (tôi)",
+    "english": "Là (tôi)",
+    "vietnamese": "",
     "audio": "am"
   },
   {
     "type": "Flashcard",
     "hindi": "To close",
     "transliteration": "",
-    "english": "बंद करना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đóng",
+    "english": "Đóng",
+    "vietnamese": "",
     "audio": "To close"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
     "text": "To laugh",
     "subtext": "",
-    "answer": "हँसना​",
+    "answer": "To laugh",
     "answer_vi": "Cười lớn",
     "options": [
-      "हँसना​",
-      "धोना​​​​​​​​​​",
-      "हूँ",
-      "बंद करना​​​​​​​​​​​​​​​​​​"
+      "To laugh",
+      "To wash",
+      "am",
+      "To close"
     ],
     "options_vi": [
       "Cười lớn",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पूजा / Tôi thấy Nghi lễ thờ cúng",
+    "englishSentence": "Tôi thấy Nghi lễ thờ cúng",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Worship Ritual"
+      "Worship",
+      "Ritual"
     ],
     "correctHindiSentence": "I see the Worship Ritual"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सीखना​​​​​​ / Tôi muốn Học",
+    "englishSentence": "Tôi muốn Học",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To learn"
+      "To",
+      "learn"
     ],
     "correctHindiSentence": "I want a To learn"
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Turn right.",
     "transliteration": "",
-    "english": "दाएँ मुड़िए।",
-    "vietnamese": "Rẽ phải.",
+    "english": "Rẽ phải.",
+    "vietnamese": "",
     "audio": "Turn right."
   },
   {
     "type": "Flashcard",
     "hindi": "Trust / Belief",
     "transliteration": "",
-    "english": "विश्वास",
-    "vietnamese": "Niềm tin",
+    "english": "Niềm tin",
+    "vietnamese": "",
     "audio": "Trust / Belief"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Turn right.'",
     "text": "Turn right.",
     "subtext": "",
-    "answer": "दाएँ मुड़िए।",
+    "answer": "Turn right.",
     "answer_vi": "Rẽ phải.",
     "options": [
-      "दाएँ मुड़िए।",
-      "विश्वास",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "करना​​​​​​​​​​​​​​​​​​​​​​​"
+      "Turn right.",
+      "Trust / Belief",
+      "To walk / move",
+      "To do"
     ],
     "options_vi": [
       "Rẽ phải.",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Hello / Greetings",
     "transliteration": "",
-    "english": "नमस्ते",
-    "vietnamese": "Xin chào",
+    "english": "Xin chào",
+    "vietnamese": "",
     "audio": "Hello / Greetings"
   },
   {
     "type": "Flashcard",
     "hindi": "Message",
     "transliteration": "",
-    "english": "मैसेज",
-    "vietnamese": "Tin nhắn",
+    "english": "Tin nhắn",
+    "vietnamese": "",
     "audio": "Message"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​​​​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Hello / Greetings'",
     "text": "Hello / Greetings",
     "subtext": "",
-    "answer": "नमस्ते",
+    "answer": "Hello / Greetings",
     "answer_vi": "Xin chào",
     "options": [
-      "नमस्ते",
-      "मैसेज",
-      "पेन​​​​​​​​",
-      "बनाना​​​​"
+      "Hello / Greetings",
+      "Message",
+      "Pen",
+      "To make / build"
     ],
     "options_vi": [
       "Xin chào",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Quickly",
     "transliteration": "",
-    "english": "फटाफट",
-    "vietnamese": "Nhanh chóng",
+    "english": "Nhanh chóng",
+    "vietnamese": "",
     "audio": "Quickly"
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Quickly'",
     "text": "Quickly",
     "subtext": "",
-    "answer": "फटाफट",
+    "answer": "Quickly",
     "answer_vi": "Nhanh chóng",
     "options": [
-      "फटाफट",
-      "करना",
-      "धोना​​​​​​​​​​",
-      "ताला"
+      "Quickly",
+      "To do",
+      "To wash",
+      "Lock"
     ],
     "options_vi": [
       "Nhanh chóng",
@@ -300,23 +300,26 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the दाएँ मुड़िए। / Tôi thấy Rẽ phải.",
+    "englishSentence": "Tôi thấy Rẽ phải.",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Turn right."
+      "Turn",
+      "right."
     ],
     "correctHindiSentence": "I see the Turn right."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a विश्वास / Tôi muốn Niềm tin",
+    "englishSentence": "Tôi muốn Niềm tin",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Trust / Belief"
+      "Trust",
+      "/",
+      "Belief"
     ],
     "correctHindiSentence": "I want a Trust / Belief"
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
     "text": "To walk / move",
     "subtext": "",
-    "answer": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To walk / move",
     "answer_vi": "Đi bộ / Di chuyển",
     "options": [
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To walk / move",
+      "To make / build",
+      "To sell",
+      "To speak"
     ],
     "options_vi": [
       "Đi bộ / Di chuyển",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "Pen",
     "transliteration": "",
-    "english": "पेन​​​",
-    "vietnamese": "Bút",
+    "english": "Bút",
+    "vietnamese": "",
     "audio": "Pen"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Trouble / Mess",
     "transliteration": "",
-    "english": "लोचा",
-    "vietnamese": "Rắc rối / Hỗn loạn",
+    "english": "Rắc rối / Hỗn loạn",
+    "vietnamese": "",
     "audio": "Trouble / Mess"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Village'",
     "text": "Village",
     "subtext": "",
-    "answer": "गाँव​​",
+    "answer": "Village",
     "answer_vi": "Ngôi làng",
     "options": [
-      "गाँव​​",
-      "पेन​​​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लोचा"
+      "Village",
+      "Pen",
+      "To run",
+      "Trouble / Mess"
     ],
     "options_vi": [
       "Ngôi làng",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Crore (10,000,000)",
     "transliteration": "",
-    "english": "करोड़",
-    "vietnamese": "Mười triệu",
+    "english": "Mười triệu",
+    "vietnamese": "",
     "audio": "Crore (10,000,000)"
   },
   {
     "type": "Flashcard",
     "hindi": "Listen to me.",
     "transliteration": "",
-    "english": "मेरी बात सुनो।",
-    "vietnamese": "Hãy nghe tôi nói.",
+    "english": "Hãy nghe tôi nói.",
+    "vietnamese": "",
     "audio": "Listen to me."
   },
   {
     "type": "Flashcard",
     "hindi": "To do",
     "transliteration": "",
-    "english": "करना​​​​​​",
-    "vietnamese": "Làm",
+    "english": "Làm",
+    "vietnamese": "",
     "audio": "To do"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Crore (10,000,000)'",
     "text": "Crore (10,000,000)",
     "subtext": "",
-    "answer": "करोड़",
+    "answer": "Crore (10,000,000)",
     "answer_vi": "Mười triệu",
     "options": [
-      "करोड़",
-      "मेरी बात सुनो।",
-      "करना​​​​​​",
-      "बैठना​​​​​​​​​​​​​​​​"
+      "Crore (10,000,000)",
+      "Listen to me.",
+      "To do",
+      "To sit"
     ],
     "options_vi": [
       "Mười triệu",
@@ -300,23 +300,29 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi thấy Đi bộ / Di chuyển",
+    "englishSentence": "Di chuyển",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To walk / move"
+      "To",
+      "walk",
+      "/",
+      "move"
     ],
     "correctHindiSentence": "I see the To walk / move"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बनाना​​​​​​​ / Tôi muốn Chế tạo / Tạo ra",
+    "englishSentence": "Tạo ra",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To make / build"
+      "To",
+      "make",
+      "/",
+      "build"
     ],
     "correctHindiSentence": "I want a To make / build"
   },

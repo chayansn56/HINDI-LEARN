@@ -1,91 +1,86 @@
-{
-  "id": "episode_0_27",
-  "title": "Future with Will",
-  "description": "Learn to talk about the future using will.",
-  "nodes": [
-    {
-      "id": "n1",
-      "type": "TeachRule",
-      "content": "Use 'will + verb' for future predictions, promises, or spontaneous decisions.\nExample: 'I will go' (Tôi sẽ đi)."
-    },
-    {
-      "id": "n2",
-      "type": "Flashcard",
-      "hindi": "I will go",
-      "english": "Tôi sẽ đi",
-      "audio": "I will go"
-    },
-    {
-      "id": "n3",
-      "type": "Flashcard",
-      "hindi": "She will help",
-      "english": "Cô ấy sẽ giúp",
-      "audio": "She will help"
-    },
-    {
-      "id": "n4",
-      "type": "Flashcard",
-      "hindi": "They will come",
-      "english": "Họ sẽ đến",
-      "audio": "They will come"
-    },
-    {
-      "id": "n5",
-      "type": "MultipleChoice",
-      "hindi": "I will see",
-      "english": "Tôi sẽ thấy",
-      "options": [
-        "Tôi sẽ thấy",
-        "Tôi đã thấy",
-        "Tôi đang thấy"
-      ],
-      "audio": "I will see"
-    },
-    {
-      "id": "n6",
-      "type": "MultipleChoice",
-      "hindi": "We will win",
-      "english": "Chúng tôi sẽ thắng",
-      "options": [
-        "Chúng tôi sẽ thắng",
-        "Họ sẽ thắng",
-        "Tôi sẽ thắng"
-      ],
-      "audio": "We will win"
-    },
-    {
-      "id": "n7",
-      "type": "MatchPairs",
-      "pairs": {
-        "I will go": "Tôi sẽ đi",
-        "She will help": "Cô ấy sẽ giúp",
-        "They will come": "Họ sẽ đến",
-        "He will see": "Anh ấy sẽ thấy"
-      }
-    },
-    {
-      "id": "n8",
-      "type": "TeachRule",
-      "content": "Negative (will not / won't). Example: I won't go (Tôi sẽ không đi)."
-    },
-    {
-      "id": "n9",
-      "type": "Flashcard",
-      "hindi": "I won't forget",
-      "english": "Tôi sẽ không quên",
-      "audio": "I won't forget"
-    },
-    {
-      "id": "n10",
-      "type": "MultipleChoice",
-      "hindi": "She won't come",
-      "english": "Cô ấy sẽ không đến",
-      "options": [
-        "Cô ấy sẽ không đến",
-        "Cô ấy đã không đến",
-        "Cô ấy đang đến"
-      ],
-      "audio": "She won't come"
+[
+  {
+    "id": "n1",
+    "type": "TeachRule",
+    "content": "Use 'will + verb' for future predictions, promises, or spontaneous decisions.\nExample: 'I will go' (Tôi sẽ đi)."
+  },
+  {
+    "id": "n2",
+    "type": "Flashcard",
+    "hindi": "I will go",
+    "english": "Tôi sẽ đi",
+    "audio": "I will go"
+  },
+  {
+    "id": "n3",
+    "type": "Flashcard",
+    "hindi": "She will help",
+    "english": "Cô ấy sẽ giúp",
+    "audio": "She will help"
+  },
+  {
+    "id": "n4",
+    "type": "Flashcard",
+    "hindi": "They will come",
+    "english": "Họ sẽ đến",
+    "audio": "They will come"
+  },
+  {
+    "id": "n5",
+    "type": "MultipleChoice",
+    "hindi": "I will see",
+    "english": "Tôi sẽ thấy",
+    "options": [
+      "Tôi sẽ thấy",
+      "Tôi đã thấy",
+      "Tôi đang thấy"
+    ],
+    "audio": "I will see"
+  },
+  {
+    "id": "n6",
+    "type": "MultipleChoice",
+    "hindi": "We will win",
+    "english": "Chúng tôi sẽ thắng",
+    "options": [
+      "Chúng tôi sẽ thắng",
+      "Họ sẽ thắng",
+      "Tôi sẽ thắng"
+    ],
+    "audio": "We will win"
+  },
+  {
+    "id": "n7",
+    "type": "MatchPairs",
+    "pairs": {
+      "I will go": "Tôi sẽ đi",
+      "She will help": "Cô ấy sẽ giúp",
+      "They will come": "Họ sẽ đến",
+      "He will see": "Anh ấy sẽ thấy"
     }
-  ]
-}
+  },
+  {
+    "id": "n8",
+    "type": "TeachRule",
+    "content": "Negative (will not / won't). Example: I won't go (Tôi sẽ không đi)."
+  },
+  {
+    "id": "n9",
+    "type": "Flashcard",
+    "hindi": "I won't forget",
+    "english": "Tôi sẽ không quên",
+    "audio": "I won't forget"
+  },
+  {
+    "id": "n10",
+    "type": "MultipleChoice",
+    "hindi": "She won't come",
+    "english": "Cô ấy sẽ không đến",
+    "options": [
+      "Cô ấy sẽ không đến",
+      "Cô ấy đã không đến",
+      "Cô ấy đang đến"
+    ],
+    "audio": "She won't come"
+  }
+]

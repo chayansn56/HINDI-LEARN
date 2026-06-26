@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
     "text": "To teach",
     "subtext": "",
-    "answer": "sिखाना​​​​",
+    "answer": "To teach",
     "answer_vi": "Dạy",
     "options": [
-      "sिखाना​​​​",
-      "लिखना​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​",
-      "काम करना​"
+      "To teach",
+      "To write",
+      "To open",
+      "To work"
     ],
     "options_vi": [
       "Dạy",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Flatbread",
     "transliteration": "",
-    "english": "रोटी",
-    "vietnamese": "Bánh mì dẹt",
+    "english": "Bánh mì dẹt",
+    "vietnamese": "",
     "audio": "Flatbread"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To laugh'",
     "text": "To laugh",
     "subtext": "",
-    "answer": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To laugh",
     "answer_vi": "Cười lớn",
     "options": [
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "गाँव​​​​​​​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "रोटी"
+      "To laugh",
+      "Village",
+      "To run",
+      "Flatbread"
     ],
     "options_vi": [
       "Cười lớn",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​",
-      "देना​​​​​​​​​​",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To write",
+      "To sit",
+      "To give",
+      "To play"
     ],
     "options_vi": [
       "Viết",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the sिखाना​​​​ / Tôi thấy Dạy",
+    "englishSentence": "Tôi thấy Dạy",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To teach"
+      "To",
+      "teach"
     ],
     "correctHindiSentence": "I see the To teach"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a लिखना​​​​​​​​​ / Tôi muốn Viết",
+    "englishSentence": "Tôi muốn Viết",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To write"
+      "To",
+      "write"
     ],
     "correctHindiSentence": "I want a To write"
   },

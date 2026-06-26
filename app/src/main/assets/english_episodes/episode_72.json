@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​​​​​​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Budget",
     "transliteration": "",
-    "english": "बजट",
-    "vietnamese": "Ngân sách",
+    "english": "Ngân sách",
+    "vietnamese": "",
     "audio": "Budget"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To read'",
     "text": "To read",
     "subtext": "",
-    "answer": "पढ़ना​​​​​​​​​​​​​​​​​​​",
+    "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​​",
-      "दौड़ना​​​​​​​​​​",
-      "मदद​​​​​​​​",
-      "बजट"
+      "To read",
+      "To run",
+      "Help",
+      "Budget"
     ],
     "options_vi": [
       "Đọc",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "To buy",
     "transliteration": "",
-    "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mua",
+    "english": "Mua",
+    "vietnamese": "",
     "audio": "To buy"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cup'",
     "text": "Cup",
     "subtext": "",
-    "answer": "प्याला​",
+    "answer": "Cup",
     "answer_vi": "Tách",
     "options": [
-      "प्याला​",
-      "सुनना​​​​​",
-      "गाना​​​​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Cup",
+      "To listen / hear",
+      "To sing",
+      "To buy"
     ],
     "options_vi": [
       "Tách",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Office",
     "transliteration": "",
-    "english": "दफ़्तर​​​​​​​​​​​",
-    "vietnamese": "Văn phòng",
+    "english": "Văn phòng",
+    "vietnamese": "",
     "audio": "Office"
   },
   {
     "type": "Flashcard",
     "hindi": "To tell / explain",
     "transliteration": "",
-    "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Kể / Giải thích",
+    "english": "Kể / Giải thích",
+    "vietnamese": "",
     "audio": "To tell / explain"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "To play",
     "transliteration": "",
-    "english": "खेलना​​​​​​​​​​",
-    "vietnamese": "Chơi",
+    "english": "Chơi",
+    "vietnamese": "",
     "audio": "To play"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Office'",
     "text": "Office",
     "subtext": "",
-    "answer": "दफ़्तर​​​​​​​​​​​",
+    "answer": "Office",
     "answer_vi": "Văn phòng",
     "options": [
-      "दफ़्तर​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​​​​​​​​​​​​​​",
-      "खेलना​​​​​​​​​​"
+      "Office",
+      "To tell / explain",
+      "To see / watch",
+      "To play"
     ],
     "options_vi": [
       "Văn phòng",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the पढ़ना​​​​​​​​​​​​​​​​​​​ / Tôi thấy Đọc",
+    "englishSentence": "Tôi thấy Đọc",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To read"
+      "To",
+      "read"
     ],
     "correctHindiSentence": "I see the To read"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a दौड़ना​​​​​​​​​​ / Tôi muốn Chạy",
+    "englishSentence": "Tôi muốn Chạy",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To run"
+      "To",
+      "run"
     ],
     "correctHindiSentence": "I want a To run"
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "To take",
     "transliteration": "",
-    "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Lấy / Nhận",
+    "english": "Lấy / Nhận",
+    "vietnamese": "",
     "audio": "To take"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Cool / Awesome",
     "transliteration": "",
-    "english": "मस्त",
-    "vietnamese": "Tuyệt vời / Đỉnh",
+    "english": "Tuyệt vời / Đỉnh",
+    "vietnamese": "",
     "audio": "Cool / Awesome"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
     "text": "To run",
     "subtext": "",
-    "answer": "दौड़ना​​​",
+    "answer": "To run",
     "answer_vi": "Chạy",
     "options": [
-      "दौड़ना​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मस्त"
+      "To run",
+      "To take",
+      "To work",
+      "Cool / Awesome"
     ],
     "options_vi": [
       "Chạy",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "is",
     "transliteration": "",
-    "english": "है",
-    "vietnamese": "Là (số ít)",
+    "english": "Là (số ít)",
+    "vietnamese": "",
     "audio": "is"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To walk / move'",
     "text": "To walk / move",
     "subtext": "",
-    "answer": "चलना​​​​​​​​​​​​​​​​",
+    "answer": "To walk / move",
     "answer_vi": "Đi bộ / Di chuyển",
     "options": [
-      "चलना​​​​​​​​​​​​​​​​",
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सफ़र​​​​​​​​​​",
-      "है"
+      "To walk / move",
+      "To run",
+      "Journey",
+      "is"
     ],
     "options_vi": [
       "Đi bộ / Di chuyển",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To wash'",
     "text": "To wash",
     "subtext": "",
-    "answer": "धोना​",
+    "answer": "To wash",
     "answer_vi": "Rửa / Giặt",
     "options": [
-      "धोना​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "गाना​​​​​​​​​​"
+      "To wash",
+      "To cry",
+      "To laugh",
+      "To sing"
     ],
     "options_vi": [
       "Rửa / Giặt",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the दौड़ना​​​ / Tôi thấy Chạy",
+    "englishSentence": "Tôi thấy Chạy",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To run"
+      "To",
+      "run"
     ],
     "correctHindiSentence": "I see the To run"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Lấy / Nhận",
+    "englishSentence": "Nhận",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To take"
+      "To",
+      "take"
     ],
     "correctHindiSentence": "I want a To take"
   },

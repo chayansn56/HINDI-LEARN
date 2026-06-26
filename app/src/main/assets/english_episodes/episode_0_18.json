@@ -1,128 +1,124 @@
-{
-  "id": "episode_0_18",
-  "title": "Daily Routine",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Daily Routine",
-      "explanation": "Learn vocabulary to talk about what you do every day."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Wake up",
-          "translation": "Thức dậy",
-          "audio": "Wake up"
-        },
-        {
-          "hindi": "Brush teeth",
-          "translation": "Đánh răng",
-          "audio": "Brush teeth"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Brush teeth' in Vietnamese?",
-      "options": [
-        "Thức dậy",
-        "Đánh răng",
-        "Ăn sáng",
-        "Đi học"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Wake up",
-          "translation": "Thức dậy"
-        },
-        {
-          "hindi": "Brush teeth",
-          "translation": "Đánh răng"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Have breakfast",
-          "translation": "Ăn sáng",
-          "audio": "Have breakfast"
-        },
-        {
-          "hindi": "Go to school",
-          "translation": "Đi học",
-          "audio": "Go to school"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Have breakfast' in Vietnamese?",
-      "options": [
-        "Ăn trưa",
-        "Ăn tối",
-        "Ăn sáng",
-        "Đánh răng"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Have breakfast",
-          "translation": "Ăn sáng"
-        },
-        {
-          "hindi": "Go to school",
-          "translation": "Đi học"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "Go home",
-          "translation": "Về nhà",
-          "audio": "Go home"
-        },
-        {
-          "hindi": "Go to sleep",
-          "translation": "Đi ngủ",
-          "audio": "Go to sleep"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'Go to sleep' in Vietnamese?",
-      "options": [
-        "Về nhà",
-        "Đi ngủ",
-        "Thức dậy",
-        "Ăn sáng"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "Go home",
-          "translation": "Về nhà"
-        },
-        {
-          "hindi": "Go to sleep",
-          "translation": "Đi ngủ"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Daily Routine",
+    "explanation": "Learn vocabulary to talk about what you do every day."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Wake up",
+        "translation": "Thức dậy",
+        "audio": "Wake up"
+      },
+      {
+        "hindi": "Brush teeth",
+        "translation": "Đánh răng",
+        "audio": "Brush teeth"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Brush teeth' in Vietnamese?",
+    "options": [
+      "Thức dậy",
+      "Đánh răng",
+      "Ăn sáng",
+      "Đi học"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Wake up",
+        "translation": "Thức dậy"
+      },
+      {
+        "hindi": "Brush teeth",
+        "translation": "Đánh răng"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Have breakfast",
+        "translation": "Ăn sáng",
+        "audio": "Have breakfast"
+      },
+      {
+        "hindi": "Go to school",
+        "translation": "Đi học",
+        "audio": "Go to school"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Have breakfast' in Vietnamese?",
+    "options": [
+      "Ăn trưa",
+      "Ăn tối",
+      "Ăn sáng",
+      "Đánh răng"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Have breakfast",
+        "translation": "Ăn sáng"
+      },
+      {
+        "hindi": "Go to school",
+        "translation": "Đi học"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "Go home",
+        "translation": "Về nhà",
+        "audio": "Go home"
+      },
+      {
+        "hindi": "Go to sleep",
+        "translation": "Đi ngủ",
+        "audio": "Go to sleep"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'Go to sleep' in Vietnamese?",
+    "options": [
+      "Về nhà",
+      "Đi ngủ",
+      "Thức dậy",
+      "Ăn sáng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Go home",
+        "translation": "Về nhà"
+      },
+      {
+        "hindi": "Go to sleep",
+        "translation": "Đi ngủ"
+      }
+    ]
+  }
+]

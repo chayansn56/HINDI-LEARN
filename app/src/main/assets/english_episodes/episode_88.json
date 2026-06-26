@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "सितारा",
-    "vietnamese": "Ngôi sao điện ảnh",
+    "english": "Ngôi sao điện ảnh",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To stand'",
     "text": "To stand",
     "subtext": "",
-    "answer": "खड़े होना​​​​​​​​​​​​​​​​​​",
+    "answer": "To stand",
     "answer_vi": "Đứng",
     "options": [
-      "खड़े होना​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​",
-      "सितारा"
+      "To stand",
+      "To walk / move",
+      "To make / build",
+      "Star"
     ],
     "options_vi": [
       "Đứng",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "As much as",
     "transliteration": "",
-    "english": "जितना",
-    "vietnamese": "Bao nhiêu tùy ý",
+    "english": "Bao nhiêu tùy ý",
+    "vietnamese": "",
     "audio": "As much as"
   },
   {
     "type": "Flashcard",
     "hindi": "Help",
     "transliteration": "",
-    "english": "मदद​​",
-    "vietnamese": "Sự giúp đỡ",
+    "english": "Sự giúp đỡ",
+    "vietnamese": "",
     "audio": "Help"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'As much as'",
     "text": "As much as",
     "subtext": "",
-    "answer": "जितना",
+    "answer": "As much as",
     "answer_vi": "Bao nhiêu tùy ý",
     "options": [
-      "जितना",
-      "मदद​​",
-      "तारा​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​"
+      "As much as",
+      "Help",
+      "Star",
+      "To learn"
     ],
     "options_vi": [
       "Bao nhiêu tùy ý",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "Road",
     "transliteration": "",
-    "english": "सड़क​​​​​​​​​",
-    "vietnamese": "Đường",
+    "english": "Đường",
+    "vietnamese": "",
     "audio": "Road"
   },
   {
     "type": "Flashcard",
     "hindi": "His / Her (distant feminine)",
     "transliteration": "",
-    "english": "उसकी",
-    "vietnamese": "Của anh/chị ấy (xa - giống cái)",
+    "english": "Của anh/chị ấy (xa - giống cái)",
+    "vietnamese": "",
     "audio": "His / Her (distant feminine)"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To write'",
     "text": "To write",
     "subtext": "",
-    "answer": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To write",
     "answer_vi": "Viết",
     "options": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सड़क​​​​​​​​​",
-      "उसकी"
+      "To write",
+      "To laugh",
+      "Road",
+      "His / Her (distant feminine)"
     ],
     "options_vi": [
       "Viết",
@@ -300,23 +300,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the खड़े होना​​​​​​​​​​​​​​​​​​ / Tôi thấy Đứng",
+    "englishSentence": "Tôi thấy Đứng",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To stand"
+      "To",
+      "stand"
     ],
     "correctHindiSentence": "I see the To stand"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a चलना​​​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Đi bộ / Di chuyển",
+    "englishSentence": "Di chuyển",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To walk / move"
+      "To",
+      "walk",
+      "/",
+      "move"
     ],
     "correctHindiSentence": "I want a To walk / move"
   },

@@ -1,123 +1,119 @@
-{
-  "id": "episode_0_16",
-  "title": "Simple Present Tense",
-  "nodes": [
-    {
-      "type": "TeachRules",
-      "title": "Simple Present Tense",
-      "explanation": "We use Simple Present Tense to describe habits, general truths, and unchanging situations."
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "I eat",
-          "translation": "Tôi ăn",
-          "audio": "I eat"
-        },
-        {
-          "hindi": "You sleep",
-          "translation": "Bạn ngủ",
-          "audio": "You sleep"
-        },
-        {
-          "hindi": "He works",
-          "translation": "Anh ấy làm việc",
-          "audio": "He works"
-        },
-        {
-          "hindi": "She studies",
-          "translation": "Cô ấy học",
-          "audio": "She studies"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'I eat' in Vietnamese?",
-      "options": [
-        "Tôi ăn",
-        "Bạn ngủ",
-        "Tôi uống",
-        "Anh ấy làm việc"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'She studies' in Vietnamese?",
-      "options": [
-        "Cô ấy học",
-        "Anh ấy làm việc",
-        "Tôi ăn",
-        "Bạn ngủ"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "He works",
-          "translation": "Anh ấy làm việc"
-        },
-        {
-          "hindi": "She studies",
-          "translation": "Cô ấy học"
-        }
-      ]
-    },
-    {
-      "type": "Flashcards",
-      "items": [
-        {
-          "hindi": "We play",
-          "translation": "Chúng tôi chơi",
-          "audio": "We play"
-        },
-        {
-          "hindi": "They read",
-          "translation": "Họ đọc",
-          "audio": "They read"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "question": "What is 'They read' in Vietnamese?",
-      "options": [
-        "Họ đọc",
-        "Chúng tôi chơi",
-        "Tôi ăn",
-        "Bạn ngủ"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "I eat",
-          "translation": "Tôi ăn"
-        },
-        {
-          "hindi": "You sleep",
-          "translation": "Bạn ngủ"
-        }
-      ]
-    },
-    {
-      "type": "MatchPairs",
-      "pairs": [
-        {
-          "hindi": "We play",
-          "translation": "Chúng tôi chơi"
-        },
-        {
-          "hindi": "They read",
-          "translation": "Họ đọc"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "TeachRules",
+    "title": "Simple Present Tense",
+    "explanation": "We use Simple Present Tense to describe habits, general truths, and unchanging situations."
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "I eat",
+        "translation": "Tôi ăn",
+        "audio": "I eat"
+      },
+      {
+        "hindi": "You sleep",
+        "translation": "Bạn ngủ",
+        "audio": "You sleep"
+      },
+      {
+        "hindi": "He works",
+        "translation": "Anh ấy làm việc",
+        "audio": "He works"
+      },
+      {
+        "hindi": "She studies",
+        "translation": "Cô ấy học",
+        "audio": "She studies"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'I eat' in Vietnamese?",
+    "options": [
+      "Tôi ăn",
+      "Bạn ngủ",
+      "Tôi uống",
+      "Anh ấy làm việc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'She studies' in Vietnamese?",
+    "options": [
+      "Cô ấy học",
+      "Anh ấy làm việc",
+      "Tôi ăn",
+      "Bạn ngủ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "He works",
+        "translation": "Anh ấy làm việc"
+      },
+      {
+        "hindi": "She studies",
+        "translation": "Cô ấy học"
+      }
+    ]
+  },
+  {
+    "type": "Flashcards",
+    "items": [
+      {
+        "hindi": "We play",
+        "translation": "Chúng tôi chơi",
+        "audio": "We play"
+      },
+      {
+        "hindi": "They read",
+        "translation": "Họ đọc",
+        "audio": "They read"
+      }
+    ]
+  },
+  {
+    "type": "MultipleChoice",
+    "question": "What is 'They read' in Vietnamese?",
+    "options": [
+      "Họ đọc",
+      "Chúng tôi chơi",
+      "Tôi ăn",
+      "Bạn ngủ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "I eat",
+        "translation": "Tôi ăn"
+      },
+      {
+        "hindi": "You sleep",
+        "translation": "Bạn ngủ"
+      }
+    ]
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "We play",
+        "translation": "Chúng tôi chơi"
+      },
+      {
+        "hindi": "They read",
+        "translation": "Họ đọc"
+      }
+    ]
+  }
+]

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
     "type": "Flashcard",
     "hindi": "To learn",
     "transliteration": "",
-    "english": "सीखना​​​​​​​​",
-    "vietnamese": "Học",
+    "english": "Học",
+    "vietnamese": "",
     "audio": "To learn"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "What a shame.",
     "transliteration": "",
-    "english": "शर्म की बात है।",
-    "vietnamese": "Thật đáng hổ thẹn.",
+    "english": "Thật đáng hổ thẹn.",
+    "vietnamese": "",
     "audio": "What a shame."
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Journey'",
     "text": "Journey",
     "subtext": "",
-    "answer": "सफ़र​​​​​​​​​",
+    "answer": "Journey",
     "answer_vi": "Chuyến đi",
     "options": [
-      "सफ़र​​​​​​​​​",
-      "सीखना​​​​​​​​",
-      "बोलना​​​​",
-      "शर्म की बात है।"
+      "Journey",
+      "To learn",
+      "To speak",
+      "What a shame."
     ],
     "options_vi": [
       "Chuyến đi",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "Iron",
     "transliteration": "",
-    "english": "लोहा​​​​​​",
-    "vietnamese": "Sắt",
+    "english": "Sắt",
+    "vietnamese": "",
     "audio": "Iron"
   },
   {
     "type": "Flashcard",
     "hindi": "Ganges River",
     "transliteration": "",
-    "english": "गंगा",
-    "vietnamese": "Sông Hằng",
+    "english": "Sông Hằng",
+    "vietnamese": "",
     "audio": "Ganges River"
   },
   {
     "type": "Flashcard",
     "hindi": "River",
     "transliteration": "",
-    "english": "नदी​​​",
-    "vietnamese": "Con sông",
+    "english": "Con sông",
+    "vietnamese": "",
     "audio": "River"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लोहा​​​​​​",
-      "गंगा",
-      "नदी​​​"
+      "To work",
+      "Iron",
+      "Ganges River",
+      "River"
     ],
     "options_vi": [
       "Làm việc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Gold",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Vàng",
+    "english": "Vàng",
+    "vietnamese": "",
     "audio": "Gold"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "River",
     "transliteration": "",
-    "english": "नदी​​​​​​",
-    "vietnamese": "Con sông",
+    "english": "Con sông",
+    "vietnamese": "",
     "audio": "River"
   },
   {
     "type": "Flashcard",
     "hindi": "Garden",
     "transliteration": "",
-    "english": "बग़ीचा​​​​​",
-    "vietnamese": "Khu vườn",
+    "english": "Khu vườn",
+    "vietnamese": "",
     "audio": "Garden"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Gold'",
     "text": "Gold",
     "subtext": "",
-    "answer": "सोना​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "Gold",
     "answer_vi": "Vàng",
     "options": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​​​",
-      "नदी​​​​​​",
-      "बग़ीचा​​​​​"
+      "Gold",
+      "To see / watch",
+      "River",
+      "Garden"
     ],
     "options_vi": [
       "Vàng",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the सफ़र​​​​​​​​​ / Tôi thấy Chuyến đi",
+    "englishSentence": "Tôi thấy Chuyến đi",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a सीखना​​​​​​​​ / Tôi muốn Học",
+    "englishSentence": "Tôi muốn Học",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To learn"
+      "To",
+      "learn"
     ],
     "correctHindiSentence": "I want a To learn"
   },

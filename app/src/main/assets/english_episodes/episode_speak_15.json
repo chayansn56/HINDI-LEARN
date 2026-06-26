@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "No problem, it happens.",
     "transliteration": "",
-    "english": "कोई बात नहीं, चलता है।",
-    "vietnamese": "Không sao đâu, chuyện thường thôi.",
+    "english": "Không sao đâu, chuyện thường thôi.",
+    "vietnamese": "",
     "audio": "No problem, it happens."
   },
   {
     "type": "Flashcard",
     "hindi": "No problem / It's okay.",
     "transliteration": "",
-    "english": "कोई बात नहीं।",
-    "vietnamese": "Không sao đâu.",
+    "english": "Không sao đâu.",
+    "vietnamese": "",
     "audio": "No problem / It's okay."
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
     "type": "Flashcard",
     "hindi": "What else is going on? / What's up?",
     "transliteration": "",
-    "english": "और क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì mới không?",
+    "english": "Có chuyện gì mới không?",
+    "vietnamese": "",
     "audio": "What else is going on? / What's up?"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'No problem, it happens.'",
     "text": "No problem, it happens.",
     "subtext": "",
-    "answer": "कोई बात नहीं, चलता है।",
+    "answer": "No problem, it happens.",
     "answer_vi": "Không sao đâu, chuyện thường thôi.",
     "options": [
-      "कोई बात नहीं, चलता है।",
-      "कोई बात नहीं।",
-      "कापी​​​​​​​​​​​",
-      "और क्या चल रहा है?"
+      "No problem, it happens.",
+      "No problem / It's okay.",
+      "Notebook",
+      "What else is going on? / What's up?"
     ],
     "options_vi": [
       "Không sao đâu, chuyện thường thôi.",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "What does this mean?",
     "transliteration": "",
-    "english": "इसका क्या मतलब है?",
-    "vietnamese": "Cái này có nghĩa là gì?",
+    "english": "Cái này có nghĩa là gì?",
+    "vietnamese": "",
     "audio": "What does this mean?"
   },
   {
     "type": "Flashcard",
     "hindi": "Afternoon",
     "transliteration": "",
-    "english": "दोपहर",
-    "vietnamese": "Buổi trưa",
+    "english": "Buổi trưa",
+    "vietnamese": "",
     "audio": "Afternoon"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom (relative singular)",
     "transliteration": "",
-    "english": "जिसे",
-    "vietnamese": "Người mà (số ít)",
+    "english": "Người mà (số ít)",
+    "vietnamese": "",
     "audio": "Whom (relative singular)"
   },
   {
     "type": "Flashcard",
     "hindi": "Nonsense / Rubbish",
     "transliteration": "",
-    "english": "बकवास",
-    "vietnamese": "Vớ vẩn",
+    "english": "Vớ vẩn",
+    "vietnamese": "",
     "audio": "Nonsense / Rubbish"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'What does this mean?'",
     "text": "What does this mean?",
     "subtext": "",
-    "answer": "इसका क्या मतलब है?",
+    "answer": "What does this mean?",
     "answer_vi": "Cái này có nghĩa là gì?",
     "options": [
-      "इसका क्या मतलब है?",
-      "दोपहर",
-      "जिसे",
-      "बकवास"
+      "What does this mean?",
+      "Afternoon",
+      "Whom (relative singular)",
+      "Nonsense / Rubbish"
     ],
     "options_vi": [
       "Cái này có nghĩa là gì?",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Please say it again.",
     "transliteration": "",
-    "english": "फिर से कहिए।",
-    "vietnamese": "Làm ơn nói lại lần nữa.",
+    "english": "Làm ơn nói lại lần nữa.",
+    "vietnamese": "",
     "audio": "Please say it again."
   },
   {
     "type": "Flashcard",
     "hindi": "No (respectful)",
     "transliteration": "",
-    "english": "जी नहीं",
-    "vietnamese": "Không (Lịch sự)",
+    "english": "Không (Lịch sự)",
+    "vietnamese": "",
     "audio": "No (respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​",
-      "फिर से कहिए।",
-      "जी नहीं",
-      "बर्फ़​​​​​​​​"
+      "Snow / Ice",
+      "Please say it again.",
+      "No (respectful)",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Don't annoy me",
     "transliteration": "",
-    "english": "दिमाग मत खा",
-    "vietnamese": "Đừng làm phiền tôi nữa",
+    "english": "Đừng làm phiền tôi nữa",
+    "vietnamese": "",
     "audio": "Don't annoy me"
   },
   {
     "type": "Flashcard",
     "hindi": "I don't know",
     "transliteration": "",
-    "english": "मुझे नहीं मालूम",
-    "vietnamese": "Tôi không biết",
+    "english": "Tôi không biết",
+    "vietnamese": "",
     "audio": "I don't know"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​",
-      "दिमाग मत खा",
-      "मुझे नहीं मालूम",
-      "कापी​​​​​​​​"
+      "Snow / Ice",
+      "Don't annoy me",
+      "I don't know",
+      "Notebook"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -355,23 +355,30 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a कोई बात नहीं, चलता है। / Nó là một Không sao đâu, chuyện thường thôi.",
+    "englishSentence": "Nó là một Không sao đâu, chuyện thường thôi.",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "No problem, it happens."
+      "No",
+      "problem,",
+      "it",
+      "happens."
     ],
     "correctHindiSentence": "It is a No problem, it happens."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कोई बात नहीं। / Tôi thích Không sao đâu.",
+    "englishSentence": "Tôi thích Không sao đâu.",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "No problem / It's okay."
+      "No",
+      "problem",
+      "/",
+      "It's",
+      "okay."
     ],
     "correctHindiSentence": "I really like No problem / It's okay."
   },

@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "against",
     "transliteration": "",
-    "english": "के विरुद्ध",
-    "vietnamese": "Chống lại / Phản đối",
+    "english": "Chống lại / Phản đối",
+    "vietnamese": "",
     "audio": "against"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'against'",
     "text": "against",
     "subtext": "",
-    "answer": "के विरुद्ध",
+    "answer": "against",
     "answer_vi": "Chống lại / Phản đối",
     "options": [
-      "के विरुद्ध",
-      "पूछना​​​​​​​​​​​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​​​"
+      "against",
+      "To ask",
+      "To wake up",
+      "To cry"
     ],
     "options_vi": [
       "Chống lại / Phản đối",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Cloth / Dress",
     "transliteration": "",
-    "english": "कपड़ा​​​​​",
-    "vietnamese": "Quần áo",
+    "english": "Quần áo",
+    "vietnamese": "",
     "audio": "Cloth / Dress"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "LOL / Laughing Out Loud",
     "transliteration": "",
-    "english": "लोल",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "LOL / Laughing Out Loud"
   },
   {
     "type": "Flashcard",
     "hindi": "Listen (polite)",
     "transliteration": "",
-    "english": "सुनिए",
-    "vietnamese": "Nghe này / Xin lỗi",
+    "english": "Nghe này / Xin lỗi",
+    "vietnamese": "",
     "audio": "Listen (polite)"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloth / Dress'",
     "text": "Cloth / Dress",
     "subtext": "",
-    "answer": "कपड़ा​​​​​",
+    "answer": "Cloth / Dress",
     "answer_vi": "Quần áo",
     "options": [
-      "कपड़ा​​​​​",
-      "गाना​​​​​​​​​​​​​​​​​​",
-      "लोल",
-      "सुनिए"
+      "Cloth / Dress",
+      "To sing",
+      "LOL / Laughing Out Loud",
+      "Listen (polite)"
     ],
     "options_vi": [
       "Quần áo",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "before (time)",
     "transliteration": "",
-    "english": "के पहले",
-    "vietnamese": "Trước khi (thời gian)",
+    "english": "Trước khi (thời gian)",
+    "vietnamese": "",
     "audio": "before (time)"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To cry'",
     "text": "To cry",
     "subtext": "",
-    "answer": "रोना​​​​​​​​",
+    "answer": "To cry",
     "answer_vi": "Khóc",
     "options": [
-      "रोना​​​​​​​​",
-      "के पहले",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To cry",
+      "before (time)",
+      "To wake up",
+      "To walk / move"
     ],
     "options_vi": [
       "Khóc",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the के विरुद्ध / Tôi thấy Chống lại / Phản đối",
+    "englishSentence": "Phản đối",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a पूछना​​​​​​​​​​​​​​​​ / Tôi muốn Hỏi",
+    "englishSentence": "Tôi muốn Hỏi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To ask"
+      "To",
+      "ask"
     ],
     "correctHindiSentence": "I want a To ask"
   },

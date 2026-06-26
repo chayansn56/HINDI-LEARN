@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Investment",
     "transliteration": "",
-    "english": "निवेश",
-    "vietnamese": "Sự đầu tư",
+    "english": "Sự đầu tư",
+    "vietnamese": "",
     "audio": "Investment"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Investment'",
     "text": "Investment",
     "subtext": "",
-    "answer": "निवेश",
+    "answer": "Investment",
     "answer_vi": "Sự đầu tư",
     "options": [
-      "निवेश",
-      "बेचना​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Investment",
+      "To sell",
+      "To stand",
+      "To see / watch"
     ],
     "options_vi": [
       "Sự đầu tư",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "What's up?",
     "transliteration": "",
-    "english": "क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì thế?",
+    "english": "Có chuyện gì thế?",
+    "vietnamese": "",
     "audio": "What's up?"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To work'",
     "text": "To work",
     "subtext": "",
-    "answer": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To work",
     "answer_vi": "Làm việc",
     "options": [
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​",
-      "क्या चल रहा है?",
-      "बेचना​​​​​​​​​​"
+      "To work",
+      "To read",
+      "What's up?",
+      "To sell"
     ],
     "options_vi": [
       "Làm việc",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To run",
     "transliteration": "",
-    "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chạy",
+    "english": "Chạy",
+    "vietnamese": "",
     "audio": "To run"
   },
   {
     "type": "Flashcard",
     "hindi": "1",
     "transliteration": "",
-    "english": "१",
-    "vietnamese": "Một",
+    "english": "Một",
+    "vietnamese": "",
     "audio": "1"
   },
   {
     "type": "Flashcard",
     "hindi": "Please speak slowly.",
     "transliteration": "",
-    "english": "कृपया धीरे बोलिए।",
-    "vietnamese": "Làm ơn nói chậm lại.",
+    "english": "Làm ơn nói chậm lại.",
+    "vietnamese": "",
     "audio": "Please speak slowly."
   },
   {
     "type": "Flashcard",
     "hindi": "River",
     "transliteration": "",
-    "english": "नदी​​​​​",
-    "vietnamese": "Con sông",
+    "english": "Con sông",
+    "vietnamese": "",
     "audio": "River"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To run'",
     "text": "To run",
     "subtext": "",
-    "answer": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To run",
     "answer_vi": "Chạy",
     "options": [
-      "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "१",
-      "कृपया धीरे बोलिए।",
-      "नदी​​​​​"
+      "To run",
+      "1",
+      "Please speak slowly.",
+      "River"
     ],
     "options_vi": [
       "Chạy",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the निवेश / Tôi thấy Sự đầu tư",
+    "englishSentence": "Tôi thấy Sự đầu tư",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बेचना​​​​​​​​​​​​​​​​ / Tôi muốn Bán",
+    "englishSentence": "Tôi muốn Bán",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sell"
+      "To",
+      "sell"
     ],
     "correctHindiSentence": "I want a To sell"
   },

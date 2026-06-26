@@ -1,15 +1,88 @@
-{
-  "title": "Numbers 1-100",
-  "nodes": [
-    {"type": "TeachRule", "title": "Numbers", "rule": "Học số đếm cơ bản trong tiếng Anh."},
-    {"type": "Flashcard", "hindi": "One", "english": "Một", "audio": "one"},
-    {"type": "Flashcard", "hindi": "Two", "english": "Hai", "audio": "two"},
-    {"type": "Flashcard", "hindi": "Three", "english": "Ba", "audio": "three"},
-    {"type": "MultipleChoice", "hindi": "One", "options": ["Một", "Hai", "Ba", "Bốn"], "answer": "Một", "audio": "one"},
-    {"type": "Flashcard", "hindi": "Ten", "english": "Mười", "audio": "ten"},
-    {"type": "Flashcard", "hindi": "Twenty", "english": "Hai mươi", "audio": "twenty"},
-    {"type": "MultipleChoice", "hindi": "Ten", "options": ["Năm", "Mười", "Hai mươi", "Một trăm"], "answer": "Mười", "audio": "ten"},
-    {"type": "Flashcard", "hindi": "One hundred", "english": "Một trăm", "audio": "one_hundred"},
-    {"type": "MatchPairs", "pairs": [{"hindi": "Two", "english": "Hai"}, {"hindi": "Three", "english": "Ba"}, {"hindi": "Twenty", "english": "Hai mươi"}, {"hindi": "One hundred", "english": "Một trăm"}]}
-  ]
-}
+[
+  {
+    "type": "TeachRule",
+    "title": "Numbers",
+    "rule": "Học số đếm cơ bản trong tiếng Anh."
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "One",
+    "english": "Một",
+    "audio": "one"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Two",
+    "english": "Hai",
+    "audio": "two"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Three",
+    "english": "Ba",
+    "audio": "three"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "One",
+    "options": [
+      "Một",
+      "Hai",
+      "Ba",
+      "Bốn"
+    ],
+    "answer": "Một",
+    "audio": "one"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Ten",
+    "english": "Mười",
+    "audio": "ten"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "Twenty",
+    "english": "Hai mươi",
+    "audio": "twenty"
+  },
+  {
+    "type": "MultipleChoice",
+    "hindi": "Ten",
+    "options": [
+      "Năm",
+      "Mười",
+      "Hai mươi",
+      "Một trăm"
+    ],
+    "answer": "Mười",
+    "audio": "ten"
+  },
+  {
+    "type": "Flashcard",
+    "hindi": "One hundred",
+    "english": "Một trăm",
+    "audio": "one_hundred"
+  },
+  {
+    "type": "MatchPairs",
+    "pairs": [
+      {
+        "hindi": "Two",
+        "english": "Hai"
+      },
+      {
+        "hindi": "Three",
+        "english": "Ba"
+      },
+      {
+        "hindi": "Twenty",
+        "english": "Hai mươi"
+      },
+      {
+        "hindi": "One hundred",
+        "english": "Một trăm"
+      }
+    ]
+  }
+]

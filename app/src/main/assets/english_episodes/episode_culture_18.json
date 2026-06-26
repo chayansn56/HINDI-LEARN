@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Car / Train / Cart",
     "transliteration": "",
-    "english": "गाड़ी",
-    "vietnamese": "Xe hơi / Xe lửa",
+    "english": "Xe hơi / Xe lửa",
+    "vietnamese": "",
     "audio": "Car / Train / Cart"
   },
   {
     "type": "Flashcard",
     "hindi": "Client / Customer",
     "transliteration": "",
-    "english": "ग्राहक",
-    "vietnamese": "Khách hàng",
+    "english": "Khách hàng",
+    "vietnamese": "",
     "audio": "Client / Customer"
   },
   {
     "type": "Flashcard",
     "hindi": "Partnership",
     "transliteration": "",
-    "english": "साझेदारी",
-    "vietnamese": "Quan hệ đối tác",
+    "english": "Quan hệ đối tác",
+    "vietnamese": "",
     "audio": "Partnership"
   },
   {
     "type": "Flashcard",
     "hindi": "Heart",
     "transliteration": "",
-    "english": "दिल",
-    "vietnamese": "Trái tim",
+    "english": "Trái tim",
+    "vietnamese": "",
     "audio": "Heart"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Car / Train / Cart'",
     "text": "Car / Train / Cart",
     "subtext": "",
-    "answer": "गाड़ी",
+    "answer": "Car / Train / Cart",
     "answer_vi": "Xe hơi / Xe lửa",
     "options": [
-      "गाड़ी",
-      "ग्राहक",
-      "साझेदारी",
-      "दिल"
+      "Car / Train / Cart",
+      "Client / Customer",
+      "Partnership",
+      "Heart"
     ],
     "options_vi": [
       "Xe hơi / Xe lửa",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Let's start.",
     "transliteration": "",
-    "english": "चलो शुरू करते हैं।",
-    "vietnamese": "Hãy bắt đầu thôi.",
+    "english": "Hãy bắt đầu thôi.",
+    "vietnamese": "",
     "audio": "Let's start."
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "to drink",
     "transliteration": "",
-    "english": "पीना",
-    "vietnamese": "Uống",
+    "english": "Uống",
+    "vietnamese": "",
     "audio": "to drink"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance, my love",
     "transliteration": "",
-    "english": "नच बलिए",
-    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "english": "Nhảy đi tình yêu của tôi",
+    "vietnamese": "",
     "audio": "Dance, my love"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Let's start.'",
     "text": "Let's start.",
     "subtext": "",
-    "answer": "चलो शुरू करते हैं।",
+    "answer": "Let's start.",
     "answer_vi": "Hãy bắt đầu thôi.",
     "options": [
-      "चलो शुरू करते हैं।",
-      "मिट्टी​​​​​​​​",
-      "पीना",
-      "नच बलिए"
+      "Let's start.",
+      "Soil / Earth",
+      "to drink",
+      "Dance, my love"
     ],
     "options_vi": [
       "Hãy bắt đầu thôi.",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "To eat / Food",
     "transliteration": "",
-    "english": "खाना",
-    "vietnamese": "Ăn / Đồ ăn",
+    "english": "Ăn / Đồ ăn",
+    "vietnamese": "",
     "audio": "To eat / Food"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Festival",
     "transliteration": "",
-    "english": "त्योहार",
-    "vietnamese": "Lễ hội",
+    "english": "Lễ hội",
+    "vietnamese": "",
     "audio": "Festival"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To eat / Food'",
     "text": "To eat / Food",
     "subtext": "",
-    "answer": "खाना",
+    "answer": "To eat / Food",
     "answer_vi": "Ăn / Đồ ăn",
     "options": [
-      "खाना",
-      "मिट्टी​​​​​​​",
-      "मिट्टी​​​​",
-      "त्योहार"
+      "To eat / Food",
+      "Soil / Earth",
+      "Soil / Earth",
+      "Festival"
     ],
     "options_vi": [
       "Ăn / Đồ ăn",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​​​​​​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Agentive particle",
     "transliteration": "",
-    "english": "ने",
-    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "english": "Hậu giới từ chỉ tác nhân",
+    "vietnamese": "",
     "audio": "Agentive particle"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी​",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
     "type": "Flashcard",
     "hindi": "Soil / Earth",
     "transliteration": "",
-    "english": "मिट्टी",
-    "vietnamese": "Đất",
+    "english": "Đất",
+    "vietnamese": "",
     "audio": "Soil / Earth"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Soil / Earth'",
     "text": "Soil / Earth",
     "subtext": "",
-    "answer": "मिट्टी​​​​​​",
+    "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
-      "मिट्टी​​​​​​",
-      "ने",
-      "मिट्टी​",
-      "मिट्टी"
+      "Soil / Earth",
+      "Agentive particle",
+      "Soil / Earth",
+      "Soil / Earth"
     ],
     "options_vi": [
       "Đất",
@@ -355,23 +355,29 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a गाड़ी / Nó là một Xe hơi / Xe lửa",
+    "englishSentence": "Xe lửa",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Car / Train / Cart"
+      "Car",
+      "/",
+      "Train",
+      "/",
+      "Cart"
     ],
     "correctHindiSentence": "It is a Car / Train / Cart"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like ग्राहक / Tôi thích Khách hàng",
+    "englishSentence": "Tôi thích Khách hàng",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "Client / Customer"
+      "Client",
+      "/",
+      "Customer"
     ],
     "correctHindiSentence": "I really like Client / Customer"
   },

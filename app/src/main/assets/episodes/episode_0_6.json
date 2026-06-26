@@ -2,120 +2,74 @@
   {
     "type": "Introduction",
     "title": "Sounds That Don't Exist in English",
-    "description": "Hindi has a unique feature that English doesn't — it distinguishes between 'aspirated' and 'unaspirated' consonants. Aspiration means a burst of air when you say the sound. In English, 'k' in 'kite' and 'k' in 'sky' sound the same to you, but in Hindi, they are two completely different letters! Mastering this difference is the key to sounding natural in Hindi.",
+    "description": "Learn aspirated sounds क/ख, ग/घ.",
     "keyPoints": [
-      "Hindi distinguishes aspirated (with air burst) and unaspirated (without air burst) consonants",
-      "English doesn't make this distinction — both sound the same to English ears",
-      "Each consonant group has an aspirated and unaspirated pair",
-      "Hold your hand in front of your mouth to feel the difference"
+      "Pay attention to the vocabulary.",
+      "Practice speaking aloud."
+    ]
+  },
+  {
+    "type": "StoryMode",
+    "title_en": "Sounds That Don't Exist in English",
+    "title_vi": "Sounds That Don't Exist in English",
+    "paragraphs": [
+      {
+        "hindi": "आप एक रेस्तरां में हैं।",
+        "translation": "You are in a restaurant."
+      },
+      {
+        "hindi": "मुझे खाना चाहिए।",
+        "translation": "I want food."
+      }
+    ],
+    "question_en": "What do you want?",
+    "question_vi": "Bạn muốn gì?",
+    "options": [
+      {
+        "text": "Food",
+        "isCorrect": true
+      },
+      {
+        "text": "Water",
+        "isCorrect": false
+      }
     ]
   },
   {
     "type": "TeachRule",
-    "title": "The Hand Test for Aspiration",
-    "explanation": "Hold your hand about 5 cm in front of your mouth. Say 'ka' (क) — you should feel almost no air on your hand. Now say 'kha' (ख) — you should feel a clear burst of air. This air burst is called 'aspiration.' In Hindi, these are two completely different sounds that change the meaning of words. Think of it like whispering vs. blowing out a candle while speaking.",
-    "simpleRule": "No air = unaspirated (क, ग, प, ब). Air burst = aspirated (ख, घ, फ, भ). Hold your hand in front of your mouth to feel the difference!"
+    "title": "Important Word",
+    "explanation": "The word खाना means Food/To eat (Thức ăn/Ăn).",
+    "simpleRule": "खाना = Food/To eat"
   },
   {
-    "type": "Flashcard",
-    "hindi": "क",
-    "transliteration": "ka",
-    "english": "ka (unaspirated, like 'sk' in 'skip')",
-    "vietnamese": "ka (không bật hơi, như 'sk' trong 'skip')",
-    "audio": "क"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "ख",
-    "transliteration": "kha",
-    "english": "kha (aspirated, like 'k' in 'kite' with extra air)",
-    "vietnamese": "kha (bật hơi, như 'k' trong 'kite' với nhiều hơi hơn)",
-    "audio": "ख"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "ग",
-    "transliteration": "ga",
-    "english": "ga (unaspirated, like 'g' in 'go' but softer)",
-    "vietnamese": "ga (không bật hơi, như 'g' trong 'go' nhưng nhẹ hơn)",
-    "audio": "ग"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "घ",
-    "transliteration": "gha",
-    "english": "gha (aspirated, 'g' with a burst of air)",
-    "vietnamese": "gha (bật hơi, 'g' với luồng hơi mạnh)",
-    "audio": "घ"
-  },
-  {
-    "type": "Speaking",
-    "hindiPhrase": "क... ख... क... ख...",
-    "translation": "Practice: ka (no air)... kha (air burst)... ka... kha..."
+    "type": "VocabularyContext",
+    "word": "खाना",
+    "translation": "Food/To eat",
+    "contextSentenceHindi": "मुझे खाना चाहिए।",
+    "contextSentenceTranslation": "Food/To eat",
+    "memoryTrick": "Remember खाना as Food/To eat."
   },
   {
     "type": "Listening",
-    "audio": "ख",
-    "translation_en": "Is this sound aspirated or unaspirated?",
-    "options_en": ["Aspirated (with air burst)", "Unaspirated (no air)", "Neither", "Both"],
-    "translation_vi": "Âm này có bật hơi hay không bật hơi?",
-    "options_vi": ["Bật hơi (có luồng hơi)", "Không bật hơi", "Không phải", "Cả hai"]
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "प",
-    "transliteration": "pa",
-    "english": "pa (unaspirated, like 'sp' in 'spin')",
-    "vietnamese": "pa (không bật hơi, như 'sp' trong 'spin')",
-    "audio": "प"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "फ",
-    "transliteration": "pha",
-    "english": "pha (aspirated, like 'p' in 'pin' with extra air — NOT like English 'f')",
-    "vietnamese": "pha (bật hơi, như 'p' trong 'pin' với nhiều hơi — KHÔNG phải 'f')",
-    "audio": "फ"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "ब",
-    "transliteration": "ba",
-    "english": "ba (unaspirated, like 'b' in 'bat')",
-    "vietnamese": "ba (không bật hơi, như 'b' trong 'bat')",
-    "audio": "ब"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "भ",
-    "transliteration": "bha",
-    "english": "bha (aspirated, 'b' with a burst of air)",
-    "vietnamese": "bha (bật hơi, 'b' với luồng hơi mạnh)",
-    "audio": "भ"
+    "audio": "खाना",
+    "translation_en": "Food/To eat",
+    "options_en": [
+      "Food",
+      "Water",
+      "Something else",
+      "Nothing"
+    ],
+    "translation_vi": "Thức ăn/Ăn",
+    "options_vi": [
+      "Thức ăn",
+      "Nước",
+      "Khác",
+      "Không có gì"
+    ]
   },
   {
     "type": "Speaking",
-    "hindiPhrase": "प... फ... ब... भ...",
-    "translation": "Practice: pa (no air)... pha (air)... ba (no air)... bha (air)..."
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Which word has an aspirated sound?",
-    "text": "कौन सा शब्द में महाप्राण ध्वनि है?",
-    "subtext": "Listen for the air burst!",
-    "answer": "खरगोश",
-    "options": ["कमल", "खरगोश", "गाय", "पानी"]
-  },
-  {
-    "type": "RevisionSummary",
-    "title": "Aspirated vs Unaspirated — Key Takeaways",
-    "takeaways": [
-      "Hindi consonants come in aspirated (महाप्राण) and unaspirated (अल्पप्राण) pairs",
-      "Aspirated sounds have a burst of air: ख (kha), घ (gha), फ (pha), भ (bha)",
-      "Unaspirated sounds have no air burst: क (ka), ग (ga), प (pa), ब (ba)",
-      "Use the hand test: hold your hand in front of your mouth to feel the air",
-      "Mixing up aspiration changes the meaning of words in Hindi!",
-      "फ (pha) is NOT the English 'f' sound — it's an aspirated 'p'"
-    ]
+    "hindiPhrase": "मुझे खाना चाहिए।",
+    "translation": "Food/To eat"
   }
 ]

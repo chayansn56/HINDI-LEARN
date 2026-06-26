@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Country",
     "transliteration": "",
-    "english": "देश​​​​​​",
-    "vietnamese": "Đất nước",
+    "english": "Đất nước",
+    "vietnamese": "",
     "audio": "Country"
   },
   {
     "type": "Flashcard",
     "hindi": "To sing",
     "transliteration": "",
-    "english": "गाना​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hát",
+    "english": "Hát",
+    "vietnamese": "",
     "audio": "To sing"
   },
   {
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​​​​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "Shopkeeper",
     "transliteration": "",
-    "english": "दुकानदार",
-    "vietnamese": "Chủ cửa hàng",
+    "english": "Chủ cửa hàng",
+    "vietnamese": "",
     "audio": "Shopkeeper"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Country'",
     "text": "Country",
     "subtext": "",
-    "answer": "देश​​​​​​",
+    "answer": "Country",
     "answer_vi": "Đất nước",
     "options": [
-      "देश​​​​​​",
-      "गाना​​​​​​​​​​​​​​​​​​​​​​",
-      "ताला​​​​​​",
-      "दुकानदार"
+      "Country",
+      "To sing",
+      "Lock",
+      "Shopkeeper"
     ],
     "options_vi": [
       "Đất nước",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "I am proud of you.",
     "transliteration": "",
-    "english": "मुझे तुम पर गर्व है।",
-    "vietnamese": "Tôi tự hào về bạn.",
+    "english": "Tôi tự hào về bạn.",
+    "vietnamese": "",
     "audio": "I am proud of you."
   },
   {
     "type": "Flashcard",
     "hindi": "To laugh",
     "transliteration": "",
-    "english": "हँसना​​​​​",
-    "vietnamese": "Cười lớn",
+    "english": "Cười lớn",
+    "vietnamese": "",
     "audio": "To laugh"
   },
   {
     "type": "Flashcard",
     "hindi": "Gold",
     "transliteration": "",
-    "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Vàng",
+    "english": "Vàng",
+    "vietnamese": "",
     "audio": "Gold"
   },
   {
     "type": "Flashcard",
     "hindi": "Hospital",
     "transliteration": "",
-    "english": "अस्पताल",
-    "vietnamese": "Bệnh viện",
+    "english": "Bệnh viện",
+    "vietnamese": "",
     "audio": "Hospital"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'I am proud of you.'",
     "text": "I am proud of you.",
     "subtext": "",
-    "answer": "मुझे तुम पर गर्व है।",
+    "answer": "I am proud of you.",
     "answer_vi": "Tôi tự hào về bạn.",
     "options": [
-      "मुझे तुम पर गर्व है।",
-      "हँसना​​​​​",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "अस्पताल"
+      "I am proud of you.",
+      "To laugh",
+      "Gold",
+      "Hospital"
     ],
     "options_vi": [
       "Tôi tự hào về bạn.",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "Lock",
     "transliteration": "",
-    "english": "ताला​​​​",
-    "vietnamese": "Ổ khóa",
+    "english": "Ổ khóa",
+    "vietnamese": "",
     "audio": "Lock"
   },
   {
     "type": "Flashcard",
     "hindi": "Silver",
     "transliteration": "",
-    "english": "चाँदी​​​​​​",
-    "vietnamese": "Bạc",
+    "english": "Bạc",
+    "vietnamese": "",
     "audio": "Silver"
   },
   {
     "type": "Flashcard",
     "hindi": "To wake up",
     "transliteration": "",
-    "english": "जागना​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Thức dậy",
+    "english": "Thức dậy",
+    "vietnamese": "",
     "audio": "To wake up"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To ask'",
     "text": "To ask",
     "subtext": "",
-    "answer": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "answer": "To ask",
     "answer_vi": "Hỏi",
     "options": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "ताला​​​​",
-      "चाँदी​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​"
+      "To ask",
+      "Lock",
+      "Silver",
+      "To wake up"
     ],
     "options_vi": [
       "Hỏi",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the देश​​​​​​ / Tôi thấy Đất nước",
+    "englishSentence": "Tôi thấy Đất nước",
     "hindiWords": [
       "I",
       "see",
@@ -311,12 +311,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a गाना​​​​​​​​​​​​​​​​​​​​​​ / Tôi muốn Hát",
+    "englishSentence": "Tôi muốn Hát",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sing"
+      "To",
+      "sing"
     ],
     "correctHindiSentence": "I want a To sing"
   },

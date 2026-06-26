@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Don't go there.",
     "transliteration": "",
-    "english": "वहाँ मत जाओ।",
-    "vietnamese": "Đừng đi đến đó.",
+    "english": "Đừng đi đến đó.",
+    "vietnamese": "",
     "audio": "Don't go there."
   },
   {
     "type": "Flashcard",
     "hindi": "Rupee / Money",
     "transliteration": "",
-    "english": "रुपया",
-    "vietnamese": "Đồng rupee / Tiền",
+    "english": "Đồng rupee / Tiền",
+    "vietnamese": "",
     "audio": "Rupee / Money"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Don't go there.'",
     "text": "Don't go there.",
     "subtext": "",
-    "answer": "वहाँ मत जाओ।",
+    "answer": "Don't go there.",
     "answer_vi": "Đừng đi đến đó.",
     "options": [
-      "वहाँ मत जाओ।",
-      "रुपया",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बर्फ़​"
+      "Don't go there.",
+      "Rupee / Money",
+      "To sit",
+      "Snow / Ice"
     ],
     "options_vi": [
       "Đừng đi đến đó.",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Thank you",
     "transliteration": "",
-    "english": "धन्यवाद",
-    "vietnamese": "Cảm ơn",
+    "english": "Cảm ơn",
+    "vietnamese": "",
     "audio": "Thank you"
   },
   {
     "type": "Flashcard",
     "hindi": "Fire",
     "transliteration": "",
-    "english": "आग​​​​​​",
-    "vietnamese": "Lửa",
+    "english": "Lửa",
+    "vietnamese": "",
     "audio": "Fire"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "Journey",
     "transliteration": "",
-    "english": "सफ़र​​​​​​​​​​",
-    "vietnamese": "Chuyến đi",
+    "english": "Chuyến đi",
+    "vietnamese": "",
     "audio": "Journey"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Thank you'",
     "text": "Thank you",
     "subtext": "",
-    "answer": "धन्यवाद",
+    "answer": "Thank you",
     "answer_vi": "Cảm ơn",
     "options": [
-      "धन्यवाद",
-      "आग​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​",
-      "सफ़र​​​​​​​​​​"
+      "Thank you",
+      "Fire",
+      "To cry",
+      "Journey"
     ],
     "options_vi": [
       "Cảm ơn",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​​​​​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "My (masculine)",
     "transliteration": "",
-    "english": "मेरा",
-    "vietnamese": "Của tôi (giống đực)",
+    "english": "Của tôi (giống đực)",
+    "vietnamese": "",
     "audio": "My (masculine)"
   },
   {
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To listen / hear'",
     "text": "To listen / hear",
     "subtext": "",
-    "answer": "सुनना​​​​​​​​​",
+    "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
-      "सुनना​​​​​​​​​",
-      "जूता​​​​​​​",
-      "मेरा",
-      "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To listen / hear",
+      "Shoe",
+      "My (masculine)",
+      "To give"
     ],
     "options_vi": [
       "Nghe",
@@ -300,23 +300,27 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the वहाँ मत जाओ। / Tôi thấy Đừng đi đến đó.",
+    "englishSentence": "Tôi thấy Đừng đi đến đó.",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Don't go there."
+      "Don't",
+      "go",
+      "there."
     ],
     "correctHindiSentence": "I see the Don't go there."
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a रुपया / Tôi muốn Đồng rupee / Tiền",
+    "englishSentence": "Tiền",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "Rupee / Money"
+      "Rupee",
+      "/",
+      "Money"
     ],
     "correctHindiSentence": "I want a Rupee / Money"
   },

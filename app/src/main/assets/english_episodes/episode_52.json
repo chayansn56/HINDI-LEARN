@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To give",
     "transliteration": "",
-    "english": "देना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Cho / Tặng",
+    "english": "Cho / Tặng",
+    "vietnamese": "",
     "audio": "To give"
   },
   {
     "type": "Flashcard",
     "hindi": "Rice",
     "transliteration": "",
-    "english": "चावल",
-    "vietnamese": "Gạo / Cơm",
+    "english": "Gạo / Cơm",
+    "vietnamese": "",
     "audio": "Rice"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "Capital / Wealth",
     "transliteration": "",
-    "english": "पूंजी",
-    "vietnamese": "Vốn điều lệ",
+    "english": "Vốn điều lệ",
+    "vietnamese": "",
     "audio": "Capital / Wealth"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To give'",
     "text": "To give",
     "subtext": "",
-    "answer": "देना​​​​​​​​​​​​​​​​",
+    "answer": "To give",
     "answer_vi": "Cho / Tặng",
     "options": [
-      "देना​​​​​​​​​​​​​​​​",
-      "चावल",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूंजी"
+      "To give",
+      "Rice",
+      "To open",
+      "Capital / Wealth"
     ],
     "options_vi": [
       "Cho / Tặng",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Friday",
     "transliteration": "",
-    "english": "शुक्रवार",
-    "vietnamese": "Thứ sáu",
+    "english": "Thứ sáu",
+    "vietnamese": "",
     "audio": "Friday"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
     "type": "Flashcard",
     "hindi": "To read",
     "transliteration": "",
-    "english": "पढ़ना​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Đọc",
+    "english": "Đọc",
+    "vietnamese": "",
     "audio": "To read"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Friday'",
     "text": "Friday",
     "subtext": "",
-    "answer": "शुक्रवार",
+    "answer": "Friday",
     "answer_vi": "Thứ sáu",
     "options": [
-      "शुक्रवार",
-      "काम करना​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​"
+      "Friday",
+      "To work",
+      "To read",
+      "To cry"
     ],
     "options_vi": [
       "Thứ sáu",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "To teach",
     "transliteration": "",
-    "english": "sिखाना​​​​​",
-    "vietnamese": "Dạy",
+    "english": "Dạy",
+    "vietnamese": "",
     "audio": "To teach"
   },
   {
     "type": "Flashcard",
     "hindi": "To stand",
     "transliteration": "",
-    "english": "खड़े होना​​​​​​​​​​​​​",
-    "vietnamese": "Đứng",
+    "english": "Đứng",
+    "vietnamese": "",
     "audio": "To stand"
   },
   {
     "type": "Flashcard",
     "hindi": "No problem / It's okay.",
     "transliteration": "",
-    "english": "कोई बात नहीं।",
-    "vietnamese": "Không sao đâu.",
+    "english": "Không sao đâu.",
+    "vietnamese": "",
     "audio": "No problem / It's okay."
   },
   {
     "type": "Flashcard",
     "hindi": "To listen / hear",
     "transliteration": "",
-    "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nghe",
+    "english": "Nghe",
+    "vietnamese": "",
     "audio": "To listen / hear"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To teach'",
     "text": "To teach",
     "subtext": "",
-    "answer": "sिखाना​​​​​",
+    "answer": "To teach",
     "answer_vi": "Dạy",
     "options": [
-      "sिखाना​​​​​",
-      "खड़े होना​​​​​​​​​​​​​",
-      "कोई बात नहीं।",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "To teach",
+      "To stand",
+      "No problem / It's okay.",
+      "To listen / hear"
     ],
     "options_vi": [
       "Dạy",
@@ -300,18 +300,19 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the देना​​​​​​​​​​​​​​​​ / Tôi thấy Cho / Tặng",
+    "englishSentence": "Tặng",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To give"
+      "To",
+      "give"
     ],
     "correctHindiSentence": "I see the To give"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a चावल / Tôi muốn Gạo / Cơm",
+    "englishSentence": "Cơm",
     "hindiWords": [
       "I",
       "want",

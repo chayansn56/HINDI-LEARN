@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "Cinema / Theater",
     "transliteration": "",
-    "english": "सिनेमा",
-    "vietnamese": "Điện ảnh",
+    "english": "Điện ảnh",
+    "vietnamese": "",
     "audio": "Cinema / Theater"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Movie",
     "transliteration": "",
-    "english": "फ़िल्म",
-    "vietnamese": "Bộ phim",
+    "english": "Bộ phim",
+    "vietnamese": "",
     "audio": "Movie"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cinema / Theater'",
     "text": "Cinema / Theater",
     "subtext": "",
-    "answer": "सिनेमा",
+    "answer": "Cinema / Theater",
     "answer_vi": "Điện ảnh",
     "options": [
-      "सिनेमा",
-      "तारा​​​​​​",
-      "तारा​​​",
-      "फ़िल्म"
+      "Cinema / Theater",
+      "Star",
+      "Star",
+      "Movie"
     ],
     "options_vi": [
       "Điện ảnh",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Actor",
     "transliteration": "",
-    "english": "अभिनेता",
-    "vietnamese": "Nam diễn viên",
+    "english": "Nam diễn viên",
+    "vietnamese": "",
     "audio": "Actor"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance",
     "transliteration": "",
-    "english": "नृत्य",
-    "vietnamese": "Điệu nhảy",
+    "english": "Điệu nhảy",
+    "vietnamese": "",
     "audio": "Dance"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Actor'",
     "text": "Actor",
     "subtext": "",
-    "answer": "अभिनेता",
+    "answer": "Actor",
     "answer_vi": "Nam diễn viên",
     "options": [
-      "अभिनेता",
-      "तारा​​​​​​​​​​",
-      "नृत्य",
-      "तारा"
+      "Actor",
+      "Star",
+      "Dance",
+      "Star"
     ],
     "options_vi": [
       "Nam diễn viên",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Let's start.",
     "transliteration": "",
-    "english": "चलो शुरू करते हैं।",
-    "vietnamese": "Hãy bắt đầu thôi.",
+    "english": "Hãy bắt đầu thôi.",
+    "vietnamese": "",
     "audio": "Let's start."
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Let's start.'",
     "text": "Let's start.",
     "subtext": "",
-    "answer": "चलो शुरू करते हैं।",
+    "answer": "Let's start.",
     "answer_vi": "Hãy bắt đầu thôi.",
     "options": [
-      "चलो शुरू करते हैं।",
-      "तारा​​​​​",
-      "तारा​​​​​​​​​​​",
-      "तारा​"
+      "Let's start.",
+      "Star",
+      "Star",
+      "Star"
     ],
     "options_vi": [
       "Hãy bắt đầu thôi.",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "Dance, my love",
     "transliteration": "",
-    "english": "नच बलिए",
-    "vietnamese": "Nhảy đi tình yêu của tôi",
+    "english": "Nhảy đi tình yêu của tôi",
+    "vietnamese": "",
     "audio": "Dance, my love"
   },
   {
     "type": "Flashcard",
     "hindi": "Actress",
     "transliteration": "",
-    "english": "अभिनेत्री",
-    "vietnamese": "Nữ diễn viên",
+    "english": "Nữ diễn viên",
+    "vietnamese": "",
     "audio": "Actress"
   },
   {
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "तारा​​​​​​​​​",
-    "vietnamese": "Ngôi sao",
+    "english": "Ngôi sao",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
@@ -298,13 +298,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
     "text": "Star",
     "subtext": "",
-    "answer": "तारा​​​​​​​​",
+    "answer": "Star",
     "answer_vi": "Ngôi sao",
     "options": [
-      "तारा​​​​​​​​",
-      "नच बलिए",
-      "अभिनेत्री",
-      "तारा​​​​​​​​​"
+      "Star",
+      "Dance, my love",
+      "Actress",
+      "Star"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -355,18 +355,20 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a सिनेमा / Nó là một Điện ảnh",
+    "englishSentence": "Nó là một Điện ảnh",
     "hindiWords": [
       "It",
       "is",
       "a",
-      "Cinema / Theater"
+      "Cinema",
+      "/",
+      "Theater"
     ],
     "correctHindiSentence": "It is a Cinema / Theater"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like तारा​​​​​​ / Tôi thích Ngôi sao",
+    "englishSentence": "Tôi thích Ngôi sao",
     "hindiWords": [
       "I",
       "really",

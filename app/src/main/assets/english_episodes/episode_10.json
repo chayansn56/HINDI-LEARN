@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Garden",
     "transliteration": "",
-    "english": "बग़ीचा​​​",
-    "vietnamese": "Khu vườn",
+    "english": "Khu vườn",
+    "vietnamese": "",
     "audio": "Garden"
   },
   {
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​​​​​​​​​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "To make / build",
     "transliteration": "",
-    "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Chế tạo / Tạo ra",
+    "english": "Chế tạo / Tạo ra",
+    "vietnamese": "",
     "audio": "To make / build"
   },
   {
     "type": "Flashcard",
     "hindi": "to be / to happen",
     "transliteration": "",
-    "english": "होना",
-    "vietnamese": "Thì / Là / Xảy ra",
+    "english": "Thì / Là / Xảy ra",
+    "vietnamese": "",
     "audio": "to be / to happen"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Garden'",
     "text": "Garden",
     "subtext": "",
-    "answer": "बग़ीचा​​​",
+    "answer": "Garden",
     "answer_vi": "Khu vườn",
     "options": [
-      "बग़ीचा​​​",
-      "जूता​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "होना"
+      "Garden",
+      "Shoe",
+      "To make / build",
+      "to be / to happen"
     ],
     "options_vi": [
       "Khu vườn",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "9",
     "transliteration": "",
-    "english": "९",
-    "vietnamese": "Chín",
+    "english": "Chín",
+    "vietnamese": "",
     "audio": "9"
   },
   {
     "type": "Flashcard",
     "hindi": "To open",
     "transliteration": "",
-    "english": "खोलना​",
-    "vietnamese": "Mở",
+    "english": "Mở",
+    "vietnamese": "",
     "audio": "To open"
   },
   {
     "type": "Flashcard",
     "hindi": "To wash",
     "transliteration": "",
-    "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Rửa / Giặt",
+    "english": "Rửa / Giặt",
+    "vietnamese": "",
     "audio": "To wash"
   },
   {
     "type": "Flashcard",
     "hindi": "Cup",
     "transliteration": "",
-    "english": "प्याला​​​​​​​",
-    "vietnamese": "Tách",
+    "english": "Tách",
+    "vietnamese": "",
     "audio": "Cup"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho '9'",
     "text": "9",
     "subtext": "",
-    "answer": "९",
+    "answer": "9",
     "answer_vi": "Chín",
     "options": [
-      "९",
-      "खोलना​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "प्याला​​​​​​​"
+      "9",
+      "To open",
+      "To wash",
+      "Cup"
     ],
     "options_vi": [
       "Chín",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Village",
     "transliteration": "",
-    "english": "गाँव​​​​​​",
-    "vietnamese": "Ngôi làng",
+    "english": "Ngôi làng",
+    "vietnamese": "",
     "audio": "Village"
   },
   {
     "type": "Flashcard",
     "hindi": "To see / watch",
     "transliteration": "",
-    "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Nhìn / Xem",
+    "english": "Nhìn / Xem",
+    "vietnamese": "",
     "audio": "To see / watch"
   },
   {
     "type": "Flashcard",
     "hindi": "Agentive particle",
     "transliteration": "",
-    "english": "ने",
-    "vietnamese": "Hậu giới từ chỉ tác nhân",
+    "english": "Hậu giới từ chỉ tác nhân",
+    "vietnamese": "",
     "audio": "Agentive particle"
   },
   {
     "type": "Flashcard",
     "hindi": "Dog",
     "transliteration": "",
-    "english": "कुत्ता",
-    "vietnamese": "Con chó",
+    "english": "Con chó",
+    "vietnamese": "",
     "audio": "Dog"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Village'",
     "text": "Village",
     "subtext": "",
-    "answer": "गाँव​​​​​​",
+    "answer": "Village",
     "answer_vi": "Ngôi làng",
     "options": [
-      "गाँव​​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "ने",
-      "कुत्ता"
+      "Village",
+      "To see / watch",
+      "Agentive particle",
+      "Dog"
     ],
     "options_vi": [
       "Ngôi làng",
@@ -300,7 +300,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the बग़ीचा​​​ / Tôi thấy Khu vườn",
+    "englishSentence": "Tôi thấy Khu vườn",
     "hindiWords": [
       "I",
       "see",
@@ -311,7 +311,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a जूता​​​​​​​​​ / Tôi muốn Giày",
+    "englishSentence": "Tôi muốn Giày",
     "hindiWords": [
       "I",
       "want",

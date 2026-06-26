@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "To them / him / her (formal)",
     "transliteration": "",
-    "english": "उन्हें",
-    "vietnamese": "Cho họ / Cho ngài ấy",
+    "english": "Cho họ / Cho ngài ấy",
+    "vietnamese": "",
     "audio": "To them / him / her (formal)"
   },
   {
     "type": "Flashcard",
     "hindi": "Cloud",
     "transliteration": "",
-    "english": "बादल​​​",
-    "vietnamese": "Đám mây",
+    "english": "Đám mây",
+    "vietnamese": "",
     "audio": "Cloud"
   },
   {
     "type": "Flashcard",
     "hindi": "To walk / move",
     "transliteration": "",
-    "english": "चलना​​​​​​​​​​",
-    "vietnamese": "Đi bộ / Di chuyển",
+    "english": "Đi bộ / Di chuyển",
+    "vietnamese": "",
     "audio": "To walk / move"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'To them / him / her (formal)'",
     "text": "To them / him / her (formal)",
     "subtext": "",
-    "answer": "उन्हें",
+    "answer": "To them / him / her (formal)",
     "answer_vi": "Cho họ / Cho ngài ấy",
     "options": [
-      "उन्हें",
-      "बादल​​​",
-      "चलना​​​​​​​​​​",
-      "कापी​"
+      "To them / him / her (formal)",
+      "Cloud",
+      "To walk / move",
+      "Notebook"
     ],
     "options_vi": [
       "Cho họ / Cho ngài ấy",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "GB (Gigabyte)",
     "transliteration": "",
-    "english": "जीबी",
-    "vietnamese": "GB (Gigabyte)",
+    "english": "GB (Gigabyte)",
+    "vietnamese": "",
     "audio": "GB (Gigabyte)"
   },
   {
     "type": "Flashcard",
     "hindi": "To write",
     "transliteration": "",
-    "english": "लिखना​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Viết",
+    "english": "Viết",
+    "vietnamese": "",
     "audio": "To write"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
     "type": "Flashcard",
     "hindi": "Manager",
     "transliteration": "",
-    "english": "प्रबंधक",
-    "vietnamese": "Quản lý",
+    "english": "Quản lý",
+    "vietnamese": "",
     "audio": "Manager"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'GB (Gigabyte)'",
     "text": "GB (Gigabyte)",
     "subtext": "",
-    "answer": "जीबी",
+    "answer": "GB (Gigabyte)",
     "answer_vi": "GB (Gigabyte)",
     "options": [
-      "जीबी",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​",
-      "प्रबंधक"
+      "GB (Gigabyte)",
+      "To write",
+      "To speak",
+      "Manager"
     ],
     "options_vi": [
       "GB (Gigabyte)",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Star",
     "transliteration": "",
-    "english": "सितारा",
-    "vietnamese": "Ngôi sao điện ảnh",
+    "english": "Ngôi sao điện ảnh",
+    "vietnamese": "",
     "audio": "Star"
   },
   {
     "type": "Flashcard",
     "hindi": "River",
     "transliteration": "",
-    "english": "नदी​​​​​​",
-    "vietnamese": "Con sông",
+    "english": "Con sông",
+    "vietnamese": "",
     "audio": "River"
   },
   {
     "type": "Flashcard",
     "hindi": "What's up?",
     "transliteration": "",
-    "english": "क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì thế?",
+    "english": "Có chuyện gì thế?",
+    "vietnamese": "",
     "audio": "What's up?"
   },
   {
     "type": "Flashcard",
     "hindi": "To work",
     "transliteration": "",
-    "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Làm việc",
+    "english": "Làm việc",
+    "vietnamese": "",
     "audio": "To work"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Star'",
     "text": "Star",
     "subtext": "",
-    "answer": "सितारा",
+    "answer": "Star",
     "answer_vi": "Ngôi sao điện ảnh",
     "options": [
-      "सितारा",
-      "नदी​​​​​​",
-      "क्या चल रहा है?",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "Star",
+      "River",
+      "What's up?",
+      "To work"
     ],
     "options_vi": [
       "Ngôi sao điện ảnh",
@@ -300,18 +300,24 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the उन्हें / Tôi thấy Cho họ / Cho ngài ấy",
+    "englishSentence": "Cho ngài ấy",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "To them / him / her (formal)"
+      "To",
+      "them",
+      "/",
+      "him",
+      "/",
+      "her",
+      "(formal)"
     ],
     "correctHindiSentence": "I see the To them / him / her (formal)"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बादल​​​ / Tôi muốn Đám mây",
+    "englishSentence": "Tôi muốn Đám mây",
     "hindiWords": [
       "I",
       "want",

@@ -17,32 +17,32 @@
     "type": "Flashcard",
     "hindi": "When",
     "transliteration": "",
-    "english": "कब",
-    "vietnamese": "Khi nào",
+    "english": "Khi nào",
+    "vietnamese": "",
     "audio": "When"
   },
   {
     "type": "Flashcard",
     "hindi": "How sad!",
     "transliteration": "",
-    "english": "कितना दुखद है!",
-    "vietnamese": "Thật là buồn!",
+    "english": "Thật là buồn!",
+    "vietnamese": "",
     "audio": "How sad!"
   },
   {
     "type": "Flashcard",
     "hindi": "What's up?",
     "transliteration": "",
-    "english": "क्या चल रहा है?",
-    "vietnamese": "Có chuyện gì thế?",
+    "english": "Có chuyện gì thế?",
+    "vietnamese": "",
     "audio": "What's up?"
   },
   {
     "type": "Flashcard",
     "hindi": "Name",
     "transliteration": "",
-    "english": "नाम",
-    "vietnamese": "Tên",
+    "english": "Tên",
+    "vietnamese": "",
     "audio": "Name"
   },
   {
@@ -52,13 +52,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'When'",
     "text": "When",
     "subtext": "",
-    "answer": "कब",
+    "answer": "When",
     "answer_vi": "Khi nào",
     "options": [
-      "कब",
-      "कितना दुखद है!",
-      "क्या चल रहा है?",
-      "नाम"
+      "When",
+      "How sad!",
+      "What's up?",
+      "Name"
     ],
     "options_vi": [
       "Khi nào",
@@ -99,32 +99,32 @@
     "type": "Flashcard",
     "hindi": "Oh friend! / Oh man!",
     "transliteration": "",
-    "english": "अरे यार!",
-    "vietnamese": "Trời ơi bạn ơi!",
+    "english": "Trời ơi bạn ơi!",
+    "vietnamese": "",
     "audio": "Oh friend! / Oh man!"
   },
   {
     "type": "Flashcard",
     "hindi": "Whom (relative singular)",
     "transliteration": "",
-    "english": "जिसे",
-    "vietnamese": "Người mà (số ít)",
+    "english": "Người mà (số ít)",
+    "vietnamese": "",
     "audio": "Whom (relative singular)"
   },
   {
     "type": "Flashcard",
     "hindi": "Hello (highly respectful)",
     "transliteration": "",
-    "english": "नमस्ते जी",
-    "vietnamese": "Kính chào quý vị",
+    "english": "Kính chào quý vị",
+    "vietnamese": "",
     "audio": "Hello (highly respectful)"
   },
   {
     "type": "Flashcard",
     "hindi": "How many",
     "transliteration": "",
-    "english": "कितने",
-    "vietnamese": "Bao nhiêu (số lượng)",
+    "english": "Bao nhiêu (số lượng)",
+    "vietnamese": "",
     "audio": "How many"
   },
   {
@@ -134,13 +134,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Oh friend! / Oh man!'",
     "text": "Oh friend! / Oh man!",
     "subtext": "",
-    "answer": "अरे यार!",
+    "answer": "Oh friend! / Oh man!",
     "answer_vi": "Trời ơi bạn ơi!",
     "options": [
-      "अरे यार!",
-      "जिसे",
-      "नमस्ते जी",
-      "कितने"
+      "Oh friend! / Oh man!",
+      "Whom (relative singular)",
+      "Hello (highly respectful)",
+      "How many"
     ],
     "options_vi": [
       "Trời ơi bạn ơi!",
@@ -181,32 +181,32 @@
     "type": "Flashcard",
     "hindi": "Snow / Ice",
     "transliteration": "",
-    "english": "बर्फ़​​​​​​",
-    "vietnamese": "Tuyết / Đá",
+    "english": "Tuyết / Đá",
+    "vietnamese": "",
     "audio": "Snow / Ice"
   },
   {
     "type": "Flashcard",
     "hindi": "Now",
     "transliteration": "",
-    "english": "अब",
-    "vietnamese": "Bây giờ",
+    "english": "Bây giờ",
+    "vietnamese": "",
     "audio": "Now"
   },
   {
     "type": "Flashcard",
     "hindi": "Friend",
     "transliteration": "",
-    "english": "मित्र",
-    "vietnamese": "Bạn bè",
+    "english": "Bạn bè",
+    "vietnamese": "",
     "audio": "Friend"
   },
   {
     "type": "Flashcard",
     "hindi": "No problem",
     "transliteration": "",
-    "english": "कोई बात नहीं",
-    "vietnamese": "Không sao đâu",
+    "english": "Không sao đâu",
+    "vietnamese": "",
     "audio": "No problem"
   },
   {
@@ -216,13 +216,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Snow / Ice'",
     "text": "Snow / Ice",
     "subtext": "",
-    "answer": "बर्फ़​​​​​​",
+    "answer": "Snow / Ice",
     "answer_vi": "Tuyết / Đá",
     "options": [
-      "बर्फ़​​​​​​",
-      "अब",
-      "मित्र",
-      "कोई बात नहीं"
+      "Snow / Ice",
+      "Now",
+      "Friend",
+      "No problem"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -263,32 +263,32 @@
     "type": "Flashcard",
     "hindi": "How much is this?",
     "transliteration": "",
-    "english": "यह कितने का है?",
-    "vietnamese": "Cái này bao nhiêu tiền?",
+    "english": "Cái này bao nhiêu tiền?",
+    "vietnamese": "",
     "audio": "How much is this?"
   },
   {
     "type": "Flashcard",
     "hindi": "Don't annoy me",
     "transliteration": "",
-    "english": "दिमाग मत खा",
-    "vietnamese": "Đừng làm phiền tôi nữa",
+    "english": "Đừng làm phiền tôi nữa",
+    "vietnamese": "",
     "audio": "Don't annoy me"
   },
   {
     "type": "Flashcard",
     "hindi": "When (relative)",
     "transliteration": "",
-    "english": "जब",
-    "vietnamese": "Khi mà",
+    "english": "Khi mà",
+    "vietnamese": "",
     "audio": "When (relative)"
   },
   {
     "type": "Flashcard",
     "hindi": "Notebook",
     "transliteration": "",
-    "english": "कापी​​​​​​​​​​​",
-    "vietnamese": "Sổ tay",
+    "english": "Sổ tay",
+    "vietnamese": "",
     "audio": "Notebook"
   },
   {
@@ -298,16 +298,16 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'How much is this?'",
     "text": "How much is this?",
     "subtext": "",
-    "answer": "यह कितने का है?",
-    "answer_vi": "Cái này bao nhiêu tiền?",
+    "answer": "How many",
+    "answer_vi": "Bao nhiêu (số lượng)",
     "options": [
-      "यह कितने का है?",
-      "दिमाग मत खा",
-      "जब",
-      "कापी​​​​​​​​​​​"
+      "How many",
+      "Don't annoy me",
+      "When (relative)",
+      "Notebook"
     ],
     "options_vi": [
-      "Cái này bao nhiêu tiền?",
+      "Bao nhiêu (số lượng)",
       "Đừng làm phiền tôi nữa",
       "Khi mà",
       "Sổ tay"
@@ -355,7 +355,7 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "It is a कब / Nó là một Khi nào",
+    "englishSentence": "Nó là một Khi nào",
     "hindiWords": [
       "It",
       "is",
@@ -366,12 +366,13 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I like कितना दुखद है! / Tôi thích Thật là buồn!",
+    "englishSentence": "Tôi thích Thật là buồn!",
     "hindiWords": [
       "I",
       "really",
       "like",
-      "How sad!"
+      "How",
+      "sad!"
     ],
     "correctHindiSentence": "I really like How sad!"
   },

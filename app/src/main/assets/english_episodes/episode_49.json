@@ -44,32 +44,32 @@
     "type": "Flashcard",
     "hindi": "Lakh (100,000)",
     "transliteration": "",
-    "english": "लाख",
-    "vietnamese": "Một trăm ngàn",
+    "english": "Một trăm ngàn",
+    "vietnamese": "",
     "audio": "Lakh (100,000)"
   },
   {
     "type": "Flashcard",
     "hindi": "To sit",
     "transliteration": "",
-    "english": "बैठना​​​​​​​​​​​​​",
-    "vietnamese": "Ngồi",
+    "english": "Ngồi",
+    "vietnamese": "",
     "audio": "To sit"
   },
   {
     "type": "Flashcard",
     "hindi": "Enough / Stop",
     "transliteration": "",
-    "english": "बस",
-    "vietnamese": "Đủ rồi / Thôi",
+    "english": "Đủ rồi / Thôi",
+    "vietnamese": "",
     "audio": "Enough / Stop"
   },
   {
     "type": "Flashcard",
     "hindi": "Quickly",
     "transliteration": "",
-    "english": "फटाफट",
-    "vietnamese": "Nhanh chóng",
+    "english": "Nhanh chóng",
+    "vietnamese": "",
     "audio": "Quickly"
   },
   {
@@ -79,13 +79,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Lakh (100,000)'",
     "text": "Lakh (100,000)",
     "subtext": "",
-    "answer": "लाख",
+    "answer": "Lakh (100,000)",
     "answer_vi": "Một trăm ngàn",
     "options": [
-      "लाख",
-      "बैठना​​​​​​​​​​​​​",
-      "बस",
-      "फटाफट"
+      "Lakh (100,000)",
+      "To sit",
+      "Enough / Stop",
+      "Quickly"
     ],
     "options_vi": [
       "Một trăm ngàn",
@@ -126,32 +126,32 @@
     "type": "Flashcard",
     "hindi": "Cloth / Dress",
     "transliteration": "",
-    "english": "कपड़ा​",
-    "vietnamese": "Quần áo",
+    "english": "Quần áo",
+    "vietnamese": "",
     "audio": "Cloth / Dress"
   },
   {
     "type": "Flashcard",
     "hindi": "To this / him / her (near)",
     "transliteration": "",
-    "english": "इसे",
-    "vietnamese": "Cho người/vật này",
+    "english": "Cho người/vật này",
+    "vietnamese": "",
     "audio": "To this / him / her (near)"
   },
   {
     "type": "Flashcard",
     "hindi": "To sell",
     "transliteration": "",
-    "english": "बेचना​​​​​​​​​​​​​​​​",
-    "vietnamese": "Bán",
+    "english": "Bán",
+    "vietnamese": "",
     "audio": "To sell"
   },
   {
     "type": "Flashcard",
     "hindi": "To speak",
     "transliteration": "",
-    "english": "बोलना​​​​",
-    "vietnamese": "Nói",
+    "english": "Nói",
+    "vietnamese": "",
     "audio": "To speak"
   },
   {
@@ -161,13 +161,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Cloth / Dress'",
     "text": "Cloth / Dress",
     "subtext": "",
-    "answer": "कपड़ा​",
+    "answer": "Cloth / Dress",
     "answer_vi": "Quần áo",
     "options": [
-      "कपड़ा​",
-      "इसे",
-      "बेचना​​​​​​​​​​​​​​​​",
-      "बोलना​​​​"
+      "Cloth / Dress",
+      "To this / him / her (near)",
+      "To sell",
+      "To speak"
     ],
     "options_vi": [
       "Quần áo",
@@ -208,32 +208,32 @@
     "type": "Flashcard",
     "hindi": "Shoe",
     "transliteration": "",
-    "english": "जूता​",
-    "vietnamese": "Giày",
+    "english": "Giày",
+    "vietnamese": "",
     "audio": "Shoe"
   },
   {
     "type": "Flashcard",
     "hindi": "To cry",
     "transliteration": "",
-    "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "vietnamese": "Khóc",
+    "english": "Khóc",
+    "vietnamese": "",
     "audio": "To cry"
   },
   {
     "type": "Flashcard",
     "hindi": "To ask",
     "transliteration": "",
-    "english": "पूछना​​​​​",
-    "vietnamese": "Hỏi",
+    "english": "Hỏi",
+    "vietnamese": "",
     "audio": "To ask"
   },
   {
     "type": "Flashcard",
     "hindi": "As much as",
     "transliteration": "",
-    "english": "जितना",
-    "vietnamese": "Bao nhiêu tùy ý",
+    "english": "Bao nhiêu tùy ý",
+    "vietnamese": "",
     "audio": "As much as"
   },
   {
@@ -243,13 +243,13 @@
     "prompt_vi": "Chọn bản dịch đúng cho 'Shoe'",
     "text": "Shoe",
     "subtext": "",
-    "answer": "जूता​",
+    "answer": "Shoe",
     "answer_vi": "Giày",
     "options": [
-      "जूता​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पूछना​​​​​",
-      "जितना"
+      "Shoe",
+      "To cry",
+      "To ask",
+      "As much as"
     ],
     "options_vi": [
       "Giày",
@@ -300,23 +300,25 @@
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see the लाख / Tôi thấy Một trăm ngàn",
+    "englishSentence": "Tôi thấy Một trăm ngàn",
     "hindiWords": [
       "I",
       "see",
       "the",
-      "Lakh (100,000)"
+      "Lakh",
+      "(100,000)"
     ],
     "correctHindiSentence": "I see the Lakh (100,000)"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I want a बैठना​​​​​​​​​​​​​ / Tôi muốn Ngồi",
+    "englishSentence": "Tôi muốn Ngồi",
     "hindiWords": [
       "I",
       "want",
       "a",
-      "To sit"
+      "To",
+      "sit"
     ],
     "correctHindiSentence": "I want a To sit"
   },
