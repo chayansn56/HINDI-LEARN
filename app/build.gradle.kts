@@ -4,6 +4,8 @@ plugins {
   alias(libs.plugins.android.application)
   alias(libs.plugins.compose.compiler)
   alias(libs.plugins.kotlin.serialization)
+  alias(libs.plugins.detekt)
+  alias(libs.plugins.ktlint)
   id("com.google.devtools.ksp") version "2.2.10-2.0.2"
 }
 
@@ -99,6 +101,8 @@ dependencies {
   // Tooling
   implementation("com.squareup.okhttp3:okhttp:4.12.0")
   debugImplementation(libs.androidx.compose.ui.tooling)
+  debugImplementation("com.squareup.leakcanary:leakcanary-android:2.14")
+  
   // Instrumented tests
   androidTestImplementation(libs.androidx.compose.ui.test.junit4)
   debugImplementation(libs.androidx.compose.ui.test.manifest)
