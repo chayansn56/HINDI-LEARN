@@ -102,7 +102,14 @@ fun MultipleChoiceUI(ex: Exercise.MultipleChoice, tts: TextToSpeech?, isCorrect:
                 }
                 Button(
                     onClick = { onAnswer(option) },
-                    colors = ButtonDefaults.buttonColors(containerColor = btnColor, contentColor = MaterialTheme.colorScheme.onSurfaceVariant),
+                    colors = ButtonDefaults.buttonColors(
+                        containerColor = btnColor,
+                        contentColor = when (btnColor) {
+                            MaterialTheme.colorScheme.primary -> MaterialTheme.colorScheme.onPrimary
+                            MaterialTheme.colorScheme.error -> MaterialTheme.colorScheme.onError
+                            else -> MaterialTheme.colorScheme.onSurfaceVariant
+                        }
+                    ),
                     modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp).height(56.dp),
                     shape = RoundedCornerShape(16.dp)
                 ) {
@@ -218,7 +225,14 @@ fun ListeningUI(ex: Exercise.Listening, tts: TextToSpeech?, isCorrect: Boolean?,
                 }
                 Button(
                     onClick = { onAnswer(option) },
-                    colors = ButtonDefaults.buttonColors(containerColor = btnColor, contentColor = MaterialTheme.colorScheme.onSurfaceVariant),
+                    colors = ButtonDefaults.buttonColors(
+                        containerColor = btnColor,
+                        contentColor = when (btnColor) {
+                            MaterialTheme.colorScheme.primary -> MaterialTheme.colorScheme.onPrimary
+                            MaterialTheme.colorScheme.error -> MaterialTheme.colorScheme.onError
+                            else -> MaterialTheme.colorScheme.onSurfaceVariant
+                        }
+                    ),
                     modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp).height(56.dp),
                     shape = RoundedCornerShape(16.dp)
                 ) {
