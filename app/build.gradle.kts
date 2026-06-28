@@ -26,6 +26,9 @@ android {
         }
         val groqKey = properties.getProperty("GROQ_API_KEY", "")
         buildConfigField("String", "GROQ_API_KEY", "\"$groqKey\"")
+        
+        val nvidiaKey = properties.getProperty("NVIDIA_API_KEY", "")
+        buildConfigField("String", "NVIDIA_API_KEY", "\"$nvidiaKey\"")
     }
 
     signingConfigs {
