@@ -120,6 +120,55 @@ fun MultipleChoiceUI(ex: Exercise.MultipleChoice, tts: TextToSpeech?, isCorrect:
     }
 }
 
+@Composable
+fun WritingUI(ex: Exercise.MultipleChoice, isCorrect: Boolean?, onAnswer: (String) -> Unit) {
+    var textInput by remember { mutableStateOf("") }
+    val isVi = UserManager.progress.selectedLanguage == "VI"
+    
+    Column(modifier = Modifier.fillMaxSize(), horizontalAlignment = Alignment.CenterHorizontally) {
+        Text(
+            text = if (isVi) "Gõ từ này bằng tiếng Hindi" else "Type this in Hindi",
+            style = MaterialTheme.typography.titleLarge,
+            fontWeight = FontWeight.Bold
+        )
+        Spacer(modifier = Modifier.height(32.dp))
+        
+        Text(
+            text = ex.answer, // The translation prompt, e.g. "Boy"
+            style = MaterialTheme.typography.headlineLarge,
+            color = MaterialTheme.colorScheme.primary,
+            fontWeight = FontWeight.Bold
+        )
+        
+        Spacer(modifier = Modifier.height(48.dp))
+        
+        TextField(
+            value = textInput,
+            onValueChange = { if (isCorrect == null) textInput = it },
+            placeholder = { Text(if (isVi) "Nhập tiếng Hindi..." else "Type in Hindi...") },
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 24.dp),
+            singleLine = true,
+            shape = RoundedCornerShape(12.dp),
+            colors = TextFieldDefaults.colors(
+                focusedContainerColor = MaterialTheme.colorScheme.surfaceVariant,
+                unfocusedContainerColor = MaterialTheme.colorScheme.surfaceVariant
+            )
+        )
+        
+        Spacer(modifier = Modifier.weight(1f))
+        
+        Button(
+            onClick = { onAnswer(textInput.trim()) },
+            enabled = textInput.isNotBlank() && isCorrect == null,
+            modifier = Modifier.fillMaxWidth().padding(bottom = 16.dp).height(56.dp),
+            shape = RoundedCornerShape(16.dp)
+        ) {
+            Text(if (isVi) "Kiểm tra" else "Check", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+        }
+    }
+}
+
+
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun SentenceBuilderUI(ex: Exercise.SentenceBuilder, isCorrect: Boolean?, onAnswer: (String) -> Unit) {

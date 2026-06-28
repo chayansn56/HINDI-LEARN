@@ -294,14 +294,33 @@ fun LessonScreen(
                         horizontalAlignment = Alignment.CenterHorizontally
                     ) {
                         when (targetEx) {
-                        is Exercise.MultipleChoice -> MultipleChoiceUI(targetEx, tts, isCorrect) { ans ->
-                            if (isCorrect == null) {
-                                isCorrect = (ans == targetEx.answer)
-                                haptic.performHapticFeedback(HapticFeedbackType.LongPress)
-                                if (isCorrect == false) {
-                                    UserManager.loseHeart()
-                                    UserManager.incrementMistake(targetEx.text)
-                                    exerciseQueue.add(targetEx)
+                        is Exercise.MultipleChoice -> {
+                            val isWriting = nodeId.contains("write")
+                            if (isWriting) {
+                                WritingUI(targetEx, isCorrect) { ans ->
+                                    if (isCorrect == null) {
+                                        val cleanUser = ans.replace(Regex("[।.,?!\\s\\u200b]"), "").lowercase().trim()
+                                        val cleanCorrect = targetEx.text.replace(Regex("[।.,?!\\s\\u200b]"), "").lowercase().trim()
+                                        isCorrect = (cleanUser == cleanCorrect)
+                                        haptic.performHapticFeedback(HapticFeedbackType.LongPress)
+                                        if (isCorrect == false) {
+                                            UserManager.loseHeart()
+                                            UserManager.incrementMistake(targetEx.text)
+                                            exerciseQueue.add(targetEx)
+                                        }
+                                    }
+                                }
+                            } else {
+                                MultipleChoiceUI(targetEx, tts, isCorrect) { ans ->
+                                    if (isCorrect == null) {
+                                        isCorrect = (ans == targetEx.answer)
+                                        haptic.performHapticFeedback(HapticFeedbackType.LongPress)
+                                        if (isCorrect == false) {
+                                            UserManager.loseHeart()
+                                            UserManager.incrementMistake(targetEx.text)
+                                            exerciseQueue.add(targetEx)
+                                        }
+                                    }
                                 }
                             }
                         }
