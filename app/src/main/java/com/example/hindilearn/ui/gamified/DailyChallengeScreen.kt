@@ -32,6 +32,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.hindilearn.data.AudioHelper
 import com.example.hindilearn.data.UserManager
+import com.example.hindilearn.data.OpenAiService
 import com.example.hindilearn.theme.*
 import org.json.JSONArray
 import java.io.InputStream

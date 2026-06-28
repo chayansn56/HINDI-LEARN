@@ -16,6 +16,7 @@ import androidx.compose.material.icons.automirrored.filled.VolumeUp
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Face
 import androidx.compose.material.icons.filled.PlayArrow
+import androidx.compose.material.icons.filled.Mic
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -29,11 +30,13 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.hindilearn.data.AudioHelper
 import com.example.hindilearn.data.UserManager
+import com.example.hindilearn.data.OpenAiService
 import com.example.hindilearn.theme.*
 import java.util.Locale
 import androidx.compose.foundation.Image
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.layout.ContentScale
+import kotlinx.coroutines.launch
 
 data class StoryParagraph(
     val hindi: String,

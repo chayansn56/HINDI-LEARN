@@ -134,12 +134,18 @@ fun AcademyDashboard(
                                 }
                             }
 
-                            Row(verticalAlignment = Alignment.CenterVertically) {
+                            Row(
+                                verticalAlignment = Alignment.CenterVertically,
+                                modifier = Modifier.clickable { isCelebrating = true }
+                            ) {
                                 Icon(Icons.Default.LocalFireDepartment, contentDescription = "Streak", tint = DeepSaffron, modifier = Modifier.size(18.dp))
                                 Text("${progress.streak}", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
                             }
 
-                            Row(verticalAlignment = Alignment.CenterVertically) {
+                            Row(
+                                verticalAlignment = Alignment.CenterVertically,
+                                modifier = Modifier.clickable { isCelebrating = true }
+                            ) {
                                 Icon(Icons.Default.Star, contentDescription = "XP", tint = PremiumGold, modifier = Modifier.size(18.dp))
                                 Text("${progress.xp}", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurface, fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 6.dp))
                             }
@@ -543,12 +549,13 @@ fun AcademyDashboard(
                 }
                 Spacer(modifier = Modifier.height(32.dp))
             }
+        }
             
-            if (isCelebrating) {
-                CelebrationFlightOverlay(onAnimationFinished = { isCelebrating = false })
-            }
+        if (isCelebrating) {
+            CelebrationFlightOverlay(onAnimationFinished = { isCelebrating = false })
         }
     }
+}
 }
 
 @Composable
