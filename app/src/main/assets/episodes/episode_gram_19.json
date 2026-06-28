@@ -31,19 +31,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बर्फ़​​​​​​​​​",
+    "hindi": "बर्फ़",
     "transliteration": "barf",
     "english": "Snow / Ice",
     "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​​​​​​​"
+    "audio": "बर्फ़"
   },
   {
     "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "दौड़ना",
     "transliteration": "dauṛnā",
     "english": "To run",
     "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "दौड़ना"
   },
   {
     "type": "MultipleChoice",
@@ -80,11 +80,11 @@
         "english": "11 (Mười một)"
       },
       {
-        "hindi": "बर्फ़​​​​​​​​​",
+        "hindi": "बर्फ़",
         "english": "Snow / Ice (Tuyết / Đá)"
       },
       {
-        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "दौड़ना",
         "english": "To run (Chạy)"
       }
     ]
@@ -92,24 +92,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To wake up (Thức dậy)."
+    "explanation": "Understand the usage and roots of: जागना.",
+    "simpleRule": "Remember: जागना means To wake up (Thức dậy)."
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "जागना",
     "transliteration": "jāgnā",
     "english": "To wake up",
     "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "जागना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खोलना",
     "transliteration": "kholnā",
     "english": "To open",
     "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खोलना"
   },
   {
     "type": "Flashcard",
@@ -129,10 +129,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'जागना'",
+    "prompt_en": "Choose correct translation for 'जागना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'जागना'",
+    "text": "जागना",
     "subtext": "jāgnā",
     "answer": "To wake up",
     "answer_vi": "Thức dậy",
@@ -154,11 +154,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "जागना",
         "english": "To wake up (Thức dậy)"
       },
       {
-        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खोलना",
         "english": "To open (Mở)"
       },
       {

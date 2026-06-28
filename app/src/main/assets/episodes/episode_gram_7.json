@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "खेलना​​​​",
+    "hindi": "खेलना",
     "transliteration": "khelnā",
     "english": "To play",
     "vietnamese": "Chơi",
-    "audio": "खेलना​​​​"
+    "audio": "खेलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "साफ करना",
     "transliteration": "sāf karnā",
     "english": "To clean",
     "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "साफ करना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "MultipleChoice",
@@ -76,15 +76,15 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "खेलना​​​​",
+        "hindi": "खेलना",
         "english": "To play (Chơi)"
       },
       {
-        "hindi": "साफ करना​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "साफ करना",
         "english": "To clean (Dọn dẹp / Lau chùi)"
       },
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       }
     ]
@@ -92,16 +92,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बनाना​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बनाना​​​​​​​​​​​​​​​​ means To make / build (Chế tạo / Tạo ra)."
+    "explanation": "Understand the usage and roots of: बनाना.",
+    "simpleRule": "Remember: बनाना means To make / build (Chế tạo / Tạo ra)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "Flashcard",
@@ -113,26 +113,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "दौड़ना​​",
+    "hindi": "दौड़ना",
     "transliteration": "dauṛnā",
     "english": "To run",
     "vietnamese": "Chạy",
-    "audio": "दौड़ना​​"
+    "audio": "दौड़ना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बनाना​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बनाना​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​​​​​​​​'",
-    "text": "बनाना​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'बनाना'",
+    "prompt_en": "Choose correct translation for 'बनाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना'",
+    "text": "बनाना",
     "subtext": "banānā",
     "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
@@ -154,7 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
@@ -162,11 +162,11 @@
         "english": "Awesome / Superb (Tuyệt vời)"
       },
       {
-        "hindi": "लिखना​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "दौड़ना​​",
+        "hindi": "दौड़ना",
         "english": "To run (Chạy)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see To play / Tôi thấy Chơi",
     "hindiWords": [
       "मैं",
-      "खेलना​​​​",
+      "खेलना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं खेलना​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं खेलना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, दौड़ना​​",
+      "You learned: इश्क़, दौड़ना",
       "Practiced constructing sentences."
     ]
   }

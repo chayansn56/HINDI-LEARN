@@ -301,9 +301,12 @@ fun LessonScreen(
                                     if (isCorrect == null) {
                                         val cleanUser = ans.replace(Regex("[।.,?!\\s\\u200b]"), "").lowercase().trim()
                                         val cleanCorrect = targetEx.text.replace(Regex("[।.,?!\\s\\u200b]"), "").lowercase().trim()
-                                        isCorrect = (cleanUser == cleanCorrect)
+                                        val isRight = (cleanUser == cleanCorrect)
+                                        isCorrect = isRight
                                         haptic.performHapticFeedback(HapticFeedbackType.LongPress)
-                                        if (isCorrect == false) {
+                                        com.example.hindilearn.data.SrsManager.addWordIfNotExists(targetEx.text)
+                                        com.example.hindilearn.data.SrsManager.processReview(targetEx.text, isRight)
+                                        if (!isRight) {
                                             UserManager.loseHeart()
                                             UserManager.incrementMistake(targetEx.text)
                                             exerciseQueue.add(targetEx)
@@ -313,9 +316,12 @@ fun LessonScreen(
                             } else {
                                 MultipleChoiceUI(targetEx, tts, isCorrect) { ans ->
                                     if (isCorrect == null) {
-                                        isCorrect = (ans == targetEx.answer)
+                                        val isRight = (ans == targetEx.answer)
+                                        isCorrect = isRight
                                         haptic.performHapticFeedback(HapticFeedbackType.LongPress)
-                                        if (isCorrect == false) {
+                                        com.example.hindilearn.data.SrsManager.addWordIfNotExists(targetEx.text)
+                                        com.example.hindilearn.data.SrsManager.processReview(targetEx.text, isRight)
+                                        if (!isRight) {
                                             UserManager.loseHeart()
                                             UserManager.incrementMistake(targetEx.text)
                                             exerciseQueue.add(targetEx)
@@ -328,9 +334,12 @@ fun LessonScreen(
                             if (isCorrect == null) {
                                 val cleanUser = constructed.replace(Regex("[।.,?!\\s\\u200b]"), "").lowercase().trim()
                                 val cleanCorrect = targetEx.correctHindiSentence.replace(Regex("[।.,?!\\s\\u200b]"), "").lowercase().trim()
-                                isCorrect = (cleanUser == cleanCorrect)
+                                val isRight = (cleanUser == cleanCorrect)
+                                isCorrect = isRight
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
-                                if (isCorrect == false) {
+                                com.example.hindilearn.data.SrsManager.addWordIfNotExists(targetEx.correctHindiSentence)
+                                com.example.hindilearn.data.SrsManager.processReview(targetEx.correctHindiSentence, isRight)
+                                if (!isRight) {
                                     UserManager.loseHeart()
                                     UserManager.incrementMistake(targetEx.englishSentence)
                                     exerciseQueue.add(targetEx)
@@ -339,9 +348,12 @@ fun LessonScreen(
                         }
                         is Exercise.Listening -> ListeningUI(targetEx, tts, isCorrect) { ans ->
                             if (isCorrect == null) {
-                                isCorrect = (ans == targetEx.englishTranslation)
+                                val isRight = (ans == targetEx.englishTranslation)
+                                isCorrect = isRight
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
-                                if (isCorrect == false) {
+                                com.example.hindilearn.data.SrsManager.addWordIfNotExists(targetEx.audioText)
+                                com.example.hindilearn.data.SrsManager.processReview(targetEx.audioText, isRight)
+                                if (!isRight) {
                                     UserManager.loseHeart()
                                     UserManager.incrementMistake(targetEx.audioText)
                                     exerciseQueue.add(targetEx)
@@ -357,6 +369,7 @@ fun LessonScreen(
                         is Exercise.Flashcard -> FlashcardUI(targetEx, tts, isCorrect) { ans ->
                             if (isCorrect == null) {
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
+                                com.example.hindilearn.data.SrsManager.addWordIfNotExists(targetEx.hindi)
                                 advanceQueue()
                             }
                         }
@@ -370,6 +383,8 @@ fun LessonScreen(
                             if (isCorrect == null) {
                                 isCorrect = ans
                                 haptic.performHapticFeedback(HapticFeedbackType.LongPress)
+                                com.example.hindilearn.data.SrsManager.addWordIfNotExists(targetEx.hindiPhrase)
+                                com.example.hindilearn.data.SrsManager.processReview(targetEx.hindiPhrase, ans)
                                 if (!ans) {
                                     UserManager.loseHeart()
                                     UserManager.incrementMistake(targetEx.hindiPhrase)

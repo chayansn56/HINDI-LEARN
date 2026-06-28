@@ -1,222 +1,82 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Level 5",
-    "description": "Master the vocabulary and grammar for: Gram - Level 5. Read the key points carefully.",
+    "title": "Grammar Level 5: Postpositions",
+    "description": "In Hindi, prepositions follow the noun they modify, which is why they are called postpositions.",
     "keyPoints": [
-      "Learn gram concepts."
+      "English: 'in the room' (pre-position).",
+      "Hindi: 'कमरे में' (post-position - literally 'room in')."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: इश्क़.",
-    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
+    "title": "Common Postpositions",
+    "explanation": "Common postpositions include में (in), पर (on), से (from / with), and को (to). Note: Nouns often change to oblique cases before postpositions (e.g. कमरा becomes कमरे).",
+    "simpleRule": "Noun + Postposition (e.g., घर से = from home)"
   },
   {
     "type": "Flashcard",
-    "hindi": "इश्क़",
-    "transliteration": "ishq",
-    "english": "Love (intense)",
-    "vietnamese": "Tình yêu sâu đậm",
-    "audio": "इश्क़"
+    "hindi": "में",
+    "transliteration": "mein",
+    "english": "In",
+    "vietnamese": "Trong",
+    "audio": "में"
   },
   {
     "type": "Flashcard",
-    "hindi": "गाना​​​​​​​​​​​​​​",
-    "transliteration": "gānā",
-    "english": "To sing",
-    "vietnamese": "Hát",
-    "audio": "गाना​​​​​​​​​​​​​​"
+    "hindi": "पर",
+    "transliteration": "par",
+    "english": "On",
+    "vietnamese": "Trên",
+    "audio": "पर"
   },
   {
     "type": "Flashcard",
-    "hindi": "बताना​​​​​​​​​​​​​​​​​​",
-    "transliteration": "batānā",
-    "english": "To tell / explain",
-    "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "gānā",
-    "english": "To sing",
-    "vietnamese": "Hát",
-    "audio": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "से",
+    "transliteration": "se",
+    "english": "From / with",
+    "vietnamese": "Từ / với",
+    "audio": "से"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'इश्क़'",
-    "prompt_en": "Choose correct translation for 'इश्क़'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
-    "text": "इश्क़",
-    "subtext": "ishq",
-    "answer": "Love (intense)",
-    "answer_vi": "Tình yêu sâu đậm",
+    "prompt": "What is the postposition for 'From'?",
+    "prompt_en": "Choose postposition for 'From'",
+    "prompt_vi": "Chọn hậu giới từ cho 'Từ'",
+    "text": "से",
+    "subtext": "se",
+    "answer": "से",
     "options": [
-      "Love (intense)",
-      "To sing",
-      "To tell / explain",
-      "To sing"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Hát",
-      "Kể / Giải thích",
-      "Hát"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "इश्क़",
-        "english": "Love (intense) (Tình yêu sâu đậm)"
-      },
-      {
-        "hindi": "गाना​​​​​​​​​​​​​​",
-        "english": "To sing (Hát)"
-      },
-      {
-        "hindi": "बताना​​​​​​​​​​​​​​​​​​",
-        "english": "To tell / explain (Kể / Giải thích)"
-      },
-      {
-        "hindi": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To sing (Hát)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​ means To stand (Đứng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "आग​​​​​​​",
-    "transliteration": "āg",
-    "english": "Fire",
-    "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बग़ीचा​​",
-    "transliteration": "bagīcā",
-    "english": "Garden",
-    "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "khaṛe honā",
-    "answer": "To stand",
-    "answer_vi": "Đứng",
-    "options": [
-      "To stand",
-      "Fire",
-      "To stand",
-      "Garden"
-    ],
-    "options_vi": [
-      "Đứng",
-      "Lửa",
-      "Đứng",
-      "Khu vườn"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
-      },
-      {
-        "hindi": "आग​​​​​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
-      },
-      {
-        "hindi": "बग़ीचा​​",
-        "english": "Garden (Khu vườn)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "इश्क़",
-    "translation_en": "Love (intense)",
-    "translation_vi": "Tình yêu sâu đậm",
-    "options_en": [
-      "Love (intense)",
-      "To sing",
-      "To tell / explain",
-      "To sing"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Hát",
-      "Kể / Giải thích",
-      "Hát"
+      "से",
+      "में",
+      "पर",
+      "को"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
+    "englishSentence": "In the room / Trong phòng",
     "hindiWords": [
-      "यह",
-      "एक",
-      "इश्क़",
-      "है"
+      "कमरे",
+      "में"
     ],
-    "correctHindiSentence": "यह एक इश्क़ है"
+    "correctHindiSentence": "कमरे में"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see To sing / Tôi thấy Hát",
+    "englishSentence": "On the table / Trên bàn",
     "hindiWords": [
-      "मैं",
-      "गाना​​​​​​​​​​​​​​",
-      "देखता",
-      "हूँ"
+      "मेज़",
+      "पर"
     ],
-    "correctHindiSentence": "मैं गाना​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मेज़ पर"
   },
   {
     "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
+    "title": "Postpositions Mastered",
     "takeaways": [
-      "You learned: इश्क़, बग़ीचा​​",
-      "Practiced constructing sentences."
+      "Learned basic postpositions: में, पर, से.",
+      "Understood that postpositions follow their target nouns."
     ]
   }
 ]

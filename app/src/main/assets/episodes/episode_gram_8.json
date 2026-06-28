@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सोना",
     "transliteration": "sonā",
     "english": "To sleep",
     "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सोना"
   },
   {
     "type": "Flashcard",
-    "hindi": "तारा​​​​​​​​​​",
+    "hindi": "तारा",
     "transliteration": "tārā",
     "english": "Star",
     "vietnamese": "Ngôi sao",
-    "audio": "तारा​​​​​​​​​​"
+    "audio": "तारा"
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "चलना",
     "transliteration": "calnā",
     "english": "To walk / move",
     "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "चलना"
   },
   {
     "type": "MultipleChoice",
@@ -76,15 +76,15 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सोना",
         "english": "To sleep (Ngủ)"
       },
       {
-        "hindi": "तारा​​​​​​​​​​",
+        "hindi": "तारा",
         "english": "Star (Ngôi sao)"
       },
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "चलना",
         "english": "To walk / move (Đi bộ / Di chuyển)"
       }
     ]
@@ -121,11 +121,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बर्फ़​​​​",
+    "hindi": "बर्फ़",
     "transliteration": "barf",
     "english": "Snow / Ice",
     "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​​"
+    "audio": "बर्फ़"
   },
   {
     "type": "MultipleChoice",
@@ -166,7 +166,7 @@
         "english": "Wedding / Marriage (Đám cưới / Hôn nhân)"
       },
       {
-        "hindi": "बर्फ़​​​​",
+        "hindi": "बर्फ़",
         "english": "Snow / Ice (Tuyết / Đá)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see To sleep / Tôi thấy Ngủ",
     "hindiWords": [
       "मैं",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं सोना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, बर्फ़​​​​",
+      "You learned: इश्क़, बर्फ़",
       "Practiced constructing sentences."
     ]
   }

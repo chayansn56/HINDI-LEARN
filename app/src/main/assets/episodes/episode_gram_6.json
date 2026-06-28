@@ -23,19 +23,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बेचना",
     "transliteration": "becnā",
     "english": "To sell",
     "vietnamese": "Bán",
-    "audio": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बेचना"
   },
   {
     "type": "Flashcard",
@@ -76,11 +76,11 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
-        "hindi": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बेचना",
         "english": "To sell (Bán)"
       },
       {
@@ -92,47 +92,47 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To ask (Hỏi)."
+    "explanation": "Understand the usage and roots of: पूछना.",
+    "simpleRule": "Remember: पूछना means To ask (Hỏi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​​​​​",
+    "hindi": "बादल",
     "transliteration": "bādal",
     "english": "Cloud",
     "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​​"
+    "audio": "बादल"
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​​​​​​​​​​​",
+    "hindi": "काम करना",
     "transliteration": "kām karnā",
     "english": "To work",
     "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​​​​​​​​​​"
+    "audio": "काम करना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'पूछना'",
+    "prompt_en": "Choose correct translation for 'पूछना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पूछना'",
+    "text": "पूछना",
     "subtext": "pūchnā",
     "answer": "To ask",
     "answer_vi": "Hỏi",
@@ -154,19 +154,19 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पूछना",
         "english": "To ask (Hỏi)"
       },
       {
-        "hindi": "बादल​​​​​​",
+        "hindi": "बादल",
         "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
-        "hindi": "काम करना​​​​​​​​​​​​​​​",
+        "hindi": "काम करना",
         "english": "To work (Làm việc)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see To make / build / Tôi thấy Chế tạo / Tạo ra",
     "hindiWords": [
       "मैं",
-      "बनाना​​​​​​​​​​​​​​​​​",
+      "बनाना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं बनाना​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं बनाना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, काम करना​​​​​​​​​​​​​​​",
+      "You learned: इश्क़, काम करना",
       "Practiced constructing sentences."
     ]
   }

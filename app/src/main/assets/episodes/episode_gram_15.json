@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "MultipleChoice",
@@ -76,7 +76,7 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "सुनना​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       },
       {
@@ -84,7 +84,7 @@
         "english": "to help (Giúp đỡ)"
       },
       {
-        "hindi": "बोलना​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       }
     ]
@@ -105,11 +105,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "चलना",
     "transliteration": "calnā",
     "english": "To walk / move",
     "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "चलना"
   },
   {
     "type": "Flashcard",
@@ -121,11 +121,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "दौड़ना",
     "transliteration": "dauṛnā",
     "english": "To run",
     "vietnamese": "Chạy",
-    "audio": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "दौड़ना"
   },
   {
     "type": "MultipleChoice",
@@ -158,7 +158,7 @@
         "english": "Distances / Separation (Sự xa cách)"
       },
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "चलना",
         "english": "To walk / move (Đi bộ / Di chuyển)"
       },
       {
@@ -166,7 +166,7 @@
         "english": "Actor (Nam diễn viên)"
       },
       {
-        "hindi": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "दौड़ना",
         "english": "To run (Chạy)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
       "मैं",
-      "सुनना​​",
+      "सुनना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सुनना​​ देखता हूँ"
+    "correctHindiSentence": "मैं सुनना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, दौड़ना​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: इश्क़, दौड़ना",
       "Practiced constructing sentences."
     ]
   }

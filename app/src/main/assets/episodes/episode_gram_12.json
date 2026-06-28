@@ -23,19 +23,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सोना",
     "transliteration": "sonā",
     "english": "To sleep",
     "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सोना"
   },
   {
     "type": "Flashcard",
-    "hindi": "करना​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "करना",
     "transliteration": "karnā",
     "english": "To do",
     "vietnamese": "Làm",
-    "audio": "करना​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "करना"
   },
   {
     "type": "Flashcard",
@@ -76,11 +76,11 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सोना",
         "english": "To sleep (Ngủ)"
       },
       {
-        "hindi": "करना​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "करना",
         "english": "To do (Làm)"
       },
       {
@@ -105,27 +105,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खेलना",
     "transliteration": "khelnā",
     "english": "To play",
     "vietnamese": "Chơi",
-    "audio": "खेलना​​​​​​​​​​​​​​​​​​​"
+    "audio": "खेलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "जागना",
     "transliteration": "jāgnā",
     "english": "To wake up",
     "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "जागना"
   },
   {
     "type": "MultipleChoice",
@@ -158,15 +158,15 @@
         "english": "Seven (Số bảy)"
       },
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
-        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खेलना",
         "english": "To play (Chơi)"
       },
       {
-        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "जागना",
         "english": "To wake up (Thức dậy)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see To sleep / Tôi thấy Ngủ",
     "hindiWords": [
       "मैं",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं सोना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: इश्क़, जागना",
       "Practiced constructing sentences."
     ]
   }

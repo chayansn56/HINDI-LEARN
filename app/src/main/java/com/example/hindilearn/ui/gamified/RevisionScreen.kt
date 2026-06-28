@@ -116,8 +116,6 @@ fun RevisionScreen(
                     usageNote = obj.optString("usage_note")
                 )
                 allWords.add(word)
-                // Seed to SRS if not exists
-                com.example.hindilearn.data.SrsManager.addWordIfNotExists(word.hindi)
             }
             
             val dueItemIds = com.example.hindilearn.data.SrsManager.getDueItems()

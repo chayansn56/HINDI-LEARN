@@ -1,222 +1,133 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Level 1",
-    "description": "Master the vocabulary and grammar for: Gram - Level 1. Read the key points carefully.",
+    "title": "Grammar Level 1: Pronouns & 'To Be'",
+    "description": "Learn basic Hindi pronouns (I, You, He/She) and how to form sentences using the present tense markers (am, are, is).",
     "keyPoints": [
-      "Learn gram concepts."
+      "Hindi is an SOV (Subject-Object-Verb) language.",
+      "Subject pronouns have specific present tense verbs that pair with them."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: इश्क़.",
-    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
+    "title": "Pronoun Subjects",
+    "explanation": "Subject pronouns in Hindi are: मैं (I), तुम (You - informal), आप (You - polite/formal), वह (He/She/That).",
+    "simpleRule": "Pair the subject pronoun with the correct 'To Be' auxiliary verb at the end of the sentence."
+  },
+  {
+    "type": "GrammarTable",
+    "title": "Subject Pronouns & Present Tense Verb Markers",
+    "headers": [
+      "Pronoun",
+      "Transliteration",
+      "English",
+      "Verb Marker (To Be)"
+    ],
+    "rows": [
+      [
+        "मैं",
+        "main",
+        "I",
+        "हूँ (am)"
+      ],
+      [
+        "तुम",
+        "tum",
+        "You (informal)",
+        "हो (are)"
+      ],
+      [
+        "आप",
+        "aap",
+        "You (polite/formal)",
+        "हैं (are)"
+      ],
+      [
+        "वह",
+        "vah",
+        "He / She / It",
+        "है (is)"
+      ]
+    ]
   },
   {
     "type": "Flashcard",
-    "hindi": "इश्क़",
-    "transliteration": "ishq",
-    "english": "Love (intense)",
-    "vietnamese": "Tình yêu sâu đậm",
-    "audio": "इश्क़"
+    "hindi": "मैं",
+    "transliteration": "main",
+    "english": "I",
+    "vietnamese": "Tôi",
+    "audio": "मैं"
   },
   {
     "type": "Flashcard",
-    "hindi": "दिल",
-    "transliteration": "dil",
-    "english": "Heart",
-    "vietnamese": "Trái tim",
-    "audio": "दिल"
+    "hindi": "आप",
+    "transliteration": "aap",
+    "english": "You (polite/formal)",
+    "vietnamese": "Bạn (lịch sự)",
+    "audio": "आप"
   },
   {
     "type": "Flashcard",
-    "hindi": "शहर",
-    "transliteration": "shahar",
-    "english": "City",
-    "vietnamese": "Thành phố",
-    "audio": "शहर"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​",
-    "transliteration": "khaṛe honā",
-    "english": "To stand",
-    "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​"
+    "hindi": "वह",
+    "transliteration": "vah",
+    "english": "He / She",
+    "vietnamese": "Anh ấy / Cô ấy",
+    "audio": "वह"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'इश्क़'",
-    "prompt_en": "Choose correct translation for 'इश्क़'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
-    "text": "इश्क़",
-    "subtext": "ishq",
-    "answer": "Love (intense)",
-    "answer_vi": "Tình yêu sâu đậm",
+    "prompt": "Which auxiliary verb pairs with 'मैं' (I)?",
+    "prompt_en": "Choose correct marker for 'मैं'",
+    "prompt_vi": "Chọn động từ liên kết đúng cho 'मैं'",
+    "text": "मैं",
+    "subtext": "main",
+    "answer": "हूँ",
     "options": [
-      "Love (intense)",
-      "Heart",
-      "City",
-      "To stand"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Trái tim",
-      "Thành phố",
-      "Đứng"
+      "हूँ",
+      "है",
+      "हो",
+      "हैं"
     ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "इश्क़",
-        "english": "Love (intense) (Tình yêu sâu đậm)"
-      },
-      {
-        "hindi": "दिल",
-        "english": "Heart (Trái tim)"
-      },
-      {
-        "hindi": "शहर",
-        "english": "City (Thành phố)"
-      },
-      {
-        "hindi": "खड़े होना​​​​​​​​​​​​",
-        "english": "To stand (Đứng)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: शहर​​​​​​.",
-    "simpleRule": "Remember: शहर​​​​​​ means City (Thành phố)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "शहर​​​​​​",
-    "transliteration": "shahar",
-    "english": "City",
-    "vietnamese": "Thành phố",
-    "audio": "शहर​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "खरीदना​​​​​",
-    "transliteration": "kharīdnā",
-    "english": "To buy",
-    "vietnamese": "Mua",
-    "audio": "खरीदना​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "देखना​​​​",
-    "transliteration": "dekhnā",
-    "english": "To see / watch",
-    "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "आँखें",
-    "transliteration": "aankhein",
-    "english": "Eyes",
-    "vietnamese": "Đôi mắt",
-    "audio": "आँखें"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'शहर​​​​​​'",
-    "prompt_en": "Choose correct translation for 'शहर​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'शहर​​​​​​'",
-    "text": "शहर​​​​​​",
-    "subtext": "shahar",
-    "answer": "City",
-    "answer_vi": "Thành phố",
+    "prompt": "Which auxiliary verb pairs with 'आप' (You formal)?",
+    "prompt_en": "Choose correct marker for 'आप'",
+    "prompt_vi": "Chọn động từ liên kết đúng cho 'आप'",
+    "text": "आप",
+    "subtext": "aap",
+    "answer": "हैं",
     "options": [
-      "City",
-      "To buy",
-      "To see / watch",
-      "Eyes"
-    ],
-    "options_vi": [
-      "Thành phố",
-      "Mua",
-      "Nhìn / Xem",
-      "Đôi mắt"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "शहर​​​​​​",
-        "english": "City (Thành phố)"
-      },
-      {
-        "hindi": "खरीदना​​​​​",
-        "english": "To buy (Mua)"
-      },
-      {
-        "hindi": "देखना​​​​",
-        "english": "To see / watch (Nhìn / Xem)"
-      },
-      {
-        "hindi": "आँखें",
-        "english": "Eyes (Đôi mắt)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "इश्क़",
-    "translation_en": "Love (intense)",
-    "translation_vi": "Tình yêu sâu đậm",
-    "options_en": [
-      "Love (intense)",
-      "Heart",
-      "City",
-      "To stand"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Trái tim",
-      "Thành phố",
-      "Đứng"
+      "हैं",
+      "है",
+      "हूँ",
+      "हो"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
+    "englishSentence": "I am / Tôi là",
     "hindiWords": [
-      "यह",
-      "एक",
-      "इश्क़",
-      "है"
+      "हूँ",
+      "मैं"
     ],
-    "correctHindiSentence": "यह एक इश्क़ है"
+    "correctHindiSentence": "मैं हूँ"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see Heart / Tôi thấy Trái tim",
+    "englishSentence": "He/She is / Anh ấy/Cô ấy là",
     "hindiWords": [
-      "मैं",
-      "दिल",
-      "देखता",
-      "हूँ"
+      "है",
+      "वह"
     ],
-    "correctHindiSentence": "मैं दिल देखता हूँ"
+    "correctHindiSentence": "वह है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
+    "title": "Pronouns Mastery",
     "takeaways": [
-      "You learned: इश्क़, आँखें",
-      "Practiced constructing sentences."
+      "Identified main subject pronouns: मैं, तुम, आप, वह.",
+      "Learned how to pair pronouns with हूँ, हो, हैं, है."
     ]
   }
 ]

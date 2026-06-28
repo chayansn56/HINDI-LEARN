@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "खेलना​​​​​​​​​​​",
+    "hindi": "खेलना",
     "transliteration": "khelnā",
     "english": "To play",
     "vietnamese": "Chơi",
-    "audio": "खेलना​​​​​​​​​​​"
+    "audio": "खेलना"
   },
   {
     "type": "MultipleChoice",
@@ -84,7 +84,7 @@
         "english": "How much is it? (Bao nhiêu tiền?)"
       },
       {
-        "hindi": "खेलना​​​​​​​​​​​",
+        "hindi": "खेलना",
         "english": "To play (Chơi)"
       }
     ]
@@ -92,47 +92,47 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​.",
-    "simpleRule": "Remember: बोलना​​​​​​​​ means To speak (Nói)."
+    "explanation": "Understand the usage and roots of: बोलना.",
+    "simpleRule": "Remember: बोलना means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
-    "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बैठना",
     "transliteration": "baiṭhnā",
     "english": "To sit",
     "vietnamese": "Ngồi",
-    "audio": "बैठना​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बैठना"
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​",
+    "hindi": "रोना",
     "transliteration": "ronā",
     "english": "To cry",
     "vietnamese": "Khóc",
-    "audio": "रोना​​"
+    "audio": "रोना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​'",
-    "text": "बोलना​​​​​​​​",
+    "prompt": "Translate 'बोलना'",
+    "prompt_en": "Choose correct translation for 'बोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना'",
+    "text": "बोलना",
     "subtext": "bolnā",
     "answer": "To speak",
     "answer_vi": "Nói",
@@ -154,19 +154,19 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बोलना​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
-        "hindi": "पैसा​​​​​​",
+        "hindi": "पैसा",
         "english": "Money (Tiền)"
       },
       {
-        "hindi": "बैठना​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बैठना",
         "english": "To sit (Ngồi)"
       },
       {
-        "hindi": "रोना​​",
+        "hindi": "रोना",
         "english": "To cry (Khóc)"
       }
     ]
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, रोना​​",
+      "You learned: इश्क़, रोना",
       "Practiced constructing sentences."
     ]
   }

@@ -1,222 +1,90 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Level 3",
-    "description": "Master the vocabulary and grammar for: Gram - Level 3. Read the key points carefully.",
+    "title": "Grammar Level 3: Grammatical Gender",
+    "description": "Every noun in Hindi has a grammatical gender (Masculine or Feminine). Adjectives must change their endings to agree with the noun's gender.",
     "keyPoints": [
-      "Learn gram concepts."
+      "Masculine nouns often end in -ā (e.g., लड़का - boy). Adjectives end in -ā (बड़ा लड़का).",
+      "Feminine nouns often end in -ī (e.g., लड़की - girl). Adjectives end in -ī (बड़ी लड़की)."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: इश्क़.",
-    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
+    "title": "Adjective Agreement",
+    "explanation": "To describe a masculine noun like 'कमरा' (room), the adjective 'बड़ा' (big) ends in -ā. For a feminine noun like 'किताब' (book), it changes to 'बड़ी'.",
+    "simpleRule": "Match the adjective suffix (-ā for masculine, -ī for feminine) to the noun's gender."
   },
   {
     "type": "Flashcard",
-    "hindi": "इश्क़",
-    "transliteration": "ishq",
-    "english": "Love (intense)",
-    "vietnamese": "Tình yêu sâu đậm",
-    "audio": "इश्क़"
+    "hindi": "बड़ा",
+    "transliteration": "baṛā",
+    "english": "Big (Masculine)",
+    "vietnamese": "Lớn (Giống đực)",
+    "audio": "बड़ा"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "pūchnā",
-    "english": "To ask",
-    "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "hindi": "बड़ी",
+    "transliteration": "baṛī",
+    "english": "Big (Feminine)",
+    "vietnamese": "Lớn (Giống cái)",
+    "audio": "बड़ी"
   },
   {
     "type": "Flashcard",
-    "hindi": "भाषा",
-    "transliteration": "bhasha",
-    "english": "Language",
-    "vietnamese": "Ngôn ngữ",
-    "audio": "भाषा"
+    "hindi": "कमरा",
+    "transliteration": "kamrā",
+    "english": "Room (Masculine)",
+    "vietnamese": "Phòng (Giống đực)",
+    "audio": "कमरा"
   },
   {
     "type": "Flashcard",
-    "hindi": "सड़क​",
-    "transliteration": "saṛak",
-    "english": "Road",
-    "vietnamese": "Đường",
-    "audio": "सड़क​"
+    "hindi": "किताब",
+    "transliteration": "kitāb",
+    "english": "Book (Feminine)",
+    "vietnamese": "Sách (Giống cái)",
+    "audio": "किताब"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'इश्क़'",
-    "prompt_en": "Choose correct translation for 'इश्क़'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
-    "text": "इश्क़",
-    "subtext": "ishq",
-    "answer": "Love (intense)",
-    "answer_vi": "Tình yêu sâu đậm",
+    "prompt": "Which adjective matches 'किताब' (Book - Feminine)?",
+    "prompt_en": "Choose correct adjective agreement",
+    "prompt_vi": "Chọn sự hòa hợp tính từ đúng",
+    "text": "किताब",
+    "subtext": "kitāb",
+    "answer": "बड़ी",
     "options": [
-      "Love (intense)",
-      "To ask",
-      "Language",
-      "Road"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Hỏi",
-      "Ngôn ngữ",
-      "Đường"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "इश्क़",
-        "english": "Love (intense) (Tình yêu sâu đậm)"
-      },
-      {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
-      },
-      {
-        "hindi": "भाषा",
-        "english": "Language (Ngôn ngữ)"
-      },
-      {
-        "hindi": "सड़क​",
-        "english": "Road (Đường)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: तारीख.",
-    "simpleRule": "Remember: तारीख means Date (Ngày tháng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "तारीख",
-    "transliteration": "taareekh",
-    "english": "Date",
-    "vietnamese": "Ngày tháng",
-    "audio": "तारीख"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बग़ीचा​",
-    "transliteration": "bagīcā",
-    "english": "Garden",
-    "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बारिश​​​​​​​",
-    "transliteration": "bārish",
-    "english": "Rain",
-    "vietnamese": "Cơn mưa",
-    "audio": "बारिश​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "तुमसे",
-    "transliteration": "tumse",
-    "english": "From you / With you",
-    "vietnamese": "Từ bạn / Với bạn",
-    "audio": "तुमसे"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'तारीख'",
-    "prompt_en": "Choose correct translation for 'तारीख'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'तारीख'",
-    "text": "तारीख",
-    "subtext": "taareekh",
-    "answer": "Date",
-    "answer_vi": "Ngày tháng",
-    "options": [
-      "Date",
-      "Garden",
-      "Rain",
-      "From you / With you"
-    ],
-    "options_vi": [
-      "Ngày tháng",
-      "Khu vườn",
-      "Cơn mưa",
-      "Từ bạn / Với bạn"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "तारीख",
-        "english": "Date (Ngày tháng)"
-      },
-      {
-        "hindi": "बग़ीचा​",
-        "english": "Garden (Khu vườn)"
-      },
-      {
-        "hindi": "बारिश​​​​​​​",
-        "english": "Rain (Cơn mưa)"
-      },
-      {
-        "hindi": "तुमसे",
-        "english": "From you / With you (Từ bạn / Với bạn)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "इश्क़",
-    "translation_en": "Love (intense)",
-    "translation_vi": "Tình yêu sâu đậm",
-    "options_en": [
-      "Love (intense)",
-      "To ask",
-      "Language",
-      "Road"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Hỏi",
-      "Ngôn ngữ",
-      "Đường"
+      "बड़ी",
+      "बड़ा",
+      "बड़े",
+      "छोटा"
     ]
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
+    "englishSentence": "Big room / Phòng lớn",
     "hindiWords": [
-      "यह",
-      "एक",
-      "इश्क़",
-      "है"
+      "बड़ा",
+      "कमरा"
     ],
-    "correctHindiSentence": "यह एक इश्क़ है"
+    "correctHindiSentence": "बड़ा कमरा"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "I see To ask / Tôi thấy Hỏi",
+    "englishSentence": "Big book / Sách lớn",
     "hindiWords": [
-      "मैं",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देखता",
-      "हूँ"
+      "बड़ी",
+      "किताब"
     ],
-    "correctHindiSentence": "मैं पूछना​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "बड़ी किताब"
   },
   {
     "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
+    "title": "Gender Agreement Mastery",
     "takeaways": [
-      "You learned: इश्क़, तुमसे",
-      "Practiced constructing sentences."
+      "Learned that nouns have genders.",
+      "Modified adjectives based on masculine (-ā) or feminine (-ī) endings."
     ]
   }
 ]

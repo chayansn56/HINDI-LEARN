@@ -92,16 +92,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: sिखाना​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: sिखाना​​​​​​​​​​​​​​​​​​​​ means To teach (Dạy)."
+    "explanation": "Understand the usage and roots of: sिखाना.",
+    "simpleRule": "Remember: sिखाना means To teach (Dạy)."
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​"
+    "audio": "sिखाना"
   },
   {
     "type": "Flashcard",
@@ -113,26 +113,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सोना",
     "transliteration": "sonā",
     "english": "To sleep",
     "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सोना"
   },
   {
     "type": "Flashcard",
-    "hindi": "चाँदी​​​​​",
+    "hindi": "चाँदी",
     "transliteration": "cā̃dī",
     "english": "Silver",
     "vietnamese": "Bạc",
-    "audio": "चाँदी​​​​​"
+    "audio": "चाँदी"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'sिखाना​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'sिखाना​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​​​​​​​​​​​​​​​​​​​​'",
-    "text": "sिखाना​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'sिखाना'",
+    "prompt_en": "Choose correct translation for 'sिखाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना'",
+    "text": "sिखाना",
     "subtext": "sikhānā",
     "answer": "To teach",
     "answer_vi": "Dạy",
@@ -154,7 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "sिखाना",
         "english": "To teach (Dạy)"
       },
       {
@@ -162,11 +162,11 @@
         "english": "Letter / Character (Chữ cái / Ký tự)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सोना",
         "english": "To sleep (Ngủ)"
       },
       {
-        "hindi": "चाँदी​​​​​",
+        "hindi": "चाँदी",
         "english": "Silver (Bạc)"
       }
     ]
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, चाँदी​​​​​",
+      "You learned: इश्क़, चाँदी",
       "Practiced constructing sentences."
     ]
   }

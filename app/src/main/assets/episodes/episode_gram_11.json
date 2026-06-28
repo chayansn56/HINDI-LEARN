@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "जागना",
     "transliteration": "jāgnā",
     "english": "To wake up",
     "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "जागना"
   },
   {
     "type": "Flashcard",
@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खेलना",
     "transliteration": "khelnā",
     "english": "To play",
     "vietnamese": "Chơi",
-    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खेलना"
   },
   {
     "type": "MultipleChoice",
@@ -76,7 +76,7 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "जागना",
         "english": "To wake up (Thức dậy)"
       },
       {
@@ -84,7 +84,7 @@
         "english": "Good night (Chúc ngủ ngon)"
       },
       {
-        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खेलना",
         "english": "To play (Chơi)"
       }
     ]
@@ -105,19 +105,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
@@ -158,11 +158,11 @@
         "english": "Flatbread (Bánh mì dẹt)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
@@ -205,11 +205,11 @@
     "englishSentence": "I see To wake up / Tôi thấy Thức dậy",
     "hindiWords": [
       "मैं",
-      "जागना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "जागना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं जागना​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं जागना देखता हूँ"
   },
   {
     "type": "RevisionSummary",

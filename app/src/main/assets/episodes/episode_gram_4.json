@@ -1,222 +1,71 @@
 [
   {
     "type": "Introduction",
-    "title": "Gram - Level 4",
-    "description": "Master the vocabulary and grammar for: Gram - Level 4. Read the key points carefully.",
+    "title": "Grammar Level 4: Present Continuous",
+    "description": "Learn to describe actions happening right now using the continuous markers रहा है (masculine) and रही है (feminine).",
     "keyPoints": [
-      "Learn gram concepts."
+      "Formula: [Verb Stem] + रहा/रही/रहे + हूँ/है/हो/हैं.",
+      "Example: 'जा रहा है' means 'He is going'."
     ]
   },
   {
     "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: इश्क़.",
-    "simpleRule": "Remember: इश्क़ means Love (intense) (Tình yêu sâu đậm)."
+    "title": "Forming Continuous Actions",
+    "explanation": "Take the verb root (e.g. जा from जाना - to go), add 'रहा' for masculine subject or 'रही' for feminine subject, then add the appropriate present tense auxiliary.",
+    "simpleRule": "Root + रहा/रही + 'To Be' auxiliary."
   },
   {
     "type": "Flashcard",
-    "hindi": "इश्क़",
-    "transliteration": "ishq",
-    "english": "Love (intense)",
-    "vietnamese": "Tình yêu sâu đậm",
-    "audio": "इश्क़"
+    "hindi": "जाना",
+    "transliteration": "jānā",
+    "english": "To go",
+    "vietnamese": "Đi",
+    "audio": "जाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​",
-    "transliteration": "sunnā",
-    "english": "To listen / hear",
-    "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​"
+    "hindi": "खा रहा है",
+    "transliteration": "khā rahā hai",
+    "english": "Eating (Masculine)",
+    "vietnamese": "Đang ăn (Giống đực)",
+    "audio": "खा रहा है"
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​​​​​​​​",
-    "transliteration": "bādal",
-    "english": "Cloud",
-    "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "आग​​​​​​​",
-    "transliteration": "āg",
-    "english": "Fire",
-    "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'इश्क़'",
-    "prompt_en": "Choose correct translation for 'इश्क़'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'इश्क़'",
-    "text": "इश्क़",
-    "subtext": "ishq",
-    "answer": "Love (intense)",
-    "answer_vi": "Tình yêu sâu đậm",
-    "options": [
-      "Love (intense)",
-      "To listen / hear",
-      "Cloud",
-      "Fire"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Nghe",
-      "Đám mây",
-      "Lửa"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "इश्क़",
-        "english": "Love (intense) (Tình yêu sâu đậm)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "बादल​​​​​​​​​",
-        "english": "Cloud (Đám mây)"
-      },
-      {
-        "hindi": "आग​​​​​​​",
-        "english": "Fire (Lửa)"
-      }
-    ]
-  },
-  {
-    "type": "TeachRule",
-    "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To close (Đóng)."
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "band karnā",
-    "english": "To close",
-    "vietnamese": "Đóng",
-    "audio": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "तीर्थयात्रा",
-    "transliteration": "teerthyaatra",
-    "english": "Pilgrimage",
-    "vietnamese": "Cuộc hành hương",
-    "audio": "तीर्थयात्रा"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "बैठना​​​​​​​​​​​",
-    "transliteration": "baiṭhnā",
-    "english": "To sit",
-    "vietnamese": "Ngồi",
-    "audio": "बैठना​​​​​​​​​​​"
-  },
-  {
-    "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "transliteration": "ronā",
-    "english": "To cry",
-    "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
-  },
-  {
-    "type": "MultipleChoice",
-    "prompt": "Translate 'बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-    "subtext": "band karnā",
-    "answer": "To close",
-    "answer_vi": "Đóng",
-    "options": [
-      "To close",
-      "Pilgrimage",
-      "To sit",
-      "To cry"
-    ],
-    "options_vi": [
-      "Đóng",
-      "Cuộc hành hương",
-      "Ngồi",
-      "Khóc"
-    ]
-  },
-  {
-    "type": "MatchPairs",
-    "instruction": "Match all the words with their meanings",
-    "pairs": [
-      {
-        "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To close (Đóng)"
-      },
-      {
-        "hindi": "तीर्थयात्रा",
-        "english": "Pilgrimage (Cuộc hành hương)"
-      },
-      {
-        "hindi": "बैठना​​​​​​​​​​​",
-        "english": "To sit (Ngồi)"
-      },
-      {
-        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To cry (Khóc)"
-      }
-    ]
-  },
-  {
-    "type": "Listening",
-    "audio": "इश्क़",
-    "translation_en": "Love (intense)",
-    "translation_vi": "Tình yêu sâu đậm",
-    "options_en": [
-      "Love (intense)",
-      "To listen / hear",
-      "Cloud",
-      "Fire"
-    ],
-    "options_vi": [
-      "Tình yêu sâu đậm",
-      "Nghe",
-      "Đám mây",
-      "Lửa"
-    ]
+    "hindi": "खा रही है",
+    "transliteration": "khā rahī hai",
+    "english": "Eating (Feminine)",
+    "vietnamese": "Đang ăn (Giống cái)",
+    "audio": "खा रही है"
   },
   {
     "type": "SentenceBuilder",
-    "englishSentence": "This is a Love (intense) / Đây là Tình yêu sâu đậm",
-    "hindiWords": [
-      "यह",
-      "एक",
-      "इश्क़",
-      "है"
-    ],
-    "correctHindiSentence": "यह एक इश्क़ है"
-  },
-  {
-    "type": "SentenceBuilder",
-    "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
+    "englishSentence": "I am eating (Masculine) / Tôi đang ăn",
     "hindiWords": [
       "मैं",
-      "सुनना​​​​​​​​​​​",
-      "देखता",
+      "खा",
+      "रहा",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सुनना​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं खा रहा हूँ"
+  },
+  {
+    "type": "SentenceBuilder",
+    "englishSentence": "She is going / Cô ấy đang đi",
+    "hindiWords": [
+      "वह",
+      "जा",
+      "रही",
+      "है"
+    ],
+    "correctHindiSentence": "वह जा रही है"
   },
   {
     "type": "RevisionSummary",
-    "title": "Subgroup Mastered!",
+    "title": "Continuous Mastery",
     "takeaways": [
-      "You learned: इश्क़, रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "Practiced constructing sentences."
+      "Learned to form the present continuous tense.",
+      "Practiced gender-based aspect markers (रहा / रही)."
     ]
   }
 ]

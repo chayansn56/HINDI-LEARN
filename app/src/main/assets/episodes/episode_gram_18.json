@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बेचना​​​​​​​​​​​​​​​",
+    "hindi": "बेचना",
     "transliteration": "becnā",
     "english": "To sell",
     "vietnamese": "Bán",
-    "audio": "बेचना​​​​​​​​​​​​​​​"
+    "audio": "बेचना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​"
+    "audio": "sिखाना"
   },
   {
     "type": "MultipleChoice",
@@ -76,15 +76,15 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "बेचना​​​​​​​​​​​​​​​",
+        "hindi": "बेचना",
         "english": "To sell (Bán)"
       },
       {
-        "hindi": "लिखना​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​",
+        "hindi": "sिखाना",
         "english": "To teach (Dạy)"
       }
     ]
@@ -92,32 +92,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: तारा​​​.",
-    "simpleRule": "Remember: तारा​​​ means Star (Ngôi sao)."
+    "explanation": "Understand the usage and roots of: तारा.",
+    "simpleRule": "Remember: तारा means Star (Ngôi sao)."
   },
   {
     "type": "Flashcard",
-    "hindi": "तारा​​​",
+    "hindi": "तारा",
     "transliteration": "tārā",
     "english": "Star",
     "vietnamese": "Ngôi sao",
-    "audio": "तारा​​​"
+    "audio": "तारा"
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सोना",
     "transliteration": "sonā",
     "english": "Gold",
     "vietnamese": "Vàng",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सोना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "Flashcard",
@@ -129,10 +129,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'तारा​​​'",
-    "prompt_en": "Choose correct translation for 'तारा​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'तारा​​​'",
-    "text": "तारा​​​",
+    "prompt": "Translate 'तारा'",
+    "prompt_en": "Choose correct translation for 'तारा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'तारा'",
+    "text": "तारा",
     "subtext": "tārā",
     "answer": "Star",
     "answer_vi": "Ngôi sao",
@@ -154,15 +154,15 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "तारा​​​",
+        "hindi": "तारा",
         "english": "Star (Ngôi sao)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सोना",
         "english": "Gold (Vàng)"
       },
       {
-        "hindi": "पूछना​​​​​​",
+        "hindi": "पूछना",
         "english": "To ask (Hỏi)"
       },
       {
@@ -205,11 +205,11 @@
     "englishSentence": "I see To sell / Tôi thấy Bán",
     "hindiWords": [
       "मैं",
-      "बेचना​​​​​​​​​​​​​​​",
+      "बेचना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं बेचना​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं बेचना देखता हूँ"
   },
   {
     "type": "RevisionSummary",

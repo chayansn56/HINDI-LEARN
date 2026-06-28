@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "चलना",
     "transliteration": "calnā",
     "english": "To walk / move",
     "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "चलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "नदी​​​​​​​",
+    "hindi": "नदी",
     "transliteration": "nadī",
     "english": "River",
     "vietnamese": "Con sông",
-    "audio": "नदी​​​​​​​"
+    "audio": "नदी"
   },
   {
     "type": "Flashcard",
-    "hindi": "देना​​​​​​​​​​​​​​​",
+    "hindi": "देना",
     "transliteration": "denā",
     "english": "To give",
     "vietnamese": "Cho / Tặng",
-    "audio": "देना​​​​​​​​​​​​​​​"
+    "audio": "देना"
   },
   {
     "type": "MultipleChoice",
@@ -76,15 +76,15 @@
         "english": "Love (intense) (Tình yêu sâu đậm)"
       },
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "चलना",
         "english": "To walk / move (Đi bộ / Di chuyển)"
       },
       {
-        "hindi": "नदी​​​​​​​",
+        "hindi": "नदी",
         "english": "River (Con sông)"
       },
       {
-        "hindi": "देना​​​​​​​​​​​​​​​",
+        "hindi": "देना",
         "english": "To give (Cho / Tặng)"
       }
     ]
@@ -92,16 +92,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: काम करना​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: काम करना​​​​​​​​​​​​​​​​​​​​​​​​ means To work (Làm việc)."
+    "explanation": "Understand the usage and roots of: काम करना.",
+    "simpleRule": "Remember: काम करना means To work (Làm việc)."
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "काम करना",
     "transliteration": "kām karnā",
     "english": "To work",
     "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "काम करना"
   },
   {
     "type": "Flashcard",
@@ -113,26 +113,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सोना",
     "transliteration": "sonā",
     "english": "To sleep",
     "vietnamese": "Ngủ",
-    "audio": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सोना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'काम करना​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'काम करना'",
+    "prompt_en": "Choose correct translation for 'काम करना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'काम करना'",
+    "text": "काम करना",
     "subtext": "kām karnā",
     "answer": "To work",
     "answer_vi": "Làm việc",
@@ -154,7 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "काम करना",
         "english": "To work (Làm việc)"
       },
       {
@@ -162,11 +162,11 @@
         "english": "Service (Dịch vụ)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सोना",
         "english": "To sleep (Ngủ)"
       },
       {
-        "hindi": "पूछना​​​​​​​​",
+        "hindi": "पूछना",
         "english": "To ask (Hỏi)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see To walk / move / Tôi thấy Đi bộ / Di chuyển",
     "hindiWords": [
       "मैं",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं चलना​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं चलना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: इश्क़, पूछना​​​​​​​​",
+      "You learned: इश्क़, पूछना",
       "Practiced constructing sentences."
     ]
   }
