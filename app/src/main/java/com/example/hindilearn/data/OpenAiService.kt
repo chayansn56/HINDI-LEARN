@@ -30,7 +30,7 @@ object OpenAiService {
     ): String? = withContext(Dispatchers.IO) {
         try {
             val requestBody = JSONObject()
-            requestBody.put("model", "nvidia/nemotron-3-ultra-550b-a55b")
+            requestBody.put("model", "meta/llama-3.1-8b-instruct")
             requestBody.put("temperature", 0.7)
 
             val messagesArray = JSONArray()
@@ -68,7 +68,7 @@ object OpenAiService {
             } else {
                 return@withContext "Error: API returned code ${response.code} - $responseBodyString"
             }
-        } catch (e: Exception) {
+        } catch (e: Throwable) {
             e.printStackTrace()
             return@withContext "Error: ${e.message}"
         }
@@ -78,7 +78,7 @@ object OpenAiService {
     suspend fun gradePronunciation(targetSentence: String, userSpokenText: String): Triple<String, Int, String>? = withContext(Dispatchers.IO) {
         try {
             val requestBody = JSONObject()
-            requestBody.put("model", "nvidia/nemotron-3-ultra-550b-a55b")
+            requestBody.put("model", "meta/llama-3.1-8b-instruct")
             requestBody.put("temperature", 0.3)
             requestBody.put("response_format", JSONObject().put("type", "json_object"))
             
@@ -140,7 +140,7 @@ object OpenAiService {
                     }
                 }
             }
-        } catch (e: Exception) {
+        } catch (e: Throwable) {
             e.printStackTrace()
         }
         return@withContext null

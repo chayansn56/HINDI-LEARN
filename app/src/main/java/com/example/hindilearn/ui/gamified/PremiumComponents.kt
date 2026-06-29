@@ -3,6 +3,7 @@ package com.example.hindilearn.ui.gamified
 import androidx.compose.animation.animateColor
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.foundation.interaction.collectIsPressedAsState
 import androidx.compose.foundation.layout.*
@@ -89,33 +90,45 @@ fun PremiumBackground(content: @Composable BoxScope.() -> Unit) {
     )
 }
 
-// Glassmorphism Card with 32dp corners and soft shadow
+// Glassmorphism Card with Apple-inspired liquid glass styling
 @Composable
 fun GlassCard(
     modifier: Modifier = Modifier,
-    shape: Shape = RoundedCornerShape(32.dp),
-    containerColor: Color = Color.Unspecified, // Evaluated inside
+    shape: Shape = RoundedCornerShape(24.dp),
+    containerColor: Color = Color.Unspecified,
     content: @Composable () -> Unit
 ) {
-    val isDark = isSystemInDarkTheme()
+    val isDark = androidx.compose.foundation.isSystemInDarkTheme()
+    val baseColor = if (isDark) {
+        Color(0x4D1A1A1A) // Dark translucent
+    } else {
+        Color(0xA6FFFFFF) // Light translucent
+    }
+    val backgroundColor = if (containerColor != Color.Unspecified) {
+        containerColor.copy(alpha = 0.25f)
+    } else {
+        baseColor
+    }
     
+    val borderBrush = Brush.linearGradient(
+        colors = if (isDark) {
+            listOf(Color(0x33FFFFFF), Color(0x0DFFFFFF))
+        } else {
+            listOf(Color(0x4DFFFFFF), Color(0x1A000000))
+        }
+    )
+
     Box(
         modifier = modifier
             .shadow(
-                elevation = 12.dp,
-                shape = RoundedCornerShape(24.dp),
-                spotColor = Color.Black.copy(alpha = 0.2f)
+                elevation = 8.dp,
+                shape = shape,
+                clip = false,
+                spotColor = Color.Black.copy(alpha = 0.08f)
             )
-            .clip(RoundedCornerShape(24.dp))
-            .background(
-                Brush.linearGradient(
-                    colors = listOf(
-                        SurfaceTranslucent.copy(alpha = 0.4f),
-                        SurfaceTranslucent.copy(alpha = 0.1f)
-                    )
-                )
-            )
-            .background(if (isDark) SurfaceDarkTranslucent else SurfaceTranslucent)
+            .clip(shape)
+            .background(backgroundColor)
+            .border(1.dp, borderBrush, shape)
     ) {
         content()
     }

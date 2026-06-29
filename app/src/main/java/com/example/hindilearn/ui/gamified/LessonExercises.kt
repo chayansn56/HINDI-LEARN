@@ -8,6 +8,7 @@ import androidx.compose.animation.slideInVertically
 import androidx.compose.animation.slideOutVertically
 import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.gestures.detectDragGestures
 import androidx.compose.foundation.layout.*
@@ -1421,36 +1422,46 @@ fun MatchCard(
     isError: Boolean,
     onClick: () -> Unit
 ) {
+    val isDark = androidx.compose.foundation.isSystemInDarkTheme()
     val bgColor = when {
-        isError -> com.example.hindilearn.theme.SoftRed
-        isMatched -> Color.LightGray.copy(alpha = 0.5f)
-        isSelected -> com.example.hindilearn.theme.PremiumGold.copy(alpha = 0.5f)
-        else -> MaterialTheme.colorScheme.surfaceVariant
+        isError -> com.example.hindilearn.theme.SoftRed.copy(alpha = 0.15f)
+        isMatched -> com.example.hindilearn.theme.SoftGreen.copy(alpha = 0.15f)
+        isSelected -> com.example.hindilearn.theme.DeepSaffron.copy(alpha = 0.15f)
+        else -> MaterialTheme.colorScheme.surface
     }
+    
+    val borderColor = when {
+        isError -> com.example.hindilearn.theme.SoftRed
+        isMatched -> com.example.hindilearn.theme.SoftGreen
+        isSelected -> com.example.hindilearn.theme.DeepSaffron
+        else -> if (isDark) Color(0x33FFFFFF) else Color(0x1A000000)
+    }
+
     val textColor = when {
-        isError -> Color.White
-        isMatched -> Color.Gray
-        isSelected -> MaterialTheme.colorScheme.onSurface
-        else -> MaterialTheme.colorScheme.onSurfaceVariant
+        isError -> com.example.hindilearn.theme.SoftRed
+        isMatched -> com.example.hindilearn.theme.SoftGreen
+        isSelected -> com.example.hindilearn.theme.DeepSaffron
+        else -> MaterialTheme.colorScheme.onSurface
     }
 
     Card(
         modifier = Modifier
             .fillMaxWidth()
             .height(64.dp)
-            .clickable(enabled = !isMatched, onClick = onClick),
+            .clickable(enabled = !isMatched, onClick = onClick)
+            .border(1.5.dp, borderColor, RoundedCornerShape(12.dp)),
         shape = RoundedCornerShape(12.dp),
         colors = CardDefaults.cardColors(containerColor = bgColor),
-        elevation = CardDefaults.cardElevation(defaultElevation = if (isMatched) 0.dp else 4.dp)
+        elevation = CardDefaults.cardElevation(defaultElevation = 0.dp)
     ) {
         Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
             Text(
                 text = text,
                 style = MaterialTheme.typography.bodyLarge,
-                fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Medium,
+                fontWeight = if (isSelected || isMatched) FontWeight.Bold else FontWeight.Medium,
                 color = textColor,
                 textAlign = TextAlign.Center,
-                modifier = Modifier.padding(horizontal = 8.dp)
+                modifier = Modifier.padding(8.dp)
             )
         }
     }

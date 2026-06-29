@@ -89,7 +89,7 @@ fun ScenarioSelection(isVi: Boolean, onSelect: (String) -> Unit) {
             Card(
                 onClick = { onSelect(scenario) },
                 modifier = Modifier.fillMaxWidth().padding(bottom = 16.dp),
-                colors = CardDefaults.cardColors(containerColor = Color.White),
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
                 shape = RoundedCornerShape(16.dp),
                 elevation = CardDefaults.cardElevation(defaultElevation = 2.dp)
             ) {
@@ -346,12 +346,12 @@ fun ChatBubble(message: ChatMessage) {
                     bottomStart = if (message.isUser) 16.dp else 0.dp, 
                     bottomEnd = if (message.isUser) 0.dp else 16.dp
                 ))
-                .background(if (message.isUser) DeepSaffron else Color.White)
+                .background(if (message.isUser) DeepSaffron else MaterialTheme.colorScheme.surfaceVariant)
                 .padding(12.dp)
         ) {
             Text(
                 text = message.text,
-                color = if (message.isUser) Color.White else TextDark,
+                color = if (message.isUser) Color.White else MaterialTheme.colorScheme.onSurface,
                 style = MaterialTheme.typography.bodyLarge
             )
         }
