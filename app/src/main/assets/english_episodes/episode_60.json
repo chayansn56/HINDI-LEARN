@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Cho họ / Cho ngài ấy."
       },
       {
-        "hindi": "Later, you encounter a Cloud (बादल​​​).",
+        "hindi": "Later, you encounter a Cloud (बादल).",
         "translation": "Sau đó, bạn gặp một Đám mây."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       }
     ]
   },
@@ -186,11 +186,11 @@
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Manager",
@@ -268,7 +268,7 @@
       },
       {
         "hindi": "River",
-        "english": "नदी​​​​​​ (Con sông)"
+        "english": "नदी (Con sông)"
       },
       {
         "hindi": "What's up?",
@@ -276,7 +276,7 @@
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Cho họ / Cho ngài ấy",
     "options_en": [
       "उन्हें",
-      "बादल​​​",
-      "चलना​​​​​​​​​​",
-      "कापी​"
+      "बादल",
+      "चलना",
+      "कापी"
     ],
     "options_vi": [
       "Cho họ / Cho ngài ấy",

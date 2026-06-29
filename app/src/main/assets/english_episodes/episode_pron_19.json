@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Cloud",
       "To speak",
-      "To speak",
-      "To speak"
+      "Nghe",
+      "Đám mây"
     ],
     "options_vi": [
       "Đám mây",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -93,7 +85,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +132,7 @@
       "Cloud",
       "To listen / hear",
       "To speak",
-      "To speak"
+      "Đám mây"
     ],
     "options_vi": [
       "Đám mây",
@@ -155,19 +147,15 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -175,7 +163,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +208,9 @@
     "answer_vi": "Nói",
     "options": [
       "To speak",
-      "To speak",
-      "To speak",
-      "What do you say? / What's up?"
+      "What do you say? / What's up?",
+      "Ghi âm",
+      "To listen / hear"
     ],
     "options_vi": [
       "Nói",
@@ -237,15 +225,7 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "What do you say? / What's up?",
@@ -257,7 +237,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -319,11 +299,11 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Listen to me.",
@@ -331,20 +311,20 @@
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Cloud",
-    "translation_en": "बादल​​​",
+    "translation_en": "बादल",
     "translation_vi": "Đám mây",
     "options_en": [
-      "बादल​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "बादल",
+      "बोलना",
+      "बोलना",
+      "बोलना"
     ],
     "options_vi": [
       "Đám mây",

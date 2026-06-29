@@ -77,15 +77,15 @@
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "Rain",
-        "english": "बारिश​​​​​​​​ (Cơn mưa)"
+        "english": "बारिश (Cơn mưa)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Mountain.",
-    "simpleRule": "Remember: Mountain means पहाड़​​ (Ngọn núi)."
+    "simpleRule": "Remember: Mountain means पहाड़ (Ngọn núi)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +139,8 @@
     "options": [
       "Mountain",
       "To ask",
-      "To ask",
-      "Cloud"
+      "Cloud",
+      "Rain"
     ],
     "options_vi": [
       "Ngọn núi",
@@ -155,19 +155,15 @@
     "pairs": [
       {
         "hindi": "Mountain",
-        "english": "पहाड़​​ (Ngọn núi)"
+        "english": "पहाड़ (Ngọn núi)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
-      },
-      {
-        "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Road.",
-    "simpleRule": "Remember: Road means सड़क​​​​​​​ (Đường)."
+    "simpleRule": "Remember: Road means सड़क (Đường)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +233,7 @@
     "pairs": [
       {
         "hindi": "Road",
-        "english": "सड़क​​​​​​​ (Đường)"
+        "english": "सड़क (Đường)"
       },
       {
         "hindi": "His / Her (distant)",
@@ -245,11 +241,11 @@
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "Rain",
-        "english": "बारिश​ (Cơn mưa)"
+        "english": "बारिश (Cơn mưa)"
       }
     ]
   },
@@ -257,7 +253,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To stand.",
-    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)."
+    "simpleRule": "Remember: To stand means खड़े होना (Đứng)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +315,7 @@
     "pairs": [
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "I am getting late.",
@@ -342,9 +338,9 @@
     "translation_vi": "Áo dài nam Kurta",
     "options_en": [
       "कुर्ता",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "धोना​​​​​​​",
-      "बारिश​​​​​​​​"
+      "हँसना",
+      "धोना",
+      "बारिश"
     ],
     "options_vi": [
       "Áo dài nam Kurta",

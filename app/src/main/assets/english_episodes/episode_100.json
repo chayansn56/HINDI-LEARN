@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Ông / Ngài."
       },
       {
-        "hindi": "Later, you encounter a To tell / explain (बताना​​​​​).",
+        "hindi": "Later, you encounter a To tell / explain (बताना).",
         "translation": "Sau đó, bạn gặp một Kể / Giải thích."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       }
     ]
   },
@@ -166,8 +166,8 @@
     "options": [
       "Gold",
       "Yes",
-      "Gold",
-      "To make / build"
+      "To make / build",
+      "Excuse me"
     ],
     "options_vi": [
       "Vàng",
@@ -190,11 +190,11 @@
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -264,15 +264,15 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "River",
-        "english": "नदी​​​​​​​​​ (Con sông)"
+        "english": "नदी (Con sông)"
       },
       {
         "hindi": "GB (Gigabyte)",
@@ -287,9 +287,9 @@
     "translation_vi": "Ông / Ngài",
     "options_en": [
       "श्रीमान",
-      "बताना​​​​​",
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​"
+      "बताना",
+      "पूछना",
+      "चलना"
     ],
     "options_vi": [
       "Ông / Ngài",

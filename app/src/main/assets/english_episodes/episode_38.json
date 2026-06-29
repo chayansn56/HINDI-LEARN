@@ -13,11 +13,11 @@
     "title_vi": "Tập 38",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To stand (खड़े होना​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To stand (खड़े होना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Đứng."
       },
       {
-        "hindi": "Later, you encounter a To run (दौड़ना​​​​​).",
+        "hindi": "Later, you encounter a To run (दौड़ना).",
         "translation": "Sau đó, bạn gặp một Chạy."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To stand.",
-    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​ (Đứng)."
+    "simpleRule": "Remember: To stand means खड़े होना (Đứng)."
   },
   {
     "type": "Flashcard",
@@ -85,7 +85,7 @@
       "To stand",
       "To run",
       "Help",
-      "To stand"
+      "Thức dậy"
     ],
     "options_vi": [
       "Đứng",
@@ -100,19 +100,15 @@
     "pairs": [
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -186,15 +182,15 @@
       },
       {
         "hindi": "To work",
-        "english": "काम करना​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       }
     ]
   },
@@ -268,28 +264,28 @@
       },
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To stand",
-    "translation_en": "खड़े होना​​​​​​​​​​​​​​​​",
+    "translation_en": "खड़े होना",
     "translation_vi": "Đứng",
     "options_en": [
-      "खड़े होना​​​​​​​​​​​​​​​​",
-      "दौड़ना​​​​​",
-      "मदद​​​",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "खड़े होना",
+      "दौड़ना",
+      "मदद",
+      "खड़े होना"
     ],
     "options_vi": [
       "Đứng",

@@ -13,11 +13,11 @@
     "title_vi": "Tập 98",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To wake up (जागना​).",
+        "hindi": "You arrive at the new city. You see a To wake up (जागना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Thức dậy."
       },
       {
-        "hindi": "Later, you encounter a To stand (खड़े होना​​​​​).",
+        "hindi": "Later, you encounter a To stand (खड़े होना).",
         "translation": "Sau đó, bạn gặp một Đứng."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -100,11 +100,11 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "Blue",
@@ -112,7 +112,7 @@
       },
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To sit.",
-    "simpleRule": "Remember: To sit means बैठना​​​​​​​​​​​​​​​​​ (Ngồi)."
+    "simpleRule": "Remember: To sit means बैठना (Ngồi)."
   },
   {
     "type": "Flashcard",
@@ -166,8 +166,8 @@
     "options": [
       "To sit",
       "To wash",
-      "To sit",
-      "Henna / Mehndi"
+      "Henna / Mehndi",
+      "Hát"
     ],
     "options_vi": [
       "Ngồi",
@@ -182,15 +182,11 @@
     "pairs": [
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​ (Rửa / Giặt)"
-      },
-      {
-        "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "Henna / Mehndi",
@@ -202,7 +198,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To teach.",
-    "simpleRule": "Remember: To teach means sिखाना​​​​​​​​​​​​​​​​​​​​​​ (Dạy)."
+    "simpleRule": "Remember: To teach means sिखाना (Dạy)."
   },
   {
     "type": "Flashcard",
@@ -264,15 +260,15 @@
     "pairs": [
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "Water",
@@ -283,13 +279,13 @@
   {
     "type": "Listening",
     "audio": "To wake up",
-    "translation_en": "जागना​",
+    "translation_en": "जागना",
     "translation_vi": "Thức dậy",
     "options_en": [
-      "जागना​",
-      "खड़े होना​​​​​",
+      "जागना",
+      "खड़े होना",
       "नीला",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "रोना"
     ],
     "options_vi": [
       "Thức dậy",

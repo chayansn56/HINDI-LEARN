@@ -10,55 +10,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: खोलना​​​​​​​.",
-    "simpleRule": "Remember: खोलना​​​​​​​ means To open (Mở)."
+    "explanation": "Understand the usage and roots of: खोलना.",
+    "simpleRule": "Remember: खोलना means To open (Mở)."
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​",
+    "hindi": "खोलना",
     "transliteration": "kholnā",
     "english": "To open",
     "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​"
+    "audio": "खोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​​​​​​​",
+    "hindi": "खोलना",
     "transliteration": "kholnā",
     "english": "To open",
     "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​​​​​​​"
+    "audio": "खोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'खोलना​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'खोलना​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'खोलना​​​​​​​'",
-    "text": "खोलना​​​​​​​",
+    "prompt": "Translate 'खोलना'",
+    "prompt_en": "Choose correct translation for 'खोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खोलना'",
+    "text": "खोलना",
     "subtext": "kholnā",
     "answer": "To open",
     "answer_vi": "Mở",
     "options": [
       "To open",
       "To write",
-      "To open",
-      "To read"
+      "To read",
+      "Viết"
     ],
     "options_vi": [
       "Mở",
@@ -72,19 +72,15 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "खोलना​​​​​​​",
+        "hindi": "खोलना",
         "english": "To open (Mở)"
       },
       {
-        "hindi": "लिखना​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "खोलना​​​​​​​​​​​​​",
-        "english": "To open (Mở)"
-      },
-      {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       }
     ]
@@ -92,55 +88,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: पढ़ना​​​​​​​​​​​​.",
-    "simpleRule": "Remember: पढ़ना​​​​​​​​​​​​ means To read (Đọc)."
+    "explanation": "Understand the usage and roots of: पढ़ना.",
+    "simpleRule": "Remember: पढ़ना means To read (Đọc)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पेन​​​​",
+    "hindi": "पेन",
     "transliteration": "pen",
     "english": "Pen",
     "vietnamese": "Bút",
-    "audio": "पेन​​​​"
+    "audio": "पेन"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पढ़ना​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'पढ़ना​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पढ़ना​​​​​​​​​​​​'",
-    "text": "पढ़ना​​​​​​​​​​​​",
+    "prompt": "Translate 'पढ़ना'",
+    "prompt_en": "Choose correct translation for 'पढ़ना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पढ़ना'",
+    "text": "पढ़ना",
     "subtext": "paṛhnā",
     "answer": "To read",
     "answer_vi": "Đọc",
     "options": [
       "To read",
       "To write",
-      "To write",
-      "Pen"
+      "Pen",
+      "खोलना"
     ],
     "options_vi": [
       "Đọc",
@@ -154,26 +150,22 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To write (Viết)"
-      },
-      {
-        "hindi": "पेन​​​​",
+        "hindi": "पेन",
         "english": "Pen (Bút)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "खोलना​​​​​​​",
+    "audio": "खोलना",
     "translation_en": "To open",
     "translation_vi": "Mở",
     "options_en": [
@@ -195,27 +187,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "खोलना​​​​​​​",
+      "खोलना",
       "है"
     ],
-    "correctHindiSentence": "यह एक खोलना​​​​​​​ है"
+    "correctHindiSentence": "यह एक खोलना है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To write / Tôi thấy Viết",
     "hindiWords": [
       "मैं",
-      "लिखना​​​​​​​​",
+      "लिखना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं लिखना​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं लिखना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: खोलना​​​​​​​, पेन​​​​",
+      "You learned: खोलना, पेन",
       "Practiced constructing sentences."
     ]
   }

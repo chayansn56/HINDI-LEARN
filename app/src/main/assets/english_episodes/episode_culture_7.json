@@ -58,7 +58,7 @@
       "to drink",
       "To eat / Food",
       "Soil / Earth",
-      "Soil / Earth"
+      "Agentive particle"
     ],
     "options_vi": [
       "Uống",
@@ -81,11 +81,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "Soil / Earth",
       "Dance, my love",
       "Drinking water",
-      "Soil / Earth"
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Đất",
@@ -155,7 +151,7 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Dance, my love",
@@ -164,10 +160,6 @@
       {
         "hindi": "Drinking water",
         "english": "पीने का पानी (Nước uống)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​ (Đất)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​​​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "Soil / Earth",
       "Festival",
-      "Soil / Earth",
-      "Partnership"
+      "Partnership",
+      "Bạn có thể giúp tôi không?"
     ],
     "options_vi": [
       "Đất",
@@ -237,15 +229,11 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Festival",
         "english": "त्योहार (Lễ hội)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​ (Đất)"
       },
       {
         "hindi": "Partnership",
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +307,7 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Client / Customer",
@@ -343,8 +331,8 @@
     "options_en": [
       "पीना",
       "खाना",
-      "मिट्टी​​​",
-      "मिट्टी​​​​​​​"
+      "मिट्टी",
+      "मिट्टी"
     ],
     "options_vi": [
       "Uống",

@@ -13,11 +13,11 @@
     "title_vi": "Tập 85",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To do (करना​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To do (करना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Làm."
       },
       {
-        "hindi": "Later, you encounter a Rain (बारिश​​​​).",
+        "hindi": "Later, you encounter a Rain (बारिश).",
         "translation": "Sau đó, bạn gặp một Cơn mưa."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To do.",
-    "simpleRule": "Remember: To do means करना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)."
+    "simpleRule": "Remember: To do means करना (Làm)."
   },
   {
     "type": "Flashcard",
@@ -100,11 +100,11 @@
     "pairs": [
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "Rain",
-        "english": "बारिश​​​​ (Cơn mưa)"
+        "english": "बारिश (Cơn mưa)"
       },
       {
         "hindi": "Metro",
@@ -186,15 +186,15 @@
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -272,7 +272,7 @@
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "I am hungry.",
@@ -283,11 +283,11 @@
   {
     "type": "Listening",
     "audio": "To do",
-    "translation_en": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "करना",
     "translation_vi": "Làm",
     "options_en": [
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बारिश​​​​",
+      "करना",
+      "बारिश",
       "मेट्रो",
       "मुझे यह पसंद नहीं है।"
     ],

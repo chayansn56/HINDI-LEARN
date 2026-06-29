@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Help",
       "Hospital",
-      "Help",
-      "Fire"
+      "Fire",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Hospital",
         "english": "अस्पताल (Bệnh viện)"
       },
       {
-        "hindi": "Help",
-        "english": "मदद​​​ (Sự giúp đỡ)"
-      },
-      {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​​​​​​​​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Help",
       "Doctor",
-      "Help",
-      "Police station"
+      "Police station",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -155,15 +151,11 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Doctor",
         "english": "डॉक्टर (Bác sĩ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​ (Sự giúp đỡ)"
       },
       {
         "hindi": "Police station",
@@ -222,7 +214,7 @@
       "to help",
       "Help",
       "Fire",
-      "Help"
+      "Bạn có thể giúp tôi không?"
     ],
     "options_vi": [
       "Giúp đỡ",
@@ -241,15 +233,11 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​​ (Sự giúp đỡ)"
+        "english": "आग (Lửa)"
       }
     ]
   },
@@ -304,7 +292,7 @@
       "Medicine",
       "Fire",
       "Thank you for helping me.",
-      "Fire"
+      "Bệnh viện"
     ],
     "options_vi": [
       "Thuốc",
@@ -323,28 +311,24 @@
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Thank you for helping me.",
         "english": "मेरी मदद करने के लिए धन्यवाद। (Cảm ơn vì đã giúp tôi.)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​​​​ (Lửa)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Help",
-    "translation_en": "मदद​​",
+    "translation_en": "मदद",
     "translation_vi": "Sự giúp đỡ",
     "options_en": [
-      "मदद​​",
+      "मदद",
       "अस्पताल",
-      "मदद​​​",
-      "आग​​​​​​​​"
+      "मदद",
+      "आग"
     ],
     "options_vi": [
       "Sự giúp đỡ",

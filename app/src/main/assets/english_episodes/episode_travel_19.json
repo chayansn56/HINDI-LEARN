@@ -56,9 +56,9 @@
     "answer_vi": "Vé",
     "options": [
       "Ticket",
-      "Ticket",
       "Journey",
-      "Journey"
+      "Ga tàu hỏa",
+      "Profession / Business"
     ],
     "options_vi": [
       "Vé",
@@ -81,11 +81,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       }
     ]
   },
@@ -138,9 +134,9 @@
     "answer_vi": "Chuyến đi",
     "options": [
       "Journey",
-      "Journey",
       "Strong / Robust / Awesome",
-      "Hotel"
+      "Hotel",
+      "Ga tàu hỏa"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -156,10 +152,6 @@
       {
         "hindi": "Journey",
         "english": "सफ़र (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
       },
       {
         "hindi": "Strong / Robust / Awesome",
@@ -245,7 +237,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Groom's wedding procession",
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​​​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +295,8 @@
     "options": [
       "Journey",
       "Be careful / Watch out.",
-      "Journey",
-      "Bathroom"
+      "Bathroom",
+      "Nghề nghiệp / Doanh nghiệp"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -319,15 +311,11 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Be careful / Watch out.",
         "english": "सावधान रहें। (Hãy cẩn thận.)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
       },
       {
         "hindi": "Bathroom",
@@ -343,8 +331,8 @@
     "options_en": [
       "टिकट",
       "टिकट काउंटर",
-      "सफ़र​​​​​",
-      "सफ़र​​​​​​"
+      "सफ़र",
+      "सफ़र"
     ],
     "options_vi": [
       "Vé",

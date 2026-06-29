@@ -57,8 +57,8 @@
     "options": [
       "to think",
       "To read",
-      "To read",
-      "To read"
+      "Database",
+      "Pen"
     ],
     "options_vi": [
       "Suy nghĩ",
@@ -77,15 +77,7 @@
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       }
     ]
   },
@@ -93,7 +85,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Pen.",
-    "simpleRule": "Remember: Pen means पेन​​​​​​​ (Bút)."
+    "simpleRule": "Remember: Pen means पेन (Bút)."
   },
   {
     "type": "Flashcard",
@@ -155,7 +147,7 @@
     "pairs": [
       {
         "hindi": "Pen",
-        "english": "पेन​​​​​​​ (Bút)"
+        "english": "पेन (Bút)"
       },
       {
         "hindi": "Are you ready?",
@@ -163,11 +155,11 @@
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +229,7 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Word",
@@ -245,11 +237,11 @@
       },
       {
         "hindi": "Pen",
-        "english": "पेन​​​​​​​​​ (Bút)"
+        "english": "पेन (Bút)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -319,15 +311,15 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Letter (mail)",
@@ -342,9 +334,9 @@
     "translation_vi": "Suy nghĩ",
     "options_en": [
       "सोचना",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​"
+      "पढ़ना",
+      "पढ़ना",
+      "पढ़ना"
     ],
     "options_vi": [
       "Suy nghĩ",

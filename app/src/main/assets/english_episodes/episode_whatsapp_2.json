@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "How much does it cost?",
+      "Dạy"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Điện thoại"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To sleep.",
-    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+    "simpleRule": "Remember: To sleep means सोना (Ngủ)."
   },
   {
     "type": "Flashcard",
@@ -319,15 +311,15 @@
     "pairs": [
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "Letter / Character",

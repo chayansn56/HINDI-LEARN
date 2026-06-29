@@ -81,11 +81,11 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​​​​​​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +140,7 @@
       "Notebook",
       "Whom (relative plural)",
       "No / Not",
-      "Notebook"
+      "Can you help me?"
     ],
     "options_vi": [
       "Sổ tay",
@@ -155,7 +155,7 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Whom (relative plural)",
@@ -164,10 +164,6 @@
       {
         "hindi": "No doubt.",
         "english": "कोई शक नहीं। (Không còn nghi ngờ gì nữa.)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​​​​ (Sổ tay)"
       }
     ]
   },
@@ -323,7 +319,7 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Reverent hello to Grandma",
@@ -331,7 +327,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -343,8 +339,8 @@
     "options_en": [
       "नहीं",
       "क्यों",
-      "बर्फ़​",
-      "कापी​​​​​​​​"
+      "बर्फ़",
+      "कापी"
     ],
     "options_vi": [
       "Không",

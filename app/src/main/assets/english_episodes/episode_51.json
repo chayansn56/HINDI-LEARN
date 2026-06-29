@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Từ tôi / Với tôi."
       },
       {
-        "hindi": "Later, you encounter a Journey (सफ़र​).",
+        "hindi": "Later, you encounter a Journey (सफ़र).",
         "translation": "Sau đó, bạn gặp một Chuyến đi."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To cry.",
-    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+    "simpleRule": "Remember: To cry means रोना (Khóc)."
   },
   {
     "type": "Flashcard",
@@ -182,19 +182,19 @@
     "pairs": [
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To make / build.",
-    "simpleRule": "Remember: To make / build means बनाना​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)."
+    "simpleRule": "Remember: To make / build means बनाना (Chế tạo / Tạo ra)."
   },
   {
     "type": "Flashcard",
@@ -264,11 +264,11 @@
     "pairs": [
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       },
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       },
       {
         "hindi": "Airport",
@@ -276,7 +276,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Từ tôi / Với tôi",
     "options_en": [
       "मुझसे",
-      "सफ़र​",
-      "लेना​​​",
-      "लिखना​​​​​​​​​"
+      "सफ़र",
+      "लेना",
+      "लिखना"
     ],
     "options_vi": [
       "Từ tôi / Với tôi",

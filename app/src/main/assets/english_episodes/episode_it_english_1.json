@@ -67,23 +67,6 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Frontend",
-        "right": "Giao diện người dùng"
-      },
-      {
-        "left": "Backend",
-        "right": "Hệ thống máy chủ"
-      },
-      {
-        "left": "Database",
-        "right": "Cơ sở dữ liệu"
-      },
-      {
-        "left": "Deployment",
-        "right": "Triển khai"
-      }
-    ]
+    "pairs": []
   }
 ]

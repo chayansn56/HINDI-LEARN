@@ -159,7 +159,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "to drink",
@@ -221,8 +221,8 @@
     "options": [
       "To eat / Food",
       "Soil / Earth",
-      "Soil / Earth",
-      "Festival"
+      "Festival",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Ăn / Đồ ăn",
@@ -241,11 +241,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Festival",
@@ -257,7 +253,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +299,8 @@
     "options": [
       "Soil / Earth",
       "Agentive particle",
-      "Soil / Earth",
-      "Soil / Earth"
+      "Nhảy đi tình yêu của tôi",
+      "Khách hàng"
     ],
     "options_vi": [
       "Đất",
@@ -319,19 +315,11 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Agentive particle",
         "english": "ने (Hậu giới từ chỉ tác nhân)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी (Đất)"
       }
     ]
   },

@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "MultipleChoice",
@@ -58,7 +58,7 @@
       "Value / Price",
       "Money",
       "Reduce price a bit.",
-      "Money"
+      "Giảm giá một chút."
     ],
     "options_vi": [
       "Giá trị",
@@ -76,16 +76,12 @@
         "english": "Value / Price (Giá trị)"
       },
       {
-        "hindi": "पैसा​​​​​​​​​",
+        "hindi": "पैसा",
         "english": "Money (Tiền)"
       },
       {
         "hindi": "थोड़ा कम कीजिए।",
         "english": "Reduce price a bit. (Giảm giá một chút.)"
-      },
-      {
-        "hindi": "पैसा​​​​",
-        "english": "Money (Tiền)"
       }
     ]
   },
@@ -105,27 +101,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "MultipleChoice",
@@ -139,8 +135,8 @@
     "options": [
       "Work / Job",
       "Money",
-      "Money",
-      "Office"
+      "Office",
+      "Văn phòng"
     ],
     "options_vi": [
       "Công việc",
@@ -158,15 +154,11 @@
         "english": "Work / Job (Công việc)"
       },
       {
-        "hindi": "पैसा​​​​​​​​",
+        "hindi": "पैसा",
         "english": "Money (Tiền)"
       },
       {
-        "hindi": "पैसा​​​​​​​",
-        "english": "Money (Tiền)"
-      },
-      {
-        "hindi": "दफ़्तर​​​​​​",
+        "hindi": "दफ़्तर",
         "english": "Office (Văn phòng)"
       }
     ]
@@ -205,17 +197,17 @@
     "englishSentence": "I see Money / Tôi thấy Tiền",
     "hindiWords": [
       "मैं",
-      "पैसा​​​​​​​​​",
+      "पैसा",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं पैसा​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं पैसा देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: मूल्य, दफ़्तर​​​​​​",
+      "You learned: मूल्य, दफ़्तर",
       "Practiced constructing sentences."
     ]
   }

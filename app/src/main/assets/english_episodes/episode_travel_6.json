@@ -85,7 +85,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       }
     ]
   },
@@ -140,7 +140,7 @@
       "Carefree / Cool",
       "Journey",
       "Ticket",
-      "Journey"
+      "Xin lỗi cho tôi hỏi"
     ],
     "options_vi": [
       "Sống thoải mái / Vô tư",
@@ -159,15 +159,11 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Ticket",
         "english": "टिकट (Vé)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​ (Chuyến đi)"
       }
     ]
   },
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -222,7 +218,7 @@
       "Journey",
       "Train station",
       "Police station",
-      "Journey"
+      "Bathroom"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -237,7 +233,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Train station",
@@ -246,10 +242,6 @@
       {
         "hindi": "Police station",
         "english": "थाना (Đồn cảnh sát)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​ (Chuyến đi)"
       }
     ]
   },
@@ -303,8 +295,8 @@
     "options": [
       "Be careful / Watch out.",
       "Journey",
-      "Journey",
-      "Room"
+      "Room",
+      "Nhà tắm / Toilet"
     ],
     "options_vi": [
       "Hãy cẩn thận.",
@@ -323,11 +315,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Room",
@@ -344,7 +332,7 @@
       "बाथरूम",
       "गाड़ी",
       "स्टेशन कहाँ है?",
-      "सफ़र​​​​​​"
+      "सफ़र"
     ],
     "options_vi": [
       "Nhà tắm / Toilet",

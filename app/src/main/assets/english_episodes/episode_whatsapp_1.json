@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Đứng",
+      "Chili / Pepper"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Cái này bao nhiêu tiền?"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -241,11 +233,11 @@
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "Chili / Pepper",
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To do.",
-    "simpleRule": "Remember: To do means करना​​​​​​​​​​​​​ (Làm)."
+    "simpleRule": "Remember: To do means करना (Làm)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +294,9 @@
     "answer_vi": "Làm",
     "options": [
       "To do",
-      "To do",
-      "To do",
-      "How much is this?"
+      "How much is this?",
+      "Xin lỗi cho tôi hỏi",
+      "Status / Story"
     ],
     "options_vi": [
       "Làm",
@@ -319,15 +311,7 @@
     "pairs": [
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​ (Làm)"
-      },
-      {
-        "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
-      },
-      {
-        "hindi": "To do",
-        "english": "करना​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "How much is this?",

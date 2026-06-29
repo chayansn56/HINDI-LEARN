@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: आग​​.",
-    "simpleRule": "Remember: आग​​ means Fire (Lửa)."
+    "explanation": "Understand the usage and roots of: आग.",
+    "simpleRule": "Remember: आग means Fire (Lửa)."
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -31,26 +31,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​​"
+    "audio": "मदद"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'आग​​'",
-    "prompt_en": "Choose correct translation for 'आग​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​'",
-    "text": "आग​​",
+    "prompt": "Translate 'आग'",
+    "prompt_en": "Choose correct translation for 'आग'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग'",
+    "text": "आग",
     "subtext": "āg",
     "answer": "Fire",
     "answer_vi": "Lửa",
@@ -58,7 +58,7 @@
       "Fire",
       "Pain",
       "Help",
-      "Help"
+      "Sự giúp đỡ"
     ],
     "options_vi": [
       "Lửa",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "आग​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
@@ -80,11 +80,7 @@
         "english": "Pain (Đau)"
       },
       {
-        "hindi": "मदद​",
-        "english": "Help (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "मदद​​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       }
     ]
@@ -92,32 +88,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: मदद​​​.",
-    "simpleRule": "Remember: मदद​​​ means Help (Sự giúp đỡ)."
+    "explanation": "Understand the usage and roots of: मदद.",
+    "simpleRule": "Remember: मदद means Help (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -129,18 +125,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मदद​​​'",
-    "prompt_en": "Choose correct translation for 'मदद​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मदद​​​'",
-    "text": "मदद​​​",
+    "prompt": "Translate 'मदद'",
+    "prompt_en": "Choose correct translation for 'मदद'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद'",
+    "text": "मदद",
     "subtext": "madad",
     "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
     "options": [
       "Help",
       "Fire",
-      "Fire",
-      "Hospital"
+      "Hospital",
+      "हॉस्पिटल"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -154,15 +150,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मदद​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
-        "hindi": "आग​​​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "आग​​​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
@@ -173,7 +165,7 @@
   },
   {
     "type": "Listening",
-    "audio": "आग​​",
+    "audio": "आग",
     "translation_en": "Fire",
     "translation_vi": "Lửa",
     "options_en": [
@@ -195,10 +187,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "आग​​",
+      "आग",
       "है"
     ],
-    "correctHindiSentence": "यह एक आग​​ है"
+    "correctHindiSentence": "यह एक आग है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +207,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: आग​​, हॉस्पिटल",
+      "You learned: आग, हॉस्पिटल",
       "Practiced constructing sentences."
     ]
   }

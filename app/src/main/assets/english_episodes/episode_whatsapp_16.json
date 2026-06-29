@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Điện thoại",
+      "Trạng thái / Tin trạng thái"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -245,11 +237,11 @@
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To sleep.",
-    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+    "simpleRule": "Remember: To sleep means सोना (Ngủ)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +311,7 @@
     "pairs": [
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "Help",
@@ -327,11 +319,11 @@
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​ (Học)"
+        "english": "सीखना (Học)"
       }
     ]
   },

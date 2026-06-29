@@ -13,11 +13,11 @@
     "title_vi": "Tập 72",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To read (पढ़ना​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To read (पढ़ना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Đọc."
       },
       {
-        "hindi": "Later, you encounter a To run (दौड़ना​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To run (दौड़ना).",
         "translation": "Sau đó, bạn gặp một Chạy."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -100,15 +100,15 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Budget",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Cup.",
-    "simpleRule": "Remember: Cup means प्याला​ (Tách)."
+    "simpleRule": "Remember: Cup means प्याला (Tách)."
   },
   {
     "type": "Flashcard",
@@ -182,19 +182,19 @@
     "pairs": [
       {
         "hindi": "Cup",
-        "english": "प्याला​ (Tách)"
+        "english": "प्याला (Tách)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Office.",
-    "simpleRule": "Remember: Office means दफ़्तर​​​​​​​​​​​ (Văn phòng)."
+    "simpleRule": "Remember: Office means दफ़्तर (Văn phòng)."
   },
   {
     "type": "Flashcard",
@@ -264,31 +264,31 @@
     "pairs": [
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​​​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To read",
-    "translation_en": "पढ़ना​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "पढ़ना",
     "translation_vi": "Đọc",
     "options_en": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​​",
-      "दौड़ना​​​​​​​​​​",
-      "मदद​​​​​​​​",
+      "पढ़ना",
+      "दौड़ना",
+      "मदद",
       "बजट"
     ],
     "options_vi": [

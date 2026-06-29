@@ -57,8 +57,8 @@
     "options": [
       "Paper / Documents",
       "To read",
-      "To read",
-      "To read"
+      "Repository",
+      "Triển khai phần mềm"
     ],
     "options_vi": [
       "Giấy tờ",
@@ -78,14 +78,6 @@
       {
         "hindi": "To read",
         "english": "पढ़ना (Đọc)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​ (Đọc)"
       }
     ]
   },
@@ -93,7 +85,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +132,7 @@
       "To open",
       "To read",
       "Pink",
-      "To read"
+      "Yêu cầu kéo code"
     ],
     "options_vi": [
       "Mở",
@@ -155,19 +147,15 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "Pink",
         "english": "गुलाबी (Màu hồng)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​ (Đọc)"
       }
     ]
   },
@@ -175,7 +163,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +209,8 @@
     "options": [
       "To write",
       "To read",
-      "To write",
-      "To open"
+      "To open",
+      "Viết"
     ],
     "options_vi": [
       "Viết",
@@ -237,19 +225,15 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​ (Viết)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       }
     ]
   },
@@ -257,7 +241,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -304,7 +288,7 @@
       "To write",
       "Expensive",
       "To read",
-      "To write"
+      "Đắt đỏ"
     ],
     "options_vi": [
       "Viết",
@@ -319,7 +303,7 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Expensive",
@@ -327,11 +311,7 @@
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "पढ़ना (Đọc)"
       }
     ]
   },
@@ -343,8 +323,8 @@
     "options_en": [
       "कागज़",
       "पढ़ना",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​"
+      "पढ़ना",
+      "पढ़ना"
     ],
     "options_vi": [
       "Giấy tờ",

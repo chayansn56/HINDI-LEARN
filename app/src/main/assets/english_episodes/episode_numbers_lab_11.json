@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "Money"
+      "Money",
+      "I don't understand",
+      "Nghe"
     ],
     "options_vi": [
       "Nghe",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       }
     ]
   },
@@ -93,7 +85,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Money.",
-    "simpleRule": "Remember: Money means पैसा​​​​​ (Tiền)."
+    "simpleRule": "Remember: Money means पैसा (Tiền)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +132,7 @@
       "Money",
       "Truth alone triumphs",
       "To listen / hear",
-      "To listen / hear"
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Tiền",
@@ -155,7 +147,7 @@
     "pairs": [
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "Truth alone triumphs",
@@ -163,11 +155,7 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -175,7 +163,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +208,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
       "Money",
-      "To listen / hear"
+      "I don't understand",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Nghe",
@@ -237,19 +225,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​ (Tiền)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "पैसा (Tiền)"
       }
     ]
   },
@@ -257,7 +237,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +282,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "Money"
+      "Money",
+      "Nhà vệ sinh ở đâu?",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Nghe",
@@ -319,32 +299,24 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
         "english": "सुनना (Nghe)"
       },
       {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​ (Nghe)"
-      },
-      {
         "hindi": "Money",
-        "english": "पैसा​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To listen / hear",
-    "translation_en": "सुनना​​​​​​​​​​",
+    "translation_en": "सुनना",
     "translation_vi": "Nghe",
     "options_en": [
-      "सुनना​​​​​​​​​​",
-      "सुनना​​​​​​​​​",
-      "सुनना​​​",
-      "पैसा​​​​​​​​​​​"
+      "सुनना",
+      "सुनना",
+      "सुनना",
+      "पैसा"
     ],
     "options_vi": [
       "Nghe",

@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Money.",
-    "simpleRule": "Remember: Money means पैसा​​​​​​​​​ (Tiền)."
+    "simpleRule": "Remember: Money means पैसा (Tiền)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Money",
       "To listen / hear",
-      "To listen / hear",
-      "Someone / Anyone"
+      "Someone / Anyone",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Tiền",
@@ -73,15 +73,11 @@
     "pairs": [
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Someone / Anyone",
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Money.",
-    "simpleRule": "Remember: Money means पैसा​​​​​​​​ (Tiền)."
+    "simpleRule": "Remember: Money means पैसा (Tiền)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "Money",
       "To listen / hear",
       "Sentence",
-      "To listen / hear"
+      "Love (intense)"
     ],
     "options_vi": [
       "Tiền",
@@ -155,19 +151,15 @@
     "pairs": [
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Sentence",
         "english": "वाक्य (Câu)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "To listen / hear",
       "Love (intense)",
-      "To listen / hear",
-      "Listen carefully."
+      "Listen carefully.",
+      "Money"
     ],
     "options_vi": [
       "Nghe",
@@ -237,15 +229,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Love (intense)",
         "english": "इश्क़ (Tình yêu sâu đậm)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
       },
       {
         "hindi": "Listen carefully.",
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +290,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
       "Money",
-      "One's own (reflexive)"
+      "One's own (reflexive)",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Nghe",
@@ -319,15 +307,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "One's own (reflexive)",
@@ -338,12 +322,12 @@
   {
     "type": "Listening",
     "audio": "Money",
-    "translation_en": "पैसा​​​​​​​​​",
+    "translation_en": "पैसा",
     "translation_vi": "Tiền",
     "options_en": [
-      "पैसा​​​​​​​​​",
-      "सुनना​​​​",
-      "सुनना​​​​​​​​​",
+      "पैसा",
+      "सुनना",
+      "सुनना",
       "कोई"
     ],
     "options_vi": [

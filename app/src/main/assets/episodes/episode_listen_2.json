@@ -10,55 +10,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​.",
-    "simpleRule": "Remember: सुनना​​​​​​​​​​ means To listen / hear (Nghe)."
+    "explanation": "Understand the usage and roots of: सुनना.",
+    "simpleRule": "Remember: सुनना means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सुनना​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​'",
-    "text": "सुनना​​​​​​​​​​",
+    "prompt": "Translate 'सुनना'",
+    "prompt_en": "Choose correct translation for 'सुनना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना'",
+    "text": "सुनना",
     "subtext": "sunnā",
     "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "Nghe",
+      "Listen carefully.",
+      "Nghe cho kỹ nhé."
     ],
     "options_vi": [
       "Nghe",
@@ -72,19 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सुनना​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       }
     ]
@@ -105,27 +93,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "MultipleChoice",
@@ -139,8 +127,8 @@
     "options": [
       "Listen carefully.",
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "Nghe cho kỹ nhé.",
+      "सुनना"
     ],
     "options_vi": [
       "Nghe cho kỹ nhé.",
@@ -158,22 +146,14 @@
         "english": "Listen carefully. (Nghe cho kỹ nhé.)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "सुनना​​​​​​​​​​",
+    "audio": "सुनना",
     "translation_en": "To listen / hear",
     "translation_vi": "Nghe",
     "options_en": [
@@ -195,27 +175,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "सुनना​​​​​​​​​​",
+      "सुनना",
       "है"
     ],
-    "correctHindiSentence": "यह एक सुनना​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक सुनना है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
       "मैं",
-      "सुनना​",
+      "सुनना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सुनना​ देखता हूँ"
+    "correctHindiSentence": "मैं सुनना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: सुनना​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: सुनना, सुनना",
       "Practiced constructing sentences."
     ]
   }

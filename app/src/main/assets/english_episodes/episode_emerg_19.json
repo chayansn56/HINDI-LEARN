@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​​​​​​​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Help",
       "Fire",
       "Hospital",
-      "Fire"
+      "How much does it cost?"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Hospital",
         "english": "अस्पताल (Bệnh viện)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​ (Lửa)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Fire",
       "Doctor",
-      "Fire",
-      "Help"
+      "Help",
+      "Bệnh viện"
     ],
     "options_vi": [
       "Lửa",
@@ -155,15 +151,11 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Doctor",
         "english": "डॉक्टर (Bác sĩ)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​​ (Lửa)"
       },
       {
         "hindi": "Help",
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +212,9 @@
     "answer_vi": "Sự giúp đỡ",
     "options": [
       "Help",
-      "Help",
-      "Help",
-      "Help"
+      "Bệnh viện",
+      "Excuse me",
+      "Lửa"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -237,19 +229,7 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -257,7 +237,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +282,9 @@
     "answer_vi": "Lửa",
     "options": [
       "Fire",
-      "Fire",
-      "Fire",
-      "Police"
+      "Police",
+      "Tôi không hiểu",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Lửa",
@@ -319,15 +299,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Police",
@@ -338,13 +310,13 @@
   {
     "type": "Listening",
     "audio": "Help",
-    "translation_en": "मदद​​​​​​​",
+    "translation_en": "मदद",
     "translation_vi": "Sự giúp đỡ",
     "options_en": [
-      "मदद​​​​​​​",
-      "आग​​​​",
+      "मदद",
+      "आग",
       "अस्पताल",
-      "आग​​​​​​​"
+      "आग"
     ],
     "options_vi": [
       "Sự giúp đỡ",

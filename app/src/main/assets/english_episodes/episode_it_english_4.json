@@ -61,24 +61,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Architecture",
-        "right": "Kiến trúc hệ thống"
-      },
-      {
-        "left": "Scalability",
-        "right": "Khả năng mở rộng"
-      },
-      {
-        "left": "Bottleneck",
-        "right": "Điểm nghẽn hiệu suất"
-      },
-      {
-        "left": "Demonstrate",
-        "right": "Biểu diễn / Trình bày"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

@@ -59,24 +59,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "PHO-tograph",
-        "right": "Bức ảnh"
-      },
-      {
-        "left": "pho-TO-grapher",
-        "right": "Nhiếp ảnh gia"
-      },
-      {
-        "left": "RE-cord",
-        "right": "Kỷ lục (danh từ)"
-      },
-      {
-        "left": "re-CORD",
-        "right": "Ghi âm (động từ)"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

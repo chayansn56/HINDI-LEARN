@@ -58,7 +58,7 @@
       "Police station",
       "Help",
       "Fire",
-      "Fire"
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Đồn cảnh sát",
@@ -77,15 +77,11 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Fire",
-        "english": "आग​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -155,7 +151,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Hospital",
@@ -167,7 +163,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +233,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Help",
@@ -257,7 +253,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​​​​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +299,8 @@
     "options": [
       "Help",
       "Police",
-      "Help",
-      "Help"
+      "Cảnh sát",
+      "Đau"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -319,15 +315,11 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Police",
         "english": "पुलिस (Cảnh sát)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​​​​ (Sự giúp đỡ)"
       },
       {
         "hindi": "I need help.",
@@ -342,9 +334,9 @@
     "translation_vi": "Đồn cảnh sát",
     "options_en": [
       "थाना",
-      "मदद​​",
-      "आग​​",
-      "आग​​​​​​​​​"
+      "मदद",
+      "आग",
+      "आग"
     ],
     "options_vi": [
       "Đồn cảnh sát",

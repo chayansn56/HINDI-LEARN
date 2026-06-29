@@ -113,9 +113,19 @@
     "type": "Listening",
     "audio": "घर",
     "translation_en": "What word did you hear?",
-    "options_en": ["घर (ghar — house)", "गर (gar)", "कर (kar — do)", "खर (khar)"],
+    "options_en": [
+      "घर (ghar — house)",
+      "गर (gar)",
+      "कर (kar — do)",
+      "खर (khar)"
+    ],
     "translation_vi": "Bạn nghe được từ gì?",
-    "options_vi": ["घर (ghar — nhà)", "गर (gar)", "कर (kar — làm)", "खर (khar)"]
+    "options_vi": [
+      "घर (ghar — nhà)",
+      "गर (gar)",
+      "कर (kar — làm)",
+      "खर (khar)"
+    ]
   },
   {
     "type": "MultipleChoice",
@@ -123,7 +133,12 @@
     "text": "कवर्ग व्यंजनों का सही क्रम क्या है?",
     "subtext": "Remember the pattern: plain → aspirated → voiced → voiced+aspirated → nasal",
     "answer": "क ख ग घ ङ",
-    "options": ["क ख ग घ ङ", "ख क घ ग ङ", "ग घ क ख ङ", "क ग ख घ ङ"]
+    "options": [
+      "क ख ग घ ङ",
+      "ख क घ ग ङ",
+      "ग घ क ख ङ",
+      "क ग ख घ ङ"
+    ]
   },
   {
     "type": "RevisionSummary",

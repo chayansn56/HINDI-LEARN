@@ -13,11 +13,11 @@
     "title_vi": "Tập 14",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To see / watch (देखना​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To see / watch (देखना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Nhìn / Xem."
       },
       {
-        "hindi": "Later, you encounter a To tell / explain (बताना​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To tell / explain (बताना).",
         "translation": "Sau đó, bạn gặp một Kể / Giải thích."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To see / watch.",
-    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​​​ (Nhìn / Xem)."
+    "simpleRule": "Remember: To see / watch means देखना (Nhìn / Xem)."
   },
   {
     "type": "Flashcard",
@@ -100,19 +100,19 @@
     "pairs": [
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -186,7 +186,7 @@
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "4",
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To make / build.",
-    "simpleRule": "Remember: To make / build means बनाना​​​ (Chế tạo / Tạo ra)."
+    "simpleRule": "Remember: To make / build means बनाना (Chế tạo / Tạo ra)."
   },
   {
     "type": "Flashcard",
@@ -249,7 +249,7 @@
       "To make / build",
       "To ask",
       "To sleep",
-      "To ask"
+      "Bạc"
     ],
     "options_vi": [
       "Chế tạo / Tạo ra",
@@ -264,32 +264,28 @@
     "pairs": [
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
-      },
-      {
-        "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "सोना (Ngủ)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To see / watch",
-    "translation_en": "देखना​​​​​​​​​​​​​​​",
+    "translation_en": "देखना",
     "translation_vi": "Nhìn / Xem",
     "options_en": [
-      "देखना​​​​​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​​​​​"
+      "देखना",
+      "बताना",
+      "खरीदना",
+      "काम करना"
     ],
     "options_vi": [
       "Nhìn / Xem",

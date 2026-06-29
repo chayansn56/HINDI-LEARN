@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Oh friend! / Oh man!",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "To work"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -249,7 +241,7 @@
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Path / Way.",
-    "simpleRule": "Remember: Path / Way means रास्ता​​​​​​ (Đường đi)."
+    "simpleRule": "Remember: Path / Way means रास्ता (Đường đi)."
   },
   {
     "type": "Flashcard",
@@ -319,19 +311,19 @@
     "pairs": [
       {
         "hindi": "Path / Way",
-        "english": "रास्ता​​​​​​ (Đường đi)"
+        "english": "रास्ता (Đường đi)"
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "City",
-        "english": "शहर​ (Thành phố)"
+        "english": "शहर (Thành phố)"
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       }
     ]
   },

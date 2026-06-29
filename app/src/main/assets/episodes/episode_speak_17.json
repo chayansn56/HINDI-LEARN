@@ -31,19 +31,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "MultipleChoice",
@@ -58,7 +58,7 @@
       "Do you speak English?",
       "Please say it again.",
       "To speak",
-      "To speak"
+      "क्या आप अंग्रेज़ी बोलते हैं?"
     ],
     "options_vi": [
       "Bạn có nói tiếng Anh không?",
@@ -80,11 +80,7 @@
         "english": "Please say it again. (Làm ơn nói lại lần nữa.)"
       },
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       }
     ]
@@ -105,11 +101,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -158,7 +154,7 @@
         "english": "Where (relative) (Nơi mà)"
       },
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {

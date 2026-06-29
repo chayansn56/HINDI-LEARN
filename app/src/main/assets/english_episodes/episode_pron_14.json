@@ -57,8 +57,8 @@
     "options": [
       "Listen (polite)",
       "To speak",
-      "To speak",
-      "LOL / Laughing Out Loud"
+      "LOL / Laughing Out Loud",
+      "Mouth"
     ],
     "options_vi": [
       "Nghe này / Xin lỗi",
@@ -77,11 +77,7 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "LOL / Laughing Out Loud",
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +134,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
       "Mouth",
-      "To speak"
+      "To speak",
+      "Nguyên âm"
     ],
     "options_vi": [
       "Nghe",
@@ -155,11 +151,7 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Mouth",
@@ -167,7 +159,7 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -222,7 +214,7 @@
       "To speak",
       "Cloud",
       "To listen / hear",
-      "To speak"
+      "Ghi âm"
     ],
     "options_vi": [
       "Nói",
@@ -237,19 +229,15 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​ (Nói)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -304,7 +292,7 @@
       "Cloud",
       "To speak",
       "To listen / hear",
-      "To speak"
+      "Cười lớn"
     ],
     "options_vi": [
       "Đám mây",
@@ -323,15 +311,11 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​ (Nghe)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​ (Nói)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -342,8 +326,8 @@
     "translation_vi": "Nghe này / Xin lỗi",
     "options_en": [
       "सुनिए",
-      "बोलना​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना",
+      "बोलना",
       "लोल"
     ],
     "options_vi": [

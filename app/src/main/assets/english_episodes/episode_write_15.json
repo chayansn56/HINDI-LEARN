@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "To write",
       "To read",
       "to think",
-      "To read"
+      "To open"
     ],
     "options_vi": [
       "Viết",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "to think",
         "english": "सोचना (Suy nghĩ)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "To open",
       "Pen",
       "To write",
-      "To write"
+      "Triển khai phần mềm"
     ],
     "options_vi": [
       "Mở",
@@ -155,19 +151,15 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "Pen",
-        "english": "पेन​​​​​ (Bút)"
+        "english": "पेन (Bút)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​ (Viết)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +229,7 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Flatbread",
@@ -245,11 +237,11 @@
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​ (Mở)"
+        "english": "खोलना (Mở)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +295,8 @@
     "options": [
       "To read",
       "To write",
-      "To read",
-      "To write"
+      "Pen",
+      "Cơ sở dữ liệu"
     ],
     "options_vi": [
       "Đọc",
@@ -319,32 +311,24 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​ (Viết)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To write",
-    "translation_en": "लिखना​​​​​",
+    "translation_en": "लिखना",
     "translation_vi": "Viết",
     "options_en": [
-      "लिखना​​​​​",
-      "पढ़ना​​​​​​​",
+      "लिखना",
+      "पढ़ना",
       "सोचना",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "पढ़ना"
     ],
     "options_vi": [
       "Viết",

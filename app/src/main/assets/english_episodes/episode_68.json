@@ -13,11 +13,11 @@
     "title_vi": "Tập 68",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To ask (पूछना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
       },
       {
-        "hindi": "Later, you encounter a Money (पैसा​​​​​​).",
+        "hindi": "Later, you encounter a Money (पैसा).",
         "translation": "Sau đó, bạn gặp một Tiền."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To ask.",
-    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
   },
   {
     "type": "Flashcard",
@@ -100,19 +100,19 @@
     "pairs": [
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -182,19 +182,19 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​ (Biển)"
+        "english": "समुद्र (Biển)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To cry.",
-    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+    "simpleRule": "Remember: To cry means रोना (Khóc)."
   },
   {
     "type": "Flashcard",
@@ -264,7 +264,7 @@
     "pairs": [
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "Please speak slowly.",
@@ -272,24 +272,24 @@
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To ask",
-    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "पूछना",
     "translation_vi": "Hỏi",
     "options_en": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पैसा​​​​​​",
-      "आग​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "पूछना",
+      "पैसा",
+      "आग",
+      "बेचना"
     ],
     "options_vi": [
       "Hỏi",

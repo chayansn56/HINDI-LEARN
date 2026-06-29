@@ -13,7 +13,7 @@
     "title_vi": "Tập 47",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To teach (sिखाना​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To teach (sिखाना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Dạy."
       },
       {
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To teach.",
-    "simpleRule": "Remember: To teach means sिखाना​​​​​​​​​ (Dạy)."
+    "simpleRule": "Remember: To teach means sिखाना (Dạy)."
   },
   {
     "type": "Flashcard",
@@ -100,7 +100,7 @@
     "pairs": [
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "Until / Up to",
@@ -108,11 +108,11 @@
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "Pen",
-        "english": "पेन​​​​​​​​​​ (Bút)"
+        "english": "पेन (Bút)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -182,15 +182,15 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "Read (root)",
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To cry.",
-    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+    "simpleRule": "Remember: To cry means रोना (Khóc)."
   },
   {
     "type": "Flashcard",
@@ -248,8 +248,8 @@
     "options": [
       "To cry",
       "Spoon",
-      "To cry",
-      "Village"
+      "Village",
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Khóc",
@@ -264,32 +264,28 @@
     "pairs": [
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "Spoon",
-        "english": "चम्मच​​​​​​​​​ (Thìa)"
-      },
-      {
-        "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "चम्मच (Thìa)"
       },
       {
         "hindi": "Village",
-        "english": "गाँव​​​​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To teach",
-    "translation_en": "sिखाना​​​​​​​​​",
+    "translation_en": "sिखाना",
     "translation_vi": "Dạy",
     "options_en": [
-      "sिखाना​​​​​​​​​",
+      "sिखाना",
       "तक",
-      "पैसा​​​​​​​​",
-      "पेन​​​​​​​​​​"
+      "पैसा",
+      "पेन"
     ],
     "options_vi": [
       "Dạy",

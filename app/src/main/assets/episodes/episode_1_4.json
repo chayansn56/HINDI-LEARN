@@ -103,7 +103,12 @@
     "text": "Identify the special matra",
     "subtext": "Think about which matra has an unusual placement",
     "answer": "ि (i matra)",
-    "options": ["ा (aa matra)", "ि (i matra)", "ु (u matra)", "ू (oo matra)"]
+    "options": [
+      "ा (aa matra)",
+      "ि (i matra)",
+      "ु (u matra)",
+      "ू (oo matra)"
+    ]
   },
   {
     "type": "Drawing",
@@ -116,7 +121,12 @@
     "text": "कुत्ता",
     "subtext": "Notice the ु matra below the क",
     "answer": "Dog",
-    "options": ["Cat", "Dog", "Fort", "Work"]
+    "options": [
+      "Cat",
+      "Dog",
+      "Fort",
+      "Work"
+    ]
   },
   {
     "type": "RevisionSummary",

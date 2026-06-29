@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Sự thất bại."
       },
       {
-        "hindi": "Later, you encounter a To sleep (सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To sleep (सोना).",
         "translation": "Sau đó, bạn gặp một Ngủ."
       }
     ],
@@ -84,8 +84,8 @@
     "options": [
       "Failure",
       "To sleep",
-      "To sleep",
-      "To sell"
+      "To sell",
+      "Business / Trade"
     ],
     "options_vi": [
       "Sự thất bại",
@@ -104,15 +104,11 @@
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
-      },
-      {
-        "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       }
     ]
   },
@@ -120,7 +116,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +178,11 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "River",
-        "english": "नदी​​​​​​​​​ (Con sông)"
+        "english": "नदी (Con sông)"
       },
       {
         "hindi": "And / More",
@@ -268,15 +264,15 @@
       },
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       }
     ]
   },
@@ -287,9 +283,9 @@
     "translation_vi": "Sự thất bại",
     "options_en": [
       "असफलता",
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सोना​​​​​​​​​​​​​​​​​​​",
-      "बेचना​​​​​​​​​​​​"
+      "सोना",
+      "सोना",
+      "बेचना"
     ],
     "options_vi": [
       "Sự thất bại",

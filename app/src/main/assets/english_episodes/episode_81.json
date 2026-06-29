@@ -13,11 +13,11 @@
     "title_vi": "Tập 81",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To ask (पूछना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
       },
       {
-        "hindi": "Later, you encounter a To learn (सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To learn (सीखना).",
         "translation": "Sau đó, bạn gặp một Học."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To ask.",
-    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
   },
   {
     "type": "Flashcard",
@@ -100,15 +100,15 @@
     "pairs": [
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "to help",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -167,7 +167,7 @@
       "To wake up",
       "Garden",
       "To ask",
-      "To wake up"
+      "To listen / hear"
     ],
     "options_vi": [
       "Thức dậy",
@@ -182,19 +182,15 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "Garden",
-        "english": "बग़ीचा​​​​​​​​​ (Khu vườn)"
+        "english": "बग़ीचा (Khu vườn)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​ (Hỏi)"
-      },
-      {
-        "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "पूछना (Hỏi)"
       }
     ]
   },
@@ -202,7 +198,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -264,31 +260,31 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "To clean",
-        "english": "साफ करना​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To ask",
-    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "पूछना",
     "translation_vi": "Hỏi",
     "options_en": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​​​",
+      "पूछना",
+      "सीखना",
+      "देखना",
       "मदद करना"
     ],
     "options_vi": [

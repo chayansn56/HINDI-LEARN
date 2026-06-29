@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "To speak",
       "To do a U-turn / go back on word",
-      "To speak",
-      "Cloud"
+      "Cloud",
+      "Listen (polite)"
     ],
     "options_vi": [
       "Nói",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To do a U-turn / go back on word",
         "english": "पलटी मारना (Lật lọng / Nuốt lời)"
       },
       {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -139,8 +135,8 @@
     "options": [
       "Listen (polite)",
       "To listen / hear",
-      "To listen / hear",
-      "Word"
+      "Word",
+      "Trọng âm"
     ],
     "options_vi": [
       "Nghe này / Xin lỗi",
@@ -159,11 +155,7 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Word",
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -222,7 +214,7 @@
       "Cloud",
       "To listen / hear",
       "To speak",
-      "To speak"
+      "Nghe"
     ],
     "options_vi": [
       "Đám mây",
@@ -237,19 +229,15 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +290,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "To do a U-turn / go back on word",
+      "Word",
+      "Listen (polite)"
     ],
     "options_vi": [
       "Nghe",
@@ -319,32 +307,20 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To speak",
-    "translation_en": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बोलना",
     "translation_vi": "Nói",
     "options_en": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बोलना",
       "पलटी मारना",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बादल​​​​​​"
+      "बोलना",
+      "बादल"
     ],
     "options_vi": [
       "Nói",

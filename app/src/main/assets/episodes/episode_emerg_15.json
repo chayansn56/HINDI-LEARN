@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Police",
       "Help",
-      "Help",
-      "to help"
+      "to help",
+      "मदद करना"
     ],
     "options_vi": [
       "Cảnh sát",
@@ -76,10 +76,6 @@
         "english": "Police (Cảnh sát)"
       },
       {
-        "hindi": "मदद​",
-        "english": "Help (Sự giúp đỡ)"
-      },
-      {
         "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
@@ -92,32 +88,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: मदद​​​.",
-    "simpleRule": "Remember: मदद​​​ means Help (Sự giúp đỡ)."
+    "explanation": "Understand the usage and roots of: मदद.",
+    "simpleRule": "Remember: मदद means Help (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​​​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​​​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
@@ -129,18 +125,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मदद​​​'",
-    "prompt_en": "Choose correct translation for 'मदद​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मदद​​​'",
-    "text": "मदद​​​",
+    "prompt": "Translate 'मदद'",
+    "prompt_en": "Choose correct translation for 'मदद'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद'",
+    "text": "मदद",
     "subtext": "madad",
     "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
     "options": [
       "Help",
-      "Help",
-      "Help",
-      "Fire"
+      "Fire",
+      "Giúp đỡ",
+      "Cảnh sát"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -154,15 +150,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मदद​​​",
-        "english": "Help (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "मदद​​​​​",
-        "english": "Help (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "मदद​​​​​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
@@ -205,11 +193,11 @@
     "englishSentence": "I see Help / Tôi thấy Sự giúp đỡ",
     "hindiWords": [
       "मैं",
-      "मदद​",
+      "मदद",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं मदद​ देखता हूँ"
+    "correctHindiSentence": "मैं मदद देखता हूँ"
   },
   {
     "type": "RevisionSummary",

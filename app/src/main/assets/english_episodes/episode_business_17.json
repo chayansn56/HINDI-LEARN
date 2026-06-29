@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Office.",
-    "simpleRule": "Remember: Office means दफ़्तर​​​​​​ (Văn phòng)."
+    "simpleRule": "Remember: Office means दफ़्तर (Văn phòng)."
   },
   {
     "type": "Flashcard",
@@ -73,7 +73,7 @@
     "pairs": [
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "Value / Price",
@@ -85,7 +85,7 @@
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +139,8 @@
     "options": [
       "To work",
       "Meeting",
-      "To work",
-      "Work / Job"
+      "Work / Job",
+      "Tiền"
     ],
     "options_vi": [
       "Làm việc",
@@ -155,15 +155,11 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Meeting",
         "english": "बैठक (Cuộc họp)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​ (Làm việc)"
       },
       {
         "hindi": "Work / Job",
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +217,8 @@
     "options": [
       "To work",
       "It was a great pleasure meeting you.",
-      "To work",
-      "To work"
+      "Cuộc họp",
+      "Collaboration"
     ],
     "options_vi": [
       "Làm việc",
@@ -237,19 +233,11 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "It was a great pleasure meeting you.",
         "english": "आपसे मिलकर बहुत खुशी हुई। (Rất vui được gặp ngài.)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
       }
     ]
   },
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -304,7 +292,7 @@
       "Work / Job",
       "Money",
       "To work",
-      "To work"
+      "Sự thương lượng"
     ],
     "options_vi": [
       "Công việc",
@@ -319,32 +307,24 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​ (Tiền)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​ (Làm việc)"
+        "english": "पैसा (Tiền)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Office",
-    "translation_en": "दफ़्तर​​​​​​",
+    "translation_en": "दफ़्तर",
     "translation_vi": "Văn phòng",
     "options_en": [
-      "दफ़्तर​​​​​​",
+      "दफ़्तर",
       "मूल्य",
       "वेतन",
-      "काम करना​​​​​​​​​​​​​​"
+      "काम करना"
     ],
     "options_vi": [
       "Văn phòng",

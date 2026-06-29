@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Sự khắc khoải / Khao khát."
       },
       {
-        "hindi": "Later, you encounter a To play (खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To play (खेलना).",
         "translation": "Sau đó, bạn gặp một Chơi."
       }
     ],
@@ -104,7 +104,7 @@
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       },
       {
         "hindi": "Mother",
@@ -112,7 +112,7 @@
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       }
     ]
   },
@@ -165,9 +165,9 @@
     "answer_vi": "Phải không?",
     "options": [
       "Isn't it?",
-      "Isn't it?",
-      "Isn't it?",
-      "Isn't it?"
+      "Can you help me?",
+      "To buy",
+      "Samosa"
     ],
     "options_vi": [
       "Phải không?",
@@ -186,15 +186,15 @@
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       }
     ]
   },
@@ -272,11 +272,11 @@
       },
       {
         "hindi": "Mountain",
-        "english": "पहाड़​ (Ngọn núi)"
+        "english": "पहाड़ (Ngọn núi)"
       },
       {
         "hindi": "Rain",
-        "english": "बारिश​​​​​​​​​​ (Cơn mưa)"
+        "english": "बारिश (Cơn mưa)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Sự khắc khoải / Khao khát",
     "options_en": [
       "तड़प",
-      "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खेलना",
       "माँ",
-      "खड़े होना​​​​​​​​​​​​​​​​​​"
+      "खड़े होना"
     ],
     "options_vi": [
       "Sự khắc khoải / Khao khát",

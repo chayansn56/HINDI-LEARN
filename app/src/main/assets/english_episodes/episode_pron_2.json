@@ -53,24 +53,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Yes/No Question",
-        "right": "Rising Intonation ↗"
-      },
-      {
-        "left": "WH Question",
-        "right": "Falling Intonation ↘"
-      },
-      {
-        "left": "Statement",
-        "right": "Falling Intonation ↘"
-      },
-      {
-        "left": "List items",
-        "right": "Rising ↗ then Falling ↘"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

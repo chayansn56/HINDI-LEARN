@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "To learn",
       "Soil / Earth",
       "To listen / hear",
-      "To listen / hear"
+      "Học"
     ],
     "options_vi": [
       "Học",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +134,9 @@
     "answer_vi": "Học",
     "options": [
       "To learn",
-      "To learn",
       "His / Her / Its (near)",
-      "To learn"
+      "Nhà vệ sinh ở đâu?",
+      "Tôi không hiểu"
     ],
     "options_vi": [
       "Học",
@@ -155,19 +151,11 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "His / Her / Its (near)",
         "english": "इसका (Của anh/chị/nó (gần))"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​ (Học)"
       }
     ]
   },
@@ -220,9 +208,9 @@
     "answer_vi": "Học",
     "options": [
       "To learn",
-      "To learn",
-      "To learn",
-      "To listen / hear"
+      "To listen / hear",
+      "Đất",
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Học",
@@ -240,16 +228,8 @@
         "english": "सीखना (Học)"
       },
       {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -257,7 +237,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +283,8 @@
     "options": [
       "To listen / hear",
       "To learn",
-      "To learn",
-      "To listen / hear"
+      "Bạn có thể giúp tôi không?",
+      "Can you help me?"
     ],
     "options_vi": [
       "Nghe",
@@ -319,32 +299,24 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To listen / hear",
         "english": "सुनना (Nghe)"
+      },
+      {
+        "hindi": "To learn",
+        "english": "सीखना (Học)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To learn",
-    "translation_en": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "सीखना",
     "translation_vi": "Học",
     "options_en": [
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मिट्टी​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​"
+      "सीखना",
+      "मिट्टी",
+      "सुनना",
+      "सुनना"
     ],
     "options_vi": [
       "Học",

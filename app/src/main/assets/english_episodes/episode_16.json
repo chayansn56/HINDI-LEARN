@@ -13,7 +13,7 @@
     "title_vi": "Tập 16",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a Journey (सफ़र​​​).",
+        "hindi": "You arrive at the new city. You see a Journey (सफ़र).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Chuyến đi."
       },
       {
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -84,8 +84,8 @@
     "options": [
       "Journey",
       "Until / Up to",
-      "Journey",
-      "To tell / explain"
+      "To tell / explain",
+      "Can you help me?"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -100,19 +100,15 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Until / Up to",
         "english": "तक (Cho đến khi)"
       },
       {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
-      },
-      {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       }
     ]
   },
@@ -120,7 +116,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To play.",
-    "simpleRule": "Remember: To play means खेलना​​​​​​​​​​​​​​​​ (Chơi)."
+    "simpleRule": "Remember: To play means खेलना (Chơi)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +178,7 @@
     "pairs": [
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       },
       {
         "hindi": "Whom (relative singular)",
@@ -194,7 +190,7 @@
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       }
     ]
   },
@@ -268,28 +264,28 @@
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Journey",
-    "translation_en": "सफ़र​​​",
+    "translation_en": "सफ़र",
     "translation_vi": "Chuyến đi",
     "options_en": [
-      "सफ़र​​​",
+      "सफ़र",
       "तक",
-      "सफ़र​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​"
+      "सफ़र",
+      "बताना"
     ],
     "options_vi": [
       "Chuyến đi",

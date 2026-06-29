@@ -10,47 +10,47 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: कापी​​​​​​​​​​​.",
-    "simpleRule": "Remember: कापी​​​​​​​​​​​ means Notebook (Sổ tay)."
+    "explanation": "Understand the usage and roots of: कापी.",
+    "simpleRule": "Remember: कापी means Notebook (Sổ tay)."
   },
   {
     "type": "Flashcard",
-    "hindi": "कापी​​​​​​​​​​​",
+    "hindi": "कापी",
     "transliteration": "kaapī",
     "english": "Notebook",
     "vietnamese": "Sổ tay",
-    "audio": "कापी​​​​​​​​​​​"
+    "audio": "कापी"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​",
+    "hindi": "खोलना",
     "transliteration": "kholnā",
     "english": "To open",
     "vietnamese": "Mở",
-    "audio": "खोलना​​​"
+    "audio": "खोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'कापी​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'कापी​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'कापी​​​​​​​​​​​'",
-    "text": "कापी​​​​​​​​​​​",
+    "prompt": "Translate 'कापी'",
+    "prompt_en": "Choose correct translation for 'कापी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'कापी'",
+    "text": "कापी",
     "subtext": "kaapī",
     "answer": "Notebook",
     "answer_vi": "Sổ tay",
@@ -72,19 +72,19 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "कापी​​​​​​​​​​​",
+        "hindi": "कापी",
         "english": "Notebook (Sổ tay)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "खोलना​​​",
+        "hindi": "खोलना",
         "english": "To open (Mở)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       }
     ]
@@ -105,19 +105,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खोलना",
     "transliteration": "kholnā",
     "english": "To open",
     "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
@@ -158,11 +158,11 @@
         "english": "Yes, I am ready. (Vâng, tôi sẵn sàng rồi.)"
       },
       {
-        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खोलना",
         "english": "To open (Mở)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
@@ -173,7 +173,7 @@
   },
   {
     "type": "Listening",
-    "audio": "कापी​​​​​​​​​​​",
+    "audio": "कापी",
     "translation_en": "Notebook",
     "translation_vi": "Sổ tay",
     "options_en": [
@@ -195,27 +195,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "कापी​​​​​​​​​​​",
+      "कापी",
       "है"
     ],
-    "correctHindiSentence": "यह एक कापी​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक कापी है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To write / Tôi thấy Viết",
     "hindiWords": [
       "मैं",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "लिखना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं लिखना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: कापी​​​​​​​​​​​, पत्र",
+      "You learned: कापी, पत्र",
       "Practiced constructing sentences."
     ]
   }

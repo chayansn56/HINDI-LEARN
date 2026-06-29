@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Snow / Ice",
       "Sentence",
       "I don't know",
-      "Snow / Ice"
+      "Ngay bây giờ"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -73,7 +73,7 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Sentence",
@@ -82,10 +82,6 @@
       {
         "hindi": "I don't know",
         "english": "मुझे नहीं मालूम (Tôi không biết)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
       }
     ]
   },
@@ -163,7 +159,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "I know",
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +217,8 @@
     "options": [
       "Snow / Ice",
       "to know",
-      "Snow / Ice",
-      "Snow / Ice"
+      "What time is it?",
+      "Ngay lúc đó / Chính vì vậy"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -237,19 +233,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "to know",
         "english": "जानना (Biết)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
       }
     ]
   },
@@ -338,13 +326,13 @@
   {
     "type": "Listening",
     "audio": "Snow / Ice",
-    "translation_en": "बर्फ़​​​​​​​",
+    "translation_en": "बर्फ़",
     "translation_vi": "Tuyết / Đá",
     "options_en": [
-      "बर्फ़​​​​​​​",
+      "बर्फ़",
       "वाक्य",
       "मुझे नहीं मालूम",
-      "बर्फ़​​​​​​​​​​"
+      "बर्फ़"
     ],
     "options_vi": [
       "Tuyết / Đá",

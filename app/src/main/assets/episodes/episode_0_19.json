@@ -4,39 +4,39 @@
     "title": "Foundation Academy - Level 19",
     "description": "Learn key vocabulary and concepts for Foundation Academy - Level 19. Listen carefully and read along in English and Vietnamese.",
     "keyPoints": [
-      "मदद​​​ (madad) = Help / Sự giúp đỡ",
-      "दुनया​​​​ (duniyā) = World / Thế giới",
-      "सोना​​​​​​​​​​​​​​ (sonā) = Gold / Vàng"
+      "मदद (madad) = Help / Sự giúp đỡ",
+      "दुनया (duniyā) = World / Thế giới",
+      "सोना (sonā) = Gold / Vàng"
     ]
   },
   {
     "type": "TeachRule",
     "title": "Alphabet & Building Blocks - Part 19",
     "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: मदद​​​ means 'Help' (Sự giúp đỡ)."
+    "simpleRule": "Remember: मदद means 'Help' (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
-    "hindi": "दुनया​​​​",
+    "hindi": "दुनया",
     "transliteration": "duniyā",
     "english": "World",
     "vietnamese": "Thế giới",
-    "audio": "दुनया​​​​"
+    "audio": "दुनया"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मदद​​​'",
-    "prompt_en": "Choose the correct translation for 'मदद​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मदद​​​'",
-    "text": "मदद​​​",
+    "prompt": "Translate 'मदद'",
+    "prompt_en": "Choose the correct translation for 'मदद'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद'",
+    "text": "मदद",
     "subtext": "madad",
     "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
@@ -55,11 +55,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​​​​​​​​​​​​​",
+    "hindi": "सोना",
     "transliteration": "sonā",
     "english": "Gold",
     "vietnamese": "Vàng",
-    "audio": "सोना​​​​​​​​​​​​​​"
+    "audio": "सोना"
   },
   {
     "type": "Flashcard",
@@ -74,15 +74,15 @@
     "instruction": "Match the Hindi words with their meanings",
     "pairs": [
       {
-        "hindi": "मदद​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
-        "hindi": "दुनया​​​​",
+        "hindi": "दुनया",
         "english": "World (Thế giới)"
       },
       {
-        "hindi": "सोना​​​​​​​​​​​​​​",
+        "hindi": "सोना",
         "english": "Gold (Vàng)"
       },
       {
@@ -93,7 +93,7 @@
   },
   {
     "type": "Listening",
-    "audio": "दुनया​​​​",
+    "audio": "दुनया",
     "translation_en": "World",
     "translation_vi": "Thế giới",
     "options_en": [
@@ -124,11 +124,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​"
+    "audio": "sिखाना"
   },
   {
     "type": "Flashcard",
@@ -143,7 +143,7 @@
     "instruction": "Match the words to proceed",
     "pairs": [
       {
-        "hindi": "सोना​​​​​​​​​​​​​​",
+        "hindi": "सोना",
         "english": "Gold (Vàng)"
       },
       {
@@ -151,7 +151,7 @@
         "english": "What time is it? (Mấy giờ rồi?)"
       },
       {
-        "hindi": "sिखाना​​​​​​​​​​​",
+        "hindi": "sिखाना",
         "english": "To teach (Dạy)"
       },
       {
@@ -177,7 +177,7 @@
     "type": "RevisionSummary",
     "title": "Lesson Summary",
     "takeaways": [
-      "You learned basic vocabulary terms: मदद​​​, सोना​​​​​​​​​​​​​​, sिखाना​​​​​​​​​​​.",
+      "You learned basic vocabulary terms: मदद, सोना, sिखाना.",
       "You completed interactive listening and matching drills.",
       "You practiced word ordering for the sentence: 'This is a big house'."
     ]

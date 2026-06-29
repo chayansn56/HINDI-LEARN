@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To close.",
-    "simpleRule": "Remember: To close means बंद करना​​​​​​​​​​​​​​​​​​​​​​​ (Đóng)."
+    "simpleRule": "Remember: To close means बंद करना (Đóng)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "To close",
       "To learn",
-      "To learn",
-      "Country"
+      "Country",
+      "To listen / hear"
     ],
     "options_vi": [
       "Đóng",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Country",
-        "english": "देश​ (Đất nước)"
+        "english": "देश (Đất nước)"
       }
     ]
   },
@@ -163,11 +159,11 @@
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -237,19 +233,19 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Village",
-        "english": "गाँव​​​​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       }
     ]
   },
@@ -257,7 +253,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Lock.",
-    "simpleRule": "Remember: Lock means ताला​​​​ (Ổ khóa)."
+    "simpleRule": "Remember: Lock means ताला (Ổ khóa)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +315,7 @@
     "pairs": [
       {
         "hindi": "Lock",
-        "english": "ताला​​​​ (Ổ khóa)"
+        "english": "ताला (Ổ khóa)"
       },
       {
         "hindi": "Crazy (in love - fem)",
@@ -327,24 +323,24 @@
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "Cup",
-        "english": "प्याला​​​​ (Tách)"
+        "english": "प्याला (Tách)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To close",
-    "translation_en": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बंद करना",
     "translation_vi": "Đóng",
     "options_en": [
-      "बंद करना​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​",
-      "देश​"
+      "बंद करना",
+      "सीखना",
+      "सीखना",
+      "देश"
     ],
     "options_vi": [
       "Đóng",

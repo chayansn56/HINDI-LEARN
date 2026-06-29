@@ -61,24 +61,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Sprint Planning",
-        "right": "Lập kế hoạch Sprint"
-      },
-      {
-        "left": "Retrospective",
-        "right": "Họp rút kinh nghiệm"
-      },
-      {
-        "left": "Blocker",
-        "right": "Vấn đề cản trở"
-      },
-      {
-        "left": "Backlog",
-        "right": "Danh sách công việc"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

@@ -31,19 +31,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "MultipleChoice",
@@ -57,8 +57,8 @@
     "options": [
       "Fire",
       "to help",
-      "Fire",
-      "Fire"
+      "Police",
+      "आग"
     ],
     "options_vi": [
       "Lửa",
@@ -78,14 +78,6 @@
       {
         "hindi": "मदद करना",
         "english": "to help (Giúp đỡ)"
-      },
-      {
-        "hindi": "आग​​​​​​​​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "आग​​​​​​​​​",
-        "english": "Fire (Lửa)"
       }
     ]
   },
@@ -113,11 +105,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -162,7 +154,7 @@
         "english": "Medicine (Thuốc)"
       },
       {
-        "hindi": "आग​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {

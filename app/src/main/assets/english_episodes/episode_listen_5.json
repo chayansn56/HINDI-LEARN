@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
       "near / near to / possess (have)",
-      "Soil / Earth"
+      "Soil / Earth",
+      "Đất"
     ],
     "options_vi": [
       "Nghe",
@@ -73,11 +73,7 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "near / near to / possess (have)",
@@ -85,7 +81,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "To learn",
       "Tears",
-      "To learn",
-      "To listen / hear"
+      "To listen / hear",
+      "Tôi không hiểu"
     ],
     "options_vi": [
       "Học",
@@ -155,19 +151,15 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Tears",
         "english": "आँसू (Nước mắt)"
       },
       {
-        "hindi": "To learn",
-        "english": "सीखना​​​​ (Học)"
-      },
-      {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -241,15 +233,15 @@
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -304,7 +296,7 @@
       "To learn",
       "Soil / Earth",
       "To listen / hear",
-      "To listen / hear"
+      "near / near to / possess (have)"
     ],
     "options_vi": [
       "Học",
@@ -319,32 +311,28 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To listen / hear",
-    "translation_en": "सुनना​​​​",
+    "translation_en": "सुनना",
     "translation_vi": "Nghe",
     "options_en": [
-      "सुनना​​​​",
-      "सुनना​​​​​​",
+      "सुनना",
+      "सुनना",
       "के पास",
-      "मिट्टी​​"
+      "मिट्टी"
     ],
     "options_vi": [
       "Nghe",

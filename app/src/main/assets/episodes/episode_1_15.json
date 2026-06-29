@@ -4,39 +4,39 @@
     "title": "Foundation Academy - Level 29",
     "description": "Learn key vocabulary and concepts for Foundation Academy - Level 29. Listen carefully and read along in English and Vietnamese.",
     "keyPoints": [
-      "ताला​​ (tālā) = Lock / Ổ khóa",
-      "मिट्टी​​​​​​​​ (miṭṭī) = Soil / Earth / Đất",
-      "काम करना​​​​​ (kām karnā) = To work / Làm việc"
+      "ताला (tālā) = Lock / Ổ khóa",
+      "मिट्टी (miṭṭī) = Soil / Earth / Đất",
+      "काम करना (kām karnā) = To work / Làm việc"
     ]
   },
   {
     "type": "TeachRule",
     "title": "Alphabet & Building Blocks - Part 29",
     "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: ताला​​ means 'Lock' (Ổ khóa)."
+    "simpleRule": "Remember: ताला means 'Lock' (Ổ khóa)."
   },
   {
     "type": "Flashcard",
-    "hindi": "ताला​​",
+    "hindi": "ताला",
     "transliteration": "tālā",
     "english": "Lock",
     "vietnamese": "Ổ khóa",
-    "audio": "ताला​​"
+    "audio": "ताला"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'ताला​​'",
-    "prompt_en": "Choose the correct translation for 'ताला​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'ताला​​'",
-    "text": "ताला​​",
+    "prompt": "Translate 'ताला'",
+    "prompt_en": "Choose the correct translation for 'ताला'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'ताला'",
+    "text": "ताला",
     "subtext": "tālā",
     "answer": "Lock",
     "answer_vi": "Ổ khóa",
@@ -55,45 +55,45 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "काम करना​​​​​",
+    "hindi": "काम करना",
     "transliteration": "kām karnā",
     "english": "To work",
     "vietnamese": "Làm việc",
-    "audio": "काम करना​​​​​"
+    "audio": "काम करना"
   },
   {
     "type": "Flashcard",
-    "hindi": "गाना​​​​",
+    "hindi": "गाना",
     "transliteration": "gānā",
     "english": "To sing",
     "vietnamese": "Hát",
-    "audio": "गाना​​​​"
+    "audio": "गाना"
   },
   {
     "type": "MatchPairs",
     "instruction": "Match the Hindi words with their meanings",
     "pairs": [
       {
-        "hindi": "ताला​​",
+        "hindi": "ताला",
         "english": "Lock (Ổ khóa)"
       },
       {
-        "hindi": "मिट्टी​​​​​​​​",
+        "hindi": "मिट्टी",
         "english": "Soil / Earth (Đất)"
       },
       {
-        "hindi": "काम करना​​​​​",
+        "hindi": "काम करना",
         "english": "To work (Làm việc)"
       },
       {
-        "hindi": "गाना​​​​",
+        "hindi": "गाना",
         "english": "To sing (Hát)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "मिट्टी​​​​​​​​",
+    "audio": "मिट्टी",
     "translation_en": "Soil / Earth",
     "translation_vi": "Đất",
     "options_en": [
@@ -124,11 +124,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "Flashcard",
@@ -143,15 +143,15 @@
     "instruction": "Match the words to proceed",
     "pairs": [
       {
-        "hindi": "काम करना​​​​​",
+        "hindi": "काम करना",
         "english": "To work (Làm việc)"
       },
       {
-        "hindi": "गाना​​​​",
+        "hindi": "गाना",
         "english": "To sing (Hát)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       },
       {
@@ -176,7 +176,7 @@
     "type": "RevisionSummary",
     "title": "Lesson Summary",
     "takeaways": [
-      "You learned basic vocabulary terms: ताला​​, काम करना​​​​​, पढ़ना​​​​​​​​​​​​​​.",
+      "You learned basic vocabulary terms: ताला, काम करना, पढ़ना.",
       "You completed interactive listening and matching drills.",
       "You practiced word ordering for the sentence: 'I am a boy'."
     ]

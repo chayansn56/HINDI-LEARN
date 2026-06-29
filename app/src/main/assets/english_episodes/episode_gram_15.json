@@ -81,7 +81,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Right now",
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +140,7 @@
       "Snow / Ice",
       "Time",
       "I don't know",
-      "Time"
+      "What time is it?"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -155,7 +155,7 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Time",
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +221,8 @@
     "options": [
       "Snow / Ice",
       "I don't know.",
-      "Snow / Ice",
-      "Snow / Ice"
+      "Thì / Vậy thì",
+      "Can you help me?"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -237,19 +237,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "I don't know.",
         "english": "पता नहीं। (Tôi không biết.)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​ (Tuyết / Đá)"
       }
     ]
   },
@@ -343,7 +335,7 @@
     "options_en": [
       "शब्द",
       "पलटी मारना",
-      "बर्फ़​​​​​​​​",
+      "बर्फ़",
       "अभी"
     ],
     "options_vi": [

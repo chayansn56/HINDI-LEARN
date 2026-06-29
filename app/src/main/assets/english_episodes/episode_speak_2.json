@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​​​​​​​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Notebook",
       "Snow / Ice",
       "How much is this?",
-      "Notebook"
+      "Tôi không biết."
     ],
     "options_vi": [
       "Sổ tay",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "How much is this?",
         "english": "यह कितने का है? (Cái này bao nhiêu tiền?)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​ (Sổ tay)"
       }
     ]
   },
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +216,9 @@
     "answer_vi": "Sổ tay",
     "options": [
       "Notebook",
-      "Notebook",
       "What / [Question Marker]",
-      "What / [Question Marker]"
+      "Tôi không hiểu",
+      "Tôi không biết."
     ],
     "options_vi": [
       "Sổ tay",
@@ -237,11 +233,7 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​ (Sổ tay)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "What / [Question Marker]",
@@ -302,9 +294,9 @@
     "answer_vi": "Cái gì",
     "options": [
       "What / [Question Marker]",
-      "What / [Question Marker]",
       "Show-off / Bragging",
-      "Snow / Ice"
+      "Snow / Ice",
+      "Cái gì"
     ],
     "options_vi": [
       "Cái gì",
@@ -331,20 +323,20 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Notebook",
-    "translation_en": "कापी​​​​​​​​​​​",
+    "translation_en": "कापी",
     "translation_vi": "Sổ tay",
     "options_en": [
-      "कापी​​​​​​​​​​​",
-      "बर्फ़​​​​​​​​",
+      "कापी",
+      "बर्फ़",
       "यह कितने का है?",
-      "कापी​​​​​​​​​"
+      "कापी"
     ],
     "options_vi": [
       "Sổ tay",

@@ -55,24 +55,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "want to",
-        "right": "wanna"
-      },
-      {
-        "left": "going to",
-        "right": "gonna"
-      },
-      {
-        "left": "got to",
-        "right": "gotta"
-      },
-      {
-        "left": "let me",
-        "right": "lemme"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

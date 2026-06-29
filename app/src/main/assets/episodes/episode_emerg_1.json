@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: मदद​​​​​​​.",
-    "simpleRule": "Remember: मदद​​​​​​​ means Help (Sự giúp đỡ)."
+    "explanation": "Understand the usage and roots of: मदद.",
+    "simpleRule": "Remember: मदद means Help (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​​​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​​​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
@@ -31,11 +31,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -47,10 +47,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मदद​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'मदद​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मदद​​​​​​​'",
-    "text": "मदद​​​​​​​",
+    "prompt": "Translate 'मदद'",
+    "prompt_en": "Choose correct translation for 'मदद'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद'",
+    "text": "मदद",
     "subtext": "madad",
     "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मदद​​​​​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
@@ -80,7 +80,7 @@
         "english": "Medicine (Thuốc)"
       },
       {
-        "hindi": "आग​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
@@ -92,32 +92,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: आग​​​​​.",
-    "simpleRule": "Remember: आग​​​​​ means Fire (Lửa)."
+    "explanation": "Understand the usage and roots of: आग.",
+    "simpleRule": "Remember: आग means Fire (Lửa)."
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -129,18 +129,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'आग​​​​​'",
-    "prompt_en": "Choose correct translation for 'आग​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​​​​'",
-    "text": "आग​​​​​",
+    "prompt": "Translate 'आग'",
+    "prompt_en": "Choose correct translation for 'आग'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग'",
+    "text": "आग",
     "subtext": "āg",
     "answer": "Fire",
     "answer_vi": "Lửa",
     "options": [
       "Fire",
-      "Fire",
-      "Fire",
-      "I need help."
+      "I need help.",
+      "आग",
+      "Thuốc"
     ],
     "options_vi": [
       "Lửa",
@@ -154,15 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "आग​​​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "आग​​​​​​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "आग​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
@@ -173,7 +165,7 @@
   },
   {
     "type": "Listening",
-    "audio": "मदद​​​​​​​",
+    "audio": "मदद",
     "translation_en": "Help",
     "translation_vi": "Sự giúp đỡ",
     "options_en": [
@@ -195,10 +187,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "मदद​​​​​​​",
+      "मदद",
       "है"
     ],
-    "correctHindiSentence": "यह एक मदद​​​​​​​ है"
+    "correctHindiSentence": "यह एक मदद है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +207,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: मदद​​​​​​​, मुझे मदद चाहिए।",
+      "You learned: मदद, मुझे मदद चाहिए।",
       "Practiced constructing sentences."
     ]
   }

@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: बनाना​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बनाना​​​​​​​​​​​​​​​​​​ means To make / build (Chế tạo / Tạo ra)."
+    "explanation": "Understand the usage and roots of: बनाना.",
+    "simpleRule": "Remember: बनाना means To make / build (Chế tạo / Tạo ra)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "Flashcard",
@@ -31,26 +31,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बताना",
     "transliteration": "batānā",
     "english": "To tell / explain",
     "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बताना"
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "जागना",
     "transliteration": "jāgnā",
     "english": "To wake up",
     "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "जागना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बनाना​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बनाना​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​​​​​​​​​​'",
-    "text": "बनाना​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'बनाना'",
+    "prompt_en": "Choose correct translation for 'बनाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना'",
+    "text": "बनाना",
     "subtext": "banānā",
     "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
@@ -80,11 +80,11 @@
         "english": "to go / passive marker (Đi / Bị (thụ động))"
       },
       {
-        "hindi": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बताना",
         "english": "To tell / explain (Kể / Giải thích)"
       },
       {
-        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "जागना",
         "english": "To wake up (Thức dậy)"
       }
     ]
@@ -92,24 +92,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To wake up (Thức dậy)."
+    "explanation": "Understand the usage and roots of: जागना.",
+    "simpleRule": "Remember: जागना means To wake up (Thức dậy)."
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "जागना",
     "transliteration": "jāgnā",
     "english": "To wake up",
     "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "जागना"
   },
   {
     "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "देखना",
     "transliteration": "dekhnā",
     "english": "To see / watch",
     "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​​​​​​​​​​​"
+    "audio": "देखना"
   },
   {
     "type": "Flashcard",
@@ -121,18 +121,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'जागना'",
+    "prompt_en": "Choose correct translation for 'जागना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'जागना'",
+    "text": "जागना",
     "subtext": "jāgnā",
     "answer": "To wake up",
     "answer_vi": "Thức dậy",
@@ -154,11 +154,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "जागना",
         "english": "To wake up (Thức dậy)"
       },
       {
-        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "देखना",
         "english": "To see / watch (Nhìn / Xem)"
       },
       {
@@ -166,14 +166,14 @@
         "english": "Seen (read receipt) (Đã xem (tin nhắn))"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​",
+    "audio": "बनाना",
     "translation_en": "To make / build",
     "translation_vi": "Chế tạo / Tạo ra",
     "options_en": [
@@ -195,10 +195,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "बनाना​​​​​​​​​​​​​​​​​​",
+      "बनाना",
       "है"
     ],
-    "correctHindiSentence": "यह एक बनाना​​​​​​​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक बनाना है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: बनाना​​​​​​​​​​​​​​​​​​, लिखना​​​​​​​​​​​​​​​​​​​",
+      "You learned: बनाना, लिखना",
       "Practiced constructing sentences."
     ]
   }

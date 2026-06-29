@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Học",
     "options": [
       "To learn",
-      "To learn",
-      "To learn",
-      "His / Her / Its (near)"
+      "His / Her / Its (near)",
+      "Tôi không hiểu",
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Học",
@@ -73,15 +73,7 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "His / Her / Its (near)",
@@ -93,7 +85,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -155,11 +147,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Keep quiet / Shut up.",
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -222,7 +214,7 @@
       "To listen / hear",
       "To this / him / her (near)",
       "To learn",
-      "To learn"
+      "To sing / Song"
     ],
     "options_vi": [
       "Nghe",
@@ -237,7 +229,7 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To this / him / her (near)",
@@ -245,11 +237,7 @@
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       }
     ]
   },
@@ -304,7 +292,7 @@
       "Yearning / Restlessness",
       "To listen / hear",
       "Cloud",
-      "To listen / hear"
+      "Của anh/chị/nó (gần)"
     ],
     "options_vi": [
       "Sự khắc khoải / Khao khát",
@@ -323,27 +311,23 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To learn",
-    "translation_en": "सीखना​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "सीखना",
     "translation_vi": "Học",
     "options_en": [
-      "सीखना​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​",
-      "सीखना​​​​​​​",
+      "सीखना",
+      "सीखना",
+      "सीखना",
       "इसका"
     ],
     "options_vi": [

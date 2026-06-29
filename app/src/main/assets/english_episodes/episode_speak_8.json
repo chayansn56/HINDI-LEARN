@@ -163,7 +163,7 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Eyes",
@@ -241,7 +241,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "No / Not",
@@ -257,7 +257,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +302,9 @@
     "answer_vi": "Tuyết / Đá",
     "options": [
       "Snow / Ice",
-      "Snow / Ice",
       "Whose (singular)",
-      "Snow / Ice"
+      "What a shame.",
+      "Người mà (số nhiều)"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -319,19 +319,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Whose (singular)",
         "english": "किसका (Của ai)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
       }
     ]
   },

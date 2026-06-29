@@ -85,7 +85,7 @@
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +138,9 @@
     "answer_vi": "Lửa",
     "options": [
       "Fire",
-      "Fire",
-      "Fire",
-      "Fire"
+      "Tôi không hiểu",
+      "Nhà vệ sinh ở đâu?",
+      "Đau"
     ],
     "options_vi": [
       "Lửa",
@@ -155,19 +155,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       }
     ]
   },
@@ -221,8 +209,8 @@
     "options": [
       "Hospital",
       "Help",
-      "Help",
-      "Help"
+      "Nhà vệ sinh ở đâu?",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Bệnh viện",
@@ -241,15 +229,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -257,7 +237,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +299,7 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Help me!",
@@ -344,7 +324,7 @@
       "दर्द",
       "पुलिस",
       "मदद करना",
-      "आग​​​​​​​​​"
+      "आग"
     ],
     "options_vi": [
       "Đau",

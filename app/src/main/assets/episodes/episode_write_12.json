@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​​​​​​​​​",
+    "hindi": "खोलना",
     "transliteration": "kholnā",
     "english": "To open",
     "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​​​​​​​​​"
+    "audio": "खोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "कापी​​​​​​",
+    "hindi": "कापी",
     "transliteration": "kaapī",
     "english": "Notebook",
     "vietnamese": "Sổ tay",
-    "audio": "कापी​​​​​​"
+    "audio": "कापी"
   },
   {
     "type": "MultipleChoice",
@@ -76,15 +76,15 @@
         "english": "No problem, it happens. (Không sao đâu, chuyện thường thôi.)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       },
       {
-        "hindi": "खोलना​​​​​​​​​​​​​​​",
+        "hindi": "खोलना",
         "english": "To open (Mở)"
       },
       {
-        "hindi": "कापी​​​​​​",
+        "hindi": "कापी",
         "english": "Notebook (Sổ tay)"
       }
     ]
@@ -92,55 +92,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To write (Viết)."
+    "explanation": "Understand the usage and roots of: लिखना.",
+    "simpleRule": "Remember: लिखना means To write (Viết)."
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पेन​​​​​​​​",
+    "hindi": "पेन",
     "transliteration": "pen",
     "english": "Pen",
     "vietnamese": "Bút",
-    "audio": "पेन​​​​​​​​"
+    "audio": "पेन"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खोलना",
     "transliteration": "kholnā",
     "english": "To open",
     "vietnamese": "Mở",
-    "audio": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खोलना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'लिखना'",
+    "prompt_en": "Choose correct translation for 'लिखना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लिखना'",
+    "text": "लिखना",
     "subtext": "likhnā",
     "answer": "To write",
     "answer_vi": "Viết",
     "options": [
       "To write",
       "Pen",
-      "To write",
-      "To open"
+      "To open",
+      "Không sao đâu, chuyện thường thôi."
     ],
     "options_vi": [
       "Viết",
@@ -154,19 +154,15 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "पेन​​​​​​​​",
+        "hindi": "पेन",
         "english": "Pen (Bút)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​",
-        "english": "To write (Viết)"
-      },
-      {
-        "hindi": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खोलना",
         "english": "To open (Mở)"
       }
     ]
@@ -205,17 +201,17 @@
     "englishSentence": "I see To read / Tôi thấy Đọc",
     "hindiWords": [
       "मैं",
-      "पढ़ना​​​​​​​​​",
+      "पढ़ना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं पढ़ना​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं पढ़ना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: कोई बात नहीं, चलता है।, खोलना​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: कोई बात नहीं, चलता है।, खोलना",
       "Practiced constructing sentences."
     ]
   }

@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +138,9 @@
     "answer_vi": "Tuyết / Đá",
     "options": [
       "Snow / Ice",
-      "Snow / Ice",
       "I don't know",
-      "Snow / Ice"
+      "Xin lỗi cho tôi hỏi",
+      "Word"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -155,19 +155,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "I don't know",
         "english": "मुझे नहीं मालूम (Tôi không biết)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
       }
     ]
   },
@@ -222,7 +214,7 @@
       "before (time)",
       "Right now",
       "Snow / Ice",
-      "Snow / Ice"
+      "after (time)"
     ],
     "options_vi": [
       "Trước khi (thời gian)",
@@ -245,11 +237,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +290,9 @@
     "answer_vi": "Tuyết / Đá",
     "options": [
       "Snow / Ice",
-      "Snow / Ice",
-      "Snow / Ice",
-      "As for / Then"
+      "As for / Then",
+      "Tôi không hiểu",
+      "Ngay bây giờ"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -319,15 +307,7 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
         "english": "बर्फ़ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​ (Tuyết / Đá)"
       },
       {
         "hindi": "As for / Then",

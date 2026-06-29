@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "रास्ता​​​",
+    "hindi": "रास्ता",
     "transliteration": "rāstā",
     "english": "Path / Way",
     "vietnamese": "Đường đi",
-    "audio": "रास्ता​​​"
+    "audio": "रास्ता"
   },
   {
     "type": "Flashcard",
@@ -76,7 +76,7 @@
         "english": "Cat (Con mèo)"
       },
       {
-        "hindi": "रास्ता​​​",
+        "hindi": "रास्ता",
         "english": "Path / Way (Đường đi)"
       },
       {
@@ -92,16 +92,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To see / watch (Nhìn / Xem)."
+    "explanation": "Understand the usage and roots of: देखना.",
+    "simpleRule": "Remember: देखना means To see / watch (Nhìn / Xem)."
   },
   {
     "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "देखना",
     "transliteration": "dekhnā",
     "english": "To see / watch",
     "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "देखना"
   },
   {
     "type": "Flashcard",
@@ -113,26 +113,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "साफ करना​​​​​​​​​​​​​​",
+    "hindi": "साफ करना",
     "transliteration": "sāf karnā",
     "english": "To clean",
     "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​​​​​​​​​​​​"
+    "audio": "साफ करना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'देखना'",
+    "prompt_en": "Choose correct translation for 'देखना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देखना'",
+    "text": "देखना",
     "subtext": "dekhnā",
     "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
@@ -154,7 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "देखना",
         "english": "To see / watch (Nhìn / Xem)"
       },
       {
@@ -162,11 +162,11 @@
         "english": "Rate / Door (Tỷ lệ / Cửa)"
       },
       {
-        "hindi": "साफ करना​​​​​​​​​​​​​​",
+        "hindi": "साफ करना",
         "english": "To clean (Dọn dẹp / Lau chùi)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see Path / Way / Tôi thấy Đường đi",
     "hindiWords": [
       "मैं",
-      "रास्ता​​​",
+      "रास्ता",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं रास्ता​​​ देखता हूँ"
+    "correctHindiSentence": "मैं रास्ता देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: बिल्ली, लिखना​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: बिल्ली, लिखना",
       "Practiced constructing sentences."
     ]
   }

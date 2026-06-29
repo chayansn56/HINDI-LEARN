@@ -23,19 +23,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​"
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Ticket counter",
       "Journey",
-      "Journey",
-      "Car / Train / Cart"
+      "Car / Train / Cart",
+      "Xe hơi / Xe lửa"
     ],
     "options_vi": [
       "Quầy bán vé",
@@ -76,11 +76,7 @@
         "english": "Ticket counter (Quầy bán vé)"
       },
       {
-        "hindi": "सफ़र​",
-        "english": "Journey (Chuyến đi)"
-      },
-      {
-        "hindi": "सफ़र​​​​​​",
+        "hindi": "सफ़र",
         "english": "Journey (Chuyến đi)"
       },
       {
@@ -105,19 +101,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​​​​​​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​​​​​​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Where is the station?",
       "Journey",
-      "Journey",
-      "Bathroom"
+      "Bathroom",
+      "Nhà ga ở đâu?"
     ],
     "options_vi": [
       "Nhà ga ở đâu?",
@@ -158,11 +154,7 @@
         "english": "Where is the station? (Nhà ga ở đâu?)"
       },
       {
-        "hindi": "सफ़र​​​​​​​​​​​",
-        "english": "Journey (Chuyến đi)"
-      },
-      {
-        "hindi": "सफ़र​​​",
+        "hindi": "सफ़र",
         "english": "Journey (Chuyến đi)"
       },
       {
@@ -205,11 +197,11 @@
     "englishSentence": "I see Journey / Tôi thấy Chuyến đi",
     "hindiWords": [
       "मैं",
-      "सफ़र​",
+      "सफ़र",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सफ़र​ देखता हूँ"
+    "correctHindiSentence": "मैं सफ़र देखता हूँ"
   },
   {
     "type": "RevisionSummary",

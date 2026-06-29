@@ -10,55 +10,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: बादल​​​​​.",
-    "simpleRule": "Remember: बादल​​​​​ means Cloud (Đám mây)."
+    "explanation": "Understand the usage and roots of: बादल.",
+    "simpleRule": "Remember: बादल means Cloud (Đám mây)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​​​​",
+    "hindi": "बादल",
     "transliteration": "bādal",
     "english": "Cloud",
     "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​"
+    "audio": "बादल"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बादल​​​​​'",
-    "prompt_en": "Choose correct translation for 'बादल​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बादल​​​​​'",
-    "text": "बादल​​​​​",
+    "prompt": "Translate 'बादल'",
+    "prompt_en": "Choose correct translation for 'बादल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बादल'",
+    "text": "बादल",
     "subtext": "bādal",
     "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
       "Cloud",
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "बादल",
+      "दिल"
     ],
     "options_vi": [
       "Đám mây",
@@ -72,19 +72,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बादल​​​​​",
+        "hindi": "बादल",
         "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       }
     ]
@@ -105,27 +97,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​​",
+    "hindi": "बादल",
     "transliteration": "bādal",
     "english": "Cloud",
     "vietnamese": "Đám mây",
-    "audio": "बादल​​​"
+    "audio": "बादल"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "MultipleChoice",
@@ -140,7 +132,7 @@
       "Heart",
       "Cloud",
       "To listen / hear",
-      "To listen / hear"
+      "बादल"
     ],
     "options_vi": [
       "Trái tim",
@@ -158,22 +150,18 @@
         "english": "Heart (Trái tim)"
       },
       {
-        "hindi": "बादल​​​",
+        "hindi": "बादल",
         "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बादल​​​​​",
+    "audio": "बादल",
     "translation_en": "Cloud",
     "translation_vi": "Đám mây",
     "options_en": [
@@ -195,27 +183,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "बादल​​​​​",
+      "बादल",
       "है"
     ],
-    "correctHindiSentence": "यह एक बादल​​​​​ है"
+    "correctHindiSentence": "यह एक बादल है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
       "मैं",
-      "सुनना​​​​​​​​​​​​​",
+      "सुनना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सुनना​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं सुनना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: बादल​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: बादल, सुनना",
       "Practiced constructing sentences."
     ]
   }

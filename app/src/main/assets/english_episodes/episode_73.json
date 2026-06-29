@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Chị gái."
       },
       {
-        "hindi": "Later, you encounter a To take (लेना​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To take (लेना).",
         "translation": "Sau đó, bạn gặp một Lấy / Nhận."
       }
     ],
@@ -104,7 +104,7 @@
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "Pain",
@@ -112,7 +112,7 @@
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +182,7 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Greetings (formal)",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -264,19 +264,19 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​​​​​​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Chị gái",
     "options_en": [
       "दीदी",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​",
+      "लेना",
       "दर्द",
-      "बैठना​​​​​​​​​​​​​"
+      "बैठना"
     ],
     "options_vi": [
       "Chị gái",

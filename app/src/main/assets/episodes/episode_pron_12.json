@@ -10,24 +10,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बोलना​​​​​​​​​​​​ means To speak (Nói)."
+    "explanation": "Understand the usage and roots of: बोलना.",
+    "simpleRule": "Remember: बोलना means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​​​​​​",
+    "hindi": "बादल",
     "transliteration": "bādal",
     "english": "Cloud",
     "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​​​"
+    "audio": "बादल"
   },
   {
     "type": "Flashcard",
@@ -39,18 +39,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​'",
-    "text": "बोलना​​​​​​​​​​​​",
+    "prompt": "Translate 'बोलना'",
+    "prompt_en": "Choose correct translation for 'बोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना'",
+    "text": "बोलना",
     "subtext": "bolnā",
     "answer": "To speak",
     "answer_vi": "Nói",
@@ -58,7 +58,7 @@
       "To speak",
       "Cloud",
       "LOL / Laughing Out Loud",
-      "To speak"
+      "Nghe"
     ],
     "options_vi": [
       "Nói",
@@ -72,75 +72,71 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बोलना​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
-        "hindi": "बादल​​​​​​​",
+        "hindi": "बादल",
         "english": "Cloud (Đám mây)"
       },
       {
         "hindi": "लोल",
         "english": "LOL / Laughing Out Loud (Cười lớn)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बादल​​​​​​​​​.",
-    "simpleRule": "Remember: बादल​​​​​​​​​ means Cloud (Đám mây)."
+    "explanation": "Understand the usage and roots of: बादल.",
+    "simpleRule": "Remember: बादल means Cloud (Đám mây)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​​​​​​​​",
+    "hindi": "बादल",
     "transliteration": "bādal",
     "english": "Cloud",
     "vietnamese": "Đám mây",
-    "audio": "बादल​​​​​​​​​"
+    "audio": "बादल"
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बादल​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बादल​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बादल​​​​​​​​​'",
-    "text": "बादल​​​​​​​​​",
+    "prompt": "Translate 'बादल'",
+    "prompt_en": "Choose correct translation for 'बादल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बादल'",
+    "text": "बादल",
     "subtext": "bādal",
     "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
       "Cloud",
       "To speak",
-      "To speak",
-      "To listen / hear"
+      "To listen / hear",
+      "बोलना"
     ],
     "options_vi": [
       "Đám mây",
@@ -154,26 +150,22 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बादल​​​​​​​​​",
+        "hindi": "बादल",
         "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बोलना​​​​​​​​​​​​",
+    "audio": "बोलना",
     "translation_en": "To speak",
     "translation_vi": "Nói",
     "options_en": [
@@ -195,27 +187,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "बोलना​​​​​​​​​​​​",
+      "बोलना",
       "है"
     ],
-    "correctHindiSentence": "यह एक बोलना​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक बोलना है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see Cloud / Tôi thấy Đám mây",
     "hindiWords": [
       "मैं",
-      "बादल​​​​​​​",
+      "बादल",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं बादल​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं बादल देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: बोलना​​​​​​​​​​​​, सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: बोलना, सुनना",
       "Practiced constructing sentences."
     ]
   }

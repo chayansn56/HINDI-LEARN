@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Cloud",
       "To listen / hear",
       "To learn",
-      "To listen / hear"
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Đám mây",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​ (Nghe)"
+        "english": "सीखना (Học)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "To listen / hear",
       "To learn",
-      "To learn",
-      "To them / him / her (formal near)"
+      "To them / him / her (formal near)",
+      "Excuse me"
     ],
     "options_vi": [
       "Nghe",
@@ -155,15 +151,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To them / him / her (formal near)",
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "Soil / Earth",
       "Yearning / Restlessness",
-      "Soil / Earth",
-      "To learn"
+      "To learn",
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Đất",
@@ -237,19 +229,15 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Yearning / Restlessness",
         "english": "तड़प (Sự khắc khoải / Khao khát)"
       },
       {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी (Đất)"
-      },
-      {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       }
     ]
   },
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -319,11 +307,11 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "LOL / Laughing Out Loud",
@@ -331,20 +319,20 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Cloud",
-    "translation_en": "बादल​​​​​​",
+    "translation_en": "बादल",
     "translation_vi": "Đám mây",
     "options_en": [
-      "बादल​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​"
+      "बादल",
+      "सुनना",
+      "सीखना",
+      "सुनना"
     ],
     "options_vi": [
       "Đám mây",

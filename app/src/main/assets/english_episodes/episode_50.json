@@ -13,11 +13,11 @@
     "title_vi": "Tập 50",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To sell (बेचना​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To sell (बेचना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Bán."
       },
       {
-        "hindi": "Later, you encounter a To sing (गाना​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To sing (गाना).",
         "translation": "Sau đó, bạn gặp một Hát."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To sell.",
-    "simpleRule": "Remember: To sell means बेचना​​​​​​​​​​​​​​​​​​ (Bán)."
+    "simpleRule": "Remember: To sell means बेचना (Bán)."
   },
   {
     "type": "Flashcard",
@@ -100,19 +100,19 @@
     "pairs": [
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       },
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       }
     ]
   },
@@ -186,11 +186,11 @@
       },
       {
         "hindi": "Shoe",
-        "english": "जूता​​​​​​​​​ (Giày)"
+        "english": "जूता (Giày)"
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "Today",
@@ -276,20 +276,20 @@
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To sell",
-    "translation_en": "बेचना​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बेचना",
     "translation_vi": "Bán",
     "options_en": [
-      "बेचना​​​​​​​​​​​​​​​​​​",
-      "गाना​​​​​​​​​​​​​​​",
-      "हँसना​​​​​​​",
-      "करना​​​​​​​​​​​​​​​​​"
+      "बेचना",
+      "गाना",
+      "हँसना",
+      "करना"
     ],
     "options_vi": [
       "Bán",

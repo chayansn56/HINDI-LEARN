@@ -23,19 +23,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
@@ -76,11 +76,11 @@
         "english": "Medicine (Thuốc)"
       },
       {
-        "hindi": "आग​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
-        "hindi": "मदद​​​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
@@ -105,11 +105,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​​​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​​​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
@@ -121,11 +121,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​"
+    "audio": "मदद"
   },
   {
     "type": "MultipleChoice",
@@ -140,7 +140,7 @@
       "Doctor",
       "Help",
       "Fire",
-      "Help"
+      "डॉक्टर"
     ],
     "options_vi": [
       "Bác sĩ",
@@ -158,16 +158,12 @@
         "english": "Doctor (Bác sĩ)"
       },
       {
-        "hindi": "मदद​​​​​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
         "hindi": "आग",
         "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "मदद​​",
-        "english": "Help (Sự giúp đỡ)"
       }
     ]
   },
@@ -205,17 +201,17 @@
     "englishSentence": "I see Fire / Tôi thấy Lửa",
     "hindiWords": [
       "मैं",
-      "आग​​",
+      "आग",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं आग​​ देखता हूँ"
+    "correctHindiSentence": "मैं आग देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: दवाई, मदद​​",
+      "You learned: दवाई, मदद",
       "Practiced constructing sentences."
     ]
   }

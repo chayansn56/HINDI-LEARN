@@ -139,8 +139,8 @@
     "options": [
       "To eat / Food",
       "Soil / Earth",
-      "Soil / Earth",
-      "Defiled food"
+      "Defiled food",
+      "Đất"
     ],
     "options_vi": [
       "Ăn / Đồ ăn",
@@ -159,11 +159,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Defiled food",
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​​​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -222,7 +218,7 @@
       "Soil / Earth",
       "Dance, my love",
       "Festival",
-      "Soil / Earth"
+      "How much does it cost?"
     ],
     "options_vi": [
       "Đất",
@@ -237,7 +233,7 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Dance, my love",
@@ -246,10 +242,6 @@
       {
         "hindi": "Festival",
         "english": "त्योहार (Lễ hội)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
       }
     ]
   },
@@ -304,7 +296,7 @@
       "Drinking water",
       "Soil / Earth",
       "Client / Customer",
-      "Soil / Earth"
+      "Lễ hội"
     ],
     "options_vi": [
       "Nước uống",
@@ -323,15 +315,11 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Client / Customer",
         "english": "ग्राहक (Khách hàng)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​ (Đất)"
       }
     ]
   },

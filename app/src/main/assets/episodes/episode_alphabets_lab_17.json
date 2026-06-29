@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "देश​​​​​​​",
+    "hindi": "देश",
     "transliteration": "desh",
     "english": "Country",
     "vietnamese": "Đất nước",
-    "audio": "देश​​​​​​​"
+    "audio": "देश"
   },
   {
     "type": "Flashcard",
@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सीखना",
     "transliteration": "sīkhnā",
     "english": "To learn",
     "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सीखना"
   },
   {
     "type": "MultipleChoice",
@@ -76,7 +76,7 @@
         "english": "Woman (Người phụ nữ)"
       },
       {
-        "hindi": "देश​​​​​​​",
+        "hindi": "देश",
         "english": "Country (Đất nước)"
       },
       {
@@ -84,7 +84,7 @@
         "english": "Message (Tin nhắn)"
       },
       {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सीखना",
         "english": "To learn (Học)"
       }
     ]
@@ -105,27 +105,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "समुद्र​​​​​​​​",
+    "hindi": "समुद्र",
     "transliteration": "samudra",
     "english": "Sea / Ocean",
     "vietnamese": "Biển",
-    "audio": "समुद्र​​​​​​​​"
+    "audio": "समुद्र"
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "रोना",
     "transliteration": "ronā",
     "english": "To cry",
     "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "रोना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "MultipleChoice",
@@ -158,15 +158,15 @@
         "english": "Carefree / Cool (Sống thoải mái / Vô tư)"
       },
       {
-        "hindi": "समुद्र​​​​​​​​",
+        "hindi": "समुद्र",
         "english": "Sea / Ocean (Biển)"
       },
       {
-        "hindi": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "रोना",
         "english": "To cry (Khóc)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see Country / Tôi thấy Đất nước",
     "hindiWords": [
       "मैं",
-      "देश​​​​​​​",
+      "देश",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं देश​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं देश देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: औरत, पढ़ना​​​​​​​​​​​​​​",
+      "You learned: औरत, पढ़ना",
       "Practiced constructing sentences."
     ]
   }

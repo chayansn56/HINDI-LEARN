@@ -58,7 +58,7 @@
       "What do you say? / What's up?",
       "To speak",
       "To listen / hear",
-      "To speak"
+      "Nguyên âm"
     ],
     "options_vi": [
       "Bạn nói gì thế? / Thế nào?",
@@ -77,15 +77,11 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "To speak",
       "Cloud",
       "To listen / hear",
-      "To speak"
+      "What do you say? / What's up?"
     ],
     "options_vi": [
       "Nói",
@@ -155,19 +151,15 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​ (Nói)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "To listen / hear",
       "To speak",
-      "To listen / hear",
-      "To speak"
+      "Trọng âm",
+      "Âm tiết"
     ],
     "options_vi": [
       "Nghe",
@@ -237,19 +229,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​ (Nói)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -257,7 +241,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -304,7 +288,7 @@
       "To speak",
       "To listen / hear",
       "Cloud",
-      "To speak"
+      "Trọng âm"
     ],
     "options_vi": [
       "Nói",
@@ -319,19 +303,15 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -342,9 +322,9 @@
     "translation_vi": "Bạn nói gì thế? / Thế nào?",
     "options_en": [
       "क्या बोलता है?",
-      "बोलना​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "बोलना",
+      "सुनना",
+      "बोलना"
     ],
     "options_vi": [
       "Bạn nói gì thế? / Thế nào?",

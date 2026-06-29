@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "MultipleChoice",
@@ -58,7 +58,7 @@
       "Festival",
       "Soil / Earth",
       "Dance",
-      "Soil / Earth"
+      "नच बलिए"
     ],
     "options_vi": [
       "Lễ hội",
@@ -76,16 +76,12 @@
         "english": "Festival (Lễ hội)"
       },
       {
-        "hindi": "मिट्टी​​​​​​​",
+        "hindi": "मिट्टी",
         "english": "Soil / Earth (Đất)"
       },
       {
         "hindi": "नृत्य",
         "english": "Dance (Điệu nhảy)"
-      },
-      {
-        "hindi": "मिट्टी​​​​​",
-        "english": "Soil / Earth (Đất)"
       }
     ]
   },
@@ -105,27 +101,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "MultipleChoice",
@@ -139,8 +135,8 @@
     "options": [
       "Dance, my love",
       "Soil / Earth",
-      "Soil / Earth",
-      "Soil / Earth"
+      "Nhảy đi tình yêu của tôi",
+      "Lễ hội"
     ],
     "options_vi": [
       "Nhảy đi tình yêu của tôi",
@@ -158,15 +154,7 @@
         "english": "Dance, my love (Nhảy đi tình yêu của tôi)"
       },
       {
-        "hindi": "मिट्टी​",
-        "english": "Soil / Earth (Đất)"
-      },
-      {
-        "hindi": "मिट्टी​​​​​​​​​",
-        "english": "Soil / Earth (Đất)"
-      },
-      {
-        "hindi": "मिट्टी​​",
+        "hindi": "मिट्टी",
         "english": "Soil / Earth (Đất)"
       }
     ]
@@ -205,17 +193,17 @@
     "englishSentence": "I see Soil / Earth / Tôi thấy Đất",
     "hindiWords": [
       "मैं",
-      "मिट्टी​​​​​​​",
+      "मिट्टी",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं मिट्टी​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं मिट्टी देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: त्योहार, मिट्टी​​",
+      "You learned: त्योहार, मिट्टी",
       "Practiced constructing sentences."
     ]
   }

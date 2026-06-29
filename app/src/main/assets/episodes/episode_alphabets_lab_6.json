@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: हँसना​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: हँसना​​​​​​​​​​​​​​​​​​​​​​​ means To laugh (Cười lớn)."
+    "explanation": "Understand the usage and roots of: हँसना.",
+    "simpleRule": "Remember: हँसना means To laugh (Cười lớn)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "हँसना",
     "transliteration": "hãsnā",
     "english": "To laugh",
     "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "हँसना"
   },
   {
     "type": "Flashcard",
@@ -31,26 +31,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "चलना",
     "transliteration": "calnā",
     "english": "To walk / move",
     "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "चलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खड़े होना",
     "transliteration": "khaṛe honā",
     "english": "To stand",
     "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खड़े होना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'हँसना​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'हँसना​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'हँसना'",
+    "prompt_en": "Choose correct translation for 'हँसना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना'",
+    "text": "हँसना",
     "subtext": "hãsnā",
     "answer": "To laugh",
     "answer_vi": "Cười lớn",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "हँसना",
         "english": "To laugh (Cười lớn)"
       },
       {
@@ -80,11 +80,11 @@
         "english": "Consumer (Người tiêu dùng)"
       },
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "चलना",
         "english": "To walk / move (Đi bộ / Di chuyển)"
       },
       {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खड़े होना",
         "english": "To stand (Đứng)"
       }
     ]
@@ -105,19 +105,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​​",
+    "hindi": "बादल",
     "transliteration": "bādal",
     "english": "Cloud",
     "vietnamese": "Đám mây",
-    "audio": "बादल​​​"
+    "audio": "बादल"
   },
   {
     "type": "Flashcard",
@@ -158,11 +158,11 @@
         "english": "Maternal Grandmother (Bà ngoại)"
       },
       {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पूछना",
         "english": "To ask (Hỏi)"
       },
       {
-        "hindi": "बादल​​​",
+        "hindi": "बादल",
         "english": "Cloud (Đám mây)"
       },
       {
@@ -173,7 +173,7 @@
   },
   {
     "type": "Listening",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+    "audio": "हँसना",
     "translation_en": "To laugh",
     "translation_vi": "Cười lớn",
     "options_en": [
@@ -195,10 +195,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​",
+      "हँसना",
       "है"
     ],
-    "correctHindiSentence": "यह एक हँसना​​​​​​​​​​​​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक हँसना है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: हँसना​​​​​​​​​​​​​​​​​​​​​​​, क्षत्रिय",
+      "You learned: हँसना, क्षत्रिय",
       "Practiced constructing sentences."
     ]
   }

@@ -10,32 +10,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: दफ़्तर​​​​​​.",
-    "simpleRule": "Remember: दफ़्तर​​​​​​ means Office (Văn phòng)."
+    "explanation": "Understand the usage and roots of: दफ़्तर.",
+    "simpleRule": "Remember: दफ़्तर means Office (Văn phòng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "Flashcard",
@@ -47,18 +47,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'दफ़्तर​​​​​​'",
-    "prompt_en": "Choose correct translation for 'दफ़्तर​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​​​'",
-    "text": "दफ़्तर​​​​​​",
+    "prompt": "Translate 'दफ़्तर'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर'",
+    "text": "दफ़्तर",
     "subtext": "daftar",
     "answer": "Office",
     "answer_vi": "Văn phòng",
     "options": [
       "Office",
       "Money",
-      "Office",
-      "Meeting"
+      "Meeting",
+      "Văn phòng làm việc"
     ],
     "options_vi": [
       "Văn phòng",
@@ -72,16 +72,12 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "दफ़्तर​​​​​​",
+        "hindi": "दफ़्तर",
         "english": "Office (Văn phòng)"
       },
       {
-        "hindi": "पैसा​​​​​​​​​​​",
+        "hindi": "पैसा",
         "english": "Money (Tiền)"
-      },
-      {
-        "hindi": "दफ़्तर​​​​​​​​",
-        "english": "Office (Văn phòng)"
       },
       {
         "hindi": "बैठक",
@@ -92,16 +88,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: दफ़्तर​​​​​.",
-    "simpleRule": "Remember: दफ़्तर​​​​​ means Office (Văn phòng)."
+    "explanation": "Understand the usage and roots of: दफ़्तर.",
+    "simpleRule": "Remember: दफ़्तर means Office (Văn phòng)."
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "Flashcard",
@@ -113,34 +109,34 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'दफ़्तर​​​​​'",
-    "prompt_en": "Choose correct translation for 'दफ़्तर​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर​​​​​'",
-    "text": "दफ़्तर​​​​​",
+    "prompt": "Translate 'दफ़्तर'",
+    "prompt_en": "Choose correct translation for 'दफ़्तर'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'दफ़्तर'",
+    "text": "दफ़्तर",
     "subtext": "daftar",
     "answer": "Office",
     "answer_vi": "Văn phòng",
     "options": [
       "Office",
-      "Office",
       "Money",
-      "Money"
+      "दफ़्तर",
+      "Cuộc họp"
     ],
     "options_vi": [
       "Văn phòng",
@@ -154,7 +150,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "दफ़्तर​​​​​",
+        "hindi": "दफ़्तर",
         "english": "Office (Văn phòng)"
       },
       {
@@ -162,18 +158,14 @@
         "english": "Office (Văn phòng làm việc)"
       },
       {
-        "hindi": "पैसा​​​​",
-        "english": "Money (Tiền)"
-      },
-      {
-        "hindi": "पैसा​​​​​​​​​​​​",
+        "hindi": "पैसा",
         "english": "Money (Tiền)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "दफ़्तर​​​​​​",
+    "audio": "दफ़्तर",
     "translation_en": "Office",
     "translation_vi": "Văn phòng",
     "options_en": [
@@ -195,27 +187,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "दफ़्तर​​​​​​",
+      "दफ़्तर",
       "है"
     ],
-    "correctHindiSentence": "यह एक दफ़्तर​​​​​​ है"
+    "correctHindiSentence": "यह एक दफ़्तर है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see Money / Tôi thấy Tiền",
     "hindiWords": [
       "मैं",
-      "पैसा​​​​​​​​​​​",
+      "पैसा",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं पैसा​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं पैसा देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: दफ़्तर​​​​​​, पैसा​​​​​​​​​​​​",
+      "You learned: दफ़्तर, पैसा",
       "Practiced constructing sentences."
     ]
   }

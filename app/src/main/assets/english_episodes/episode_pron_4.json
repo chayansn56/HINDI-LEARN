@@ -61,24 +61,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Cats",
-        "right": "/s/"
-      },
-      {
-        "left": "Dogs",
-        "right": "/z/"
-      },
-      {
-        "left": "Watches",
-        "right": "/ɪz/"
-      },
-      {
-        "left": "Wife",
-        "right": "/f/"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

@@ -13,7 +13,7 @@
     "title_vi": "Tập 41",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To sleep (सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To sleep (सोना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Ngủ."
       },
       {
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To sleep.",
-    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+    "simpleRule": "Remember: To sleep means सोना (Ngủ)."
   },
   {
     "type": "Flashcard",
@@ -100,7 +100,7 @@
     "pairs": [
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "Be happy! (blessing)",
@@ -112,7 +112,7 @@
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Sea / Ocean.",
-    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​ (Biển)."
+    "simpleRule": "Remember: Sea / Ocean means समुद्र (Biển)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +182,7 @@
     "pairs": [
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "Conspiracy",
@@ -268,7 +268,7 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "You (intimate)",
@@ -276,20 +276,20 @@
       },
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To sleep",
-    "translation_en": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "सोना",
     "translation_vi": "Ngủ",
     "options_en": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना",
       "खुश रहो!",
       "शहर",
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "करना"
     ],
     "options_vi": [
       "Ngủ",

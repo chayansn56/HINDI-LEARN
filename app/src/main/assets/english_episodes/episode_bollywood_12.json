@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​​​​​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Star",
       "To sing / Song",
       "Dance, my love",
-      "Star"
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -73,7 +73,7 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "To sing / Song",
@@ -82,10 +82,6 @@
       {
         "hindi": "Dance, my love",
         "english": "नच बलिए (Nhảy đi tình yêu của tôi)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​ (Ngôi sao)"
       }
     ]
   },
@@ -167,7 +163,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       }
     ]
   },
@@ -222,7 +218,7 @@
       "Movie",
       "Star",
       "Hero",
-      "Star"
+      "Actress"
     ],
     "options_vi": [
       "Bộ phim",
@@ -246,10 +242,6 @@
       {
         "hindi": "Hero",
         "english": "हीरो (Nam chính / Anh hùng)"
-      },
-      {
-        "hindi": "Star",
-        "english": "सितारा (Ngôi sao điện ảnh)"
       }
     ]
   },
@@ -303,8 +295,8 @@
     "options": [
       "Romance",
       "Star",
-      "Star",
-      "Cinema / Theater"
+      "Cinema / Theater",
+      "Nam chính / Anh hùng"
     ],
     "options_vi": [
       "Sự lãng mạn",
@@ -323,11 +315,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Cinema / Theater",
@@ -338,13 +326,13 @@
   {
     "type": "Listening",
     "audio": "Star",
-    "translation_en": "तारा​​​​​​​",
+    "translation_en": "तारा",
     "translation_vi": "Ngôi sao",
     "options_en": [
-      "तारा​​​​​​​",
+      "तारा",
       "गाना",
       "नच बलिए",
-      "तारा​​​​"
+      "तारा"
     ],
     "options_vi": [
       "Ngôi sao",

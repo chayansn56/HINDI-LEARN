@@ -139,8 +139,8 @@
     "options": [
       "Map",
       "Journey",
-      "Journey",
-      "Strong / Robust / Awesome"
+      "Strong / Robust / Awesome",
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Bản đồ",
@@ -159,11 +159,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Strong / Robust / Awesome",
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +217,8 @@
     "options": [
       "Journey",
       "Hotel",
-      "Journey",
-      "Profession / Business"
+      "Profession / Business",
+      "I don't understand"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -237,15 +233,11 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Hotel",
         "english": "होटल (Khách sạn)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​ (Chuyến đi)"
       },
       {
         "hindi": "Profession / Business",
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +311,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Listen carefully.",

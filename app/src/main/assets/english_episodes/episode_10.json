@@ -13,11 +13,11 @@
     "title_vi": "Tập 10",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a Garden (बग़ीचा​​​).",
+        "hindi": "You arrive at the new city. You see a Garden (बग़ीचा).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Khu vườn."
       },
       {
-        "hindi": "Later, you encounter a Shoe (जूता​​​​​​​​​).",
+        "hindi": "Later, you encounter a Shoe (जूता).",
         "translation": "Sau đó, bạn gặp một Giày."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Garden.",
-    "simpleRule": "Remember: Garden means बग़ीचा​​​ (Khu vườn)."
+    "simpleRule": "Remember: Garden means बग़ीचा (Khu vườn)."
   },
   {
     "type": "Flashcard",
@@ -100,15 +100,15 @@
     "pairs": [
       {
         "hindi": "Garden",
-        "english": "बग़ीचा​​​ (Khu vườn)"
+        "english": "बग़ीचा (Khu vườn)"
       },
       {
         "hindi": "Shoe",
-        "english": "जूता​​​​​​​​​ (Giày)"
+        "english": "जूता (Giày)"
       },
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       },
       {
         "hindi": "to be / to happen",
@@ -186,15 +186,15 @@
       },
       {
         "hindi": "To open",
-        "english": "खोलना​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "Cup",
-        "english": "प्याला​​​​​​​ (Tách)"
+        "english": "प्याला (Tách)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Village.",
-    "simpleRule": "Remember: Village means गाँव​​​​​​ (Ngôi làng)."
+    "simpleRule": "Remember: Village means गाँव (Ngôi làng)."
   },
   {
     "type": "Flashcard",
@@ -264,11 +264,11 @@
     "pairs": [
       {
         "hindi": "Village",
-        "english": "गाँव​​​​​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "Agentive particle",
@@ -283,12 +283,12 @@
   {
     "type": "Listening",
     "audio": "Garden",
-    "translation_en": "बग़ीचा​​​",
+    "translation_en": "बग़ीचा",
     "translation_vi": "Khu vườn",
     "options_en": [
-      "बग़ीचा​​​",
-      "जूता​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बग़ीचा",
+      "जूता",
+      "बनाना",
       "होना"
     ],
     "options_vi": [

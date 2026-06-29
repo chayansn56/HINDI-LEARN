@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: पूछना​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: पूछना​​​​​​​​​​​​​​​​​​​ means To ask (Hỏi)."
+    "explanation": "Understand the usage and roots of: पूछना.",
+    "simpleRule": "Remember: पूछना means To ask (Hỏi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "Flashcard",
@@ -31,26 +31,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "गाँव​​​​​",
+    "hindi": "गाँव",
     "transliteration": "gā̃v",
     "english": "Village",
     "vietnamese": "Ngôi làng",
-    "audio": "गाँव​​​​​"
+    "audio": "गाँव"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पूछना​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'पूछना​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पूछना​​​​​​​​​​​​​​​​​​​'",
-    "text": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'पूछना'",
+    "prompt_en": "Choose correct translation for 'पूछना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पूछना'",
+    "text": "पूछना",
     "subtext": "pūchnā",
     "answer": "To ask",
     "answer_vi": "Hỏi",
@@ -58,7 +58,7 @@
       "To ask",
       "I am proud of you.",
       "Village",
-      "To ask"
+      "Ngôi làng"
     ],
     "options_vi": [
       "Hỏi",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पूछना",
         "english": "To ask (Hỏi)"
       },
       {
@@ -80,12 +80,8 @@
         "english": "I am proud of you. (Tôi tự hào về bạn.)"
       },
       {
-        "hindi": "गाँव​​​​​",
+        "hindi": "गाँव",
         "english": "Village (Ngôi làng)"
-      },
-      {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To ask (Hỏi)"
       }
     ]
   },
@@ -105,27 +101,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बताना​",
+    "hindi": "बताना",
     "transliteration": "batānā",
     "english": "To tell / explain",
     "vietnamese": "Kể / Giải thích",
-    "audio": "बताना​"
+    "audio": "बताना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​​​​​​​​​",
+    "hindi": "जागना",
     "transliteration": "jāgnā",
     "english": "To wake up",
     "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​​​​​​​​​"
+    "audio": "जागना"
   },
   {
     "type": "MultipleChoice",
@@ -158,22 +154,22 @@
         "english": "Betrayal / Deceit (Sự phản bội)"
       },
       {
-        "hindi": "बताना​",
+        "hindi": "बताना",
         "english": "To tell / explain (Kể / Giải thích)"
       },
       {
-        "hindi": "पूछना​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पूछना",
         "english": "To ask (Hỏi)"
       },
       {
-        "hindi": "जागना​​​​​​​​​​​​​​​​​",
+        "hindi": "जागना",
         "english": "To wake up (Thức dậy)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "audio": "पूछना",
     "translation_en": "To ask",
     "translation_vi": "Hỏi",
     "options_en": [
@@ -195,10 +191,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "पूछना​​​​​​​​​​​​​​​​​​​",
+      "पूछना",
       "है"
     ],
-    "correctHindiSentence": "यह एक पूछना​​​​​​​​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक पूछना है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +211,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: पूछना​​​​​​​​​​​​​​​​​​​, जागना​​​​​​​​​​​​​​​​​",
+      "You learned: पूछना, जागना",
       "Practiced constructing sentences."
     ]
   }

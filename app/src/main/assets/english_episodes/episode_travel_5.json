@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Journey",
       "Vacant room",
       "Profession / Business",
-      "Journey"
+      "Hãy cẩn thận."
     ],
     "options_vi": [
       "Chuyến đi",
@@ -73,7 +73,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Vacant room",
@@ -82,10 +82,6 @@
       {
         "hindi": "Profession / Business",
         "english": "व्यवसाय (Nghề nghiệp / Doanh nghiệp)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​ (Chuyến đi)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Luggage / Stuff",
       "Journey",
       "Groom's wedding procession",
-      "Journey"
+      "Excuse me"
     ],
     "options_vi": [
       "Hành lý",
@@ -159,15 +155,11 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Groom's wedding procession",
         "english": "बारात (Đoàn rước dâu nhà trai)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +229,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Car / Train / Cart",
@@ -327,7 +319,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Train station",
@@ -338,13 +330,13 @@
   {
     "type": "Listening",
     "audio": "Journey",
-    "translation_en": "सफ़र​​​",
+    "translation_en": "सफ़र",
     "translation_vi": "Chuyến đi",
     "options_en": [
-      "सफ़र​​​",
+      "सफ़र",
       "खाली कमरा",
       "व्यवसाय",
-      "सफ़र​​​​"
+      "सफ़र"
     ],
     "options_vi": [
       "Chuyến đi",

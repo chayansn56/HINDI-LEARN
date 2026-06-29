@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Sữa."
       },
       {
-        "hindi": "Later, you encounter a World (दुनया​​​​​​​).",
+        "hindi": "Later, you encounter a World (दुनया).",
         "translation": "Sau đó, bạn gặp một Thế giới."
       }
     ],
@@ -104,11 +104,11 @@
       },
       {
         "hindi": "World",
-        "english": "दुनया​​​​​​​ (Thế giới)"
+        "english": "दुनया (Thế giới)"
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​ (Bán)"
+        "english": "बेचना (Bán)"
       },
       {
         "hindi": "Villain",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To buy.",
-    "simpleRule": "Remember: To buy means खरीदना​​​​​​​​​​​​​​​​​​​​​​​ (Mua)."
+    "simpleRule": "Remember: To buy means खरीदना (Mua)."
   },
   {
     "type": "Flashcard",
@@ -182,15 +182,15 @@
     "pairs": [
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "Name",
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To play.",
-    "simpleRule": "Remember: To play means खेलना​​​​​​​​​​ (Chơi)."
+    "simpleRule": "Remember: To play means खेलना (Chơi)."
   },
   {
     "type": "Flashcard",
@@ -264,7 +264,7 @@
     "pairs": [
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       },
       {
         "hindi": "Wedding / Marriage",
@@ -276,7 +276,7 @@
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       }
     ]
   },
@@ -287,8 +287,8 @@
     "translation_vi": "Sữa",
     "options_en": [
       "दूध",
-      "दुनया​​​​​​​",
-      "बेचना​​",
+      "दुनया",
+      "बेचना",
       "विलेन"
     ],
     "options_vi": [

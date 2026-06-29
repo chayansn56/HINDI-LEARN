@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Snow / Ice",
       "Knowledge",
-      "Snow / Ice",
-      "Snow / Ice"
+      "Bạn có thể giúp tôi không?",
+      "Right now"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Knowledge",
         "english": "विद्या (Kiến thức)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
       }
     ]
   },
@@ -139,8 +131,8 @@
     "options": [
       "Time",
       "Snow / Ice",
-      "Snow / Ice",
-      "I don't know."
+      "I don't know.",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Thời gian",
@@ -159,11 +151,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "I don't know.",
@@ -222,7 +210,7 @@
       "I don't know",
       "Sentence",
       "Snow / Ice",
-      "Snow / Ice"
+      "Bạn có thể giúp tôi không?"
     ],
     "options_vi": [
       "Tôi không biết",
@@ -245,11 +233,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -338,13 +322,13 @@
   {
     "type": "Listening",
     "audio": "Snow / Ice",
-    "translation_en": "बर्फ़​​​​​​​​​",
+    "translation_en": "बर्फ़",
     "translation_vi": "Tuyết / Đá",
     "options_en": [
-      "बर्फ़​​​​​​​​​",
+      "बर्फ़",
       "विद्या",
-      "बर्फ़​​​​​​​",
-      "बर्फ़​​​​​​​​"
+      "बर्फ़",
+      "बर्फ़"
     ],
     "options_vi": [
       "Tuyết / Đá",

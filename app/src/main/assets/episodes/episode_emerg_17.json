@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: आग​​​​​​​​.",
-    "simpleRule": "Remember: आग​​​​​​​​ means Fire (Lửa)."
+    "explanation": "Understand the usage and roots of: आग.",
+    "simpleRule": "Remember: आग means Fire (Lửa)."
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -47,10 +47,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'आग​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'आग​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​​​​​​​'",
-    "text": "आग​​​​​​​​",
+    "prompt": "Translate 'आग'",
+    "prompt_en": "Choose correct translation for 'आग'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग'",
+    "text": "आग",
     "subtext": "āg",
     "answer": "Fire",
     "answer_vi": "Lửa",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "आग​​​​​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
@@ -113,19 +113,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​"
+    "audio": "आग"
   },
   {
     "type": "MultipleChoice",
@@ -140,7 +140,7 @@
       "Pain",
       "I need help.",
       "Fire",
-      "Fire"
+      "Lửa"
     ],
     "options_vi": [
       "Đau",
@@ -162,18 +162,14 @@
         "english": "I need help. (Tôi cần giúp đỡ.)"
       },
       {
-        "hindi": "आग​​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "आग​​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "आग​​​​​​​​",
+    "audio": "आग",
     "translation_en": "Fire",
     "translation_vi": "Lửa",
     "options_en": [
@@ -195,10 +191,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "आग​​​​​​​​",
+      "आग",
       "है"
     ],
-    "correctHindiSentence": "यह एक आग​​​​​​​​ है"
+    "correctHindiSentence": "यह एक आग है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +211,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: आग​​​​​​​​, आग​​​​​",
+      "You learned: आग, आग",
       "Practiced constructing sentences."
     ]
   }

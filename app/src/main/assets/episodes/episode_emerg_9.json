@@ -31,19 +31,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "MultipleChoice",
@@ -80,11 +80,11 @@
         "english": "Thank you for helping me. (Cảm ơn vì đã giúp tôi.)"
       },
       {
-        "hindi": "मदद​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
-        "hindi": "आग​​​​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       }
     ]
@@ -92,24 +92,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: आग​​​.",
-    "simpleRule": "Remember: आग​​​ means Fire (Lửa)."
+    "explanation": "Understand the usage and roots of: आग.",
+    "simpleRule": "Remember: आग means Fire (Lửa)."
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
@@ -121,18 +121,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​"
+    "audio": "मदद"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'आग​​​'",
-    "prompt_en": "Choose correct translation for 'आग​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'आग​​​'",
-    "text": "आग​​​",
+    "prompt": "Translate 'आग'",
+    "prompt_en": "Choose correct translation for 'आग'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'आग'",
+    "text": "आग",
     "subtext": "āg",
     "answer": "Fire",
     "answer_vi": "Lửa",
@@ -140,7 +140,7 @@
       "Fire",
       "Help",
       "Medicine",
-      "Help"
+      "आग"
     ],
     "options_vi": [
       "Lửa",
@@ -154,20 +154,16 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "आग​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
-        "hindi": "मदद​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
         "hindi": "दवाई",
         "english": "Medicine (Thuốc)"
-      },
-      {
-        "hindi": "मदद​​",
-        "english": "Help (Sự giúp đỡ)"
       }
     ]
   },
@@ -215,7 +211,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: मदद कीजिए!, मदद​​",
+      "You learned: मदद कीजिए!, मदद",
       "Practiced constructing sentences."
     ]
   }

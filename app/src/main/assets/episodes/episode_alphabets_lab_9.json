@@ -10,24 +10,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
+    "explanation": "Understand the usage and roots of: सुनना.",
+    "simpleRule": "Remember: सुनना means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​",
+    "hindi": "देखना",
     "transliteration": "dekhnā",
     "english": "To see / watch",
     "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​"
+    "audio": "देखना"
   },
   {
     "type": "Flashcard",
@@ -39,18 +39,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'सुनना'",
+    "prompt_en": "Choose correct translation for 'सुनना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना'",
+    "text": "सुनना",
     "subtext": "sunnā",
     "answer": "To listen / hear",
     "answer_vi": "Nghe",
@@ -72,11 +72,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "देखना​​​​​​​​​​",
+        "hindi": "देखना",
         "english": "To see / watch (Nhìn / Xem)"
       },
       {
@@ -84,7 +84,7 @@
         "english": "Product (Sản phẩm)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       }
     ]
@@ -92,32 +92,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To play (Chơi)."
+    "explanation": "Understand the usage and roots of: खेलना.",
+    "simpleRule": "Remember: खेलना means To play (Chơi)."
   },
   {
     "type": "Flashcard",
-    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खेलना",
     "transliteration": "khelnā",
     "english": "To play",
     "vietnamese": "Chơi",
-    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खेलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -129,10 +129,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'खेलना'",
+    "prompt_en": "Choose correct translation for 'खेलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'खेलना'",
+    "text": "खेलना",
     "subtext": "khelnā",
     "answer": "To play",
     "answer_vi": "Chơi",
@@ -154,15 +154,15 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खेलना",
         "english": "To play (Chơi)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "बोलना​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
@@ -173,7 +173,7 @@
   },
   {
     "type": "Listening",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​",
+    "audio": "सुनना",
     "translation_en": "To listen / hear",
     "translation_vi": "Nghe",
     "options_en": [
@@ -195,27 +195,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना",
       "है"
     ],
-    "correctHindiSentence": "यह एक सुनना​​​​​​​​​​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक सुनना है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To see / watch / Tôi thấy Nhìn / Xem",
     "hindiWords": [
       "मैं",
-      "देखना​​​​​​​​​​",
+      "देखना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं देखना​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं देखना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: सुनना​​​​​​​​​​​​​​​​​​​​​, क्या बकवास है!",
+      "You learned: सुनना, क्या बकवास है!",
       "Practiced constructing sentences."
     ]
   }

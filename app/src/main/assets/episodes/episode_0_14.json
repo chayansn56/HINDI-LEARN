@@ -65,9 +65,19 @@
     "type": "Listening",
     "audio": "तारा",
     "translation_en": "Star",
-    "options_en": ["Star", "Plate", "Door", "Wealth"],
+    "options_en": [
+      "Star",
+      "Plate",
+      "Door",
+      "Wealth"
+    ],
     "translation_vi": "Ngôi sao",
-    "options_vi": ["Ngôi sao", "Đĩa", "Cửa", "Tài sản"]
+    "options_vi": [
+      "Ngôi sao",
+      "Đĩa",
+      "Cửa",
+      "Tài sản"
+    ]
   },
   {
     "type": "MultipleChoice",
@@ -75,7 +85,12 @@
     "text": "What does दरवाज़ा mean?",
     "subtext": "दरवाज़ा (darwāzā)",
     "answer": "Door",
-    "options": ["River", "Star", "Door", "Wealth"]
+    "options": [
+      "River",
+      "Star",
+      "Door",
+      "Wealth"
+    ]
   },
   {
     "type": "VocabularyContext",
@@ -89,9 +104,19 @@
     "type": "Listening",
     "audio": "नदी",
     "translation_en": "River",
-    "options_en": ["Wealth", "River", "Star", "Plate"],
+    "options_en": [
+      "Wealth",
+      "River",
+      "Star",
+      "Plate"
+    ],
     "translation_vi": "Sông",
-    "options_vi": ["Tài sản", "Sông", "Ngôi sao", "Đĩa"]
+    "options_vi": [
+      "Tài sản",
+      "Sông",
+      "Ngôi sao",
+      "Đĩa"
+    ]
   },
   {
     "type": "MultipleChoice",
@@ -99,7 +124,12 @@
     "text": "Which letter is the aspirated dental 'd' sound (dha)?",
     "subtext": "तवर्ग — dental consonants",
     "answer": "ध",
-    "options": ["द", "ढ", "ध", "ड"]
+    "options": [
+      "द",
+      "ढ",
+      "ध",
+      "ड"
+    ]
   },
   {
     "type": "Drawing",

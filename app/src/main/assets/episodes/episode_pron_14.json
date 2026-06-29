@@ -10,55 +10,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: बादल​​.",
-    "simpleRule": "Remember: बादल​​ means Cloud (Đám mây)."
+    "explanation": "Understand the usage and roots of: बादल.",
+    "simpleRule": "Remember: बादल means Cloud (Đám mây)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बादल​​",
+    "hindi": "बादल",
     "transliteration": "bādal",
     "english": "Cloud",
     "vietnamese": "Đám mây",
-    "audio": "बादल​​"
+    "audio": "बादल"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बादल​​'",
-    "prompt_en": "Choose correct translation for 'बादल​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बादल​​'",
-    "text": "बादल​​",
+    "prompt": "Translate 'बादल'",
+    "prompt_en": "Choose correct translation for 'बादल'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बादल'",
+    "text": "बादल",
     "subtext": "bādal",
     "answer": "Cloud",
     "answer_vi": "Đám mây",
     "options": [
       "Cloud",
       "To listen / hear",
-      "To listen / hear",
-      "To speak"
+      "To speak",
+      "Đám mây"
     ],
     "options_vi": [
       "Đám mây",
@@ -72,19 +72,15 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बादल​​",
+        "hindi": "बादल",
         "english": "Cloud (Đám mây)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       }
     ]
@@ -92,16 +88,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+    "explanation": "Understand the usage and roots of: बोलना.",
+    "simpleRule": "Remember: बोलना means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -113,11 +109,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -129,18 +125,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'बोलना'",
+    "prompt_en": "Choose correct translation for 'बोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना'",
+    "text": "बोलना",
     "subtext": "bolnā",
     "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
       "To speak",
       "Listen carefully.",
-      "To speak",
-      "LOL / Laughing Out Loud"
+      "LOL / Laughing Out Loud",
+      "Đám mây"
     ],
     "options_vi": [
       "Nói",
@@ -154,16 +150,12 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
         "hindi": "ध्यान से सुनो।",
         "english": "Listen carefully. (Nghe cho kỹ nhé.)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
       },
       {
         "hindi": "लोल",
@@ -173,7 +165,7 @@
   },
   {
     "type": "Listening",
-    "audio": "बादल​​",
+    "audio": "बादल",
     "translation_en": "Cloud",
     "translation_vi": "Đám mây",
     "options_en": [
@@ -195,27 +187,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "बादल​​",
+      "बादल",
       "है"
     ],
-    "correctHindiSentence": "यह एक बादल​​ है"
+    "correctHindiSentence": "यह एक बादल है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
       "मैं",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं सुनना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: बादल​​, लोल",
+      "You learned: बादल, लोल",
       "Practiced constructing sentences."
     ]
   }

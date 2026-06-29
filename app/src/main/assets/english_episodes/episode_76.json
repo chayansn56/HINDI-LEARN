@@ -13,7 +13,7 @@
     "title_vi": "Tập 76",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To laugh (हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To laugh (हँसना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Cười lớn."
       },
       {
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To laugh.",
-    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
+    "simpleRule": "Remember: To laugh means हँसना (Cười lớn)."
   },
   {
     "type": "Flashcard",
@@ -100,7 +100,7 @@
     "pairs": [
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "Question",
@@ -108,11 +108,11 @@
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Sea / Ocean.",
-    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​​​ (Biển)."
+    "simpleRule": "Remember: Sea / Ocean means समुद्र (Biển)."
   },
   {
     "type": "Flashcard",
@@ -165,9 +165,9 @@
     "answer_vi": "Biển",
     "options": [
       "Sea / Ocean",
-      "Sea / Ocean",
       "Help",
-      "From this / it (near)"
+      "From this / it (near)",
+      "Biển"
     ],
     "options_vi": [
       "Biển",
@@ -182,15 +182,11 @@
     "pairs": [
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​​​ (Biển)"
-      },
-      {
-        "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​​​​​​​​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "From this / it (near)",
@@ -268,11 +264,11 @@
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "Service",
@@ -283,13 +279,13 @@
   {
     "type": "Listening",
     "audio": "To laugh",
-    "translation_en": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "हँसना",
     "translation_vi": "Cười lớn",
     "options_en": [
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "हँसना",
       "प्रश्न",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मिट्टी​​​"
+      "खरीदना",
+      "मिट्टी"
     ],
     "options_vi": [
       "Cười lớn",

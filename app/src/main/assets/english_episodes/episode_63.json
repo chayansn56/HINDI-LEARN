@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Uống."
       },
       {
-        "hindi": "Later, you encounter a Village (गाँव​​​​​​).",
+        "hindi": "Later, you encounter a Village (गाँव).",
         "translation": "Sau đó, bạn gặp một Ngôi làng."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "Village",
-        "english": "गाँव​​​​​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       }
     ]
   },
@@ -186,7 +186,7 @@
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "No / Not",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To do.",
-    "simpleRule": "Remember: To do means करना​​​​​​​​​​​​​​​​​​​​​​ (Làm)."
+    "simpleRule": "Remember: To do means करना (Làm)."
   },
   {
     "type": "Flashcard",
@@ -264,19 +264,19 @@
     "pairs": [
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Uống",
     "options_en": [
       "पीना",
-      "गाँव​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​"
+      "गाँव",
+      "पढ़ना",
+      "लेना"
     ],
     "options_vi": [
       "Uống",

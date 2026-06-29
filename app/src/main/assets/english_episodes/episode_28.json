@@ -13,7 +13,7 @@
     "title_vi": "Tập 28",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To make / build (बनाना​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To make / build (बनाना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Chế tạo / Tạo ra."
       },
       {
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To make / build.",
-    "simpleRule": "Remember: To make / build means बनाना​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)."
+    "simpleRule": "Remember: To make / build means बनाना (Chế tạo / Tạo ra)."
   },
   {
     "type": "Flashcard",
@@ -100,7 +100,7 @@
     "pairs": [
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       },
       {
         "hindi": "People",
@@ -108,7 +108,7 @@
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       },
       {
         "hindi": "2",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To wash.",
-    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+    "simpleRule": "Remember: To wash means धोना (Rửa / Giặt)."
   },
   {
     "type": "Flashcard",
@@ -182,19 +182,19 @@
     "pairs": [
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To clean.",
-    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+    "simpleRule": "Remember: To clean means साफ करना (Dọn dẹp / Lau chùi)."
   },
   {
     "type": "Flashcard",
@@ -249,7 +249,7 @@
       "To clean",
       "To walk / move",
       "Rain",
-      "To clean"
+      "Dọn dẹp / Lau chùi"
     ],
     "options_vi": [
       "Dọn dẹp / Lau chùi",
@@ -264,31 +264,27 @@
     "pairs": [
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "Rain",
-        "english": "बारिश​​​​​​​​ (Cơn mưa)"
-      },
-      {
-        "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "बारिश (Cơn mưa)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To make / build",
-    "translation_en": "बनाना​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बनाना",
     "translation_vi": "Chế tạo / Tạo ra",
     "options_en": [
-      "बनाना​​​​​​​​​​​​​​​​​​",
+      "बनाना",
       "लोग",
-      "बेचना​​​​​​",
+      "बेचना",
       "२"
     ],
     "options_vi": [

@@ -85,7 +85,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​​​​​​​​​​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +138,9 @@
     "answer_vi": "Ngôi sao",
     "options": [
       "Star",
-      "Star",
-      "Star",
-      "Movie"
+      "Movie",
+      "Cái này giá bao nhiêu?",
+      "Excuse me"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -155,15 +155,7 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Movie",
@@ -220,9 +212,9 @@
     "answer_vi": "Ngôi sao điện ảnh",
     "options": [
       "Star",
-      "Star",
-      "Star",
-      "Romance"
+      "Romance",
+      "Excuse me",
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Ngôi sao điện ảnh",
@@ -240,14 +232,6 @@
         "english": "सितारा (Ngôi sao điện ảnh)"
       },
       {
-        "hindi": "Star",
-        "english": "तारा​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​ (Ngôi sao)"
-      },
-      {
         "hindi": "Romance",
         "english": "रोमांस (Sự lãng mạn)"
       }
@@ -257,7 +241,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​​​​​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +287,8 @@
     "options": [
       "Star",
       "Actress",
-      "Star",
-      "Star"
+      "Ngôi sao",
+      "Sự lãng mạn"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -319,19 +303,11 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Actress",
         "english": "अभिनेत्री (Nữ diễn viên)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​​​​ (Ngôi sao)"
       }
     ]
   },
@@ -344,7 +320,7 @@
       "हीरो",
       "गाना",
       "नच बलिए",
-      "तारा​​​​​​​​​"
+      "तारा"
     ],
     "options_vi": [
       "Nam chính / Anh hùng",

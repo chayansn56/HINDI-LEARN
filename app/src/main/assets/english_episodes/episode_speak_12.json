@@ -85,7 +85,7 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       }
     ]
   },
@@ -245,11 +245,11 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -257,7 +257,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +303,8 @@
     "options": [
       "Snow / Ice",
       "No way!",
-      "Snow / Ice",
-      "Please say it again."
+      "Please say it again.",
+      "What is the plan?"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -319,15 +319,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "No way!",
         "english": "घंटा (Không đời nào / Thôi đi)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
       },
       {
         "hindi": "Please say it again.",
@@ -344,7 +340,7 @@
       "क्या हाल है?",
       "पता नहीं।",
       "क्या बोलता है?",
-      "कापी​​​​​​"
+      "कापी"
     ],
     "options_vi": [
       "Thế nào rồi?",

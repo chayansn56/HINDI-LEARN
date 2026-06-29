@@ -10,47 +10,47 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To walk / move (Đi bộ / Di chuyển)."
+    "explanation": "Understand the usage and roots of: चलना.",
+    "simpleRule": "Remember: चलना means To walk / move (Đi bộ / Di chuyển)."
   },
   {
     "type": "Flashcard",
-    "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "चलना",
     "transliteration": "calnā",
     "english": "To walk / move",
     "vietnamese": "Đi bộ / Di chuyển",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "चलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "हँसना",
     "transliteration": "hãsnā",
     "english": "To laugh",
     "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "हँसना"
   },
   {
     "type": "Flashcard",
-    "hindi": "देश​​",
+    "hindi": "देश",
     "transliteration": "desh",
     "english": "Country",
     "vietnamese": "Đất nước",
-    "audio": "देश​​"
+    "audio": "देश"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'चलना'",
+    "prompt_en": "Choose correct translation for 'चलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'चलना'",
+    "text": "चलना",
     "subtext": "calnā",
     "answer": "To walk / move",
     "answer_vi": "Đi bộ / Di chuyển",
@@ -72,19 +72,19 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "चलना",
         "english": "To walk / move (Đi bộ / Di chuyển)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "हँसना",
         "english": "To laugh (Cười lớn)"
       },
       {
-        "hindi": "देश​​",
+        "hindi": "देश",
         "english": "Country (Đất nước)"
       }
     ]
@@ -92,16 +92,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: sिखाना​​​​​​​​​​.",
-    "simpleRule": "Remember: sिखाना​​​​​​​​​​ means To teach (Dạy)."
+    "explanation": "Understand the usage and roots of: sिखाना.",
+    "simpleRule": "Remember: sिखाना means To teach (Dạy)."
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​"
+    "audio": "sिखाना"
   },
   {
     "type": "Flashcard",
@@ -113,26 +113,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खेलना",
     "transliteration": "khelnā",
     "english": "To play",
     "vietnamese": "Chơi",
-    "audio": "खेलना​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खेलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पूछना​​​​​​​​​​​​",
+    "hindi": "पूछना",
     "transliteration": "pūchnā",
     "english": "To ask",
     "vietnamese": "Hỏi",
-    "audio": "पूछना​​​​​​​​​​​​"
+    "audio": "पूछना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'sिखाना​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'sिखाना​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​​​​​​​​​​'",
-    "text": "sिखाना​​​​​​​​​​",
+    "prompt": "Translate 'sिखाना'",
+    "prompt_en": "Choose correct translation for 'sिखाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना'",
+    "text": "sिखाना",
     "subtext": "sikhānā",
     "answer": "To teach",
     "answer_vi": "Dạy",
@@ -154,7 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "sिखाना​​​​​​​​​​",
+        "hindi": "sिखाना",
         "english": "To teach (Dạy)"
       },
       {
@@ -162,18 +162,18 @@
         "english": "Village (Ngôi làng)"
       },
       {
-        "hindi": "खेलना​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खेलना",
         "english": "To play (Chơi)"
       },
       {
-        "hindi": "पूछना​​​​​​​​​​​​",
+        "hindi": "पूछना",
         "english": "To ask (Hỏi)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "audio": "चलना",
     "translation_en": "To walk / move",
     "translation_vi": "Đi bộ / Di chuyển",
     "options_en": [
@@ -195,27 +195,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "चलना",
       "है"
     ],
-    "correctHindiSentence": "यह एक चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक चलना है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To write / Tôi thấy Viết",
     "hindiWords": [
       "मैं",
-      "लिखना​​​​​​​​​​​​​​​​",
+      "लिखना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं लिखना​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं लिखना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: चलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, पूछना​​​​​​​​​​​​",
+      "You learned: चलना, पूछना",
       "Practiced constructing sentences."
     ]
   }

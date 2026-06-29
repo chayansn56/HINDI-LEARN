@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Rain.",
-    "simpleRule": "Remember: Rain means बारिश​​ (Cơn mưa)."
+    "simpleRule": "Remember: Rain means बारिश (Cơn mưa)."
   },
   {
     "type": "Flashcard",
@@ -73,19 +73,19 @@
     "pairs": [
       {
         "hindi": "Rain",
-        "english": "बारिश​​ (Cơn mưa)"
+        "english": "बारिश (Cơn mưa)"
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -155,7 +155,7 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "Blue",
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Village.",
-    "simpleRule": "Remember: Village means गाँव​​ (Ngôi làng)."
+    "simpleRule": "Remember: Village means गाँव (Ngôi làng)."
   },
   {
     "type": "Flashcard",
@@ -237,19 +237,19 @@
     "pairs": [
       {
         "hindi": "Village",
-        "english": "गाँव​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "Cloth / Dress",
-        "english": "कपड़ा​​​​​​ (Quần áo)"
+        "english": "कपड़ा (Quần áo)"
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       }
     ]
   },
@@ -257,7 +257,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Cloth / Dress.",
-    "simpleRule": "Remember: Cloth / Dress means कपड़ा​​​​​​​ (Quần áo)."
+    "simpleRule": "Remember: Cloth / Dress means कपड़ा (Quần áo)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +319,7 @@
     "pairs": [
       {
         "hindi": "Cloth / Dress",
-        "english": "कपड़ा​​​​​​​ (Quần áo)"
+        "english": "कपड़ा (Quần áo)"
       },
       {
         "hindi": "due to / because of",
@@ -327,24 +327,24 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Rain",
-    "translation_en": "बारिश​​",
+    "translation_en": "बारिश",
     "translation_vi": "Cơn mưa",
     "options_en": [
-      "बारिश​​",
-      "खरीदना​​​​​​​​",
-      "पढ़ना​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​"
+      "बारिश",
+      "खरीदना",
+      "पढ़ना",
+      "लिखना"
     ],
     "options_vi": [
       "Cơn mưa",

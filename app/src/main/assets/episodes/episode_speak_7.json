@@ -10,24 +10,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: बोलना​​​​.",
-    "simpleRule": "Remember: बोलना​​​​ means To speak (Nói)."
+    "explanation": "Understand the usage and roots of: बोलना.",
+    "simpleRule": "Remember: बोलना means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -47,18 +47,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​​​​'",
-    "prompt_en": "Choose correct translation for 'बोलना​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​'",
-    "text": "बोलना​​​​",
+    "prompt": "Translate 'बोलना'",
+    "prompt_en": "Choose correct translation for 'बोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना'",
+    "text": "बोलना",
     "subtext": "bolnā",
     "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
       "To speak",
-      "To speak",
       "When",
-      "To speak"
+      "Thật vớ vẩn!",
+      "Xin chào, bạn khỏe không?"
     ],
     "options_vi": [
       "Nói",
@@ -72,36 +72,28 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बोलना​​​​",
-        "english": "To speak (Nói)"
-      },
-      {
-        "hindi": "बोलना​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
         "hindi": "कब",
         "english": "When (Khi nào)"
-      },
-      {
-        "hindi": "बोलना",
-        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+    "explanation": "Understand the usage and roots of: बोलना.",
+    "simpleRule": "Remember: बोलना means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -121,18 +113,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'बोलना'",
+    "prompt_en": "Choose correct translation for 'बोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना'",
+    "text": "बोलना",
     "subtext": "bolnā",
     "answer": "To speak",
     "answer_vi": "Nói",
@@ -140,7 +132,7 @@
       "To speak",
       "Hello, how are you?",
       "What nonsense!",
-      "To speak"
+      "क्या बकवास है!"
     ],
     "options_vi": [
       "Nói",
@@ -154,7 +146,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
@@ -164,16 +156,12 @@
       {
         "hindi": "क्या बकवास है!",
         "english": "What nonsense! (Thật vớ vẩn!)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "बोलना​​​​",
+    "audio": "बोलना",
     "translation_en": "To speak",
     "translation_vi": "Nói",
     "options_en": [
@@ -195,27 +183,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "बोलना​​​​",
+      "बोलना",
       "है"
     ],
-    "correctHindiSentence": "यह एक बोलना​​​​ है"
+    "correctHindiSentence": "यह एक बोलना है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
       "मैं",
-      "बोलना​​",
+      "बोलना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं बोलना​​ देखता हूँ"
+    "correctHindiSentence": "मैं बोलना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: बोलना​​​​, बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: बोलना, बोलना",
       "Practiced constructing sentences."
     ]
   }

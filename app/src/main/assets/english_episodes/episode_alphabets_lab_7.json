@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To wash.",
-    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+    "simpleRule": "Remember: To wash means धोना (Rửa / Giặt)."
   },
   {
     "type": "Flashcard",
@@ -73,19 +73,19 @@
     "pairs": [
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "Road",
-        "english": "सड़क​​​​​​​​​ (Đường)"
+        "english": "सड़क (Đường)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To clean.",
-    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+    "simpleRule": "Remember: To clean means साफ करना (Dọn dẹp / Lau chùi)."
   },
   {
     "type": "Flashcard",
@@ -155,11 +155,11 @@
     "pairs": [
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       },
       {
         "hindi": "Village",
-        "english": "गाँव​​​​​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       },
       {
         "hindi": "are",
@@ -245,11 +245,11 @@
       },
       {
         "hindi": "Cup",
-        "english": "प्याला​ (Tách)"
+        "english": "प्याला (Tách)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       }
     ]
   },
@@ -257,7 +257,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To cry.",
-    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+    "simpleRule": "Remember: To cry means रोना (Khóc)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +319,7 @@
     "pairs": [
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "Trust / Belief",
@@ -331,20 +331,20 @@
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To wash",
-    "translation_en": "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "धोना",
     "translation_vi": "Rửa / Giặt",
     "options_en": [
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "समुद्र​​​",
-      "सड़क​​​​​​​​​"
+      "धोना",
+      "लेना",
+      "समुद्र",
+      "सड़क"
     ],
     "options_vi": [
       "Rửa / Giặt",

@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: लेना​​​​​.",
-    "simpleRule": "Remember: लेना​​​​​ means To take (Lấy / Nhận)."
+    "explanation": "Understand the usage and roots of: लेना.",
+    "simpleRule": "Remember: लेना means To take (Lấy / Nhận)."
   },
   {
     "type": "Flashcard",
-    "hindi": "लेना​​​​​",
+    "hindi": "लेना",
     "transliteration": "lenā",
     "english": "To take",
     "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​"
+    "audio": "लेना"
   },
   {
     "type": "Flashcard",
@@ -39,18 +39,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "गाँव​​​​​​​",
+    "hindi": "गाँव",
     "transliteration": "gā̃v",
     "english": "Village",
     "vietnamese": "Ngôi làng",
-    "audio": "गाँव​​​​​​​"
+    "audio": "गाँव"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'लेना​​​​​'",
-    "prompt_en": "Choose correct translation for 'लेना​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'लेना​​​​​'",
-    "text": "लेना​​​​​",
+    "prompt": "Translate 'लेना'",
+    "prompt_en": "Choose correct translation for 'लेना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'लेना'",
+    "text": "लेना",
     "subtext": "lenā",
     "answer": "To take",
     "answer_vi": "Lấy / Nhận",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "लेना​​​​​",
+        "hindi": "लेना",
         "english": "To take (Lấy / Nhận)"
       },
       {
@@ -84,7 +84,7 @@
         "english": "Rakhi / Raksha Bandhan (Lễ hội anh chị em Rakhi)"
       },
       {
-        "hindi": "गाँव​​​​​​​",
+        "hindi": "गाँव",
         "english": "Village (Ngôi làng)"
       }
     ]
@@ -105,27 +105,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बर्फ़​​​",
+    "hindi": "बर्फ़",
     "transliteration": "barf",
     "english": "Snow / Ice",
     "vietnamese": "Tuyết / Đá",
-    "audio": "बर्फ़​​​"
+    "audio": "बर्फ़"
   },
   {
     "type": "Flashcard",
-    "hindi": "बग़ीचा​​",
+    "hindi": "बग़ीचा",
     "transliteration": "bagīcā",
     "english": "Garden",
     "vietnamese": "Khu vườn",
-    "audio": "बग़ीचा​​"
+    "audio": "बग़ीचा"
   },
   {
     "type": "MultipleChoice",
@@ -158,22 +158,22 @@
         "english": "On / At (Trên / Tại)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "बर्फ़​​​",
+        "hindi": "बर्फ़",
         "english": "Snow / Ice (Tuyết / Đá)"
       },
       {
-        "hindi": "बग़ीचा​​",
+        "hindi": "बग़ीचा",
         "english": "Garden (Khu vườn)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "लेना​​​​​",
+    "audio": "लेना",
     "translation_en": "To take",
     "translation_vi": "Lấy / Nhận",
     "options_en": [
@@ -195,10 +195,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "लेना​​​​​",
+      "लेना",
       "है"
     ],
-    "correctHindiSentence": "यह एक लेना​​​​​ है"
+    "correctHindiSentence": "यह एक लेना है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: लेना​​​​​, बग़ीचा​​",
+      "You learned: लेना, बग़ीचा",
       "Practiced constructing sentences."
     ]
   }

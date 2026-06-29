@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Sản phẩm."
       },
       {
-        "hindi": "Later, you encounter a To do (करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To do (करना).",
         "translation": "Sau đó, bạn gặp một Làm."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To laugh.",
-    "simpleRule": "Remember: To laugh means हँसना​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)."
+    "simpleRule": "Remember: To laugh means हँसना (Cười lớn)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +182,11 @@
     "pairs": [
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "Path / Way",
-        "english": "रास्ता​​​​​​​​ (Đường đi)"
+        "english": "रास्ता (Đường đi)"
       },
       {
         "hindi": "Laddu",
@@ -268,15 +268,15 @@
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Sản phẩm",
     "options_en": [
       "उत्पाद",
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "मदद​​"
+      "करना",
+      "लिखना",
+      "मदद"
     ],
     "options_vi": [
       "Sản phẩm",

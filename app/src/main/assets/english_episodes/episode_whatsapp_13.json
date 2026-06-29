@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Ngủ",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Trời ơi bạn ơi!"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -241,11 +233,11 @@
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "Silver",
-        "english": "चाँदी​​​​​​​​​ (Bạc)"
+        "english": "चाँदी (Bạc)"
       },
       {
         "hindi": "Money / Paisa",
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +311,7 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "Spice / Spice mix",
@@ -327,11 +319,11 @@
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },

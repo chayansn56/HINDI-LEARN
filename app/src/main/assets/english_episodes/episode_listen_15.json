@@ -57,8 +57,8 @@
     "options": [
       "near / near to / possess (have)",
       "To listen / hear",
-      "To listen / hear",
-      "To learn"
+      "To learn",
+      "Tôi không hiểu"
     ],
     "options_vi": [
       "Gần / Có",
@@ -77,15 +77,11 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Cloud",
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "Nghe",
+      "Im lặng đi."
     ],
     "options_vi": [
       "Đám mây",
@@ -155,19 +151,11 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -175,7 +163,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +209,8 @@
     "options": [
       "To learn",
       "Cloud",
-      "Cloud",
-      "Fear"
+      "Fear",
+      "Học"
     ],
     "options_vi": [
       "Học",
@@ -237,15 +225,11 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "Fear",
@@ -257,7 +241,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +286,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
       "Keep quiet / Shut up.",
-      "To listen / hear"
+      "Sự sợ hãi",
+      "Tôi không hiểu"
     ],
     "options_vi": [
       "Nghe",
@@ -319,19 +303,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Keep quiet / Shut up.",
         "english": "चुप रहो। (Im lặng đi.)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​ (Nghe)"
       }
     ]
   },
@@ -342,9 +318,9 @@
     "translation_vi": "Gần / Có",
     "options_en": [
       "के पास",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "सुनना",
+      "सुनना",
+      "सीखना"
     ],
     "options_vi": [
       "Gần / Có",

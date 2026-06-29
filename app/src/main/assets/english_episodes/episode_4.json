@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Tuyệt vời."
       },
       {
-        "hindi": "Later, you encounter a To do (करना​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To do (करना).",
         "translation": "Sau đó, bạn gặp một Làm."
       }
     ],
@@ -104,7 +104,7 @@
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "Experience",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Road.",
-    "simpleRule": "Remember: Road means सड़क​ (Đường)."
+    "simpleRule": "Remember: Road means सड़क (Đường)."
   },
   {
     "type": "Flashcard",
@@ -182,19 +182,19 @@
     "pairs": [
       {
         "hindi": "Road",
-        "english": "सड़क​ (Đường)"
+        "english": "सड़क (Đường)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Shoe",
-        "english": "जूता​​​ (Giày)"
+        "english": "जूता (Giày)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To stand.",
-    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)."
+    "simpleRule": "Remember: To stand means खड़े होना (Đứng)."
   },
   {
     "type": "Flashcard",
@@ -264,7 +264,7 @@
     "pairs": [
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "Yes",
@@ -272,7 +272,7 @@
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "Father",
@@ -287,7 +287,7 @@
     "translation_vi": "Tuyệt vời",
     "options_en": [
       "झकास",
-      "करना​​​​​​​​​​​​​​​​​​​​",
+      "करना",
       "अनुभव",
       "चलो शुरू करते हैं।"
     ],

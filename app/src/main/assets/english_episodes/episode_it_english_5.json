@@ -61,24 +61,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Expected behavior",
-        "right": "Kết quả mong muốn"
-      },
-      {
-        "left": "Actual behavior",
-        "right": "Hành vi thực tế"
-      },
-      {
-        "left": "Crash",
-        "right": "Sập ứng dụng"
-      },
-      {
-        "left": "Workaround",
-        "right": "Cách giải quyết tạm thời"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

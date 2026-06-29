@@ -13,7 +13,7 @@
     "title_vi": "Tập 89",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To ask (पूछना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
       },
       {
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To ask.",
-    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
   },
   {
     "type": "Flashcard",
@@ -100,7 +100,7 @@
     "pairs": [
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "Applaud / Clapping",
@@ -108,7 +108,7 @@
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "I want this.",
@@ -186,7 +186,7 @@
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "Love (intense)",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -264,11 +264,11 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Shoe",
-        "english": "जूता​​​​​​​​ (Giày)"
+        "english": "जूता (Giày)"
       },
       {
         "hindi": "I am proud of you.",
@@ -276,19 +276,19 @@
       },
       {
         "hindi": "World",
-        "english": "दुनया​​​ (Thế giới)"
+        "english": "दुनया (Thế giới)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To ask",
-    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "पूछना",
     "translation_vi": "Hỏi",
     "options_en": [
-      "पूछना​​​​​​​​​​​​​​​​​​​",
+      "पूछना",
       "तालियाँ",
-      "धोना​​​​",
+      "धोना",
       "मुझे यह चाहिए।"
     ],
     "options_vi": [

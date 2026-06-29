@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "Cloud"
+      "Cloud",
+      "Syllable",
+      "Ghi âm"
     ],
     "options_vi": [
       "Nghe",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
         "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -93,7 +85,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +130,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "To speak"
+      "To speak",
+      "Trọng âm",
+      "Âm tiết"
     ],
     "options_vi": [
       "Nghe",
@@ -155,19 +147,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -175,7 +159,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +205,8 @@
     "options": [
       "Cloud",
       "To speak",
-      "To speak",
-      "To speak"
+      "Vowel",
+      "Bạn có nói tiếng Anh không?"
     ],
     "options_vi": [
       "Đám mây",
@@ -237,19 +221,11 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -257,7 +233,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -304,7 +280,7 @@
       "To listen / hear",
       "Do you speak English?",
       "To speak",
-      "To speak"
+      "Ghi âm"
     ],
     "options_vi": [
       "Nghe",
@@ -319,7 +295,7 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Do you speak English?",
@@ -327,24 +303,20 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To listen / hear",
-    "translation_en": "सुनना​​​​​​​​​",
+    "translation_en": "सुनना",
     "translation_vi": "Nghe",
     "options_en": [
-      "सुनना​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
       "सुनना",
-      "बादल​​​"
+      "सुनना",
+      "सुनना",
+      "बादल"
     ],
     "options_vi": [
       "Nghe",

@@ -121,11 +121,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​​​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​​​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "MultipleChoice",
@@ -140,7 +140,7 @@
       "Car / Train / Cart",
       "Groom",
       "Journey",
-      "Journey"
+      "Business / Trade"
     ],
     "options_vi": [
       "Xe hơi / Xe lửa",
@@ -163,10 +163,6 @@
       },
       {
         "hindi": "सफ़र",
-        "english": "Journey (Chuyến đi)"
-      },
-      {
-        "hindi": "सफ़र​​​​​​​​",
         "english": "Journey (Chuyến đi)"
       }
     ]
@@ -215,7 +211,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: शौचालय, सफ़र​​​​​​​​",
+      "You learned: शौचालय, सफ़र",
       "Practiced constructing sentences."
     ]
   }

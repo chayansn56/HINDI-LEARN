@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "To listen / hear",
       "One's own (reflexive)",
-      "To listen / hear",
-      "To listen / hear"
+      "Nghe",
+      "Nghe này / Xin lỗi"
     ],
     "options_vi": [
       "Nghe",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "One's own (reflexive)",
         "english": "अपना (Của bản thân mình)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​ (Nghe)"
       }
     ]
   },
@@ -140,7 +132,7 @@
       "Did / Done",
       "To listen / hear",
       "Money",
-      "Money"
+      "I don't understand"
     ],
     "options_vi": [
       "Đã làm",
@@ -159,15 +151,11 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​ (Tiền)"
-      },
-      {
-        "hindi": "Money",
-        "english": "पैसा​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       }
     ]
   },
@@ -175,7 +163,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +209,8 @@
     "options": [
       "To listen / hear",
       "Money",
-      "To listen / hear",
-      "Listen (polite)"
+      "Listen (polite)",
+      "Lừa gạt / Xỏ mũi"
     ],
     "options_vi": [
       "Nghe",
@@ -237,15 +225,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​ (Tiền)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "Listen (polite)",
@@ -257,7 +241,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Money.",
-    "simpleRule": "Remember: Money means पैसा​​​​​​​​​​ (Tiền)."
+    "simpleRule": "Remember: Money means पैसा (Tiền)."
   },
   {
     "type": "Flashcard",
@@ -304,7 +288,7 @@
       "Money",
       "To listen / hear",
       "To fool someone",
-      "To listen / hear"
+      "Did / Done"
     ],
     "options_vi": [
       "Tiền",
@@ -319,32 +303,28 @@
     "pairs": [
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​​ (Tiền)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To fool someone",
-        "english": "टोपी पहनाना (Lừa gạt / Xỏ mũi)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "To listen / hear",
         "english": "सुनना (Nghe)"
+      },
+      {
+        "hindi": "To fool someone",
+        "english": "टोपी पहनाना (Lừa gạt / Xỏ mũi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To listen / hear",
-    "translation_en": "सुनना​​​​​​​​​​​​​​​​​",
+    "translation_en": "सुनना",
     "translation_vi": "Nghe",
     "options_en": [
-      "सुनना​​​​​​​​​​​​​​​​​",
+      "सुनना",
       "अपना",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​"
+      "सुनना",
+      "सुनना"
     ],
     "options_vi": [
       "Nghe",

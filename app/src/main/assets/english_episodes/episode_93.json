@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Có thể."
       },
       {
-        "hindi": "Later, you encounter a To walk / move (चलना​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To walk / move (चलना).",
         "translation": "Sau đó, bạn gặp một Đi bộ / Di chuyển."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -190,11 +190,11 @@
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To give",
-        "english": "देना​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -264,19 +264,19 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Có thể",
     "options_en": [
       "सकता है",
-      "चलना​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​",
-      "मदद​​"
+      "चलना",
+      "sिखाना",
+      "मदद"
     ],
     "options_vi": [
       "Có thể",

@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​​​​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Star",
       "Dance",
       "Hero",
-      "Star"
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -73,7 +73,7 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Dance",
@@ -82,10 +82,6 @@
       {
         "hindi": "Hero",
         "english": "हीरो (Nam chính / Anh hùng)"
-      },
-      {
-        "hindi": "Star",
-        "english": "सितारा (Ngôi sao điện ảnh)"
       }
     ]
   },
@@ -139,8 +135,8 @@
     "options": [
       "Dance, my love",
       "Star",
-      "Star",
-      "Star"
+      "Cái này giá bao nhiêu?",
+      "Sự lãng mạn"
     ],
     "options_vi": [
       "Nhảy đi tình yêu của tôi",
@@ -159,15 +155,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       }
     ]
   },
@@ -221,8 +209,8 @@
     "options": [
       "Movie",
       "Star",
-      "Star",
-      "Romance"
+      "Romance",
+      "Nam chính / Anh hùng"
     ],
     "options_vi": [
       "Bộ phim",
@@ -241,11 +229,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Romance",
@@ -303,8 +287,8 @@
     "options": [
       "Actor",
       "Star",
-      "Star",
-      "Star"
+      "Sự lãng mạn",
+      "Bộ phim"
     ],
     "options_vi": [
       "Nam diễn viên",
@@ -323,25 +307,17 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Star",
-    "translation_en": "तारा​​​​​​",
+    "translation_en": "तारा",
     "translation_vi": "Ngôi sao",
     "options_en": [
-      "तारा​​​​​​",
+      "तारा",
       "नृत्य",
       "हीरो",
       "सितारा"

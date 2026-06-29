@@ -85,7 +85,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +139,8 @@
     "options": [
       "Journey",
       "Listen carefully.",
-      "Journey",
-      "Journey"
+      "How much does it cost?",
+      "Vacant room"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -155,19 +155,11 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Listen carefully.",
         "english": "ध्यान से सुनो। (Nghe cho kỹ nhé.)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​ (Chuyến đi)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "Journey",
       "Restroom / Toilet",
-      "Journey",
-      "Vacant room"
+      "Vacant room",
+      "Phòng trống"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -237,15 +229,11 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Restroom / Toilet",
         "english": "शौचालय (Nhà vệ sinh)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
       },
       {
         "hindi": "Vacant room",
@@ -323,7 +311,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Map",
@@ -344,7 +332,7 @@
       "गाड़ी",
       "तगड़ा",
       "दुल्हा",
-      "सफ़र​"
+      "सफ़र"
     ],
     "options_vi": [
       "Xe hơi / Xe lửa",

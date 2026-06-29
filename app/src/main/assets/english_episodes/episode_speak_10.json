@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Snow / Ice",
       "Notebook",
       "How much is it?",
-      "Notebook"
+      "Không (Lịch sự)"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -73,7 +73,7 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Notebook",
@@ -82,10 +82,6 @@
       {
         "hindi": "How much is it?",
         "english": "कितना हुआ? (Bao nhiêu tiền?)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​ (Sổ tay)"
       }
     ]
   },
@@ -139,8 +135,8 @@
     "options": [
       "Yes, absolutely.",
       "Notebook",
-      "Notebook",
-      "Nonsense / Rubbish"
+      "Nonsense / Rubbish",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Vâng, hoàn toàn đồng ý.",
@@ -159,11 +155,7 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​ (Sổ tay)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Nonsense / Rubbish",
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +229,7 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Friend / Buddy",
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +311,7 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Name",
@@ -338,13 +330,13 @@
   {
     "type": "Listening",
     "audio": "Snow / Ice",
-    "translation_en": "बर्फ़​​​",
+    "translation_en": "बर्फ़",
     "translation_vi": "Tuyết / Đá",
     "options_en": [
-      "बर्फ़​​​",
+      "बर्फ़",
       "कापी",
       "कितना हुआ?",
-      "कापी​"
+      "कापी"
     ],
     "options_vi": [
       "Tuyết / Đá",

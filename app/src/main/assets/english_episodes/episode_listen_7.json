@@ -58,7 +58,7 @@
       "Ear",
       "To learn",
       "To listen / hear",
-      "To learn"
+      "I don't understand"
     ],
     "options_vi": [
       "Tai",
@@ -77,15 +77,11 @@
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "To listen / hear",
       "To learn",
       "Soil / Earth",
-      "Soil / Earth"
+      "I don't understand"
     ],
     "options_vi": [
       "Nghe",
@@ -155,15 +151,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
         "english": "सीखना (Học)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​ (Đất)"
       },
       {
         "hindi": "Soil / Earth",
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +212,9 @@
     "answer_vi": "Học",
     "options": [
       "To learn",
-      "To learn",
       "Soil / Earth",
-      "Cloud"
+      "Cloud",
+      "Tai"
     ],
     "options_vi": [
       "Học",
@@ -237,19 +229,15 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +290,9 @@
     "answer_vi": "Học",
     "options": [
       "To learn",
-      "To learn",
       "Cloud",
-      "To learn"
+      "Tai",
+      "Xin lỗi cho tôi hỏi"
     ],
     "options_vi": [
       "Học",
@@ -319,19 +307,11 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Cloud",
         "english": "बादल (Đám mây)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​ (Học)"
       }
     ]
   },
@@ -342,9 +322,9 @@
     "translation_vi": "Tai",
     "options_en": [
       "कान",
-      "सीखना​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "सीखना",
+      "सुनना",
+      "सीखना"
     ],
     "options_vi": [
       "Tai",

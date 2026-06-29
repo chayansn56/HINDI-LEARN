@@ -77,11 +77,11 @@
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Police",
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +138,9 @@
     "answer_vi": "Lửa",
     "options": [
       "Fire",
-      "Fire",
       "Hospital",
-      "Doctor"
+      "Doctor",
+      "Help"
     ],
     "options_vi": [
       "Lửa",
@@ -153,10 +153,6 @@
     "type": "MatchPairs",
     "instruction": "Match all the words with their meanings",
     "pairs": [
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​ (Lửa)"
-      },
       {
         "hindi": "Fire",
         "english": "आग (Lửa)"
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +216,9 @@
     "answer_vi": "Sự giúp đỡ",
     "options": [
       "Help",
-      "Help",
       "Pain",
-      "to help"
+      "to help",
+      "Xin lỗi cho tôi hỏi"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -237,11 +233,7 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Pain",
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​​​​​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +295,8 @@
     "options": [
       "Help",
       "Fire",
-      "Fire",
-      "Medicine"
+      "Medicine",
+      "Sự giúp đỡ"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -319,15 +311,11 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Fire",
-        "english": "आग​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Medicine",
@@ -342,8 +330,8 @@
     "translation_vi": "Tôi cần giúp đỡ.",
     "options_en": [
       "मुझे मदद चाहिए।",
-      "आग​​​​",
-      "मदद​​​​",
+      "आग",
+      "मदद",
       "पुलिस"
     ],
     "options_vi": [

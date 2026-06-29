@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Journey",
       "Bus stop",
-      "Journey",
-      "Journey"
+      "Tôi không hiểu",
+      "Nhà ga ở đâu?"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Bus stop",
         "english": "बस स्टैंड (Trạm xe buýt)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
       }
     ]
   },
@@ -140,7 +132,7 @@
       "Journey",
       "Hotel",
       "Bathroom",
-      "Journey"
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -164,10 +156,6 @@
       {
         "hindi": "Bathroom",
         "english": "बाथरूम (Nhà tắm / Toilet)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
       }
     ]
   },
@@ -221,8 +209,8 @@
     "options": [
       "Strong / Robust / Awesome",
       "Journey",
-      "Journey",
-      "Restroom / Toilet"
+      "Restroom / Toilet",
+      "Vacant room"
     ],
     "options_vi": [
       "Mạnh mẽ / Tuyệt vời",
@@ -241,11 +229,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Restroom / Toilet",
@@ -331,20 +315,20 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Journey",
-    "translation_en": "सफ़र​​",
+    "translation_en": "सफ़र",
     "translation_vi": "Chuyến đi",
     "options_en": [
-      "सफ़र​​",
+      "सफ़र",
       "बस स्टैंड",
-      "सफ़र​​​​​​",
-      "सफ़र​​​​​​​​​​​"
+      "सफ़र",
+      "सफ़र"
     ],
     "options_vi": [
       "Chuyến đi",

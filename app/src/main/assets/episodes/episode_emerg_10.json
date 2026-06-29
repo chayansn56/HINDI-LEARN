@@ -10,24 +10,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: मदद​​​​​​​.",
-    "simpleRule": "Remember: मदद​​​​​​​ means Help (Sự giúp đỡ)."
+    "explanation": "Understand the usage and roots of: मदद.",
+    "simpleRule": "Remember: मदद means Help (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मदद​​​​​​​",
+    "hindi": "मदद",
     "transliteration": "madad",
     "english": "Help",
     "vietnamese": "Sự giúp đỡ",
-    "audio": "मदद​​​​​​​"
+    "audio": "मदद"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -47,10 +47,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मदद​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'मदद​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मदद​​​​​​​'",
-    "text": "मदद​​​​​​​",
+    "prompt": "Translate 'मदद'",
+    "prompt_en": "Choose correct translation for 'मदद'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मदद'",
+    "text": "मदद",
     "subtext": "madad",
     "answer": "Help",
     "answer_vi": "Sự giúp đỡ",
@@ -72,11 +72,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मदद​​​​​​​",
+        "hindi": "मदद",
         "english": "Help (Sự giúp đỡ)"
       },
       {
-        "hindi": "आग​​​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       },
       {
@@ -121,11 +121,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​"
+    "audio": "आग"
   },
   {
     "type": "MultipleChoice",
@@ -166,14 +166,14 @@
         "english": "Medicine (Thuốc)"
       },
       {
-        "hindi": "आग​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "मदद​​​​​​​",
+    "audio": "मदद",
     "translation_en": "Help",
     "translation_vi": "Sự giúp đỡ",
     "options_en": [
@@ -195,27 +195,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "मदद​​​​​​​",
+      "मदद",
       "है"
     ],
-    "correctHindiSentence": "यह एक मदद​​​​​​​ है"
+    "correctHindiSentence": "यह एक मदद है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see Fire / Tôi thấy Lửa",
     "hindiWords": [
       "मैं",
-      "आग​​​​​​",
+      "आग",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं आग​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं आग देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: मदद​​​​​​​, आग​",
+      "You learned: मदद, आग",
       "Practiced constructing sentences."
     ]
   }

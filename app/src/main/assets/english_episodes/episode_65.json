@@ -13,11 +13,11 @@
     "title_vi": "Tập 65",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To ask (पूछना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
       },
       {
-        "hindi": "Later, you encounter a To learn (सीखना​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To learn (सीखना).",
         "translation": "Sau đó, bạn gặp một Học."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To ask.",
-    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
   },
   {
     "type": "Flashcard",
@@ -100,19 +100,19 @@
     "pairs": [
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +182,11 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "Eid",
@@ -268,7 +268,7 @@
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "9",
@@ -276,20 +276,20 @@
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To ask",
-    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "पूछना",
     "translation_vi": "Hỏi",
     "options_en": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "चलना​​",
-      "पैसा​​​​​​​​​"
+      "पूछना",
+      "सीखना",
+      "चलना",
+      "पैसा"
     ],
     "options_vi": [
       "Hỏi",

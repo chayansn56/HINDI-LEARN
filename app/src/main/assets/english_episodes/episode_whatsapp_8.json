@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "To wash",
+      "Can you help me?"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Cloth / Dress"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -245,11 +237,11 @@
       },
       {
         "hindi": "To wash",
-        "english": "धोना​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "Cloth / Dress",
-        "english": "कपड़ा​​​​​​​​​ (Quần áo)"
+        "english": "कपड़ा (Quần áo)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To close.",
-    "simpleRule": "Remember: To close means बंद करना​​​​​​​​​​​​​​​​ (Đóng)."
+    "simpleRule": "Remember: To close means बंद करना (Đóng)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +295,8 @@
     "options": [
       "To close",
       "To speak",
-      "To speak",
-      "To cry"
+      "To cry",
+      "Trạng thái / Tin trạng thái"
     ],
     "options_vi": [
       "Đóng",
@@ -319,15 +311,11 @@
     "pairs": [
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To cry",

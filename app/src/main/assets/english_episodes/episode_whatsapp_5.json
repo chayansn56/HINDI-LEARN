@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Can you help me?",
+      "Bạn có thể giúp tôi không?"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Trời ơi bạn ơi!"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -241,7 +233,7 @@
       },
       {
         "hindi": "Shoe",
-        "english": "जूता​​​​​​​​​​ (Giày)"
+        "english": "जूता (Giày)"
       },
       {
         "hindi": "Nose",
@@ -249,7 +241,7 @@
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To see / watch.",
-    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)."
+    "simpleRule": "Remember: To see / watch means देखना (Nhìn / Xem)."
   },
   {
     "type": "Flashcard",
@@ -319,11 +311,11 @@
     "pairs": [
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Behind / Backward",

@@ -10,32 +10,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: मिट्टी​​​​.",
-    "simpleRule": "Remember: मिट्टी​​​​ means Soil / Earth (Đất)."
+    "explanation": "Understand the usage and roots of: मिट्टी.",
+    "simpleRule": "Remember: मिट्टी means Soil / Earth (Đất)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
@@ -47,18 +47,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मिट्टी​​​​'",
-    "prompt_en": "Choose correct translation for 'मिट्टी​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​​​'",
-    "text": "मिट्टी​​​​",
+    "prompt": "Translate 'मिट्टी'",
+    "prompt_en": "Choose correct translation for 'मिट्टी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी'",
+    "text": "मिट्टी",
     "subtext": "miṭṭī",
     "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
       "Soil / Earth",
-      "Soil / Earth",
-      "Soil / Earth",
-      "Let's start."
+      "Let's start.",
+      "मिट्टी",
+      "Đất"
     ],
     "options_vi": [
       "Đất",
@@ -72,15 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मिट्टी​​​​",
-        "english": "Soil / Earth (Đất)"
-      },
-      {
-        "hindi": "मिट्टी​​​​​​​​",
-        "english": "Soil / Earth (Đất)"
-      },
-      {
-        "hindi": "मिट्टी​​",
+        "hindi": "मिट्टी",
         "english": "Soil / Earth (Đất)"
       },
       {
@@ -92,24 +84,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: मिट्टी​​​​​.",
-    "simpleRule": "Remember: मिट्टी​​​​​ means Soil / Earth (Đất)."
+    "explanation": "Understand the usage and roots of: मिट्टी.",
+    "simpleRule": "Remember: मिट्टी means Soil / Earth (Đất)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
@@ -129,18 +121,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मिट्टी​​​​​'",
-    "prompt_en": "Choose correct translation for 'मिट्टी​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​​​​'",
-    "text": "मिट्टी​​​​​",
+    "prompt": "Translate 'मिट्टी'",
+    "prompt_en": "Choose correct translation for 'मिट्टी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी'",
+    "text": "मिट्टी",
     "subtext": "miṭṭī",
     "answer": "Soil / Earth",
     "answer_vi": "Đất",
     "options": [
       "Soil / Earth",
-      "Soil / Earth",
       "Partnership",
-      "Religion / Duty"
+      "Religion / Duty",
+      "Let's start."
     ],
     "options_vi": [
       "Đất",
@@ -154,11 +146,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मिट्टी​​​​​",
-        "english": "Soil / Earth (Đất)"
-      },
-      {
-        "hindi": "मिट्टी​",
+        "hindi": "मिट्टी",
         "english": "Soil / Earth (Đất)"
       },
       {
@@ -173,7 +161,7 @@
   },
   {
     "type": "Listening",
-    "audio": "मिट्टी​​​​",
+    "audio": "मिट्टी",
     "translation_en": "Soil / Earth",
     "translation_vi": "Đất",
     "options_en": [
@@ -195,27 +183,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "मिट्टी​​​​",
+      "मिट्टी",
       "है"
     ],
-    "correctHindiSentence": "यह एक मिट्टी​​​​ है"
+    "correctHindiSentence": "यह एक मिट्टी है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see Soil / Earth / Tôi thấy Đất",
     "hindiWords": [
       "मैं",
-      "मिट्टी​​​​​​​​",
+      "मिट्टी",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं मिट्टी​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं मिट्टी देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: मिट्टी​​​​, धर्म",
+      "You learned: मिट्टी, धर्म",
       "Practiced constructing sentences."
     ]
   }

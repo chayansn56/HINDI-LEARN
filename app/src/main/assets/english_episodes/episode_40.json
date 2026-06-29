@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Nghi lễ thờ cúng."
       },
       {
-        "hindi": "Later, you encounter a To learn (सीखना​​​​​​).",
+        "hindi": "Later, you encounter a To learn (सीखना).",
         "translation": "Sau đó, bạn gặp một Học."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -182,15 +182,15 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "Water",
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To laugh.",
-    "simpleRule": "Remember: To laugh means हँसना​ (Cười lớn)."
+    "simpleRule": "Remember: To laugh means हँसना (Cười lớn)."
   },
   {
     "type": "Flashcard",
@@ -264,11 +264,11 @@
     "pairs": [
       {
         "hindi": "To laugh",
-        "english": "हँसना​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "am",
@@ -276,7 +276,7 @@
       },
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Nghi lễ thờ cúng",
     "options_en": [
       "पूजा",
-      "सीखना​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सफ़र​​​​​​​​​​​"
+      "सीखना",
+      "पढ़ना",
+      "सफ़र"
     ],
     "options_vi": [
       "Nghi lễ thờ cúng",

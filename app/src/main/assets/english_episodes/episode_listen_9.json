@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "To learn",
       "To listen / hear",
-      "To listen / hear",
-      "Soil / Earth"
+      "Soil / Earth",
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Học",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "To listen / hear",
       "To learn",
       "Cloud",
-      "To listen / hear"
+      "Im lặng đi."
     ],
     "options_vi": [
       "Nghe",
@@ -155,19 +151,15 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​ (Nghe)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "To learn",
       "Keep quiet / Shut up.",
-      "To learn",
-      "To learn"
+      "Bạn có thể giúp tôi không?",
+      "Tôi không hiểu"
     ],
     "options_vi": [
       "Học",
@@ -237,19 +229,11 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Keep quiet / Shut up.",
         "english": "चुप रहो। (Im lặng đi.)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To learn",
-        "english": "सीखना​​​​​​ (Học)"
       }
     ]
   },
@@ -257,7 +241,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +286,9 @@
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "LOL / Laughing Out Loud"
+      "LOL / Laughing Out Loud",
+      "Cười lớn",
+      "Cloud"
     ],
     "options_vi": [
       "Nghe",
@@ -319,15 +303,7 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "LOL / Laughing Out Loud",
@@ -338,13 +314,13 @@
   {
     "type": "Listening",
     "audio": "To learn",
-    "translation_en": "सीखना​​​​​",
+    "translation_en": "सीखना",
     "translation_vi": "Học",
     "options_en": [
-      "सीखना​​​​​",
-      "सुनना​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​",
-      "मिट्टी​​​​"
+      "सीखना",
+      "सुनना",
+      "सुनना",
+      "मिट्टी"
     ],
     "options_vi": [
       "Học",

@@ -13,11 +13,11 @@
     "title_vi": "Tập 1",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a Snow / Ice (बर्फ़​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a Snow / Ice (बर्फ़).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Tuyết / Đá."
       },
       {
-        "hindi": "Later, you encounter a Fire (आग​).",
+        "hindi": "Later, you encounter a Fire (आग).",
         "translation": "Sau đó, bạn gặp một Lửa."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -100,11 +100,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Fire",
-        "english": "आग​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "What does this mean?",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To ask.",
-    "simpleRule": "Remember: To ask means पूछना​​​​​​​​ (Hỏi)."
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +182,7 @@
     "pairs": [
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "Pilgrimage",
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To sleep.",
-    "simpleRule": "Remember: To sleep means सोना​​​​​​​​ (Ngủ)."
+    "simpleRule": "Remember: To sleep means सोना (Ngủ)."
   },
   {
     "type": "Flashcard",
@@ -264,7 +264,7 @@
     "pairs": [
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "GB (Gigabyte)",
@@ -272,22 +272,22 @@
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Snow / Ice",
-    "translation_en": "बर्फ़​​​​​​​​",
+    "translation_en": "बर्फ़",
     "translation_vi": "Tuyết / Đá",
     "options_en": [
-      "बर्फ़​​​​​​​​",
-      "आग​",
+      "बर्फ़",
+      "आग",
       "इसका क्या मतलब है?",
       "क्या समय हुआ है?"
     ],

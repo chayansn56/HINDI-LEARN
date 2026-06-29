@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Tài khoản."
       },
       {
-        "hindi": "Later, you encounter a To walk / move (चलना​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To walk / move (चलना).",
         "translation": "Sau đó, bạn gặp một Đi bộ / Di chuyển."
       }
     ],
@@ -104,7 +104,7 @@
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "It is impossible.",
@@ -112,7 +112,7 @@
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To wash.",
-    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+    "simpleRule": "Remember: To wash means धोना (Rửa / Giặt)."
   },
   {
     "type": "Flashcard",
@@ -167,7 +167,7 @@
       "To wash",
       "To listen / hear",
       "To sleep",
-      "To listen / hear"
+      "To teach"
     ],
     "options_vi": [
       "Rửa / Giặt",
@@ -182,19 +182,15 @@
     "pairs": [
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सोना (Ngủ)"
       }
     ]
   },
@@ -268,11 +264,11 @@
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       },
       {
         "hindi": "90",
@@ -287,9 +283,9 @@
     "translation_vi": "Tài khoản",
     "options_en": [
       "खाता",
-      "चलना​​​​​​​​​​​​​​​​​​​",
+      "चलना",
       "यह नामुमकिन है।",
-      "देना​​​​​​"
+      "देना"
     ],
     "options_vi": [
       "Tài khoản",

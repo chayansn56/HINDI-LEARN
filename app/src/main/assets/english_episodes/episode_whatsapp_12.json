@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Điện thoại",
+      "To run"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Excuse me"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -241,15 +233,15 @@
       },
       {
         "hindi": "Road",
-        "english": "सड़क​​​​​​​​ (Đường)"
+        "english": "सड़क (Đường)"
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To buy.",
-    "simpleRule": "Remember: To buy means खरीदना​​​​​​ (Mua)."
+    "simpleRule": "Remember: To buy means खरीदना (Mua)."
   },
   {
     "type": "Flashcard",
@@ -319,11 +311,11 @@
     "pairs": [
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "In / Into",
@@ -331,7 +323,7 @@
       },
       {
         "hindi": "Pen",
-        "english": "पेन​​​​​​​​​​ (Bút)"
+        "english": "पेन (Bút)"
       }
     ]
   },

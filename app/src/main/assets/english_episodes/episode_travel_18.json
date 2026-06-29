@@ -81,7 +81,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Groom's wedding procession",
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +138,9 @@
     "answer_vi": "Chuyến đi",
     "options": [
       "Journey",
-      "Journey",
       "Map",
-      "Journey"
+      "Tôi không hiểu",
+      "Chú rể"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -155,19 +155,11 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Map",
         "english": "नक्शा (Bản đồ)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +294,9 @@
     "answer_vi": "Chuyến đi",
     "options": [
       "Journey",
-      "Journey",
       "Groom",
-      "Bus stop"
+      "Bus stop",
+      "Bathroom"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -319,11 +311,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Groom",
@@ -343,7 +331,7 @@
     "options_en": [
       "गाड़ी",
       "बिंदास",
-      "सफ़र​​​​​​​",
+      "सफ़र",
       "बारात"
     ],
     "options_vi": [

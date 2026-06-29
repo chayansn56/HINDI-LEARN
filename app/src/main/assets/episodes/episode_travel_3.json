@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​"
+    "audio": "सफ़र"
   },
   {
     "type": "MultipleChoice",
@@ -56,9 +56,9 @@
     "answer_vi": "Chuyến đi",
     "options": [
       "Journey",
-      "Journey",
       "Be careful / Watch out.",
-      "Journey"
+      "Police station",
+      "सफ़र"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -76,16 +76,8 @@
         "english": "Journey (Chuyến đi)"
       },
       {
-        "hindi": "सफ़र​​​",
-        "english": "Journey (Chuyến đi)"
-      },
-      {
         "hindi": "सावधान रहें।",
         "english": "Be careful / Watch out. (Hãy cẩn thận.)"
-      },
-      {
-        "hindi": "सफ़र​",
-        "english": "Journey (Chuyến đi)"
       }
     ]
   },
@@ -105,11 +97,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
@@ -158,7 +150,7 @@
         "english": "Police station (Đồn cảnh sát)"
       },
       {
-        "hindi": "सफ़र​​​​",
+        "hindi": "सफ़र",
         "english": "Journey (Chuyến đi)"
       },
       {
@@ -205,11 +197,11 @@
     "englishSentence": "I see Journey / Tôi thấy Chuyến đi",
     "hindiWords": [
       "मैं",
-      "सफ़र​​​",
+      "सफ़र",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सफ़र​​​ देखता हूँ"
+    "correctHindiSentence": "मैं सफ़र देखता हूँ"
   },
   {
     "type": "RevisionSummary",

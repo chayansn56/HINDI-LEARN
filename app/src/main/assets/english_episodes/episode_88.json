@@ -13,11 +13,11 @@
     "title_vi": "Tập 88",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To stand (खड़े होना​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To stand (खड़े होना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Đứng."
       },
       {
-        "hindi": "Later, you encounter a To walk / move (चलना​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To walk / move (चलना).",
         "translation": "Sau đó, bạn gặp một Đi bộ / Di chuyển."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To stand.",
-    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​​​ (Đứng)."
+    "simpleRule": "Remember: To stand means खड़े होना (Đứng)."
   },
   {
     "type": "Flashcard",
@@ -100,15 +100,15 @@
     "pairs": [
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       },
       {
         "hindi": "Star",
@@ -186,15 +186,15 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -264,15 +264,15 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "Road",
-        "english": "सड़क​​​​​​​​​ (Đường)"
+        "english": "सड़क (Đường)"
       },
       {
         "hindi": "His / Her (distant feminine)",
@@ -283,12 +283,12 @@
   {
     "type": "Listening",
     "audio": "To stand",
-    "translation_en": "खड़े होना​​​​​​​​​​​​​​​​​​",
+    "translation_en": "खड़े होना",
     "translation_vi": "Đứng",
     "options_en": [
-      "खड़े होना​​​​​​​​​​​​​​​​​​",
-      "चलना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​",
+      "खड़े होना",
+      "चलना",
+      "बनाना",
       "सितारा"
     ],
     "options_vi": [

@@ -85,7 +85,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -163,7 +163,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Heart",
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +221,8 @@
     "options": [
       "Soil / Earth",
       "Festival",
-      "Soil / Earth",
-      "Soil / Earth"
+      "Hậu giới từ chỉ tác nhân",
+      "Agentive particle"
     ],
     "options_vi": [
       "Đất",
@@ -237,19 +237,11 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Festival",
         "english": "त्योहार (Lễ hội)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​​ (Đất)"
       }
     ]
   },
@@ -303,8 +295,8 @@
     "options": [
       "Car / Train / Cart",
       "Soil / Earth",
-      "Soil / Earth",
-      "to drink"
+      "to drink",
+      "Heart"
     ],
     "options_vi": [
       "Xe hơi / Xe lửa",
@@ -320,10 +312,6 @@
       {
         "hindi": "Car / Train / Cart",
         "english": "गाड़ी (Xe hơi / Xe lửa)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​ (Đất)"
       },
       {
         "hindi": "Soil / Earth",
@@ -344,7 +332,7 @@
       "ग्राहक",
       "नच बलिए",
       "ने",
-      "मिट्टी​​​​"
+      "मिट्टी"
     ],
     "options_vi": [
       "Khách hàng",

@@ -13,11 +13,11 @@
     "title_vi": "Tập 56",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To see / watch (देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To see / watch (देखना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Nhìn / Xem."
       },
       {
-        "hindi": "Later, you encounter a To read (पढ़ना​).",
+        "hindi": "Later, you encounter a To read (पढ़ना).",
         "translation": "Sau đó, bạn gặp một Đọc."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To see / watch.",
-    "simpleRule": "Remember: To see / watch means देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)."
+    "simpleRule": "Remember: To see / watch means देखना (Nhìn / Xem)."
   },
   {
     "type": "Flashcard",
@@ -100,15 +100,15 @@
     "pairs": [
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "Profession / Business",
@@ -186,15 +186,15 @@
       },
       {
         "hindi": "Mountain",
-        "english": "पहाड़​​​​​​​​ (Ngọn núi)"
+        "english": "पहाड़ (Ngọn núi)"
       },
       {
         "hindi": "Cup",
-        "english": "प्याला​​​​ (Tách)"
+        "english": "प्याला (Tách)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To sleep.",
-    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+    "simpleRule": "Remember: To sleep means सोना (Ngủ)."
   },
   {
     "type": "Flashcard",
@@ -248,8 +248,8 @@
     "options": [
       "To sleep",
       "To listen / hear",
-      "To listen / hear",
-      "To sleep"
+      "Đọc",
+      "To read"
     ],
     "options_vi": [
       "Ngủ",
@@ -264,31 +264,23 @@
     "pairs": [
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To see / watch",
-    "translation_en": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "देखना",
     "translation_vi": "Nhìn / Xem",
     "options_en": [
-      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​",
-      "समुद्र​",
+      "देखना",
+      "पढ़ना",
+      "समुद्र",
       "व्यवसाय"
     ],
     "options_vi": [

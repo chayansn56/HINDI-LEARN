@@ -81,7 +81,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "to know",
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +220,9 @@
     "answer_vi": "Tuyết / Đá",
     "options": [
       "Snow / Ice",
-      "Snow / Ice",
-      "Snow / Ice",
-      "Snow / Ice"
+      "Sentence",
+      "Mấy giờ rồi?",
+      "As for / Then"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -237,19 +237,7 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -343,7 +331,7 @@
     "options_en": [
       "समय",
       "तो",
-      "बर्फ़​​​​​​​",
+      "बर्फ़",
       "जानना"
     ],
     "options_vi": [

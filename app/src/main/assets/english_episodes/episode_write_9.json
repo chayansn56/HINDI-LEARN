@@ -77,11 +77,11 @@
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Read (root)",
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​​​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -155,11 +155,11 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "Notebook",
@@ -167,7 +167,7 @@
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       }
     ]
   },
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +220,9 @@
     "answer_vi": "Viết",
     "options": [
       "To write",
-      "To write",
       "To open",
-      "Read (root)"
+      "Read (root)",
+      "Uống"
     ],
     "options_vi": [
       "Viết",
@@ -237,19 +237,15 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​ (Viết)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       }
     ]
   },
@@ -257,7 +253,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Pen.",
-    "simpleRule": "Remember: Pen means पेन​​​​​​​​​​ (Bút)."
+    "simpleRule": "Remember: Pen means पेन (Bút)."
   },
   {
     "type": "Flashcard",
@@ -304,7 +300,7 @@
       "Pen",
       "Seen (read receipt)",
       "Read (root)",
-      "Read (root)"
+      "Database"
     ],
     "options_vi": [
       "Bút",
@@ -319,7 +315,7 @@
     "pairs": [
       {
         "hindi": "Pen",
-        "english": "पेन​​​​​​​​​​ (Bút)"
+        "english": "पेन (Bút)"
       },
       {
         "hindi": "Seen (read receipt)",
@@ -327,11 +323,7 @@
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       }
     ]
   },
@@ -342,8 +334,8 @@
     "translation_vi": "Uống",
     "options_en": [
       "पीना",
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लिखना​​​​​​​​​​​​",
+      "पढ़ना",
+      "लिखना",
       "पढ़"
     ],
     "options_vi": [

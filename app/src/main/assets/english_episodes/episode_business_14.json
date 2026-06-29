@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Làm việc",
     "options": [
       "To work",
-      "To work",
-      "To work",
-      "To work"
+      "Reduce price a bit.",
+      "Sự thương lượng",
+      "Văn phòng"
     ],
     "options_vi": [
       "Làm việc",
@@ -73,19 +73,7 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -93,7 +81,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +127,8 @@
     "options": [
       "To work",
       "Money",
-      "Money",
-      "Employee"
+      "Employee",
+      "Làm việc"
     ],
     "options_vi": [
       "Làm việc",
@@ -155,15 +143,11 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​ (Tiền)"
-      },
-      {
-        "hindi": "Money",
-        "english": "पैसा​​​​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "Employee",
@@ -175,7 +159,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​​​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +205,8 @@
     "options": [
       "To work",
       "Reduce price a bit.",
-      "To work",
-      "To work"
+      "Sự thương lượng",
+      "Negotiation"
     ],
     "options_vi": [
       "Làm việc",
@@ -237,19 +221,11 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Reduce price a bit.",
         "english": "थोड़ा कम कीजिए। (Giảm giá một chút.)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​ (Làm việc)"
       }
     ]
   },
@@ -257,7 +233,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +278,9 @@
     "answer_vi": "Làm việc",
     "options": [
       "To work",
-      "To work",
       "Office",
-      "To work"
+      "Agenda",
+      "Làm việc"
     ],
     "options_vi": [
       "Làm việc",
@@ -319,32 +295,24 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​​​​​​​ (Văn phòng)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "दफ़्तर (Văn phòng)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To work",
-    "translation_en": "काम करना​​​​​",
+    "translation_en": "काम करना",
     "translation_vi": "Làm việc",
     "options_en": [
-      "काम करना​​​​​",
-      "काम करना​​​​​​​​​​​​​​​​​​​",
-      "काम करना​​​​​​​​​​​​​​​​​​​​",
-      "काम करना​​​​​​​​​​​​​​​​​"
+      "काम करना",
+      "काम करना",
+      "काम करना",
+      "काम करना"
     ],
     "options_vi": [
       "Làm việc",

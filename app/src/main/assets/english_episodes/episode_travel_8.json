@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +220,9 @@
     "answer_vi": "Chuyến đi",
     "options": [
       "Journey",
-      "Journey",
       "Ticket",
-      "Bus stop"
+      "Bus stop",
+      "Trạm xe buýt"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -237,11 +237,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Ticket",
@@ -327,7 +323,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Strong / Robust / Awesome",

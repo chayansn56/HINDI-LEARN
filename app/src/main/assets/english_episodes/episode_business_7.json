@@ -57,8 +57,8 @@
     "options": [
       "Money / Paisa",
       "Office",
-      "Office",
-      "To work"
+      "To work",
+      "Thỏa thuận / Hợp đồng"
     ],
     "options_vi": [
       "Tiền xu / Tiền",
@@ -77,15 +77,11 @@
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​​​​ (Văn phòng)"
-      },
-      {
-        "hindi": "Office",
-        "english": "दफ़्तर​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "To work",
       "Office",
-      "To work",
-      "Office"
+      "Money",
+      "Employee"
     ],
     "options_vi": [
       "Làm việc",
@@ -155,19 +151,11 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​ (Văn phòng)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "Office",
-        "english": "दफ़्तर​​​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       }
     ]
   },
@@ -241,11 +229,11 @@
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Employee",
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +290,9 @@
     "answer_vi": "Làm việc",
     "options": [
       "To work",
-      "To work",
       "Money / Paisa",
-      "Office"
+      "Office",
+      "Tiền"
     ],
     "options_vi": [
       "Làm việc",
@@ -319,19 +307,15 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "Office",
-        "english": "दफ़्तर​​​​​​​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       }
     ]
   },
@@ -342,9 +326,9 @@
     "translation_vi": "Tiền xu / Tiền",
     "options_en": [
       "पैसा",
-      "दफ़्तर​​​​​​​​",
-      "दफ़्तर​​​​",
-      "काम करना​​​​​​​​​"
+      "दफ़्तर",
+      "दफ़्तर",
+      "काम करना"
     ],
     "options_vi": [
       "Tiền xu / Tiền",

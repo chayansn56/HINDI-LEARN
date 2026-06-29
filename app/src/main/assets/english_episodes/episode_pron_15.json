@@ -77,7 +77,7 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Do you speak English?",
@@ -85,7 +85,7 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +139,8 @@
     "options": [
       "To listen / hear",
       "Cloud",
-      "To listen / hear",
-      "To listen / hear"
+      "Consonant",
+      "Nói"
     ],
     "options_vi": [
       "Nghe",
@@ -155,19 +155,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "To speak",
       "To listen / hear",
-      "To listen / hear",
-      "Please say it again."
+      "Please say it again.",
+      "Vowel"
     ],
     "options_vi": [
       "Nói",
@@ -237,15 +229,11 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Please say it again.",
@@ -303,8 +291,8 @@
     "options": [
       "Please speak slowly.",
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "Bạn có nói tiếng Anh không?",
+      "Nghe"
     ],
     "options_vi": [
       "Làm ơn nói chậm lại.",
@@ -323,15 +311,7 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -342,9 +322,9 @@
     "translation_vi": "Hãy nghe tôi nói.",
     "options_en": [
       "मेरी बात सुनो।",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सुनना",
       "क्या आप अंग्रेज़ी बोलते हैं?",
-      "बोलना​​​​​​​​​"
+      "बोलना"
     ],
     "options_vi": [
       "Hãy nghe tôi nói.",

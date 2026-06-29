@@ -31,11 +31,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
@@ -80,7 +80,7 @@
         "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
       },
       {
-        "hindi": "मिट्टी​​​​",
+        "hindi": "मिट्टी",
         "english": "Soil / Earth (Đất)"
       },
       {
@@ -92,16 +92,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: मिट्टी​​​​​​​.",
-    "simpleRule": "Remember: मिट्टी​​​​​​​ means Soil / Earth (Đất)."
+    "explanation": "Understand the usage and roots of: मिट्टी.",
+    "simpleRule": "Remember: मिट्टी means Soil / Earth (Đất)."
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
@@ -121,18 +121,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'मिट्टी​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'मिट्टी​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी​​​​​​​'",
-    "text": "मिट्टी​​​​​​​",
+    "prompt": "Translate 'मिट्टी'",
+    "prompt_en": "Choose correct translation for 'मिट्टी'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'मिट्टी'",
+    "text": "मिट्टी",
     "subtext": "miṭṭī",
     "answer": "Soil / Earth",
     "answer_vi": "Đất",
@@ -140,7 +140,7 @@
       "Soil / Earth",
       "Let's start.",
       "Festival",
-      "Soil / Earth"
+      "Lễ hội"
     ],
     "options_vi": [
       "Đất",
@@ -154,7 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "मिट्टी​​​​​​​",
+        "hindi": "मिट्टी",
         "english": "Soil / Earth (Đất)"
       },
       {
@@ -164,10 +164,6 @@
       {
         "hindi": "त्योहार",
         "english": "Festival (Lễ hội)"
-      },
-      {
-        "hindi": "मिट्टी​​​​​",
-        "english": "Soil / Earth (Đất)"
       }
     ]
   },
@@ -215,7 +211,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: खाना, मिट्टी​​​​​",
+      "You learned: खाना, मिट्टी",
       "Practiced constructing sentences."
     ]
   }

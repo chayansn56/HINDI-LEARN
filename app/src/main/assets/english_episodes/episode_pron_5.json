@@ -61,24 +61,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Ship",
-        "right": "Con tàu (/ɪ/)"
-      },
-      {
-        "left": "Sheep",
-        "right": "Con cừu (/i:/)"
-      },
-      {
-        "left": "Pull",
-        "right": "Kéo (/ʊ/)"
-      },
-      {
-        "left": "Pool",
-        "right": "Hồ bơi (/u:/)"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

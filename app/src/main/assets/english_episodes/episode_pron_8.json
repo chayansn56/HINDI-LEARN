@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "To speak",
       "Cloud",
       "To listen / hear",
-      "To listen / hear"
+      "Record"
     ],
     "options_vi": [
       "Nói",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "To listen / hear",
       "Cloud",
-      "To listen / hear",
-      "Cloud"
+      "Stress",
+      "To speak"
     ],
     "options_vi": [
       "Nghe",
@@ -155,19 +151,11 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "Cloud",
-        "english": "बादल​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -175,7 +163,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To listen / hear.",
-    "simpleRule": "Remember: To listen / hear means सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)."
+    "simpleRule": "Remember: To listen / hear means सुनना (Nghe)."
   },
   {
     "type": "Flashcard",
@@ -222,7 +210,7 @@
       "To listen / hear",
       "To speak",
       "Cloud",
-      "To speak"
+      "Syllable"
     ],
     "options_vi": [
       "Nghe",
@@ -237,19 +225,15 @@
     "pairs": [
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​ (Đám mây)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -303,8 +287,8 @@
     "options": [
       "Word",
       "To speak",
-      "To speak",
-      "To speak"
+      "Từ ngữ",
+      "Nguyên âm"
     ],
     "options_vi": [
       "Từ ngữ",
@@ -323,28 +307,20 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To speak",
-    "translation_en": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बोलना",
     "translation_vi": "Nói",
     "options_en": [
-      "बोलना​​​​​​​​​​​​​​​​​​​",
-      "बादल​​​",
-      "सुनना​​​​​​​​​​",
-      "सुनना​​​​​​​"
+      "बोलना",
+      "बादल",
+      "सुनना",
+      "सुनना"
     ],
     "options_vi": [
       "Nói",

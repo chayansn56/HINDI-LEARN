@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -73,15 +73,15 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "It is very expensive.",
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -155,15 +155,15 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "to drink",
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +220,9 @@
     "answer_vi": "Đọc",
     "options": [
       "To read",
-      "To read",
       "To write",
-      "To write"
+      "Khung làm việc (Framework)",
+      "Notebook"
     ],
     "options_vi": [
       "Đọc",
@@ -237,19 +237,11 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​ (Viết)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +294,9 @@
     "answer_vi": "Đọc",
     "options": [
       "To read",
-      "To read",
       "Notebook",
-      "To write"
+      "To write",
+      "Rất đắt."
     ],
     "options_vi": [
       "Đọc",
@@ -319,31 +311,27 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To read",
         "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To read",
-    "translation_en": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "पढ़ना",
     "translation_vi": "Đọc",
     "options_en": [
-      "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खोलना​​​​​​​​​​​​​​​​​​​​​​",
-      "कापी​",
+      "पढ़ना",
+      "खोलना",
+      "कापी",
       "बहुत महँगा है।"
     ],
     "options_vi": [

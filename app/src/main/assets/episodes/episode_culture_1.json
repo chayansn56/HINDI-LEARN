@@ -31,11 +31,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "मिट्टी​​​​​​​​",
+    "hindi": "मिट्टी",
     "transliteration": "miṭṭī",
     "english": "Soil / Earth",
     "vietnamese": "Đất",
-    "audio": "मिट्टी​​​​​​​​"
+    "audio": "मिट्टी"
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Soil / Earth",
       "Car / Train / Cart",
-      "Soil / Earth",
-      "Temple"
+      "Temple",
+      "Let's start."
     ],
     "options_vi": [
       "Đất",
@@ -78,10 +78,6 @@
       {
         "hindi": "गाड़ी",
         "english": "Car / Train / Cart (Xe hơi / Xe lửa)"
-      },
-      {
-        "hindi": "मिट्टी​​​​​​​​",
-        "english": "Soil / Earth (Đất)"
       },
       {
         "hindi": "मंदिर",

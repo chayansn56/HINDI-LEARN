@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​​​​​​​",
+    "hindi": "हँसना",
     "transliteration": "hãsnā",
     "english": "To laugh",
     "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​​​​​​​"
+    "audio": "हँसना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "Flashcard",
-    "hindi": "रोना​​​​​​​​​​​​​​​​",
+    "hindi": "रोना",
     "transliteration": "ronā",
     "english": "To cry",
     "vietnamese": "Khóc",
-    "audio": "रोना​​​​​​​​​​​​​​​​"
+    "audio": "रोना"
   },
   {
     "type": "MultipleChoice",
@@ -76,15 +76,15 @@
         "english": "Brown (Màu nâu)"
       },
       {
-        "hindi": "हँसना​​​​​​​​​​​​",
+        "hindi": "हँसना",
         "english": "To laugh (Cười lớn)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       },
       {
-        "hindi": "रोना​​​​​​​​​​​​​​​​",
+        "hindi": "रोना",
         "english": "To cry (Khóc)"
       }
     ]
@@ -105,27 +105,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लेना​​​​​​​​​​​​​​​​",
+    "hindi": "लेना",
     "transliteration": "lenā",
     "english": "To take",
     "vietnamese": "Lấy / Nhận",
-    "audio": "लेना​​​​​​​​​​​​​​​​"
+    "audio": "लेना"
   },
   {
     "type": "MultipleChoice",
@@ -158,15 +158,15 @@
         "english": "Welcome (Chào mừng)"
       },
       {
-        "hindi": "बोलना​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       },
       {
-        "hindi": "लेना​​​​​​​​​​​​​​​​",
+        "hindi": "लेना",
         "english": "To take (Lấy / Nhận)"
       }
     ]
@@ -205,17 +205,17 @@
     "englishSentence": "I see To laugh / Tôi thấy Cười lớn",
     "hindiWords": [
       "मैं",
-      "हँसना​​​​​​​​​​​​",
+      "हँसना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं हँसना​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं हँसना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: भूरा, लेना​​​​​​​​​​​​​​​​",
+      "You learned: भूरा, लेना",
       "Practiced constructing sentences."
     ]
   }

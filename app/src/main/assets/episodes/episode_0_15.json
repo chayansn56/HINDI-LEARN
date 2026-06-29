@@ -69,7 +69,12 @@
     "text": "What does फूल mean?",
     "subtext": "फूल (phūl)",
     "answer": "Flower",
-    "options": ["Fan", "Flower", "Child", "Bear"]
+    "options": [
+      "Fan",
+      "Flower",
+      "Child",
+      "Bear"
+    ]
   },
   {
     "type": "Speaking",
@@ -82,7 +87,12 @@
     "text": "Which word means 'bear'?",
     "subtext": "पवर्ग vocabulary",
     "answer": "भालू",
-    "options": ["मछली", "भालू", "बच्चा", "फूल"]
+    "options": [
+      "मछली",
+      "भालू",
+      "बच्चा",
+      "फूल"
+    ]
   },
   {
     "type": "VocabularyContext",

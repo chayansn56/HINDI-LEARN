@@ -13,11 +13,11 @@
     "title_vi": "Tập 54",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To ask (पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To ask (पूछना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Hỏi."
       },
       {
-        "hindi": "Later, you encounter a To sell (बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To sell (बेचना).",
         "translation": "Sau đó, bạn gặp một Bán."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To ask.",
-    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
   },
   {
     "type": "Flashcard",
@@ -100,19 +100,19 @@
     "pairs": [
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       }
     ]
   },
@@ -190,11 +190,11 @@
       },
       {
         "hindi": "Shoe",
-        "english": "जूता​​​​​​​ (Giày)"
+        "english": "जूता (Giày)"
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To sleep.",
-    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+    "simpleRule": "Remember: To sleep means सोना (Ngủ)."
   },
   {
     "type": "Flashcard",
@@ -264,11 +264,11 @@
     "pairs": [
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "Pen",
@@ -276,20 +276,20 @@
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To ask",
-    "translation_en": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "पूछना",
     "translation_vi": "Hỏi",
     "options_en": [
-      "पूछना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​​​"
+      "पूछना",
+      "बेचना",
+      "सुनना",
+      "sिखाना"
     ],
     "options_vi": [
       "Hỏi",

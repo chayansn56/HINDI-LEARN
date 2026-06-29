@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Cái này giá bao nhiêu?",
+      "To stand"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Tôi không hiểu"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -222,7 +214,7 @@
       "Status / Story",
       "To do",
       "To learn",
-      "To do"
+      "Tình bạn"
     ],
     "options_vi": [
       "Trạng thái / Tin trạng thái",
@@ -241,15 +233,15 @@
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       }
     ]
   },
@@ -327,11 +319,11 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       }
     ]
   },

@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To learn.",
-    "simpleRule": "Remember: To learn means सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)."
+    "simpleRule": "Remember: To learn means सीखना (Học)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +182,7 @@
     "pairs": [
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "Hello, how are you?",
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -248,8 +248,8 @@
     "options": [
       "To wake up",
       "To wash",
-      "To wake up",
-      "To sit"
+      "To sit",
+      "To speak"
     ],
     "options_vi": [
       "Thức dậy",
@@ -264,19 +264,15 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
-      },
-      {
-        "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       }
     ]
   },

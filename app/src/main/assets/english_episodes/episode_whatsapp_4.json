@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Trạng thái / Tin trạng thái",
+      "Nói"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "1"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -241,7 +233,7 @@
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "Of (fem.)",
@@ -249,7 +241,7 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To sit.",
-    "simpleRule": "Remember: To sit means बैठना​​​​​​​​​​​ (Ngồi)."
+    "simpleRule": "Remember: To sit means बैठना (Ngồi)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +311,7 @@
     "pairs": [
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "1",

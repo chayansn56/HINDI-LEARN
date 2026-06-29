@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Từ ngữ."
       },
       {
-        "hindi": "Later, you encounter a Journey (सफ़र​​).",
+        "hindi": "Later, you encounter a Journey (सफ़र).",
         "translation": "Sau đó, bạn gặp một Chuyến đi."
       }
     ],
@@ -104,11 +104,11 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       },
       {
         "hindi": "Failure",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To stand.",
-    "simpleRule": "Remember: To stand means खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)."
+    "simpleRule": "Remember: To stand means खड़े होना (Đứng)."
   },
   {
     "type": "Flashcard",
@@ -165,9 +165,9 @@
     "answer_vi": "Đứng",
     "options": [
       "To stand",
-      "To stand",
       "60",
-      "Money"
+      "Money",
+      "Từ ngữ"
     ],
     "options_vi": [
       "Đứng",
@@ -182,11 +182,7 @@
     "pairs": [
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
-      },
-      {
-        "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "60",
@@ -194,7 +190,7 @@
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       }
     ]
   },
@@ -202,7 +198,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To wake up.",
-    "simpleRule": "Remember: To wake up means जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)."
+    "simpleRule": "Remember: To wake up means जागना (Thức dậy)."
   },
   {
     "type": "Flashcard",
@@ -264,19 +260,19 @@
     "pairs": [
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       }
     ]
   },
@@ -287,8 +283,8 @@
     "translation_vi": "Từ ngữ",
     "options_en": [
       "शब्द",
-      "सफ़र​​",
-      "बेचना​​​​​​​​​​​​​​​​​",
+      "सफ़र",
+      "बेचना",
       "असफलता"
     ],
     "options_vi": [

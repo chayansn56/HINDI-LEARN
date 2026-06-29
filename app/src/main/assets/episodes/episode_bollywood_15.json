@@ -113,19 +113,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "जूता​​",
+    "hindi": "जूता",
     "transliteration": "jūtā",
     "english": "Shoe",
     "vietnamese": "Giày",
-    "audio": "जूता​​"
+    "audio": "जूता"
   },
   {
     "type": "Flashcard",
-    "hindi": "गाँव​​​​​",
+    "hindi": "गाँव",
     "transliteration": "gā̃v",
     "english": "Village",
     "vietnamese": "Ngôi làng",
-    "audio": "गाँव​​​​​"
+    "audio": "गाँव"
   },
   {
     "type": "MultipleChoice",
@@ -162,11 +162,11 @@
         "english": "Romance (Sự lãng mạn)"
       },
       {
-        "hindi": "जूता​​",
+        "hindi": "जूता",
         "english": "Shoe (Giày)"
       },
       {
-        "hindi": "गाँव​​​​​",
+        "hindi": "गाँव",
         "english": "Village (Ngôi làng)"
       }
     ]
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: गाना, गाँव​​​​​",
+      "You learned: गाना, गाँव",
       "Practiced constructing sentences."
     ]
   }

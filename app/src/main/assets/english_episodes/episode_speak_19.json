@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​​​​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Notebook",
       "Snow / Ice",
-      "Snow / Ice",
-      "Yes"
+      "Yes",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Sổ tay",
@@ -73,15 +73,11 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Yes",
@@ -139,8 +135,8 @@
     "options": [
       "What time is it?",
       "No / Not",
-      "No / Not",
-      "When (relative)"
+      "When (relative)",
+      "Where is the restroom?"
     ],
     "options_vi": [
       "Mấy giờ rồi?",
@@ -245,7 +241,7 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Friend",
@@ -327,7 +323,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Whom / To whom",
@@ -338,12 +334,12 @@
   {
     "type": "Listening",
     "audio": "Notebook",
-    "translation_en": "कापी​​​​​​​​",
+    "translation_en": "कापी",
     "translation_vi": "Sổ tay",
     "options_en": [
-      "कापी​​​​​​​​",
-      "बर्फ़​​​​​​",
-      "बर्फ़​",
+      "कापी",
+      "बर्फ़",
+      "बर्फ़",
       "हाँ"
     ],
     "options_vi": [

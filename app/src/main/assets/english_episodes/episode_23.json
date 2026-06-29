@@ -13,11 +13,11 @@
     "title_vi": "Tập 23",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To sit (बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To sit (बैठना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Ngồi."
       },
       {
-        "hindi": "Later, you encounter a To speak (बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To speak (बोलना).",
         "translation": "Sau đó, bạn gặp một Nói."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To sit.",
-    "simpleRule": "Remember: To sit means बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)."
+    "simpleRule": "Remember: To sit means बैठना (Ngồi)."
   },
   {
     "type": "Flashcard",
@@ -100,19 +100,19 @@
     "pairs": [
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Garden",
-        "english": "बग़ीचा​ (Khu vườn)"
+        "english": "बग़ीचा (Khu vườn)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +182,11 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "Village",
-        "english": "गाँव​​​​​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       },
       {
         "hindi": "I am thirsty.",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       }
     ]
   },
@@ -268,7 +268,7 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Thursday",
@@ -276,20 +276,20 @@
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To sit",
-    "translation_en": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बैठना",
     "translation_vi": "Ngồi",
     "options_en": [
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बग़ीचा​",
-      "लेना​​"
+      "बैठना",
+      "बोलना",
+      "बग़ीचा",
+      "लेना"
     ],
     "options_vi": [
       "Ngồi",

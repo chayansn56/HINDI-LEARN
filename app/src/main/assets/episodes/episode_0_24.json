@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: sिखाना​.",
-    "simpleRule": "Remember: sिखाना​ means To teach (Dạy)."
+    "explanation": "Understand the usage and roots of: sिखाना.",
+    "simpleRule": "Remember: sिखाना means To teach (Dạy)."
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​"
+    "audio": "sिखाना"
   },
   {
     "type": "Flashcard",
@@ -47,10 +47,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'sिखाना​'",
-    "prompt_en": "Choose correct translation for 'sिखाना​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना​'",
-    "text": "sिखाना​",
+    "prompt": "Translate 'sिखाना'",
+    "prompt_en": "Choose correct translation for 'sिखाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'sिखाना'",
+    "text": "sिखाना",
     "subtext": "sikhānā",
     "answer": "To teach",
     "answer_vi": "Dạy",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "sिखाना​",
+        "hindi": "sिखाना",
         "english": "To teach (Dạy)"
       },
       {
@@ -105,27 +105,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "sिखाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​"
+    "audio": "sिखाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "sिखाना​​​​​​​​​​​​​​​​",
+    "hindi": "sिखाना",
     "transliteration": "sikhānā",
     "english": "To teach",
     "vietnamese": "Dạy",
-    "audio": "sिखाना​​​​​​​​​​​​​​​​"
+    "audio": "sिखाना"
   },
   {
     "type": "MultipleChoice",
@@ -139,8 +139,8 @@
     "options": [
       "Defiled food",
       "To teach",
-      "To teach",
-      "To teach"
+      "Trái cây",
+      "भाव खाना"
     ],
     "options_vi": [
       "Thức ăn thừa / Ô uế",
@@ -158,22 +158,14 @@
         "english": "Defiled food (Thức ăn thừa / Ô uế)"
       },
       {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To teach (Dạy)"
-      },
-      {
-        "hindi": "sिखाना​​​​​​​​",
-        "english": "To teach (Dạy)"
-      },
-      {
-        "hindi": "sिखाना​​​​​​​​​​​​​​​​",
+        "hindi": "sिखाना",
         "english": "To teach (Dạy)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "sिखाना​",
+    "audio": "sिखाना",
     "translation_en": "To teach",
     "translation_vi": "Dạy",
     "options_en": [
@@ -194,11 +186,11 @@
     "englishSentence": "I know To teach / Tôi biết Dạy",
     "hindiWords": [
       "मैं",
-      "sिखाना​",
+      "sिखाना",
       "जानता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं sिखाना​ जानता हूँ"
+    "correctHindiSentence": "मैं sिखाना जानता हूँ"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +207,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: sिखाना​, sिखाना​​​​​​​​​​​​​​​​",
+      "You learned: sिखाना, sिखाना",
       "Practiced constructing sentences."
     ]
   }

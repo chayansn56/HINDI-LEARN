@@ -81,7 +81,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Hotel",
@@ -167,7 +167,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       }
     ]
   },
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +237,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Bus stop",
@@ -303,8 +303,8 @@
     "options": [
       "Ticket",
       "Journey",
-      "Journey",
-      "Bathroom"
+      "Bathroom",
+      "Business / Trade"
     ],
     "options_vi": [
       "Vé",
@@ -323,11 +323,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Bathroom",
@@ -343,7 +339,7 @@
     "options_en": [
       "बारात",
       "टिकट",
-      "सफ़र​​​​​​​​​",
+      "सफ़र",
       "होटल"
     ],
     "options_vi": [

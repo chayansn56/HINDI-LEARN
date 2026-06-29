@@ -58,7 +58,7 @@
       "Pain",
       "Don't bore me",
       "To wake up",
-      "To wake up"
+      "Đau"
     ],
     "options_vi": [
       "Đau",
@@ -81,11 +81,7 @@
       },
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
-      },
-      {
-        "hindi": "To wake up",
-        "english": "जागना​​​​​​​​​​​​​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       }
     ]
   },
@@ -159,15 +155,15 @@
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "Path / Way",
-        "english": "रास्ता​​ (Đường đi)"
+        "english": "रास्ता (Đường đi)"
       },
       {
         "hindi": "Cup",
-        "english": "प्याला​​​​​​​ (Tách)"
+        "english": "प्याला (Tách)"
       }
     ]
   },
@@ -175,7 +171,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To wash.",
-    "simpleRule": "Remember: To wash means धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)."
+    "simpleRule": "Remember: To wash means धोना (Rửa / Giặt)."
   },
   {
     "type": "Flashcard",
@@ -237,19 +233,19 @@
     "pairs": [
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       }
     ]
   },
@@ -323,7 +319,7 @@
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "Gurudwara",
@@ -331,7 +327,7 @@
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -343,8 +339,8 @@
     "options_en": [
       "दर्द",
       "पका मत",
-      "जागना​​​​​​​​​​​​​​​​​​​​​",
-      "जागना​​​​​​​​​​​​​​​​​​​"
+      "जागना",
+      "जागना"
     ],
     "options_vi": [
       "Đau",

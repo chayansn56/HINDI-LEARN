@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Nói",
     "options": [
       "To speak",
-      "To speak",
       "To listen / hear",
-      "To speak"
+      "To do a U-turn / go back on word",
+      "Stress"
     ],
     "options_vi": [
       "Nói",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​ (Nói)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -93,7 +85,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +130,9 @@
     "answer_vi": "Nói",
     "options": [
       "To speak",
-      "To speak",
       "To listen / hear",
-      "To do a U-turn / go back on word"
+      "To do a U-turn / go back on word",
+      "Phụ âm"
     ],
     "options_vi": [
       "Nói",
@@ -155,15 +147,11 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To do a U-turn / go back on word",
@@ -175,7 +163,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +208,9 @@
     "answer_vi": "Nói",
     "options": [
       "To speak",
-      "To speak",
-      "To speak",
-      "Cloud"
+      "Cloud",
+      "Stress",
+      "To listen / hear"
     ],
     "options_vi": [
       "Nói",
@@ -237,19 +225,11 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       }
     ]
   },
@@ -257,7 +237,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +282,9 @@
     "answer_vi": "Nói",
     "options": [
       "To speak",
-      "To speak",
-      "To speak",
-      "To speak"
+      "To do a U-turn / go back on word",
+      "Trọng âm",
+      "Âm tiết"
     ],
     "options_vi": [
       "Nói",
@@ -319,32 +299,20 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To speak",
-    "translation_en": "बोलना​​​",
+    "translation_en": "बोलना",
     "translation_vi": "Nói",
     "options_en": [
-      "बोलना​​​",
-      "बोलना​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बोलना​​​​​​​​​​"
+      "बोलना",
+      "बोलना",
+      "सुनना",
+      "बोलना"
     ],
     "options_vi": [
       "Nói",

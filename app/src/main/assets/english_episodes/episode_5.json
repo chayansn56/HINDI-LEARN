@@ -13,11 +13,11 @@
     "title_vi": "Tập 5",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To speak (बोलना​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To speak (बोलना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Nói."
       },
       {
-        "hindi": "Later, you encounter a To cry (रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To cry (रोना).",
         "translation": "Sau đó, bạn gặp một Khóc."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -100,15 +100,15 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "Myself / Yourself / Himself (formal)",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To ask.",
-    "simpleRule": "Remember: To ask means पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)."
+    "simpleRule": "Remember: To ask means पूछना (Hỏi)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +182,7 @@
     "pairs": [
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "Please say it again.",
@@ -190,11 +190,11 @@
       },
       {
         "hindi": "Village",
-        "english": "गाँव​​ (Ngôi làng)"
+        "english": "गाँव (Ngôi làng)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To cry.",
-    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+    "simpleRule": "Remember: To cry means रोना (Khóc)."
   },
   {
     "type": "Flashcard",
@@ -264,31 +264,31 @@
     "pairs": [
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To speak",
-    "translation_en": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बोलना",
     "translation_vi": "Nói",
     "options_en": [
-      "बोलना​​​​​​​​​​​​​​​​​​​​​​",
-      "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "खरीदना​​​​​​​​​​​​​​​​​​​",
+      "बोलना",
+      "रोना",
+      "खरीदना",
       "स्वयं"
     ],
     "options_vi": [

@@ -10,55 +10,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: पैसा​​​​​​​​​​.",
-    "simpleRule": "Remember: पैसा​​​​​​​​​​ means Money (Tiền)."
+    "explanation": "Understand the usage and roots of: पैसा.",
+    "simpleRule": "Remember: पैसा means Money (Tiền)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​​​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​​​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पैसा​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'पैसा​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पैसा​​​​​​​​​​'",
-    "text": "पैसा​​​​​​​​​​",
+    "prompt": "Translate 'पैसा'",
+    "prompt_en": "Choose correct translation for 'पैसा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पैसा'",
+    "text": "पैसा",
     "subtext": "paisā",
     "answer": "Money",
     "answer_vi": "Tiền",
     "options": [
       "Money",
       "Office",
-      "Office",
-      "Office"
+      "Tiền",
+      "Rất vui được gặp ngài."
     ],
     "options_vi": [
       "Tiền",
@@ -72,19 +72,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "पैसा​​​​​​​​​​",
+        "hindi": "पैसा",
         "english": "Money (Tiền)"
       },
       {
-        "hindi": "दफ़्तर​​​​​​​​​​​",
-        "english": "Office (Văn phòng)"
-      },
-      {
-        "hindi": "दफ़्तर​​​​​​​​​​",
-        "english": "Office (Văn phòng)"
-      },
-      {
-        "hindi": "दफ़्तर​​​​​​​​",
+        "hindi": "दफ़्तर",
         "english": "Office (Văn phòng)"
       }
     ]
@@ -92,24 +84,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: पैसा​​​​​​​​​​​.",
-    "simpleRule": "Remember: पैसा​​​​​​​​​​​ means Money (Tiền)."
+    "explanation": "Understand the usage and roots of: पैसा.",
+    "simpleRule": "Remember: पैसा means Money (Tiền)."
   },
   {
     "type": "Flashcard",
-    "hindi": "पैसा​​​​​​​​​​​",
+    "hindi": "पैसा",
     "transliteration": "paisā",
     "english": "Money",
     "vietnamese": "Tiền",
-    "audio": "पैसा​​​​​​​​​​​"
+    "audio": "पैसा"
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "Flashcard",
@@ -129,10 +121,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'पैसा​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'पैसा​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'पैसा​​​​​​​​​​​'",
-    "text": "पैसा​​​​​​​​​​​",
+    "prompt": "Translate 'पैसा'",
+    "prompt_en": "Choose correct translation for 'पैसा'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'पैसा'",
+    "text": "पैसा",
     "subtext": "paisā",
     "answer": "Money",
     "answer_vi": "Tiền",
@@ -154,11 +146,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "पैसा​​​​​​​​​​​",
+        "hindi": "पैसा",
         "english": "Money (Tiền)"
       },
       {
-        "hindi": "दफ़्तर​​​​​",
+        "hindi": "दफ़्तर",
         "english": "Office (Văn phòng)"
       },
       {
@@ -173,7 +165,7 @@
   },
   {
     "type": "Listening",
-    "audio": "पैसा​​​​​​​​​​",
+    "audio": "पैसा",
     "translation_en": "Money",
     "translation_vi": "Tiền",
     "options_en": [
@@ -195,27 +187,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "पैसा​​​​​​​​​​",
+      "पैसा",
       "है"
     ],
-    "correctHindiSentence": "यह एक पैसा​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक पैसा है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see Office / Tôi thấy Văn phòng",
     "hindiWords": [
       "मैं",
-      "दफ़्तर​​​​​​​​​​​",
+      "दफ़्तर",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं दफ़्तर​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं दफ़्तर देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: पैसा​​​​​​​​​​, आपसे मिलकर बहुत खुशी हुई।",
+      "You learned: पैसा, आपसे मिलकर बहुत खुशी हुई।",
       "Practiced constructing sentences."
     ]
   }

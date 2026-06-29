@@ -13,7 +13,7 @@
     "title_vi": "Tập 67",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To sleep (सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To sleep (सोना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Ngủ."
       },
       {
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To sleep.",
-    "simpleRule": "Remember: To sleep means सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)."
+    "simpleRule": "Remember: To sleep means सोना (Ngủ)."
   },
   {
     "type": "Flashcard",
@@ -100,7 +100,7 @@
     "pairs": [
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "instead of",
@@ -108,7 +108,7 @@
       },
       {
         "hindi": "Silver",
-        "english": "चाँदी​​​ (Bạc)"
+        "english": "चाँदी (Bạc)"
       },
       {
         "hindi": "Fish",
@@ -186,15 +186,15 @@
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To do.",
-    "simpleRule": "Remember: To do means करना​​​​​​ (Làm)."
+    "simpleRule": "Remember: To do means करना (Làm)."
   },
   {
     "type": "Flashcard",
@@ -249,7 +249,7 @@
       "To do",
       "To cry",
       "To play",
-      "To do"
+      "Chơi"
     ],
     "options_vi": [
       "Làm",
@@ -264,31 +264,31 @@
     "pairs": [
       {
         "hindi": "To do",
-        "english": "करना​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       },
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To sleep",
-    "translation_en": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "सोना",
     "translation_vi": "Ngủ",
     "options_en": [
-      "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "सोना",
       "के बजाय",
-      "चाँदी​​​",
+      "चाँदी",
       "मछली"
     ],
     "options_vi": [

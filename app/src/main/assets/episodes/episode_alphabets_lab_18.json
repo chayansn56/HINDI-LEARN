@@ -10,24 +10,24 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To make / build (Chế tạo / Tạo ra)."
+    "explanation": "Understand the usage and roots of: बनाना.",
+    "simpleRule": "Remember: बनाना means To make / build (Chế tạo / Tạo ra)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खड़े होना",
     "transliteration": "khaṛe honā",
     "english": "To stand",
     "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खड़े होना"
   },
   {
     "type": "Flashcard",
@@ -39,18 +39,18 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​​​​​",
+    "hindi": "हँसना",
     "transliteration": "hãsnā",
     "english": "To laugh",
     "vietnamese": "Cười lớn",
-    "audio": "हँसना​​​​​​"
+    "audio": "हँसना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'बनाना'",
+    "prompt_en": "Choose correct translation for 'बनाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना'",
+    "text": "बनाना",
     "subtext": "banānā",
     "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
@@ -72,11 +72,11 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खड़े होना",
         "english": "To stand (Đứng)"
       },
       {
@@ -84,7 +84,7 @@
         "english": "Carefree / Cool (Sống thoải mái / Vô tư)"
       },
       {
-        "hindi": "हँसना​​​​​​",
+        "hindi": "हँसना",
         "english": "To laugh (Cười lớn)"
       }
     ]
@@ -92,32 +92,32 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बोलना​.",
-    "simpleRule": "Remember: बोलना​ means To speak (Nói)."
+    "explanation": "Understand the usage and roots of: बोलना.",
+    "simpleRule": "Remember: बोलना means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
-    "hindi": "ताला​​​​​​​​​",
+    "hindi": "ताला",
     "transliteration": "tālā",
     "english": "Lock",
     "vietnamese": "Ổ khóa",
-    "audio": "ताला​​​​​​​​​"
+    "audio": "ताला"
   },
   {
     "type": "Flashcard",
-    "hindi": "खरीदना​",
+    "hindi": "खरीदना",
     "transliteration": "kharīdnā",
     "english": "To buy",
     "vietnamese": "Mua",
-    "audio": "खरीदना​"
+    "audio": "खरीदना"
   },
   {
     "type": "Flashcard",
@@ -129,10 +129,10 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​'",
-    "prompt_en": "Choose correct translation for 'बोलना​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​'",
-    "text": "बोलना​",
+    "prompt": "Translate 'बोलना'",
+    "prompt_en": "Choose correct translation for 'बोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना'",
+    "text": "बोलना",
     "subtext": "bolnā",
     "answer": "To speak",
     "answer_vi": "Nói",
@@ -154,15 +154,15 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बोलना​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
-        "hindi": "ताला​​​​​​​​​",
+        "hindi": "ताला",
         "english": "Lock (Ổ khóa)"
       },
       {
-        "hindi": "खरीदना​",
+        "hindi": "खरीदना",
         "english": "To buy (Mua)"
       },
       {
@@ -173,7 +173,7 @@
   },
   {
     "type": "Listening",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "audio": "बनाना",
     "translation_en": "To make / build",
     "translation_vi": "Chế tạo / Tạo ra",
     "options_en": [
@@ -195,27 +195,27 @@
     "hindiWords": [
       "यह",
       "एक",
-      "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बनाना",
       "है"
     ],
-    "correctHindiSentence": "यह एक बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक बनाना है"
   },
   {
     "type": "SentenceBuilder",
     "englishSentence": "I see To stand / Tôi thấy Đứng",
     "hindiWords": [
       "मैं",
-      "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खड़े होना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं खड़े होना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, के कारण",
+      "You learned: बनाना, के कारण",
       "Practiced constructing sentences."
     ]
   }

@@ -53,9 +53,19 @@
     "type": "Listening",
     "audio": "नमस्ते",
     "translation_en": "Hello",
-    "options_en": ["Hello", "Yes", "No", "Thanks"],
+    "options_en": [
+      "Hello",
+      "Yes",
+      "No",
+      "Thanks"
+    ],
     "translation_vi": "Xin chào",
-    "options_vi": ["Xin chào", "Có", "Không", "Cảm ơn"]
+    "options_vi": [
+      "Xin chào",
+      "Có",
+      "Không",
+      "Cảm ơn"
+    ]
   },
   {
     "type": "Speaking",

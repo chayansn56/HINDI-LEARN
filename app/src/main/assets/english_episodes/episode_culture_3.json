@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Soil / Earth",
       "Drinking water",
-      "Soil / Earth",
-      "Heart"
+      "Heart",
+      "Partnership"
     ],
     "options_vi": [
       "Đất",
@@ -73,15 +73,11 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Drinking water",
         "english": "पीने का पानी (Nước uống)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​​ (Đất)"
       },
       {
         "hindi": "Heart",
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Soil / Earth",
       "Car / Train / Cart",
-      "Soil / Earth",
-      "Agentive particle"
+      "Agentive particle",
+      "Can you help me?"
     ],
     "options_vi": [
       "Đất",
@@ -155,15 +151,11 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Car / Train / Cart",
         "english": "गाड़ी (Xe hơi / Xe lửa)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​ (Đất)"
       },
       {
         "hindi": "Agentive particle",
@@ -220,9 +212,9 @@
     "answer_vi": "Đất",
     "options": [
       "Soil / Earth",
-      "Soil / Earth",
-      "Soil / Earth",
-      "Dance, my love"
+      "Dance, my love",
+      "Ăn / Đồ ăn",
+      "Car / Train / Cart"
     ],
     "options_vi": [
       "Đất",
@@ -238,14 +230,6 @@
       {
         "hindi": "Soil / Earth",
         "english": "मिट्टी (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​ (Đất)"
       },
       {
         "hindi": "Dance, my love",
@@ -338,12 +322,12 @@
   {
     "type": "Listening",
     "audio": "Soil / Earth",
-    "translation_en": "मिट्टी​​​",
+    "translation_en": "मिट्टी",
     "translation_vi": "Đất",
     "options_en": [
-      "मिट्टी​​​",
+      "मिट्टी",
       "पीने का पानी",
-      "मिट्टी​​​​​​​​​",
+      "मिट्टी",
       "दिल"
     ],
     "options_vi": [

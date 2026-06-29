@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To write.",
-    "simpleRule": "Remember: To write means लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)."
+    "simpleRule": "Remember: To write means लिखना (Viết)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "To write",
       "Notebook",
-      "To write",
-      "To read"
+      "To read",
+      "Viết"
     ],
     "options_vi": [
       "Viết",
@@ -73,19 +73,15 @@
     "pairs": [
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​ (Sổ tay)"
-      },
-      {
-        "hindi": "To write",
-        "english": "लिखना​​​​​​​​​​​​​​​​​​​​​​ (Viết)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Notebook",
       "To read",
-      "To read",
-      "To open"
+      "To open",
+      "Repository"
     ],
     "options_vi": [
       "Sổ tay",
@@ -155,19 +151,15 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
-      },
-      {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To read.",
-    "simpleRule": "Remember: To read means पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)."
+    "simpleRule": "Remember: To read means पढ़ना (Đọc)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "To read",
       "Paper",
-      "To read",
-      "To open"
+      "To open",
+      "Đọc"
     ],
     "options_vi": [
       "Đọc",
@@ -237,19 +229,15 @@
     "pairs": [
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "Paper",
         "english": "काग़ज़ (Giấy)"
       },
       {
-        "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​ (Đọc)"
-      },
-      {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       }
     ]
   },
@@ -323,7 +311,7 @@
       },
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "Pen",
@@ -338,13 +326,13 @@
   {
     "type": "Listening",
     "audio": "To write",
-    "translation_en": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "लिखना",
     "translation_vi": "Viết",
     "options_en": [
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "कापी​​​​",
-      "लिखना​​​​​​​​​​​​​​​​​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​"
+      "लिखना",
+      "कापी",
+      "लिखना",
+      "पढ़ना"
     ],
     "options_vi": [
       "Viết",

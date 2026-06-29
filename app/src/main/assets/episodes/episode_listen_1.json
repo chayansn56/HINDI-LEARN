@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "MultipleChoice",
@@ -57,8 +57,8 @@
     "options": [
       "Heart",
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "Nghe",
+      "Trái tim"
     ],
     "options_vi": [
       "Trái tim",
@@ -76,15 +76,7 @@
         "english": "Heart (Trái tim)"
       },
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       }
     ]
@@ -92,55 +84,55 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To listen / hear (Nghe)."
+    "explanation": "Understand the usage and roots of: सुनना.",
+    "simpleRule": "Remember: सुनना means To listen / hear (Nghe)."
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सुनना​​​​​​​",
+    "hindi": "सुनना",
     "transliteration": "sunnā",
     "english": "To listen / hear",
     "vietnamese": "Nghe",
-    "audio": "सुनना​​​​​​​"
+    "audio": "सुनना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'सुनना'",
+    "prompt_en": "Choose correct translation for 'सुनना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'सुनना'",
+    "text": "सुनना",
     "subtext": "sunnā",
     "answer": "To listen / hear",
     "answer_vi": "Nghe",
     "options": [
       "To listen / hear",
-      "To listen / hear",
-      "To listen / hear",
-      "To listen / hear"
+      "सुनना",
+      "Trái tim",
+      "Heart"
     ],
     "options_vi": [
       "Nghe",
@@ -154,19 +146,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​​​​​​​",
-        "english": "To listen / hear (Nghe)"
-      },
-      {
-        "hindi": "सुनना​​​​​​​",
+        "hindi": "सुनना",
         "english": "To listen / hear (Nghe)"
       }
     ]
@@ -205,17 +185,17 @@
     "englishSentence": "I see To listen / hear / Tôi thấy Nghe",
     "hindiWords": [
       "मैं",
-      "सुनना​​​​​​​​​​​​​​​​​",
+      "सुनना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं सुनना​​​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं सुनना देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: दिल, सुनना​​​​​​​",
+      "You learned: दिल, सुनना",
       "Practiced constructing sentences."
     ]
   }

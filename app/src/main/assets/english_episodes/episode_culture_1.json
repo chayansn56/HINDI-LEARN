@@ -58,7 +58,7 @@
       "To eat / Food",
       "Festival",
       "Soil / Earth",
-      "Soil / Earth"
+      "Đất"
     ],
     "options_vi": [
       "Ăn / Đồ ăn",
@@ -81,11 +81,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Soil / Earth.",
-    "simpleRule": "Remember: Soil / Earth means मिट्टी​​​​​​ (Đất)."
+    "simpleRule": "Remember: Soil / Earth means मिट्टी (Đất)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "Soil / Earth",
       "Drinking water",
       "Agentive particle",
-      "Soil / Earth"
+      "Let's start."
     ],
     "options_vi": [
       "Đất",
@@ -155,7 +151,7 @@
     "pairs": [
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Drinking water",
@@ -164,10 +160,6 @@
       {
         "hindi": "Agentive particle",
         "english": "ने (Hậu giới từ chỉ tác nhân)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​ (Đất)"
       }
     ]
   },
@@ -241,7 +233,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Partnership",
@@ -303,8 +295,8 @@
     "options": [
       "Car / Train / Cart",
       "Soil / Earth",
-      "Soil / Earth",
-      "Defiled food"
+      "Defiled food",
+      "I don't understand"
     ],
     "options_vi": [
       "Xe hơi / Xe lửa",
@@ -320,10 +312,6 @@
       {
         "hindi": "Car / Train / Cart",
         "english": "गाड़ी (Xe hơi / Xe lửa)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​ (Đất)"
       },
       {
         "hindi": "Soil / Earth",
@@ -343,8 +331,8 @@
     "options_en": [
       "खाना",
       "त्योहार",
-      "मिट्टी​​​​​​​​",
-      "मिट्टी​​​​​​​​​"
+      "मिट्टी",
+      "मिट्टी"
     ],
     "options_vi": [
       "Ăn / Đồ ăn",

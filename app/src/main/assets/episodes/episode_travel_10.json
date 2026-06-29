@@ -113,19 +113,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​​​​​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​​​​​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "Flashcard",
-    "hindi": "सफ़र​​​​​",
+    "hindi": "सफ़र",
     "transliteration": "safar",
     "english": "Journey",
     "vietnamese": "Chuyến đi",
-    "audio": "सफ़र​​​​​"
+    "audio": "सफ़र"
   },
   {
     "type": "MultipleChoice",
@@ -140,7 +140,7 @@
       "Hotel",
       "Ticket",
       "Journey",
-      "Journey"
+      "Phòng trống"
     ],
     "options_vi": [
       "Khách sạn",
@@ -162,11 +162,7 @@
         "english": "Ticket (Vé)"
       },
       {
-        "hindi": "सफ़र​​​​​​​​​​",
-        "english": "Journey (Chuyến đi)"
-      },
-      {
-        "hindi": "सफ़र​​​​​",
+        "hindi": "सफ़र",
         "english": "Journey (Chuyến đi)"
       }
     ]
@@ -215,7 +211,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: व्यवसाय, सफ़र​​​​​",
+      "You learned: व्यवसाय, सफ़र",
       "Practiced constructing sentences."
     ]
   }

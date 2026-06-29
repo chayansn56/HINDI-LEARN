@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Snow / Ice",
       "Notebook",
-      "Snow / Ice",
-      "When"
+      "When",
+      "Kiến thức"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -73,15 +73,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​ (Sổ tay)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "When",
@@ -304,7 +300,7 @@
       "Oh friend! / Oh man!",
       "Snow / Ice",
       "Whom / To whom",
-      "Snow / Ice"
+      "Trời ơi bạn ơi!"
     ],
     "options_vi": [
       "Trời ơi bạn ơi!",
@@ -323,27 +319,23 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Whom / To whom",
         "english": "किसे (Ai / Cho ai)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Snow / Ice",
-    "translation_en": "बर्फ़​​​​​​",
+    "translation_en": "बर्फ़",
     "translation_vi": "Tuyết / Đá",
     "options_en": [
-      "बर्फ़​​​​​​",
-      "कापी​​​​​​​​",
-      "बर्फ़​​​​​​​​​",
+      "बर्फ़",
+      "कापी",
+      "बर्फ़",
       "कब"
     ],
     "options_vi": [

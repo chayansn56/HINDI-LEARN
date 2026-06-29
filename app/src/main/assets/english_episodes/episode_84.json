@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Nhìn / Xem."
       },
       {
-        "hindi": "Later, you encounter a To laugh (हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To laugh (हँसना).",
         "translation": "Sau đó, bạn gặp một Cười lớn."
       }
     ],
@@ -104,11 +104,11 @@
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "Star",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To sing.",
-    "simpleRule": "Remember: To sing means गाना​​​​​​​​​​​​​​​​​​​​​​​ (Hát)."
+    "simpleRule": "Remember: To sing means गाना (Hát)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +182,11 @@
     "pairs": [
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       },
       {
         "hindi": "Direction",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "Path / Way",
-        "english": "रास्ता​​​​ (Đường đi)"
+        "english": "रास्ता (Đường đi)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Cloud.",
-    "simpleRule": "Remember: Cloud means बादल​​​​​​​​​ (Đám mây)."
+    "simpleRule": "Remember: Cloud means बादल (Đám mây)."
   },
   {
     "type": "Flashcard",
@@ -264,19 +264,19 @@
     "pairs": [
       {
         "hindi": "Cloud",
-        "english": "बादल​​​​​​​​​ (Đám mây)"
+        "english": "बादल (Đám mây)"
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       },
       {
         "hindi": "Gold",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​ (Vàng)"
+        "english": "सोना (Vàng)"
       },
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       }
     ]
   },
@@ -287,8 +287,8 @@
     "translation_vi": "Nhìn / Xem",
     "options_en": [
       "देखना",
-      "हँसना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "समुद्र​",
+      "हँसना",
+      "समुद्र",
       "सितारा"
     ],
     "options_vi": [

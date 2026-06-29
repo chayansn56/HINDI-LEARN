@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​​​​​​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Ngôi sao",
     "options": [
       "Star",
-      "Star",
       "Movie",
-      "Cinema / Theater"
+      "Cinema / Theater",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -73,11 +73,7 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Movie",
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "Star",
       "To sing / Song",
       "Dance",
-      "Star"
+      "Actress"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -155,7 +151,7 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "To sing / Song",
@@ -164,10 +160,6 @@
       {
         "hindi": "Dance",
         "english": "नृत्य (Điệu nhảy)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​ (Ngôi sao)"
       }
     ]
   },
@@ -222,7 +214,7 @@
       "Actor",
       "Actress",
       "Star",
-      "Star"
+      "To sing / Song"
     ],
     "options_vi": [
       "Nam diễn viên",
@@ -245,11 +237,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "सितारा (Ngôi sao điện ảnh)"
+        "english": "तारा (Ngôi sao)"
       }
     ]
   },
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +290,9 @@
     "answer_vi": "Ngôi sao",
     "options": [
       "Star",
-      "Star",
-      "Star",
-      "Star"
+      "Bộ phim",
+      "Cinema / Theater",
+      "Nam diễn viên"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -319,30 +307,18 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Star",
-    "translation_en": "तारा​​​​​​​​",
+    "translation_en": "तारा",
     "translation_vi": "Ngôi sao",
     "options_en": [
-      "तारा​​​​​​​​",
-      "तारा​​​​​",
+      "तारा",
+      "तारा",
       "फ़िल्म",
       "सिनेमा"
     ],

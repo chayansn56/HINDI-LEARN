@@ -56,9 +56,9 @@
     "answer_vi": "Ngôi sao điện ảnh",
     "options": [
       "Star",
-      "Star",
-      "Star",
-      "Actor"
+      "Actor",
+      "How much does it cost?",
+      "Movie"
     ],
     "options_vi": [
       "Ngôi sao điện ảnh",
@@ -74,14 +74,6 @@
       {
         "hindi": "Star",
         "english": "सितारा (Ngôi sao điện ảnh)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​ (Ngôi sao)"
       },
       {
         "hindi": "Actor",
@@ -167,7 +159,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       }
     ]
   },
@@ -241,7 +233,7 @@
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Hero",
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +294,9 @@
     "answer_vi": "Ngôi sao",
     "options": [
       "Star",
-      "Star",
-      "Star",
-      "Actress"
+      "Actress",
+      "Dance, my love",
+      "Nữ diễn viên"
     ],
     "options_vi": [
       "Ngôi sao",
@@ -319,15 +311,7 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​​​​​ (Ngôi sao)"
-      },
-      {
-        "hindi": "Star",
-        "english": "तारा​​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "Actress",
@@ -342,8 +326,8 @@
     "translation_vi": "Ngôi sao điện ảnh",
     "options_en": [
       "सितारा",
-      "तारा​​​​​​",
-      "तारा​​​​​​​​",
+      "तारा",
+      "तारा",
       "अभिनेता"
     ],
     "options_vi": [

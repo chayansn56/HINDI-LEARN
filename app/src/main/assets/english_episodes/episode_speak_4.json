@@ -159,7 +159,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Name",
@@ -257,7 +257,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​​​​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +302,9 @@
     "answer_vi": "Sổ tay",
     "options": [
       "Notebook",
-      "Notebook",
       "Eyes",
-      "How's it going? / How are you?"
+      "How's it going? / How are you?",
+      "Thật đáng hổ thẹn."
     ],
     "options_vi": [
       "Sổ tay",
@@ -319,11 +319,7 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​ (Sổ tay)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Eyes",

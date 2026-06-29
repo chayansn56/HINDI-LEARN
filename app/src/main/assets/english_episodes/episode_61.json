@@ -13,11 +13,11 @@
     "title_vi": "Tập 61",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To sell (बेचना​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To sell (बेचना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Bán."
       },
       {
-        "hindi": "Later, you encounter a To take (लेना​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To take (लेना).",
         "translation": "Sau đó, bạn gặp một Lấy / Nhận."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To sell.",
-    "simpleRule": "Remember: To sell means बेचना​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)."
+    "simpleRule": "Remember: To sell means बेचना (Bán)."
   },
   {
     "type": "Flashcard",
@@ -100,11 +100,11 @@
     "pairs": [
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "To see / watch",
@@ -112,7 +112,7 @@
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To clean.",
-    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+    "simpleRule": "Remember: To clean means साफ करना (Dọn dẹp / Lau chùi)."
   },
   {
     "type": "Flashcard",
@@ -167,7 +167,7 @@
       "To clean",
       "To see / watch",
       "To wash",
-      "To clean"
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Dọn dẹp / Lau chùi",
@@ -182,19 +182,15 @@
     "pairs": [
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
-      },
-      {
-        "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "धोना (Rửa / Giặt)"
       }
     ]
   },
@@ -202,7 +198,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To buy.",
-    "simpleRule": "Remember: To buy means खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)."
+    "simpleRule": "Remember: To buy means खरीदना (Mua)."
   },
   {
     "type": "Flashcard",
@@ -264,11 +260,11 @@
     "pairs": [
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "It was a great pleasure meeting you.",
@@ -276,20 +272,20 @@
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To sell",
-    "translation_en": "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बेचना",
     "translation_vi": "Bán",
     "options_en": [
-      "बेचना​​​​​​​​​​​​​​​​​​​​​​​​",
-      "लेना​​​​​​​​​​​​​​​​​​​​​​​",
+      "बेचना",
+      "लेना",
       "देखना",
-      "चलना​​​​​​​​​​​​​​​"
+      "चलना"
     ],
     "options_vi": [
       "Bán",

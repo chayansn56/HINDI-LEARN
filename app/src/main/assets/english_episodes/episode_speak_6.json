@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​​​​​​​​​​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Sổ tay",
     "options": [
       "Notebook",
-      "Notebook",
       "Whom (relative singular)",
-      "Snow / Ice"
+      "Snow / Ice",
+      "Thế nào rồi?"
     ],
     "options_vi": [
       "Sổ tay",
@@ -73,10 +73,6 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​​ (Sổ tay)"
-      },
-      {
-        "hindi": "Notebook",
         "english": "कापी (Sổ tay)"
       },
       {
@@ -85,7 +81,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -163,7 +159,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Yes",
@@ -323,7 +319,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Yes, absolutely.",
@@ -338,13 +334,13 @@
   {
     "type": "Listening",
     "audio": "Notebook",
-    "translation_en": "कापी​​​​​​​​​​",
+    "translation_en": "कापी",
     "translation_vi": "Sổ tay",
     "options_en": [
-      "कापी​​​​​​​​​​",
+      "कापी",
       "कापी",
       "जिसे",
-      "बर्फ़​​​​​​​​​​"
+      "बर्फ़"
     ],
     "options_vi": [
       "Sổ tay",

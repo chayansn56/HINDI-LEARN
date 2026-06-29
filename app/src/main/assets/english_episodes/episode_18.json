@@ -13,11 +13,11 @@
     "title_vi": "Tập 18",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To speak (बोलना​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To speak (बोलना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Nói."
       },
       {
-        "hindi": "Later, you encounter a To clean (साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To clean (साफ करना).",
         "translation": "Sau đó, bạn gặp một Dọn dẹp / Lau chùi."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -84,8 +84,8 @@
     "options": [
       "To speak",
       "To clean",
-      "To clean",
-      "Please wait a minute."
+      "Please wait a minute.",
+      "Chạy"
     ],
     "options_vi": [
       "Nói",
@@ -100,15 +100,11 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
-      },
-      {
-        "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       },
       {
         "hindi": "Please wait a minute.",
@@ -120,7 +116,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: World.",
-    "simpleRule": "Remember: World means दुनया​ (Thế giới)."
+    "simpleRule": "Remember: World means दुनया (Thế giới)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +178,11 @@
     "pairs": [
       {
         "hindi": "World",
-        "english": "दुनया​ (Thế giới)"
+        "english": "दुनया (Thế giới)"
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "To them / him / her (formal near)",
@@ -194,7 +190,7 @@
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       }
     ]
   },
@@ -202,7 +198,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To sing.",
-    "simpleRule": "Remember: To sing means गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)."
+    "simpleRule": "Remember: To sing means गाना (Hát)."
   },
   {
     "type": "Flashcard",
@@ -249,7 +245,7 @@
       "To sing",
       "To ask",
       "To give",
-      "To ask"
+      "Cho / Tặng"
     ],
     "options_vi": [
       "Hát",
@@ -264,31 +260,27 @@
     "pairs": [
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
-      },
-      {
-        "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "देना (Cho / Tặng)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To speak",
-    "translation_en": "बोलना​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "बोलना",
     "translation_vi": "Nói",
     "options_en": [
-      "बोलना​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "साफ करना​​​​​​​​​​​",
+      "बोलना",
+      "साफ करना",
+      "साफ करना",
       "एक मिनट रुकिए।"
     ],
     "options_vi": [

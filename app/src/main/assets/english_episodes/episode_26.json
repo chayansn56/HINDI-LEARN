@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Đồn cảnh sát."
       },
       {
-        "hindi": "Later, you encounter a To sit (बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To sit (बैठना).",
         "translation": "Sau đó, bạn gặp một Ngồi."
       }
     ],
@@ -104,11 +104,11 @@
       },
       {
         "hindi": "To sit",
-        "english": "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngồi)"
+        "english": "बैठना (Ngồi)"
       },
       {
         "hindi": "To tell / explain",
-        "english": "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Kể / Giải thích)"
+        "english": "बताना (Kể / Giải thích)"
       },
       {
         "hindi": "am",
@@ -186,11 +186,11 @@
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "Rupee / Money",
@@ -268,15 +268,15 @@
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "To sleep",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Ngủ)"
+        "english": "सोना (Ngủ)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       }
     ]
   },
@@ -287,8 +287,8 @@
     "translation_vi": "Đồn cảnh sát",
     "options_en": [
       "थाना",
-      "बैठना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "बताना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "बैठना",
+      "बताना",
       "हूँ"
     ],
     "options_vi": [

@@ -61,7 +61,12 @@
     "text": "Which letter makes the 'jha' sound?",
     "subtext": "चवर्ग — palatal consonants",
     "answer": "झ",
-    "options": ["ज", "झ", "छ", "ञ"]
+    "options": [
+      "ज",
+      "झ",
+      "छ",
+      "ञ"
+    ]
   },
   {
     "type": "VocabularyContext",
@@ -75,9 +80,19 @@
     "type": "Listening",
     "audio": "छाता",
     "translation_en": "Umbrella",
-    "options_en": ["Umbrella", "Spoon", "Water", "Flag"],
+    "options_en": [
+      "Umbrella",
+      "Spoon",
+      "Water",
+      "Flag"
+    ],
     "translation_vi": "Ô (dù)",
-    "options_vi": ["Ô (dù)", "Thìa", "Nước", "Cờ"]
+    "options_vi": [
+      "Ô (dù)",
+      "Thìa",
+      "Nước",
+      "Cờ"
+    ]
   },
   {
     "type": "VocabularyContext",
@@ -93,7 +108,12 @@
     "text": "What does झंडा mean?",
     "subtext": "झंडा (jhaṇḍā)",
     "answer": "Flag",
-    "options": ["Water", "Umbrella", "Flag", "Spoon"]
+    "options": [
+      "Water",
+      "Umbrella",
+      "Flag",
+      "Spoon"
+    ]
   },
   {
     "type": "Drawing",
@@ -104,9 +124,19 @@
     "type": "Listening",
     "audio": "चम्मच",
     "translation_en": "Spoon",
-    "options_en": ["Flag", "Spoon", "Umbrella", "Water"],
+    "options_en": [
+      "Flag",
+      "Spoon",
+      "Umbrella",
+      "Water"
+    ],
     "translation_vi": "Thìa",
-    "options_vi": ["Cờ", "Thìa", "Ô (dù)", "Nước"]
+    "options_vi": [
+      "Cờ",
+      "Thìa",
+      "Ô (dù)",
+      "Nước"
+    ]
   },
   {
     "type": "RevisionSummary",

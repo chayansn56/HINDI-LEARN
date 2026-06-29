@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Người phụ nữ."
       },
       {
-        "hindi": "Later, you encounter a Cloth / Dress (कपड़ा​​​​​​).",
+        "hindi": "Later, you encounter a Cloth / Dress (कपड़ा).",
         "translation": "Sau đó, bạn gặp một Quần áo."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "Cloth / Dress",
-        "english": "कपड़ा​​​​​​ (Quần áo)"
+        "english": "कपड़ा (Quần áo)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "Lock",
-        "english": "ताला​​ (Ổ khóa)"
+        "english": "ताला (Ổ khóa)"
       }
     ]
   },
@@ -186,15 +186,15 @@
       },
       {
         "hindi": "Shoe",
-        "english": "जूता​​ (Giày)"
+        "english": "जूता (Giày)"
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To run.",
-    "simpleRule": "Remember: To run means दौड़ना​​​​​​​​​​​​​​​​ (Chạy)."
+    "simpleRule": "Remember: To run means दौड़ना (Chạy)."
   },
   {
     "type": "Flashcard",
@@ -264,11 +264,11 @@
     "pairs": [
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "Apple",
@@ -276,7 +276,7 @@
       },
       {
         "hindi": "To make / build",
-        "english": "बनाना​​​​​​​​​​​​​​​ (Chế tạo / Tạo ra)"
+        "english": "बनाना (Chế tạo / Tạo ra)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Người phụ nữ",
     "options_en": [
       "औरत",
-      "कपड़ा​​​​​​",
-      "पढ़ना​​​​​​​​​​​​​​​​​​",
-      "ताला​​"
+      "कपड़ा",
+      "पढ़ना",
+      "ताला"
     ],
     "options_vi": [
       "Người phụ nữ",

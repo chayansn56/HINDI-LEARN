@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "To give",
+      "I don't understand"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "Cho / Tặng"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -241,15 +233,15 @@
       },
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "Star",
-        "english": "तारा​​​​​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​​​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -257,7 +249,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To clean.",
-    "simpleRule": "Remember: To clean means साफ करना​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)."
+    "simpleRule": "Remember: To clean means साफ करना (Dọn dẹp / Lau chùi)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +311,7 @@
     "pairs": [
       {
         "hindi": "To clean",
-        "english": "साफ करना​​​​​​​​​​​​​​​​​​​​​​​ (Dọn dẹp / Lau chùi)"
+        "english": "साफ करना (Dọn dẹp / Lau chùi)"
       },
       {
         "hindi": "Of (masc. plur./oblique)",
@@ -327,7 +319,7 @@
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       },
       {
         "hindi": "Bus stop",

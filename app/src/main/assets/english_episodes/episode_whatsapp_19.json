@@ -56,9 +56,9 @@
     "answer_vi": "Bạn bè",
     "options": [
       "Friend",
-      "Friend",
       "Friend / Buddy",
-      "Friend"
+      "Cái này giá bao nhiêu?",
+      "How much does it cost?"
     ],
     "options_vi": [
       "Bạn bè",
@@ -82,10 +82,6 @@
       {
         "hindi": "Friend / Buddy",
         "english": "यार (Bạn ơi / Bạn bè)"
-      },
-      {
-        "hindi": "Friend",
-        "english": "मित्र (Bạn bè)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Phone",
       "Friend / Buddy",
       "Message",
-      "Message"
+      "How much does it cost?"
     ],
     "options_vi": [
       "Điện thoại",
@@ -164,10 +160,6 @@
       {
         "hindi": "Message",
         "english": "संदेश (Tin nhắn)"
-      },
-      {
-        "hindi": "Message",
-        "english": "मैसेज (Tin nhắn)"
       }
     ]
   },
@@ -241,15 +233,15 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       }
     ]
   },
@@ -327,11 +319,11 @@
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       }
     ]
   },

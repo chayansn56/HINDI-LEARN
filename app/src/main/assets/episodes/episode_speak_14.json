@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -76,7 +76,7 @@
         "english": "Just then / That is why (Ngay lúc đó / Chính vì vậy)"
       },
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
@@ -105,11 +105,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -140,7 +140,7 @@
       "How are you? (Formal)",
       "To speak",
       "Hello (highly respectful)",
-      "To speak"
+      "Bạn khỏe không? (Lịch sự)"
     ],
     "options_vi": [
       "Bạn khỏe không? (Lịch sự)",
@@ -158,16 +158,12 @@
         "english": "How are you? (Formal) (Bạn khỏe không? (Lịch sự))"
       },
       {
-        "hindi": "बोलना​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
         "hindi": "नमस्ते जी",
         "english": "Hello (highly respectful) (Kính chào quý vị)"
-      },
-      {
-        "hindi": "बोलना",
-        "english": "To speak (Nói)"
       }
     ]
   },
@@ -205,11 +201,11 @@
     "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
       "मैं",
-      "बोलना​​​​​​​​​​​​​​​",
+      "बोलना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं बोलना​​​​​​​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं बोलना देखता हूँ"
   },
   {
     "type": "RevisionSummary",

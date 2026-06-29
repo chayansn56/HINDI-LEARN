@@ -61,7 +61,12 @@
     "text": "Which letter is the aspirated retroflex 'd' sound (ḍha)?",
     "subtext": "टवर्ग — retroflex consonants",
     "answer": "ढ",
-    "options": ["ड", "ढ", "ठ", "ण"]
+    "options": [
+      "ड",
+      "ढ",
+      "ठ",
+      "ण"
+    ]
   },
   {
     "type": "VocabularyContext",
@@ -82,7 +87,12 @@
     "text": "What does डमरू mean?",
     "subtext": "डमरू (ḍamrū)",
     "answer": "Drum (hourglass-shaped)",
-    "options": ["Lid", "Drum (hourglass-shaped)", "Tomato", "Cold"]
+    "options": [
+      "Lid",
+      "Drum (hourglass-shaped)",
+      "Tomato",
+      "Cold"
+    ]
   },
   {
     "type": "VocabularyContext",

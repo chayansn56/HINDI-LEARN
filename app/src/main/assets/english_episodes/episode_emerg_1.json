@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -57,8 +57,8 @@
     "options": [
       "Fire",
       "Hospital",
-      "Fire",
-      "to help"
+      "to help",
+      "Lửa"
     ],
     "options_vi": [
       "Lửa",
@@ -73,15 +73,11 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Hospital",
         "english": "अस्पताल (Bệnh viện)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग (Lửa)"
       },
       {
         "hindi": "to help",
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -138,9 +134,9 @@
     "answer_vi": "Lửa",
     "options": [
       "Fire",
-      "Fire",
       "Hospital",
-      "Help"
+      "Help",
+      "Xin lỗi cho tôi hỏi"
     ],
     "options_vi": [
       "Lửa",
@@ -155,11 +151,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Hospital",
@@ -167,7 +159,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -222,7 +214,7 @@
       "Fire",
       "Help me!",
       "Police station",
-      "Fire"
+      "Lửa"
     ],
     "options_vi": [
       "Lửa",
@@ -237,7 +229,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Help me!",
@@ -246,10 +238,6 @@
       {
         "hindi": "Police station",
         "english": "थाना (Đồn cảnh sát)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​ (Lửa)"
       }
     ]
   },
@@ -257,7 +245,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -319,7 +307,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Thank you for helping me.",
@@ -327,7 +315,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Police",
@@ -338,10 +326,10 @@
   {
     "type": "Listening",
     "audio": "Fire",
-    "translation_en": "आग​​​​​",
+    "translation_en": "आग",
     "translation_vi": "Lửa",
     "options_en": [
-      "आग​​​​​",
+      "आग",
       "अस्पताल",
       "आग",
       "मदद करना"

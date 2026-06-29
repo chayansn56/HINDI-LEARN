@@ -58,7 +58,7 @@
       "Doctor",
       "Hospital",
       "Help",
-      "Hospital"
+      "Tôi cần giúp đỡ."
     ],
     "options_vi": [
       "Bác sĩ",
@@ -82,10 +82,6 @@
       {
         "hindi": "Help",
         "english": "मदद (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Hospital",
-        "english": "अस्पताल (Bệnh viện)"
       }
     ]
   },
@@ -140,7 +136,7 @@
       "Police",
       "Fire",
       "Help",
-      "Help"
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Cảnh sát",
@@ -159,15 +155,11 @@
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +213,8 @@
     "options": [
       "Fire",
       "Help",
-      "Help",
-      "Help"
+      "Police",
+      "Xin lỗi cho tôi hỏi"
     ],
     "options_vi": [
       "Lửa",
@@ -237,15 +229,11 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "I need help.",
@@ -303,8 +291,8 @@
     "options": [
       "Pain",
       "Help",
-      "Help",
-      "Police station"
+      "Police station",
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Đau",
@@ -327,7 +315,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Police station",

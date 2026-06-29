@@ -61,24 +61,7 @@
   },
   {
     "type": "MatchPairs",
-    "pairs": [
-      {
-        "left": "Pull Request",
-        "right": "Yêu cầu gộp mã"
-      },
-      {
-        "left": "Merge conflict",
-        "right": "Xung đột mã nguồn"
-      },
-      {
-        "left": "Refactor",
-        "right": "Tái cấu trúc code"
-      },
-      {
-        "left": "LGTM",
-        "right": "Duyệt / Trông ổn đấy"
-      }
-    ]
+    "pairs": []
   },
   {
     "type": "Flashcard",

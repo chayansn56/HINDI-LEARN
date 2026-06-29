@@ -57,8 +57,8 @@
     "options": [
       "Knowledge",
       "Snow / Ice",
-      "Snow / Ice",
-      "I know"
+      "I know",
+      "Kiến thức"
     ],
     "options_vi": [
       "Kiến thức",
@@ -77,11 +77,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "I know",
@@ -159,7 +155,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "before (time)",
@@ -327,7 +323,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "What time is it?",
@@ -342,8 +338,8 @@
     "translation_vi": "Kiến thức",
     "options_en": [
       "विद्या",
-      "बर्फ़​​​​​​​",
-      "बर्फ़​​​​",
+      "बर्फ़",
+      "बर्फ़",
       "मुझे पता है"
     ],
     "options_vi": [

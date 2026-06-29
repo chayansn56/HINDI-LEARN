@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Money.",
-    "simpleRule": "Remember: Money means पैसा​​​​​​​​​​​​ (Tiền)."
+    "simpleRule": "Remember: Money means पैसा (Tiền)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Tiền",
     "options": [
       "Money",
-      "Money",
       "To work",
-      "To work"
+      "Collaboration",
+      "Rupee / Money"
     ],
     "options_vi": [
       "Tiền",
@@ -73,19 +73,11 @@
     "pairs": [
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​​​​ (Tiền)"
-      },
-      {
-        "hindi": "Money",
-        "english": "पैसा​​​​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -163,11 +155,11 @@
       },
       {
         "hindi": "Money",
-        "english": "पैसा​​​​​​​​​ (Tiền)"
+        "english": "पैसा (Tiền)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Office.",
-    "simpleRule": "Remember: Office means दफ़्तर​ (Văn phòng)."
+    "simpleRule": "Remember: Office means दफ़्तर (Văn phòng)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +212,9 @@
     "answer_vi": "Văn phòng",
     "options": [
       "Office",
-      "Office",
-      "Office",
-      "To work"
+      "To work",
+      "Làm việc",
+      "Đồng rupee / Tiền"
     ],
     "options_vi": [
       "Văn phòng",
@@ -237,19 +229,11 @@
     "pairs": [
       {
         "hindi": "Office",
-        "english": "दफ़्तर​ (Văn phòng)"
-      },
-      {
-        "hindi": "Office",
-        "english": "दफ़्तर​​​​​​ (Văn phòng)"
-      },
-      {
-        "hindi": "Office",
-        "english": "दफ़्तर​​​​​​​ (Văn phòng)"
+        "english": "दफ़्तर (Văn phòng)"
       },
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       }
     ]
   },
@@ -257,7 +241,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +286,9 @@
     "answer_vi": "Làm việc",
     "options": [
       "To work",
-      "To work",
-      "To work",
-      "Reduce price a bit."
+      "Reduce price a bit.",
+      "Công ty",
+      "Negotiation"
     ],
     "options_vi": [
       "Làm việc",
@@ -319,15 +303,7 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​ (Làm việc)"
-      },
-      {
-        "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Reduce price a bit.",
@@ -338,13 +314,13 @@
   {
     "type": "Listening",
     "audio": "Money",
-    "translation_en": "पैसा​​​​​​​​​​​​",
+    "translation_en": "पैसा",
     "translation_vi": "Tiền",
     "options_en": [
-      "पैसा​​​​​​​​​​​​",
-      "पैसा​​​​​​​​​​​",
-      "काम करना​​​​​​​​​​​​",
-      "काम करना​​​"
+      "पैसा",
+      "पैसा",
+      "काम करना",
+      "काम करना"
     ],
     "options_vi": [
       "Tiền",

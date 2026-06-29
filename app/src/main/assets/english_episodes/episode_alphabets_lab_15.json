@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To cry.",
-    "simpleRule": "Remember: To cry means रोना​​​​​​​​​​​​​​​​​​​​​ (Khóc)."
+    "simpleRule": "Remember: To cry means रोना (Khóc)."
   },
   {
     "type": "Flashcard",
@@ -73,15 +73,15 @@
     "pairs": [
       {
         "hindi": "To cry",
-        "english": "रोना​​​​​​​​​​​​​​​​​​​​​ (Khóc)"
+        "english": "रोना (Khóc)"
       },
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       },
       {
         "hindi": "To teach",
-        "english": "sिखाना​​​​​​​​​​​​​​​​​​ (Dạy)"
+        "english": "sिखाना (Dạy)"
       },
       {
         "hindi": "am",
@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Star.",
-    "simpleRule": "Remember: Star means तारा​​​​​ (Ngôi sao)."
+    "simpleRule": "Remember: Star means तारा (Ngôi sao)."
   },
   {
     "type": "Flashcard",
@@ -155,7 +155,7 @@
     "pairs": [
       {
         "hindi": "Star",
-        "english": "तारा​​​​​ (Ngôi sao)"
+        "english": "तारा (Ngôi sao)"
       },
       {
         "hindi": "How many",
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To take.",
-    "simpleRule": "Remember: To take means लेना​​​​​​​​​​​​​​​ (Lấy / Nhận)."
+    "simpleRule": "Remember: To take means लेना (Lấy / Nhận)."
   },
   {
     "type": "Flashcard",
@@ -221,8 +221,8 @@
     "options": [
       "To take",
       "To learn",
-      "To take",
-      "To take"
+      "Can you help me?",
+      "To close"
     ],
     "options_vi": [
       "Lấy / Nhận",
@@ -237,19 +237,11 @@
     "pairs": [
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Học)"
-      },
-      {
-        "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
-      },
-      {
-        "hindi": "To take",
-        "english": "लेना​​​​​ (Lấy / Nhận)"
+        "english": "सीखना (Học)"
       }
     ]
   },
@@ -327,23 +319,23 @@
       },
       {
         "hindi": "To wake up",
-        "english": "जागना​​​​​​​ (Thức dậy)"
+        "english": "जागना (Thức dậy)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "To cry",
-    "translation_en": "रोना​​​​​​​​​​​​​​​​​​​​​",
+    "translation_en": "रोना",
     "translation_vi": "Khóc",
     "options_en": [
-      "रोना​​​​​​​​​​​​​​​​​​​​​",
-      "बंद करना​​​​​​​​​​​​​​​​​​",
-      "sिखाना​​​​​​​​​​​​​​​​​​",
+      "रोना",
+      "बंद करना",
+      "sिखाना",
       "हूँ"
     ],
     "options_vi": [

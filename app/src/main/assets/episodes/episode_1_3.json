@@ -5,7 +5,12 @@
     "text": "Which letter represents the 'ee' sound (as in 'feet')?",
     "subtext": "Hindi vowels review",
     "answer": "ई",
-    "options": ["इ", "ई", "ऊ", "ए"]
+    "options": [
+      "इ",
+      "ई",
+      "ऊ",
+      "ए"
+    ]
   },
   {
     "type": "MultipleChoice",
@@ -13,27 +18,60 @@
     "text": "Which letter is the retroflex 'ṭa' sound?",
     "subtext": "Hint: Tongue curls backward",
     "answer": "ट",
-    "options": ["त", "ट", "थ", "ठ"]
+    "options": [
+      "त",
+      "ट",
+      "थ",
+      "ठ"
+    ]
   },
   {
     "type": "MatchPairs",
     "instruction": "Match each letter to its correct sound",
     "pairs": [
-      {"hindi": "क", "english": "ka"},
-      {"hindi": "च", "english": "cha"},
-      {"hindi": "ट", "english": "ṭa"},
-      {"hindi": "त", "english": "ta"},
-      {"hindi": "प", "english": "pa"},
-      {"hindi": "म", "english": "ma"}
+      {
+        "hindi": "क",
+        "english": "ka"
+      },
+      {
+        "hindi": "च",
+        "english": "cha"
+      },
+      {
+        "hindi": "ट",
+        "english": "ṭa"
+      },
+      {
+        "hindi": "त",
+        "english": "ta"
+      },
+      {
+        "hindi": "प",
+        "english": "pa"
+      },
+      {
+        "hindi": "म",
+        "english": "ma"
+      }
     ]
   },
   {
     "type": "Listening",
     "audio": "घर",
     "translation_en": "House",
-    "options_en": ["House", "Water", "Flower", "Star"],
+    "options_en": [
+      "House",
+      "Water",
+      "Flower",
+      "Star"
+    ],
     "translation_vi": "Nhà",
-    "options_vi": ["Nhà", "Nước", "Hoa", "Ngôi sao"]
+    "options_vi": [
+      "Nhà",
+      "Nước",
+      "Hoa",
+      "Ngôi sao"
+    ]
   },
   {
     "type": "MultipleChoice",
@@ -41,7 +79,12 @@
     "text": "Which letter makes the 'sha' sound (palatal)?",
     "subtext": "Sibilants review",
     "answer": "श",
-    "options": ["स", "ष", "श", "ह"]
+    "options": [
+      "स",
+      "ष",
+      "श",
+      "ह"
+    ]
   },
   {
     "type": "Drawing",
@@ -54,15 +97,30 @@
     "text": "Which group does the letter 'भ' belong to?",
     "subtext": "Think about where in the mouth the sound is produced",
     "answer": "पवर्ग (Labial / Lip sounds)",
-    "options": ["कवर्ग (Velar / Throat sounds)", "चवर्ग (Palatal / Palate sounds)", "टवर्ग (Retroflex sounds)", "पवर्ग (Labial / Lip sounds)"]
+    "options": [
+      "कवर्ग (Velar / Throat sounds)",
+      "चवर्ग (Palatal / Palate sounds)",
+      "टवर्ग (Retroflex sounds)",
+      "पवर्ग (Labial / Lip sounds)"
+    ]
   },
   {
     "type": "Listening",
     "audio": "छाता",
     "translation_en": "Umbrella",
-    "options_en": ["Spoon", "Flag", "Umbrella", "Drum"],
+    "options_en": [
+      "Spoon",
+      "Flag",
+      "Umbrella",
+      "Drum"
+    ],
     "translation_vi": "Ô (dù)",
-    "options_vi": ["Thìa", "Cờ", "Ô (dù)", "Trống"]
+    "options_vi": [
+      "Thìa",
+      "Cờ",
+      "Ô (dù)",
+      "Trống"
+    ]
   },
   {
     "type": "Drawing",
@@ -72,7 +130,11 @@
   {
     "type": "SentenceBuilder",
     "englishSentence": "Build the word: 'कमल' (lotus)",
-    "hindiWords": ["म", "क", "ल"],
+    "hindiWords": [
+      "म",
+      "क",
+      "ल"
+    ],
     "correctHindiSentence": "कमल"
   },
   {
@@ -81,18 +143,41 @@
     "text": "How many vowels (स्वर) are there in Hindi?",
     "subtext": "Think back to the vowel episodes",
     "answer": "13",
-    "options": ["10", "11", "13", "15"]
+    "options": [
+      "10",
+      "11",
+      "13",
+      "15"
+    ]
   },
   {
     "type": "MatchPairs",
     "instruction": "Match each word to its meaning — test your vocabulary!",
     "pairs": [
-      {"hindi": "फूल", "english": "Flower"},
-      {"hindi": "नदी", "english": "River"},
-      {"hindi": "हाथी", "english": "Elephant"},
-      {"hindi": "तारा", "english": "Star"},
-      {"hindi": "शेर", "english": "Lion"},
-      {"hindi": "जल", "english": "Water"}
+      {
+        "hindi": "फूल",
+        "english": "Flower"
+      },
+      {
+        "hindi": "नदी",
+        "english": "River"
+      },
+      {
+        "hindi": "हाथी",
+        "english": "Elephant"
+      },
+      {
+        "hindi": "तारा",
+        "english": "Star"
+      },
+      {
+        "hindi": "शेर",
+        "english": "Lion"
+      },
+      {
+        "hindi": "जल",
+        "english": "Water"
+      }
     ]
   },
   {
@@ -103,7 +188,11 @@
   {
     "type": "SentenceBuilder",
     "englishSentence": "Build the word: 'नमक' (salt)",
-    "hindiWords": ["म", "न", "क"],
+    "hindiWords": [
+      "म",
+      "न",
+      "क"
+    ],
     "correctHindiSentence": "नमक"
   },
   {

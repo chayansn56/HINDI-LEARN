@@ -77,7 +77,7 @@
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Pain",
@@ -140,7 +140,7 @@
       "Medicine",
       "Help",
       "Fire",
-      "Fire"
+      "Đồn cảnh sát"
     ],
     "options_vi": [
       "Thuốc",
@@ -163,11 +163,7 @@
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       }
     ]
   },
@@ -222,7 +218,7 @@
       "Police",
       "Fire",
       "Help",
-      "Help"
+      "Police station"
     ],
     "options_vi": [
       "Cảnh sát",
@@ -241,7 +237,7 @@
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Thank you for helping me.",
@@ -249,7 +245,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -257,7 +253,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -303,8 +299,8 @@
     "options": [
       "Fire",
       "Help",
-      "Help",
-      "Fire"
+      "Lửa",
+      "Cảm ơn vì đã giúp tôi."
     ],
     "options_vi": [
       "Lửa",
@@ -319,7 +315,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "to help",
@@ -327,11 +323,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​​​​ (Lửa)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -342,7 +334,7 @@
     "translation_vi": "Đồn cảnh sát",
     "options_en": [
       "थाना",
-      "आग​​​​​​​​​",
+      "आग",
       "दर्द",
       "मदद"
     ],

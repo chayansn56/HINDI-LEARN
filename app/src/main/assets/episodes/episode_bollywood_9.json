@@ -113,19 +113,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "देखना",
     "transliteration": "dekhnā",
     "english": "To see / watch",
     "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "देखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "गाना​",
+    "hindi": "गाना",
     "transliteration": "gānā",
     "english": "To sing",
     "vietnamese": "Hát",
-    "audio": "गाना​"
+    "audio": "गाना"
   },
   {
     "type": "MultipleChoice",
@@ -162,11 +162,11 @@
         "english": "Romance (Sự lãng mạn)"
       },
       {
-        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "देखना",
         "english": "To see / watch (Nhìn / Xem)"
       },
       {
-        "hindi": "गाना​",
+        "hindi": "गाना",
         "english": "To sing (Hát)"
       }
     ]
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: गाना, गाना​",
+      "You learned: गाना, गाना",
       "Practiced constructing sentences."
     ]
   }

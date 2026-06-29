@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Notebook.",
-    "simpleRule": "Remember: Notebook means कापी​ (Sổ tay)."
+    "simpleRule": "Remember: Notebook means कापी (Sổ tay)."
   },
   {
     "type": "Flashcard",
@@ -56,9 +56,9 @@
     "answer_vi": "Sổ tay",
     "options": [
       "Notebook",
-      "Notebook",
       "Where",
-      "Whom (relative plural)"
+      "Whom (relative plural)",
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Sổ tay",
@@ -73,11 +73,7 @@
     "pairs": [
       {
         "hindi": "Notebook",
-        "english": "कापी​ (Sổ tay)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Where",
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -140,7 +136,7 @@
       "Snow / Ice",
       "Friendship",
       "Yes, I am ready.",
-      "Snow / Ice"
+      "Notebook"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -155,7 +151,7 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Friendship",
@@ -164,10 +160,6 @@
       {
         "hindi": "Yes, I am ready.",
         "english": "हाँ, मैं तैयार हूँ। (Vâng, tôi sẵn sàng rồi.)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​ (Tuyết / Đá)"
       }
     ]
   },
@@ -249,7 +241,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -331,18 +323,18 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Notebook",
-    "translation_en": "कापी​",
+    "translation_en": "कापी",
     "translation_vi": "Sổ tay",
     "options_en": [
-      "कापी​",
-      "कापी​​​​​​​",
+      "कापी",
+      "कापी",
       "कहाँ",
       "जिन्हें"
     ],

@@ -23,11 +23,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "MultipleChoice",
@@ -58,7 +58,7 @@
       "Why",
       "To speak",
       "How",
-      "To speak"
+      "Tại sao"
     ],
     "options_vi": [
       "Tại sao",
@@ -76,32 +76,28 @@
         "english": "Why (Tại sao)"
       },
       {
-        "hindi": "बोलना​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
         "hindi": "कैसे",
         "english": "How (Như thế nào)"
-      },
-      {
-        "hindi": "बोलना​​​​​​​​​​​​​​​",
-        "english": "To speak (Nói)"
       }
     ]
   },
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बोलना​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बोलना​​​​​​​​​​​​​​​​​​​​​​ means To speak (Nói)."
+    "explanation": "Understand the usage and roots of: बोलना.",
+    "simpleRule": "Remember: बोलना means To speak (Nói)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -113,11 +109,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "बोलना​",
+    "hindi": "बोलना",
     "transliteration": "bolnā",
     "english": "To speak",
     "vietnamese": "Nói",
-    "audio": "बोलना​"
+    "audio": "बोलना"
   },
   {
     "type": "Flashcard",
@@ -129,18 +125,18 @@
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'बोलना'",
+    "prompt_en": "Choose correct translation for 'बोलना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बोलना'",
+    "text": "बोलना",
     "subtext": "bolnā",
     "answer": "To speak",
     "answer_vi": "Nói",
     "options": [
       "To speak",
       "How many",
-      "To speak",
-      "Hello, how are you?"
+      "Hello, how are you?",
+      "कितने"
     ],
     "options_vi": [
       "Nói",
@@ -154,16 +150,12 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बोलना​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बोलना",
         "english": "To speak (Nói)"
       },
       {
         "hindi": "कितने",
         "english": "How many (Bao nhiêu (số lượng))"
-      },
-      {
-        "hindi": "बोलना​",
-        "english": "To speak (Nói)"
       },
       {
         "hindi": "नमस्ते, आप कैसे हैं?",
@@ -205,11 +197,11 @@
     "englishSentence": "I see To speak / Tôi thấy Nói",
     "hindiWords": [
       "मैं",
-      "बोलना​​​​​​​​",
+      "बोलना",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं बोलना​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं बोलना देखता हूँ"
   },
   {
     "type": "RevisionSummary",

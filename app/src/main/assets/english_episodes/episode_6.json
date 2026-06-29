@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Sự đầu tư."
       },
       {
-        "hindi": "Later, you encounter a To sell (बेचना​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To sell (बेचना).",
         "translation": "Sau đó, bạn gặp một Bán."
       }
     ],
@@ -104,15 +104,15 @@
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +182,11 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "To read",
-        "english": "पढ़ना​​​​​​​​​​​​​​​​​​​​ (Đọc)"
+        "english": "पढ़ना (Đọc)"
       },
       {
         "hindi": "What's up?",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​​​​​​​​​​ (Bán)"
+        "english": "बेचना (Bán)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To run.",
-    "simpleRule": "Remember: To run means दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)."
+    "simpleRule": "Remember: To run means दौड़ना (Chạy)."
   },
   {
     "type": "Flashcard",
@@ -264,7 +264,7 @@
     "pairs": [
       {
         "hindi": "To run",
-        "english": "दौड़ना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Chạy)"
+        "english": "दौड़ना (Chạy)"
       },
       {
         "hindi": "1",
@@ -276,7 +276,7 @@
       },
       {
         "hindi": "River",
-        "english": "नदी​​​​​ (Con sông)"
+        "english": "नदी (Con sông)"
       }
     ]
   },
@@ -287,9 +287,9 @@
     "translation_vi": "Sự đầu tư",
     "options_en": [
       "निवेश",
-      "बेचना​​​​​​​​​​​​​​​​",
-      "खड़े होना​​​​​",
-      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+      "बेचना",
+      "खड़े होना",
+      "देखना"
     ],
     "options_vi": [
       "Sự đầu tư",

@@ -4,39 +4,39 @@
     "title": "Foundation Academy - Level 20",
     "description": "Learn key vocabulary and concepts for Foundation Academy - Level 20. Listen carefully and read along in English and Vietnamese.",
     "keyPoints": [
-      "हँसना​​ (hãsnā) = To laugh / Cười lớn",
-      "सोना​​ (sonā) = To sleep / Ngủ",
-      "साफ करना​​​​​​​​​ (sāf karnā) = To clean / Dọn dẹp / Lau chùi"
+      "हँसना (hãsnā) = To laugh / Cười lớn",
+      "सोना (sonā) = To sleep / Ngủ",
+      "साफ करना (sāf karnā) = To clean / Dọn dẹp / Lau chùi"
     ]
   },
   {
     "type": "TeachRule",
     "title": "Alphabet & Building Blocks - Part 20",
     "explanation": "Consolidate your Devanagari script, basic words, and greeting structures.",
-    "simpleRule": "Remember: हँसना​​ means 'To laugh' (Cười lớn)."
+    "simpleRule": "Remember: हँसना means 'To laugh' (Cười lớn)."
   },
   {
     "type": "Flashcard",
-    "hindi": "हँसना​​",
+    "hindi": "हँसना",
     "transliteration": "hãsnā",
     "english": "To laugh",
     "vietnamese": "Cười lớn",
-    "audio": "हँसना​​"
+    "audio": "हँसना"
   },
   {
     "type": "Flashcard",
-    "hindi": "सोना​​",
+    "hindi": "सोना",
     "transliteration": "sonā",
     "english": "To sleep",
     "vietnamese": "Ngủ",
-    "audio": "सोना​​"
+    "audio": "सोना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'हँसना​​'",
-    "prompt_en": "Choose the correct translation for 'हँसना​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना​​'",
-    "text": "हँसना​​",
+    "prompt": "Translate 'हँसना'",
+    "prompt_en": "Choose the correct translation for 'हँसना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'हँसना'",
+    "text": "हँसना",
     "subtext": "hãsnā",
     "answer": "To laugh",
     "answer_vi": "Cười lớn",
@@ -55,45 +55,45 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "साफ करना​​​​​​​​​",
+    "hindi": "साफ करना",
     "transliteration": "sāf karnā",
     "english": "To clean",
     "vietnamese": "Dọn dẹp / Lau chùi",
-    "audio": "साफ करना​​​​​​​​​"
+    "audio": "साफ करना"
   },
   {
     "type": "Flashcard",
-    "hindi": "कपड़ा​​​​​",
+    "hindi": "कपड़ा",
     "transliteration": "kapṛā",
     "english": "Cloth / Dress",
     "vietnamese": "Quần áo",
-    "audio": "कपड़ा​​​​​"
+    "audio": "कपड़ा"
   },
   {
     "type": "MatchPairs",
     "instruction": "Match the Hindi words with their meanings",
     "pairs": [
       {
-        "hindi": "हँसना​​",
+        "hindi": "हँसना",
         "english": "To laugh (Cười lớn)"
       },
       {
-        "hindi": "सोना​​",
+        "hindi": "सोना",
         "english": "To sleep (Ngủ)"
       },
       {
-        "hindi": "साफ करना​​​​​​​​​",
+        "hindi": "साफ करना",
         "english": "To clean (Dọn dẹp / Lau chùi)"
       },
       {
-        "hindi": "कपड़ा​​​​​",
+        "hindi": "कपड़ा",
         "english": "Cloth / Dress (Quần áo)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "सोना​​",
+    "audio": "सोना",
     "translation_en": "To sleep",
     "translation_vi": "Ngủ",
     "options_en": [
@@ -123,38 +123,38 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "दफ़्तर​​​​​​​​​​​",
+    "hindi": "दफ़्तर",
     "transliteration": "daftar",
     "english": "Office",
     "vietnamese": "Văn phòng",
-    "audio": "दफ़्तर​​​​​​​​​​​"
+    "audio": "दफ़्तर"
   },
   {
     "type": "Flashcard",
-    "hindi": "जागना​​​​​​​​​",
+    "hindi": "जागना",
     "transliteration": "jāgnā",
     "english": "To wake up",
     "vietnamese": "Thức dậy",
-    "audio": "जागना​​​​​​​​​"
+    "audio": "जागना"
   },
   {
     "type": "MatchPairs",
     "instruction": "Match the words to proceed",
     "pairs": [
       {
-        "hindi": "साफ करना​​​​​​​​​",
+        "hindi": "साफ करना",
         "english": "To clean (Dọn dẹp / Lau chùi)"
       },
       {
-        "hindi": "कपड़ा​​​​​",
+        "hindi": "कपड़ा",
         "english": "Cloth / Dress (Quần áo)"
       },
       {
-        "hindi": "दफ़्तर​​​​​​​​​​​",
+        "hindi": "दफ़्तर",
         "english": "Office (Văn phòng)"
       },
       {
-        "hindi": "जागना​​​​​​​​​",
+        "hindi": "जागना",
         "english": "To wake up (Thức dậy)"
       }
     ]
@@ -176,7 +176,7 @@
     "type": "RevisionSummary",
     "title": "Lesson Summary",
     "takeaways": [
-      "You learned basic vocabulary terms: हँसना​​, साफ करना​​​​​​​​​, दफ़्तर​​​​​​​​​​​.",
+      "You learned basic vocabulary terms: हँसना, साफ करना, दफ़्तर.",
       "You completed interactive listening and matching drills.",
       "You practiced word ordering for the sentence: 'This is a big house'."
     ]

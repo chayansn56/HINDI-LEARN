@@ -13,8 +13,8 @@ import java.util.concurrent.TimeUnit
 object OpenAiService {
     // We keep the name OpenAiService for compatibility with existing UI components,
     // but we are using the Gemini API now as requested.
-    private val API_KEY get() = com.example.hindilearn.BuildConfig.GROQ_API_KEY
-    private val API_URL get() = "https://api.groq.com/openai/v1/chat/completions"
+    private val API_KEY get() = com.example.hindilearn.BuildConfig.NVIDIA_API_KEY
+    private val API_URL get() = "https://integrate.api.nvidia.com/v1/chat/completions"
 
     private val client = OkHttpClient.Builder()
         .connectTimeout(30, TimeUnit.SECONDS)
@@ -30,7 +30,7 @@ object OpenAiService {
     ): String? = withContext(Dispatchers.IO) {
         try {
             val requestBody = JSONObject()
-            requestBody.put("model", "llama-3.1-8b-instant")
+            requestBody.put("model", "nvidia/nemotron-3-ultra-550b-a55b")
             requestBody.put("temperature", 0.7)
 
             val messagesArray = JSONArray()
@@ -78,7 +78,7 @@ object OpenAiService {
     suspend fun gradePronunciation(targetSentence: String, userSpokenText: String): Triple<String, Int, String>? = withContext(Dispatchers.IO) {
         try {
             val requestBody = JSONObject()
-            requestBody.put("model", "llama-3.1-8b-instant")
+            requestBody.put("model", "nvidia/nemotron-3-ultra-550b-a55b")
             requestBody.put("temperature", 0.3)
             requestBody.put("response_format", JSONObject().put("type", "json_object"))
             

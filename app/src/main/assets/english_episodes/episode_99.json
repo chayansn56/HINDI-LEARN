@@ -13,11 +13,11 @@
     "title_vi": "Tập 99",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a Journey (सफ़र​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a Journey (सफ़र).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Chuyến đi."
       },
       {
-        "hindi": "Later, you encounter a To learn (सीखना​​​​​​​​).",
+        "hindi": "Later, you encounter a To learn (सीखना).",
         "translation": "Sau đó, bạn gặp một Học."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -100,15 +100,15 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "To learn",
-        "english": "सीखना​​​​​​​​ (Học)"
+        "english": "सीखना (Học)"
       },
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "What a shame.",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To work.",
-    "simpleRule": "Remember: To work means काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)."
+    "simpleRule": "Remember: To work means काम करना (Làm việc)."
   },
   {
     "type": "Flashcard",
@@ -182,11 +182,11 @@
     "pairs": [
       {
         "hindi": "To work",
-        "english": "काम करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm việc)"
+        "english": "काम करना (Làm việc)"
       },
       {
         "hindi": "Iron",
-        "english": "लोहा​​​​​​ (Sắt)"
+        "english": "लोहा (Sắt)"
       },
       {
         "hindi": "Ganges River",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "River",
-        "english": "नदी​​​ (Con sông)"
+        "english": "नदी (Con sông)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Gold.",
-    "simpleRule": "Remember: Gold means सोना​​​​​​​​​​​​​​​​​​​​​​ (Vàng)."
+    "simpleRule": "Remember: Gold means सोना (Vàng)."
   },
   {
     "type": "Flashcard",
@@ -264,31 +264,31 @@
     "pairs": [
       {
         "hindi": "Gold",
-        "english": "सोना​​​​​​​​​​​​​​​​​​​​​​ (Vàng)"
+        "english": "सोना (Vàng)"
       },
       {
         "hindi": "To see / watch",
-        "english": "देखना​​​​​​​​​​​​​​​​​​​​ (Nhìn / Xem)"
+        "english": "देखना (Nhìn / Xem)"
       },
       {
         "hindi": "River",
-        "english": "नदी​​​​​​ (Con sông)"
+        "english": "नदी (Con sông)"
       },
       {
         "hindi": "Garden",
-        "english": "बग़ीचा​​​​​ (Khu vườn)"
+        "english": "बग़ीचा (Khu vườn)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Journey",
-    "translation_en": "सफ़र​​​​​​​​​",
+    "translation_en": "सफ़र",
     "translation_vi": "Chuyến đi",
     "options_en": [
-      "सफ़र​​​​​​​​​",
-      "सीखना​​​​​​​​",
-      "बोलना​​​​",
+      "सफ़र",
+      "सीखना",
+      "बोलना",
       "शर्म की बात है।"
     ],
     "options_vi": [

@@ -57,8 +57,8 @@
     "options": [
       "Drinking water",
       "Soil / Earth",
-      "Soil / Earth",
-      "Soil / Earth"
+      "Car / Train / Cart",
+      "Partnership"
     ],
     "options_vi": [
       "Nước uống",
@@ -77,15 +77,7 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​ (Đất)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​​​​ (Đất)"
+        "english": "मिट्टी (Đất)"
       }
     ]
   },
@@ -140,7 +132,7 @@
       "Partnership",
       "Soil / Earth",
       "Client / Customer",
-      "Soil / Earth"
+      "Excuse me"
     ],
     "options_vi": [
       "Quan hệ đối tác",
@@ -159,15 +151,11 @@
       },
       {
         "hindi": "Soil / Earth",
-        "english": "मिट्टी​ (Đất)"
+        "english": "मिट्टी (Đất)"
       },
       {
         "hindi": "Client / Customer",
         "english": "ग्राहक (Khách hàng)"
-      },
-      {
-        "hindi": "Soil / Earth",
-        "english": "मिट्टी​​​​​ (Đất)"
       }
     ]
   },
@@ -342,9 +330,9 @@
     "translation_vi": "Nước uống",
     "options_en": [
       "पीने का पानी",
-      "मिट्टी​​​​​​​",
-      "मिट्टी​​​",
-      "मिट्टी​​​​​​​​"
+      "मिट्टी",
+      "मिट्टी",
+      "मिट्टी"
     ],
     "options_vi": [
       "Nước uống",

@@ -13,11 +13,11 @@
     "title_vi": "Tập 29",
     "paragraphs": [
       {
-        "hindi": "You arrive at the new city. You see a To open (खोलना​​​​​​​​​​​​​​​).",
+        "hindi": "You arrive at the new city. You see a To open (खोलना).",
         "translation": "Bạn đến thành phố mới. Bạn thấy một Mở."
       },
       {
-        "hindi": "Later, you encounter a To listen / hear (सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To listen / hear (सुनना).",
         "translation": "Sau đó, bạn gặp một Nghe."
       }
     ],
@@ -38,7 +38,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -100,19 +100,19 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       },
       {
         "hindi": "To do",
-        "english": "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Làm)"
+        "english": "करना (Làm)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       }
     ]
   },
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To sing.",
-    "simpleRule": "Remember: To sing means गाना​​​​​​​​​ (Hát)."
+    "simpleRule": "Remember: To sing means गाना (Hát)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +182,7 @@
     "pairs": [
       {
         "hindi": "To sing",
-        "english": "गाना​​​​​​​​​ (Hát)"
+        "english": "गाना (Hát)"
       },
       {
         "hindi": "under / below",
@@ -194,7 +194,7 @@
       },
       {
         "hindi": "To sell",
-        "english": "बेचना​ (Bán)"
+        "english": "बेचना (Bán)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: To buy.",
-    "simpleRule": "Remember: To buy means खरीदना​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)."
+    "simpleRule": "Remember: To buy means खरीदना (Mua)."
   },
   {
     "type": "Flashcard",
@@ -264,15 +264,15 @@
     "pairs": [
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "To walk / move",
-        "english": "चलना​​​​​​​​​​ (Đi bộ / Di chuyển)"
+        "english": "चलना (Đi bộ / Di chuyển)"
       },
       {
         "hindi": "To close",
-        "english": "बंद करना​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       },
       {
         "hindi": "Product",
@@ -283,13 +283,13 @@
   {
     "type": "Listening",
     "audio": "To open",
-    "translation_en": "खोलना​​​​​​​​​​​​​​​",
+    "translation_en": "खोलना",
     "translation_vi": "Mở",
     "options_en": [
-      "खोलना​​​​​​​​​​​​​​​",
-      "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "करना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​"
+      "खोलना",
+      "सुनना",
+      "करना",
+      "धोना"
     ],
     "options_vi": [
       "Mở",

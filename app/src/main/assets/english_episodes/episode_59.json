@@ -17,7 +17,7 @@
         "translation": "Bạn đến thành phố mới. Bạn thấy một Con gái (đối với cha mẹ)."
       },
       {
-        "hindi": "Later, you encounter a To give (देना​​​​​​​​​​​​​​​​​).",
+        "hindi": "Later, you encounter a To give (देना).",
         "translation": "Sau đó, bạn gặp một Cho / Tặng."
       }
     ],
@@ -104,11 +104,11 @@
       },
       {
         "hindi": "To give",
-        "english": "देना​​​​​​​​​​​​​​​​​ (Cho / Tặng)"
+        "english": "देना (Cho / Tặng)"
       },
       {
         "hindi": "To wash",
-        "english": "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Rửa / Giặt)"
+        "english": "धोना (Rửa / Giặt)"
       },
       {
         "hindi": "Come inside.",
@@ -120,7 +120,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: To open.",
-    "simpleRule": "Remember: To open means खोलना​​​​​​​​​​​​​​​​​​​​​​​ (Mở)."
+    "simpleRule": "Remember: To open means खोलना (Mở)."
   },
   {
     "type": "Flashcard",
@@ -182,7 +182,7 @@
     "pairs": [
       {
         "hindi": "To open",
-        "english": "खोलना​​​​​​​​​​​​​​​​​​​​​​​ (Mở)"
+        "english": "खोलना (Mở)"
       },
       {
         "hindi": "Laddu",
@@ -190,11 +190,11 @@
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       },
       {
         "hindi": "To write",
-        "english": "लिखना​​​ (Viết)"
+        "english": "लिखना (Viết)"
       }
     ]
   },
@@ -202,7 +202,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Sea / Ocean.",
-    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​​​​​​​​ (Biển)."
+    "simpleRule": "Remember: Sea / Ocean means समुद्र (Biển)."
   },
   {
     "type": "Flashcard",
@@ -248,8 +248,8 @@
     "options": [
       "Sea / Ocean",
       "To ask",
-      "To ask",
-      "To listen / hear"
+      "To listen / hear",
+      "Lấy / Nhận"
     ],
     "options_vi": [
       "Biển",
@@ -264,19 +264,15 @@
     "pairs": [
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​​​​​​​​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "To ask",
-        "english": "पूछना​​​​​​​​ (Hỏi)"
-      },
-      {
-        "hindi": "To ask",
-        "english": "पूछना​​​​​​​​​​​​​​​​​​​​​​​​ (Hỏi)"
+        "english": "पूछना (Hỏi)"
       },
       {
         "hindi": "To listen / hear",
-        "english": "सुनना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nghe)"
+        "english": "सुनना (Nghe)"
       }
     ]
   },
@@ -287,8 +283,8 @@
     "translation_vi": "Con gái (đối với cha mẹ)",
     "options_en": [
       "बेटी",
-      "देना​​​​​​​​​​​​​​​​​",
-      "धोना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देना",
+      "धोना",
       "अंदर आओ।"
     ],
     "options_vi": [

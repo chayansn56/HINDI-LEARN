@@ -11,7 +11,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set A",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​​​​​​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -58,7 +58,7 @@
       "Fire",
       "Medicine",
       "Help",
-      "Fire"
+      "I don't understand"
     ],
     "options_vi": [
       "Lửa",
@@ -73,7 +73,7 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Medicine",
@@ -81,11 +81,7 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​ (Lửa)"
+        "english": "मदद (Sự giúp đỡ)"
       }
     ]
   },
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Fire.",
-    "simpleRule": "Remember: Fire means आग​ (Lửa)."
+    "simpleRule": "Remember: Fire means आग (Lửa)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Fire",
       "Help",
-      "Fire",
-      "Hospital"
+      "Hospital",
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Lửa",
@@ -155,15 +151,11 @@
     "pairs": [
       {
         "hindi": "Fire",
-        "english": "आग​ (Lửa)"
+        "english": "आग (Lửa)"
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​​​ (Lửa)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Hospital",
@@ -175,7 +167,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Help.",
-    "simpleRule": "Remember: Help means मदद​​​ (Sự giúp đỡ)."
+    "simpleRule": "Remember: Help means मदद (Sự giúp đỡ)."
   },
   {
     "type": "Flashcard",
@@ -220,9 +212,9 @@
     "answer_vi": "Sự giúp đỡ",
     "options": [
       "Help",
-      "Help",
       "Pain",
-      "Help"
+      "Fire",
+      "Nhà vệ sinh ở đâu?"
     ],
     "options_vi": [
       "Sự giúp đỡ",
@@ -237,19 +229,11 @@
     "pairs": [
       {
         "hindi": "Help",
-        "english": "मदद​​​ (Sự giúp đỡ)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Pain",
         "english": "दर्द (Đau)"
-      },
-      {
-        "hindi": "Help",
-        "english": "मदद​ (Sự giúp đỡ)"
       }
     ]
   },
@@ -304,7 +288,7 @@
       "Police",
       "Help",
       "Fire",
-      "Fire"
+      "Hospital"
     ],
     "options_vi": [
       "Cảnh sát",
@@ -323,28 +307,24 @@
       },
       {
         "hindi": "Help",
-        "english": "मदद​​​​​​​​ (Sự giúp đỡ)"
+        "english": "मदद (Sự giúp đỡ)"
       },
       {
         "hindi": "Fire",
-        "english": "आग​​​​​​​​​ (Lửa)"
-      },
-      {
-        "hindi": "Fire",
-        "english": "आग​​​​​ (Lửa)"
+        "english": "आग (Lửa)"
       }
     ]
   },
   {
     "type": "Listening",
     "audio": "Fire",
-    "translation_en": "आग​​​​​​",
+    "translation_en": "आग",
     "translation_vi": "Lửa",
     "options_en": [
-      "आग​​​​​​",
+      "आग",
       "दवाई",
-      "मदद​​​​​​​",
-      "आग​​"
+      "मदद",
+      "आग"
     ],
     "options_vi": [
       "Lửa",

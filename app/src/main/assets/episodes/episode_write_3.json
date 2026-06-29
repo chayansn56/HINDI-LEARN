@@ -23,27 +23,27 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "पेन​​​​​​​​​",
+    "hindi": "पेन",
     "transliteration": "pen",
     "english": "Pen",
     "vietnamese": "Bút",
-    "audio": "पेन​​​​​​​​​"
+    "audio": "पेन"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "पढ़ना​​​​​​​​​​​​​​",
+    "hindi": "पढ़ना",
     "transliteration": "paṛhnā",
     "english": "To read",
     "vietnamese": "Đọc",
-    "audio": "पढ़ना​​​​​​​​​​​​​​"
+    "audio": "पढ़ना"
   },
   {
     "type": "MultipleChoice",
@@ -76,15 +76,15 @@
         "english": "to be / to happen (Thì / Là / Xảy ra)"
       },
       {
-        "hindi": "पेन​​​​​​​​​",
+        "hindi": "पेन",
         "english": "Pen (Bút)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       },
       {
-        "hindi": "पढ़ना​​​​​​​​​​​​​​",
+        "hindi": "पढ़ना",
         "english": "To read (Đọc)"
       }
     ]
@@ -113,19 +113,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "लिखना",
     "transliteration": "likhnā",
     "english": "To write",
     "vietnamese": "Viết",
-    "audio": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "लिखना"
   },
   {
     "type": "MultipleChoice",
@@ -140,7 +140,7 @@
       "Book",
       "Expensive",
       "To write",
-      "To write"
+      "Pen"
     ],
     "options_vi": [
       "Sách",
@@ -162,11 +162,7 @@
         "english": "Expensive (Đắt đỏ)"
       },
       {
-        "hindi": "लिखना​​​​​​​​​​​",
-        "english": "To write (Viết)"
-      },
-      {
-        "hindi": "लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "लिखना",
         "english": "To write (Viết)"
       }
     ]
@@ -205,17 +201,17 @@
     "englishSentence": "I see Pen / Tôi thấy Bút",
     "hindiWords": [
       "मैं",
-      "पेन​​​​​​​​​",
+      "पेन",
       "देखता",
       "हूँ"
     ],
-    "correctHindiSentence": "मैं पेन​​​​​​​​​ देखता हूँ"
+    "correctHindiSentence": "मैं पेन देखता हूँ"
   },
   {
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: होना, लिखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: होना, लिखना",
       "Practiced constructing sentences."
     ]
   }

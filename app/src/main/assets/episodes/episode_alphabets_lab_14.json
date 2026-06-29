@@ -10,16 +10,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set A",
-    "explanation": "Understand the usage and roots of: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ means To see / watch (Nhìn / Xem)."
+    "explanation": "Understand the usage and roots of: देखना.",
+    "simpleRule": "Remember: देखना means To see / watch (Nhìn / Xem)."
   },
   {
     "type": "Flashcard",
-    "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "देखना",
     "transliteration": "dekhnā",
     "english": "To see / watch",
     "vietnamese": "Nhìn / Xem",
-    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "देखना"
   },
   {
     "type": "Flashcard",
@@ -31,26 +31,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "खरीदना​​​​​​​​​​",
+    "hindi": "खरीदना",
     "transliteration": "kharīdnā",
     "english": "To buy",
     "vietnamese": "Mua",
-    "audio": "खरीदना​​​​​​​​​​"
+    "audio": "खरीदना"
   },
   {
     "type": "Flashcard",
-    "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बंद करना",
     "transliteration": "band karnā",
     "english": "To close",
     "vietnamese": "Đóng",
-    "audio": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बंद करना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'देखना'",
+    "prompt_en": "Choose correct translation for 'देखना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'देखना'",
+    "text": "देखना",
     "subtext": "dekhnā",
     "answer": "To see / watch",
     "answer_vi": "Nhìn / Xem",
@@ -72,7 +72,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "देखना",
         "english": "To see / watch (Nhìn / Xem)"
       },
       {
@@ -80,11 +80,11 @@
         "english": "Diwali (Lễ hội ánh sáng Diwali)"
       },
       {
-        "hindi": "खरीदना​​​​​​​​​​",
+        "hindi": "खरीदना",
         "english": "To buy (Mua)"
       },
       {
-        "hindi": "बंद करना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बंद करना",
         "english": "To close (Đóng)"
       }
     ]
@@ -92,16 +92,16 @@
   {
     "type": "TeachRule",
     "title": "Grammar & Phonetics - Set B",
-    "explanation": "Understand the usage and roots of: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​.",
-    "simpleRule": "Remember: बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​ means To make / build (Chế tạo / Tạo ra)."
+    "explanation": "Understand the usage and roots of: बनाना.",
+    "simpleRule": "Remember: बनाना means To make / build (Chế tạo / Tạo ra)."
   },
   {
     "type": "Flashcard",
-    "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "बनाना",
     "transliteration": "banānā",
     "english": "To make / build",
     "vietnamese": "Chế tạo / Tạo ra",
-    "audio": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "बनाना"
   },
   {
     "type": "Flashcard",
@@ -113,26 +113,26 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "सीखना",
     "transliteration": "sīkhnā",
     "english": "To learn",
     "vietnamese": "Học",
-    "audio": "सीखना​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "सीखना"
   },
   {
     "type": "Flashcard",
-    "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "hindi": "खड़े होना",
     "transliteration": "khaṛe honā",
     "english": "To stand",
     "vietnamese": "Đứng",
-    "audio": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "audio": "खड़े होना"
   },
   {
     "type": "MultipleChoice",
-    "prompt": "Translate 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_en": "Choose correct translation for 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​'",
-    "text": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "prompt": "Translate 'बनाना'",
+    "prompt_en": "Choose correct translation for 'बनाना'",
+    "prompt_vi": "Chọn bản dịch đúng cho 'बनाना'",
+    "text": "बनाना",
     "subtext": "banānā",
     "answer": "To make / build",
     "answer_vi": "Chế tạo / Tạo ra",
@@ -154,7 +154,7 @@
     "instruction": "Match all the words with their meanings",
     "pairs": [
       {
-        "hindi": "बनाना​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "बनाना",
         "english": "To make / build (Chế tạo / Tạo ra)"
       },
       {
@@ -162,18 +162,18 @@
         "english": "Bindi (Nốt đỏ trán Bindi)"
       },
       {
-        "hindi": "सीखना​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "सीखना",
         "english": "To learn (Học)"
       },
       {
-        "hindi": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "hindi": "खड़े होना",
         "english": "To stand (Đứng)"
       }
     ]
   },
   {
     "type": "Listening",
-    "audio": "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+    "audio": "देखना",
     "translation_en": "To see / watch",
     "translation_vi": "Nhìn / Xem",
     "options_en": [
@@ -195,10 +195,10 @@
     "hindiWords": [
       "यह",
       "एक",
-      "देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "देखना",
       "है"
     ],
-    "correctHindiSentence": "यह एक देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ है"
+    "correctHindiSentence": "यह एक देखना है"
   },
   {
     "type": "SentenceBuilder",
@@ -215,7 +215,7 @@
     "type": "RevisionSummary",
     "title": "Subgroup Mastered!",
     "takeaways": [
-      "You learned: देखना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​, खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "You learned: देखना, खड़े होना",
       "Practiced constructing sentences."
     ]
   }

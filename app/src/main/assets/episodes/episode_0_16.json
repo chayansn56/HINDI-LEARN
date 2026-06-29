@@ -85,18 +85,41 @@
     "text": "Which letter represents the DENTAL 's' sound (as in 'sun')?",
     "subtext": "Three sibilants: श, ष, स",
     "answer": "स",
-    "options": ["श", "ष", "स", "ह"]
+    "options": [
+      "श",
+      "ष",
+      "स",
+      "ह"
+    ]
   },
   {
     "type": "MatchPairs",
     "instruction": "Match each word to its English meaning",
     "pairs": [
-      {"hindi": "यात्रा", "english": "Journey"},
-      {"hindi": "राजा", "english": "King"},
-      {"hindi": "लड़का", "english": "Boy"},
-      {"hindi": "वन", "english": "Forest"},
-      {"hindi": "शेर", "english": "Lion"},
-      {"hindi": "हाथी", "english": "Elephant"}
+      {
+        "hindi": "यात्रा",
+        "english": "Journey"
+      },
+      {
+        "hindi": "राजा",
+        "english": "King"
+      },
+      {
+        "hindi": "लड़का",
+        "english": "Boy"
+      },
+      {
+        "hindi": "वन",
+        "english": "Forest"
+      },
+      {
+        "hindi": "शेर",
+        "english": "Lion"
+      },
+      {
+        "hindi": "हाथी",
+        "english": "Elephant"
+      }
     ]
   },
   {
@@ -105,7 +128,12 @@
     "text": "What does लड़का mean?",
     "subtext": "लड़का (laḍkā)",
     "answer": "Boy",
-    "options": ["King", "Boy", "Forest", "Journey"]
+    "options": [
+      "King",
+      "Boy",
+      "Forest",
+      "Journey"
+    ]
   },
   {
     "type": "Drawing",

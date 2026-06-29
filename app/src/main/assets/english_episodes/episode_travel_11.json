@@ -93,7 +93,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Journey.",
-    "simpleRule": "Remember: Journey means सफ़र​​​​​​​​ (Chuyến đi)."
+    "simpleRule": "Remember: Journey means सफ़र (Chuyến đi)."
   },
   {
     "type": "Flashcard",
@@ -155,7 +155,7 @@
     "pairs": [
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Car / Train / Cart",
@@ -241,7 +241,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Train station",
@@ -303,8 +303,8 @@
     "options": [
       "Journey",
       "Ticket",
-      "Journey",
-      "Journey"
+      "Carefree / Cool",
+      "Cái này giá bao nhiêu?"
     ],
     "options_vi": [
       "Chuyến đi",
@@ -324,14 +324,6 @@
       {
         "hindi": "Ticket",
         "english": "टिकट (Vé)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​ (Chuyến đi)"
       }
     ]
   },

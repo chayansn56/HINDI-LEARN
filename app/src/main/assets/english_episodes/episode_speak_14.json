@@ -58,7 +58,7 @@
       "Friend",
       "Notebook",
       "How much is it?",
-      "Notebook"
+      "Kiến thức"
     ],
     "options_vi": [
       "Bạn bè",
@@ -77,15 +77,11 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "How much is it?",
         "english": "कितना हुआ? (Bao nhiêu tiền?)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​ (Sổ tay)"
       }
     ]
   },
@@ -163,11 +159,11 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -222,7 +218,7 @@
       "To act pricey / show attitude",
       "Notebook",
       "No doubt.",
-      "Notebook"
+      "Vâng / Có"
     ],
     "options_vi": [
       "Làm kiêu / Tỏ vẻ",
@@ -241,15 +237,11 @@
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       },
       {
         "hindi": "No doubt.",
         "english": "कोई शक नहीं। (Không còn nghi ngờ gì nữa.)"
-      },
-      {
-        "hindi": "Notebook",
-        "english": "कापी​​​​​​​​​​ (Sổ tay)"
       }
     ]
   },
@@ -342,9 +334,9 @@
     "translation_vi": "Bạn bè",
     "options_en": [
       "मित्र",
-      "कापी​​​​​​",
+      "कापी",
       "कितना हुआ?",
-      "कापी​"
+      "कापी"
     ],
     "options_vi": [
       "Bạn bè",

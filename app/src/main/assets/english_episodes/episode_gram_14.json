@@ -57,8 +57,8 @@
     "options": [
       "Just then / That is why",
       "Snow / Ice",
-      "Snow / Ice",
-      "Now"
+      "Now",
+      "Xin lỗi cho tôi hỏi"
     ],
     "options_vi": [
       "Ngay lúc đó / Chính vì vậy",
@@ -77,11 +77,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "Now",
@@ -93,7 +89,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set B",
     "explanation": "Understand the usage and roots of: Snow / Ice.",
-    "simpleRule": "Remember: Snow / Ice means बर्फ़​​​​​​​ (Tuyết / Đá)."
+    "simpleRule": "Remember: Snow / Ice means बर्फ़ (Tuyết / Đá)."
   },
   {
     "type": "Flashcard",
@@ -139,8 +135,8 @@
     "options": [
       "Snow / Ice",
       "To do a U-turn / go back on word",
-      "Snow / Ice",
-      "Snow / Ice"
+      "I don't understand",
+      "I don't know"
     ],
     "options_vi": [
       "Tuyết / Đá",
@@ -155,19 +151,11 @@
     "pairs": [
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       },
       {
         "hindi": "To do a U-turn / go back on word",
         "english": "पलटी मारना (Lật lọng / Nuốt lời)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​ (Tuyết / Đá)"
       }
     ]
   },
@@ -222,7 +210,7 @@
       "Right now",
       "after (time)",
       "Snow / Ice",
-      "Snow / Ice"
+      "How much does it cost?"
     ],
     "options_vi": [
       "Ngay bây giờ",
@@ -245,11 +233,7 @@
       },
       {
         "hindi": "Snow / Ice",
-        "english": "बर्फ़​ (Tuyết / Đá)"
-      },
-      {
-        "hindi": "Snow / Ice",
-        "english": "बर्फ़​​​​​​​​​ (Tuyết / Đá)"
+        "english": "बर्फ़ (Tuyết / Đá)"
       }
     ]
   },
@@ -342,8 +326,8 @@
     "translation_vi": "Ngay lúc đó / Chính vì vậy",
     "options_en": [
       "तभी",
-      "बर्फ़​​​​",
-      "बर्फ़​​​​​",
+      "बर्फ़",
+      "बर्फ़",
       "अब"
     ],
     "options_vi": [

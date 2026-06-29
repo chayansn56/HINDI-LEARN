@@ -139,8 +139,8 @@
     "options": [
       "Ticket",
       "Journey",
-      "Journey",
-      "Journey"
+      "Bản đồ",
+      "Đoàn rước dâu nhà trai"
     ],
     "options_vi": [
       "Vé",
@@ -159,15 +159,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       }
     ]
   },
@@ -221,8 +213,8 @@
     "options": [
       "Where is the station?",
       "Journey",
-      "Journey",
-      "Bus stop"
+      "Bus stop",
+      "Nhà ga ở đâu?"
     ],
     "options_vi": [
       "Nhà ga ở đâu?",
@@ -241,11 +233,7 @@
       },
       {
         "hindi": "Journey",
-        "english": "सफ़र​​​​​​ (Chuyến đi)"
-      },
-      {
-        "hindi": "Journey",
-        "english": "सफ़र​​​​​​​ (Chuyến đi)"
+        "english": "सफ़र (Chuyến đi)"
       },
       {
         "hindi": "Bus stop",

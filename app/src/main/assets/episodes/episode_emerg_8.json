@@ -39,11 +39,11 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​"
+    "audio": "आग"
   },
   {
     "type": "MultipleChoice",
@@ -84,7 +84,7 @@
         "english": "Hospital (Bệnh viện)"
       },
       {
-        "hindi": "आग​​​​​",
+        "hindi": "आग",
         "english": "Fire (Lửa)"
       }
     ]
@@ -105,19 +105,19 @@
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
-    "hindi": "आग​​​​​​",
+    "hindi": "आग",
     "transliteration": "āg",
     "english": "Fire",
     "vietnamese": "Lửa",
-    "audio": "आग​​​​​​"
+    "audio": "आग"
   },
   {
     "type": "Flashcard",
@@ -139,8 +139,8 @@
     "options": [
       "Help me!",
       "Fire",
-      "Fire",
-      "Fire"
+      "आग",
+      "डॉक्टर"
     ],
     "options_vi": [
       "Giúp tôi với!",
@@ -156,14 +156,6 @@
       {
         "hindi": "मदद कीजिए!",
         "english": "Help me! (Giúp tôi với!)"
-      },
-      {
-        "hindi": "आग​​​",
-        "english": "Fire (Lửa)"
-      },
-      {
-        "hindi": "आग​​​​​​",
-        "english": "Fire (Lửa)"
       },
       {
         "hindi": "आग",

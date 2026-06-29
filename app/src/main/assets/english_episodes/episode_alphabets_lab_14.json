@@ -77,7 +77,7 @@
       },
       {
         "hindi": "To buy",
-        "english": "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Mua)"
+        "english": "खरीदना (Mua)"
       },
       {
         "hindi": "When (relative)",
@@ -159,15 +159,15 @@
       },
       {
         "hindi": "To laugh",
-        "english": "हँसना​​​​​​​​​​ (Cười lớn)"
+        "english": "हँसना (Cười lớn)"
       },
       {
         "hindi": "To play",
-        "english": "खेलना​​​​​​​​​​​​​ (Chơi)"
+        "english": "खेलना (Chơi)"
       },
       {
         "hindi": "Notebook",
-        "english": "कापी​​​​ (Sổ tay)"
+        "english": "कापी (Sổ tay)"
       }
     ]
   },
@@ -175,7 +175,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set C",
     "explanation": "Understand the usage and roots of: Sea / Ocean.",
-    "simpleRule": "Remember: Sea / Ocean means समुद्र​​​ (Biển)."
+    "simpleRule": "Remember: Sea / Ocean means समुद्र (Biển)."
   },
   {
     "type": "Flashcard",
@@ -237,7 +237,7 @@
     "pairs": [
       {
         "hindi": "Sea / Ocean",
-        "english": "समुद्र​​​ (Biển)"
+        "english": "समुद्र (Biển)"
       },
       {
         "hindi": "To clean",
@@ -245,11 +245,11 @@
       },
       {
         "hindi": "To stand",
-        "english": "खड़े होना​​​​​​​​​​​​​​​​​​​​​​​​​​ (Đứng)"
+        "english": "खड़े होना (Đứng)"
       },
       {
         "hindi": "To take",
-        "english": "लेना​​​​​​​​​​​​​​​ (Lấy / Nhận)"
+        "english": "लेना (Lấy / Nhận)"
       }
     ]
   },
@@ -257,7 +257,7 @@
     "type": "TeachRule",
     "title": "Grammar & Vocabulary - Set D",
     "explanation": "Understand the usage and roots of: To speak.",
-    "simpleRule": "Remember: To speak means बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)."
+    "simpleRule": "Remember: To speak means बोलना (Nói)."
   },
   {
     "type": "Flashcard",
@@ -302,9 +302,9 @@
     "answer_vi": "Nói",
     "options": [
       "To speak",
-      "To speak",
       "To close",
-      "Your (feminine formal)"
+      "Your (feminine formal)",
+      "Please speak slowly."
     ],
     "options_vi": [
       "Nói",
@@ -319,15 +319,11 @@
     "pairs": [
       {
         "hindi": "To speak",
-        "english": "बोलना​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ (Nói)"
-      },
-      {
-        "hindi": "To speak",
-        "english": "बोलना​​ (Nói)"
+        "english": "बोलना (Nói)"
       },
       {
         "hindi": "To close",
-        "english": "बंद करना​​​​​​​​​​​ (Đóng)"
+        "english": "बंद करना (Đóng)"
       },
       {
         "hindi": "Your (feminine formal)",
@@ -342,7 +338,7 @@
     "translation_vi": "Có thể",
     "options_en": [
       "सकता है",
-      "खरीदना​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "खरीदना",
       "जब",
       "कृपया धीरे बोलिए।"
     ],
